@@ -1,0 +1,17 @@
+{
+  "name": "ingredients-scraping",
+  "version": "1.0.0",
+  "dependencies": {
+    "x-ray": "^2.0.2"
+  },
+  "scripts": {
+    "start": "npm run scrap && npm run build",
+    "scrap": "babel-node scraping.js",
+    "build": "babel-node build.js"
+  },
+  "author": "Marco Lanaro",
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
