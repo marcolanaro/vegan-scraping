@@ -1,0 +1,18 @@
+{
+  "title": "La Rouge Bistro",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Italian, Organic, Raw, Beer/Wine, Bakery\n                                    ",
+  "description": "Vegan restaurant serves raw lasagnas, truffles, cakes and more. Mostly organic. Wi-fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ave Mariland 1587",
+  "postalCode": "90440191",
+  "phone": "tel:+55-5130197638",
+  "venueHours": "\n                                                                                                        Tue-Fri 12:00pm-3:00pm, Wed-Fri 7:30pm-10:30pm, Sat-Sun 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/larougebistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-30.028515,-51.193058&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-30.028515,-51.193058&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

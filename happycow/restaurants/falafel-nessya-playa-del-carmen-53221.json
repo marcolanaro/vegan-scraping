@@ -1,0 +1,15 @@
+{
+  "title": "Falafel Nessya",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Middle Eastern\n                                    ",
+  "description": "Small falafel kitchen with a few tables.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle 4 Norte entre 10 y 15 Ave Norte",
+  "postalCode": "77710",
+  "phone": "tel:+52-1-9841876491",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 12:00pm-10:00pm, Fri 12:00pm-6:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.625001,-87.075497&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.625001,-87.075497&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

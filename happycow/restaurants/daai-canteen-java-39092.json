@@ -1,0 +1,17 @@
+{
+  "title": "DAAI Canteen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Take-out, Indonesian\n                                    ",
+  "description": "Simple canteen place.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blok A, lantai 1, City Park Rusunami, Jakarta",
+  "phone": "tel:081929647848",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.131445,106.735377&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.131445,106.735377&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

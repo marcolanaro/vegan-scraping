@@ -1,0 +1,18 @@
+{
+  "title": "Mercado Verde",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, Western, Juice bar, Take-out\n                                    ",
+  "description": "Health food market and cafe. Menu features raw as well cooked vegan items, from salads, vegan alfajores (a Uruguayan treat), and sandwich made with cashew cheese and vegetable mashes to sweet energy balls (contain honey).",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle 24",
+  "phone": "tel:42447165",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/MercadoVerdeUY",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.961813,-54.941524&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.961813,-54.941524&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Ristorante Rusticana",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, International, Beer/Wine, Take-out\n                                    ",
+  "description": "No smoking. Please send HappyCow some details!",
+  "priceRange": "Moderate",
+  "streetAddress": "Sokolská 23",
+  "postalCode": "702 00",
+  "phone": "tel:+420732268940",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.838320,18.292560&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.838320,18.292560&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Hello Burger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Burger restaurant with a few outlets. Lists 3 vegetarian burger choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kompleks Changlun, Pekan Changlun",
+  "postalCode": "06010",
+  "phone": "tel:016-4861520",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/helloburger",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.427201,100.432632&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.427201,100.432632&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

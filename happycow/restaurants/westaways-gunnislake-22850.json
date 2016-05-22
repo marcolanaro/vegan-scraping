@@ -1,0 +1,13 @@
+{
+  "title": "Westaways",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Vegetarian B&B offering supper by arrangement. See website for details.",
+  "streetAddress": "Latchley",
+  "phone": "tel:01822833745",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.523168,-4.225985&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.523168,-4.225985&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

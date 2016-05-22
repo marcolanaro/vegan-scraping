@@ -1,0 +1,15 @@
+{
+  "title": "Parxian Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Malaysian\n                                    ",
+  "description": "八仙素食 serves rice, noodle, and vegetable dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "18, Jalan Mangga 2, Taman Kota Jaya",
+  "postalCode": "81900",
+  "phone": "tel:07-8834070",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:00am-2:00pm, Sun 6:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.735987,103.891653&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.735987,103.891653&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

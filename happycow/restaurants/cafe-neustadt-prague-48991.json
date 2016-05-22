@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Neustadt",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Western, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee bar and cafe by the new town hall next to the Charles Square. Offers daily veggie choices. Each day a soup plus sandwiches, cakes, quiche. Hosts music and evennts.",
+  "priceRange": "Moderate",
+  "streetAddress": "Karlovo Náměstí 1/23",
+  "postalCode": "12000",
+  "phone": "tel:602622948",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-12:00am, Sat 10:00am-12:00am, Sun 2:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/cafeneustadt",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.077690,14.421234&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.077690,14.421234&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

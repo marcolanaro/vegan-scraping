@@ -1,0 +1,14 @@
+{
+  "title": "Ananda Restaurante Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo\n                                    ",
+  "description": "Ananda is a vegetarian cafe inside a yoga studio which offers a variety of inexpensive meals.",
+  "priceRange": "Moderate",
+  "streetAddress": "Casimiro de Moya 7, Gazcue",
+  "phone": "tel:809-476-7341",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, Thu 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.479010,-69.890780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.479010,-69.890780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

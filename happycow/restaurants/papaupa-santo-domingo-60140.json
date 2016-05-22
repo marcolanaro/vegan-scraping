@@ -1,0 +1,18 @@
+{
+  "title": "Papaupa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Take-out, Caribbean, Fusion\n                                    ",
+  "description": "Cocina vegetariana specializing in fusion cuisine.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle Guarocuya esquina Carmen Mendoza de Cornielle",
+  "phone": "tel:8095404098",
+  "venueHours": "\n                                                                                                        Tue-Thu 5:00pm-10:30pm, Fri 5:00pm-11:00pm, Sat 12:00pm-11:00pm, Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/papaupadelamatica",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.461709,-69.951287&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.461709,-69.951287&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

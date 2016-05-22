@@ -1,0 +1,18 @@
+{
+  "title": "Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese\n                                    ",
+  "description": "Specialize in bamboo food and food cooked in bamboo. Chinese name 庆膳竹宴 address 官南路，玫瑰湾商业区3栋.",
+  "priceRange": "Moderate",
+  "streetAddress": "GuanNan Road",
+  "postalCode": "650200",
+  "phone": "tel:8362800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.966220,102.743150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.966220,102.743150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

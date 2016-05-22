@@ -1,0 +1,17 @@
+{
+  "title": "Jeeva Restaurante",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian\n                                    ",
+  "description": "Vegetarian Indian kitchen making south and north Indian food, Monday to Friday. At least one day reservation for minimum 7 persons required.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Galvan, Aazcue",
+  "postalCode": "809",
+  "phone": "tel:+18096857432",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.464697,-69.901588&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.464697,-69.901588&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

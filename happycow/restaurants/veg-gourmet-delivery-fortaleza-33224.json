@@ -1,0 +1,15 @@
+{
+  "title": "Veg Gourmet Delivery",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Delivers vegan lunch in Fortaleza. Order at least 1 day in advance - see website details.",
+  "streetAddress": "Fortaleza area",
+  "phone": "tel:8532120282",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Veg.gourmet.delivery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-3.729701,-38.536419&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-3.729701,-38.536419&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

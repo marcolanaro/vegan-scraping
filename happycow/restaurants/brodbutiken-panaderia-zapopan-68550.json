@@ -1,0 +1,17 @@
+{
+  "title": "Brodbutiken Panaderia",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "An artisan all-vegan bakery offering baked bread with organic wheat flour. Rich and Mexican recipes. Sweet bread, table and loaves.",
+  "streetAddress": "Montemorelos 50 A",
+  "postalCode": "45087",
+  "phone": "tel:33-36314750",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-8:30pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ brodbutiken",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.635748,-103.408863&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.635748,-103.408863&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

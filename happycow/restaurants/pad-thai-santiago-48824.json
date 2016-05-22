@@ -1,0 +1,17 @@
+{
+  "title": "Pad Thai",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Busy Thai food restaurant located 150m south of Metro Manuel Montt. Nice atmosphere. Many dishes can be made vegan or vegetarian.",
+  "priceRange": "Moderate",
+  "streetAddress": "Manuel Montt 231, Providencia",
+  "phone": "tel:+56-222641957",
+  "venueHours": "\n                                                                                                        Mon-Sat 5:30pm-12:00am, Tue-Sun 1:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.430674,-70.619096&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.430674,-70.619096&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

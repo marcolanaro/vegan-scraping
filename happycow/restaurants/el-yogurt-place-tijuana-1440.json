@@ -1,0 +1,18 @@
+{
+  "title": "El Yogurt Place",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant with a small retiail section selling health foods and supplements. Offers a house-made sunflower seed veggie burger, a vegetarian sandwich, mushroom burritos, and prickly-pear cactus (nopal) salad can be ordered vegan by omitting cheese. Vegans to specify no cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle Cantera 360 Seccion Terrazas de Mendoza, Playas de Tijuana",
+  "postalCode": "22200",
+  "phone": "tel:6646802006",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ElYogurtPlace",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.516456,-116.904285&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.516456,-116.904285&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

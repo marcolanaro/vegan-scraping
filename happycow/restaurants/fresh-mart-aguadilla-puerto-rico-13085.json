@@ -1,0 +1,13 @@
+{
+  "title": "Fresh Mart - Aguadilla",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store with a cafe.",
+  "streetAddress": "Plaza Victoria, Carr. 2 KM 129.5",
+  "postalCode": "00603",
+  "phone": "tel:787-882-7800",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-7:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.448850,-67.112850&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.448850,-67.112850&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

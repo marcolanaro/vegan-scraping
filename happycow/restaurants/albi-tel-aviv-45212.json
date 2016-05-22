@@ -1,0 +1,18 @@
+{
+  "title": "Albi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Israeli\n                                    ",
+  "description": "Albi is Arabic for 'my heart.' Alternative, activist vegetarian cafe in colorful south Tel Aviv, accepting of people of all persuasions. A small menu of vegetarian breakfasts, salads, and sandwiches is offered that staff is happy to veganize on request. Selection of vegan cakes and cookies, and soy milk is available for coffee. Comfortable atmosphere.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8 HaGdud Haivri Street",
+  "phone": "tel:03-546-6065",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-12:00am, Sat 9:00am-12:00am, Sun 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.060252,34.775247&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.060252,34.775247&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

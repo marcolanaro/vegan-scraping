@@ -1,0 +1,16 @@
+{
+  "title": "Lunar Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Khmer\n                                    ",
+  "description": "This vegetarian cafe serves both Khmer and Western food with many vegan options. Has some mock meat dishes. Extensive beverage menu. Has air con. Pleasant cafe ambiance with free Wi-Fi. Dishes range from $1-2.",
+  "priceRange": "Moderate",
+  "streetAddress": "30, Street 430",
+  "phone": "tel:0975468005",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.530771,104.915055&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.530771,104.915055&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

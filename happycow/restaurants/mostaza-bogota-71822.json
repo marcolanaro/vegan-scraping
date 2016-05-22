@@ -1,0 +1,16 @@
+{
+  "title": "Mostaza",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        American, International, Raw, Mediterranean, Delivery, Take-out, Spanish, Colombian\n                                    ",
+  "description": "A vegetarian restaurant serving a daily menu, of which some items are vegan or can be made vegan; please inquire. Located in a residential neighborhood in the north part of the city. A nice atmosphere, good music and an easy access from Boyaca Avenue.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Cra 62 No 161A - 07, Barrio Gilmar",
+  "phone": "tel:3107995061",
+  "venueHours": "\n                                                                                                        Tue-Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.744926,-74.063331&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.744926,-74.063331&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

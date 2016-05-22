@@ -1,0 +1,20 @@
+{
+  "title": "Panem Bakery and Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Mexican, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Open October 2014 near UDEM. Bakery offering a menu with many vegan and vegetarian suitable breads and food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Av. Alfonso Reyes s/n Plaza Nativa, Local 34, 35, 36",
+  "postalCode": "66238",
+  "phone": "tel:8116832998",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-8:00pm, Fri-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/panem.bakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.659708,-100.415933&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.659708,-100.415933&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Nova Vida",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Buffet, Salad bar\n                                    ",
+  "description": "Restaurant, health food store, and bakery. Sells some organic vegetables.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rua Demetrio Ribeiro, 1182, Centro, RS",
+  "phone": "tel:51-3226-8876",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-30.035660,-51.233710&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-30.035660,-51.233710&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

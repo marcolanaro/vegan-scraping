@@ -1,0 +1,16 @@
+{
+  "title": "Mette Marie's Kitchen",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "A cozy vegetarian bakery with vegan options. Everything is organic and gluten-free. Located beside the train station.",
+  "streetAddress": "Stationsvej 2",
+  "postalCode": "3480",
+  "phone": "tel:60550003",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 10:00am-2:00pm, Thu-Fri 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/mettemarieskitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.977243,12.406927&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.977243,12.406927&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

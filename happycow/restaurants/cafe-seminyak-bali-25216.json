@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Seminyak",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Juice bar, Beer/Wine, Take-out, Asian, Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic salads, vegetarian curries (Thai, Indian, Indonesian), sandwiches served with black rice breads, veggie east Asian and western food, gado gado Indonesia vegetable salad, garlic roasted potatoes with organic salad, pad Thai, tofu, tempeh with sambal, breakfast fruit juices, wheat grass, cakes and breads. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "17 Jl Raya Seminyak, Seminyak",
+  "postalCode": "80361",
+  "phone": "tel:62361736967",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.694083,115.168095&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.694083,115.168095&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

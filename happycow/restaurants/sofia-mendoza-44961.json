@@ -1,0 +1,17 @@
+{
+  "title": "Sofia",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Western, Buffet, Salad bar, Take-out\n                                    ",
+  "description": "Vegetarian buffet where you per for food by kilo; mostly for take away. Has pastas like cannelloni, eggplant lasagna, gnocchi, plus brown rice, Asian style noodles, empanadas filled with corn, pumpkin, spinach, and textured soy. Large salad bar. Informal seating area.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Av Colon 263",
+  "postalCode": "5500",
+  "phone": "tel:02614238435",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-32.894336,-68.843898&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-32.894336,-68.843898&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Clorofila",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Delivery, Take-out, Colombian\n                                    ",
+  "description": "Vegetarian food restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle 93, 42H - 60",
+  "postalCode": "0957",
+  "phone": "tel:3590315",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.001199,-74.828478&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.001199,-74.828478&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

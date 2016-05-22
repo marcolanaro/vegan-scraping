@@ -1,0 +1,17 @@
+{
+  "title": "KoB Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic\n                                    ",
+  "description": "A 100% vegetarian and vegan restaurant that offers an alternative space for arts and other cultural activities.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "De la Universidad Nacional 100 metros Norte y 50 metros Este, Ultimo local de la derecha en Casa Azul",
+  "phone": "tel:87454819",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/KoBcafeCR",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.001037,-84.111988&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.001037,-84.111988&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

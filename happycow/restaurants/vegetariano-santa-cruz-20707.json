@@ -1,0 +1,16 @@
+{
+  "title": "Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Salad bar, Bolivian\n                                    ",
+  "description": "Set lunch menu including salad bar, soup, and main dish for 15 bolivianos. Juice is extra. Location is near the center, easy walk from main plaza.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ayacucho 444",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-17.783871,-63.183684&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-17.783871,-63.183684&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Turtle",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Indian, International, Italian, Juice bar, Take-out\n                                    ",
+  "description": "Cosmopolitan café on the top floor of Full Circle bookstore, popular with local literati and expats. Menu offers a mix of Indian, Italian, Middle Eastern, and Mexican dishes, plus desserts, coffee, and fresh juices. Some lacto-vegetarian choices, a few vegan ones (not marked but servers can tell you which are). The entrance is in the middle alley, near Fabindia.",
+  "priceRange": "Expensive",
+  "streetAddress": "23, Khan Market",
+  "postalCode": "110003",
+  "phone": "tel:+91-1124655641",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/fullcirclebooks",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.600132,77.227309&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.600132,77.227309&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

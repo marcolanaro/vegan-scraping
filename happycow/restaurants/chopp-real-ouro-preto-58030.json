@@ -1,0 +1,18 @@
+{
+  "title": "Chopp Real",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Beer/Wine, Brazilian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. In Minas Gerais this restaurant offers vegetarian choices, including a dish with soy.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua Barão Camargos, 08",
+  "phone": "tel:+55-3135511584",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-20.383469,-43.503355&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-20.383469,-43.503355&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Govindas",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        International, Colombian\n                                    ",
+  "description": "A small street-level entry leads upstairs to several small, pleasant dining rooms. Location is in the center of town.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Carrera 23, 25-21",
+  "phone": "tel:8832225",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.062153,-75.495621&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.062153,-75.495621&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

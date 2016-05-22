@@ -1,0 +1,14 @@
+{
+  "title": "Natura",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Juice bar\n                                    ",
+  "description": "A small health food and vitamin store with a small cafe in the back.",
+  "priceRange": "Moderate",
+  "streetAddress": "Andador Vergara 7",
+  "phone": "tel:2141088",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.592052,-110.390274&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.592052,-110.390274&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

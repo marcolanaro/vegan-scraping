@@ -1,0 +1,16 @@
+{
+  "title": "Qadosh",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Western, Peruvian\n                                    ",
+  "description": "Offers a set menu for entrada and segundo (i.e. tamlitos or salad, then spaghetti or veggie tortilla or other main entree with fake meat). Has granola. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1102 Av. Cuba",
+  "phone": "tel:433-8624",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-9:00pm, Sat 8:00am-6:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-12.074989,-77.046170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-12.074989,-77.046170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

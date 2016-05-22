@@ -1,0 +1,17 @@
+{
+  "title": "Mood Food Energy Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, International, Organic, Raw, Western, Juice bar, Take-out\n                                    ",
+  "description": "Western-style health food restaurant. Offers a large menu of juices, smoothies, and lassi; has wheatgrass and also Chinese tea. Comfortable atmosphere with different seating areas, Wi-Fi access. Hosts daily yoga, qi gong, and meditation.",
+  "priceRange": "Expensive",
+  "streetAddress": "8 Furong Rd",
+  "phone": "tel:07738825199",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.777949,110.494885&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.777949,110.494885&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

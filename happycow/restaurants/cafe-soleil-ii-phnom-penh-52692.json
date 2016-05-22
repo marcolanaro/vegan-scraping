@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Soleil II",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Beer/Wine, Take-out, Cambodian, Khmer\n                                    ",
+  "description": "Its 2nd cafe serving coffee, smoothies, and vegetarian food. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "66Eo, 440 Street, Toul Tompong 1",
+  "postalCode": "855",
+  "phone": "tel:85512390270",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.540995,104.915839&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.540995,104.915839&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

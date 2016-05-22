@@ -1,0 +1,16 @@
+{
+  "title": "Panelinha Saudavel",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Gluten-free bakery making goods without gluten or milk. Has a few vegan options.",
+  "streetAddress": "Rua Parnaíba, 39",
+  "phone": "tel:4535782336",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:30am-6:30pm, Sat 8:30am-12:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/blogpanelinhasaudavel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-25.533193,-54.553575&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-25.533193,-54.553575&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

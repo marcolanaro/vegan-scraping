@@ -1,0 +1,17 @@
+{
+  "title": "The Ganga Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Indian, Organic, Juice bar, Take-out\n                                    ",
+  "description": "Vegetarian restaurant, previously known as Prem Ki Ganga Cafe and Deli. Uses vegetables from its own farm. South Indian vegetarian cuisine with Gujarati flavors and Malaysian local fare.",
+  "priceRange": "Moderate",
+  "streetAddress": "19 Lorong Kurau",
+  "postalCode": "59100",
+  "phone": "tel:60322842119",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 8:30am-9:30pm, Sun 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.122695,101.670721&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.122695,101.670721&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

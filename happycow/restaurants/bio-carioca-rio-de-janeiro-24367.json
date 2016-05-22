@@ -1,0 +1,20 @@
+{
+  "title": "Bio Carioca",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Pizza, Organic, Western, Juice bar, Beer/Wine, Delivery, Brazilian\n                                    ",
+  "description": "Natural food restaurant offering vegetarian, vegan, and gluten free food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua Xavier da Silveira, 28",
+  "postalCode": "22060010",
+  "phone": "tel:+55-2122364125",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/biocarioca",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-22.976985,-43.189820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-22.976985,-43.189820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Restaurante Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mexican\n                                    ",
+  "description": "Vegetarian restaurant, opened in 1993, serves a set menu which consists of one drink, bread or tortilla, soup, fruit or green salad, and dessert, in addition to several choices of Mexican main dishes. Has plenty of vegan options. As of August 2014, staff only speaks Spanish.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle Articulo 123, No 40, Dept 5, Primero Piso",
+  "phone": "tel:+52-5555121470",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 1:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.432302,-99.143443&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.432302,-99.143443&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Refill",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Indian, International\n                                    ",
+  "description": "A vegetarian world street food restaurant serving a multitude of cuisines, with a fusion twist, from vada pav of Mumbai to the waffles of Belgium. Has plenty of vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "25, Kalyan Colony, Opposite Gaurav Tower, Malviya Nagar",
+  "postalCode": "302017",
+  "phone": "tel:0141-4020678",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.834100,75.800316&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.834100,75.800316&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

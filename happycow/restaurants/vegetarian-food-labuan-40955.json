@@ -1,0 +1,14 @@
+{
+  "title": "Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "Outdoor food court next to Dorsett Hotel.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Medan Selera, Labuan Town",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.291322,115.245909&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.291322,115.245909&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

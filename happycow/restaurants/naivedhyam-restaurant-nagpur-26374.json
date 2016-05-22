@@ -1,0 +1,17 @@
+{
+  "title": "Naivedhyam Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Chinese, Indian, International, Italian, Thai, Take-out\n                                    ",
+  "description": "Nagpur's oldest vegetarian restaurant, with a choice of Mughlai, Chinese and Continental cuisine.",
+  "priceRange": "Moderate",
+  "streetAddress": "198-200 Jhansi Rani Square",
+  "postalCode": "440010",
+  "phone": "tel:2534180",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.156398,79.088988&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.156398,79.088988&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

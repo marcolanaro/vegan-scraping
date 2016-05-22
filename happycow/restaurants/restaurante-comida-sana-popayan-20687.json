@@ -1,0 +1,14 @@
+{
+  "title": "Restaurante Comida Sana",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Colombian\n                                    ",
+  "description": "Moved here in 2015 a few meters away from Calle 3, No. 6-70. Offers a range of dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Carrera 8 no. 3-18",
+  "phone": "tel:3004489905",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.443480,-76.607212&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.443480,-76.607212&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

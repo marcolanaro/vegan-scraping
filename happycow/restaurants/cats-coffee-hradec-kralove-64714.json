@@ -1,0 +1,18 @@
+{
+  "title": "Cats & Coffee",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out, Bakery\n                                    ",
+  "description": "A 100% vegan cafe/coffee shop where your cats are welcome inside. Located in city center. Serves cakes, soy milk, salty bakery/sandwiches. ",
+  "streetAddress": "Pospisilova 395/1",
+  "postalCode": "500 03",
+  "phone": "tel:+420-776755224",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-7:00pm, Sat 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/catsandcoffeehradec",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.211654,15.837999&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.211654,15.837999&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

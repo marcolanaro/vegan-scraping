@@ -1,0 +1,18 @@
+{
+  "title": "Utsav",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Catering\n                                    ",
+  "description": "Vegetarian food, music, and kids games. Has valet parking.",
+  "priceRange": "Expensive",
+  "streetAddress": "221, Tivoli Road",
+  "postalCode": "500003",
+  "phone": "tel:040-26263646",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.448290,78.492921&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.448290,78.492921&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

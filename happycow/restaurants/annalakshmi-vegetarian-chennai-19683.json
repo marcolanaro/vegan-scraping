@@ -1,0 +1,19 @@
+{
+  "title": "Annalakshmi Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Indian, Buffet, Delivery, Take-out\n                                    ",
+  "description": "Serves vegetarian Indian food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Elliots Beach, Beach Castle, Planet Yumm",
+  "postalCode": "600090",
+  "phone": "tel:91-44-24465255/,%209677014314",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.060416,80.249634&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.060416,80.249634&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

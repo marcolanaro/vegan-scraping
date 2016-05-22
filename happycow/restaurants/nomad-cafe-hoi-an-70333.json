@@ -1,0 +1,18 @@
+{
+  "title": "Nomad Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Raw, Western\n                                    ",
+  "description": "Cafe downstairs from Nomad Yoga Studio serving international vegetarian food using fresh local produce. Has juices, tea, and coffee. Can modified dishes to suit vegans.",
+  "priceRange": "Moderate",
+  "streetAddress": "06 Le Hong Phong",
+  "postalCode": "Quang Nam",
+  "phone": "tel:01227184604",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.894866,108.327476&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.894866,108.327476&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

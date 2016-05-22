@@ -1,0 +1,16 @@
+{
+  "title": "El Bambu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Fast food, Take-out, Taiwanese, Argentinian, Latin American\n                                    ",
+  "description": "Small restaurant with buffet at counter display, some dishes priced by weight others by piece. Does not use egg. Run by a Taiwanese family that speaks both English and Spanish. Has empanadas, grilled vegetables, noodles, rice dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Piedrabuena 276",
+  "phone": "tel:2901437028",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-54.807223,-68.314206&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-54.807223,-68.314206&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

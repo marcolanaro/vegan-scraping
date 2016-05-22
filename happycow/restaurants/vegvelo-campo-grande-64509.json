@@ -1,0 +1,15 @@
+{
+  "title": "VegVelo",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Fast food, Delivery, Take-out, Brazilian\n                                    ",
+  "description": "Vegan restaurant offering weekly changing dishes, with different flavors of burgers. Delivers by bike.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua Spipe Calarge, 1612",
+  "phone": "tel:9637784",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/vegvelo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-20.495155,-54.597995&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-20.495155,-54.597995&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Sabor Indiano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Buffet, Salad bar, Brazilian\n                                    ",
+  "description": "Self service style Indian food restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": " Rua Ratisbona, 421, Crato, Ceara",
+  "phone": "tel:88-996264050",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/SaborIndianoRestaurante",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-7.234942,-39.409588&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-7.234942,-39.409588&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

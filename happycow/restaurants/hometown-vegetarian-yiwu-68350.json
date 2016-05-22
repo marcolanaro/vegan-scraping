@@ -1,0 +1,16 @@
+{
+  "title": "Hometown Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese\n                                    ",
+  "description": "Vegetarian restaurant in a nice space. Note: Please send correct map coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Worker Rd",
+  "phone": "tel:57985567019",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.304848,120.072479&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.304848,120.072479&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

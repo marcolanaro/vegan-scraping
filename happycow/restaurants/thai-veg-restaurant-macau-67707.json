@@ -1,0 +1,16 @@
+{
+  "title": "Thai Veg Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai\n                                    ",
+  "description": "Veg place with Wi-Fi, opened 2015 at 澳门半岛荷兰园二马路27号E.",
+  "priceRange": "Moderate",
+  "streetAddress": "27 Rua de Abreu Nunes",
+  "phone": "tel:853-28523219",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.197075,113.546229&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.197075,113.546229&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

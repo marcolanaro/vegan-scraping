@@ -1,0 +1,19 @@
+{
+  "title": "Vgan Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Western, Take-out\n                                    ",
+  "description": "素林 opened in Dec 2015. On the menu are cheese baked rice, vgan chop rice, thunder rice, bak kut teh, sambal mutton curry rice. Has vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "80 Changi Rd, Centropod Unit 01-17/18",
+  "postalCode": "419715",
+  "phone": "tel:98554720",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Vgancafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.316446,103.900467&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.316446,103.900467&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

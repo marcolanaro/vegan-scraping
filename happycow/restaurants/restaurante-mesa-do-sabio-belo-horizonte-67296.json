@@ -1,0 +1,17 @@
+{
+  "title": "Restaurante Mesa do Sabio",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Buffet, Taiwanese\n                                    ",
+  "description": "A vegetarian Taiwanese pay-by-kilo buffet with vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua Campos Sales, 665",
+  "phone": "tel:31-33713941",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/restaurantemesadosabio",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-19.928031,-43.979496&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-19.928031,-43.979496&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

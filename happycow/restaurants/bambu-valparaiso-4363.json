@@ -1,0 +1,16 @@
+{
+  "title": "Bambu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        International, Chilean\n                                    ",
+  "description": "Long time operating vegetarian restaurant serving a variety of food such as pizza, pasta, salad, Chilean food, juices, and desserts. Around 1600 pesos for the lunch of the day. Serves only drinks and snacks after lunch service. Menu in English, French, and Spanish.",
+  "priceRange": "Moderate",
+  "streetAddress": "Independencia 1790, Valparaíso",
+  "phone": "tel:56-32-234216",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.047180,-71.618490&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.047180,-71.618490&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

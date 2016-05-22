@@ -1,0 +1,18 @@
+{
+  "title": "Vegan House",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Fast food, Take-out, Mexican, Bakery\n                                    ",
+  "description": "A 100% vegan take-out only restaurant serving black bean and soy burgers and baked goods. Open only on Saturdays.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calzada De Las Americas 3996 Lomas del Sol",
+  "postalCode": "80016",
+  "phone": "tel:6671014620",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VeganHouseCuliacan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.844337,-107.384937&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.844337,-107.384937&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

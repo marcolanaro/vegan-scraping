@@ -1,0 +1,17 @@
+{
+  "title": "Circles Cafe and Hostel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, Take-out\n                                    ",
+  "description": "Veggie cafe attached to hostel. Serves breakfast, sandwiches, and cakes. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Centro, San Marcos La Laguna, Lake Atitlan",
+  "phone": "tel:33278961",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:00am-5:00pm, Thu-Sat 8:00am-9:00pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.724034,-91.259124&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.724034,-91.259124&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

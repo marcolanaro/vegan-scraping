@@ -1,0 +1,16 @@
+{
+  "title": "Yummy Vegan Ice Cream and Vegetarian Food",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Caribbean\n                                    ",
+  "description": "A roadside shack run by Rastafarians, located on main road at the junction signposted as \"The Captains Quarters\" and \"Catamaran\" restaurant and hotel.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Main Road",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.025026,-61.780329&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.025026,-61.780329&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

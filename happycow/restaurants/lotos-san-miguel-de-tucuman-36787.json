@@ -1,0 +1,15 @@
+{
+  "title": "Lotos",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, International, Buffet, Take-out\n                                    ",
+  "description": "An all-you-can-eat vegetarian buffet with vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Buenos Aires 294",
+  "postalCode": "4000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.834606,-65.207096&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.834606,-65.207096&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

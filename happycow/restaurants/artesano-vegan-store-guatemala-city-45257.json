@@ -1,0 +1,18 @@
+{
+  "title": "Artesano",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Fast food, Take-out\n                                    ",
+  "description": "Vegan store offering a small food menu of wraps, burgers, and salads. Products sold include bread, granola, seeds, and veggie food products like patties and nuggets.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "13 Calle 2-75. Zona 10",
+  "phone": "tel:502-30253405",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ProductosArtesano",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.599165,-90.512792&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.599165,-90.512792&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

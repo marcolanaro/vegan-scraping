@@ -1,0 +1,16 @@
+{
+  "title": "Flor de Loto",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Colombian\n                                    ",
+  "description": "A simple vegetarian restaurant in the historic center of Pereira with around 10 tables. Lunch service plus snack foods.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle 22 #5-64",
+  "phone": "tel:3255186",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.816136,-75.696580&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.816136,-75.696580&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

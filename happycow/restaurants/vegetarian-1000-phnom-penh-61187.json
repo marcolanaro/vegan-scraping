@@ -1,0 +1,16 @@
+{
+  "title": "Vegetarian 1000",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Cambodian\n                                    ",
+  "description": "Local restaurant on street 51. No English menu. Some items are vegan but not all.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1000, Pasteur (St 51)",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-9:30am, 10:00am-2:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.561959,104.924504&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.561959,104.924504&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

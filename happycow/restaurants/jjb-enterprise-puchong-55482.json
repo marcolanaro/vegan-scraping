@@ -1,0 +1,15 @@
+{
+  "title": "JJB Enterprise",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Shop selling vegetarian cooking supplies like faux meat and organic rice.",
+  "streetAddress": "7, Jln Usj20/9",
+  "postalCode": "47360",
+  "phone": "tel:0123723969",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.030175,101.585486&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.030175,101.585486&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

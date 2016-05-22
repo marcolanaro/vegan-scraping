@@ -1,0 +1,15 @@
+{
+  "title": "The Veggie Table",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, International, Western\n                                    ",
+  "description": "100% vegan restaurant offering western and international fare with some local, seasonal organic specials. Uses onion, garlic, the 5 pungent plant. Chinese address 北京市东城区雍和宫五道营胡同甲19号. Directions: Subway Line 2 or 5, Yonghegong Station. Lama Temple area (Yonghegong).",
+  "priceRange": "Moderate",
+  "streetAddress": "19 Wudaoying Hutong, Dong Cheng District",
+  "postalCode": "100007",
+  "phone": "tel:+86-10-6446-2073",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.948499,116.415135&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.948499,116.415135&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

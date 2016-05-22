@@ -1,0 +1,16 @@
+{
+  "title": "El Eden ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Buffet\n                                    ",
+  "description": "Very small cafeteria-style restaurant. Offers stuffed vegetables dishes and faux meats. Stuffed peppers, stuffed squash, ground soymeat, etc. Originally named Arbol de Vida and re-branded to El Eden with change of ownership. Directions: it is in the basement of a building on the west side of Avenida 21a, next to an Internet cafe.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "21a Av Norte",
+  "phone": "tel:2222-8937",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm, Sat 11:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.700373,-89.202493&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.700373,-89.202493&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

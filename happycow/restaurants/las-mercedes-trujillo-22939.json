@@ -1,0 +1,18 @@
+{
+  "title": "Las Mercedes",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Macrobiotic, Peruvian, Latin American\n                                    ",
+  "description": "Located across from the University Cesar Vallejo, it is slightly hidden from nearby busy streets. Typical Peruvian plates made veggie. Also offers embryonic respiration, tai-chi, meditation and good humor classes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle J. J. Ganoza, 295 urb California",
+  "phone": "tel:283897",
+  "venueHours": "\n                                                                                                        Mon 8:00am-9:00pm, Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.131365,-79.039552&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.131365,-79.039552&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

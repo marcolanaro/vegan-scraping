@@ -1,0 +1,15 @@
+{
+  "title": "Chef Orlando Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Caribbean, Dominican, Creole\n                                    ",
+  "description": "Vegetarian lunch and dinner.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle Jonas E. Salk 102",
+  "phone": "tel:829-6810003",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm, Sat 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Restaurante-vegetariano-Chef-orlando/160287610793651",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.460455,-69.911717&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.460455,-69.911717&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

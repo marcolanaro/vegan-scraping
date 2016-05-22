@@ -1,0 +1,21 @@
+{
+  "title": "Om Family Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Indian, Fast food, Juice bar, Delivery, Take-out, South Indian\n                                    ",
+  "description": "Opened in 1942, vegan restaurant just 80km from national capitol.",
+  "priceRange": "Moderate",
+  "streetAddress": "Gandhi Road",
+  "postalCode": "203131",
+  "phone": "tel:+919760047119",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/OmFamilyRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.252884,77.851428&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.252884,77.851428&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

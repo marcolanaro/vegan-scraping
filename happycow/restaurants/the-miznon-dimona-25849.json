@@ -1,0 +1,16 @@
+{
+  "title": "The Miznon",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Salad bar, Take-out\n                                    ",
+  "description": "Small homestyle restaurant, with only 6 or 7 tables. Serves vegan meals using only locally grown vegetables and fruits.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Manevech St and Derech Bar Lev",
+  "phone": "tel:03-716-8977",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-9:00pm, Fri 10:00am-2:00pm, Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.095000,34.948400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.095000,34.948400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

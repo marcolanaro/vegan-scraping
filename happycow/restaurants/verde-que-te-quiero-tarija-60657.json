@@ -1,0 +1,16 @@
+{
+  "title": "Verde que te Quiero",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Western, Buffet\n                                    ",
+  "description": "Offers a lunch buffet with warm plates and cold dishes. Includes drink and coffee. No dessert. Nicely decorated with wood on the walls and pictures of artists.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle Bolivar esquina Calle Ballivian",
+  "phone": "tel:75139394",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-21.531097,-64.736466&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-21.531097,-64.736466&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

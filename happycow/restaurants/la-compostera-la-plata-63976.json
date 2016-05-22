@@ -1,0 +1,17 @@
+{
+  "title": "La Compostera",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "Vegetarian restaurant. All vegan except for honey.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle 60 no. 647",
+  "phone": "tel:02214215750",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/lacompostera/1651992921696693",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.921645,-57.942668&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.921645,-57.942668&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

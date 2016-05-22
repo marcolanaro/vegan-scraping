@@ -1,0 +1,17 @@
+{
+  "title": "Le Pain Quotidien",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Mediterranean, Take-out, Bakery, Catering, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Belgian-based international restaurant chain featuring fresh artisan bakery and communal table. Each section of the menu includes at least one vegan option, labeled on the menu (e.g. rice milk porridge for breakfast, cashew cheese, vegan brunch). Located in the students' neighborhood \"cimetière d'Ixelles\" near University of Brussels.",
+  "priceRange": "Moderate",
+  "streetAddress": "Chaussée de Boondael 479",
+  "phone": "tel:26460693",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.815410,4.389736&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.815410,4.389736&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

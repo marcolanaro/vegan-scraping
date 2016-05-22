@@ -1,0 +1,14 @@
+{
+  "title": "James Burger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Burger diner. Offers your choice of vegan soy patty or mushroom patty for any burger on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua Sergipe, 1093",
+  "phone": "tel:31-32277821",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 6:00pm-12:00am, Fri 11:00am-3:00pm, Fri-Sat 6:00pm-2:00am, Sun 6:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-19.936391,-43.937819&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-19.936391,-43.937819&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

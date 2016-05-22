@@ -1,0 +1,19 @@
+{
+  "title": "Socrates",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Western, Indonesian\n                                    ",
+  "description": "A vegan restaurant established in 2004 with motto: eat, read, think. Provides free Wi-Fi. Has a Japanese table style with library.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl.Airlangga 14C, Medan",
+  "postalCode": "20112",
+  "phone": "tel:+62614568950",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-10:00pm, Wed-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/veg.socrates",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.585242,98.675598&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.585242,98.675598&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

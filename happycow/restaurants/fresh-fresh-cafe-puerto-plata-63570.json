@@ -1,0 +1,20 @@
+{
+  "title": "Fresh Fresh Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Organic, Raw, Western, Juice bar, Beer/Wine, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A cafe using local products. Menu includes wraps, salads, sandwiches, vegetarian burgers, pressed juices and smoothies. Also has an artisan market that sells products made by locals.",
+  "priceRange": "Moderate",
+  "streetAddress": "Careterra Principal 82",
+  "postalCode": "06060",
+  "phone": "tel:8095710283",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/freshfreshcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.729984,-70.602369&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.729984,-70.602369&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Aldeia Indigo",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Organic, Salad bar, Juice bar, Brazilian\n                                    ",
+  "description": "An organic, vegan, healthy and gluten free restaurant offering an international menu including Indian, Italian, Thai and Japanese with the typical Brazilian cuisine. Tapiocas, nachos, sandwiches, shakes, acai, juices. Wi-fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Av Pequeno Principe 1202, Santa Catarina",
+  "postalCode": "88063000",
+  "phone": "tel:48-3365-8720",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-6:00pm, Wed 12:00pm-6:00pm, Thu-Fri 12:00pm-11:00pm, Sat-Sun 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/aldeiaindigo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.678420,-48.497709&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.678420,-48.497709&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "North Shore Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a veggie burger with roasted red pepper, garlic aioli, spinach, tomato and onion on ciabatta bread; a Greek flatbread (with feta and tzatziki sauce); a vegan flatbread with hummus and veggies; an Asian peanut noodle salad; hummus; and option to add portabello mushroom to your dish. Vegans should specify to be sure.",
+  "priceRange": "Moderate",
+  "streetAddress": "507 Mongoose Junction, Cruz Bay",
+  "phone": "tel:3407773061",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.332380,-64.792004&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.332380,-64.792004&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

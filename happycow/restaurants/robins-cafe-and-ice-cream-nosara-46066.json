@@ -1,0 +1,16 @@
+{
+  "title": "Robin's Cafe and Ice Cream",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Laid-back cafe with free Wi-Fi. Menu includes a few vegetarian sandwiches; uses dairy.",
+  "priceRange": "Moderate",
+  "streetAddress": "Playa Guiones",
+  "phone": "tel:506-2682-0617",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.943668,-85.665637&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.943668,-85.665637&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

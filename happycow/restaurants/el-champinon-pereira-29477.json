@@ -1,0 +1,16 @@
+{
+  "title": "El Champinon",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International\n                                    ",
+  "description": "Vegetarian restaurant with vegan options. Serves a set meal of the day. Several small dining rooms, some with windows to the street.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle 21, Unit 8-37, Second Floor",
+  "phone": "tel:3330189",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.814290,-75.694640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.814290,-75.694640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

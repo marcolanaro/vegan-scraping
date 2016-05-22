@@ -1,0 +1,15 @@
+{
+  "title": "Capitao Vegano",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Vegan fast food delivery.",
+  "streetAddress": "Sao Paulo",
+  "phone": "tel:+55-1136410227",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/capitao.vegano.delivery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-23.534015,-46.723101&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-23.534015,-46.723101&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

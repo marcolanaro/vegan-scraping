@@ -1,0 +1,16 @@
+{
+  "title": "Manimez",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located in the middle of town, this restaurant offers a vegetarian meal of the day and is 6.000 pesos. They also have a whole-grain bakery on site.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Carrera 8 18-67",
+  "phone": "tel:333-4000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.812672,-75.684236&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.812672,-75.684236&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

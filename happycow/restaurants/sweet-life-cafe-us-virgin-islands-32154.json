@@ -1,0 +1,17 @@
+{
+  "title": "Sweet Life Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Caribbean\n                                    ",
+  "description": "Daily menu usually includes stewed tofu, curried chunks, brown rice, vegetables, potatoes, pasta, and plantains; local beverages such limeade, sorrel, passion fruit. Mostly take out with very limited seating. No air conditioning.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2 Reg Jerrings Gade",
+  "postalCode": "00802",
+  "phone": "tel:3407752650",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.343600,-64.932200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.343600,-64.932200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

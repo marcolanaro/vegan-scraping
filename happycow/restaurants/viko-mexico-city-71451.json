@@ -1,0 +1,18 @@
+{
+  "title": "Viko - Food Stand",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Mexican, Take-out only\n                                    ",
+  "description": "Outside stand offering vegan food, in front of Torre Bancomer since early-2016. Find tacos, gringas, burritos, and desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Reforma 510 Local 28, Colonia Juarez",
+  "postalCode": "06600",
+  "phone": "tel:552-747-8475",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:30am-7:00pm, Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.423042,-99.174909&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.423042,-99.174909&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "La Chinita",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Take-out, Asian\n                                    ",
+  "description": "A 100% vegetarian Asian lunch buffet restaurant with plenty of vegan options. Offers different dishes daily. Price by weight.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle del Mediterraneo",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.678152,-89.237476&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.678152,-89.237476&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

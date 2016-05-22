@@ -1,0 +1,17 @@
+{
+  "title": "Kye's Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Fast food, Take-out, Caribbean\n                                    ",
+  "description": "Popular vegetarian restaurant, go early for the best possible selection. Try the potato and soy-chunks roti.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Paul's Lot, St. Vincent",
+  "postalCode": "10035",
+  "phone": "tel:784-456-6222",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.264880,-61.210240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.264880,-61.210240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

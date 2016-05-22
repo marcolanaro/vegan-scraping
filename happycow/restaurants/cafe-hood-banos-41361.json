@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Hood",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Western\n                                    ",
+  "description": "Different business from Casa Hood. Colorful interior. Offers various cuisines from western sandwiches and spaghetti to Asian style stir fry noodles. Uses dairy, so vegans need to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle Maldonado y Rocafuerte",
+  "postalCode": "180250",
+  "phone": "tel:+593-32740537",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/cafehood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-1.396389,-78.424722&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-1.396389,-78.424722&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

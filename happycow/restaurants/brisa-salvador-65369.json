@@ -1,0 +1,19 @@
+{
+  "title": "Brisa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Organic, Raw, Buffet, Delivery, Take-out, Bakery\n                                    ",
+  "description": "A 100% vegan/vegetarian buffet restaurant featuring lacto vegetarian items, plus vegan options and crudivoras. Also is a shop and midweek there is a fair of fresh organic.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua Sargento Astrolabio, 150",
+  "postalCode": "41810340",
+  "phone": "tel:71-32483400",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-3:00pm, Sun 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BrisaRestauranteNatural",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-12.997505,-38.451819&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-12.997505,-38.451819&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Veggie Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "Serving organic vegetarian cuisine since 2002. Features daily specials with a touch of India, salads and soups, sandwiches and wraps, fruit frappes, acai & matcha smoothies, fresh juices, and vegan cakes. Pizza and pasta night on Friday.",
+  "priceRange": "Moderate",
+  "streetAddress": "131 Eleanor Roosevelt",
+  "phone": "tel:787-754-6959",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:30pm, Fri 6:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.420653,-66.059706&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.420653,-66.059706&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

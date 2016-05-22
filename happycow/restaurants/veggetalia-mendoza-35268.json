@@ -1,0 +1,16 @@
+{
+  "title": "Veggetalia",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Buffet, Salad bar, Take-out\n                                    ",
+  "description": "Vegetarian buffet priced by weight. Items include a salad bar, pastas, empanadas, pies and quiches, baked vegetables and soy meat with many vegan choices. Has indoor seating and a courtyard.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Av Alem 43",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:30pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-32.892972,-68.838716&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-32.892972,-68.838716&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

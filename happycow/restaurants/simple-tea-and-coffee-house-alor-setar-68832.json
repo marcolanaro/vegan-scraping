@@ -1,0 +1,15 @@
+{
+  "title": "Simple Tea & Coffee House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "简单茶坊 veggie tea house.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "25, Lorong Merpati, Alor Malai",
+  "postalCode": "05200",
+  "phone": "tel:04-7312978",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 12:00pm-5:00pm, Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.119830,100.374364&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.119830,100.374364&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

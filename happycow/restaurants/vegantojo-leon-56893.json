@@ -1,0 +1,20 @@
+{
+  "title": "Vegantojo",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Take-out, Mexican\n                                    ",
+  "description": "A 100% vegan cafe/restaurant with an avant-garde concept at fair prices. Among the options offered are made-in-house vegan meat, yogurt cheese, tamales, menudo and many other veganized Mexican food. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Juan Nepomuceno 914, Plaza Mkdito, Pasillo 10 Local 201",
+  "postalCode": "37180",
+  "phone": "tel:477-390-0394",
+  "venueHours": "\n                                                                                                        Tue-Sat 11:00am-7:00pm, Sun 10:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/vegantojo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.151209,-101.686454&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.151209,-101.686454&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

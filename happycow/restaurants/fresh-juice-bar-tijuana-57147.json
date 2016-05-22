@@ -1,0 +1,16 @@
+{
+  "title": "Fresh Juice Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small juice bar selling fresh juices, smoothies, salads, and sandwiches with vegan choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Avenida de las Palmas 4640 Local 2, Fracc Las Palmas",
+  "postalCode": "22106",
+  "phone": "tel:52-664-449-7202",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/freshjuicebartj",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.503532,-116.985978&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.503532,-116.985978&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

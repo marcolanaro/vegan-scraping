@@ -1,0 +1,19 @@
+{
+  "title": "D'Cappuccetto Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Western, Fast food, Beer/Wine, Take-out, Fusion, Colombian, Latin American\n                                    ",
+  "description": "Uses vegetable-protein in the form of chorizo, sausage, and meatloaf to make the dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle 76 no. 89 C 98 Int. 112",
+  "phone": "tel:2975414",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sat 3:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/dcappuccetto",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.277100,-75.590566&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.277100,-75.590566&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Alley Cat Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican and American food restaurant. A few Tex-Mex dishes could be ordered as vegetarian or vegan by requesting no dairy, etc. The black bean burger patty is vegan suitable.",
+  "priceRange": "Moderate",
+  "streetAddress": "42, St 19 Z",
+  "phone": "tel:012306845",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/AlleyCatCafeCambodia",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.564718,104.927014&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.564718,104.927014&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

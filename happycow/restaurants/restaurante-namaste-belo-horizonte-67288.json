@@ -1,0 +1,17 @@
+{
+  "title": "Restaurante Namaste",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurant with numerous vegetarian dishes, of which some are vegan. The staff speaks English and can accommodate vegan requests.",
+  "priceRange": "Moderate",
+  "streetAddress": "Avenida Francisco Sá, 355",
+  "phone": "tel:31-35675200",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-3:00pm, 6:30pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/namasteindianrestaurante",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-19.925802,-43.959425&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-19.925802,-43.959425&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

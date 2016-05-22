@@ -1,0 +1,17 @@
+{
+  "title": "eten vol leven",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Western, Juice bar, Take-out, European\n                                    ",
+  "description": "Serves breakfast, lunch, desserts, juices, fruit smoothies, and nut milk smoothies with a variety of berries and other fruit. Also fresh soups and salads, and a selection of raw food including zucchini pasta, pizza, and cheesecake.",
+  "priceRange": "Moderate",
+  "streetAddress": "Minderbroedersrui 52, Antwerp",
+  "postalCode": "2000",
+  "phone": "tel:03-2333464",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:00am-5:00pm, Sat 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.221949,4.404904&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.221949,4.404904&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Roma's Deli",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Western, Take-out\n                                    ",
+  "description": "Pizza, western style food, baked rice, and more. Note: there may be another vegetarian food stall at the food court behind it.",
+  "priceRange": "Moderate",
+  "streetAddress": "100 Beach Road, 01-23, Shaw Towers",
+  "phone": "tel:62934585",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.296800,103.856560&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.296800,103.856560&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

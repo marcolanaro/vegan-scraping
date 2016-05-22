@@ -1,0 +1,16 @@
+{
+  "title": "The Burger Map",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American-themed burger restaurant that offers 4 vegan burgers: original vegan burger, salad vegan burger, bbq vegan burger, califa vegan burger. Fries and onion ring sides. Be sure to specify vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua das Aroeiras, 442",
+  "phone": "tel:+55-1125340747",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-23.646472,-46.541192&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-23.646472,-46.541192&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

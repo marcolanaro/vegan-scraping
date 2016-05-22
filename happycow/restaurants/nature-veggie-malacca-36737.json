@@ -1,0 +1,17 @@
+{
+  "title": "Nature Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Malaysian\n                                    ",
+  "description": "Vegetarian food. Note that some drinks contain milk.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "14-G Jalan KL3/10A, Taman Kota Laksamana Seksyen 3, Melaka",
+  "postalCode": "75200",
+  "phone": "tel:0166480885",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-2:30pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.196776,102.238180&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.196776,102.238180&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

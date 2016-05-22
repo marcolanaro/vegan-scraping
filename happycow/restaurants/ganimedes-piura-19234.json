@@ -1,0 +1,16 @@
+{
+  "title": "Ganimedes",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Peruvian\n                                    ",
+  "description": "An inexpensive place to get a meal or a a snack. Offers a set menu and other items like juice and yogurt.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jiron Lima 440",
+  "phone": "tel:329176",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-5.193520,-80.624790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-5.193520,-80.624790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

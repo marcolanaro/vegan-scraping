@@ -1,0 +1,17 @@
+{
+  "title": "Maclaren's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves cuisines of India, as well as international, with many vegan choices. Air conditioned.",
+  "priceRange": "Moderate",
+  "streetAddress": "ED-173, Sector-B, Scheme No 94, Ward No 48, Ring Road, Vijay Nagar",
+  "postalCode": "452001",
+  "phone": "tel:095-84-443141",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 2:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.708195,75.882442&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.708195,75.882442&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

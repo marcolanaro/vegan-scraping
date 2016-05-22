@@ -1,0 +1,17 @@
+{
+  "title": "Ki-Nutre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Buffet, Take-out\n                                    ",
+  "description": "A buffet style restaurant with 90% vegan dishes and everything else is vegetarian. Lentils, beans, vegetable dishes, vegan desserts, pizzas.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Avenida Presidente Getulio Vargas, 714, Centro Norte",
+  "postalCode": "78005-150",
+  "phone": "tel:+55-65-3321-3540",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-15.594530,-56.099761&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-15.594530,-56.099761&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

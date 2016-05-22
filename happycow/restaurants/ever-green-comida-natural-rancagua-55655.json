@@ -1,0 +1,16 @@
+{
+  "title": "Ever Green Comida Natural",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Italian, Organic, Thai, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "A 100% vegetarian/vegan restaurant located in the city center. Serves mostly Asian food, but also options such as vegan meatballs and frittatas are available. As of Feb 2015, the only 100% vegetarian/vegan place in the city.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "298 Andres de Alcazar",
+  "phone": "tel:09-98062134",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.169307,-70.739014&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.169307,-70.739014&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

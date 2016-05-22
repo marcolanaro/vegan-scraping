@@ -1,0 +1,17 @@
+{
+  "title": "Cocina Vegeteriana",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Thai, Juice bar, Take-out, Asian, Bakery, Middle Eastern, Spanish\n                                    ",
+  "description": "Quaint little vegetarian restaurant with a daily menu. Also serves smoothies, juices, and coconut milk based milkshakes, in addition to tofu or seitan cutlets, veggie wok, lentils and such. Bakery items like vegan pies and muffins are also available. Ask which dishes are vegan, the staff will happily show you.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ituzaingo 1331",
+  "postalCode": "11100",
+  "phone": "tel:29171366",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:30am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.907401,-56.203807&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.907401,-56.203807&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

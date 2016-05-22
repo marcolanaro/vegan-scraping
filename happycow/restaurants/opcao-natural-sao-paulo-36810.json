@@ -1,0 +1,17 @@
+{
+  "title": "Opcao Natural",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Buffet, Salad bar, Take-out, Brazilian\n                                    ",
+  "description": "An all you can eat vegetarian buffet with vegan options. Beverages and dessert included.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "R Zelias Frias Street 4, 776, Cidade Lider",
+  "postalCode": "13.500-030",
+  "phone": "tel:+55-19-3524-7820",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:00pm, Sun 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-23.555317,-46.492199&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-23.555317,-46.492199&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

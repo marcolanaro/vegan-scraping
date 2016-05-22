@@ -1,0 +1,18 @@
+{
+  "title": "The Boondocks",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. You could get vegetarian fajitas here, but be warned that's it's a steakhouse.",
+  "priceRange": "Moderate",
+  "streetAddress": "Watermolenweg 102",
+  "postalCode": "9260",
+  "phone": "tel:093666233",
+  "venueHours": "\n                                                                                                        Wed-Fri 6:00pm-10:00pm, Sat 5:30pm-10:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "fb": "http://www.facebook.com/TheBoondocksSteakhouse/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.990493,3.964637&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.990493,3.964637&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

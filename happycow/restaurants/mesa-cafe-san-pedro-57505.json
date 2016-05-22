@@ -1,0 +1,16 @@
+{
+  "title": "Mesa Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Beer/Wine, Caribbean, Belizian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Australian-owned daytime cafe offering healthier breakfast and lunch - with more veggie choices at lunch. Vegan-possible items include sweet potato and black bean tostada, chickpea burger, and bun-less bean burger - let the staff  know if you're vegan. Has chai tea and espresso.",
+  "priceRange": "Moderate",
+  "streetAddress": "Vilma Linda Plaza, Tarpon St",
+  "phone": "tel:2263444",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.917936,-87.963311&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.917936,-87.963311&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Govinda's",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, International\n                                    ",
+  "description": "Hare Krishna restaurant serving an inexpensive meal of the day.  Dinner on Friday is a la carte and the last Friday of the month there is a buffet with more than 20 items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle 15  6-58",
+  "phone": "tel:3339650",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-2:30pm, Fri 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.815150,-75.690746&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.815150,-75.690746&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

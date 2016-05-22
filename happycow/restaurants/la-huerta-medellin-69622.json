@@ -1,0 +1,16 @@
+{
+  "title": "La Huerta",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Beer/Wine, Delivery, Take-out\n                                    ",
+  "description": "Vegetarian restaurant in the Bello District in the Medellin metropolitan area, approx. 10-minute walk from the Niquia metro station. Aattractive decor and plenty of seating. Meal of the day served until closing, and an a la carte menu. Also serves snacks, juices, housemade beer and wine. Sells a few grocery items include whole grain bread, cereals, dried fruit, vegetable oil, and vinegar.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Diagonal 57 #33-118",
+  "phone": "tel:2063579",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-6:00pm, Fri-Sat 12:00pm-9:00pm, Sun 11:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.342013,-75.542363&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.342013,-75.542363&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

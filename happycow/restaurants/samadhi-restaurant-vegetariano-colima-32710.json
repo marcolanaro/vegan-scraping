@@ -1,0 +1,17 @@
+{
+  "title": "Samadhi Restaurant Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Mexican\n                                    ",
+  "description": "Mostly vegetarian dishes with some vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Filomeno Medina, Unit 123, Colonia Centro",
+  "postalCode": "28000",
+  "phone": "tel:312-313-2498",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.246501,-103.721400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.246501,-103.721400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

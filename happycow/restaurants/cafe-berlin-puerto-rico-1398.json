@@ -1,0 +1,16 @@
+{
+  "title": "Cafe Berlin",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Beer/Wine, Puerto Rican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers an extensive vegetarian menu that includes appetizers, tofu, soy meat, freshly baked breads, salads, fresh juices, vegan desserts, and beer. Brunch on Sunday. Serves also fish and poultry, no red meat. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "407 San Francisco Street, Old San Juan",
+  "phone": "tel:787-722-5205",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-10:00pm, Sat-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.466557,-66.112076&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.466557,-66.112076&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

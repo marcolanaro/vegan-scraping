@@ -1,0 +1,18 @@
+{
+  "title": "Relax",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Organic, Juice bar, Take-out, Caribbean, Taiwanese\n                                    ",
+  "description": "Does not use garlic and onion. Serves a variety of rice, pasta and vegetable dishes, natural juices, teas and more. Daily dish consists of soup, entree, soy meat and veggies.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Avenida Gayetano Ghermosen",
+  "phone": "tel:809-533-5766",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.448657,-69.937951&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.448657,-69.937951&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

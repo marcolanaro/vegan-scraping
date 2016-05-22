@@ -1,0 +1,17 @@
+{
+  "title": "Gui Pin Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Singaporean\n                                    ",
+  "description": "贵品素食馆 serves economic rice, daily specials like wonton noodle and fishball noodle. Also serves zhi char dishes like mock roasted pig, assam fish, yam ring.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 376 Bukit Batok St 31 Unit 01-126",
+  "postalCode": "650376",
+  "phone": "tel:90292443",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.358639,103.749826&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.358639,103.749826&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

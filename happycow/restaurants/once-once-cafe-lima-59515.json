@@ -1,0 +1,19 @@
+{
+  "title": "Once Once Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Organic, Western, Juice bar, Take-out\n                                    ",
+  "description": "Organic coffee shop also serving juices and light food like sandwiches. Has plant milk option.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jr. Colina 108",
+  "postalCode": "4",
+  "phone": "tel:+51-986409984",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:00pm, Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/onceoncecafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-12.145890,-77.022047&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-12.145890,-77.022047&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

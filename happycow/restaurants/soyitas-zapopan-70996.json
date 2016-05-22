@@ -1,0 +1,15 @@
+{
+  "title": "Soyitas",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Zapopan-based delivery service. Delivers daily vegetarian Mexican food made from soy, mushroom, vegetables. Place order at least 3 hours ahead. Minimum order price applies based on the distance.",
+  "streetAddress": "Paseos del Sol",
+  "postalCode": "45079",
+  "phone": "tel:3339568938",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Soyitas",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.637353,-103.429503&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.637353,-103.429503&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

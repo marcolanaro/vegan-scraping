@@ -1,0 +1,16 @@
+{
+  "title": "Darshan Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Peruvian, Latin American\n                                    ",
+  "description": "Air-conditioned restaurant with 8 tables, in the center of Iquitos. Breakfast (7-10am) is a blender-juice drink with 10-15 different fruits. Lunch (12:45-3pm) and dinner (7-9pm) are set plates for a fixed price. During other time periods maybe open for snacks and juices.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 de Mayo 469",
+  "phone": "tel:065-243657",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-3.752432,-73.256564&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-3.752432,-73.256564&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

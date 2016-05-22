@@ -1,0 +1,16 @@
+{
+  "title": "Cafe Mediterraneo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria where vegetarians could have pizza and salad but not for vegans except salad. Nice ambiance. Please send HappyCow the correct map marker location, thanks!",
+  "priceRange": "Moderate",
+  "streetAddress": "400mtrs sur del Redondel de La Fortuna de San Carlos",
+  "phone": "tel:506-24797497",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.471290,-84.644838&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.471290,-84.644838&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

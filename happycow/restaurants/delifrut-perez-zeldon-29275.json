@@ -1,0 +1,15 @@
+{
+  "title": "Delifrut",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A family friendly place. Make your own drinks or choose from menu. Vegan options. Please update HappyCow with correct map position.",
+  "streetAddress": "Downtown Pérez Zeledón, San José, Costa Rica",
+  "phone": "tel:27720006",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.354730,-83.634843&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.354730,-83.634843&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

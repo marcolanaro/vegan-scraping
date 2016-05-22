@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Festa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Italian, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Vegetarian restaurant situated north west of Connaught Place. Seats 40. Serves Italian espresso coffee, pizza, pasta, Italian salads, fresh juices, traditional Indian food, and thali.",
+  "priceRange": "Moderate",
+  "streetAddress": "1832 Laxshmi Narayan Street, Chuna Mandi",
+  "postalCode": "110055",
+  "phone": "tel:01123588000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.640919,77.210166&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.640919,77.210166&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

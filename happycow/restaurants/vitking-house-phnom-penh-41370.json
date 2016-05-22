@@ -1,0 +1,17 @@
+{
+  "title": "Vitking House II",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Khmer\n                                    ",
+  "description": "Second location of this restaurant. Similar menu as the other one. Nice setting.",
+  "priceRange": "Moderate",
+  "streetAddress": "315, St 430, Toul TomPong2, Chomkamon",
+  "phone": "tel:023224170",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.540081,104.910539&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.540081,104.910539&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

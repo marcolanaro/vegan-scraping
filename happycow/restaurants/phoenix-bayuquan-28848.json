@@ -1,0 +1,17 @@
+{
+  "title": "Phoenix",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Juice bar\n                                    ",
+  "description": "Vegetarian Chinese food plus fruit juice. City name in Chinese 鮁魚圈, just south of the Port of Yingkou international seaport in Yinkou.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bayuquan Town",
+  "postalCode": "115007",
+  "phone": "tel:13998620195",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.259093,122.128830&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.259093,122.128830&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

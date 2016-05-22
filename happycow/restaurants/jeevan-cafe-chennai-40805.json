@@ -1,0 +1,17 @@
+{
+  "title": "Jeevan Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Indo-Chinese\n                                    ",
+  "description": "Lunch and dinner buffet spred with over 30+ items. On Mon-Thur is thali buffet while Fri-Sun is Indian and continental dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "14 Jaganathan, Nungambakkam",
+  "postalCode": "600063",
+  "phone": "tel:91%2028202910",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-3:00pm, 7:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.060682,80.245353&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.060682,80.245353&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

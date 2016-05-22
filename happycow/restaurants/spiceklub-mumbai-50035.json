@@ -1,0 +1,16 @@
+{
+  "title": "Spiceklub",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, International, Italian, Fast food\n                                    ",
+  "description": "Opened summer 2014, a modern Indian vegetarian cuisine restaurant with a molecular menu featuring pav bhaji fondue; deconstructed dahi vada; spinach and cheese cigars; paan mousse; and bubbling kulfi. Has many vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "8A, Janta Industrial Estate, Opposite Phoenix Mills, Senapati Bapat Road",
+  "phone": "tel:022-24925544",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-4:00pm, 6:30pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.016645,72.840441&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.016645,72.840441&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "El Tomate Frito",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Colombian, Latin American\n                                    ",
+  "description": "Small restaurant with nice atmosphere, operating since 2012. Offers daily set menu. Has rice with dhal, veggie burgers and fries.",
+  "priceRange": "Moderate",
+  "streetAddress": "Cra 24 no. 39A-44",
+  "phone": "tel:3115124269",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 8:30am-4:30pm, Wed-Fri 8:30am-8:00pm, Sat 8:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/eltomatefrito",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.628154,-74.075093&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.628154,-74.075093&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

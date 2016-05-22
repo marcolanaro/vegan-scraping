@@ -1,0 +1,17 @@
+{
+  "title": "Starfish Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Western, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. NGO run restaurant helping disabled people with medical needs and business training. Coffee and breakfast (scones, muesli, fresh breads and bakery items) and lunch food (grilled veg sandwiches, sandwiches with tapenade). Garden setting. Has Wi-Fi and store selling handmade items.",
+  "priceRange": "Moderate",
+  "streetAddress": "62 7 Makara St",
+  "phone": "tel:+855-12952011",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.620966,103.527273&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.620966,103.527273&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

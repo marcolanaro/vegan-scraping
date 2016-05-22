@@ -1,0 +1,18 @@
+{
+  "title": "OSM Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Delivery, Take-out, Indo-Chinese\n                                    ",
+  "description": "Full service restaurant with seating for up to 60. Serves vegetarian India and Chinese food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Delhi-Gurgaon Rd, Sector-14",
+  "postalCode": "122001",
+  "phone": "tel:09311333154",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/osmfoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.480728,77.048012&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.480728,77.048012&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

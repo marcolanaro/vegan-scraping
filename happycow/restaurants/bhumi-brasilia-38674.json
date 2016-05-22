@@ -1,0 +1,17 @@
+{
+  "title": "Bhumi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Buffet, Salad bar, Brazilian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Everything is organic and with a \"going green\" policy. Many vegetarian, vegan, and some raw food choices.",
+  "priceRange": "Expensive",
+  "streetAddress": "SCLS 113, Bloco D, loja 33",
+  "phone": "tel:61-3345-0046",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-3:00pm, 6:00pm-10:00pm, Sun 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-15.827078,-47.918741&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-15.827078,-47.918741&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

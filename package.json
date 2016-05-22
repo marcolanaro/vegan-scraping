@@ -5,9 +5,11 @@
     "x-ray": "^2.0.2"
   },
   "scripts": {
-    "start": "npm run scrap && npm run build",
-    "scrap": "babel-node scraping.js",
-    "build": "babel-node build.js"
+    "ingredients-start": "npm run ingredients-scrap && npm run ingredients-build",
+    "ingredients-scrap": "babel-node cosmetic-ingredients/scraping.js",
+    "ingredients-build": "babel-node cosmetic-ingredients/build.js",
+    "happycow-prepare": "babel-node happycow/continents.js && babel-node happycow/federations.js && babel-node happycow/states.js && babel-node happycow/cities.js",
+    "happycow-restaurants": "babel-node happycow/restaurants.js"
   },
   "author": "Marco Lanaro",
   "devDependencies": {

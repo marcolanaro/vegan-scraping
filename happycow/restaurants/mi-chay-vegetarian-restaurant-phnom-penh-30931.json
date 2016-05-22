@@ -1,0 +1,16 @@
+{
+  "title": "Mi Chay Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Taiwanese\n                                    ",
+  "description": "Basic Taiwanese/Chinese vegetarian restaurant. Has vegan options. Has mock meats, dumplings, soups, rice dishes. Little English spoken, but menu labels about half the items in English. Map marker is slightly off, please send us an update.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "40A St 143",
+  "phone": "tel:092-557558",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.557562,104.915899&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.557562,104.915899&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

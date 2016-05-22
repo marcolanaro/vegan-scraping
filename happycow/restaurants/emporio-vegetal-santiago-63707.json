@@ -1,0 +1,15 @@
+{
+  "title": "Emporio Vegetal",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Shop stocking all-veg products which include ready meals, groceries, plant milks, bakery foods, protein, chocolates, organic food, tofu, cosmetics, juices. Most items are vegan, some juices have honey.",
+  "streetAddress": "Av Ricardo Cumming 509",
+  "phone": "tel:6734057",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-10:00pm, Sat 11:00am-8:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/emporiovegetale",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.439140,-70.668513&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.439140,-70.668513&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

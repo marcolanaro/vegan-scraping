@@ -1,0 +1,14 @@
+{
+  "title": "Ganesha Restaurante Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Mexican\n                                    ",
+  "description": "Vegetarian cafe serving Mexican food, burgers and salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle Valle de Mexico 9, Col. El Mirador",
+  "phone": "tel:5568357078",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.480827,-99.236873&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.480827,-99.236873&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Manantial 1",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Peruvian\n                                    ",
+  "description": "Simple restaurant near the historic center of Lima, a few blocks from Parque de la Reserva (a city park filled with fountains and other water features). Good food and low prices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle Pablo Bermudez 294",
+  "phone": "tel:994408221",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-12.072424,-77.038296&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-12.072424,-77.038296&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

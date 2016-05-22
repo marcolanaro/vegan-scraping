@@ -1,0 +1,14 @@
+{
+  "title": "Co Noi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Vietnamese\n                                    ",
+  "description": "Vegetarian eatery in a hotel, offering a buffet on certain days of the week/month.",
+  "priceRange": "Moderate",
+  "streetAddress": "8th Floor, Bong Sen Hotel, 61-63 Hai Ba Trung, District 1",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-2:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.776732,106.704572&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.776732,106.704572&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

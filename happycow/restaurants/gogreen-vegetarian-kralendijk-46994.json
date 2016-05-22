@@ -1,0 +1,18 @@
+{
+  "title": "Gogreen Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Beer/Wine, Delivery, Take-out, Ayurvedic\n                                    ",
+  "description": "Offers changing organic vegetarian lunch with vegan options - call to reserve. Also delivers from 12-1pm - must pre-order 1 hour before. Owner, Tina, is a locally known health coach.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kaya Korona 47",
+  "phone": "tel:+599-7005488",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 12:00pm-2:00pm, Fri 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.163731,-68.270947&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.163731,-68.270947&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

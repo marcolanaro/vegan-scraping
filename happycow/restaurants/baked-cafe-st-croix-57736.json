@@ -1,0 +1,17 @@
+{
+  "title": "Baked Cafe",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Baked goods and drinks counter steps off the boardwalk in Kings Alley in downtown. Offers daily made bakery goods along with sorbet and fresh fruit smoothies. Vegan selections.",
+  "streetAddress": "55A Suit 1-H Kings Alley, Christiansted",
+  "postalCode": "00820",
+  "phone": "tel:340-514-7477",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-4:00pm, Sat 9:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/bakedcafestx",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.746854,-64.704106&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.746854,-64.704106&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

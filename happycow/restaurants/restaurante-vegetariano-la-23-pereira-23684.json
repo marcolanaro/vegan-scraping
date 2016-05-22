@@ -1,0 +1,16 @@
+{
+  "title": "Restaurante Vegetariano La 23",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Colombian\n                                    ",
+  "description": "Simple vegetarian restaurant with basic food and 2 small dining rooms. Set meal available for around 5.000 pesos, additional 1.000 pesos for dessert. Wednesday is \"beans only day\" when no mock meat is used. On the second floor, with no sign out front.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle 23 9-60, 2 F",
+  "phone": "tel:3341462",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.813340,-75.697710&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.813340,-75.697710&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

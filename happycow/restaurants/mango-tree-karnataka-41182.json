@@ -1,0 +1,15 @@
+{
+  "title": "Mango Tree",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, International, Take-out\n                                    ",
+  "description": "Nice atmosphere with free Wi-Fi. Serves international vegetarian food. Dairy and egg used in some dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hampi Bazaar Street",
+  "postalCode": "583239",
+  "phone": "tel:+91-9448765213",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.335131,76.460978&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.335131,76.460978&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

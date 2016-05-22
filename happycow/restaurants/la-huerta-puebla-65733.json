@@ -1,0 +1,15 @@
+{
+  "title": "La Huerta",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mexican\n                                    ",
+  "description": "Vegetarian restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "Avenida Juarez 13 sur 1314-B Centro",
+  "phone": "tel:222-467-7656",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/lahuertavrestaurante",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.047370,-98.209627&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.047370,-98.209627&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

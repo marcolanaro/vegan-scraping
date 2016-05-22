@@ -1,0 +1,17 @@
+{
+  "title": "El Paraiso",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Juice bar, Ice cream\n                                    ",
+  "description": "Vegetarian place serves lunch and dinner with vegan options. Available are salads, entrees, plenty of fruit juices and ice cream creations. Popular local place.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Tomas Ordonez 10-19",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-2.897290,-78.998776&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-2.897290,-78.998776&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

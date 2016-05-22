@@ -1,0 +1,16 @@
+{
+  "title": "Au Lac Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Vietnamese\n                                    ",
+  "description": "Please send HappyCow some details!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "60 Tan Vinh St, District 4",
+  "phone": "tel:08-8265856",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.758980,106.653810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.758980,106.653810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

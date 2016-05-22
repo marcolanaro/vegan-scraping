@@ -1,0 +1,14 @@
+{
+  "title": "Boa Saude",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Brazilian, Latin American\n                                    ",
+  "description": "Large restaurant offering a buffet spread. Gets busy at meal time. Uses dairy, so vegans need to ask.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Tobias Barreto, 809, São Paulo",
+  "phone": "tel:+55-11-66056452",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-3:00pm, Sun 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-23.550940,-46.589160&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-23.550940,-46.589160&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

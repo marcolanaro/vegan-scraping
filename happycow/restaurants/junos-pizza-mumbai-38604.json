@@ -1,0 +1,18 @@
+{
+  "title": "Juno's Pizza",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Delivery, Take-out only\n                                    ",
+  "description": "Pizza delivery and take-away only; not for dining in. Makes all vegetarian pizzas with history dating back to 1974. Offers whole wheat base option and can make pizza without cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shop 1, Anand Nagar Building, Forjett Street",
+  "postalCode": "400036",
+  "phone": "tel:02264520022",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/JunosPizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.965794,72.811806&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.965794,72.811806&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "El Lugar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Mexican\n                                    ",
+  "description": "Sample food might include gluten steak, soy burger with mushrooms, fries, and salad. Large pitchers of fresh juices, soups, Mexican dishes and breakfast. Moved from Ave Las Americas 3023.",
+  "priceRange": "Moderate",
+  "streetAddress": "Av Sonorenses 627 Sepanal",
+  "phone": "tel:6827567",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.517669,-116.987162&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.517669,-116.987162&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

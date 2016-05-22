@@ -1,0 +1,16 @@
+{
+  "title": "Mellow Moods Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Juice bar, Take-out, Caribbean, Ital\n                                    ",
+  "description": "An ital eatery near the roundabout. Varying daily menu with veggie burgers, drinks, teas and juices. Several tables for dining-in.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Fleming Street, Road Town",
+  "phone": "tel:284-494-6403",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.423100,-64.621523&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.423100,-64.621523&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

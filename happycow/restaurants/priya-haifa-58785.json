@@ -1,0 +1,14 @@
+{
+  "title": "Priya",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Mediterranean, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "A vegan restaurant offering smoothies, soups and salads. They produce their own almond milk, and there is no added sugar in the smoothies. They also have a variety super foods for smoothies: gogi berries cocoa beans, spirulina, chlorella, chia seeds and acai.\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "Tsafririm 2",
+  "phone": "tel:04-8201122",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:30am-8:30pm, Fri 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.797087,34.983628&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.797087,34.983628&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

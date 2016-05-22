@@ -1,0 +1,16 @@
+{
+  "title": "El Fruto del Eden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Colombian\n                                    ",
+  "description": "A vegetarian restaurant in the center of town. Natural food store on the ground level, and a large dining room up the stairway.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Carrera 4 no. 14-41",
+  "phone": "tel:2637297",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.448055,-75.245778&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.448055,-75.245778&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

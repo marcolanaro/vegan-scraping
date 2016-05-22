@@ -1,0 +1,15 @@
+{
+  "title": "Pita Box",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Fast food, Take-out, Middle Eastern\n                                    ",
+  "description": "A pita and falafel place, replaced Falaferia. Serves vegan kebap (döner). Has a few bar seats to eat inside.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Taborstrasse 38/1c, Wien",
+  "postalCode": "1020",
+  "phone": "tel:06805061643",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.218632,16.381013&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.218632,16.381013&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

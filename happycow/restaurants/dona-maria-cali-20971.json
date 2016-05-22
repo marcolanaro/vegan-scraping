@@ -1,0 +1,16 @@
+{
+  "title": "Dona Maria",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Colombian\n                                    ",
+  "description": "Restaurante vegetariano. Simple place near the historic center of Cali. Occasionally opens for dinner (no set schedule).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle 15, 19-03",
+  "phone": "tel:8961409",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.423316,-76.524536&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.423316,-76.524536&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

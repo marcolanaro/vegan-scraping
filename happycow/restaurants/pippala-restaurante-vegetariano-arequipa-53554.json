@@ -1,0 +1,16 @@
+{
+  "title": "Pippala Restaurante Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International\n                                    ",
+  "description": "A medium sized restaurant in the historic center of Arequipa with a mostly vegan menu. Menu of the day, plus a la carte ordering. One of the few places in town open for dinner.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle Peru 100-D",
+  "phone": "tel:287971",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-3:00pm, 5:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-16.400007,-71.532948&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-16.400007,-71.532948&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

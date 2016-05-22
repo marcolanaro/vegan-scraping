@@ -1,0 +1,16 @@
+{
+  "title": "Top Carrot",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarian except for fish. Breakfast, lunch, and dinner. Has fresh juices. Casual.",
+  "priceRange": "Moderate",
+  "streetAddress": "3200 W South Airport Rd",
+  "phone": "tel:599-544-3381",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.042263,-63.106921&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.042263,-63.106921&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

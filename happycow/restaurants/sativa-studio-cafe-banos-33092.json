@@ -1,0 +1,17 @@
+{
+  "title": "Sativa Studio Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Juice bar, Take-out, Afro Caribbean\n                                    ",
+  "description": "Colorfully decorated vegetarian restaurant offering dishes like tamales, vegan burger, and plaintain. Beverages include organic coffee, herbal tea, and probiotic drinks. Has an attached pottery studio.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle Luis A Martinez y Eloy Alfaro St, Correo Central",
+  "phone": "tel:097-235-598",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-1.398858,-78.424556&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-1.398858,-78.424556&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

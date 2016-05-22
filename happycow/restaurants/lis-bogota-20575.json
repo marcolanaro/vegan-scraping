@@ -1,0 +1,16 @@
+{
+  "title": "Lis",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Colombian\n                                    ",
+  "description": "A multi-story restaurant building, and the 4th floor is the vegetarian restaurant. Busy at lunch with office workers. Arrive before 1230pm for a table.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Carrera 7, 17-10, 4th Floor",
+  "phone": "tel:334-2977",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.603538,-74.072232&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.603538,-74.072232&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Health-Mart",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Organic, Western, Take-out\n                                    ",
+  "description": "A full service vegetarian dining room located inside a health food store. Cuisine is an ethnic collection of international dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Triumph Plaza, Ste 102, Carr 3 km 83.6",
+  "postalCode": "00791",
+  "phone": "tel:787-392-4988",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Health-Mart/316407791746226",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.132987,-65.820394&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.132987,-65.820394&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

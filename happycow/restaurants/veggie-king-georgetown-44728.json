@@ -1,0 +1,14 @@
+{
+  "title": "Veggie King",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Vegan and vegetarian restaurant offers meals, fresh local juices and irishmoss/seamoss shakes, whole wheat pastries and bread, as well as chunks and soy milk powder.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "145 Fifth Street, Alberttown",
+  "phone": "tel:592-227-7280",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.812355,-58.154965&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.812355,-58.154965&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

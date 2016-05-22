@@ -1,0 +1,19 @@
+{
+  "title": "Veggie Bean",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Western\n                                    ",
+  "description": "Vegetarian cafe opened summer 2015 on Ko Samui, located on the main road just out of Chewang towards Lamai. Offers a variety of fruity drinks and teas as well as salads, sandwiches / light meals, and desserts. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "82/27 Moo 3, Chaweng Noi",
+  "postalCode": "84320",
+  "phone": "tel:0945696566",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VeggieBeanCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.506805,100.053808&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.506805,100.053808&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

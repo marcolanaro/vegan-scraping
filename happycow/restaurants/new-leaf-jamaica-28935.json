@@ -1,0 +1,16 @@
+{
+  "title": "New Leaf",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Jamaican\n                                    ",
+  "description": "Ninety-nine percent of the dishes are vegan in this fast food place with seating at the counter. Serves juices and baked goods also.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Old Hope Rd",
+  "phone": "tel:876-977-2358",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.020324,-76.768298&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.020324,-76.768298&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

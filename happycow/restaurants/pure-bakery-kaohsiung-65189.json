@@ -1,0 +1,15 @@
+{
+  "title": "Pure Bakery",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "A fully vegan bakery making breads and cakes.",
+  "streetAddress": "21, Lane 126, Chenghe Rd",
+  "postalCode": "807",
+  "phone": "tel:0910975575",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 3:30pm-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/purebakery2012",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.645376,120.343225&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.645376,120.343225&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

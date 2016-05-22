@@ -1,0 +1,12 @@
+{
+  "title": "DAC",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Fresh organic produce, soy products, many vegan options.",
+  "streetAddress": "30 Ave and Constituyentes",
+  "phone": "tel:984-873-3334",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-10:00pm, Sat 7:00am-9:00pm, Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.633180,-87.073982&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.633180,-87.073982&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

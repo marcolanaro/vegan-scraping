@@ -1,0 +1,17 @@
+{
+  "title": "Restaurante All Natural",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Salad bar, Juice bar, Delivery, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican restaurant with a few vegan choices or ones that can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle 29, 377 x 32 y 34  Col Emiliano Zapata Norte",
+  "postalCode": "97123",
+  "phone": "tel:1962902",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-4:00pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.012778,-89.611452&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.012778,-89.611452&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

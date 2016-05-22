@@ -1,0 +1,17 @@
+{
+  "title": "An Lac Tam 2",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Vietnamese\n                                    ",
+  "description": "Small local eatery offering rice with variety of dishes and noodles. Point what you'd like. NOTE: Please send exact map location (coordinates) to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "A12 Nguyen Dinh Chieu P9",
+  "phone": "tel:906897759",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:00am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.938835,108.447019&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.938835,108.447019&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

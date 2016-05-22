@@ -1,0 +1,16 @@
+{
+  "title": "Garzon Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Latin American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Owned by Argentinian chef Francis Mallmann. Uses vegetables from a local organic farm, and olive oil and wines are local and exceptional.",
+  "priceRange": "Expensive",
+  "streetAddress": "Main Square",
+  "phone": "tel:+59844102811",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.592222,-54.545000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.592222,-54.545000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

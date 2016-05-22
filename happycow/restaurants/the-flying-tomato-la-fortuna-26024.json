@@ -1,0 +1,18 @@
+{
+  "title": "The Flying Tomato",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Western, Juice bar\n                                    ",
+  "description": "This vegetarian cafe is part of the Cabinas Arsol hotel (formerly Los Tres Gatos). Has a casual atmosphere. Offers soy burgers, stir frys, soups, burritos, plate of the day.",
+  "priceRange": "Moderate",
+  "streetAddress": "corner of Avenida 333 calle 464",
+  "phone": "tel:506-2479-9913",
+  "venueHours": "\n                                                                                                        Mon-Tue 7:30am-6:00pm, Wed-Sat 7:30am-8:00pm, Sun 7:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/The-Flying-Tomato-Cafe-La-Fortuna/184646402398",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.473434,-84.643041&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.473434,-84.643041&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

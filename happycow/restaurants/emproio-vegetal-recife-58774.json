@@ -1,0 +1,19 @@
+{
+  "title": "Emporio Vegetal",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Delivery, Take-out, Brazilian, Latin American\n                                    ",
+  "description": "Pleasant restaurant offering a buffet spread.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua Capitão Ribelinho, 695",
+  "postalCode": "51011-000",
+  "phone": "tel:81-33253463",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.097056,-34.884515&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.097056,-34.884515&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

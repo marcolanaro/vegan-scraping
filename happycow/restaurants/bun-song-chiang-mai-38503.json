@@ -1,0 +1,16 @@
+{
+  "title": "Bun Song",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Take-out\n                                    ",
+  "description": "Small eatery within walking distance of the train station. Offers the standard fare with more Northern Thai food, point to what you'd like. Owner speaks little English. Direction: from the station follow the road with the tracks on your left, take the first road right and follow it to the end, turn right and the eatery will be on your left. If coming from the other direction, past Kawilla barracks. Open hours vary - call ahead.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kong Sai Road",
+  "phone": "tel:08-98504988",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.783674,99.012739&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.783674,99.012739&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

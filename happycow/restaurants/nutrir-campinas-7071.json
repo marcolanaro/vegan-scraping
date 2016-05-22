@@ -1,0 +1,16 @@
+{
+  "title": "Nutrir",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Buffet, Fast food, Juice bar\n                                    ",
+  "description": "Small place with a self-service buffet featuring Brazilian food and salads. Also sells health products.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1620 Rua Dr Quirino",
+  "phone": "tel:19-3233-3056",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-22.901280,-47.059490&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-22.901280,-47.059490&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Deli Soya",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Juice bar, Fusion, Colombian\n                                    ",
+  "description": "Fresh tofu made by Japanese-Colombians. Okara is used in the delicious burgers (available to take away only) and in some desserts. Fresh juice in water and soy milk. Menu changes daily.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle 78, no. 12-03",
+  "phone": "tel:3462178",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.663269,-74.055649&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.663269,-74.055649&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

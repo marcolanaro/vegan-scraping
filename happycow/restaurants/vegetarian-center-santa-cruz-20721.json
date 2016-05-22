@@ -1,0 +1,14 @@
+{
+  "title": "Vegetarian Center",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Buffet, Salad bar, Bolivian\n                                    ",
+  "description": "Buffet lunch with large salad bar.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle Aroma 64",
+  "phone": "tel:3371797",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-17.788790,-63.197418&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-17.788790,-63.197418&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

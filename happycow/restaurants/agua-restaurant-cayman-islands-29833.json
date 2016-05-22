@@ -1,0 +1,17 @@
+{
+  "title": "Agua Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a separate vegan menu; please ask server. Try the risotto with mushrooms and salad.",
+  "priceRange": "Expensive",
+  "streetAddress": "West Bay Rd",
+  "phone": "tel:345-949-2482",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.333867,-81.381699&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.333867,-81.381699&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

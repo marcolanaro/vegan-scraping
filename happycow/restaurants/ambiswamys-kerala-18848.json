@@ -1,0 +1,17 @@
+{
+  "title": "Ambiswamys",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Indian, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Garden restaurant. Ambis special dosa.",
+  "priceRange": "Moderate",
+  "streetAddress": "MG Road, Pallimukku, Ernakulam",
+  "postalCode": "682016",
+  "phone": "tel:2376799",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.965710,76.286680&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.965710,76.286680&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

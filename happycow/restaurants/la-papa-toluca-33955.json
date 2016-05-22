@@ -1,0 +1,16 @@
+{
+  "title": "La Papa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International\n                                    ",
+  "description": "Small vegetarian restaurant located close to the city center. Set meals includes salad, soup, main dish, dessert and fruit infusion with vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ave 1o de Mayo, Unit 412 , Toluca Centro",
+  "phone": "tel:722-213-42-09",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.254375,-99.663522&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.254375,-99.663522&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "La Oveja Verde",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Mexican\n                                    ",
+  "description": "Serves vegan tacos, cupcakes and ice cream, coffee. Moved here in early-2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "Paricutin 1814",
+  "postalCode": "64700",
+  "phone": "tel:868-101-0094",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ovejaxverde",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.660734,-100.298422&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.660734,-100.298422&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

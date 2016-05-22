@@ -1,0 +1,17 @@
+{
+  "title": "Tektek Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Pizza, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small place offering pizza, burger, and cake. Reported offering vegan cake and food choices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Nail Bey Sokak 15a, Caferaga Mah",
+  "postalCode": "Kadiköy",
+  "phone": "tel:02163378758",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:30am-12:00am, Fri-Sun 10:30am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.988383,29.028051&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.988383,29.028051&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

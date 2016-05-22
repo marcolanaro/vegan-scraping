@@ -1,0 +1,16 @@
+{
+  "title": "Alimentos Vida Saludable",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Juice bar, Colombian\n                                    ",
+  "description": "Small vegetarian restaurant in the Aranjuez neighborhood, halfway between the Berlin and Parque Aranjuez Metroplus stations. Offer a meal of the day and limited a la carte selections. Has juices and juice blends. Only two tables.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle 93 # 46A-11",
+  "phone": "tel:312-2241422",
+  "venueHours": "\n                                                                                                        Tue-Thu 8:00am-6:00pm, Fri-Sat 10:00am-10:00pm, Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.284341,-75.554446&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.284341,-75.554446&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

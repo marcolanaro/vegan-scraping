@@ -1,0 +1,16 @@
+{
+  "title": "MG's Cafe Taipan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, International, Asian\n                                    ",
+  "description": "Western style vegetarian cafe and bakery. Bread, Chinese pastries, Asian and Western set meals, Brazilian coffee, and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "47, Jalan USJ 10/1A, 47620 Uep",
+  "phone": "tel:6-03-56313023",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.049968,101.584750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.049968,101.584750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

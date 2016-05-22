@@ -1,0 +1,16 @@
+{
+  "title": "Aquarius",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Chilean\n                                    ",
+  "description": "A cozy 100% vegetarian/vegan restaurant inside a colonial building, with several dining rooms. Menu is mostly vegan. Uses local ingredients. Located a bit south and east of the main plaza. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle Cruz Verde 221",
+  "phone": "tel:696857",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-8:00pm, Sun 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-16.399209,-71.540088&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-16.399209,-71.540088&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

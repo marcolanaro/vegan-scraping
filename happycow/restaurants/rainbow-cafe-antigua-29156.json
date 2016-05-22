@@ -1,0 +1,14 @@
+{
+  "title": "Rainbow Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan options like Israeli falafel with hummus, salad, and pita bread, rice and beans, tofu stir fry with vegetables and white rice.",
+  "priceRange": "Moderate",
+  "streetAddress": "7ma. Avenida Sur 8",
+  "phone": "tel:502-7832-1919",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.555426,-90.736472&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.555426,-90.736472&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

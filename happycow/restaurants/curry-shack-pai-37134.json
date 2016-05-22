@@ -1,0 +1,18 @@
+{
+  "title": "Curry Shack",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An open air shack that offers currys. The kitchen is in the back and patrons get a full view of the food being cooked. The owner hands you a menu, a piece of paper, and a pen, and you are expected to write your order and hand it back to him. All the curries (green, red, Masaman, Indian, Panang, kua, and the daily special) have a vegetarian option. Directions: take the Walking Street towards the river, when the street begins a downhill slope notice the alley called Thedsaban Soi 2, there is a sign on the post at the top of the alley, walk down about 30 metres, and Curry Shack will be on the left.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Thedsaban Soi 2",
+  "postalCode": "58130",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:30am-3:00pm, 3:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.358241,98.443644&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.358241,98.443644&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

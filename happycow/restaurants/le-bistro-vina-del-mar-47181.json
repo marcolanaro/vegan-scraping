@@ -1,0 +1,15 @@
+{
+  "title": "Le Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, European, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This French restaurant offers one daily vegetarian menu choice and has a veggie lasagna, a mixed salad, and vegetable soup.",
+  "priceRange": "Expensive",
+  "streetAddress": "11 Pte Quinta",
+  "phone": "tel:032-2680276",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 9:30am-4:30pm, Tue-Thu 9:30am-10:30pm, Fri 9:30am-11:00pm, Sat 12:30pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/merci.chile",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.023089,-71.553925&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.023089,-71.553925&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

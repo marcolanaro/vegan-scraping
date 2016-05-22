@@ -1,0 +1,18 @@
+{
+  "title": "Vitality Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Organic, Raw, Juice bar, Take-out\n                                    ",
+  "description": "Modern-style vegetarian cafe with a juice bar. Offers mostly vegan food including vegan baked goods, some raw food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Atlixcayotl 4008 Plaza Santa Fé, Local 114",
+  "postalCode": "72825",
+  "phone": "tel:01-2222104433",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-8:00pm, Sat 8:00am-7:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/vitalitykitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.013668,-98.257956&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.013668,-98.257956&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

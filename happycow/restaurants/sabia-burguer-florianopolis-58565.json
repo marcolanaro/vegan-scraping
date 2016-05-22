@@ -1,0 +1,15 @@
+{
+  "title": "Sabia Burguer",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Vegan meals company delivering by bike.",
+  "streetAddress": "Rodovia Dr Antônio Luiz Moura Gonzaga, 2146",
+  "phone": "tel:048-99503520",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/sabiaveganburguer",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.650717,-48.478948&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.650717,-48.478948&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

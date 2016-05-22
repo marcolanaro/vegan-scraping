@@ -1,0 +1,16 @@
+{
+  "title": "Delicias Vegetarianas",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Ecuadorian\n                                    ",
+  "description": "Local vegan food restaurant. Please confirm location and update HappyCow.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle Babahoyo",
+  "phone": "tel:0988811366",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-0.251413,-79.169826&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-0.251413,-79.169826&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

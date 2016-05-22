@@ -1,0 +1,17 @@
+{
+  "title": "Vegan Art Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "Name 维根艺厨, address 江岸区芦沟桥路28号武汉新天地A4地块第三期11号楼11-2-AB单元(近胜利街). Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "11-2-AB, Block A4, Wuhan Xintiandi, 28 Lugouqiao Rd, Jiangan District",
+  "phone": "tel:027-82721829",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.607412,114.311948&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.607412,114.311948&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

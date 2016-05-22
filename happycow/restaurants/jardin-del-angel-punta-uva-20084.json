@@ -1,0 +1,18 @@
+{
+  "title": "Jardin Del Angel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Costa Rican\n                                    ",
+  "description": "A small restaurant owned and operated by a couple. The breakfast and lunch options change daily and you can expect granola, fresh fruit, soy milk, pancakes, for lunch anything from curries, lasagna and Costa Rican dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Punta Uva",
+  "postalCode": "02142",
+  "phone": "tel:506-27500695",
+  "venueHours": "\n                                                                                                        Tue-Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.513240,-84.185638&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.513240,-84.185638&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

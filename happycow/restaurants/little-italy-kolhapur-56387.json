@@ -1,0 +1,22 @@
+{
+  "title": "Little Italy",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Buffet, Beer/Wine, Take-out, Mexican\n                                    ",
+  "description": "Chain of upscale Italian restaurants serving lacto-vegetarian cuisine. Kitchen rests between meals.",
+  "priceRange": "Expensive",
+  "streetAddress": "Hotel Panchshil, 517 / A-2, Shivaji Park",
+  "postalCode": "416001",
+  "phone": "tel:0231-2537133",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/littleitaly.restaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.702717,74.248011&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.702717,74.248011&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

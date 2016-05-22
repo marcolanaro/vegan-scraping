@@ -1,0 +1,16 @@
+{
+  "title": "El Punto Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Juice bar, Take-out, Colombian\n                                    ",
+  "description": "A vegetarian restaurant and health shop. Uses fresh local and organic veggies and fruits Try the soup of the day or the house salad with dried fruit.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle 6",
+  "phone": "tel:3003556237",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 1:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.635916,-75.570188&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.635916,-75.570188&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

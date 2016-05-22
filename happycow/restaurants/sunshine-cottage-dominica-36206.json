@@ -1,0 +1,18 @@
+{
+  "title": "Sunshine Cottage",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Organic, Beer/Wine, Take-out\n                                    ",
+  "description": "Mountain view cottage accommodation and restaurant. Serves wood oven pizzas, organic salads, and tofu. Drive outside of Roseau on the main road to Trafalgar, in the small village of Shawford. Look for the sign on the right side \"wood oven pizza.\"",
+  "priceRange": "Moderate",
+  "streetAddress": "Shawford Estate, 5 mile drive uphill towards Trafalgar",
+  "phone": "tel:767-285-6399",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sun 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.309077,-61.358819&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.309077,-61.358819&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

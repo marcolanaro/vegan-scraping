@@ -1,0 +1,17 @@
+{
+  "title": "Roselee Coffee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Thai, Western, Beer/Wine, Take-out\n                                    ",
+  "description": "Small cafe serving Thai and Western vegan food plus coffee, tea, and dessert. Can ask to use less oil. Near Fortune Tower and Rama 9 MRT.",
+  "priceRange": "Moderate",
+  "streetAddress": "588/2 Asoke Din Daeng Rd",
+  "phone": "tel:0879939131",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.756819,100.558680&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.756819,100.558680&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

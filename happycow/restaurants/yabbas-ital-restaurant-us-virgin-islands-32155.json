@@ -1,0 +1,18 @@
+{
+  "title": "Yabba's Ital Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Caribbean, Ital\n                                    ",
+  "description": "Menu specials change daily and usually includes fried cauliflower, stir-fried tofu, and brown rice. Very casual.",
+  "priceRange": "Moderate",
+  "streetAddress": "Anna's Fancy Unit 21",
+  "postalCode": "00802",
+  "phone": "tel:3402444229",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.343600,-64.932200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.343600,-64.932200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Green Vege Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Western\n                                    ",
+  "description": "Address 徐汇区中山南二路699号正大乐城3-301室(近船厂路). Very stylish vintage interior. Menu with English. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "3-301 ZhengDa LeCheng, 699 Zhongshan South 2nd Road, Xuhui District",
+  "phone": "tel:021-60672555",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.186685,121.459264&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.186685,121.459264&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

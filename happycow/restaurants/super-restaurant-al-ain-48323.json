@@ -1,0 +1,18 @@
+{
+  "title": "Super Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Indian, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Popular, well-established, predominantly Indian (along with Chinese) restaurant, with extensive vegetarian menu of 30+ items. Some vegan items available on vegetarian menu. Vegans please inquire about use of cheese (paneer) or cream in sauces and gravies.",
+  "priceRange": "Moderate",
+  "streetAddress": "Near Khalifa Road",
+  "postalCode": "16942",
+  "phone": "tel:971-37665010",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-12:30am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SuperRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.207610,55.744623&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.207610,55.744623&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

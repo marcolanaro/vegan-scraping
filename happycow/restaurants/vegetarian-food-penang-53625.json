@@ -1,0 +1,17 @@
+{
+  "title": "Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "Vegetarian vendor in the non-veg restaurant, Kuta Bali Cafe. Sells noodle soups. Open Wed if on 1st or 15th of lunar calender.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "19, Lintang Paya Terubong 1, Paya Terubong",
+  "postalCode": "11060",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 5:00pm-11:00pm, Thu-Sun 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.371246,100.277719&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.371246,100.277719&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

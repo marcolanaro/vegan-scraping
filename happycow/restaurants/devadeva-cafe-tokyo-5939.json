@@ -1,0 +1,16 @@
+{
+  "title": "DevaDeva Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Macrobiotic, Organic\n                                    ",
+  "description": "A comfortable vegetarian cafe serving pizza, curry and rice, sandwich, salad, veggie burger, caffeine-free drinks, juices, non-alcoholic cocktails, eggless baking, and other sweets. Also a shop.",
+  "priceRange": "Moderate",
+  "streetAddress": "2-14-7 2F, Kichijoji-Honcho, Musashino-Shi",
+  "postalCode": "180-0004",
+  "phone": "tel:04-22216220",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-9:00pm, Fri-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/devadevacafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.706580,139.577710&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.706580,139.577710&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

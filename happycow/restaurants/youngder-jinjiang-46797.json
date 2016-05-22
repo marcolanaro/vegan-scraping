@@ -1,0 +1,14 @@
+{
+  "title": "Youngder",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Fast food\n                                    ",
+  "description": "Self-serve healthy food vegetarian buffet, across from the park.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "88 Changxing Road",
+  "phone": "tel:0595-85673887/,%2088399666",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-1:30pm, 5:30pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.793029,118.576020&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.793029,118.576020&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

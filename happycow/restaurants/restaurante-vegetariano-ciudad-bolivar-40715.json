@@ -1,0 +1,14 @@
+{
+  "title": "Restaurante Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Venezuelan, Latin American\n                                    ",
+  "description": "A vegetarian restaurant that also offers yoga classes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Corner of Calle Concordia and Calle Dalla Costa",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-3:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.140541,-63.555272&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.140541,-63.555272&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

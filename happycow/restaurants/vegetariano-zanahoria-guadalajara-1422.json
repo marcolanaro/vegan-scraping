@@ -1,0 +1,15 @@
+{
+  "title": "Vegetariano Zanahoria",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Mexican\n                                    ",
+  "description": "Veggie restaurant and also a small health food store.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Americas 332",
+  "postalCode": "44600",
+  "phone": "tel:33-36166161/,%20333-6158710",
+  "venueHours": "\n                                                                                                        Mon 8:00am-7:00pm, Wed-Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.682942,-103.373272&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.682942,-103.373272&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

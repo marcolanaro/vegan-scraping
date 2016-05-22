@@ -1,0 +1,17 @@
+{
+  "title": "FreshBowl",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Juice bar, Brazilian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a variety of salads, juices, and acai.",
+  "priceRange": "Moderate",
+  "streetAddress": "Av Atlantica 2554",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.991325,-48.629213&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.991325,-48.629213&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

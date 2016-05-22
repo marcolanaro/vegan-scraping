@@ -1,0 +1,14 @@
+{
+  "title": "Baobab",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        African, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small South African restaurant. Can serve gluten-free.",
+  "priceRange": "Expensive",
+  "streetAddress": "Philipstockstraat 27, Brugge",
+  "phone": "tel:050-331408",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-2:00pm, 6:30pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.209580,3.226470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.209580,3.226470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

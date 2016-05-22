@@ -1,0 +1,17 @@
+{
+  "title": "El Nuevo Paraiso",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Juice bar, Ecuadorian\n                                    ",
+  "description": "Vegetarian fast food restaurant chain with several locations in Cuenca. Offers a daily menu and a-la-carte dishes. Local food. Fresh juices and ice cream available. Food is low in salt and less fat.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jose Peralta 3-105 y Av del Estadio esq",
+  "phone": "tel:4103406",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-2.906398,-79.004396&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-2.906398,-79.004396&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

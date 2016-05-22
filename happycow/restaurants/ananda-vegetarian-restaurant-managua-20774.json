@@ -1,0 +1,17 @@
+{
+  "title": "Ananda Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Asian, Nicaraguan\n                                    ",
+  "description": "Restaurant across from Montoya Statue with a large gate painted orange and green. It's associated with the nearby macrobiotic shop. Relaxed atmosphere, limited English spoken. Serves local dishes prepared with soy substitutes for what would otherwise be meat, as well as many tofu dishes. Also sell whole wheat bread.",
+  "priceRange": "Moderate",
+  "streetAddress": "Corner 17 Avenida Suroeste and Paseo Salvador Allende, Barrio Marta Quezada",
+  "phone": "tel:22284140",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.146679,-86.287360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.146679,-86.287360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

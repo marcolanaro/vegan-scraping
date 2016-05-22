@@ -1,0 +1,15 @@
+{
+  "title": "Restoran Sayur-Sayuran West Point",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Asian\n                                    ",
+  "description": "A vegetarian restaurant serving Asian food. Has vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jalan RJ 6/7, Taman Rasah Jaya",
+  "postalCode": "70300",
+  "phone": "tel:016-3225635",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.682004,101.943455&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.682004,101.943455&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

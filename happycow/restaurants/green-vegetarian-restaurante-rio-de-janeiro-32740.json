@@ -1,0 +1,15 @@
+{
+  "title": "Green Vegetarian Restaurante",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Western\n                                    ",
+  "description": "Vegetarian restaurant with vegan options. Located in downtown Rio de Janeiro.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua do Carmo, 38",
+  "postalCode": "20011-020",
+  "phone": "tel:21-2252-5356",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-22.903565,-43.176020&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-22.903565,-43.176020&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Hotel Majestic",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurant located inside a Best Western hotel, open to the public. Menu includes many vegetarian and vegan meals. Reservations required for Friday and Saturday nights.",
+  "priceRange": "Moderate",
+  "streetAddress": "C/ Santo Domingo 1526",
+  "phone": "tel:2-6958366",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.604990,-7.242850&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.604990,-7.242850&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

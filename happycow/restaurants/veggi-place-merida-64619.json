@@ -1,0 +1,15 @@
+{
+  "title": "Veggi Place",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Take-out, Mexican\n                                    ",
+  "description": "A small 100% vegetarian restaurant with vegan options. Different main dishes daily. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle 29, No 354, Frac Montebello",
+  "postalCode": "97130",
+  "phone": "tel:+52-9992180479",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.028273,-89.597193&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.028273,-89.597193&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

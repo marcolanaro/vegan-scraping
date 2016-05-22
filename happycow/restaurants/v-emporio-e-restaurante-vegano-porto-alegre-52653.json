@@ -1,0 +1,19 @@
+{
+  "title": "Ve - Emporio e Restaurante Vegano",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Buffet, Take-out\n                                    ",
+  "description": "A 100% vegan restaurant with plenty of gluten free options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Av Lageado, 1265",
+  "postalCode": "90460-110",
+  "phone": "tel:+55-5130224942",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/verestaurante",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-30.034823,-51.179395&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-30.034823,-51.179395&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Casa Vegetariana",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Vegetarian store selling prepared meals (rice, empanada, lasagna, tamales), mock-meats, vegan cheese, arepa, grains and cereals, nuts and seeds, sauces and dressings, jams, spices, sweeteners, baked goods and snack foods.",
+  "streetAddress": "Calle 12 Sur no. 50 C-46, Sector Aguacatala",
+  "phone": "tel:3229522/,%203632255",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-7:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.196079,-75.583798&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.196079,-75.583798&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Cocina Vegetariana",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Colombian\n                                    ",
+  "description": "Home-style vegetarian restaurant. Offers fresh, daily menu lunch.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle 18n 9-70, Local 313-2, CC Colseguros",
+  "phone": "tel:2837627",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.605931,-74.073862&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.605931,-74.073862&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

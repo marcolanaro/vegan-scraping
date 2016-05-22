@@ -1,0 +1,14 @@
+{
+  "title": "Hexie Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "Chinese Name: 和谐餐厅 Chinese Address: 宁夏吴忠市文卫路南5号楼505号.",
+  "priceRange": "Moderate",
+  "streetAddress": "No. 505, South 5th Building, Wenwei Rd.",
+  "phone": "tel:86-13519556845",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.979810,106.210110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.979810,106.210110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

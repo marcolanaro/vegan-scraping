@@ -1,0 +1,17 @@
+{
+  "title": "Masum Mutfak",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Organic, Western, Mediterranean, Turkish\n                                    ",
+  "description": "Organic cafe serving vegetarian food and a wide selection of tea and coffee drinks. On the menu are breakfast food, bruschetta, falafel, dumplings, savory appetizers, desserts, and a daily lunch menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kuzguncuk mah. İcadiye cad, 21 ",
+  "postalCode": "34674",
+  "phone": "tel:02162011481",
+  "venueHours": "\n                                                                                                        Mon-Tue 9:00am-8:00pm, Thu-Fri 9:00am-8:00pm, Sat-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.035802,29.030011&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.035802,29.030011&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

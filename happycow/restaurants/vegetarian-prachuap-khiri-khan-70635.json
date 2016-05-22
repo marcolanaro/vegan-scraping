@@ -1,0 +1,16 @@
+{
+  "title": "Vegetarian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Asian\n                                    ",
+  "description": "Medium-sized eatery and small shop, with pre-made food. Offers complimentary water. Situated in a small street (Soi 4) between Sala Cheep Rd (Thanon Sala Cheep) and Sue Suk, next to Maggie's Homestay guesthouse. If going from the Prachuap Khiri Khan seaside, just turn around Suksan Hotel into the small street.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Soi 4 between Sala Cheep Rd and Sue Suk",
+  "phone": "tel:032-611672",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.805723,99.798095&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.805723,99.798095&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

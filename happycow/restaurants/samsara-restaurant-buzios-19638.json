@@ -1,0 +1,17 @@
+{
+  "title": "samsara restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Buffet, Salad bar, Juice bar, Brazilian, Buddhist\n                                    ",
+  "description": "Buffet place where you pay for what you eat. Around 32 reais per kilo. Offers over 10 salad options, and over 10 warm dishes. Outside seating available on the balcony, above the Buddhist shop of the same name.",
+  "priceRange": "Moderate",
+  "streetAddress": "rua Santana Maia 684",
+  "phone": "tel:+55-22-26231080",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-22.748080,-41.881320&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-22.748080,-41.881320&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

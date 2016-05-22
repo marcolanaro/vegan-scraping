@@ -1,0 +1,18 @@
+{
+  "title": "Saks",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Mediterranean, Juice bar, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Natural food restaurant with several locations in Mexico City (see website). Upscale atmosphere. Uses many organic ingredients.",
+  "priceRange": "Expensive",
+  "streetAddress": "Plaza San Jacinto 9, Col. San Angel",
+  "postalCode": "01000",
+  "phone": "tel:5616-1601",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-12:00am, Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/RestauranteSaks",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.344811,-99.192382&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.344811,-99.192382&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Oi Potato - Melton",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Fast food, Take-out, British, English\n                                    ",
+  "description": "Modern fast-food restaurant serving veggie burger and chips, jacket potatoes and salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "29 Melton Rd",
+  "postalCode": "LE4 6PN",
+  "phone": "tel:01162663441",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.652962,-1.119975&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.652962,-1.119975&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

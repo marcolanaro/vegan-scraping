@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Louise",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Mediterranean, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe with several locations. Offers fresh, healthier food with vegan choices including vegan breakfast.",
+  "priceRange": "Moderate",
+  "streetAddress": "Alexander Zaid 1",
+  "phone": "tel:04-8203969",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafelouisehaifa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.711796,35.125028&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.711796,35.125028&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

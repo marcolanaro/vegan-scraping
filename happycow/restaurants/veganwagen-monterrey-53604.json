@@ -1,0 +1,19 @@
+{
+  "title": "VeganWagen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Mexican\n                                    ",
+  "description": "Prepares food using many organic ingredients and no soy TVP or gluten. Est. 2014 as a food stand at Alejandro de Humboldt 1001, then moved here in 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ignacio Luis Vallarta 511, Centro",
+  "postalCode": "64000",
+  "phone": "tel:19297222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Fri 7:00pm-11:00pm, Sat 2:00pm-11:00pm, Sun 1:00pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VeganWagen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.681325,-100.326205&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.681325,-100.326205&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

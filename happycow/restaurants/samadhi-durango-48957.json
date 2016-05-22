@@ -1,0 +1,16 @@
+{
+  "title": "Samadhi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Juice bar, Beer/Wine, Mexican\n                                    ",
+  "description": "Vegetarian restaurant featuring Mexican food with plenty of vegan options. Serves pozore using mock meat, gordita with nopales (cactus), burgers and more. Also serves breakfast.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Negrete 403, Colonial Centro",
+  "phone": "tel:+52-6188116227",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.025638,-104.675293&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.025638,-104.675293&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

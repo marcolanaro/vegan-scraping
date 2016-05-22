@@ -1,0 +1,14 @@
+{
+  "title": "Jengibre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Colombian\n                                    ",
+  "description": "The vegetarian lunch set menu includes an appetizer, a main course, juice, salad, and dessert",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle 14Sur no. 19-44",
+  "phone": "tel:2394637",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.587883,-74.099514&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.587883,-74.099514&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

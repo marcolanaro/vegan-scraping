@@ -1,0 +1,20 @@
+{
+  "title": "Barra 7",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Beer/Wine, Delivery, Take-out, Latin American\n                                    ",
+  "description": "Vegetarian and vegan cocina offering a wide variety of dishes. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Canelones 799",
+  "postalCode": "10000",
+  "phone": "tel:29017156",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-4:00pm, Mon-Thu 8:00pm-12:00am, Fri-Sat 8:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/BarraSiet",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.909246,-56.198601&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.909246,-56.198601&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

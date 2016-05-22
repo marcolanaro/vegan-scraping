@@ -1,0 +1,17 @@
+{
+  "title": "TacosNveggie Food Cart",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Delivery, Take-out, Mexican, Catering\n                                    ",
+  "description": "A 100% vegan/vegetarian taco food cart/stand. Taco fillings includes chile relleno, portobello, lentils with pasilla, eggplant, and potato and mushroom.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle Colima y Colombia and Colonia Cacho",
+  "phone": "tel:664-164-46-15",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:30am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/taconveggie",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.514947,-117.038247&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.514947,-117.038247&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

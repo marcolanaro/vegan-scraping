@@ -1,0 +1,17 @@
+{
+  "title": "Mr. Wang Ho",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Organic, Delivery, Take-out, Ecuadorian\n                                    ",
+  "description": "Small, family run business. Warm atmosphere. Daily special includes soup, fresh juice, and meal of the day.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Av. Victor Emilio Estrada 1004",
+  "phone": "tel:042382231",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-2.203813,-79.909194&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-2.203813,-79.909194&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

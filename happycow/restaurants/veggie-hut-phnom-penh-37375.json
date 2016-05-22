@@ -1,0 +1,14 @@
+{
+  "title": "Veggie Hut",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "Vegetarian cafe opened November 2012. Located in a section inside Tea Club Cafe. Has vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "199, Street 306",
+  "phone": "tel:012-599-446",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-2:30pm, Tue-Sun 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.551979,104.923414&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.551979,104.923414&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

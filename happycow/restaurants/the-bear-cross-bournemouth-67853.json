@@ -1,0 +1,19 @@
+{
+  "title": "The Bear Cross",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A pub serving food with a separate vegan menu which includes starters, mains, and dessert - ask for it.",
+  "priceRange": "Moderate",
+  "streetAddress": "Magna Rd",
+  "postalCode": "BH11 9LU",
+  "phone": "tel:01202574413",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-9:30pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.769677,-1.920397&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.769677,-1.920397&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Lotos",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Just around the corner from the restaurant with the same name (owned by members of the same family). Sells tofu in bulk, texturized vegetable protein, and other soy products. Also carries dried mushrooms, different types of grains, teas and many other health food products.",
+  "streetAddress": "San Lorenzo 607",
+  "postalCode": "4000",
+  "phone": "tel:0381-497-5060",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-1:30pm, 5:00pm-8:30pm, Sat 9:30am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.833347,-65.206907&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.833347,-65.206907&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

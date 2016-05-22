@@ -1,0 +1,16 @@
+{
+  "title": "Restaurante Vegetariano Viva Sano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Delivery, Columbian\n                                    ",
+  "description": "Small restaurant that serves all vegetarian food with vegan options. Large portions.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Carrera 8, Unit 6-46",
+  "phone": "tel:6751051",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.078680,-73.099640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.078680,-73.099640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "María Tomate",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Mexican\n                                    ",
+  "description": "A small 100% vegan/vegetarian restaurant offers a menu of the day that features a salad, soup, main dish, dessert, and drink. Also has a small menu that features items like portabello hamburgers, souffles, fettuccine. Indoor and outdoor seating. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Justo Sierra 2202",
+  "postalCode": "44600",
+  "phone": "tel:333-615-3895",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:30pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Maria-Tomate-399100816909307",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.677630,-103.372742&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.677630,-103.372742&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

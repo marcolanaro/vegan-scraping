@@ -1,0 +1,18 @@
+{
+  "title": "Casa da Sopa",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Buffet, Salad bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. All-you-can-eat soup and food bar. Man different kinds of soups as well as dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Av. Constelacao 22, Morada do Sol",
+  "postalCode": "69060-081",
+  "phone": "tel:0055-92-36488667",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-3.093893,-60.003834&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-3.093893,-60.003834&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

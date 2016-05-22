@@ -1,0 +1,16 @@
+{
+  "title": "El Buho Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Organic, Western, Juice bar, Take-out, Bakery\n                                    ",
+  "description": "Located near the UCR. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Libreria Universitaria, 25 mt East of Soda la U",
+  "phone": "tel:22246293",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.934437,-84.050423&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.934437,-84.050423&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Eden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Fast food\n                                    ",
+  "description": "Create-your-own smoothies choosing soy milk, nut milk, or natural juices used with your choice of fruit, nuts, and non-dairy ice cream. Vege burgers, vege dogs, vege chilli dogs, and haystack (vegetarian chili over lettuce, tomato, olives, and onion on a bed of corn chips and topped with vegan cheese).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "41 King St, Pembroke",
+  "postalCode": "HM19",
+  "phone": "tel:441-292-4111",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-3:30pm, Fri 9:00am-12:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.294841,-64.778528&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.294841,-64.778528&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

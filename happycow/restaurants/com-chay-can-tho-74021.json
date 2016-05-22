@@ -1,0 +1,17 @@
+{
+  "title": "Com Chay",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Asian, Vietnamese\n                                    ",
+  "description": "Restaurant that uses minimal MSG. Limited English. Please send correct / exact map coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "100 meters south of Nguyen Linh on west side of street",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.038227,105.742785&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.038227,105.742785&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

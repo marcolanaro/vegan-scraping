@@ -1,0 +1,16 @@
+{
+  "title": "Biosalud",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Peruvian\n                                    ",
+  "description": "Offers set menu for breakfast, lunch, and dinner -- includes soup, small salad, and main dish. Note that open hours varies.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ave Los Héroes 686",
+  "phone": "tel:976790563",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-2:30pm, 7:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-7.188035,-78.511031&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-7.188035,-78.511031&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

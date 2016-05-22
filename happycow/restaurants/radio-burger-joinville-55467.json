@@ -1,0 +1,19 @@
+{
+  "title": "Radio Burger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American 1950s decor burger and fries restaurant. Meat and dairy based but could get a veggie burger made from soy and chickpeas and non-dairy milk shake.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua Ministro Calógeras, 543 - Centro",
+  "postalCode": "89201-500",
+  "phone": "tel:+55-4730261230",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:00pm-12:00pm, Fri-Sat 6:00pm-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/curtoradioburger",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.307372,-48.845471&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.307372,-48.845471&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

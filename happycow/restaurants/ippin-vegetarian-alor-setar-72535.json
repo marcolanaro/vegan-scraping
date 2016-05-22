@@ -1,0 +1,17 @@
+{
+  "title": "Ippin Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Asian\n                                    ",
+  "description": "一品舒食馆 serves wanton noodle, nasi lemak, bak kut teh and steamboat.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "99, Jalan Tandop 1, Kawasan Perusahaan Tandop Baru",
+  "postalCode": "05050",
+  "phone": "tel:017-5893915",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 8:00am-3:00pm, 6:00pm-9:00pm, Thu-Sun 8:00am-3:00pm, 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.082549,100.361350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.082549,100.361350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

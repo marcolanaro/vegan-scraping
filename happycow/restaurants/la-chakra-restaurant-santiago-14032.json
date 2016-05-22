@@ -1,0 +1,18 @@
+{
+  "title": "La Chakra Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, International, Organic, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant connected to a small health food store. Menu includes some vegetarian food and a few vegan options. Has fresh fruit juices, vegan desserts, organic chocolates, gluten, sugar, and wheat-free desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "Av Mariano Sanchez Fontecilla 534, Las Condes",
+  "phone": "tel:2342138",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-11:00pm, Sat 10:00am-11:00pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.422900,-70.594760&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.422900,-70.594760&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

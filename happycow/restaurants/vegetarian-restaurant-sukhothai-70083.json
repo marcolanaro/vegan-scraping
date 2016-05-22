@@ -1,0 +1,15 @@
+{
+  "title": "Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai\n                                    ",
+  "description": "Right across the road from the technical college with a few buffet options and noodle soup. Note map may be incorrect - please send exact map coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "57 Thanon Singhawat",
+  "postalCode": "64000",
+  "phone": "tel:0847208189",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.008656,99.822846&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.008656,99.822846&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

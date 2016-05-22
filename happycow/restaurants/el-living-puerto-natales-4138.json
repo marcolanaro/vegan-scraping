@@ -1,0 +1,16 @@
+{
+  "title": "El Living",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo\n                                    ",
+  "description": "Open from October-April. Serves wholesome vegetarian food, juices, coffee, and cakes. Also music and bar.",
+  "priceRange": "Moderate",
+  "streetAddress": "Arturo Prat 156",
+  "phone": "tel:61-411140",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-51.732530,-72.505130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-51.732530,-72.505130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

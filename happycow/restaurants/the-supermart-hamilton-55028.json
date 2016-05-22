@@ -1,0 +1,13 @@
+{
+  "title": "The Supermart",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Conventional grocery store that stocks many vegan and organic products, and has a salad bar.",
+  "streetAddress": "125 Front St",
+  "phone": "tel:441-292-2064",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-10:00pm, Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/thesupermart",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.292759,-64.779860&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.292759,-64.779860&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

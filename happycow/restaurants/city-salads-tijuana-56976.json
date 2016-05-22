@@ -1,0 +1,18 @@
+{
+  "title": "City Salads",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Salad bar with several locations, this one is at a mall. You choose the ingredients, toppings and salad dressing, and the staff makes your salad.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blvd Aguacaliente 10387 Local B-103 Fracc. Neidhart",
+  "postalCode": "22420",
+  "phone": "tel:52-6646818015",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.514034,-117.012834&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.514034,-117.012834&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

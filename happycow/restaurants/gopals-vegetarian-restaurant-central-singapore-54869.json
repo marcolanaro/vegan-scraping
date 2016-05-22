@@ -1,0 +1,16 @@
+{
+  "title": "Gopal's Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Western, Buffet, Take-out\n                                    ",
+  "description": "Offers a large menu of Northern and Southern Indian food as well western-style cuisine like pasta, burgers, and pizza. All-you-can-eat buffet on the weekend. No egg, garlic, or onion used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "517 Serangoon Rd",
+  "postalCode": "218156",
+  "phone": "tel:98533353",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-4:00pm, Mon-Sat 6:00pm-10:00pm, Sat 9:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/gopalscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.314731,103.857657&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.314731,103.857657&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

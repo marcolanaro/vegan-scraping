@@ -1,0 +1,16 @@
+{
+  "title": "Sabor Celestial",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Peruvian, Latin American\n                                    ",
+  "description": "A small vegan restaurant with 10 tables. Offers simple food in a convenient area of town between Miraflores and the historic center of Lima.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jr. Domingo Casanova 371",
+  "phone": "tel:4025955",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-12.089382,-77.031047&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-12.089382,-77.031047&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

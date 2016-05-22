@@ -1,0 +1,19 @@
+{
+  "title": "Chayo Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Indian, International, Organic, Western, Take-out\n                                    ",
+  "description": "Offering natural food, teas, drinks, and snacks using mostly organic ingredients sourced from local farmers. Reduced salt, sugar and oil, and no deep frying or microwave. No eggs used. Previously located in a different location on Kelana Jaya.",
+  "priceRange": "Moderate",
+  "streetAddress": "50-1 Kelana Mall, SS6/14 Kelana Jaya",
+  "postalCode": "47301",
+  "phone": "tel:6-03-78062035",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/chayocafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.104290,101.598520&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.104290,101.598520&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

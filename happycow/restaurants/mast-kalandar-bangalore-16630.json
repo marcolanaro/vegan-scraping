@@ -1,0 +1,15 @@
+{
+  "title": "Mast Kalandar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Indian\n                                    ",
+  "description": "Part of restaurant chain with outlets in Bangalore. Food tends to be spicy but not very oily. Can request for less spicy.",
+  "priceRange": "Moderate",
+  "streetAddress": "Church Street",
+  "postalCode": "560001",
+  "phone": "tel:+91-80-41475000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.973730,77.650810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.973730,77.650810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

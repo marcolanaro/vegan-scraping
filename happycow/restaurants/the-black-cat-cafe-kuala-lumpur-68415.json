@@ -1,0 +1,17 @@
+{
+  "title": "The Black Cat Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Western, Take-out, Asian, Bakery, Catering\n                                    ",
+  "description": "A vegetarian restaurant with vegan and garlic-and-onion free options.",
+  "priceRange": "Moderate",
+  "streetAddress": "B-00-11 Viva Residency, Jalan Suppiah Pillay",
+  "phone": "tel:603-40502822",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-8:00pm, Wed-Sat 11:00am-8:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/The-Black-Cat-Cafe-457368587767911",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.177903,101.685404&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.177903,101.685404&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

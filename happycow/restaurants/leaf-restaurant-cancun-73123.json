@@ -1,0 +1,19 @@
+{
+  "title": "Leaf Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, International, Macrobiotic, Organic, Raw, Mediterranean, Fast food, Juice bar, Beer/Wine, Take-out, Mexican, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic market and vintage bar with clearly labeled vegan choices. Also has paleo and gluten free items.",
+  "priceRange": "Moderate",
+  "streetAddress": "Pabellon Cumbres Local 13",
+  "postalCode": "77500",
+  "phone": "tel:+52-9988820720",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-11:00pm, Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/leafcancun",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.112193,-86.840713&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.112193,-86.840713&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

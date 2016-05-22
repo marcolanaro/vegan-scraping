@@ -1,0 +1,17 @@
+{
+  "title": "Aroma",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, International, Organic, Beer/Wine, Sri Lankan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Family run, organic restaurant with choices for vegans and others that can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Galle Road",
+  "phone": "tel:+94-774478644",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.127777,80.104976&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.127777,80.104976&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

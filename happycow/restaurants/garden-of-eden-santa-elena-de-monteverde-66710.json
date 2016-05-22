@@ -1,0 +1,18 @@
+{
+  "title": "Garden of Eden",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Salad bar, Take-out, Costa Rican\n                                    ",
+  "description": "Vegan restaurant and market, est. 2015. Serves plant-based food and has gluten-free, fat-free, sugar-free, soy-free.",
+  "priceRange": "Moderate",
+  "streetAddress": "Centro Comercial, Store 1",
+  "phone": "tel:26456151",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-7:00pm, Fri 11:00am-3:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.315795,-84.822602&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.315795,-84.822602&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

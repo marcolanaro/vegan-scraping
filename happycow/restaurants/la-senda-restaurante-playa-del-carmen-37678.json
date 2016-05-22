@@ -1,0 +1,18 @@
+{
+  "title": "La Senda Restaurante",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Juice bar, Mexican\n                                    ",
+  "description": "Vegan food and drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ave 10 N Entre Calles 10 y 10 bis, Colonia Centro",
+  "postalCode": "77730",
+  "phone": "tel:984-148-6597",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/lasendadepaz",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.627556,-87.073199&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.627556,-87.073199&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

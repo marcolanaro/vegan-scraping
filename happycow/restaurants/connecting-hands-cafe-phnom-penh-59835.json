@@ -1,0 +1,17 @@
+{
+  "title": "Connecting Hands Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Asian\n                                    ",
+  "description": "Not-for-profit training for women cafe, specializing in vegetarian dishes. Has smoothies.",
+  "priceRange": "Moderate",
+  "streetAddress": "42H, St 178",
+  "phone": "tel:+855-78588810",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/connectinghandscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.565244,104.926735&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.565244,104.926735&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Comedor Vegetariano",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Peruvian\n                                    ",
+  "description": "A 100% vegan restaurant serving Peruvian food with a twist.  Fixed menu (six soles) includes big soup, small salad, tea, and a main dish.  Located in the middle of all of the other eateries.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Mercado Central, 2nd Floor",
+  "phone": "tel:01985768538",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-9.526740,-77.531011&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-9.526740,-77.531011&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

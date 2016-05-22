@@ -1,0 +1,15 @@
+{
+  "title": "Market Light",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food shop stocking major Peruvian brands of natural products.",
+  "streetAddress": "Jr. Gonzales Prada 310, Miraflores",
+  "postalCode": "18",
+  "phone": "tel:1-%202437965",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-12.266670,-75.833330&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-12.266670,-75.833330&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

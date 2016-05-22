@@ -1,0 +1,16 @@
+{
+  "title": "Natural Food Plaza",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Colombian\n                                    ",
+  "description": "A whole food store is on the street level. Restaurant is on the second floor. Buffet-style vegetarian/vegan food is served by staff. Includes soup, main dish, salad, dessert, drink.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Carrera 14 no. 4-43",
+  "phone": "tel:7464980",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-6:00pm, Fri 8:00am-5:00pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.512891,-75.700368&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.512891,-75.700368&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

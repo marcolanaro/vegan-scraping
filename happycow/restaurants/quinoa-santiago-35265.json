@@ -1,0 +1,16 @@
+{
+  "title": "Quinoa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Juice bar, Take-out\n                                    ",
+  "description": "Cozy restaurant serves only vegetarian food with some vegan options. Menu items include fresh juices, in-house-made salads, soups, sandwiches. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Luis Pasteur 5393, Vitacura",
+  "phone": "tel:56-2-954-02-83",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.395017,-70.582118&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.395017,-70.582118&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

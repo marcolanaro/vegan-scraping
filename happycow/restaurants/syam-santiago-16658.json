@@ -1,0 +1,17 @@
+{
+  "title": "Syam",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Juice bar, Delivery, Chilean, Latin American\n                                    ",
+  "description": "Offers 1 or 2 menu-of-the-day plus veggie empanadas, dessert, and fruit drinks. Peaceful atmosphere with relaxing music. Non smoking.",
+  "priceRange": "Moderate",
+  "streetAddress": "av. Apoquindo 3315 Local 14, Las Condes",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 1:00pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.416871,-70.595579&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.416871,-70.595579&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

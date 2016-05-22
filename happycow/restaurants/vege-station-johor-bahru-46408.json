@@ -1,0 +1,17 @@
+{
+  "title": "Vege Station",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Malaysian\n                                    ",
+  "description": "素食小棧 serves a variey of dishes, including curry noodle, claypot tofu, and rice items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "79, Jalan Harmonium 33/1, Taman Desa Tebrau",
+  "postalCode": "81100",
+  "phone": "tel:012-7819288",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.554343,103.790660&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.554343,103.790660&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

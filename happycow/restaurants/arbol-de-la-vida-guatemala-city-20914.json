@@ -1,0 +1,18 @@
+{
+  "title": "Arbol de la Vida",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Western, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "Varied menu offering soups, breakfast food, pasta, lasagna, salad, fresh vegetable drinks, and more. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "17 Calle A 19-60 Zona 10",
+  "postalCode": "01010",
+  "phone": "tel:502-23682124",
+  "venueHours": "\n                                                                                                        Mon-Tue 7:30am-6:00pm, Wed-Fri 7:30am-8:00pm, Sat-Sun 7:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.588525,-90.498839&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.588525,-90.498839&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

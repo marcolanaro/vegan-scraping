@@ -1,0 +1,19 @@
+{
+  "title": "Simple Things",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Raw, Western, Juice bar, Bakery, European\n                                    ",
+  "description": "Vegetarian restaurant serving European cuisine and smoothies. Has an extensive menu with continental cuisine like vegan garlic cream pasta, tempeh scramble, dairy-free fruit smoothies, and raw mango cheesecake. Also serves Aeropress coffee. Has made-in-house coconut milk and seeded bread. Menu clearly marks vegan choices although honey is included in a dish that can be made vegan. The owners are Georgian.",
+  "priceRange": "Moderate",
+  "streetAddress": "Old Market St 54",
+  "phone": "tel:087-932422",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 9:00am-2:30pm, 5:00pm-9:00pm, Thu-Sun 9:00am-2:30pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/simple.things.kampot",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.607986,104.180488&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.607986,104.180488&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

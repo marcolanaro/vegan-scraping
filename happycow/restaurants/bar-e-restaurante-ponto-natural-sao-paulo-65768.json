@@ -1,0 +1,15 @@
+{
+  "title": "Bar e Restaurante Ponto Natural",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, International, Italian, Buffet, Brazilian\n                                    ",
+  "description": "A 100% vegan/vegetarian restaurant with many vegan options. A pay-per-kilo or all-you-can-eat buffet during lunch time. On Friday nights, it has an all-you-can-eat pizza buffet.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua Antonio Carlos, 648",
+  "phone": "tel:+55-1123062117",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-3:30pm, Fri 6:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/restaurantepontonatural",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-23.554359,-46.660337&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-23.554359,-46.660337&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

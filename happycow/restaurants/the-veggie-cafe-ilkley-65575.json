@@ -1,0 +1,18 @@
+{
+  "title": "The Veggie Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Bakery, British, English\n                                    ",
+  "description": "Small vegetarian cafe est. early-2015. Menu changes seasonally and has a specials board. Gets busy at mealtime so book ahead.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "32 Leeds Rd",
+  "postalCode": "LS29 7HA",
+  "phone": "tel:01943600245",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-4:00pm, Sat 9:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/veggiecafeilkley",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.926246,-1.820902&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.926246,-1.820902&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

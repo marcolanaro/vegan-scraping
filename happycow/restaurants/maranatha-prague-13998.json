@@ -1,0 +1,17 @@
+{
+  "title": "Maranatha",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Buffet, Salad bar, Beer/Wine, Take-out, European, Czech\n                                    ",
+  "description": "Prague vegetarian restaurant. Spacious contemporary set-up, seats many. Has a self-serve buffet salad bar.",
+  "priceRange": "Moderate",
+  "streetAddress": "Vyskočilova 2/1100, Praha 4",
+  "phone": "tel:+420-234-749822",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:30am-9:00pm, Fri 8:30am-3:00pm, Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.047830,14.453720&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.047830,14.453720&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

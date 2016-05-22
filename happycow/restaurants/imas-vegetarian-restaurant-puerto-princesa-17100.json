@@ -1,0 +1,17 @@
+{
+  "title": "Ima's Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Take-out, Filipino\n                                    ",
+  "description": "Serving a range of international vegetarian cuisine including burritos, pizza, jambalaya, salads, soups, sandwiches, and vegetarian burgers. Portions are small so order a few dishes. Has Wi-Fi. See website for map and menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "46 Fernandez Street",
+  "phone": "tel:+639399161524",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri 11:00am-3:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.736555,118.743243&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.736555,118.743243&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

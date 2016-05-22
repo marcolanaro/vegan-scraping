@@ -1,0 +1,16 @@
+{
+  "title": "Sampe's Restaurante Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International\n                                    ",
+  "description": "A large vegetarian restaurant half way between Miraflores and the historic downtown area of Lima. Meal of the day, plus a la carte orders accepted, with vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Tomas Guido 168",
+  "phone": "tel:470-1059",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-10:00pm, Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-12.087181,-77.034739&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-12.087181,-77.034739&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

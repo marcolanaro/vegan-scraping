@@ -1,0 +1,17 @@
+{
+  "title": "Quipizza",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Italian, Organic, Take-out\n                                    ",
+  "description": "An Italian vegetarian pizzeria with an all-organic menu and vegan options. Several kinds of pizza can be ordered by the slice or a whole pizza.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Fernando Ulloa, Rumipamba",
+  "phone": "tel:0984866061",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/quipizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-0.181709,-78.493901&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-0.181709,-78.493901&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

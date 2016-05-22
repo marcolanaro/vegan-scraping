@@ -1,0 +1,16 @@
+{
+  "title": "Planeta Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Buffet, Salad bar, Juice bar, Mexican\n                                    ",
+  "description": "All-day buffet spread features salad bar, hot foods, some raw food, and daily soup. Also has fresh juices. Room is decorated in bright colors and artworks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Iturbide 270",
+  "phone": "tel:322-2223073",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-11:30am, 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.608574,-105.234484&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.608574,-105.234484&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Ernie's Burgers",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Fast food, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American fast food eatery run by a Canadian. Could build your own burger and hot dogs. Has a black bean burger patty and a soy hot dog. Many choices of toppings and condiments. Has sides such as fries and onion rings. Wi-fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mithona Street",
+  "postalCode": "18000",
+  "phone": "tel:+855-98844400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ErniesBurgers",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.609148,103.522083&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.609148,103.522083&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

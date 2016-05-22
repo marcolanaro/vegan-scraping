@@ -1,0 +1,15 @@
+{
+  "title": "Panaderia Pedasi",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "In addition to Euro-style hearty breads from sourdough, whole wheat, and multigrain breads, this bakery cafe offers pre-made baguette sandwiches (cheese, tuna), French toast, baked sweets with reduced sugar, juice and coffee. On the main street; relocated from Calle Mariciana Batista.",
+  "streetAddress": "Calle Principal",
+  "phone": "tel:507-69496947",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 7:00am-6:00pm, Thu-Fri 7:00am-6:00pm, Sat 7:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.543907,-80.031075&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.543907,-80.031075&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

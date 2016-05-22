@@ -1,0 +1,18 @@
+{
+  "title": "Noom Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Thai, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Owner accommodates special requests. Offers around 10 vegetarian choices on the menu. Has Wi-Fi, nice atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "one block  from railway staion",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.800338,100.614039&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.800338,100.614039&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

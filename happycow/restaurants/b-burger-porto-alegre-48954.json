@@ -1,0 +1,17 @@
+{
+  "title": "B Burger",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Fast food, Beer/Wine, Take-out\n                                    ",
+  "description": "A 100% vegan restaurant specializes in a variety of burgers, baked fries and a Brazilian pastry called coxinha. Drinks include craft beer, coconut water, juices. Does not serve sodas, nor do they offer deep fried foods.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua 24 de Outubro, 31",
+  "phone": "tel:051-34074343",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 12:00pm-10:00pm, Fri 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/bburgerfastfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-30.028384,-51.207417&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-30.028384,-51.207417&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

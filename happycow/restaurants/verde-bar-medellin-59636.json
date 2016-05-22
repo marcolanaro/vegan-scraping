@@ -1,0 +1,13 @@
+{
+  "title": "Verde Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice bar, offers delivery.",
+  "streetAddress": "Calle11A no. 43D-14",
+  "phone": "tel:3122600587",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/verdebarmedellin",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.194531,-75.576685&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.194531,-75.576685&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

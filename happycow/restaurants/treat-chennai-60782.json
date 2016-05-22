@@ -1,0 +1,18 @@
+{
+  "title": "Treat",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Delivery, Take-out, Indo-Chinese\n                                    ",
+  "description": "South Indian, North Indian, and Indo-Chinese vegetarian food.",
+  "priceRange": "Moderate",
+  "streetAddress": "103, First Main Rd, Gandhi Nagar, Adyar",
+  "postalCode": "600020",
+  "phone": "tel:044-42115634",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-3:30pm, 7:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.008675,80.258703&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.008675,80.258703&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cafe Prana",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, International, Italian, Raw, Juice bar, Beer/Wine, Delivery, Take-out, Mexican, Bakery, Fusion\n                                    ",
+  "description": "A 100% vegan/vegetarian cafe offers unique gourmet dishes such as burgers, sandwiches, salads, soups, and noodles. Try the portobello hamburger, portobello tacos, tempeh salads, and pita sandwiches. Also offer smoothies, cold-pressed juices and gourmet coffee beverages to enjoy in the garden.",
+  "priceRange": "Moderate",
+  "streetAddress": "5 Avenida 20-42 Zona 14",
+  "postalCode": "01014",
+  "phone": "tel:23336994",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-8:00pm, Fri 7:00am-4:00pm, Sat-Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafepranagt",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.574279,-90.522482&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.574279,-90.522482&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

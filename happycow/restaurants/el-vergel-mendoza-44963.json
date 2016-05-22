@@ -1,0 +1,15 @@
+{
+  "title": "El Vergel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Buffet, Take-out\n                                    ",
+  "description": "Vegetarian take-out buffet with vegan options. Items include empanadas (pastries) with several fillings (corn, spinach, mixed vegetables), pasta, brown rice, vegetable quiches, and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Av Espana 1141",
+  "postalCode": "5500",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-32.889704,-68.841811&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-32.889704,-68.841811&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

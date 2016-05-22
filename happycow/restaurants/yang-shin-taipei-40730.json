@@ -1,0 +1,17 @@
+{
+  "title": "Yang Shin",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Cantonese\n                                    ",
+  "description": "Chinese Name: 養心茶樓. Chinese Address: 松江路128號, 2F. Conveniently located above the Songjiang Nanjing Station (exit 8), this vegetarian restaurant serves Hong Kong style dim sum. Menu is full of colorful pictures so you can just point at the dishes you want.",
+  "priceRange": "Moderate",
+  "streetAddress": "128, 2F, Songjiang",
+  "phone": "tel:02-2542-8828",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-4:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.054001,121.532978&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.054001,121.532978&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

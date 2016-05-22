@@ -1,0 +1,18 @@
+{
+  "title": "The Sixth Main",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Italian\n                                    ",
+  "description": "A vegetarian restaurant with vegan options. Serves a variety of dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shop No 2830/1, Post Office Road, 6th Main Road, Vani Vilas Mohalla",
+  "postalCode": "570002",
+  "phone": "tel:08214287786",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.331921,76.626831&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.331921,76.626831&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

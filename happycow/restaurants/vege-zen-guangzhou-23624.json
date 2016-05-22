@@ -1,0 +1,16 @@
+{
+  "title": "Vege Zen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "This place is just next to Guangxiaosi, on a small side road, but nice, clean, and tasty for the price. You can get a set meal from 10:30h to 13:00h for just 6RMB everyday except Saturday and Sunday.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jing Hui Lu 42",
+  "phone": "tel:020-81072463",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-2:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.128184,113.256543&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.128184,113.256543&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

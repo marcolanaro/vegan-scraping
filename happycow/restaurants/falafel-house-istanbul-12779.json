@@ -1,0 +1,16 @@
+{
+  "title": "Falafel House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Delivery, Take-out, Middle Eastern, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Falafel meals, sandwiches, salad, humus, and other Middle Eastern dishes depending on the day.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sehit Muhtar Cad. 19/1 A",
+  "phone": "tel:212-2537730",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.038635,28.984518&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.038635,28.984518&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

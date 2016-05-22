@@ -1,0 +1,16 @@
+{
+  "title": "Sabor Natura",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, International, Organic, Buffet, Juice bar, Take-out\n                                    ",
+  "description": "Vegetarian restaurant serving a large amount of soy based options. Has vegan options. Serves rice and beans daily, many salads, pastries, cookies, breads and little pies. Often pasta/pizza options. Family-friendly. Complimentary green tea upon leaving.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Avienda Rio Branco 1726 Loja 11, Praia do Canto",
+  "phone": "tel:27-332467",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-2:30pm, Sun 11:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-20.294618,-40.293516&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-20.294618,-40.293516&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

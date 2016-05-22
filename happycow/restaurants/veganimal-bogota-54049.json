@@ -1,0 +1,12 @@
+{
+  "title": "Veganimal",
+  "tags": [
+    "Veg Organization",
+    "Vegan"
+  ],
+  "description": "An animal rights group that rescues abandoned and abused animals. It offers services in vegan food and products delivery, graphic design, and dog-walking.",
+  "streetAddress": "Barrio Quiroga",
+  "phone": "tel:321%20493%203202",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.576933,-74.114254&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.576933,-74.114254&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

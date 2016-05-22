@@ -1,0 +1,18 @@
+{
+  "title": "Urban Farm Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Take-out, Costa Rican\n                                    ",
+  "description": "Farm-to-table restaurant with focus on healthy, local, and organic food. On the menu are salads, grill vegetables, veggie wraps and burrito, a vegetable curry. Menu changes depending on seasonal produce.",
+  "priceRange": "Moderate",
+  "streetAddress": "150 meters from municipal stadium",
+  "phone": "tel:27712442",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.280358,-83.823724&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.280358,-83.823724&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}
