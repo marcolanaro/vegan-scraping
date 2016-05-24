@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nice Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese\n                                    ",
+  "description": "A vegetarian Chinese restaurant with vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Komp Griya Mas Blok F, No 8, Samping Vihara Duta Maitreya",
+  "postalCode": "29432",
+  "phone": "tel:+62811692088",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.087440,104.032311&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.087440,104.032311&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

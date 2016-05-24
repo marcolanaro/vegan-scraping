@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Exki - Place De Brouckere",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Health food concept chain shop. Grab n go sandwiches and salads with ingredients listed. Uses some organic produce and fruit and veg. Breakfast is difficult for vegans as there are no dairy milk susbtitutes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Place De Brouckere, 14",
+  "postalCode": "1000",
+  "phone": "tel:+%2032-22199855",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-8:00pm, Sat 8:00am-8:00pm, Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.851404,4.352133&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.851404,4.352133&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

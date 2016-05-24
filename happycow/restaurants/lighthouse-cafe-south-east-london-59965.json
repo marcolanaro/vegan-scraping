@@ -1,0 +1,17 @@
+{
+  "title": "Lighthouse Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Buffet, Juice bar, British, English\n                                    ",
+  "description": "A well-lit place offering made to order breakfast and at lunch a buffet.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "7 Catford Broadway, Catford ",
+  "postalCode": "SE6 4SP",
+  "phone": "tel:02086906616",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.445516,-0.020881&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.445516,-0.020881&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

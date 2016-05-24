@@ -1,0 +1,16 @@
+{
+  "title": "Slivka",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Indian, Japanese, Raw, Salad bar, Juice bar, British, European, French\n                                    ",
+  "description": "A 100% vegan/raw restaurant serves cakes, rolls, pizza and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ul Voykova Street, 35",
+  "phone": "tel:89184003006",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-8:00pm, Sat-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.584508,39.725111&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.584508,39.725111&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

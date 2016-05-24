@@ -1,0 +1,19 @@
+{
+  "title": "Ha Noi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Juice bar, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vietnamese bistro offering a wide range of simple dishes featuring traditional ingredients including tofu, lemon grass, peanut sauce, vegetables and more. Also serves fresh fruit smoothies. Offers a good selection of vegan dishes. English menu card available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Boxhagener Strasse 87, Friedrichshain",
+  "postalCode": "10245",
+  "phone": "tel:01623313934",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.509765,13.464924&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.509765,13.464924&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

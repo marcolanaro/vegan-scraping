@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Keigetsu",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Beer/Wine, Gourmet, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Previously all veg, but now reported to use fish oil (Bonito) in many dishes. Please confirm whether there is anything without it offered. Shojin Kaiseki Authentic Japanese style restaurant. Hot Spring Bath plan is included in some expensive course. Reservations maybe required.  Address in Japanese: 神戸市北区有馬町1455-1.",
+  "priceRange": "Expensive",
+  "streetAddress": "1455-1 Arimacho (Arima Onsen Motoyu Kosenkaku)",
+  "phone": "tel:078-904-0731",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.799700,135.250480&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.799700,135.250480&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

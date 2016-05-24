@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Happy Desserts & Food Corner",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Malaysian\n                                    ",
+  "description": "糖水小吃 offers rice, noodle items and a variety of local desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "165 Jalan Bukit Desa Utama, , Taman Bukit Desa",
+  "postalCode": "52100",
+  "phone": "tel:012-2246085",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.213826,101.618648&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.213826,101.618648&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

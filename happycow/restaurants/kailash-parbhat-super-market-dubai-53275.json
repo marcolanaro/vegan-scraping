@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kailash Parbhat Super Market",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "A vegetarian (and no eggs) supermarket carries mainly all Indian products with lots of vegan products.",
+  "streetAddress": "Cluster D, JLT",
+  "phone": "tel:0558570111",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.070429,55.140456&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.070429,55.140456&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

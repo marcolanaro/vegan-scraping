@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nature Organic Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic, Juice bar\n                                    ",
+  "description": "Re:Nature is what the signage says. Small place with Wi-Fi est. 2016 at 神宮前3-23-6. Directions: from Takeshita Dori walk until you reach the large street at the end, across the street there's a light green building called Moshi Moshi Box which is the Harajuku Information Center, around two doors to the left of this building there's its signage and a white spiral staircase, climb all the way to the top until you reach a terrace.",
+  "priceRange": "Moderate",
+  "streetAddress": "Harajuku",
+  "postalCode": "150-0001",
+  "phone": "tel:0334040831",
+  "venueHours": "\n                                                                                                        Mon 9:00am-10:00pm, Wed-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.670561,139.706228&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.670561,139.706228&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

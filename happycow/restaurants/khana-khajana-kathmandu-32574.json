@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khana Khajana",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Indian, Fast food\n                                    ",
+  "description": "Vegetarian restaurant serving Indian thali system, samosas, chat, sweets and more. Has vegan options. Friendly Rajasthani family-owned.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Chhetrapati Chowk",
+  "phone": "tel:4263166",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.706083,85.307482&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.706083,85.307482&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ran",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small shop where the lady boss is willing cook up vegetarian meals. It's located just next to the wet market at Sathorn Road.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bua-lee-A-Roi-Ha, Suang-plu, Sathorn",
+  "phone": "tel:084-7035133",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.756331,100.501765&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.756331,100.501765&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

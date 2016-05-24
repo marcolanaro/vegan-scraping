@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Annapurna",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Shop making organic tofu, plus tempeh and seitan products.",
+  "streetAddress": "Siget 18",
+  "postalCode": "10431",
+  "phone": "tel:+385-13385533",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/annapurna.ekohrana",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.794493,15.797922&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.794493,15.797922&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

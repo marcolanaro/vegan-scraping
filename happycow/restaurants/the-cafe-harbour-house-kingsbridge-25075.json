@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Cafe Harbour House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, English\n                                    ",
+  "description": "Located within Harbour House Arts & Yoga Centre is Kingsbridge's only vegetarian cafe. Lunches are freshly made on the premises using natural, seasonal, organic and allotment grown ingredients where possible. All food is prepared without additives, colourings or flavourings. Happy to cater for people with dietary requirements. Free Wi-Fi. Dog friendly. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "The Promenade, Kingsbridge",
+  "phone": "tel:01548-855666",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.283040,-3.776220&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.283040,-3.776220&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

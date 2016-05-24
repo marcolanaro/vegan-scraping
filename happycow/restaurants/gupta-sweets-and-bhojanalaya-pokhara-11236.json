@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gupta Sweets and Bhojanalaya",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian\n                                    ",
+  "description": "Indian snacks and sweets. Small place and only a few items, but popular with locals.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Chipledhunga Chowk",
+  "phone": "tel:34536",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.219710,83.953400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.219710,83.953400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

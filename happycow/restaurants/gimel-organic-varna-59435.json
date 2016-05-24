@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gimel Organic",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Sells fresh organic fruit and vegetables, raw food bars, nuts and seeds, soya products, almond milk and more.",
+  "streetAddress": "Knyaz Boris 1, 62",
+  "phone": "tel:0882801449",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/gimelorganic",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.206265,27.920737&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.206265,27.920737&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

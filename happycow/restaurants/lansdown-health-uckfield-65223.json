@@ -1,0 +1,16 @@
+{
+  "title": "Lansdown Health",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "description": "A store carrying many vegan and gluten free products. As of November 2015, has one other location.",
+  "priceRange": "Moderate",
+  "streetAddress": "34 High St",
+  "postalCode": " TN22 1AJ",
+  "phone": "tel:01825-764436",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.970205,0.096165&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.970205,0.096165&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

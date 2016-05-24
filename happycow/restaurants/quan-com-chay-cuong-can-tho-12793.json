@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Quan Com Chay Cuong",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly\n                                    ",
+  "description": "One of the only vegetarian restaurants in this neighborhood.  Name and address in Vietnamese is, Quán Cơm Chay Cường, 9 Đề Thám.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "09 De Tham",
+  "phone": "tel:07102-246313",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.033408,105.783277&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.033408,105.783277&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

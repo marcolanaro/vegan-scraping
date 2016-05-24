@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Colombo Restaurant & Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Pizza, Italian, Mediterranean, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian restaurant and pizzeria, offers vegan pizzas with vegan cheese, plus other dishes that can be made vegan. Pizza is made without yeast.",
+  "priceRange": "Moderate",
+  "streetAddress": "WIpplingerstrasse 29",
+  "postalCode": "1010",
+  "phone": "tel:+4315335221",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-11:00pm, Sat-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.213407,16.367108&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.213407,16.367108&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

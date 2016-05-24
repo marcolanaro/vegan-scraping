@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "GD Lacto Aroma",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Chinese, Western, Take-out, Malaysian\n                                    ",
+  "description": "Serves pizza, pasta, burgers, rice, and noodle.",
+  "priceRange": "Moderate",
+  "streetAddress": "6 Jalan Pinang 52, Taman Daya",
+  "postalCode": "81100",
+  "phone": "tel:016-7255741",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/gdlactoaroma",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.559070,103.758572&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.559070,103.758572&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

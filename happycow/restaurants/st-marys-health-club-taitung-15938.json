@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "St. Mary's Health Club",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Buffet, Taiwanese\n                                    ",
+  "description": "Opened by St. Mary's church. Cooks healthy vegetarian food without any oil or chemicals. Usually 5 large dishes, and you can eat as much as you want. Meal times are 7-9am, 11:30am-1:30pm, 5:30-8:30pm; the other times staff takes break.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "77, Nanjing Rd",
+  "postalCode": "950",
+  "phone": "tel:089345719",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.756527,121.146237&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.756527,121.146237&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

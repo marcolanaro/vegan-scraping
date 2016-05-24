@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "DG Food Court",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "At the food court, stall #8 is vegetarian. Serves soup, curry mee, noodles, porridge and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Wawasan 2/23, Pusat Bandar Puchong",
+  "postalCode": "47100",
+  "phone": "tel:+60122630223",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/DG-Food-Court/329785227141198",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.028177,101.624875&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.028177,101.624875&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

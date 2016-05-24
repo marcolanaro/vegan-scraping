@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Poleyale",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Japanese\n                                    ",
+  "description": "Vegetarian restaurant a 5-minute walk from Koenji station. Has vegan options, also, all sweets are vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Suginami, Koenji Minami 3-44-16",
+  "phone": "tel:03-3316-0315",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:30am-11:00pm, Fri-Sun 11:30am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.703465,139.647365&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.703465,139.647365&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

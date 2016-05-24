@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese\n                                    ",
+  "description": "Name in Chinese 靜心健康素食坊, address 台北市士林區美德街26號. Chinese vegetarian restaurant offering set meals and pictorial menu. Directly adjacent Shilin MRT station. Staff speaks some English.",
+  "priceRange": "Moderate",
+  "streetAddress": "26, Meide Street, Shilin District",
+  "phone": "tel:02-88615141",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.095215,121.525164&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.095215,121.525164&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

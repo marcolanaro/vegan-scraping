@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hui Liu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Taiwanese\n                                    ",
+  "description": "Name in Chinese is 回留蔬食. Long-time operating teahouse and vegetarian food restaurant. Nice, traditional Taiwanese teahouse atmosphere with lots of decorative teapots and natural building materials. Fine green teas. Prices moderate for Taipei Da-an area, around NT280 for a bowl of sesame sauce noodle, NT480 for a set meal (soup, salad, main, dessert, tea). Little park with shady trees in front. Near Da-an park, YongKang park and YongKang night market.",
+  "priceRange": "Moderate",
+  "streetAddress": "9, Lane 31, Yung Kang Street, Da-an District",
+  "phone": "tel:2392-6707",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.031530,121.530090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.031530,121.530090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

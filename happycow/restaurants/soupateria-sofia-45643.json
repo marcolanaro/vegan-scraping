@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soupateria - Garibaldi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Fast food, Take-out, Bulgarian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located in the heart of Sofia, at Soupateria you'll find 6 types of hot and tasty soups daily, made ​​from old recipes adapted to your taste. Serves between 2 and 4 vegan dishes per day. Vegetarian food too. Be sure to try the fresh salads, fresh sandwiches with crusty bread and sweet temptations - all made ​​with love in the spirit of true home cooking. Open 24h.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2 Garibaldi Square",
+  "phone": "tel:0893632326",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/soupateria",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.693697,23.322857&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.693697,23.322857&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

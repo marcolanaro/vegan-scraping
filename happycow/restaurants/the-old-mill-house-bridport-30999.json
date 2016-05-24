@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Old Mill House",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Vegetarian B&B. Non-smoking and no children under the age of 12.",
+  "streetAddress": "1 East Road",
+  "postalCode": "DT6 4AG",
+  "phone": "tel:01308-422310",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.732975,-2.749034&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.732975,-2.749034&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

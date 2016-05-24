@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Leicestershire Vegetarian and Vegan Group",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "Formed in 2001 for vegetarians and vegans to meet other like minded people. Informal group meetings.",
+  "streetAddress": "Paul Mace 108",
+  "postalCode": "LE16 9HF",
+  "phone": "tel:07786-175445",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/LeicesterVeggies",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.634770,-1.129519&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.634770,-1.129519&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

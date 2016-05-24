@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Minder Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Take-out, Taiwanese\n                                    ",
+  "description": "One of many locations in Taipei, this one is part of the Breeze food court above Taipei main station. Buffet by weight, and also offers various made to order soups and noodle dishes. Food is mostly vegan but not labeled. Diners share seating at the larger tables.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3, 2F, BeiPing West Road",
+  "phone": "tel:02-67328999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.047704,121.515354&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.047704,121.515354&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

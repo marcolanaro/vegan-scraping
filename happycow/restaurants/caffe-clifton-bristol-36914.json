@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Caffe Clifton",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe attached to hotel. Offers coffee, tea, cakes, handmade bagels, and food. Oct 2014 reported menu has less veg food, only 1 vegetarian lunch choice (halloumi salad) which is not vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "St Pauls Road, Clifton",
+  "postalCode": "BS8 1LX",
+  "phone": "tel:0117-3179568",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/caffeclifton99",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.459003,-2.610199&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.459003,-2.610199&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

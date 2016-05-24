@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Buddha Burgers - Yehuda HaLevy",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Western, Fast food, Salad bar, Take-out, Israeli\n                                    ",
+  "description": "The flagship location Buddha Burgers in Israel, this is an 100% vegan restaurant. Offers a variety of foods such as burritos, veggie burgers, veggie dogs, baked falafel, sandwiches, desserts, breakfast items, and other warm dishes. Features a self-serve salad bar. Seats 50.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Yehuda HaLevy Str. 21",
+  "phone": "tel:03-5101222",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-12:00am, Fri 11:00am-4:00pm, Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/buddhaburgers",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.061503,34.770139&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.061503,34.770139&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

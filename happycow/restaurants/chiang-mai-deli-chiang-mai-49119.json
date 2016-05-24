@@ -1,4 +1,11 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chiang Mai Deli",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Vegetarian and vegan food delivery. Must order at least 24 hours in advance.",
+  "streetAddress": "Chiang Mai area",
+  "phone": "tel:0811129737",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.785284,98.946325&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.785284,98.946325&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Foodilic Kings Cross",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Buffet, Fast food, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves a range of vegan salads, some of which are organic or raw. Uses mainly organic produce in all dishes. Offers cakes and desserts; vegans please inquire. Fair trade and organic teas and coffees available. Located just a short walk from Kings Cross and St Pancras International stations.",
+  "priceRange": "Moderate",
+  "streetAddress": "260 Pentonville Rd",
+  "postalCode": "N1 9JY",
+  "phone": "tel:0207-278-7887",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Foodilic",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.531052,-0.120312&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.531052,-0.120312&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

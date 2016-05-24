@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Milan Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Delivery, Indo-Chinese\n                                    ",
+  "description": "Indian Gujarati style food. The bread is wheat flour rolled out round and baked on pan. Menu mainly consists of curries. Homely ambiance, quick service.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "opposite Sohar Extended Health Centre",
+  "postalCode": "322",
+  "phone": "tel:+968-26840107",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.379037,56.731307&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.379037,56.731307&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Happy Bar and Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Thai, Western, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu has a veg sandwiches section which includes a grilled tofu sandwich and a portobello burger. Fruit smoothies are vegan. Kitchen can cook something vegan to-order, such as Thai curries with tofu. Reported the owner understands vegetarian and vegan diets and is able to adapt dishes on the menu to suit. Family-friendly atmosphere, including high chairs and children's meals.",
+  "priceRange": "Moderate",
+  "streetAddress": "865/2 Burirom Rd, Bangkwai",
+  "postalCode": "76120",
+  "phone": "tel:32508225",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.718340,99.958891&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.718340,99.958891&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

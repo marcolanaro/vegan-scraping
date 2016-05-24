@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Puaa Cafe ",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Take-out, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located near the flea market in Jaffa, this funky cafe offers a menu with vegan and vegetarian items marked. Vegan choices include: shakshuka breakfast, majadera (omit yogurt), mung beans in raw tahini, curried pumpkin dumplings, and several salads. Also several starters are vegan, like mung bean hummus and red tahini.",
+  "priceRange": "Moderate",
+  "streetAddress": "8 Rabbi Yochanan St",
+  "phone": "tel:03-6823821",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-12:30am, Thu-Fri 9:00am-1:00am, Sat 10:00am-12:30am, Sun 9:00am-12:30am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/%D7%A4%D7%95%D7%A2%D7%94-%D7%A7%D7%A4%D7%94-%D7%95%D7%9E%D7%A1%D7%A2%D7%93%D7%94-141699945842242/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.052638,34.756141&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.052638,34.756141&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

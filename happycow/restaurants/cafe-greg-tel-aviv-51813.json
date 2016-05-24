@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Greg - Dizengoff Center",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a vegan menu that includes breakfast, salad, sandwiches, Italian (pasta, fritatta, pizza), Indian curry, pad thai, burgers, and vegan desserts like banana strudel. Inside the busy Dizengoff Center shopping mall. Special vegan menu available at this branch.",
+  "priceRange": "Moderate",
+  "streetAddress": "55 Dizengoff, Dizengoff Center, North Building, 2nd floor",
+  "phone": "tel:03-5252330",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-10:00pm, Fri 9:00am-5:00pm, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/קפה-גרג-דיזנגוף-סנטר-Gregdc/212489165606917",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.075540,34.775066&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.075540,34.775066&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

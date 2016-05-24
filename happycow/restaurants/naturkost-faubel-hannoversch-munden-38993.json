@@ -1,0 +1,13 @@
+{
+  "title": "Naturkost Faubel",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store with a small coffee bar and seating inside. Has fresh produce.",
+  "streetAddress": "Lange Straße 102",
+  "postalCode": "34346",
+  "phone": "tel:+49-05541-954777",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-6:30pm, Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.414830,9.650540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.414830,9.650540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

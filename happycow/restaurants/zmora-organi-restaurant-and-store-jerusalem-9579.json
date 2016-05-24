@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zmora Organi Restaurant and Store",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Organic\n                                    ",
+  "description": "Fresh, hot food daily, plus a complete health food store. Evertything is organic, and plenty of parking.",
+  "priceRange": "Moderate",
+  "streetAddress": "Yad Harutzim 5",
+  "phone": "tel:02-6730008",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.753671,35.217080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.753671,35.217080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ethos",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Store selling food and products that are fair trade, organic, or environmentally friendly. Has refills for some of the cleaning liquids.",
+  "streetAddress": "15 Starnes Court, Union Street",
+  "postalCode": "ME14 1Eb",
+  "phone": "tel:07922139008",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:30am-5:30pm, Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ethosmaidstone",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.276202,0.523300&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.276202,0.523300&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

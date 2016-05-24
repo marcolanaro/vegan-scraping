@@ -1,0 +1,18 @@
+{
+  "title": "Koffie Engel",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Fast food, Take-out\n                                    ",
+  "description": "A vegan cafe and sandwich shop offering locally roasted coffee, freshly made-in-house sandwiches, waffles and more. All food can be prepared for take-away.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sonnenallee 206",
+  "postalCode": "12059",
+  "phone": "tel:015755317121",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/koffieengel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.474660,13.453650&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.474660,13.453650&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

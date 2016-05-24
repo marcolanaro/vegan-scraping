@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dhaba Beas - Sokolovska",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Buffet, Fast food, Salad bar, European\n                                    ",
+  "description": "Well-known chain of Indian vegetarian dhaba buffets (self service) with a casual, modern atmosphere. Offers both Indian and European vegetarian food including salads and freshly made juices. Food is priced by weight. Happy hour discount 50% off one hour before closing time.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sokolovska 93",
+  "phone": "tel:+420-777-038906",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.094660,14.452170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.094660,14.452170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Next to Nowhere",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, English\n                                    ",
+  "description": "A radical social centre built and run by volunteers from the Merseyside area with an all vegan veggie kitchen space that is used for a non-profit cafe. Located beneath News From Nowhere radical bookshop, you access through the door next to the bookshop entrance, ring the doorbell, and someone will come up to let you in. Typical menu consists of 2 soups, 3 main dishes, cakes, tea or coffee. Minimal decor. Lots of vegetarian, animal rights posters, and fliers as well other political material. Free veggie hot food at around 8pm every last Friday of month after the Hare Krishna spiritual meeting from 6:30-8:30pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "96 Bold Street",
+  "postalCode": "L1 4HY",
+  "phone": "tel:+44-0151-7036806",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.402540,-2.977150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.402540,-2.977150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

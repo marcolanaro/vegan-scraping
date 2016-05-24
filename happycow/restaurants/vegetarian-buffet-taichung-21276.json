@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Buffet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Buffet, Take-out, Taiwanese\n                                    ",
+  "description": "Buffet style restaurant offering a selection of cooked vegetables in different gravys, some fried food, mock-meats, steam buns, tofu, soups, seaweed, and desserts. Pay by weight. Rice is separate (not by weight) and with unlimited re-fills. Meal comes with a soup and a sweet mung bean soup. A few dishes have cheese on them.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "467,  Sec. 2, Henan Road",
+  "phone": "tel:04-27023890",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.150187,120.642999&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.150187,120.642999&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "HaBar-Kayma",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Juice bar, Beer/Wine, Take-out, Middle Eastern, Israeli\n                                    ",
+  "description": "Cooperative vegan restaurant/bar and community center in the Florentine area. Also has an art gallery. Hosts music shows, movies, lectures, and workshops. CLOSING DOWN IN MAY - check the Facebook page and phone ahead to confirm if open.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hamashbir 22",
+  "phone": "tel:03-9493322",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/barkayma",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.059083,34.771238&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.059083,34.771238&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

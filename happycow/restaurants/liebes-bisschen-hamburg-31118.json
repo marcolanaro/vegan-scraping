@@ -1,0 +1,17 @@
+{
+  "title": "Liebes Bisschen",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Small vegetarian bakery with vegan options including cupcakes, cakes, chocolate bars, soy milk and more.",
+  "streetAddress": "Eifflerstrasse 47",
+  "postalCode": "22769",
+  "phone": "tel:+49-04032967824",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/liebesbisschen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.562808,9.960278&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.562808,9.960278&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

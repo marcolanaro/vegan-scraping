@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Aura",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual and cozy cafe, makes their own food. Offers a vegan soup of the day, and all warm beverages can be prepared with soy milk. Also serves a vegetarian lasagna (dairy) and vegetarian pie (egg).",
+  "priceRange": "Moderate",
+  "streetAddress": "Marken 9",
+  "postalCode": "5017",
+  "phone": "tel:55365970",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=60.391950,5.330780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C60.391950,5.330780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

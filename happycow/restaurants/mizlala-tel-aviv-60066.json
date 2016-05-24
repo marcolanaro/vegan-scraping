@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mizlala",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Beer/Wine, Middle Eastern, Afghani, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A vegan menu was added to this bar and restaurant in Nahalat Binyamin in 2015. Offers Afghani and Turkish main dishes, including a black bean taco, semolina kuba dumplings stuffed with apricot and green almonds, and desserts such as pineapple carpaccio and dark chocolate kasata. Has a wine list and well-stocked bar. ",
+  "priceRange": "Expensive",
+  "streetAddress": "57 Nahalat Binyamin",
+  "phone": "tel:03-5665505",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Mizlala/260975487257554",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.064160,34.771535&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.064160,34.771535&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

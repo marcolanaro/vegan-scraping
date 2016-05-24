@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zamin",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Mediterranean, Juice bar, Take-out, Persian\n                                    ",
+  "description": "A place for organic vegan food. Wide selection of dishes including soups, and Persian imitation food (vegan chelokabob and jojehkabob). Also sells a few organic stuff like brown rice, juice, and pastries.",
+  "priceRange": "Moderate",
+  "streetAddress": "Pardisan apartment buliding, Sima-ye-Iran Street, Shahrak-e- Gharb",
+  "phone": "tel:021-88580555",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.750000,51.366667&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.750000,51.366667&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

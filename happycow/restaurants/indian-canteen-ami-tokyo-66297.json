@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Indian Canteen Ami",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Near Komazawa Gakuen, this small Indian restaurant is founded by Itou Emi who studied Indian cooking and offers a 4 curry menu a day with always a curry that can be made vegan or is already vegan. English spoken.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-8-15 Tsurumaki",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.636595,139.654686&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.636595,139.654686&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

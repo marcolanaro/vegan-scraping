@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Canteen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Fast food, Take-out, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Healthy lunch spot specializing in salad and flatbread. Choose from the menu or make-your-own. One hot dish and a soup each day, usually vegetarian sometimes vegan. Makes cakes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "17 Sun Street",
+  "phone": "tel:01227470011",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-5:00pm, Sat 10:00am-5:30pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.279569,1.080890&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.279569,1.080890&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

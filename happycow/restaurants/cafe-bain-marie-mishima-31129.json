@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Bain-Marie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Beer/Wine, Take-out, French\n                                    ",
+  "description": "French styled lacto-ovo vegetarian cafe restaurant with also options for vegans by advance request (including vegan sweets). Uses organic produce. Organic wine available. Applies a cover charge if you don't reserve ahead. Also, reservation is required for party of 5 or more (course meals offered in such case). Lunch price moderate, dinner more. Kitchen breaks from early afternoon til 6pm.",
+  "priceRange": "Expensive",
+  "streetAddress": "3-14, Honcho",
+  "postalCode": "411-0855",
+  "phone": "tel:0559415022",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/vege.restaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.120027,138.913955&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.120027,138.913955&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

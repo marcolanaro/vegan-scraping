@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ser Kern Yen Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "Typical style vege restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "47, Lebuh Kurau 1, Taman Chai Leng",
+  "postalCode": "13700",
+  "phone": "tel:012-4163020",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.384676,100.390696&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.384676,100.390696&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

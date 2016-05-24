@@ -1,0 +1,17 @@
+{
+  "title": "Czajownia",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Teahouse with rustic decor with different seating areas. Offers a very limited Middle Eastern food selection of pita, hummus, babaganoush, and couscous.",
+  "streetAddress": "Białoskórnicza 7/8/9",
+  "postalCode": "50-134",
+  "phone": "tel:717279575",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CzaiszCzajowniaWroclaw",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.111260,17.027425&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.111260,17.027425&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

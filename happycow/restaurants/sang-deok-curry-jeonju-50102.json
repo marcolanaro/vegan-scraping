@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sang Deok Curry",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese\n                                    ",
+  "description": "A vegetarian restaurant near Gyeonggijeon and Hanok Village. Current menu as of 2014 is Japanese style curry. Choose spicy or mild. Food is mostly vegan. Last order 2pm. Go early, as often sells out.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Wind Se-Dong 3-GA, Wansan-gu, 67-18",
+  "phone": "tel:063-2880824",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.815547,127.150975&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.815547,127.150975&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

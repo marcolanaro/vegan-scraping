@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ji Xiang Ru Yi Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "Name in Chinese :吉祥如意素食. Chinese vegetarian hawker stall with many vegan options. Their offerings include Bee Hoon, Fried Mee, Lo Han Vegetarian, Roast pork, Vegetarian duck and chicken.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 85 Redhill Lane #01-31",
+  "phone": "tel:150085",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.287479,103.818217&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.287479,103.818217&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

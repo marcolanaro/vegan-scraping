@@ -1,4 +1,11 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thai Farm Cooking School",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "Thai food cooking school with separate vegetarian option that can be all vegan depending on your choices for cooking. You end up cooking and eating 5 courses and the instructor is well versed in keeping vegetarian options separated. Used herbs and some fruits and vegetables from the pesticide free farm on site. Price includes transportation from Chiang Mai to local market and school from your accommodation.",
+  "streetAddress": "38, Soi 9 Moonmuang Rd, Sriphoom",
+  "phone": "tel:812885989",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.787747,98.993128&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.787747,98.993128&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yasou Sabou HouHou",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Macrobiotic\n                                    ",
+  "description": "A natural foods vegetarian restaurant in Sapporo 370 metres from Tsukisamu-Chuo station. Serves Japanese lunches and vegan sweets.",
+  "priceRange": "Moderate",
+  "streetAddress": "7 Chome 9-3, Tsukisamu-higashi 2 jo Toyohira-ku",
+  "postalCode": "062-0052",
+  "phone": "tel:090-76422990",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/野草茶房-蓬ほう/219874138125453",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.031828,141.400724&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.031828,141.400724&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

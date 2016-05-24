@@ -1,0 +1,19 @@
+{
+  "title": "Mandala 2.0",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Organic, Beer/Wine\n                                    ",
+  "description": "In Jan 2014 Il Mandala changed to Mandala 2.0. Casual restaurant serving vegetarian food.",
+  "priceRange": "Moderate",
+  "streetAddress": "via Madonna del Carmine 13",
+  "postalCode": "20010",
+  "phone": "tel:3397295368",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 7:00pm-1:00am, Sat-Sun 7:00pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.544285,8.812209&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.544285,8.812209&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

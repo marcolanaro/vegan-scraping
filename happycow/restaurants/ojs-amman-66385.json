@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "OJs",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, International, Japanese, Fast food, Salad bar, Juice bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan dishes or ones that can be made vegan; please inquire as menu items are not clearly labeled. Located in the Red Rose Hotel. Uses locally sourced produce. All food  is prepared daily.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Shat Al Arab Street, Um Uthaina, Souk Al Dahab",
+  "postalCode": "11821",
+  "phone": "tel:0787733339",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ojskitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.956578,35.945695&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.956578,35.945695&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "L'Elephant Vert",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Raw, Asian, Lao, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A spinoff of the original L'Elephant restaurant next door. Offers a daily changing, prix fixe, three-course raw \"vegan\" menu for lunch at approx. 120,000 kip and dinner at 150,000 kip. Note (Feb 2015): The \"vegan menu\" contains items with honey / bee pollen, as the staff is currently unclear on the meaning of vegan. Please update HappyCow of changes.",
+  "priceRange": "Expensive",
+  "streetAddress": "Vat Nong",
+  "phone": "tel:856-71252482",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.895364,102.139657&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.895364,102.139657&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "LimTeh YumCha",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Indian, Fast food, Asian, Fusion\n                                    ",
+  "description": "妙香缘素食 is a food stall within a non-veg restaurant that offers vegetarian and vegan dishes. Serve economy dish early morning.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8 & 10, SS 6/8 , Kelana Jaya",
+  "postalCode": "47301",
+  "phone": "tel:0163455996",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/LimtehYumcha.SS6",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.105978,101.598445&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.105978,101.598445&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

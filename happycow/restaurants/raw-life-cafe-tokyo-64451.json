@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Raw Life Cafe - Rainbow Raw Food",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Western, Juice bar\n                                    ",
+  "description": "Raw food cafe re-opened in Ebisu Apr 2016; originally est. in 2015 at 2-4-19, Asano dai 3 bldg, 7F, Chuo-ku. Serves salads, raw desserts, and fresh juices in glassware.",
+  "priceRange": "Moderate",
+  "streetAddress": "3-17-14-8F Higashi, Shibuya-ku",
+  "postalCode": "150-0011",
+  "phone": "tel:03-64271984",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat-Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.649090,139.709920&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.649090,139.709920&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

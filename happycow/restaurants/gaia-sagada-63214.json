@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gaia",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Asian\n                                    ",
+  "description": "A 99% vegan restaurant with the exception of honey in a couple dishes. All food is freshly made-in-house with some veggies from their own garden. A 15-minute walk from the touristic area. Has a calming view of the mountains. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ambasing Sagada",
+  "phone": "tel:+639491376777",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.070077,120.901215&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.070077,120.901215&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

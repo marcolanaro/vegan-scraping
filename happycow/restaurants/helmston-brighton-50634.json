@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Helmston",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Organic, Juice bar, Take-out, Bakery, Indonesian\n                                    ",
+  "description": "Small vegetarian takeaway situated near to the station and the Laines. Offers breakfast and lunch. Baked goods are made using low-gluten and gluten free flours, and all cakes are vegan. Meals are made to order so if you ask, the kitchen will veganize a dish or cater to a food allergy or intolerance. Breakfast dishes include pancakes and gado gado, while lunch might be a thali-style lunchbox or spelt-base pizza to go. Everything is soy-free.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Pelham St",
+  "postalCode": "BN14FA",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.828143,-0.136806&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.828143,-0.136806&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Deli Cafe - Rakovski",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Juice bar, Take-out, Bakery, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Modern style coffee, pastries, and sandwiches cafe with multiple locations. Some vegetarian items with a few vegan and raw choices. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "165 Rakovski",
+  "postalCode": "1000",
+  "phone": "tel:+359-8799256565",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-7:00pm, Sat-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Greendelicafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.689795,23.323353&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.689795,23.323353&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

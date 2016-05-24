@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sunny Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Stocks a range of wholefoods for a modest sized shop, has organic produce.",
+  "streetAddress": "76 Beaconsfield Road, Brighton",
+  "postalCode": "BN1 6DD",
+  "phone": "tel:01273-507879",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.837000,-0.140350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.837000,-0.140350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

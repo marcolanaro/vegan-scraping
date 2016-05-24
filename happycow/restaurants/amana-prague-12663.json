@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Amana",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International, Macrobiotic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Primarily a tea shop, but serves vegetarian cuisine (with the exception of salmon). Has fireplace seating in wintertime. Non smoking. Has internet access.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Zahoranskeho 6, Praha 2",
+  "postalCode": "12000",
+  "phone": "tel:+420-224-922591",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat-Sun 2:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.076530,14.416030&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.076530,14.416030&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

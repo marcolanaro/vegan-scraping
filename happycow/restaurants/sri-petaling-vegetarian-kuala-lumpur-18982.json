@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sri Petaling Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Fast food\n                                    ",
+  "description": "Roadside stalls, inexpensive rice and noodle dishes. Hours: 8am-8pm. Name in Chinese: 大城堡素食. 路邊攤經濟飯麵",
+  "priceRange": "Moderate",
+  "streetAddress": "44-1, Jalan Merah Saga, Sri Petaling",
+  "postalCode": "57000",
+  "phone": "tel:016-308-1011/,%20016-308-1161",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.147860,101.517160&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.147860,101.517160&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

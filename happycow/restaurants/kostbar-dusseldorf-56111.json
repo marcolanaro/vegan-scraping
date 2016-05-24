@@ -1,0 +1,18 @@
+{
+  "title": "KostBar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Buffet, European\n                                    ",
+  "description": "Vegetarian cafe for coffee, cake, weekday lunch, and weekend brunch. Opened Feb 2015 in a small pedestrian zone this is a a cozy place with relaxed atmosphere and children's play corner.",
+  "priceRange": "Moderate",
+  "streetAddress": "Breidenplatz 6",
+  "postalCode": "40627",
+  "phone": "tel:+49-21192525277",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:30am-5:00pm, Sat-Sun 2:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/KostBar.Unterbach",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.204089,6.895925&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.204089,6.895925&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

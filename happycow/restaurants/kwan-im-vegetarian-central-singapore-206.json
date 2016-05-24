@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kwan Im Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Japanese, Thai, Asian\n                                    ",
+  "description": "Primarily offers Chinese cuisine with some Thai and Japanese dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "190 Waterloo Street",
+  "phone": "tel:63382394",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300980,103.853281&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300980,103.853281&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

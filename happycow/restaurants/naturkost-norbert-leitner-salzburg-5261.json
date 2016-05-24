@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Naturkost Norbert Leitner",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Salad bar, European, Austrian\n                                    ",
+  "description": "A very small organic shop that serves juice and some food. Daily lunch menu 69S, 10er block 530S. Salad buffet, vegan cakes, vegan cheese, and chocolate.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Müllner Hauptstrasse 29",
+  "phone": "tel:+43-662-438835",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.806590,13.034650&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.806590,13.034650&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

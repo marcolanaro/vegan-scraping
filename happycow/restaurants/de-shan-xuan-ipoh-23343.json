@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "De Shan Xuan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "德善軒素食館 Chinese food with no egg or dairy. Does catering orders and full moon gift packages.",
+  "priceRange": "Moderate",
+  "streetAddress": "82, Psrn Bercham Selatan 2, Taman Desa Kencana",
+  "postalCode": "31400",
+  "phone": "tel:012-4659489",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.632668,101.127327&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.632668,101.127327&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

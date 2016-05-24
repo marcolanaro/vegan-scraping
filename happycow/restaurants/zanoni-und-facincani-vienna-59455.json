@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zanoni und Facincani",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Ice cream shop which also makes several flavors of vegan ice cream, like strawberry, raspberry, apricot, mango, hazelnut, chocolate. Closes in winter months.",
+  "streetAddress": "Währinger Gürtel 3, Wien",
+  "postalCode": "1180",
+  "phone": "tel:+43-14068231",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Zanoni-Facincani/431236983619179",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.217649,16.341647&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.217649,16.341647&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

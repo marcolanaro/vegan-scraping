@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BMS Organics",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Organic, Take-out, Asian, Malaysian\n                                    ",
+  "description": "A branch of this organic vegetarian place the international airport, level 2. Has soy mock meat, soy milk, some dishes contain egg (labeled).",
+  "priceRange": "Moderate",
+  "streetAddress": "Kuala Lumpur International Airport",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/bmsorganicsfanpage/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.747955,101.713590&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.747955,101.713590&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

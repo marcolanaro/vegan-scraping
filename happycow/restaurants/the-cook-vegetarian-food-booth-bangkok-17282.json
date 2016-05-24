@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Cook - Vegetarian Food Booth",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Fast food, Take-out\n                                    ",
+  "description": "Located in the Amarin Plaza & Tower \"The Cook\" food court. Serves Central, Northern, Southern Thai food. Choose white or brown rice as your base and add 2 or 3 main dishes to your plate. Or order individual dishes for take away.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "44 F, 96-502 Ploenchit Road, Lumpinee, Patumwan",
+  "postalCode": "10330",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.743950,100.541296&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.743950,100.541296&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

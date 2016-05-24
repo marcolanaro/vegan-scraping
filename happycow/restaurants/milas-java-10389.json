@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Milas",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Indonesian\n                                    ",
+  "description": "Vegetarian restaurant and gift shop, part of non-profit community project that also includes a pre-school playgroup, multi-language library, village based community center, programming for street youth, handicraft production and showroom, organic farming. Serves Indonesian and western food following slow food principles. Food is made to order onsite in its kitchen, including all sauces.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl. Prawirotaman IV 127 B, Yogyakarta",
+  "phone": "tel:0274-7423399",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 3:00pm-9:00pm, Sat-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-7.822329,110.368738&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-7.822329,110.368738&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

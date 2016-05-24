@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mahatma Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Mediterranean, Middle Eastern, Turkish\n                                    ",
+  "description": "Colorful vegean cafe opened in mid-2014 in the Yeldegirmeni quarter of Kadikoy. Opens out to the street with indoor/outdoor dining. Serves Turkish, Mediterranean/Middle Eastern foods such as pilaf, baked beans, falafel, bulghur, mashed potatoes, dolma, lentil soup, eggplant stews.",
+  "priceRange": "Moderate",
+  "streetAddress": "50/A Macit Erbudak Sokak, Kadikoy",
+  "phone": "tel:+90-5356083280",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Mahatma-Cafe/733174143409174",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.997096,29.028987&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.997096,29.028987&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Grand L'Epicerie",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large grocery store selling a wide range of products, including vegetarian and vegan, and a dessert counter with macrobiotic goodies. Directions: Near Kofu City Library, just east of the Family Mart on the small road that runs between FM and Ogino. Address in Japanese: 山梨県甲府市城東3-16-11.",
+  "streetAddress": "Joto 3-16-11",
+  "phone": "tel:055-227-5566",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.658720,138.584910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.658720,138.584910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

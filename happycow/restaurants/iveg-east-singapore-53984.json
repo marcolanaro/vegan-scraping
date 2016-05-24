@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "iVeg",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "Restaurant service at hawker centre pricing. Offers only one dish each day.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 79A, Circuit Rd, Circuit Road Food Centre Unit 01-79",
+  "postalCode": "371079",
+  "phone": "tel:81338744",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.325423,103.884872&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.325423,103.884872&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

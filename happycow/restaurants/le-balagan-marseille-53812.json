@@ -1,0 +1,18 @@
+{
+  "title": "Le Balagan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Buffet, Fast food, Salad bar, Delivery, Take-out, European, French\n                                    ",
+  "description": "Vegetarian lunch restaurant offering salad bar and hot meals with soups, tarts, burger, and pastry. Has gluten-free tarte and cake.",
+  "priceRange": "Moderate",
+  "streetAddress": "99 rue du Rouet",
+  "postalCode": "13008",
+  "phone": "tel:0491717213",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.280525,5.389953&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.280525,5.389953&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

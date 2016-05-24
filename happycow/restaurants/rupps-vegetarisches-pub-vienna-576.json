@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rupp's Vegetarisches Pub  ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Viennese\n                                    ",
+  "description": "Irish Pub serving vegetarian and vegan food. Previously named Rupp's Vegetarisches Cafe ",
+  "priceRange": "Moderate",
+  "streetAddress": "Arbeitergasse 46",
+  "postalCode": "1050",
+  "phone": "tel:+43-01-5452284",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 6:00pm-2:00am, Fri-Sat 7:00pm-4:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.185770,16.347440&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.185770,16.347440&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

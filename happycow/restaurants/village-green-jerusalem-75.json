@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Village Green",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Western, Buffet, Fast food, Salad bar, Take-out, Israeli\n                                    ",
+  "description": "Cafeteria style with counter service. Hot food and salad buffet features a variety of cold and warm dishes including fresh vegetables, bread included with an order of soup or main dish, raw and cooked salad bar items, butternut squash soup, curry vegetable pie, lasagna, whole-grain couscous and vegetables. Main dishes are sold by piece, and the salad bar is by weight. The restaurant employs special needs persons as part of its social action policy. Staff speaks English.",
+  "priceRange": "Moderate",
+  "streetAddress": "33 Jaffa St",
+  "phone": "tel:02-6253065",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-10:00pm, Fri 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.781452,35.220522&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.781452,35.220522&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

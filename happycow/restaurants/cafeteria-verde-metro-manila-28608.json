@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafeteria Verde",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Fast food, Juice bar, Filipino\n                                    ",
+  "description": "Located in side the mall. Menu items are mostly short orders. Has combo meals available ranging between 100-120 pesos. Please confirm if there are vegan options and let HappyCow know!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Level 3 Sports Loop, Robinsons Galleria, Mandaluyong",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cafeteriaverde",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.579222,121.037321&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.579222,121.037321&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

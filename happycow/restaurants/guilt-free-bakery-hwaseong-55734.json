@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Guilt Free Bakery",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Online-based bakery that makes vegan muffins and cookies using organic flour. Delivers all over South Korea. Its kitchen/studio is located in Dongtan, Hwaseong-si, Gyeonggi-Do.",
+  "streetAddress": "Bansong-dong 157-14 1st floor",
+  "postalCode": "445-160",
+  "phone": "tel:821027716260",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/guiltfreebakerykorea",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.191734,127.067186&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.191734,127.067186&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

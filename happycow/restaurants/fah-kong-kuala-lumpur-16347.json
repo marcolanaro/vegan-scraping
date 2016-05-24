@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fah Kong",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Thai, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "A local Chinese vegetarian restaurant. Chinese style vegetarian fast food, a la carte Malaysian local and Thai cuisine in vegetarian style. Free soup for fast food. Packaged vegetarian food available. No smoking. No air-conditioning.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "10, Jalan Jejaka 7, Taman Maluri, Cheras",
+  "postalCode": "55100",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.128050,101.731210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.128050,101.731210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,19 @@
+{
+  "title": "Freikost Deinet",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Take-out, Bakery, European, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic market and bistro. Sells many products without packaging, so bring your own bags and containers. Bistro offers a daily changing menu of soups, salads, sandwiches, and snacks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rochusstrasse 266",
+  "postalCode": "53123",
+  "phone": "tel:+49-22896690330",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:30pm, Sat 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.713591,7.044912&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.713591,7.044912&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

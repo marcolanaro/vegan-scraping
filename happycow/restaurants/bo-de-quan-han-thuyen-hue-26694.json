@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bo De Quan - Han Thuyen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Vietnamese\n                                    ",
+  "description": "Situated on a quiet riverside stretch. Small simple restaurant located on the east side of the Imperial Citadel. Menu is in English and French. Previously located on Le Loi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "34 Han Thuyen",
+  "phone": "tel:3825959",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.473910,107.583150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.473910,107.583150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

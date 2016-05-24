@@ -1,0 +1,18 @@
+{
+  "title": "VegaFreshBar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Salad bar, Juice bar\n                                    ",
+  "description": "A vegan smoothie/juice bar and health food store. Offers shakes, smoothies, salads, raw desserts made-in-house using fruits, vegetables, nuts, seeds and superfoods.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ulica Franklin Ruzvelt 20, F Yugoslav Republic Of Macedonia",
+  "postalCode": "1000",
+  "phone": "tel:02-3123402",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat 8:30am-4:30pm, Sun 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/vegabiofoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.997064,21.403741&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.997064,21.403741&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ya Ge - Merryland Vegetarian Fast Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Malaysian\n                                    ",
+  "description": "中西素食餐厅 offers a selection of food and cakes, for take away as well.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "16, Jalan Pingai, Taman Pelangi",
+  "postalCode": "80400",
+  "phone": "tel:07-3319697",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 10:30am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.482339,103.772916&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.482339,103.772916&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

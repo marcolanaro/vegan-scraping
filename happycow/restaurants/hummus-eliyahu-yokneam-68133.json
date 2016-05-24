@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hummus Eliyahu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Take-out, Middle Eastern, Israeli, Kosher\n                                    ",
+  "description": "Serves only hummus, salad, and drinks. Food is vegan except for optional hard-boiled egg topping. Enter from behind the Paz gas station at Yoqneam junction.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Highway 70, Yoqneam Junction",
+  "phone": "tel:04-9890916",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-8:00pm, Fri 8:30am-2:30pm, Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/humusyoqneam",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.663192,35.105531&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.663192,35.105531&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

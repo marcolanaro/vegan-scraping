@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Al Arz",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small restaurant run by a vegetarian chef, featuring most dishes gluten free. Vegetarian dishes cooked in separate utensils. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Corniche Rd Al Marrij",
+  "phone": "tel:0-72279399",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.789610,55.936890&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.789610,55.936890&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

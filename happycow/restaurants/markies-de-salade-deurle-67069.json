@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Markies de Salade",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Western, Delivery, Take-out, Catering, European\n                                    ",
+  "description": "Offers plant-based cuisine without gluten, dairy, soy, or processed sugar. Serves vegan and raw food for with dishes like cashew cream tomato soup, vegan caesar salad, raw pear pie. Drinks include Scandinavian birch juice and pink juice made of Japanese pink tomatoes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Xavier de Cocklaan 69",
+  "postalCode": "9831",
+  "phone": "tel:476705689",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:30pm, 5:30pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/markiesdesalade",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.000830,3.614896&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.000830,3.614896&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,16 @@
+{
+  "title": "Milk Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Mediterranean, Fast food, Salad bar, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a daily vegetarian menu at midday with different sandwiches and burgers. There is a salad bar.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Carrer Girona, 4 local 1",
+  "phone": "tel:938704291",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.608592,2.290754&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.608592,2.290754&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

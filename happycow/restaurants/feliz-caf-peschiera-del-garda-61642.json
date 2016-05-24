@@ -1,0 +1,19 @@
+{
+  "title": "Feliz Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Organic, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "Opened Jul 2015, a vegetarian cafe serving breakfast, lunch, dinner, and beverages. Has cappuccino with plant-based milk, vegan croissants and pastries, fruit juices, smoothies, salads, piadina, sandwiches, and a vegan dish of the day.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Milano 29",
+  "postalCode": "37019",
+  "phone": "tel:3667465466",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Feliz-café/687602864704096",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.439100,10.688290&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.439100,10.688290&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

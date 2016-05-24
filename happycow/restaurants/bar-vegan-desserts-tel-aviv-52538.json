@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bar Vegan Desserts",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Catering specializing in vegan desserts. Makes cupcakes, cookies, cakes, and more. Must order at least 2 days in advance by phone.",
+  "streetAddress": "39 Ha-Gra",
+  "phone": "tel:052-4422281",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BarVeganCooking",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.059082,34.782721&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.059082,34.782721&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

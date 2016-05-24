@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nature's Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto\n                                    ",
+  "description": "Vegetarian restaurant. No eggs are used.",
+  "priceRange": "Moderate",
+  "streetAddress": "52, Jln SS 14/2, (Opposite Metropolitan College)",
+  "postalCode": "47500",
+  "phone": "tel:03-56343612/,%20019-2732989",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.072959,101.589441&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.072959,101.589441&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

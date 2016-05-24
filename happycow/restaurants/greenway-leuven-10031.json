@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Greenway",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Fast food, Take-out\n                                    ",
+  "description": "A vegetarian fast food restaurant with several outlets in Belgium.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Parijsstraat 12",
+  "postalCode": "3000",
+  "phone": "tel:16309735",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.879050,4.699560&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.879050,4.699560&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

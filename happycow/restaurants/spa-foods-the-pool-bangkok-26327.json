@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Spa Foods - The Pool",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. All soy protein substitutes used in the menu are non GMO, non MSG and preservative-free, without eggs in the ingredients. Has free Wi-Fi. Previously all veg, please confirm if the vegan options are good enough to keep this listing on HappyCow. ",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Jim's Place, Ramkhamhaeng 44, Huamark, Bangkapi",
+  "phone": "tel:+662374-9393",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.760961,100.640738&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.760961,100.640738&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

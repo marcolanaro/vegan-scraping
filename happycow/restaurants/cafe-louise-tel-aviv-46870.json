@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Louise - Ramat Aviv",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Beer/Wine, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Trendy cafe with several locations. Vegan, vegetarian, and gluten-free items are marked on the menu. Offers at least 2 vegan items in each category, such as mains, huge salads, pasta, and breakfast. Casual, family friendly.",
+  "priceRange": "Moderate",
+  "streetAddress": "11 Oppenheimer",
+  "phone": "tel:03-6447497",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafelouisehaifa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.119884,34.800158&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.119884,34.800158&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

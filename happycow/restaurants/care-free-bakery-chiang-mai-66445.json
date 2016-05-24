@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Care Free Bakery - Stall",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Gluten free and vegan bakery vendor who attends markets in Chiang Mai. See facebook page for location and times.",
+  "streetAddress": "Baan Kang Wat Sunday Market ",
+  "phone": "tel:0982811083",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 7:00am-11:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/CareFreeBakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.777620,98.946474&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.777620,98.946474&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

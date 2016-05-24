@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yishensu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Buffet, Take-out\n                                    ",
+  "description": "一心素 is an upscale vegetarian restaurant located inside 1 Utama Mall. Offers a varied menu including different faux meat dishes.",
+  "priceRange": "Expensive",
+  "streetAddress": "1 Utama Shopping Mall, Petaling Jaya, Lot G207, Ground Floor",
+  "phone": "tel:77294313",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.148572,101.616411&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.148572,101.616411&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

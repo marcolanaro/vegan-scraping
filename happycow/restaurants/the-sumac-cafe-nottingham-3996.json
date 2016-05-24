@@ -1,0 +1,17 @@
+{
+  "title": "The Sumac Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, British, English\n                                    ",
+  "description": "Operates only one evening out of People's Kitchen. The day's dish is cooked and served by volunteers, with payment by donation. Check website for its once-a-month cocktail \"sigh night.\"",
+  "priceRange": "Inexpensive",
+  "streetAddress": "245 Gladstone Street, Forest Fields",
+  "postalCode": "NG7 6HX",
+  "phone": "tel:+44-0845-4589595",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 6:30pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.971340,-1.165230&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.971340,-1.165230&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

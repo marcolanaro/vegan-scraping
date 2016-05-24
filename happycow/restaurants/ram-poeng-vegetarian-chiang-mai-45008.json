@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ram Poeng Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Organic, Thai, Buffet, Juice bar, Take-out\n                                    ",
+  "description": "Offers vegetarian food and has fresh fruit juices and hilltribe filter coffee. Free Wi-Fi. Located behind Wat Ram Poeng temple in the Doi Suthep area.",
+  "priceRange": "Moderate",
+  "streetAddress": "123/1 - 5 Su Thep, Mueang Chiang Mai District",
+  "postalCode": "50200",
+  "phone": "tel:0852253910",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.775228,98.947657&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.775228,98.947657&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

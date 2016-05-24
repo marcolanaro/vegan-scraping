@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "EXKi - Bolivar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Health food concept international chain. Grab n go sandwiches and salads with ingredients listed. Uses some organic produce.",
+  "priceRange": "Moderate",
+  "streetAddress": "7-9 boulevard Simon Bolivar",
+  "postalCode": "1030",
+  "phone": "tel:022030900",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.860974,4.359138&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.860974,4.359138&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,20 @@
+{
+  "title": "Sante",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Juice bar, Take-out\n                                    ",
+  "description": "Vegetarian restaurant with relaxing, non-smoking environment, and Wi-Fi access available. Healthy lifestyle literature available for reading and buying. Previously located on Barbu Lautaru.",
+  "priceRange": "Moderate",
+  "streetAddress": "Located inside Palas Mall",
+  "postalCode": "700124",
+  "phone": "tel:+40332-730-501",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-10:00pm, Fri 9:00am-4:00pm, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SanteFood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.248780,27.348920&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.248780,27.348920&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

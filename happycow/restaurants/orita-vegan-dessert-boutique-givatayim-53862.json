@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Orita Vegan Dessert Boutique",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Not a storefront. Home bakery making all-vegan cakes, brownies, cookies, and other desserts. See its facebook (in Hebrew) for menu. Call at least one day before to order and arrange for pick up or delivery.",
+  "streetAddress": "1 Tabenkin",
+  "phone": "tel:054-8007794",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/אוריתא-בוטיק-קינוחים-טבעונים/1515033435413292",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.061918,34.819346&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.061918,34.819346&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

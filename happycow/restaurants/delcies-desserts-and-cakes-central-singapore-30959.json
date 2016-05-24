@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Delcie's Desserts and Cakes",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Vegan bakery. Makes vegan pastries, cakes, brownies, tea cakes, cupcakes, custom cakes. Gluten free options. Delivery available. In 2014 moved from 951 Upper Serangoon Rd.",
+  "streetAddress": "34 Whampoa West 01-83",
+  "postalCode": "330034",
+  "phone": "tel:97892309/,%2062822951",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/HealthyCake",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.320412,103.863726&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.320412,103.863726&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Mediterranean, Take-out\n                                    ",
+  "description": "A vegetarian/vegan cafe in Munkkiniemi. All of the products are made-in-house from scratch, including chocolate pies, cheese pies, lounas-lunch, vegan cake, sandwiches and many more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Munkkiniemen Puistotie 22",
+  "phone": "tel:04-58627008",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=60.197898,24.876129&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C60.197898,24.876129&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

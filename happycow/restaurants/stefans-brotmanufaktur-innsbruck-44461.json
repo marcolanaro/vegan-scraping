@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Stefans Brotmanufaktur",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Take-out, Bakery, European, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery and veg-friendly cafe. Offers fresh baked breads and sweets, coffee, one vegan lunch menu daily.",
+  "priceRange": "Moderate",
+  "streetAddress": "Innrain 16",
+  "postalCode": "6020",
+  "phone": "tel:+43-512584489",
+  "venueHours": "\n                                                                                                        Mon-Sat 6:30am-6:30pm, Sun 7:30am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Stefans-Brotmanufaktur/154190281280112",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.266671,11.389831&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.266671,11.389831&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

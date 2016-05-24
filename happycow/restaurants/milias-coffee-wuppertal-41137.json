@@ -1,0 +1,18 @@
+{
+  "title": "Milia's Coffee",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee, cacao drinks, and a few vegan finger foods. Stocks soymilk.",
+  "priceRange": "Moderate",
+  "streetAddress": "Burgstrasse 13",
+  "postalCode": "42103",
+  "phone": "tel:+49-2027595858",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-8:00pm, Sat 8:00am-7:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/miliascoffee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.256858,7.147338&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.256858,7.147338&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

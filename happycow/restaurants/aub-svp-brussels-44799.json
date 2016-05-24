@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aub-svp",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small place has a slick design with an open bar-like kitchen so you can watch your food being prepared and chat with the chef. Menus change daily according to what's in season and what the chef feels like cooking. Every day there is the possibility to choose between a vegetarian soup and dish; at times might be vegan or can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Schildknaapsstraat 36",
+  "postalCode": "1000",
+  "phone": "tel:+32-473-90-24-91",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-2:00pm, Wed-Sat 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/aub.svp",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.848894,4.354913&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.848894,4.354913&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

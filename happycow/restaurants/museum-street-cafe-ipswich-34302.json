@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Museum Street Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out\n                                    ",
+  "description": "Vegetarian cafe with vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Museum Street, Westgate House",
+  "postalCode": "IP1 1HQ",
+  "phone": "tel:01473-232393",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Museum-Street-Cafe/259407954135933",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.058034,1.150610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.058034,1.150610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

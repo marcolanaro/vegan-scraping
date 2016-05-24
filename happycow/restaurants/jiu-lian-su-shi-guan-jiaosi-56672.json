@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jiu Lian Su Shi Guan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Taiwanese\n                                    ",
+  "description": "九蓮素食館, at 礁溪鄉德陽街4號, is a small vegetarian eatery.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4, Deyang St",
+  "phone": "tel:9880687",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.826293,121.773444&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.826293,121.773444&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

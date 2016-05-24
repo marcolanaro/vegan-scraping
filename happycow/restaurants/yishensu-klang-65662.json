@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yishensu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "一心素 is an upscale Chinese vegetarian restaurant with a few locations.",
+  "priceRange": "Expensive",
+  "streetAddress": "B12-A-1-1 & B12-1-1 BBT One, Lebuh Batu Nilam 2, Bandar Bukit Tinggi",
+  "postalCode": "41200",
+  "phone": "tel:03-33239013/,%20018-2826181",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Yishensu一心素BBTOne-210233318988777",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.007782,101.440635&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.007782,101.440635&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

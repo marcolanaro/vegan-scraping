@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Curry Pot Indian & Thai Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Indian, Thai, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian and Thai food with vegetarian section on menu. Naan bread is made without eggs, and veg food is cooked separately from non-veg. Ask about dairy use. Location is across from Central Festival.",
+  "priceRange": "Moderate",
+  "streetAddress": "200, Moo 2, Chaweng Beach Rd, Chaweng",
+  "postalCode": "84320",
+  "phone": "tel:0853570817",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.530702,100.061530&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.530702,100.061530&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

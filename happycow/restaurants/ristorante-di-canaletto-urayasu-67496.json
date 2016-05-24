@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ristorante di Canaletto",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. One of the only vegan-friendly choices at Tokyo DisneySea. One could get minestrone, pizza (omit cheese), pasta, drinks, and dessert. Nice decor, comfortable seating, views of the surrounding area. Reservations recommended and let them know you're vegan in advance. ",
+  "priceRange": "Expensive",
+  "streetAddress": "1-1 Maihama, Tokyo DisneySea",
+  "phone": "tel:45-6833333",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.637532,139.928256&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.637532,139.928256&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

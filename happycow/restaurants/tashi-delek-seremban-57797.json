@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tashi Delek",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Malaysian\n                                    ",
+  "description": "如意心 vegetarian restaurant serves a variety of local food.",
+  "priceRange": "Moderate",
+  "streetAddress": "56, Jalan S2 D36, City Centre",
+  "postalCode": "70300",
+  "phone": "tel:06-6017650",
+  "venueHours": "\n                                                                                                        Mon-Wed 12:00pm-3:00pm, 6:00pm-10:00pm, Fri-Sun 12:00pm-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.685708,101.913052&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.685708,101.913052&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,13 @@
+{
+  "title": "NatureO",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "7 rue d’Orsonville",
+  "postalCode": "91410",
+  "phone": "tel:0164942372",
+  "venueHours": "\n                                                                                                        Mon 2:00pm-7:30pm, Tue-Fri 10:00am-7:30pm, Sat 9:30am-7:30pm, Sun 9:30am-12:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.524040,2.021979&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.524040,2.021979&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

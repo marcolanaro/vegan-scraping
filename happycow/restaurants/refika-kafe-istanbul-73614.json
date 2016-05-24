@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Refika Kafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Mediterranean, Fast food, Catering, Middle Eastern, Turkish\n                                    ",
+  "description": "A small vegan cafe with plenty of tables out front. Opened Apr 2016.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Duatepe Sok 17/b Rasimpaşa/Kadıköy",
+  "phone": "tel:05396816811",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/refikacafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.995588,29.028544&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.995588,29.028544&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "VMAD - Vegetarian Madness",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Chinese, Indian, International\n                                    ",
+  "description": "Casual vegetarian place in the Sarinah shopping complex. Offers a variety of cuisines including Indonesia, Indian, Chinese, and American. Sit down service. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sarinah Building Lantai Ground 11, Jalan M.H. Thamrin 11, Menteng, Gondangdia, Menteng, Kota Jakarta Pusat",
+  "postalCode": "10350",
+  "phone": "tel:+62%2021%203903533",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/vmadrestaurants/timeline?ref=page_internal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.192898,106.828162&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.192898,106.828162&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

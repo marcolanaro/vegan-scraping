@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natuurwinkel't Viooltje",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Sells fresh organic produce, non-dairy milks, deli, bakery, juices, beans and grains, vegan fare, non-veg stuff, and more.",
+  "streetAddress": "Maastrichtersteenweg 19b",
+  "postalCode": "3680",
+  "phone": "tel:+32-089-566601",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.094704,5.779318&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.094704,5.779318&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

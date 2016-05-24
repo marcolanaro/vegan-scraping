@@ -1,0 +1,18 @@
+{
+  "title": "Canape Bistrot",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Organic, Buffet, Mediterranean, Beer/Wine, Take-out, Bakery\n                                    ",
+  "description": "Vegan and organic bistrot.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via S.Isaia, 57/D",
+  "postalCode": "40123",
+  "phone": "tel:051522206",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-10:00pm, Sat 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/canape.bio",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.494363,11.330109&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.494363,11.330109&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

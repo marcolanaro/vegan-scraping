@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Johor Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "柔佛素食馆 serves a wide selection of rice and noodle dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "71, Jalan Keris 1, Taman Sri Tebrau",
+  "postalCode": "80050",
+  "phone": "tel:07-3316330",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.645000,101.997070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.645000,101.997070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

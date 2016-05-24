@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Huan Xi - Joy Vegetarian Buffet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Take-out, Taiwanese\n                                    ",
+  "description": "歡喜素食, at 桃園市龜山區復興北路6巷12號, is a casual vegetarian buffet. Pay by weight.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12, Alley 6, Fuxing North Rd, Guishan District",
+  "phone": "tel:03-3287383",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-2:00pm, 5:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.059194,121.368737&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.059194,121.368737&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

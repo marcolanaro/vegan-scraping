@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pita the Great",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Take-out\n                                    ",
+  "description": "Falafel and other hot and cold pita sandwiches. A small outdoor terrace seating area. Entrance is up some steps on the outside of the ATT building. Address in Japanese: 東京都港区赤坂2-11-7. NOTE: Closed on weekends and keeps irregular hours, please call ahead. Confirmed open, Feb 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "Akasaka 2-11-7, ATT Bldg 2nd Floor",
+  "phone": "tel:03-55630851",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.669910,139.741070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.669910,139.741070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

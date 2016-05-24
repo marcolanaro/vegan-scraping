@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Salada Senkada",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Indian, Buffet, Sri Lankan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located within a print shop, this place offers a lunch rice & curry buffet. There is a downstairs option for a casual vibe, and an upstairs option in air conditioned room with a larger range of rice and curries. Meat is served separately. Everything is labelled, and staff will point out what's vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "466 Union Pl",
+  "phone": "tel:+94-112672085",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.919574,79.859381&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.919574,79.859381&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

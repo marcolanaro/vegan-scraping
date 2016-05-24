@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Garden Cooking School and Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Thai, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. May Kaidee's sister Pon runs this restaurant and Thai cooking school. Set up originially in late-2014 as P. Hot Pot restaurant, it rebranded became Green Garden. Menu is veg-friendly. Has budget room for rent.",
+  "priceRange": "Moderate",
+  "streetAddress": "54/1 Samsen Soi 5, Sam Praya, Prankkorn",
+  "postalCode": "10200",
+  "phone": "tel:+66-991056446",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Green-Garden-Cooking-School/1596152487287861",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.764316,100.498107&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.764316,100.498107&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai\n                                    ",
+  "description": "Small vegetarian pre-cooked buffet eatery at the second soi of Rama IV. Get a plate with brown rice and pick different dishes and sauces to accompany. Lots of mock meat and tofu dishes. A sign in yellow and red states \"vegetarian\" in Chinese/Thai.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "64/28 Rama IV Soi 2",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.555897,99.609179&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.555897,99.609179&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cajovna U Cajoveho Skritka",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Western, Juice bar, Middle Eastern\n                                    ",
+  "description": "Dishes for both vegetarians and vegans include pancakes and pita with various fillings, couscous, and Indian meals. Quality teas. Dimly lit tea room atmosphere. Water pipes in enclosed room. Barrier-free access and facilities.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Heyrovského 1725, Ostrava Poruba",
+  "postalCode": "708 00",
+  "phone": "tel:777580774",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/cajovnauskritka",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.841719,18.178465&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.841719,18.178465&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

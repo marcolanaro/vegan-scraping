@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rong Yuan Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Fast food\n                                    ",
+  "description": "Vegetarian food stall by a husband-and-wife team in a neighborhood coffee shop. offering dishes like sliced fish beehoon, economic rice/beehoon, lor mee, dry mee. Operating hours varies and usually closed the day after the 1st and 15th of lunar calendar.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 371A Woodlands Ave 1, 01-07",
+  "postalCode": "731371",
+  "phone": "tel:91059968/,%2098254782",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat-Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.432874,103.786442&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.432874,103.786442&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

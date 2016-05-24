@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Co Tam",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "Quan Chay Co Tam. Try the clay pot fried rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "05 Lac Long Quan",
+  "phone": "tel:058-3878236",
+  "venueHours": "\n                                                                                                        Mon-Sun 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.243768,109.185927&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.243768,109.185927&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

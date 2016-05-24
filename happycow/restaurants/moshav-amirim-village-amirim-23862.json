@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Moshav Amirim Village",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Cooperative community of farmers (moshav) established since 1958 by a group of vegetarians who banded together to create a moshav based on a vegetarian, vegan, and organic lifestyle and ideology. Today around 150 families live on the moshav, they run guesthouses and restaurants that are open to the public. en.wikipedia.org/wiki/Amirim",
+  "streetAddress": "Amirim Village, Meron, Galilee",
+  "phone": "tel:00972-4-6989045",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.938242,35.451733&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.938242,35.451733&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

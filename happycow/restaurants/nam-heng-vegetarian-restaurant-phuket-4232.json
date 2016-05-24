@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nam Heng Vegetarian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Fast food, Take-out\n                                    ",
+  "description": "Small restaurant with buffet and some snacks. Thai \"jay\" vegan food. No onion or garlic. Drinking water is free. Ready-made dishes plus hot noodles cooked upon order.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "9 Chana Charoen Rd, Tambon Wichit, Amphoe Mueang",
+  "phone": "tel:076210958",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.879606,98.393755&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.879606,98.393755&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

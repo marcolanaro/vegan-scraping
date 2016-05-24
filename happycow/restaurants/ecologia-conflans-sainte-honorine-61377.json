@@ -1,0 +1,13 @@
+{
+  "title": "Ecologia",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "5 rue des Cayennes, ZA Les Bouteries",
+  "postalCode": "78700",
+  "phone": "tel:0139190952",
+  "venueHours": "\n                                                                                                        Mon-Thu 2:00pm-7:30pm, Tue-Thu 9:30am-1:30pm, Fri-Sat 9:30am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.008021,2.082719&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.008021,2.082719&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ta Soon Vegetarian Food Trading",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Sells packaged dry and frozen vegetarian foodstuff.",
+  "streetAddress": "21, Jalan Seri Orkid 17, Taman Seri Orkid",
+  "postalCode": "81300",
+  "phone": "tel:+6075115926",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-8:00pm, Sun 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.509494,103.641409&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.509494,103.641409&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

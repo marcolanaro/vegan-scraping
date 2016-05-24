@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ricemarket Asian Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Beer/Wine, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Laid back Thai food restaurant in the city centre, affiliated with Kiin Kiin restaurant. Could ask for tofu as substitution for meat in a dish. Try the red curry.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hausergade 38",
+  "postalCode": "1128",
+  "phone": "tel:35357530",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Ricemarket/303637552981340",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.682858,12.574452&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.682858,12.574452&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

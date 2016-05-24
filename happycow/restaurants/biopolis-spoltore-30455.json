@@ -1,0 +1,13 @@
+{
+  "title": "Biopolis",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food store with a good selection of vegan food.",
+  "streetAddress": "Viale Europa, 4",
+  "postalCode": "65010",
+  "phone": "tel:+390854154561",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-1:00pm, 4:00pm-8:00pm, Sat 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.451069,14.185133&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.451069,14.185133&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

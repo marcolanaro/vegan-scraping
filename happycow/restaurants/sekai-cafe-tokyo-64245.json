@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sekai Cafe ",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Pizza, Organic, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. One of two cafes. Aims to attract particularly vegetarians, vegans, and Muslims. Most of menu can be customized to be veg. White sugar is vegan. Staff speaks English. Free Wi-Fi. Near Oshiage station and Sky Tree.",
+  "priceRange": "Moderate",
+  "streetAddress": "2-16-8 Narihira, Sumida Ku",
+  "phone": "tel:03-62841760",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/sekai.cafe.oshiage",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.709161,139.811718&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.709161,139.811718&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

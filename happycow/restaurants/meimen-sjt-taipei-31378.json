@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Meimen SJT",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Taiwanese\n                                    ",
+  "description": "Part of a Chi Kung institute advocating a vegetarian/vegan diet. Offer small, healthy set meals. Uses cheese in a few items.",
+  "priceRange": "Moderate",
+  "streetAddress": "28, B2, SongRen Road",
+  "phone": "tel:02-87292734",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.039244,121.568183&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.039244,121.568183&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

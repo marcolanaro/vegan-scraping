@@ -1,0 +1,18 @@
+{
+  "title": "Patta",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual modern take on the baked potato. Choose as many toppings as you'd like on yours. Try bell pepper with eggplant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Krossener Str. 16, Berlin -Friedrichshain",
+  "phone": "tel:+49-123456789",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/patta.finest.baked.potatoes",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.510649,13.457351&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.510649,13.457351&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

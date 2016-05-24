@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kukitzah",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. European-style place offering a changing chalkboard menu with the vegan items marked, which might include couscous (Tuesdays and Fridays), egg rolls, different kinds of vegetable patties.",
+  "priceRange": "Moderate",
+  "streetAddress": "20 Ben Yehuda St",
+  "phone": "tel:03-5169136",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-10:00pm, Fri 10:00am-10:00pm, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/קוקיצה-Home-made-Israeli-food/184239126151",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.075016,34.768070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.075016,34.768070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

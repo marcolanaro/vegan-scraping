@@ -1,0 +1,19 @@
+{
+  "title": "Los Tacos",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. One of few fast food places in the area that offers something for vegans. The vegetarian burrito can easily be made vegan by omitting the cheese. Also offers a build-your-own burrito, salad, soft or hard tacos and nachos so can be made vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Olav Kyrres Gate 27",
+  "postalCode": "5014",
+  "phone": "tel:+4745200520",
+  "venueHours": "\n                                                                                                        Mon-Wed 12:00pm-12:00am, Thu-Sat 12:00pm-4:00am, Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Los-Tacos-1465454650396600",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=60.391206,5.323726&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C60.391206,5.323726&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

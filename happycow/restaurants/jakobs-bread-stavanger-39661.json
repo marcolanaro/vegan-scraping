@@ -1,0 +1,14 @@
+{
+  "title": "Jakob's Bread",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Organic bakery cafe. Has vegan bread and fresh juice.",
+  "streetAddress": "Haugesundsgata 7",
+  "postalCode": "4014",
+  "phone": "tel:45-87-00-07",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 7:00am-5:30pm, Thu 7:00am-6:00pm, Fri 7:00am-5:30pm, 7:00am-4:00pm, Sun 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/JakobsBrod.no",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=58.968698,5.751433&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C58.968698,5.751433&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tu Hanh",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Beer/Wine, Take-out, Vietnamese\n                                    ",
+  "description": "Popular veggie food restaurant within walking distance of center of town and situated in a French-style villa with large doors and windows. Menu is in Vietnamese and English. Local art and craft adorn the walls. Uses some dairy like condensed milk and butter.",
+  "priceRange": "Moderate",
+  "streetAddress": "9B Hoang Van Thu, District 5",
+  "phone": "tel:0978428242",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.940822,108.422275&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.940822,108.422275&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

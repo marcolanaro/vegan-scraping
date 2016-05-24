@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lebanese Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has decent selection of vegetarian dishes and some vegan ones or ones that can be made vegan. Serves salads, hummus, baba ganoush, and soups. Owner will work with you to find what you can eat. ",
+  "priceRange": "Moderate",
+  "streetAddress": "209 Rat Uthit Road",
+  "phone": "tel:086-7889120",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.889377,98.295901&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.889377,98.295901&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

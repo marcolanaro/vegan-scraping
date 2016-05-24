@@ -1,0 +1,11 @@
+{
+  "title": "Goodfood Veg",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Delivery service of vegetarian meals.",
+  "streetAddress": "Viale Giulio Cesare 29",
+  "phone": "tel:3927685841",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.710654,9.683400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.710654,9.683400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

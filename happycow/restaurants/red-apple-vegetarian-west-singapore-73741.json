@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Red Apple Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "红苹果素食 serves economic rice and zhi char dishes like yam ring, shark fin soup, salad prawn and fried fish. Last order 9:30pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 624 Choa Chu Kang St 62, Yew Tee Square, Kopitiam Food Court",
+  "postalCode": "680624",
+  "phone": "tel:81847878",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.398094,103.746828&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.398094,103.746828&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

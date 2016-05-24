@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Excalibur Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Raw, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "Licensed vegetarian cafe serving all vegan food except for use of bee products. Specializes in healthy, organic with raw food options; desserts, hot drinks, elixirs, fresh juices and alcoholic beverages. Clearly labelled vegetarian, vegan, raw, gluten-free, nut and sattvic menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "22 High St",
+  "postalCode": "BA6 9DU",
+  "phone": "tel:01458258301",
+  "venueHours": "\n                                                                                                        Mon 8:30am-11:00pm, Tue-Wed 8:30am-5:00pm, Thu 8:30am-11:00pm, Fri-Sat 8:30am-1:00am, Sun 8:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/excaliburcafeuk",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.147655,-2.716390&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.147655,-2.716390&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

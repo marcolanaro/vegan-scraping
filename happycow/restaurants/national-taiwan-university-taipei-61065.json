@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "National Taiwan University Food Court - Di San Xiao Chi Bu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "第三小吃部 (Di San Xiao Chi Bu) is a small vegetarian food stall on the campus of National Taiwan University. Open to the public. Menu includes noodle, rice and porridge dishes as well as fruit juice. English menu available. Pay cash into a little box in the exact amount.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1, Sec. 4, Roosevelt Rd, Da’an District",
+  "postalCode": "106",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.015541,121.537159&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.015541,121.537159&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

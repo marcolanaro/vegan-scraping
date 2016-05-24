@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "My Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Bakery, Malaysian\n                                    ",
+  "description": "Vegetarian restaurant within the IOI Mall Putrajaya. Also a small bakery stand within the restaurant. ",
+  "priceRange": "Moderate",
+  "streetAddress": "LG-75, City Mall, Lebuh IRC, IOI City, Ioi Resort",
+  "postalCode": "62502",
+  "phone": "tel:03-80621777",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/My-Veggie-Ioi-City-Mall/725438644190822",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.926361,101.696445&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.926361,101.696445&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

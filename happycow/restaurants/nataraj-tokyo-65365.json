@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nataraj - Shibuya",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Take-out\n                                    ",
+  "description": "Nataraj Indian vegetarian cuisine with several outlets in Tokyo; this one is just north of Shinbuya station and owner confirms it's still operating (Feb 2016). Lunch is buffet til 3pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-22-7 Inokashira Dori, 3F, Shinbuya",
+  "postalCode": "150-0041",
+  "phone": "tel:0364169022",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/nataraj.jp",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.661108,139.701010&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.661108,139.701010&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

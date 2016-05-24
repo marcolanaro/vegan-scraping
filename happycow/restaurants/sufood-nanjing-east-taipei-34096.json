@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sufood - Nanjing East",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Western\n                                    ",
+  "description": "High-end vegetarian cuisine chain with locations in Taiwan. Modern, upscale decor. Features a set menu for around NT$400 (US$13). You choose from one of few main entrees, plus you get appetizer, bread, soup, salad, dessert, and drink. You can only order it as part of a set menu. Some dishes use eggs and dairy; server will point out which dishes are suitable for you. Chinese name is 舒果新米蘭蔬食, address 台北市南京東路二段65號.",
+  "priceRange": "Moderate",
+  "streetAddress": "65, Sec. 2, Nanjing East Road",
+  "phone": "tel:02-2541-2511",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/sufood.co",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.053823,121.536956&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.053823,121.536956&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Garden Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "From downtown take the bus#13 towards Penampang, stop one street immediately after Servay Hypermarket's street, second building from there. Name in Chinese: 翠園素食館.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lot 8-9, Ground Floor, Blk 15, Bandar Baru Penampang, Batu 5, Jl. Penampang 5, Sabah",
+  "phone": "tel:088-728009",
+  "venueHours": "\n                                                                                                        Mon 7:00am-2:30pm, 5:00pm-9:00pm, Wed-Sun 7:00am-2:30pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.927679,116.090136&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.927679,116.090136&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

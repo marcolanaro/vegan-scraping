@@ -1,0 +1,16 @@
+{
+  "title": "Marqt - Ceintuurbaan",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "General supermarket with many locations. Offers a wide selection of products, from fresh fruits and vegetables to organic whole food products, ecological laundry soaps and cosmetics to tofu and soy products, and more. Does not take cash.",
+  "streetAddress": "Ceintuurbaan 402",
+  "postalCode": "1074",
+  "phone": "tel:020-7870203",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Marqtfanpage",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.354826,4.901447&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.354826,4.901447&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

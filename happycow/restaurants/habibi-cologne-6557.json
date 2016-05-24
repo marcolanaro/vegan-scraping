@@ -1,0 +1,16 @@
+{
+  "title": "Habibi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Falafels, hummus, babaganoush, and more. Free tea on cold night.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Zuplicher Strasse 28",
+  "phone": "tel:+49-2212717141",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-1:00am, Fri-Sat 11:00am-3:00am, Sun 11:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.929440,6.937820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.929440,6.937820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

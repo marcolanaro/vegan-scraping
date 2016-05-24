@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thuy",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Take-out, Vietnamese\n                                    ",
+  "description": "Quan Chay (meaning vegetarian restaurant) Thuy is open daily for all meals with broad selection of traditional rice and noodle dishes, veggies, mock meats, soups, cakes and pastry wraps. located at 25 meters south of 3-way intersection at Le Hong Phong.",
+  "priceRange": "Moderate",
+  "streetAddress": "122 Hoang Dieu",
+  "phone": "tel:0511-2217112",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/QuanChayThuy1992",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.064060,108.218494&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.064060,108.218494&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gyoshintei",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Buddhist, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. All the menus are pre-fixed at this tatami-floor Buddhist cuisine restaurant. They have two menus which are vegan and they do have an English language menu. Options are the Shojinryori course (a total of 12 small dishes) which costs 3990yen or the Shojinhonzen course (a total of 16 small dishes) which costs 5775yen. Located in the Meiji-kan very close to the Shrines with a bus stop right in front of it; buses won't go later than 5pm. ",
+  "priceRange": "Expensive",
+  "streetAddress": "Sannai 2339-1",
+  "phone": "tel:0288-53-3751",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:30am-7:00pm, Fri-Sun 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.757168,139.602371&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.757168,139.602371&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

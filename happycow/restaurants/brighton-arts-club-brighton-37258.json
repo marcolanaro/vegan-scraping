@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Brighton Arts Club",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers uncontaminated vegan and vegetarian dishes, including a range of cakes and treats.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "43 Providence Pl",
+  "postalCode": "BN1 4GE",
+  "phone": "tel:441273757043",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/BrightonArtsClub",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.831016,-0.136970&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.831016,-0.136970&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tanatan Restaurante",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine\n                                    ",
+  "description": "A vegetarian restaurant with a focus on Gujarati food. Has Thali and single dishes and some options for breakfast. Beverages include cold drinks, juices, lassi, buttermilk and alcoholic drinks. Many foods include ghee and cheese, so vegans please inquire. From south Pattaya Road head in the direction of Jomtien; will be on the right side.",
+  "priceRange": "Moderate",
+  "streetAddress": "175/9, M-10, Pratamnak Road",
+  "postalCode": "20150 Chonburi",
+  "phone": "tel:66-620210806",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.911122,100.867508&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.911122,100.867508&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

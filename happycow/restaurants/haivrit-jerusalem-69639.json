@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Haivrit",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers an extensive list of vegan choices. Located across from Blumfield Science Museum and convenient to the Israel Museum, the Knesset, Givat Ram Campus and others. Easy parking.",
+  "priceRange": "Moderate",
+  "streetAddress": "New Sport Center, Givat Ram Jerusalem, Israel",
+  "phone": "tel:02-5669124",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-10:30pm, Fri 8:00am-3:00pm, Sun 8:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.776473,35.199119&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.776473,35.199119&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

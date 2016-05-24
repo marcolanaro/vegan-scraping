@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ru Su Jia Zhen - VegeCherish",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Chinese, Macrobiotic, Delivery, Take-out, Catering, Taiwanese\n                                    ",
+  "description": "Veggie eatery opened 2015 at 新北市新店區德正街40號. Offers Taiwanese dishes and hot pot plus veg burgers, sandwiches, fried snacks. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "40, Dezheng St, Xindian District",
+  "postalCode": "231",
+  "phone": "tel:02-29105906",
+  "venueHours": "\n                                                                                                        Mon-Sat 6:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.971563,121.544285&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.971563,121.544285&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hotel Malaysia Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Delivery, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurant. Menu includes some vegetarian dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "66, Pokok Asam",
+  "postalCode": "07000",
+  "phone": "tel:04-9660150/,%20019-4263263",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.329024,99.838652&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.329024,99.838652&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

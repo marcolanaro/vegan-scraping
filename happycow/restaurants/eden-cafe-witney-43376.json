@@ -1,0 +1,19 @@
+{
+  "title": "Eden Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Fast food, Take-out\n                                    ",
+  "description": "The owners of the Eden Cafe mobile food trailer sold that and opened this brick-and-mortar cafe in Dec 2014. Serves New Zealand kiwi style food that's mostly gluten-free. Soup, salads, cakes, muffins, coffee and tea.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6A Wesley Walk, High St",
+  "postalCode": "OX28 6ZJ",
+  "phone": "tel:01993849494",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-4:30pm, Sun 11:00am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/EdenCafeVeg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.786233,-1.484462&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.786233,-1.484462&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

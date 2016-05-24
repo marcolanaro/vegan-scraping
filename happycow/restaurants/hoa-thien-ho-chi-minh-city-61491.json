@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hoa Thien",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "Vegan restaurant. Kitchen rests 2-4pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "27 Nguyen Quy Duc, An Phu, An Khahn, District 2",
+  "phone": "tel:+84-981917177",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.798252,106.738718&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.798252,106.738718&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Deli Cafe - Business Park",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Juice bar, Take-out, Bakery, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Modern style coffee, pastries, and sandwiches cafe with multiple locations. Some vegetarian items with a few vegan and raw choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Business Park Sofia, Building 5",
+  "phone": "tel:+359-885175454",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-8:00pm, Sat-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/greendelicafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.623767,23.377975&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.623767,23.377975&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, International, Take-out, Indonesian\n                                    ",
+  "description": "A small 100% vegan restaurant located in the heart of Chinatown on a crowded alley way. Each day the menu changes, except for a few staples, such as mock Chinese pork, mock beef patty, satay, and local greens. Owner is friendly and happy to explain what each dish is and how it is made. No gluten is used in the making of the mock meats. Directions: From Glodok Bus Station, walk north on Jl Pintu Besar Selatan (toward Kota Bus Station). Turn left at Jl Pancoran and walk down street for a couple of minutes. Chinatown will be on your left. There are 2 alleyways that are part of Chinatown. Turn left at the 2nd alleyway (the more narrow one). If you reach A&W Burgers, you've gone too far. It's about halfway down the alley on the left. On the food display case at the front of the restaurant, it says vegetarian in big red letters.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl Pancoran 5, Gg Tian Liong No 15",
+  "phone": "tel:+62-02180357807",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.142285,106.813204&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.142285,106.813204&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

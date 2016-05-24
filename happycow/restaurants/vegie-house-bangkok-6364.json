@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegie House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai, Take-out\n                                    ",
+  "description": "No frills Chinese eatery. Very mock meat dominated food. Also sells mock meat to cook at home. Directions:- Come out Sam Yan MRT station exit B. Turn right along the main road. Restaurant is approx 400 meters on the same side of the street.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1519-21 Rama IV Road",
+  "postalCode": "10330",
+  "phone": "tel:02-2154395",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.733930,100.526710&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.733930,100.526710&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

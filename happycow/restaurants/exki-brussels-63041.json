@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "EXKi - Ravenstein",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Health food concept international chain shop. Grab n go sandwiches and salads with ingredients listed. Uses some organic produce.",
+  "priceRange": "Moderate",
+  "streetAddress": "42 Galerie Ravenstein",
+  "postalCode": "1000",
+  "phone": "tel:025139512",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.844862,4.358586&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.844862,4.358586&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

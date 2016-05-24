@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "SaladStop - Great World City",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Quick service salad bar chain restaurant offering create-your-own salads. Choose from 30+ toppings which include alfalfa, brown rice, beans, tofu, nuts, and more. Ask the staff to use a fresh chopping board.",
+  "priceRange": "Moderate",
+  "streetAddress": "1 Kim Seng Promenade, 01-21A, Great World City",
+  "postalCode": "237994",
+  "phone": "tel:67355528",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-8:30pm, Sat-Sun 10:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SaladStop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.293761,103.832134&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.293761,103.832134&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

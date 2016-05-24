@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aroma Villa Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "天一香素食餐厅 veggie eatery.",
+  "priceRange": "Moderate",
+  "streetAddress": "2, Jalan Titiwangsa 3/2, TamanTampoi Indah",
+  "postalCode": "81200",
+  "phone": "tel:07-2369698",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.506347,103.689070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.506347,103.689070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

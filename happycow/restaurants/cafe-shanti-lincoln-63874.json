@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Shanti",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Western, Take-out, Bakery, Catering\n                                    ",
+  "description": "Grand open Oct 2015 - call before you go. Nepalese-themed vegetarian cafe. On the menu are soups, falafel, curry, dahl, paninis, lasagna, and changing vegan cakes. Specialty coffee and tea. Will cater for  private parties.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6 Clasketgate",
+  "postalCode": "LN2 1JS",
+  "phone": "tel:07735161481",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-5:00pm, Fri-Sat 9:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafeshantilincoln",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.230386,-0.539446&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.230386,-0.539446&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

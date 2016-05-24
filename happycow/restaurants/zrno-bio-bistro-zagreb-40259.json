@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zrno Bio Bistro",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Macrobiotic, Organic, Western, Juice bar, Bakery, Croatian\n                                    ",
+  "description": "Certified organic vegan restaurant, opened Jun 2013 replacing the previous restaurant Nova. Meals are based on macrobiotic principles with vegetables sourced from its own organic farm as well as other local producers. Smoothies, shakes, teas, coffee and desserts available. English is spoken and on menu. Air-conditioned and non-smoking.",
+  "priceRange": "Moderate",
+  "streetAddress": "Meduliceva 20",
+  "postalCode": "10000",
+  "phone": "tel:+385-14847540",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ZRNObiobistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.811087,15.966734&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.811087,15.966734&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

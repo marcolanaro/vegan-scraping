@@ -1,0 +1,20 @@
+{
+  "title": "Billes Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Take-out, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers many vegetarian and vegan dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Anger 80a",
+  "postalCode": "99084",
+  "phone": "tel:03615610426",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-6:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Billes-Restaurant/307796476036548",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.977559,11.035381&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.977559,11.035381&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "HaMitbachon",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Delivery, Take-out, Middle Eastern, Israeli, Eastern European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Near the busy Carmel Market in the Kerem HaTaymanim neighborhood, this place offers items on its menu marked with a V. These can be either vegetarian or vegan so ask to be sure. Offers Middle Eastern salads like green techina and roasted eggplant. Mains include stuffed vegetables and majadara, a rice and lentil dish.",
+  "priceRange": "Moderate",
+  "streetAddress": "18 Rabbi Akiva",
+  "phone": "tel:03-5163689",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-2:00am, Sat 9:00am-2:00am, Sun 8:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.069832,34.769406&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.069832,34.769406&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

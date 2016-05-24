@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nirvana",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. As with most Indian restaurants there are vegetarian dishes. This place has a specialty vegetarian menu, and the dishes are labelled. Try the vegetarian sample plate. Vegans to ask for the curries to be cooked with coconut milk. Comfortable space with plenty of tables. English spoken.",
+  "priceRange": "Moderate",
+  "streetAddress": "1010 Wien, Rotenturmstrasse 16-18",
+  "phone": "tel:+43-15133075",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-2:00pm, Mon-Sun 6:00pm-10:30pm, Sat 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.210724,16.375243&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.210724,16.375243&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

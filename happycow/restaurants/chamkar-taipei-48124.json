@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chamkar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Beer/Wine, Cambodian, Khmer\n                                    ",
+  "description": "Khmer Cambodian cuisine restaurant located near Tianmu Sports Park and is affiliated with the Chamkar in Siem Reap. Modern decoration infused with Cambodian elements. It's best to call ahead if you're vegan and pre-arrange a vegan meal.",
+  "priceRange": "Moderate",
+  "streetAddress": "7, Sec. 2, Lane 50, Zhongcheng Road, Tianmu",
+  "phone": "tel:02-28383400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.111477,121.530346&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.111477,121.530346&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

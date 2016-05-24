@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bournemouth Pizza ",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzas cooked in wood fired oven with a wide range of toppings. Has vegan cheese (violife). Last order 10:30pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "44 St Swithun's Rd",
+  "postalCode": "BH1 3RJ",
+  "phone": "tel:01202555125",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:00pm-11:00pm, Fri-Sun 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/bournemouthpizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.725793,-1.861362&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.725793,-1.861362&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

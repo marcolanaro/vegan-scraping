@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Kafka",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo\n                                    ",
+  "description": "Cafe Kafka is a vegetarian cafe that permits smoking. No vegan options on the menu, but can be customized.",
+  "priceRange": "Moderate",
+  "streetAddress": "Capistrangasse 8",
+  "postalCode": "A-1060 Wien",
+  "phone": "tel:+43-01-5861317",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-12:00am, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.200190,16.357350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.200190,16.357350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

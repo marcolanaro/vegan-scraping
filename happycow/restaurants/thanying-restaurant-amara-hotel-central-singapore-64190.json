@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thanying Restaurant - Amara Hotel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A high-end Thai food restaurant inside the hotel with a surprisingly substantial vegetarian menu (several pages long), including corn cakes, curries, salads, vegetables and a veg version of tom yam goong.",
+  "priceRange": "Expensive",
+  "streetAddress": "165 Tanjong Pagar Rd",
+  "postalCode": " 088539",
+  "phone": "tel:62224688",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 6:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.274961,103.843575&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.274961,103.843575&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

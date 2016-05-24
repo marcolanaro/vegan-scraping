@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bonita Cafe and Social Club",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Raw, Western, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "Re-opened Aug 2015. Operating since 2012, this is an old American style cafe with free Wi-Fi, 200m from Myanmar Embassy or Hindu Temple. Offers vegan food and drinks with some raw food. It's also a social club for gathering.",
+  "priceRange": "Moderate",
+  "streetAddress": "56/3 Pan St, Silom",
+  "postalCode": "10500",
+  "phone": "tel:026379541",
+  "venueHours": "\n                                                                                                        Mon 11:30am-3:30pm, 6:00pm-9:30pm, Wed-Sun 11:30am-3:30pm, 6:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/bonita.c.sc",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.722469,100.523700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.722469,100.523700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Belzepub",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Western, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A rock and punk themed bar serving tapas, burgers, salads. Vegan choices are a burger, chili, hummus, fries with soyanaise, and a breakfast; ask if uses the same fryer for meatstuff if order fries and onion rings. A house-made soy mixture is used in vegetarian/vegan dishes. Loud at night. Smoking cigarettes allowed.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "U Rajske Zahrady 14, Praha 3",
+  "postalCode": "130 00",
+  "phone": "tel:774446747",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 5:00pm-1:00am, Sat 7:00pm-1:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Belzepub/382536148131",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.082529,14.444389&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.082529,14.444389&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "For Goodness Sake Health Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Family operated business with many years of experience within the health industry. Meat-free foods, confectionery, refridgated food, vitamins, and health supplements.",
+  "streetAddress": "28 Westgate",
+  "postalCode": "TS14 6BA",
+  "phone": "tel:01287-637074",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.535330,-1.053530&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.535330,-1.053530&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

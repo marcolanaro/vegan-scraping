@@ -1,0 +1,15 @@
+{
+  "title": "Ginger Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, European, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Reported menu has a dedicated vegetarian section that also denotes what's vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "6-8 Hope St",
+  "postalCode": "BT2 5EE",
+  "phone": "tel:02890244421",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.593368,-5.934155&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.593368,-5.934155&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

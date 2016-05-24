@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Medan - maybe closed",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Western, Juice bar, Take-out, Indonesian\n                                    ",
+  "description": "Part of international chain of vegan restaurants opened by followers of Supreme Master Ching Hai, an advocate for veg living. Each location is individual family owned. Cozy atmosphere. NOTE: Maybe closed/shut down, please confirm and inform HappyCow- thanks!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl. Mataram 2B, Medan",
+  "phone": "tel:6261-4151814",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.582368,98.664456&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.582368,98.664456&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

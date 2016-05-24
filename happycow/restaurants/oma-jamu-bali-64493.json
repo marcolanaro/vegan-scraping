@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Oma Jamu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Juice bar, Indonesian\n                                    ",
+  "description": "Name means \"Jamu Grandmother,\" this eatery, est. in 2015, offers health food and juices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jalan Raya Batu Bolong, Canggu",
+  "postalCode": "80361",
+  "phone": "tel:81-3370711239",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/omajamu",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.648101,115.138975&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.648101,115.138975&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

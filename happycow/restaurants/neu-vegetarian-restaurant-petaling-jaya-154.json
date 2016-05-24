@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "NEU Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Malaysian\n                                    ",
+  "description": "Name in Chinese: 新民素食馆. In downtown. Offers a la carte as well set dinner meals.",
+  "priceRange": "Moderate",
+  "streetAddress": "41, Jalan 52/18, Jalan Yong Shook Lin",
+  "postalCode": "46200",
+  "phone": "tel:03-79573789",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.098907,101.645631&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.098907,101.645631&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

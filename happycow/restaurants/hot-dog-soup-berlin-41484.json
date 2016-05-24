@@ -1,0 +1,17 @@
+{
+  "title": "Hot Dog Soup",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Basic little hot dog and soup place that has a vegan hot dog made from organic tofu, and at least 2 soups that could be suit to vegans.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Grünberger Str. 69, Friedrichshain",
+  "postalCode": "10245",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-11:00pm, Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.511558,13.458694&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.511558,13.458694&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Leezen",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of an all vegetarian health food chain with many locations throughout Taiwan. Founded by a Buddhist organization with emphasis on organic, natural, and vegetarian. Most items are vegan, some with dairy. This location is a small shop but well stocked with a range of dried food products and snacks as well as a refrigerated case and organic underwear, vegetarian meat substitutes.",
+  "streetAddress": "508, Sec. 2, Yuanshui Road",
+  "phone": "tel:04-8314745",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.955313,120.584049&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.955313,120.584049&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

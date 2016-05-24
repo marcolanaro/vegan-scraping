@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hakone Kappei",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Japanese, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small sushi restaurant at 250-0407, 神奈川県神奈川県足柄下郡箱根町二ノ平 1143-49, between Chukoku-no-mori station on the Hakone Tozan line (the switchback train) and the Hakone open air museum. Offers several vegan options which are marked with colored dots in the menu, include: cucumber sushi, root vegetable sushi, inari (deep fried tofu pockets), edamame, and cucumber slices with garlic miso paste. The staff appear to understand the meaning of the word vegetarian.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hakone",
+  "phone": "tel:460823278",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 9:00am-8:00pm, Fri-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.245805,139.051070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.245805,139.051070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

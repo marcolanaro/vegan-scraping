@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pondok Makan Laguna - Depot Suroboyo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Take-out, Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu includes bubur veggi, pangsit mie veggi, pangsit kuah veggi, bihun kuah veggi, rawon veggi, and other veg dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl Mayjen Sutoyo 95A, Exs Jl Remaja, Samarinda",
+  "phone": "tel:+62-541-7113596",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-0.437336,117.247496&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-0.437336,117.247496&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

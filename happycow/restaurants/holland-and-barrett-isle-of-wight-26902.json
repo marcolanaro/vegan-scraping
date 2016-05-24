@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Holland and Barrett",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food shop with some special vegan products such as soya cheese, flapjacks, rashers, soya ice cream and more.",
+  "streetAddress": "1 High Street, Ryde",
+  "postalCode": "PO33 2PN",
+  "phone": "tel:01983-565257",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.723317,-1.154149&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.723317,-1.154149&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

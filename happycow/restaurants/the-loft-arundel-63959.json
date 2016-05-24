@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Loft",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Raw, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has many clearly labeled vegetarian choices, of which some might be vegan or can be made vegan, including a portobello burger and superfood salad. Gluten free available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "18 Tarrant St",
+  "postalCode": " BN18 9DJ",
+  "phone": "tel:01903-885588",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:30am-5:30pm, Thu-Fri 9:30am-11:00pm, Sat 9:30am-5:30pm, Sun 10:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/theloftarundel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.853814,-0.556885&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.853814,-0.556885&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tata Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Fusion, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Modern Vietnamese fusion restaurant. Has veg dishes with tofu, seitan, and vegetables, including a tofu curry, bun chay, among others.",
+  "priceRange": "Moderate",
+  "streetAddress": "Seidengasse 23",
+  "postalCode": "1070",
+  "phone": "tel:19568105",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-10:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TATARESTAURANT",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.200254,16.342987&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.200254,16.342987&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

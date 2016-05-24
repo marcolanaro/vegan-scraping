@@ -1,0 +1,15 @@
+{
+  "title": "Krishna's Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International\n                                    ",
+  "description": "Hare Krishna veggie food restaurant. Approximately 30 minutes walk from city center. Current location since 2009.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sørkedalsveien 10B",
+  "postalCode": "0369",
+  "phone": "tel:+47-22606250",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-8:00pm, Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.931020,10.710360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.931020,10.710360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

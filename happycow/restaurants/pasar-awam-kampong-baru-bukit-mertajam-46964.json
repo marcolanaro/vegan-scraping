@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pasar Awam Kampong Baru",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "A morning wet and dry market with many food vendors including several vegetarian food stalls as well as organic stalls, a soya bean drink and dessert stall, and non-veg ones. Map to veg options: (7) Graceland organic stall, (24) Indian veg and non-veg stall, (32) Organic and natural life organic stall, (35) Nature life organic stall, (40) Chinese vegetarian stall, (41) Chinese vegetarian stall, (44) Indian veg bread stall, (59) Soya bean juice n dessert stall, (60) Indian veg and non-veg stall, (61) Indian veg and non-veg stall.",
+  "streetAddress": "Jalan Kampung Baru",
+  "postalCode": "14000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-12:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.348220,100.472790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.348220,100.472790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kushi Garden",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Western\n                                    ",
+  "description": " At 神田錦町3-19-21 橋ビル1F Chiyoda-ku. Offers pasta and other a la carte items. A soup and salad set can be added to each entree. Basically the menu has taken on a more European restaurant feel rather than a deli. Open hours varies sometimes, last order 3pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "3-19-21 Chiyoda-ku",
+  "postalCode": "101-0054",
+  "phone": "tel:03-32949455",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Kushi-Garden/347776421972334",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.691472,139.759651&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.691472,139.759651&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

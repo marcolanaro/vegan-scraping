@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rust n' Wood",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Asian, Filipino, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Slow food cafe near the entry of Lumiang Cave, a 20-minute walk from the town centre. Offers hot and cold drinks, salads and warm dishes. Upon request, Italian-Filipino fusion pasta, kimchi ramen, and japchae can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Patoc, Ambasing",
+  "phone": "tel:9282823552",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.071699,120.900129&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.071699,120.900129&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gung De Lin",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "Chinese name 上海功德林素食餐廳, address 桃園縣蘆竹鄉南崁路一段166號. Unassuming from the outside, this small restaurant serves authentic Taiwanese and Shanghai dishes. Menu includes all kinds of dumplings, soups, stir fries, and appetizers. Inexpensive to moderate prices. Menu in Chinese only. Located next to Taimall, one of the biggest malls in Taiwan. This is their flagship/main location; other locations in Taipei and Taichung (see website).",
+  "priceRange": "Moderate",
+  "streetAddress": "166, Sec. 1, Nankan Road",
+  "phone": "tel:03-352-6562",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 11:00am-2:00pm, 4:30pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.052097,121.287365&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.052097,121.287365&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

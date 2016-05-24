@@ -1,0 +1,17 @@
+{
+  "title": "Ananda",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Juice bar\n                                    ",
+  "description": "Offers smoothies, salads and soups.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Theaterplatz 21, Bad Godesberg",
+  "postalCode": "53177",
+  "phone": "tel:6382335",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-6:00pm, Sat 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.683626,7.153746&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.683626,7.153746&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

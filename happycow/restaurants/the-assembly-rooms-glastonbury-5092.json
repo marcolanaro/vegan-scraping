@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Assembly Rooms",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Beer/Wine, British, English\n                                    ",
+  "description": "Vegetarian falafel bar and broadband internet cafe offering vegetarian and vegan food, chai, organic coffee, and teas. Licensed bar.",
+  "priceRange": "Moderate",
+  "streetAddress": "The High Street",
+  "phone": "tel:+44-0-1458-834677",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.147870,-2.715110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.147870,-2.715110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Su Tien Chu Vegetarian Noodle",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "Small eatery offering a handful of simple veggie dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "195, Baosang Rd",
+  "phone": "tel:089323672",
+  "venueHours": "\n                                                                                                        Mon-Tue 5:00pm-11:00pm, Thu-Sun 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.755401,121.155482&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.755401,121.155482&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

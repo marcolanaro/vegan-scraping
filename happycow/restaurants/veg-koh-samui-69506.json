@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veg",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Buffet\n                                    ",
+  "description": "Small \"jay\" restaurant close to Koh Samui pier. Serves buffet style. Owners don't speak much English, but there is an English menu. Some options are spicy, and staff can point out which is spicy or not. Head straight down the centre one way road, away from the pier, turn right down the 4169 highway and it'll be on your right, across from Kbank.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Surat Thani 84140",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.530802,99.935994&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.530802,99.935994&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

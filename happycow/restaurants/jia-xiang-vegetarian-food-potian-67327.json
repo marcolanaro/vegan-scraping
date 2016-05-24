@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jia Xiang Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "家香擂茶素食 serves rice, noodle, vegetable dishes, and thunder rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3G Jalan Delima 1/1, Pusat Perdagangan",
+  "postalCode": "82000",
+  "phone": "tel:0167429229",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:30am-3:30pm, Wed-Sun 7:30am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.478831,103.389768&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.478831,103.389768&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

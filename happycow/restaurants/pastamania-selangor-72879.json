@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pastamania",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fast casual chain serving pasta, pizza and bento meals. Has veggie options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "L2-125, Kuala Lumpur International Airport",
+  "postalCode": "64000 ",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.754525,101.704312&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.754525,101.704312&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

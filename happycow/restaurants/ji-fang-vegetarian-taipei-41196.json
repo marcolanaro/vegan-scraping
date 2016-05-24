@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ji Fang Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Take-out, Taiwanese\n                                    ",
+  "description": "Chinese name is 吉坊素食. Offers vegetarian versions of popular Taiwanese food, which includes luwei, bawan, beef-noodles, and other classics. Busy at lunchtime due to the cheap and tasty lunchboxes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11, Liaoning Street, Zhongshan District",
+  "phone": "tel:02-27521448",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.047569,121.542162&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.047569,121.542162&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

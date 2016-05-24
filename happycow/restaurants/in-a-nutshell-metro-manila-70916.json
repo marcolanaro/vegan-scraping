@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "In a Nutshell",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Producer of vegan cheese and butter for collection/delivery within Metro Manila. Operates a booth at Legazpi Sunday Market selling those products and also vegan cheese toasties - go early before food sells out.",
+  "streetAddress": "corner of Legazpi St and Ruffino St, Legazpi Village, Makati",
+  "postalCode": "1229",
+  "phone": "tel:9284112091",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.555407,121.015971&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.555407,121.015971&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

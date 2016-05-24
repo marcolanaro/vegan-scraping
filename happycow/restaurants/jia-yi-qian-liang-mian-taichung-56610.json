@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jia Yi Qian Liang Mian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Taiwanese\n                                    ",
+  "description": "嘉義阡涼麵, at 台中市西區公正路189號, is a noodle shop with small menu featuring its house-made egg-free noodles and sesame paste.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "189, Gongzheng Rd, West District",
+  "phone": "tel:04-23025768",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.148986,120.660228&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.148986,120.660228&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

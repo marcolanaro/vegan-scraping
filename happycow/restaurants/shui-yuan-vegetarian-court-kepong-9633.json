@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shui Yuan Vegetarian Court",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out\n                                    ",
+  "description": "Good food. Chinese name: 百仙閣冷氣素食飯店. 素食中餐﹐推薦咖哩什蔬，月光豆腐，越南素魚.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5, Jalan Helang Sewah , Kepong Baru",
+  "postalCode": "52100 KL",
+  "phone": "tel:03-6274-6828",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.150210,101.707700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.150210,101.707700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

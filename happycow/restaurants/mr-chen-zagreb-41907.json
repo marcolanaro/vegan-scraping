@@ -1,0 +1,18 @@
+{
+  "title": "Mr Chen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Japanese, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan choices include miso soup, sushi maki with cucumbers and daikon, tofu with vegetables, mapo tofu, tofu with bamboo shoots and mushrooms, Buddha style vegetables. Air conditioned. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ulica Grada Vukovara 269d",
+  "phone": "tel:+385-1-618-7-618",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.801863,16.003362&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.801863,16.003362&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

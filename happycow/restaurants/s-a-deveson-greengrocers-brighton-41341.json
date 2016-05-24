@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "S A Deveson Greengrocers",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A vegan and vegetarian friendly greengrocers with a range of chilled and frozen vegan and vegetarian products from ready meals and pies to cheese and ice cream and many items in between. Will special order.",
+  "streetAddress": "60 High St, Rottingdean",
+  "postalCode": "BN2 7HF",
+  "phone": "tel:01273303257",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/sadeveson",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.804523,-0.058085&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.804523,-0.058085&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

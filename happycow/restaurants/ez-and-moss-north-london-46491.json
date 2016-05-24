@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "EZ and Moss",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Fast food\n                                    ",
+  "description": "Vegetarian and vegan cafe seating about 20 people. Open kitchen. Pine tables. Food includes burgers, sandwiches, soups, salads, omelets and cakes. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "183 Holloway Rd",
+  "postalCode": "N7 8LX",
+  "phone": "tel:020-7619-9523",
+  "venueHours": "\n                                                                                                        Mon-Tue 8:00am-5:00pm, Wed-Fri 8:00am-6:00pm, Sat-Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/EZ-Moss/356047651205334",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.550199,-0.109252&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.550199,-0.109252&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

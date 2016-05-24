@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Burgstueberl Tischfrisch",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional restaurant with some vegan choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Waidhofener Strasse 1",
+  "postalCode": "3860",
+  "phone": "tel:+43286258993",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.865099,15.122750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.865099,15.122750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

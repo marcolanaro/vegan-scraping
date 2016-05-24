@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Spice Kraft JLT",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Indian, Fast food, Delivery, Take-out\n                                    ",
+  "description": "A vegetarian restaurant with vegan options. Menu reflects the diversity of vegetarian food from India, steeped in the classics, including tandoor, paneer, vegetables, and chaat, in addition to modern day cuisine.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Shop 5/6, Platinum Tower, Cluster - I, Jumeirah Lake Towers",
+  "phone": "tel:+971800775",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/spicekraftjlt",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.069049,55.142891&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.069049,55.142891&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

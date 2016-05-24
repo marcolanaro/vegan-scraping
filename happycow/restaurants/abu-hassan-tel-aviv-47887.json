@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Abu Hassan - Jaffa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Take-out, Middle Eastern, Israeli\n                                    ",
+  "description": "One of two branches run by the same family - the other is at 1 Dolphin. Be prepared to wait in line, especially on Fridays, as people from all over come to have its hummus. The humus is made fresh and served with hot pita and raw onion plus different toppings. You are expected to sit, eat, and leave without lingering. The one dairy item is labaneh, which a sour milk-based spread.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "14 Shivtei Israel St, Jaffa",
+  "phone": "tel:03-6820387",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.049068,34.757404&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.049068,34.757404&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

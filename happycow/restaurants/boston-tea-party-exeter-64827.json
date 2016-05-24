@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Boston Tea Party",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Western, Mediterranean, Beer/Wine, Take-out, Asian, British, European, French, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of a chain of cafes. Has several vegan dishes and ones that can be made vegan. Uses fresh local organic produce and all food is made-in-house to order. Clearly marked vegan choices include an all day breakfast, mushrooms on toast, porridge with soy, a sandwich or wrap and a salad. The mushroom and tomato bap can also be made vegan. Organic soy milk can be used on request for any hot drinks. Has a laid back vibe and an ethical and organic focus. Popular with students and locals.",
+  "priceRange": "Moderate",
+  "streetAddress": "84 Queen St",
+  "postalCode": "EX4 3RP",
+  "phone": "tel:01392-201181",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-6:00pm, Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BTPexeter",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.724605,-3.531768&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.724605,-3.531768&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

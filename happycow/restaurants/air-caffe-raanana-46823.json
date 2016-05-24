@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Air Caffe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, Israeli, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Large cafe with a separate vegan menu, choices include large Israeli breakfast, mushroom burger, sandwiches, salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "13 Zarchin Street, Ra'anana",
+  "phone": "tel:09-8800050",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-12:00am, Fri 8:00am-2:00pm, Sat 7:00pm-12:00am, Sun 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/aircaffe2",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.198045,34.882421&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.198045,34.882421&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

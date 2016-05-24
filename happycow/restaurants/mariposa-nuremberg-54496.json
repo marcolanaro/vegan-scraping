@@ -1,0 +1,15 @@
+{
+  "title": "Mariposa",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, European\n                                    ",
+  "description": "Vegan restaurant opened Dec 2014. Family friendly atmosphere. Has gluten-free food, no alcohol. By metro station White Tower, just behind Jacobsplatz.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mostgasse 6",
+  "postalCode": "90402",
+  "phone": "tel:+49-91127429710",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 6:00pm-10:00pm, Mon-Wed 11:00am-2:00pm, Thu 10:00am-2:00pm, Fri 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.449685,11.067349&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.449685,11.067349&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

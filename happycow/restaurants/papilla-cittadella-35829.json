@@ -1,0 +1,19 @@
+{
+  "title": "Papilla",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Organic, Western, Fusion\n                                    ",
+  "description": "An Italian vegan restaurant serving all organic dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Viale Dello Sport, 15",
+  "postalCode": "35013",
+  "phone": "tel:0499404620",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 12:00pm-2:00pm, Tue-Sun 7:00pm-10:00pm, Sun 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PapillaVeg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.643914,11.781226&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.643914,11.781226&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

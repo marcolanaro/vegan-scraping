@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Earthfare",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Family-owned store selling organic food and drink (vegetarian/vegan), non-pharma remedies and supplements, non-chemical body care products, natural baby and child products, eco-friendly household goods and loads of other stuff. They are constantly updating and adding more ethical and wholesome stocks. Fairtrade and organic cafe/deli takeaway at back of the shop offering coffees, teas, smoothies, juices, sandwiches/snacks, brownies, flapjacks, cheeses and more.",
+  "streetAddress": "45 High Street",
+  "postalCode": "BA6 9DS",
+  "phone": "tel:+44-01458-831004",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-6:30pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Earthfare/243590699003525",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.148179,-2.714353&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.148179,-2.714353&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

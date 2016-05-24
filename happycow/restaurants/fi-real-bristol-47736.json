@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fi Real",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Caribbean\n                                    ",
+  "description": "Color cafe in Old Market since May 2014. Offers Caribbean-inspired veggie food and cakes plus smoothies and Caribbean drinks. Dishes might include curry, rice and beans, lentil stew. 2016 reported food is all vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "57 West St, Old Market",
+  "postalCode": "BS2 0BZ",
+  "phone": "tel:079792371651",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/firealuk",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.457061,-2.578321&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.457061,-2.578321&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

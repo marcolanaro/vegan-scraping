@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hoa Khai Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Beer/Wine, Vietnamese\n                                    ",
+  "description": "Features over 100+ all vegan food dishes on its menu; some of the drinks reported to contain dairy. The restaurant is large and has air conditioning. Group reservations and discounts available. Easy to get to by cab from Ben Thanh Market which will cost you approximately US$2. A 3 minute walk from Pham Ngu Lao.",
+  "priceRange": "Moderate",
+  "streetAddress": "124-126 Nguyen Cu Trinh St, Nguyen Cu Trinh Ward, District 1",
+  "phone": "tel:0836021025",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.763855,106.689498&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.763855,106.689498&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

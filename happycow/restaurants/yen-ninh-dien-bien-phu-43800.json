@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yen Ninh",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "Small vegan Vietnamese restaurant. Uses a variety of faux meats. Owners speaks English.",
+  "priceRange": "Moderate",
+  "streetAddress": "644, Group 1, Tan Thanh Ward",
+  "phone": "tel:168257637",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.397614,103.021415&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.397614,103.021415&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

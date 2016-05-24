@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Marycka Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, Beer/Wine, European\n                                    ",
+  "description": "A cozy 100% vegan/vegetarian cafe situated in the industrial heart of Ostrava in Dolni oblast Vitkovice (DOV). Serves coffee, wine and raw vegan snacks and desserts. Inside and outside seating. Pet-friendly. No smoking.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Vitkovicka 17",
+  "postalCode": "70200",
+  "phone": "tel:+420-737077185",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 1:00pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/MarycKAFE",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.822275,18.278512&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.822275,18.278512&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

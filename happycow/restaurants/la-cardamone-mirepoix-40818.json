@@ -1,0 +1,17 @@
+{
+  "title": "La Cardamone",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Fast food, French\n                                    ",
+  "description": "Cute little cafe with some gluten-free options.",
+  "priceRange": "Moderate",
+  "streetAddress": "38 pl Mar Leclerc",
+  "postalCode": "09500",
+  "phone": "tel:0534011484",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.088282,1.874880&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.088282,1.874880&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

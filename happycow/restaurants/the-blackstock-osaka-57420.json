@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Blackstock",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Beer/Wine, British, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mixed British, French, and Italian pub fare. Offers a few ovo-lacto items like veggie pies and veggie ratatouille. Import beer and wine. Quiet spot, 1 minute from JR Fukushima station.",
+  "priceRange": "Moderate",
+  "streetAddress": "7-1-10 Fukushima, Fukushima Ward",
+  "postalCode": "553-0003",
+  "phone": "tel:06-64580235",
+  "venueHours": "\n                                                                                                        Mon-Sat 5:00pm-1:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/The-Blackstock/336545523216743",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.696715,135.485703&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.696715,135.485703&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

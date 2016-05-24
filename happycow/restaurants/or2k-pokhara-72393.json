@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "OR2K",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Indian, International, Western, Mediterranean, Middle Eastern, Israeli, Nepalese\n                                    ",
+  "description": "Lakeside restaurant on 3 floors, reported to be all vegetarian. Its first outlet is in Kathmandu. Offers breakfast, lunch, and dinner. Falafel, hummus, vegan breakfast, tagine, organic salads, shakshuka, tahini, pakora, and more.",
+  "priceRange": "Expensive",
+  "streetAddress": "Center Point complex, Baidam 6, Lake Side",
+  "phone": "tel:97761467114",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/or2krestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.213477,83.957242&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.213477,83.957242&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

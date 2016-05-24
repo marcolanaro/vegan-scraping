@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Happy Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Delivery, Take-out, Indonesian\n                                    ",
+  "description": "Vegetarian restaurant serving Chinese and Indonesian cuisines. Offers a buffet and take-out. Vegan options. Located opposite the Waterbom Pantai Indah Kapuk. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rukan Eksklusif Blok D, Unit 32, Bukit Golf Mediterania",
+  "postalCode": "14470",
+  "phone": "tel:+62-21-32111167",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.112242,106.747261&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.112242,106.747261&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

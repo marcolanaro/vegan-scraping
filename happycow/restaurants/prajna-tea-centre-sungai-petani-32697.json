@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Prajna Tea Centre",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tea house in charm of Chinese characters which established in 1990. Offers around 10 vegetarian meals. A place to relax and eat. Name in Chinese 清凉茶坊.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "C-40, Jln. Indah Dua, Taman Sejati Indah",
+  "postalCode": "08000",
+  "phone": "tel:604-4311%20711",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.613997,100.486315&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.613997,100.486315&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

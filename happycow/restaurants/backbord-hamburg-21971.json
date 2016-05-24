@@ -1,0 +1,17 @@
+{
+  "title": "Backbord",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant with tv screens show sports games. Offers three menus each day: one with meat, one vegetarian, and one vegan. Vegan items are clearly marked with a green leaf.",
+  "priceRange": "Moderate",
+  "streetAddress": "Clemens-Schultz-Str. 16",
+  "postalCode": "20359",
+  "phone": "tel:040-74203939",
+  "venueHours": "\n                                                                                                        Mon-Thu 4:00pm-1:00am, Fri-Sun 12:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.552068,9.964903&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.552068,9.964903&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Country Life - Armady",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural food and products shop stocking an assortment of healthy organic foods including a small selection of organic fruits and vegetables, cereal, snacks, packaged dried vegetarian foods, and a refrigerated case of tofu, and tempeh. Also has some natural cosmetic products.",
+  "streetAddress": "Československé armády 714/30",
+  "postalCode": "160 00 Praha 6",
+  "phone": "tel:+420-233-931020",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:30am-6:30pm, Fri 8:30am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.100932,14.398294&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.100932,14.398294&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

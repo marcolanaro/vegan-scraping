@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "ORIBIO",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Japanese, Organic, Delivery, Take-out\n                                    ",
+  "description": "Offer menu items such as mock soy burger, Japanese katsu-don, and vegetable sushi. No egg used. Last order is 9:30pm. Owner speaks some English. Summer 2013 moved here from Satsukigaokakita, Suita City.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Cosmo III B-2, 1-37-11, Yamadanishi, Suita-City",
+  "phone": "tel:06-68755878",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:00pm, 7:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.790682,135.525917&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.790682,135.525917&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

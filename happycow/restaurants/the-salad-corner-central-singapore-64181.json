@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Salad Corner - Golden Shoe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Buffet, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Takeaway salad bar chain restaurant in the CBD area offering create-your-own salads. Choose from toppings which include broccoli, beetroot, mushroom, beans, nuts, seeds, and more. Pre-order is available from 8-10:30am.",
+  "priceRange": "Moderate",
+  "streetAddress": "01-10, 50 Market St",
+  "postalCode": "048940",
+  "phone": "tel:82020522",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/The-Salad-Corner-293077334040438",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.283993,103.850257&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.283993,103.850257&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

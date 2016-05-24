@@ -1,0 +1,19 @@
+{
+  "title": "Rawtastic",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Western, Juice bar, Fusion\n                                    ",
+  "description": "Raw vegan restaurant with smoothie & juice bar, opened Sept 2015. Features creative live food cuisine with dishes like kelp bolognese, beetroot falafel, shroom burger, power rolls, and vegan cheese platter. For dessert a colorful array of raw cakes and treats. Beverage list includes house-made kombucha, cold pressed juices, and cold brew coffee. Offers weekend brunch.",
+  "priceRange": "Moderate",
+  "streetAddress": "Danziger Str. 16",
+  "postalCode": "10435",
+  "phone": "tel:01724391287",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-10:00pm, Fri 10:00am-11:00pm, Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/rawtasticberlin",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.540283,13.415459&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.540283,13.415459&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Milk Land",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Organic\n                                    ",
+  "description": "Offers a daily lunch set with miso soup and white or brown rice included for around JPY900. Dishes are mostly vegan but may contain eggs at times. Located on the ground floor inside a small building complex, a short walk from Shibuya/Yoyogi train station. Restaurant name in Japanese ミルクランド, address 東京都渋谷区代々木2-23-1 ニューステートメナー 1F.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-23-1 Yoyogi, New State Manor Building 1F, Shibuya",
+  "phone": "tel:03-3377-1558",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.685684,139.698211&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.685684,139.698211&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

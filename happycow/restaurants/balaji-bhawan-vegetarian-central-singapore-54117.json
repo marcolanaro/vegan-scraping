@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Balaji Bhawan Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, International, Western, Delivery, Take-out, Indo-Chinese\n                                    ",
+  "description": "This air-conditioned restaurant in Little India serves a wide variety of South and North India, Chinese, Continental dishes. Some of dishes are hamburger, pizza, tandoori, desserts etc. Kitchen stops 30 minutes before closing.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "103 Syed Alwi Road",
+  "postalCode": "207679",
+  "phone": "tel:63417797",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-12:30am, Sat-Sun 10:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.309788,103.855259&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.309788,103.855259&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

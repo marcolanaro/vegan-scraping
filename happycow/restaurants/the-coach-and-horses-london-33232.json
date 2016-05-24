@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Norman's Coach and Horses",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine, British, English\n                                    ",
+  "description": "London's first vegetarian pub. Normal pub, with an upstairs tea room serving vegetarian food. Free Wi-Fi. Note that English beer is sometimes filtered using isinglass (from fish bladder), so check barnivore.com to see which alcoholic drinks are veg. Otherwise, the food is vegetarian and vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "29 Greek St, Westminster",
+  "postalCode": "W1 D5",
+  "phone": "tel:02074375920",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/NormansCoachAndHorsesSoho",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.513240,-0.130136&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.513240,-0.130136&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

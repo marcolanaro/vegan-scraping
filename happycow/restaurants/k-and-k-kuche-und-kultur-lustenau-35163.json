@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "K and K Kuche und Kultur",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurant serving a lot of vegetarian dishes and some vegan ones.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rhein Strasse 25",
+  "postalCode": "6890",
+  "phone": "tel:+43557762288",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-1:30pm, Wed-Fri 6:00pm-9:30pm, Sun 11:30am-1:30pm, 6:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.437771,9.646908&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.437771,9.646908&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

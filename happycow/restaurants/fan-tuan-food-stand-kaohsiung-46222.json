@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fan Tuan - Food Stand",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Take-out, Taiwanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Well-known food stand at the intersection, besides a small department store. Makes breakfast rice balls (fan tuan) that cost around NT$35 each. Choose from over 20 kinds of fillings with the upper half of the shelf being veg suitable.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "813, Fumin Road, Zuoying District",
+  "postalCode": "813",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-11:30am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.665303,120.306313&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.665303,120.306313&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

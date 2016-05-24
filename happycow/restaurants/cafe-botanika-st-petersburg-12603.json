@@ -1,0 +1,14 @@
+{
+  "title": "Cafe Botanika",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Beer/Wine, Middle Eastern\n                                    ",
+  "description": "One vegetarian restaurants in St. Petersburg. Menu is in Russian and English. Offers tabouleh, hummus with red pepper, arugala salad with balsalmic dressing, tomato soup, and more. Has Wi-Fi and a children's play area.",
+  "priceRange": "Moderate",
+  "streetAddress": "7 Ulitsa Pestelya",
+  "phone": "tel:2727091",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.942700,30.345360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.942700,30.345360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

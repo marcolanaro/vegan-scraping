@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shou-Yu Vegetarian Buffet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "With additional locations in downtown Pingtung, Taipei, Taichung, and Taitung this buffet chain uses no alcohol or eggs in their cooking. In addition to regular buffet items, pot-sticker dumplings, oven-baked onion cakes, salads and refreshments are available. Offers 35-50 dishes (few raw, mostly cooked) including sprouts, greens, seaweed, roots, gourds, funghi, noodles, fried rice, and soups. Priced by weight (except sushi and dumplings, by piece). Address in Chinese: 高雄市新興區忠孝一路274號.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "274 Jhongsiao-1st Rd",
+  "postalCode": "800",
+  "phone": "tel:07-251-8286",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.630385,120.306129&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.630385,120.306129&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

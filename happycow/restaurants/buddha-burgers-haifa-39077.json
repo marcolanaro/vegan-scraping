@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Buddha Burgers",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Fast food, Take-out, Israeli\n                                    ",
+  "description": "Part of the Buddha Burgers vegan restaurant franchise, this one opened Jun 2013. Closes during winter months til after March.",
+  "priceRange": "Moderate",
+  "streetAddress": "Derekh HaYam 6",
+  "phone": "tel:04-6343435",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.804178,34.986572&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.804178,34.986572&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

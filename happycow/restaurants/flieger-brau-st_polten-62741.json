@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Flieger-Brau",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Beer/Wine, German, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pub and restaurant with bar seating. Has a veggie burger, and salad can be ordered without the dressing. Austrian food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ferstlergasse 9",
+  "postalCode": "3100",
+  "phone": "tel:+43-2742252852",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 4:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.205446,15.633708&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.205446,15.633708&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

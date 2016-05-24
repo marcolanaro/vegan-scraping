@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nishta",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Salad bar, Juice bar, Beer/Wine, Take-out, Croatian\n                                    ",
+  "description": "A small place that offers vegetarian and vegan cuisine. Has a salad bar.",
+  "priceRange": "Moderate",
+  "streetAddress": "Prijeko bb",
+  "postalCode": "2000",
+  "phone": "tel:020322088",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.641848,18.108615&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.641848,18.108615&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

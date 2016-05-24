@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Vegetarian Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Catering, Filipino\n                                    ",
+  "description": "Serves a variety of famous Filipino vegetarian dishes with vegan options. Average dish costs Php 190($4-$6) and up. Located in front of St Mary's College.",
+  "priceRange": "Expensive",
+  "streetAddress": "62B Mother Ignacia Avenue, Quezon City",
+  "phone": "tel:544-7733/,%20+639158300511",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/TheVegetarianKitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.632487,121.022990&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.632487,121.022990&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

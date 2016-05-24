@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sufood - Banqiao",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western\n                                    ",
+  "description": "舒果新米蘭蔬食, at 新北市板橋區遠東路1號 in Banqiao, is a high-end vegetarian cuisine chain with locations in Taiwan. Modern, upscale decor. Features a set menu. You choose from one of few main entrees, plus you get appetizer, bread, soup, salad, dessert, and drink. You can only order it as part of a set menu. Some dishes use eggs and dairy; server will point out which dishes are suitable for you.",
+  "priceRange": "Moderate",
+  "streetAddress": "1, Yuandong Rd, Banqiao District",
+  "phone": "tel:02-29598590",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/sufood.co",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.999439,121.457376&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.999439,121.457376&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

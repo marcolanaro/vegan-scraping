@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "D'rink",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, International, Japanese, Western, Take-out, Bakery, Catering\n                                    ",
+  "description": "咛咛自在坊 vegetarian turned all-vegan in Feb 2016. Offers Western, Chinese and Japanese menu sets. Also makes cakes and cookies.",
+  "priceRange": "Moderate",
+  "streetAddress": "20, Jalan Impian Emas 7, Taman Impian Emas",
+  "postalCode": "81300",
+  "phone": "tel:07-5620222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/drinkenterprise",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.540623,103.685901&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.540623,103.685901&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

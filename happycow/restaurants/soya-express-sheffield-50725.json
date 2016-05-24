@@ -1,0 +1,15 @@
+{
+  "title": "Soya Express",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Taiwanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a separate veg menu with many tofu dishes plus vegetables and rice, Taiwanese style deep-fried dough, house-made soya milk. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "44 Union Street",
+  "postalCode": "S1 2JP",
+  "phone": "tel:01142701871",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.378143,-1.470967&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.378143,-1.470967&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

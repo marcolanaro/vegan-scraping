@@ -1,0 +1,19 @@
+{
+  "title": "Bistro Piknik",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, International, Italian, Organic, Fast food, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "Vegetarian restaurant with many options for vegans such as soups, salads, pancakes, kebab, risotto, pasta, sandwiches, sweets, smoothies, seitan wiener schnitzel, piadina and more. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ljubljanska 91",
+  "postalCode": "1230",
+  "phone": "tel:+386-1-620-47-16",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/PiknikDomzale",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.141632,14.595127&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.141632,14.595127&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

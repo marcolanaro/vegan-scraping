@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Village",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves fish and vegetarian food. All vegan for lunch. Japanese language menu offers vegetarian and vegan dishes, but not the English menu - so ask. Directions: Take bus to Kamihatecho stop in front of the art college, which is at the very northeast edge of the area covered by the all-day bus cards. From there walk north, Village is on top of a ramen place called Tenkaippin, which has moving orange lights around its sign. Address in Japanese: 京都府京都市左京区一乗寺築田町95.",
+  "priceRange": "Moderate",
+  "streetAddress": "95 Tsukita-cho, Sakyo-ku, Maizon Shirokawa 202",
+  "phone": "tel:075-7123372",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-3:00pm, 6:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.039420,135.791510&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.039420,135.791510&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

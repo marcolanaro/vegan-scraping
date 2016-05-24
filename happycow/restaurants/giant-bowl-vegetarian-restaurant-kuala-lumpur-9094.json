@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Giant Bowl Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Chinese, Fast food\n                                    ",
+  "description": "大碗公快餐店 serves yam, curry, and congee. With capacity of 55 pax. Note: Please check if the map is correct or not, and let happycow know!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "119A, Ground Floor Batu 3 1/2, Jalan Klang Lama",
+  "postalCode": "58000",
+  "phone": "tel:79823869",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.107829,101.678241&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.107829,101.678241&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

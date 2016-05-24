@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kintsubo Shokudo",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Buffet, Taiwanese\n                                    ",
+  "description": "Name in Japanese is 金壷食堂. All you can eat buffet at around ¥600 per person. It is hard to find but it is near Pottery Street. Try the breakfast. Most dishes are vegan - better to ask the chef to confirm on the individual dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Okinawa, Tsuboya 1-7-9",
+  "phone": "tel:81-988678607",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.213722,127.689896&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.213722,127.689896&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

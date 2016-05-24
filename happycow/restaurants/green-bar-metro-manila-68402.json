@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Bar - Makati",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Delivery, Filipino, Take-out only\n                                    ",
+  "description": "Plant-based company delivering throughout Makati, or pick-up by arrangement. Food is deli style american like panini, seitan, burritos, quesadilla, cupcakes. Take away location. No dine-in.",
+  "streetAddress": "252 Gil Puyat Ave, Mezz 104",
+  "phone": "tel:8857537",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/greenbarcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.560080,121.012967&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.560080,121.012967&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

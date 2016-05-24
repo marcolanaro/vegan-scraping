@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tiem Chay Dinh y ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Buffet, Beer/Wine, Take-out, Asian, Vietnamese\n                                    ",
+  "description": "A local vegetarian restaurant with vegan options. Serves Asian and Vietnamese food. Located a few steps from backpacker area.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "171b Cong Quynh, Q1",
+  "phone": "tel:0838367715",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.766104,106.688841&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.766104,106.688841&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

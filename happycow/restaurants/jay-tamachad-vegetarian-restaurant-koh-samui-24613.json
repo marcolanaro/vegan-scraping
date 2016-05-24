@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jay Tamachad Vegetarian Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai\n                                    ",
+  "description": "Small Thai style veggie place on the road north out of Chaweng. Look for it on the left (west) side of the street when leaving Chaweng area before hitting the main road. Offer pre-made dishes (from 7am), and also made to order dishes like phad thai, rad nah, Chinese style dumplings, mock meat dishes, and steamed buns.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hat Chaweng 4",
+  "phone": "tel:089-6451951",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.536020,100.049492&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.536020,100.049492&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

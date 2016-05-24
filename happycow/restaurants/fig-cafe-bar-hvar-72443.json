@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fig Cafe Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, International, Mexican, Fusion, Californian, Melbournian , Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves a small array of unique, fresh, local food. Offers a couple of vegan choices; please inquire as they are not labeled.",
+  "priceRange": "Moderate",
+  "streetAddress": "Trg Stjepana",
+  "phone": "tel:+385-992679890",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/figcafebar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.172400,16.442663&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.172400,16.442663&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

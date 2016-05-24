@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Krua Jay",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Fast food, Take-out\n                                    ",
+  "description": "Small vegan restaurant offering pre-made dishes prepared twice daily. Use mock-meats. Aug 2015 reported it's open again.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "48 Soi Sathorn 11, Sathorn",
+  "phone": "tel:02-6723424",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.718346,100.529237&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.718346,100.529237&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

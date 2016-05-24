@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Morning Market",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. At the local morning food market a food stall offers Yunnan noodles with bean curd gravy that's vegan suitable. There is also a stall selling hot soy milk and fried dough sticks. Dairy creamer is used in coffee unless requested not to.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "off main street behind Shinsane guesthouse",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-9:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.166389,99.617222&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.166389,99.617222&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

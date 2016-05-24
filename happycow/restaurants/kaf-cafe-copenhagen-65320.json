@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kaf Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Beer/Wine, European\n                                    ",
+  "description": "A casual, vegetarian food and coffee cafe that opened in spring 2015. Uses some organic ingredients. Danish VISA card okay but not others.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Birkegade 21",
+  "postalCode": "2200 ",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-5:30pm, Sat 10:00am-5:30pm, Sun 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Kaf-1427014244260670",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.690757,12.557929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.690757,12.557929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

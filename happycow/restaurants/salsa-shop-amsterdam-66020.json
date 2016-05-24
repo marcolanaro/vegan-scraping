@@ -1,0 +1,18 @@
+{
+  "title": "Salsa Shop",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Take-out, Mexican, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Quick service restaurant with an open kitchen offering burritos, salads, and tacos. Has a grilled veggie burrito where the vegetables are cooked on a separate grill from the meat. Possible to omit cheese and sour cream.",
+  "priceRange": "Moderate",
+  "streetAddress": "Amstelstraat 32",
+  "postalCode": "1017DA",
+  "phone": "tel:+31-0202051040",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-11:00pm, Fri-Sat 11:00am-12:00am, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/salsashopofficial",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.366101,4.899788&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.366101,4.899788&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

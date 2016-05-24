@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Boston Tea Party",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Coffee/Tea, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves teas, fair trade coffees, sandwiches; soymilk available for coffee drinks. Non-smoking.",
+  "priceRange": "Moderate",
+  "streetAddress": "75 Park Street, Bristol, UK",
+  "postalCode": "BS1 5PF",
+  "phone": "tel:01179-298601",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.455140,-2.603670&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.455140,-2.603670&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

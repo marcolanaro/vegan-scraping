@@ -1,0 +1,13 @@
+{
+  "title": "EkoPlaza",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of organic supermarket chain. This one is in the middle of the City Plaza shopping center in Nieuwegein.",
+  "streetAddress": "Markt 36",
+  "postalCode": "3431LK",
+  "phone": "tel:030-6308594",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-6:00pm, Tue-Thu 9:30am-6:00pm, Fri 9:30am-7:00pm, Sat 9:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.027795,5.081638&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.027795,5.081638&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

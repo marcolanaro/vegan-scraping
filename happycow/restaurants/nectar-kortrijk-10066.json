@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nectar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Organic\n                                    ",
+  "description": "Vegetarian restaurant since 1982.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sint Jansstraat 17",
+  "phone": "tel:56227969",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.827210,3.270850&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.827210,3.270850&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

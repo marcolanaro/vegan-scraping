@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hummus Elijah",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        International, Mediterranean, Delivery, Take-out, Catering, Middle Eastern\n                                    ",
+  "description": "A vegetarian restaurant specializing in hummus and falafel. Also serves other dishes. Vegans please inquire. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Prince Tower Unit 306, 14 Totdesillas Street, Makati",
+  "phone": "tel:0905-3134602",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/humuselijah",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.560596,121.020936&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.560596,121.020936&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

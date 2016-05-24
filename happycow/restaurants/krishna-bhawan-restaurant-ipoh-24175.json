@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Krishna Bhawan Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Delivery, Take-out\n                                    ",
+  "description": "All-day dosai, many different variations, plus fixed price meals at lunch, and Sunday brunch. Many kinds of snacks and desserts available from their non self-service buffet, including mock chicken.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8 Jalan Lahat",
+  "postalCode": "30200",
+  "phone": "tel:012-5108880",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.593255,101.075602&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.593255,101.075602&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

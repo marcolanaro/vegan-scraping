@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mr Bean - Causeway Point",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Part of soy beverages and snacks chain. Offers a variety of flavored soy milk, tapioca pearl milk, soy ice cream, as well has mini pancakes with filling. Not sure if all vegan - please ask. Dec 2012 reported to have added choice of tuna filling.",
+  "streetAddress": "1 Woodlands Square, 01-K06",
+  "phone": "tel:65132877",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.435855,103.786222&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.435855,103.786222&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

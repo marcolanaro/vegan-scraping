@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Enhui Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Buffet, Take-out\n                                    ",
+  "description": "Serves a wide variety of food: alarka, mee rojak, nasi lemak, prawn mee. No air-conditioning. Confirm which options are vegan before ordering.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "48, Jalan 6/21D, Medan Idaman Business Centre, Gombak",
+  "postalCode": "53000",
+  "phone": "tel:0328585816",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.150210,101.707700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.150210,101.707700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

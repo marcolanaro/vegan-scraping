@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Clear Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This restaurant is  decorated throughout in a modernist style. Offers juices, desserts, smoothies, salads, and mains. Vegetarian, vegan, and raw food clearly indicated. Directions: Located opposite the Bridges restaurant. The price range from US$12-20 for a 3-course meal, though one could also each a filling main dish for $5; moderate for foreigners but expensive by local standard. No alcohol. Previously located at Jalan Hanoman, Sep 2015.",
+  "priceRange": "Expensive",
+  "streetAddress": "Jalan Raya Campuhan, Ubud",
+  "postalCode": "80571",
+  "phone": "tel:03618894437",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ClearCafeUbud",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.528113,115.248275&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.528113,115.248275&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

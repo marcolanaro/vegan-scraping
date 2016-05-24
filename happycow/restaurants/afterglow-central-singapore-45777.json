@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Afterglow",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, Western, Juice bar, Take-out\n                                    ",
+  "description": "Deli/cafe and juice bar serving vegan food with the exception of honey in some items and/or as an add-on. Plenty of raw options including crackers, nut cheeses, salads, pasta and cakes. Also has cream soups and quinoa and rice dishes and a variety of cold-pressed juices. Deals only with artisan producers. Last food order 9:15pm.",
+  "priceRange": "Expensive",
+  "streetAddress": "24 Keong Siak Rod",
+  "postalCode": "089131",
+  "phone": "tel:62248921",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-11:00pm, Tue 5:30pm-11:00pm, Wed-Sat 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/afterglowsg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.280102,103.841670&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.280102,103.841670&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

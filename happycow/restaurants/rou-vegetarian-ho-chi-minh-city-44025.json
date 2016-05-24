@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "ROU Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Vietnamese\n                                    ",
+  "description": "Cozy place with nice decoration, opened in Apr 2013. Offers a range of Chinese and Vietnamese dishes along with soups and beverages. Hosts a buffet on the 1st and 15th of lunar calendar. Prices moderate to slightly more.",
+  "priceRange": "Moderate",
+  "streetAddress": "37B Co Bac Street, Dist.1",
+  "phone": "tel:0862761613",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/ROU-Vegetarian-Restaurant/385320698247074",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.765387,106.695571&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.765387,106.695571&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ren Ci Global Village Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "Name 仁慈地球村随缘素食馆. Buddhist organization affiliate vegetarian restaurant with other brances. Volunteer-run. Casual, self service. Pay on donation basis. Opens Friday if on 1st and 15th of Chinese lunar calendar.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12, Pekan Baru Changlun, Jalan Kodiang",
+  "postalCode": "06100",
+  "phone": "tel:017-5975019",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:30am-2:30pm, Sat-Sun 7:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/樟仑仁慈地球村随缘素食馆/218561321553473",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.422850,100.280382&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.422850,100.280382&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

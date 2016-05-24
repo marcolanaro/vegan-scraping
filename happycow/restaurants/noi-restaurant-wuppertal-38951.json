@@ -1,0 +1,17 @@
+{
+  "title": "NOI Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Thai, Beer/Wine, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Apr 2015 shut at Kipdorf 33 and move this this larger space. Sushi restaurant also offers other Asian dishes. Has vegetarian section on the menu with some vegan suitable dishes (but not marked as vegan so you need to ask the staff). No ready-made sushi, as the kitchen makes when you order. Lunch deal includes a miso soup, a main dish, and tea (12-5pm). Note that miso soup uses fish stock, and the kimchi is not vegetarian.",
+  "priceRange": "Moderate",
+  "streetAddress": "Neumarkt Str 33",
+  "phone": "tel:74752663",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.257730,7.143360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.257730,7.143360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "TOPS Food Court - Seacon Square",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Fast food, Take-out\n                                    ",
+  "description": "Vegan food stall in the TOPS food court at Seacon Square. Look for the yellow and red flags, or ask someone to point to \"jay\" (veg) food. Food changes daily and is offered cantine style with rice. Rice with one dish cost starting at 30 baht. Also offers food to order like pad grapao (basil fried vegetables) and rad na (sticky noodle and vegetable soup) for around 40 baht each. No garlic or onion used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Seacon Square, Srinakarin Road",
+  "postalCode": "10250",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.695767,100.648232&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.695767,100.648232&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,19 @@
+{
+  "title": "MoschMosch",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Japanese noodle bar chain restaurant. The vegetarian and vegan choices are marked on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mailandsgasse 3",
+  "postalCode": "55116",
+  "phone": "tel:+49-6131-4807082",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-11:00pm, Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.000000,8.274390&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.000000,8.274390&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

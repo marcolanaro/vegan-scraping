@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zaika Delhi Ka",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Indian, Delivery, Take-out\n                                    ",
+  "description": "Serves North Indian cuisine with vegan options. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "MBD, Near Old Indian Embassy Block, Ruwi",
+  "postalCode": "112",
+  "phone": "tel:24817746/,%2093777823,%2093777824",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-3:30pm, 5:30pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ZaikaDelhiKa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.600278,58.543333&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.600278,58.543333&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

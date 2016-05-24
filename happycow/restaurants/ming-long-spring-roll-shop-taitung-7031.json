@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ming Long Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "Veggie restaurant at 台東市正氣路489號, opposite Taitung Technical High School and near Chuanguang Rd junction. Specializes in making spring rolls with varied fillings; has soups. Closes for an afternoon break - please update HappyCow with correct hours.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "489, Zhengqi Rd",
+  "phone": "tel:089-332520",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 8:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.757228,121.144056&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.757228,121.144056&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

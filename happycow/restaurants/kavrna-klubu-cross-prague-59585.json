@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kavarna Klubu Cross",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An alternative cafe located above an underground club. Menu offers a few vegan options (such as hummus, pizza, rice noodles with tofu) as well as other vegetarian options. Kitchen can modify dishes to suit. Staff speak English and know what veg/vegan means. Atmosphere is unique within both the club and the café, the owner designed it all himself with a rebar and car-part beer garden, which carries into the club itself, and has multiple performance stages each with their own design.",
+  "priceRange": "Moderate",
+  "streetAddress": "Plynarni 1096/23, Praha 7",
+  "phone": "tel:+420-736535010",
+  "venueHours": "\n                                                                                                        Mon-Sun 2:00pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/crossclubprague",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.108183,14.443186&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.108183,14.443186&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

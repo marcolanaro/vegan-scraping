@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bookworm - Rabin Square",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Juice bar, Beer/Wine, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe and bookstore where you can sit with a laptop or borrow a book from the cafe while you are there. Vegan items marked on the menu in every category, including breakfast, salads, sandwiches, mains, and desserts. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "9 Rabin Square",
+  "phone": "tel:03-5298499",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:30am-10:00pm, Fri 8:30am-5:00pm, Sun 8:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.080424,34.779838&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.080424,34.779838&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

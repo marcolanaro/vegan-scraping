@@ -1,0 +1,18 @@
+{
+  "title": "Parsifal",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Italian, Western, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Brewery with pub. Menu has a sandwich with seitan plus veggies and house-made bread. Other sandwiches can also be made vegan or vegetarian by replacing meat with seitan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Chivasso, 43",
+  "postalCode": "10090",
+  "phone": "tel:+39-119601814",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 7:30pm-1:00am, Fri 7:30pm-2:00am, Sat 7:30pm-3:00am, Sun 7:30pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.158526,7.852423&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.158526,7.852423&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

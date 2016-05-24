@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veggie Express Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Take-out, Fusion, Malaysian\n                                    ",
+  "description": "Located on level F1, Asia Avenue of Sunway Pyramid, 味滋素 serves pasta, steaks, rice, noodles, and burgers.",
+  "priceRange": "Moderate",
+  "streetAddress": "3, Jalan PJS 11/15, Bandar Sunway, Sunway Pyramid",
+  "postalCode": "47500",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/champsveggie",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.072658,101.607444&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.072658,101.607444&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,19 @@
+{
+  "title": "Crepapelle",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Salad bar, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "A colorful, informal vegan restaurant with crepes as the specialty. Other menu items are salads, croquettes, smoothies, juices. Has a full bar.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Giampaolo Orsini 55/A",
+  "postalCode": "50126",
+  "phone": "tel:3385401580",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-3:00pm, Tue-Fri 6:00pm-11:00pm, Sat 6:00pm-1:00am, Sun 6:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/creperiacrepapelle",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.763166,11.276682&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.763166,11.276682&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

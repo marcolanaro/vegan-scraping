@@ -1,0 +1,17 @@
+{
+  "title": "The Waiting Room",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Beer/Wine, British, English\n                                    ",
+  "description": "Licensed vegetarian restaurant and coffee shop. Features a daily changing evening menu. Music and entertainment on Sunday nights. Bakes its own bread. Dinner reservation is advised.",
+  "priceRange": "Moderate",
+  "streetAddress": "9 Station Road, Eaglescliffe",
+  "postalCode": "TS16 0AB",
+  "phone": "tel:01642-780465",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-2:30pm, 6:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.529572,-1.347919&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.529572,-1.347919&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

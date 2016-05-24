@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Arcotel Nike",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hotel restaurant offering a 3-course vegan menu for a fixed price. Also offers a few vegetarian dishes on the a la carte menu. Nice setting, near the Danube.",
+  "priceRange": "Expensive",
+  "streetAddress": "Untere Donaulände 9",
+  "postalCode": "4020",
+  "phone": "tel:+43-14855000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-2:00pm, Sat 6:00pm-11:00pm, Sun 11:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ARCOTELNike",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.311402,14.293790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.311402,14.293790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

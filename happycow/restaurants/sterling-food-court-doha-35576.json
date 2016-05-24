@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sterling Food Court",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of a conglomerate. Has daal that's vegan, vegetable samosas, and plain rice. If you are on a long layover, show your boarding pass and you should get a free meal. Free Wi-Fi everywhere and 4 computers to use for free standing up by Costa Coffee which has vegan flapjacks and apples.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Doha International Airport, DOH",
+  "phone": "tel:+974-4444-6868",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.261111,51.565000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.261111,51.565000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

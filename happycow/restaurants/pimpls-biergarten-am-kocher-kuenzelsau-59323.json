@@ -1,0 +1,19 @@
+{
+  "title": "Pimpl's Biergarten am Kocher",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Catering, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. German outdoor biergarten operating only during good weather. Has a few veggie meals and salad options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Badplatz 1",
+  "postalCode": "74653",
+  "phone": "tel:01703118099",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.284149,9.690930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.284149,9.690930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

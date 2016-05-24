@@ -1,0 +1,16 @@
+{
+  "title": "Bio-Konditorei Eichel",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Organic bakery also offering a large selection of vegan cakes and biscuits.",
+  "streetAddress": "Osterstrasse 15",
+  "postalCode": "20259",
+  "phone": "tel:040-43193151",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.573990,9.960490&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.573990,9.960490&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

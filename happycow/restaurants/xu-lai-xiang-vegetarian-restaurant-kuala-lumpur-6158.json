@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xu Lai Xiang Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Malaysian\n                                    ",
+  "description": "素来香. Offers a variety of local dishes. Eat in or take-out. On 1st and 15th lunar calendar open from 7am-10pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "28G, Jl. Pandan 2/2, Pandan Jaya",
+  "postalCode": "55100",
+  "phone": "tel:603-92828300",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.134828,101.740248&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.134828,101.740248&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

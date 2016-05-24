@@ -1,0 +1,19 @@
+{
+  "title": "Mama Tierra",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Take-out, Greek\n                                    ",
+  "description": "Vegetarian restaurant providing healthy cuisine, since May 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Akadimias 84",
+  "postalCode": "10678",
+  "phone": "tel:%202114114420",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:30pm-9:00pm, Sat 1:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/mamatierra.healthycuisine",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.984381,23.732187&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.984381,23.732187&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

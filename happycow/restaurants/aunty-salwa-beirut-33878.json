@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aunty Salwa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Middle Eastern, Lebanese\n                                    ",
+  "description": "Small vegetarian restaurant. Serves traditional Lebanese cuisine with okra, hummus, fried cauliflower, green lentils with rice and onion, fried potatoes, vegan kibbeh, and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Omar Bin Abdul Aziz St",
+  "phone": "tel:+961-1736727",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-5:00pm, Sat 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/AuntySalwa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.896533,35.483914&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.896533,35.483914&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

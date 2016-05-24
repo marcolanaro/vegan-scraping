@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "VeganBurg - Jalan Eunos",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Fast food, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "VeganBurg's flagship location. Features a menu of all-vegan burgers along with fries, sides, soup and beverages. Burger patties are made from non-gmo soy bean and/or mushroom and buns are fiber-fuelled with seeds and walnuts. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "44 Jalan Eunos",
+  "postalCode": "419502",
+  "phone": "tel:68446868",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/veganburg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.321040,103.905580&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.321040,103.905580&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

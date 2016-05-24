@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Sprout Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Bakery\n                                    ",
+  "description": "Vegetarian cafe in Klang town that serves healthy desserts and savories by a local patisserie who was trained in Japan. Offers afternoon tea. Operating since Sept 2013.",
+  "priceRange": "Moderate",
+  "streetAddress": "18-0, Lorong Batu Nilam 3B, Bandar Bukit Tinggi 1",
+  "postalCode": "41200",
+  "phone": "tel:+603-33185120",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-7:00pm, Wed-Thu 11:00am-7:00pm, Fri-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/greensproutcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.008363,101.434747&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.008363,101.434747&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

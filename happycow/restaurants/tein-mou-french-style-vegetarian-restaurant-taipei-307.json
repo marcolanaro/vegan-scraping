@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sun Shui French Style Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, French, Gourmet\n                                    ",
+  "description": "A very fancy all vegetarian French restaurant. Lunch starts around NT500+ and dinner for around NT800+ and up. Chinese name\r\n岍水法式素食, address 台北市士林區中山北路七段161號.",
+  "priceRange": "Expensive",
+  "streetAddress": "161, Jhongsan North Road, Shilin District",
+  "phone": "tel:02-28760085",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.123660,121.532190&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.123660,121.532190&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

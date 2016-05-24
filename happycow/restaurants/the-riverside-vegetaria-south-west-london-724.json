@@ -1,0 +1,17 @@
+{
+  "title": "The Riverside Vegetaria",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine, Catering\n                                    ",
+  "description": "Restaurant overlooks the Thames river, with terrace seating available. Menu offers many choices, including daily specials.  Reservation may be required.",
+  "priceRange": "Moderate",
+  "streetAddress": "64 High St, Kingston-upon-Thames",
+  "postalCode": "KT1 1HN",
+  "phone": "tel:020-85467992",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.406180,-0.308130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.406180,-0.308130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Den at Twenty Three",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, English\n                                    ",
+  "description": "Open March 2015 a vegan diner offering breakfast and lunch, waffles, ice cream, cake, tea and coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "23 Crouch St",
+  "postalCode": "CO33EN",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-4:00pm, Tue-Fri 10:30am-4:00pm, Sat 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/thedenattwentythree",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.887686,0.894803&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.887686,0.894803&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

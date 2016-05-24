@@ -1,0 +1,16 @@
+{
+  "title": "Il Glaciale",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Ice cream parlour offering organic and non-organic ice cream, vegan sorbets with or without soya milk.",
+  "streetAddress": "Kollwitzstr. 59, Berlin Prenzlauer Berg",
+  "postalCode": "10435",
+  "phone": "tel:44055508",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.535420,13.416580&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.535420,13.416580&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

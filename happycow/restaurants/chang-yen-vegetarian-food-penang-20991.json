@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chang Yen Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Take-out, Malaysian\n                                    ",
+  "description": "Buffet style, has nasi lemak breakfast. Also sells pre-epackaged food. Near corner of Lebuh Raya Codrington.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "226 Jalan Burma, Georgetown",
+  "postalCode": "10350",
+  "phone": "tel:604-2283188",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-8:30pm, Sun 7:30am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.429515,100.313639&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.429515,100.313639&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

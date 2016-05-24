@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Maya Mall - Veg Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai, Take-out\n                                    ",
+  "description": "Veg stall inside the food court, near the elevators and in front of the entrance from the car park, and has two signs with \"vegetarian food.\" Dishes are vegan, but eggs are sold separately. A number of dishes available to choose from as well as fried sides and snacks. Please send exact map coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ground Floor Food Court, Maya Mall, Thanon Chareon Mueang",
+  "phone": "tel:052081555",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.802832,98.967270&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.802832,98.967270&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

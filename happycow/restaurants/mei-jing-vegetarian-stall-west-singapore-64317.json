@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mei Jing Vegetarian Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "Economical rice and noodles plus made-to-order dishes such as hor fun and kueh tiao. Try the vegetable curry.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "01-76, Beo Cresent Market & Food Centre, 38A Beo Cresent ",
+  "postalCode": "169982",
+  "phone": "tel:94307692",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.288766,103.827528&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.288766,103.827528&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

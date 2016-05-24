@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yupin Vegan - Food Stall",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Thai, Fast food, Salad bar, Take-out, Asian, Vietnamese\n                                    ",
+  "description": "Market stall with stool seating. Serves vegan food, order what you want or request \"chef\" inspiration. NOTE: please send exact / correct map coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ruamchok market, 1001 Fa Ham",
+  "postalCode": "50000",
+  "phone": "tel:0933632510",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.785716,99.002269&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.785716,99.002269&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

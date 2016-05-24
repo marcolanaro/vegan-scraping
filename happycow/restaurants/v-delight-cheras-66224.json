@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "V Delight",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Western, Fast food, Take-out\n                                    ",
+  "description": "Veggie burger and fries restaurant. Note that map points are not exact - call for directions.",
+  "priceRange": "Moderate",
+  "streetAddress": "A-5-UG, Jalan C180/1, Dataran C180, Cheras Baru 11, Selangor",
+  "postalCode": "43200",
+  "phone": "tel:+603-90829328",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/vdelightrestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.036338,101.766457&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.036338,101.766457&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

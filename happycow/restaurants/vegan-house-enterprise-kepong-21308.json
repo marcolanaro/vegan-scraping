@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan House Enterprise",
+  "tags": [
+    "Health Food Store",
+    "Vegan"
+  ],
+  "description": "Sells dry & frozen vegetarian products, puffs, cakes, pastries local food, sea cucumber, imported veggie products.",
+  "streetAddress": "6, Jln 1/32, Tmn Jinjang Baru",
+  "postalCode": "52200",
+  "phone": "tel:03-62579595",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.208974,101.657664&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.208974,101.657664&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

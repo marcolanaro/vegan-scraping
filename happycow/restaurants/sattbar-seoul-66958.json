@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sattbar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Raw, Western, Mediterranean\n                                    ",
+  "description": "Raw food restaurant, est. 2015. Serves fusion Mediterranean style raw or half raw dishes like warm burger and soup, salad with hummus. Owner speaks English.",
+  "priceRange": "Moderate",
+  "streetAddress": "655-5, Sinsa-dong, Gangnam-gu",
+  "phone": "tel:070-41939144",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:30am-9:00pm, Wed 11:30am-7:30pm, Thu-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/sattbar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.525336,127.038690&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.525336,127.038690&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "De Levensboom",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Macrobiotic, Organic, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Primarily a vegetarian restaurant but does serve fish. Monthly cooking lessons. A small garden terrace for seating in the back of the restaurant in the summer. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Leopoldsplein 44",
+  "phone": "tel:+32-011226400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.928200,5.333760&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.928200,5.333760&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

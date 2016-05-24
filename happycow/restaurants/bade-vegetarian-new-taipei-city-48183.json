@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bade Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Buffet, Take-out, Taiwanese\n                                    ",
+  "description": "Buffet restaurant in Banqiao. Choose what you want and pay by weight or pay a fixed amount for the all-you-can-eat option. Also offers all-you-can eat or drink ice cream, tea, and juice. Coffee costs extra.",
+  "priceRange": "Moderate",
+  "streetAddress": "2, Lane 32, Shijian Rd, Banqiao District",
+  "phone": "tel:02-29647348",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-2:00pm, 5:30pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/8dvter",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.007084,121.463140&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.007084,121.463140&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

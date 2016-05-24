@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "URBN Culture",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Western, Beer/Wine, Fusion\n                                    ",
+  "description": "Restaurant and bar on 2 floors serving vegetarian food and craft beer on tap, since Apr 2016. Street culture inspired urban decor. Near Liuzhangli MRT station.",
+  "priceRange": "Moderate",
+  "streetAddress": "252, Sec. 2, Keelung Rd, Da'an District",
+  "postalCode": "106",
+  "phone": "tel:02-23788322",
+  "venueHours": "\n                                                                                                        Mon 12:00am-12:00am, Wed-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/urbnculture",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.022590,121.550278&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.022590,121.550278&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

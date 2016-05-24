@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Madras Woodland Ganga",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Take-out, Singaporean\n                                    ",
+  "description": "Part of international group of restaurants and hotels. Serves a variety of North and South Indian items with also some continental and local items like burger, fried rice, mee goreng. Or opt for the buffet spread. Previously on Belilios Lane and reopened at this location.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Cuff Rd",
+  "postalCode": "209712",
+  "phone": "tel:62953750",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 6:00pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.307058,103.852573&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.307058,103.852573&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

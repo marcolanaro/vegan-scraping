@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Quan Chay Hong Phuc",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Vietnamese\n                                    ",
+  "description": "Small buffet table for a quick lunch, or you can order pho noodle or other noodles. Most dish cost less than US$2. This place is small however upstairs seats up to 30 people.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "702 Nguyen Dinh Chieu Street, P1. District 3",
+  "phone": "tel:38325208",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.766385,106.678716&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.766385,106.678716&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Drunken Sailors",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Thai, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Staff known what veg means, and the menu indicated if a dish could be made veg or vegan. Could ask to replace meat with soy protein. Menu includes breakfast food, sandwiches, pasta, burgers, Thai food, coffee, smoothies and juices. Seating areas has hammocks, bean bags, chairs and table.",
+  "priceRange": "Expensive",
+  "streetAddress": "116 moo 5, Kantieng Beach",
+  "postalCode": "81150",
+  "phone": "tel:075665076",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/DrunkenSailors",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.499237,99.070565&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.499237,99.070565&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yuan Kedai Makan Sayur-Sayuran",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malay\n                                    ",
+  "description": "大众好素食 serves economic rice and dishes like chicken rice, wanton noodle, and curry noodle.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "37 Jalan Meriam",
+  "postalCode": "84000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 7:00am-2:00pm, Fri-Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.047701,102.568984&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.047701,102.568984&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

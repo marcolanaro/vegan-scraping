@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "bio&bio - Ilica",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic market with locations throughout Croatia and has an online shop. Offers a wide selection of certified organic products: vegetarian and vegan food, nutritional supplements, natural cosmetics, books, and more.",
+  "streetAddress": "Ilica 70",
+  "phone": "tel:014848085",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/biobio.hr",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.813250,15.971160&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.813250,15.971160&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

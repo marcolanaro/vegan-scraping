@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mulmaegol",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Korean\n                                    ",
+  "description": "Name in Korean is 물메골. Address in Korean is 제주특별자치도 제주시 애월읍 수산리 795-1번지. The restaurant is inside a double-story residential cozy house, serving Korean temple food on Jeju Island, west of Jeju City. Many of the nearby monks at Daewonjeongsa come here for meals. Serves vegetarian temple food such as lotus leaf rice (yeoipbap), noodle soup, tea, pancake, salad, seaweed, cookies, kimchi, tofu etc. ffers 2 main dishes: Tteulkkae sujebi (뜰깨수제비) & lotus leaf rice (연잎밥). Varying side dishes (banchan/반찬). No MSG or chemicals. Unique dessert included with the meal, a traditional Jeju rice 'yogurt' called 'shindari' (쉰다리). The restaurant owner, Ms. Kim, is also known for holding traditional vegetarian temple cooking classes every once in a while. Price is around 7000W per meal.",
+  "priceRange": "Moderate",
+  "streetAddress": "795-1, Susan-ri, Aewol-eup, Jeju City",
+  "phone": "tel:064-713-5486/,%20019-6965486",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.472981,126.391337&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.472981,126.391337&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

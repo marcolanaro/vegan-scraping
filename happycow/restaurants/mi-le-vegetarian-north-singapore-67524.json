@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mi Le Vegetarian - at Prime Court Coffeeshop",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "弥乐素食 is a stall in Prime Court Coffeeshop. Serves zi-char economic rice, noodle, and vegetable dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 18  Toa Payoh Lorong 7 Unit 01-238",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 6:00am-2:00pm, Fri-Sat 6:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.335725,103.856814&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.335725,103.856814&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

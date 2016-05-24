@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thammachart",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai, Buffet, Take-out\n                                    ",
+  "description": "Basic cafe-style budget place, also has a very small vegetarian supplies shop. Has a bilingual menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "56/36 Moo 5, Amorn Market Naklua Road",
+  "phone": "tel:+66-38726911",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.972693,100.906194&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.972693,100.906194&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tevaleh",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Juice bar, Take-out, Middle Eastern, Israeli\n                                    ",
+  "description": "This is its 2nd outlet opened Aug 2015; the first location is in Kfar Saba. Offers vegan breakfast, salads, sandwiches, hot dishes, and desserts. Has a juice bar with wheatgrass and shakes. Some prepared food for grab n go.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "106 Bograshov St",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-12:00am, Fri 9:00am-3:00pm, Sun 9:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tevale.health.bar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.074159,34.775118&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.074159,34.775118&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

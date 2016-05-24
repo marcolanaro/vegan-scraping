@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Hanoi Social Club",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Beer/Wine, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe, restaurant, and bar housed in a 100 year old villa with air-condition inside. Sketches and paintings from local artists adorn the walls, and a garden bar is on the top floor. Hosts live music nights. The menu features Pan-European food with some meals being vegetarian and a few vegan.",
+  "priceRange": "Expensive",
+  "streetAddress": "6 Hoi Vu, Hoan Kiem District",
+  "phone": "tel:+84-439382117",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/TheHanoiSocialClub",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.028771,105.846040&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.028771,105.846040&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

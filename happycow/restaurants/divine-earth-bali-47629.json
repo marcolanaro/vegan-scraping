@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Divine Earth",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Macrobiotic, Organic, Raw, Western, Juice bar\n                                    ",
+  "description": "Serves a variety of raw vegan cuisine, macrobiotic options, cold pressed juices and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Raya Basangkasa, 1200A, Kuta",
+  "postalCode": "80361",
+  "phone": "tel:+62-0-361-731964",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Divine-Earth/563643277024993",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.684177,115.166785&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.684177,115.166785&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

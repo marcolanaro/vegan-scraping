@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khana Khazana",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Southern Indian food restaurant on the main road just north of Central Festival Mall. The menu is mainly Indian cuisine, divided into starters, snacks, main courses, rice dishes, and a section for popular Asian dishes. Each of these sections has a 'vegetarian' sub-section. Nearly half of the dishes are labelled vegetarian. Vegans need to make specific request.",
+  "priceRange": "Moderate",
+  "streetAddress": "216/3 2nd Road",
+  "postalCode": "20150",
+  "phone": "tel:+66-0846698067",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.933077,100.884038&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.933077,100.884038&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

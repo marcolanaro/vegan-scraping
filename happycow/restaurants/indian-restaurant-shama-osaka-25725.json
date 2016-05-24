@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shama Vegetarian Indian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian\n                                    ",
+  "description": "Mention HappyCow receive a complimentary after-meal chai tea. Vegetarian Indian food menu featuring dishes like soy meat tikka, eggplant keema curry with minced gluten meat, and tikka with soy ham. Can make a dish vegan when asked. Location is across the street from a Starbucks, next to Family Mart, in Yotsubashi at 大阪府大阪市西区北堀江1-3-7 倉商ビルB1, Yotsubashi station exit 6. This restaurant is a NPO running an orphanage and school in Bihar, India so you can donate by eating here. 这个菜单、没有五荤. Has menu in Chinese. Also sells natural cosmetics and toothpaste from India. On YouTube: Shama Indian Restaurant Osaka Japan (appears as IMG1123).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kurasho Bldg, B1. 1-3-7, Kitahorie, Nishi-ku",
+  "postalCode": "550-0014",
+  "phone": "tel:06-65366669",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-3:00pm, Tue-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.672732,135.496438&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.672732,135.496438&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

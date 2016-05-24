@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Etcetera Vegetarian & Coffee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Take-out, Fusion\n                                    ",
+  "description": "Opened Jan 2016, a veggie food and coffee cafe in an air conditioned setting with Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ruko top 100 Penuin Blok C 1",
+  "postalCode": "29432",
+  "phone": "tel:6281363109900",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 9:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Etceterabatam",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.134667,104.007183&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.134667,104.007183&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Passion for Food",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Egyptian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lunch and dinner restaurant with a few vegetarian salads (including a pasta and a Mediterranean salad), at least two soups, and a vegan tajine. The owner makes sure that the vegetarian dishes are nutritionally balanced (proteins, carbs, etc).",
+  "priceRange": "Moderate",
+  "streetAddress": "Philipstockstraat 39",
+  "phone": "tel:0477-401714",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.209593,3.226806&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.209593,3.226806&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

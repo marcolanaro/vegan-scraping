@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Le Tian Vegetarian Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Buffet, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "樂天素食 is on the 4th floor in the food court of Sungai Wang Plaza. Lunch buffet food is hot between 11am-1pm. Offer a large variety of vege dishes, including many with faux meat to go with rice. Also sells baked goods like Swiss creme cake, lotus leaf rice, turnip cake, carrot cake, mochi. Directions: Take KL-Monorail service to the Bukit Bintang station to get to the Plaza.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "E1, Tingkat 4, Sungai Wang Plaza, Jalan Sultan Ismail  Sungai",
+  "postalCode": "50100",
+  "phone": "tel:016-2777515",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.144790,101.711020&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.144790,101.711020&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Landwer",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Beer/Wine, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of a big Israeli restaurant chain, offers many marked vegan items such as a big breakfast, hot dishes, salads, and dessert. Soy milk for coffee. This branch is located in the Ra'anana industrial zone but the inside is nice.",
+  "priceRange": "Moderate",
+  "streetAddress": "6 HaSadna, Ra'anana",
+  "phone": "tel:09-7689004",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-12:00am, Fri 8:00am-2:00am, Sat 9:00am-12:00am, Sun 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/קפה-לנדוור-רעננה/191211177746755",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.194831,34.878724&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.194831,34.878724&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

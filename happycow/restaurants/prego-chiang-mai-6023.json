@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Prego",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Formerly Baiporn. Around 2USD for dinner. Menu includes vegetarian Thai food and Italian food. Menu in English and Thai, English is spoken. Re-opened in Dec 2013 after brief closure.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15/3 Soi 1 Sri Phum Road",
+  "postalCode": "50000",
+  "phone": "tel:+66%2081%208827466",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.794559,98.992449&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.794559,98.992449&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

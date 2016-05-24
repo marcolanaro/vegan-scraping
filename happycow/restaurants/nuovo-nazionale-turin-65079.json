@@ -1,0 +1,12 @@
+{
+  "title": "Nuovo Nazionale",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Cafeteria with vegan croissant and non-dairy milk option.",
+  "streetAddress": "Via Po, 18",
+  "phone": "tel:+39-011882140",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.068331,7.689552&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.068331,7.689552&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

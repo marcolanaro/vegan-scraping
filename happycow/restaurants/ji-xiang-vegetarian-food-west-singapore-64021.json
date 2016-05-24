@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ji Xiang Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Catering, Singaporean\n                                    ",
+  "description": "吉祥素食園 is a stall located inside Jia Yuan Eating House. Serves economic bee hoon and mixed vegetable rice in the morning. Serves Zhi char dishes from afternoon.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 177 Bukit Batok West Ave 8 , Unit 01-247",
+  "postalCode": "650177",
+  "phone": "tel:65693416",
+  "venueHours": "\n                                                                                                        Mon-Wed 6:00am-8:00pm, Fri-Sun 6:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.346464,103.741407&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.346464,103.741407&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

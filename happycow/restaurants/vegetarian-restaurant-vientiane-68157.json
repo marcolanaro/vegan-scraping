@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Thai, Buffet, Laotian\n                                    ",
+  "description": "A small, clean vegetarian restaurant opened in late 2015. Offers a daily lunch buffet, as well as made to order dishes. The cuisine focus is vegetarian versions of common Laos food with some vegan options. Mushroom larb, papaya salad, and many noodle dishes are just some of the dishes. The owners are strict vegetarians and friendly and are able to accommodate any special requests you may have.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dongmieng Road",
+  "phone": "tel:0304698699",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.977276,102.608678&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.977276,102.608678&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

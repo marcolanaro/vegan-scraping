@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xiang Xiang Vegetarian Food and Fruit",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "香香素食品 sells its own brand of vegetarian food product with mock meat products including bbq char siew, black pepper steak, chicken nugget, and mocked duck.",
+  "streetAddress": "Blk 810 Hougang Central #01-228",
+  "postalCode": "530810",
+  "phone": "tel:63871228",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/XiangXiangVegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.371570,103.893327&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.371570,103.893327&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

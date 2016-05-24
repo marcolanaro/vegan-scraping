@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "42 Degrees Raw",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Western, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "The first 42°Raw outlet, opened 2010. Offers contemporary interpretation of plant-based eating without refined sugar. Primarily raw food with several cooked dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Pilestaede 32",
+  "postalCode": "1147 K",
+  "phone": "tel:32123210",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-8:00pm, Sat 10:00am-6:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.680577,12.580640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.680577,12.580640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sunny Place",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic, Western\n                                    ",
+  "description": "One the the oldest vegetarian restaurants in Kyoto, a casual little cafe serving veggie burgers, set meals, and more. Directions: from the intersection (Hyakumanben) go west on Imadagawa, turn north (right) at the first traffic light, walk about a block, and the restaurant is on your right.",
+  "priceRange": "Moderate",
+  "streetAddress": "168-2 Tanaka Ōichō, Sakyo Ward",
+  "postalCode": "606-8202",
+  "phone": "tel:075-7117617",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-2:00pm, 6:00pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.029832,135.777934&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.029832,135.777934&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

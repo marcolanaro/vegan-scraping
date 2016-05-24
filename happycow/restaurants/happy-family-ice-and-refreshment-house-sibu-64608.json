@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Happy Family Ice & Refreshment House",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "大同居冰品点心城.",
+  "streetAddress": "4H, Hua Kiew Rd",
+  "postalCode": "96000",
+  "phone": "tel:084-319159",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.292927,111.830160&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.292927,111.830160&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

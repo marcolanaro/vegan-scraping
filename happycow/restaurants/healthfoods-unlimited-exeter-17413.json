@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Healthfoods Unlimited",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic produce, vitamins, household & recycled products.",
+  "streetAddress": "181 Cowick Street",
+  "postalCode": "EX4 1AE",
+  "phone": "tel:01392-495258",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Healthfoods-Unlimited-Exeter/389886077729605",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.718010,-3.538100&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.718010,-3.538100&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

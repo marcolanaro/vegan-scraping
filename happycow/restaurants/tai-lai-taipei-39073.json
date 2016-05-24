@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tai Lai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Taiwanese\n                                    ",
+  "description": "Typical Taiwanese food with a variety of fried rice, noodle soups. and dumplings. Offers set meals. From 1:40-5:30pm you could get drinks only as the kitchen rests.",
+  "priceRange": "Moderate",
+  "streetAddress": "251, JinHua Street, Daan District",
+  "postalCode": "106",
+  "phone": "tel:02-23947608",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.029932,121.531136&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.029932,121.531136&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

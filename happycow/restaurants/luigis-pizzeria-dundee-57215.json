@@ -1,0 +1,18 @@
+{
+  "title": "Luigi's Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Fast food, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian-family run pizzeria using dough prepared daily using Italian flour, topped with original tomato and basil sauce, garnished with fresh garlic and oregano, then finally stonebaked. Could make vegan pizza (base is vegan). Gluten-free based possible with at least 1 hour notice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "21 Strathmartine Rd",
+  "postalCode": "DD3 7RL",
+  "phone": "tel:01382-814041",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 4:30pm-10:00pm, Sat 4:30pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Luigis-Pizzeria/237069749717599",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.471842,-2.976578&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.471842,-2.976578&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

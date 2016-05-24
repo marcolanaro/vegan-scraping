@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nisha Indian Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian diner that advertises vegetarian and non-vegetarian food. Menu has a decent vegetarian section with vegan choices. As of March 2013, dishes range from 13,000 to 25,000 kip.\r\n\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "Kitsalat Rd",
+  "phone": "tel:071253746",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.885887,102.136225&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.885887,102.136225&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

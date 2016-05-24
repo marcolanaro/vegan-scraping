@@ -1,0 +1,15 @@
+{
+  "title": "Miraya",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Western\n                                    ",
+  "description": "Cafe is located inside a yoga club. Offers a wide variety of teas. Hosts many events.",
+  "priceRange": "Moderate",
+  "streetAddress": "Alexeevskaya, 41",
+  "phone": "tel:831-4330182",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ecocenter.miraya",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.319126,44.002611&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.319126,44.002611&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

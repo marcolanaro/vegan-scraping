@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Haze Rouge",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Organic\n                                    ",
+  "description": "120+ year-old traditional Japanese style house surrounded by Mino mountains and renovated into a macrobiotic restaurant. Offers lunch course starting from 1,650 yen, which including appetizer, soup, main dish, dessert. Concept is simple, modern, natural.",
+  "priceRange": "Moderate",
+  "streetAddress": "1849-1 Toyoda Yamamotomati, Kurume",
+  "postalCode": "893-0827",
+  "phone": "tel:0942276750",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.306794,130.587801&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.306794,130.587801&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

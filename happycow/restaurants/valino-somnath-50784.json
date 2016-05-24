@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Valino ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Fast food, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "A vegetarian garden restaurant with trained chefs and staff to serve multi cuisine food including Indian, Chinese, Thai, Continental, Mediterranean, Tandoor, American, Italian, Punjabi and South Indian. Some dishes are vegan or can be made vegan. Offers an exclusive and exxtensive mocktail bar serving exotic mocktails prepared by a trained bartender. Has air conditioning. Holds live music and live events like gazal, guitarists, karaoke, dairo and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Veraval Somnath Bypass Road, Somnath Bypass Corner",
+  "postalCode": "362268",
+  "phone": "tel:+91-9898166261",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/valino.somnath",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.899206,70.407690&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.899206,70.407690&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

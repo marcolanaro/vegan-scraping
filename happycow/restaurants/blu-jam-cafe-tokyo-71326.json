@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Blu Jam Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Mexican, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A cozy spacious cafe/restaurant located in Daikanyama, 1 minute away from the station. Mainly serves all-day brunch foods with at least 2 vegan dishes which are Mexican influenced. The vegan rancheros contains tofu, black beans, bell peppers, cilantro, chipotle sauce, salsa, avocado, vegan sour cream on top of a crispy tortilla. The spicy tofu tex mex contains tofu, black beans, onions, chipotle sauce, cilantro, potatoes, tomatoes, salsa and avocado with a side of corn tortillas. The soups are all vegan. Menu is in English with Japanese on the bottom. Seating for about 74. The interior design is industrial and earthy.",
+  "priceRange": "Moderate",
+  "streetAddress": "Daikanyamacho 20-20, Shibuya, Daikanyama",
+  "postalCode": "150-0034",
+  "phone": "tel:03-64551446",
+  "venueHours": "\n                                                                                                        Mon 11:00am-10:00pm, Wed-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Blu-Jam-Cafe-Japan-162651127423564",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.648140,139.702209&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.648140,139.702209&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

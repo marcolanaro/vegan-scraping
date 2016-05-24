@@ -1,0 +1,17 @@
+{
+  "title": "A Tutto Vapore",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Fast food, Take-out\n                                    ",
+  "description": "Vegan deli offering seasonal and healthy dishes. Most dishes are steamed.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via San Secondo, 24",
+  "phone": "tel:01119923389",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-2:30pm, 4:00pm-7:30pm, Sat 8:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.060774,7.674263&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.060774,7.674263&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

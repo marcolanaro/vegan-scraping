@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "VeggieTable",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Fast food, Take-out\n                                    ",
+  "description": "Opened Dec 2015 东顺素食 is serves economic rice and noodles with dishes like fishball noodle, char siew rice, nasi lemak, chicken rice, and mee siam.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bukit Panjang Hawker Centre Stall Unit 01-08 Bukit Panjang Ring Rd",
+  "postalCode": "679947",
+  "phone": "tel:94792158",
+  "venueHours": "\n                                                                                                        Mon-Tue 6:00am-8:30pm, Thu-Sun 6:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VeggietableLLP",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.377577,103.772535&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.377577,103.772535&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soon Long Sin Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Delivery, Take-out\n                                    ",
+  "description": "顺隆生素食圆 is located on the level 2 food court. Offers economic rice and a variety of tze char dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 883 Woodlands Street 82, Woodlands North Plaza, 02-472 Stall 2",
+  "postalCode": "730883",
+  "phone": "tel:97518300",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.442756,103.790708&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.442756,103.790708&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

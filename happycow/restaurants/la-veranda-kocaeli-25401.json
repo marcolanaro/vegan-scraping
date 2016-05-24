@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Veranda",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, All Raw, Turkish\n                                    ",
+  "description": "100% Vegan and raw food without gluten, sugar, flour, or salt. There's no oven in the restaurant. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Sıra Kavaklar Sok. 14 İzmit",
+  "phone": "tel:0262-3237755",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/La-Veranda-?zmit/102362259881176",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.766019,29.938103&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.766019,29.938103&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

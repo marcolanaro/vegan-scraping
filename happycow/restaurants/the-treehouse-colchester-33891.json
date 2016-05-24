@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Treehouse",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "From October to December 2012, no Saturday stall in Colchester but they have stalls in town centre. Also available for take away orders with the possibility of delivery in town centre. Offers event catering.   Exclusively selling vegan food for takeaway, such as wraps, salads, sausage rolls, samosa, and vegan cakes. Previously on Long Wyre Street.\r\n",
+  "streetAddress": "Culver Street West",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TreeHouseCafeColchester",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.889076,0.897698&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.889076,0.897698&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

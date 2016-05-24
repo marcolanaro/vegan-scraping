@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Naturkost Aps",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Well stocked, all vegetarian health food shop offering a wide range of items including frozen and refrigerated foods and veggiemeats, tofu, soy milk, rice milk, flour, grains, bread, dry pasta, packaged food, fresh produce, natural cleaning products, body care, supplements, herbs, books, essential oils, and more.",
+  "streetAddress": "Gravene 8",
+  "postalCode": "5000 C",
+  "phone": "tel:66-137013",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-5:30pm, Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.397800,10.387780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.397800,10.387780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

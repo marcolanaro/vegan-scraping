@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Create Healthy Lifestyle",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Japanese, Organic, Take-out, Asian\n                                    ",
+  "description": "A nice organic restaurant and store. Offers a small selection of organic produce and a larger selection of packaged organic goods. Restaurant serves organic rice sets and noodles, and more. Uses less oil, salt, and no MSG.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "02-17 Middle Road, Fortune Center",
+  "postalCode": "188979",
+  "phone": "tel:63364355",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Create-Healthy-Lifestyle/289744384453193",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300274,103.852067&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300274,103.852067&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jey Jai Fah",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai\n                                    ",
+  "description": "Small and plain Thai style vegan food restaurant. Offers around 4 buffet style dishes and you could also order suki or somtam.  It is on the route 1001 between Thepanya hospital and Mee Chok plaza on the left side of the road.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Route 1001, Ban Faham",
+  "postalCode": "50000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.823806,99.003033&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.823806,99.003033&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

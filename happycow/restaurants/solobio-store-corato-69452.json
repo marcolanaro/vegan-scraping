@@ -1,0 +1,12 @@
+{
+  "title": "Solobio Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store with a large selection of vegan food and toiletries.",
+  "streetAddress": "Via Alcide De Gasperi, 18",
+  "phone": "tel:0803324124",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-1:30pm, 4:30pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.154270,16.409080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.154270,16.409080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

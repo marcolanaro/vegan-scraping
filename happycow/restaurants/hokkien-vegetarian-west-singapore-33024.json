@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hokkien Vegetarian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out, Singaporean\n                                    ",
+  "description": "Name in Chinese 福建素食坊. No dairy, eggs, onion, or garlic used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 132, Jurong East Street 13, 01-271",
+  "postalCode": "600132",
+  "phone": "tel:98623437",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.334374,103.739874&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.334374,103.739874&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

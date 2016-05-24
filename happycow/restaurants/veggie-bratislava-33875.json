@@ -1,0 +1,16 @@
+{
+  "title": "Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Organic, Western, Salad bar, Take-out, Slovakian\n                                    ",
+  "description": "Vegetarian cafe opened since Aug 2012. Serves soups, salads, sandwiches, a daily special. Mostly seasonal hot and cold meals, healthy desserts. Gluten free options. Informal atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Obchodna 66",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.148542,17.112756&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.148542,17.112756&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

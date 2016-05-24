@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vefa Bozacisi",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Historical shop producing the fermented vegan drink boza. Boza is served in individual glasses which you can drink at the tables, or buy a larger amount for take-away. Also sells other products like vinegar and lemon concentrate. 15 minute walk from Laleli-Universite tram stop.",
+  "streetAddress": "Katip Celebi Cad. 104/1, Vefa",
+  "postalCode": "34470",
+  "phone": "tel:+90-2125194922",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.015268,28.958419&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.015268,28.958419&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

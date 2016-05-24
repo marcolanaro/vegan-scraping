@@ -1,0 +1,17 @@
+{
+  "title": "The Food Press",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Fast food, Juice bar, Take-out, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lunchroom and juice bar offering primarily veggie food except for fish (tuna wrap).",
+  "priceRange": "Moderate",
+  "streetAddress": "Globeplein 62, Almere Buiten",
+  "phone": "tel:626330669",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-6:00pm, Fri 9:00am-7:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/thefoodpress",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.393829,5.279929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.393829,5.279929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

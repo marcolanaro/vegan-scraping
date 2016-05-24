@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Xindian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Take-out, Taiwanese\n                                    ",
+  "description": "愛家星星蔬食, opened May 2014 at 新店路211號, is a vegan food and tea & coffee cafe. English menu available.",
+  "priceRange": "Moderate",
+  "streetAddress": "211, Xindian Rd, Xindian District",
+  "phone": "tel:02-29107656",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/lovinghutBT",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.957167,121.537044&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.957167,121.537044&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

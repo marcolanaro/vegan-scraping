@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rosy’s",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Store specializing in food for those with intolerance to gluten, wheat, dairy, soya, nuts, and other allergens.",
+  "streetAddress": "45 Western Boulevard, Bede Island",
+  "postalCode": "LE2 7HN",
+  "phone": "tel:07962342140",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.631190,-1.143006&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.631190,-1.143006&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

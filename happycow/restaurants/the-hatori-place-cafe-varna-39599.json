@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Hatori Place Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Raw, Western, Bakery, Bulgarian\n                                    ",
+  "description": "Bakery and cafe in the rear of a health food shop. Offers vegan food and pastries, raw bread, and tea.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ulitsa Dragoman 9",
+  "postalCode": "9000",
+  "phone": "tel:052636131",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TheHatoriPlace",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.203755,27.913646&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.203755,27.913646&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

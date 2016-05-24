@@ -1,0 +1,14 @@
+{
+  "title": "Auberge de Bouyssour",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Vegetarian bed and breakfast located 25km south of Périgueux in the South West of France. Provides organic dinners on request for guests and offer packed lunches.",
+  "streetAddress": "Lieu-dit Bouyssour",
+  "postalCode": "24750",
+  "phone": "tel:+33-553466732",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.070258,0.766177&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.070258,0.766177&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

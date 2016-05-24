@@ -1,0 +1,14 @@
+{
+  "title": "Basic Bio-Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Salad bar, Bakery, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The basic-bistro is attached to the basic-supermarket. Offers some vegan sandwiches (with hummus or tofu burger), a vegetarian/vegan self-sevice salad bar with dishes like couscous, noodle, bulgur, raw carrot, beetroot, salad, and vegetarian dressings; plus vegetarian soups, smoothies.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hohenstaufenring 28, am Zulpicher Platz",
+  "phone": "tel:0221-3976790-0",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.930543,6.939525&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.930543,6.939525&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

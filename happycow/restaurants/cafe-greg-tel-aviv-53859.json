@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Greg - Gan Ha'Ir",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Israeli, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. In the Gan Ha'Ir shopping mall with plenty of seating. Offers a separate vegan menu that includes breakfast, sandwiches, stir-fries, salads. Closes 1 hour before Shabbat begins on Friday afternoon, and re-opens Saturday night 1 hour after Shabbat ends. Kosher (Mehadrin).",
+  "priceRange": "Moderate",
+  "streetAddress": "71 Ibn Gavirol",
+  "phone": "tel:073-7253688",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:30am-10:00pm, Fri 7:30am-2:30pm, Sat 8:00pm-11:00pm, Sun 7:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/greg.telaviv",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.082794,34.781268&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.082794,34.781268&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

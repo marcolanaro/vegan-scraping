@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "An Lac Chay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Beer/Wine, Take-out, Vietnamese\n                                    ",
+  "description": "Sits above restaurant Margherita. Extensive menu in English includes noodles, mockmeats, international cuisine, and many vegan options. Popular with local families and travelers.",
+  "priceRange": "Moderate",
+  "streetAddress": "175/1 Pham Ngu Lao St, District 1",
+  "phone": "tel:08-8377751",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.823099,106.629664&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.823099,106.629664&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,13 @@
+{
+  "title": "GooodyFooods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of chain health food shops in the Netherlands. Offers a variety of mostly organic items including tofu, nuts, beverages, vegetable, fruit, bread, seeds, snacks. Some fairtrade and locally grown produce. Has meat-substitutes made by De Vegetarische Slager and other brands.",
+  "streetAddress": "Potgietersingel 1",
+  "postalCode": "8011 NA",
+  "phone": "tel:038-4225450",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.510542,6.090497&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.510542,6.090497&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

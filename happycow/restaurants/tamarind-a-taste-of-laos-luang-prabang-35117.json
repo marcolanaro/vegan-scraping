@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tamarind - A Taste of Laos",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Organic, Beer/Wine, Laotian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant and cooking school. Has veg suitable dishes, and side that could be prepared vegan - ask about fish/oyster sauce.",
+  "priceRange": "Expensive",
+  "streetAddress": "Nam Khan River Road, Ban Vat Sene",
+  "phone": "tel:071213128",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Tamarind-a-taste-of-Laos/251636644883061",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.895404,102.143068&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.895404,102.143068&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

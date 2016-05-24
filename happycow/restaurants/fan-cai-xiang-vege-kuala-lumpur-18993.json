@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fan Cai Xiang Vege",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "梵菜香素食馆 serves healthy vegan food for daily lunch and dinner. 2015 re-located from Plaza Danau 2.",
+  "priceRange": "Moderate",
+  "streetAddress": "36, Jalan 1/109F, Taman Danau Desa",
+  "postalCode": "58100",
+  "phone": "tel:03-79819812",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.098399,101.686378&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.098399,101.686378&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

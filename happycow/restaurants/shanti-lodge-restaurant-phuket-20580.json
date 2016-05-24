@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shanti Lodge Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Thai, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Guest house with a small restaurant. Most of the menu is vegetarian. Stuffed tofu (some contain cheese), pumpkin dishes, chips, burgers, pasta, Indian dishes. Vegan salad dressing available. Located on the Wat Chalong Rd, half way between Wat Chalong and the Chalong Circle, directly opposite land and home. Sign is located at the entrance of the Soi 53 - Soi Bang Rae.",
+  "priceRange": "Moderate",
+  "streetAddress": "1/2 Soi Bangrae, Choafa Nok Rd, Ao Chalong",
+  "phone": "tel:2-2812497",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.832180,98.338938&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.832180,98.338938&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

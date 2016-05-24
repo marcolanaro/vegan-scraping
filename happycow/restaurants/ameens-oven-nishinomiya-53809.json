@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ameen's Oven",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Japanese, Organic, Western, Take-out, Bakery\n                                    ",
+  "description": "Organic, natural yeast bakery and vegetarian lunch cafe near Shukugawa(Hankyu)/Sakurashukugawa(JR) station. Cafe offers sandwiches, salad, and soup til 5pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "6-18 Wakamatsu-cho",
+  "postalCode": "662-0035",
+  "phone": "tel:+81%20798-70-8485",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ameensoven",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.743601,135.331637&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.743601,135.331637&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

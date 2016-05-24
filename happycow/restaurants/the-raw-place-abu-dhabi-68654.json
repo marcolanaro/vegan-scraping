@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Raw Place - WTC",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, Western, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "This outlet is at World Trade Center Mall. Offers grab n go cold-pressed juices, smoothies, cold-brew coffee plus chia bowls, raw food and desserts. Add superfoods to add to your smoothie or juice or buy in pre-packed bags.",
+  "priceRange": "Moderate",
+  "streetAddress": "WTC-Souk (Central Market), Khalifa St, Al Markaziyah",
+  "phone": "tel:02-6334677",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-11:00pm, Fri 9:00am-11:00pm, Sat-Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/therawplace",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.299174,54.697277&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.299174,54.697277&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

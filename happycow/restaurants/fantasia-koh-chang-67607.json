@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fantasia",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Owner and cook is an Italian who speaks English and can make many of its dishes vegan when requested. Located on a side street accross from 7-11.  Please send HappyCow the correct map coordinates.",
+  "priceRange": "Moderate",
+  "streetAddress": "10/31 Moo 4 Kai Bae",
+  "postalCode": "23170",
+  "phone": "tel:814272573",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/FantasiaPizzaPasta",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.049637,102.304685&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.049637,102.304685&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "An Hyun Pil",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Korean \n                                    ",
+  "description": "Located near Daerim subway station, exit 2/3, across the road from exits 2 and 3, there is a side street, and the restaurant is down that street on the left. This is a health institute which provides nutrition education. Its sells health food such as grains, tea, flours, etc., and is also a restaurant serving dishes made with organic brown rice. Please confirm if everything is vegan and inform HappyCow.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Anhyunpil Health Institute, Guro-4-dong 123-13, Guro-gu",
+  "postalCode": "152845",
+  "phone": "tel:02-8536094",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.492372,126.893485&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.492372,126.893485&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

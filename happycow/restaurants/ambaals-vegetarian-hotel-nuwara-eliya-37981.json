@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ambaal's Vegetarian Hotel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "Typical Indian style sit and eat cafe. Dosa, samosa, perrota and more. Mostly South Indian food with plenty of vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "New Bazaar Street 52A",
+  "phone": "tel:052-2235281",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.972661,80.766820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.972661,80.766820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Pizzeria Ambar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, Fast food, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan menu items include pizza with vegan cheese, burgers, rice with veggies, oyster mushroom chop and more. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dworcowa 22",
+  "postalCode": "85-010",
+  "phone": "tel:52-3227225",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pizzeria.ambar/timeline?ref=page_internal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.127006,18.001094&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.127006,18.001094&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

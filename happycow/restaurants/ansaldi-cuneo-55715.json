@@ -1,0 +1,14 @@
+{
+  "title": "Ansaldi",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "A historic bar and gelato places in town. Expanded to a bigger and stylish bar-gelato-chocolate and pastries cafe. A few ice cream flavors are dairy-free, such as hazelnut, chocolate, and vanilla - they're made from rice milk. Could get dairy-free cappuccino.",
+  "streetAddress": "Contrada Mondovì 3",
+  "phone": "tel:+39-017167296",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 8:00am-11:00pm, Sat 8:00am-12:30pm, 3:00pm-11:00pm, Sun 9:00am-12:30pm, 3:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.392469,7.551338&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.392469,7.551338&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

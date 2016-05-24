@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Veggie Deli Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Macrobiotic, Raw, Western, Take-out, Filipino\n                                    ",
+  "description": "A lacto-vegetarian cafe with vegan, macrobiotic, and raw food options. Serves vegetarian burger, shawarma, rice, and more. Mar 2014 moved from 4068 A Forest Hills, Upper Kalubihan, Banawa.",
+  "priceRange": "Moderate",
+  "streetAddress": "7b-1 First Street, Guadalajara Village, Guadalupe, Cebu City",
+  "postalCode": "6000",
+  "phone": "tel:+639279583755",
+  "venueHours": "\n                                                                                                        Mon 10:00am-10:00pm, Wed-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/La-Veggie-Deli-Cafe/141367419360444",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.326051,123.880019&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.326051,123.880019&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

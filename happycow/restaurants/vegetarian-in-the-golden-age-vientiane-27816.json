@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian in the Golden Age",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Western, Vietnamese\n                                    ",
+  "description": "Vegan Buddhist restaurant serving Asian and western food with mock meats. Nice and clean. Owners speak basic English and meals are sizable. Buffet served from 11am-2pm daily. The only place outside Vietnam found serving typical western pho style meals, vermicelli with tofu, sprouts, shredded carrots, cucumber, herbs and mock fish sauce, and spring rolls with peanut sauce. Also offers fruit shakes, various seasoned vegetables, and appetizers, soups.",
+  "priceRange": "Moderate",
+  "streetAddress": "0155 Hatxadi, Saylom Road, Chanthabouly District",
+  "phone": "tel:+856-20550133169;%20+856-2055505305",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.968798,102.612659&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.968798,102.612659&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

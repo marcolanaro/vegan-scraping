@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Schile Imbiss and Lebensmittel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, International, Italian, Buffet, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Turkish snack bar offering a wide variety of unique vegetarian and vegan dishes. In addition to traditional favorites like falafel, fava bean dip, and lentil salad, this Mediterranean restaurant offers a vegetarian pizza with a vegan alternative.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Morizgasse 8",
+  "postalCode": "1060",
+  "phone": "tel:01-595-48-09",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-10:00pm, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/schileimbiss",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.190391,16.344753&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.190391,16.344753&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

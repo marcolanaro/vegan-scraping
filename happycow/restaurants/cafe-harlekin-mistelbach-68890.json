@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Harlekin",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Macrobiotic, Organic, Beer/Wine, Bakery, European, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves 5 element food, including in-house-made desserts. Has vegan choices; please inquire. Family-run since 1983.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bahnstrasse 5",
+  "postalCode": "A-2130",
+  "phone": "tel:+43-025722712",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-12:00am, Fri-Sat 9:00am-2:00am, Sun 9:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Café-Harlekin/358022404300562",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.566958,16.571882&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.566958,16.571882&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

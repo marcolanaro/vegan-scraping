@@ -1,0 +1,17 @@
+{
+  "title": "Joe and the Juice",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Norway chain of juice, smoothie, and sandwich bar.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bragernes Torg 6",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-8:00pm, Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/joeandthejuice",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.744933,10.204734&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.744933,10.204734&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

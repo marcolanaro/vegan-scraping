@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Natural Way",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "2016 relocated here from 14 New St. A long-established family-run business. Stocks a full range of herbal, homeopathic, nutritional supplements, natural body care products and essential oils. Well stocked with all manners of vegetarian and vegan food, including frozen.",
+  "streetAddress": "82 High St",
+  "postalCode": "CM7 1JP",
+  "phone": "tel:01376329009",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/thenaturalwayshop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.878130,0.549829&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.878130,0.549829&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

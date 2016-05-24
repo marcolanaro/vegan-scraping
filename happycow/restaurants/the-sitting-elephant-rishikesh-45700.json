@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Sitting Elephant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, International, Organic\n                                    ",
+  "description": "A rooftop hotel restaurant that overlooks the 5km stretch of River Ganga. When you look outside into the mountains across River Ganga, you will witness an illusion which depicts an elephant sitting in the midst of nature. Offers multi-cuisines (American, Chinese, Indian, International) in a elegant setting on the 5th floor. Free Wi-Fi.",
+  "priceRange": "Expensive",
+  "streetAddress": "355 Haridwar Rd",
+  "postalCode": "249201",
+  "phone": "tel:+91-9997202444",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/EllBeeHotels",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.102110,78.292193&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.102110,78.292193&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

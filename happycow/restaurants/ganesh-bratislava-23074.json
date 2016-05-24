@@ -1,0 +1,19 @@
+{
+  "title": "Ganesh",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bills itself as a vegetarian restaurant but offers fish and chicken as well. Located in the historical center of Bratislava, near town square; moved from Nedbalova 12.",
+  "priceRange": "Moderate",
+  "streetAddress": "Vysoka 2",
+  "postalCode": "81106",
+  "phone": "tel:421-0907979008",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.148111,17.109058&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.148111,17.109058&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

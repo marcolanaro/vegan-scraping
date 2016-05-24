@@ -1,0 +1,18 @@
+{
+  "title": "Elixir",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Pizza, Western, Delivery, Take-out, Fusion\n                                    ",
+  "description": "Gluten-free vegan bistro opened by 2 vegans in Sept 2015. Offers a daily variety of dishes ranging from burgers, pizza, salads, and sandwiches, to cookies, cakes, smoothies and raw yummies. Delivers lunch by bike in eco boxes. Previously located at Szondi Utca 44/B, Apr 2016.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Auróra utca 11",
+  "postalCode": "1063",
+  "phone": "tel:302716986",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Elixirkitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.511553,19.065959&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.511553,19.065959&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

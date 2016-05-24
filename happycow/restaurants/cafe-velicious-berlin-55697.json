@@ -1,0 +1,18 @@
+{
+  "title": "Velicious",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Take-out, Bakery, European, German\n                                    ",
+  "description": "A small vegan bakery and coffeehouse with a homey atmosphere, opened Jan 2015. Has soy, vanilla-soy and almond milk, various cakes, muffins and brownies. Sells also bread, baguette, and buns. Savory choices include the day's quiche.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lenbachstrasse 13b",
+  "postalCode": "10245",
+  "phone": "tel:15257118282",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:00am-6:00pm, Sat-Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/veliciouscafeberlin",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.505490,13.466690&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.505490,13.466690&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

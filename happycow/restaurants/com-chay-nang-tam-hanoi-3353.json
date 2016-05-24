@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nang Tam",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine, Take-out, Vietnamese\n                                    ",
+  "description": "Com Chay Nang Tam serves tofu and faux meat type dishes, lightly steamed vegetables. Popular among locals who come for the veggie lunch. In the city center but slightly difficult to find as it's in the 2nd backyard. Reported still open, Nov 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "79 A Tran Hung Dao, Hoan Kiem",
+  "phone": "tel:04-39424140",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-1:30pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.022065,105.846941&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.022065,105.846941&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

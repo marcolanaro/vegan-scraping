@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Le Bordeaux Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Pizza, Western, Beer/Wine, European, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Expensive looking, but moderate restaurant, opposite to the train station. Around 20 vegetarian options, some of them vegan, and others that can possibly be made vegan. Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "322 Nguyen Hue Street",
+  "phone": "tel:0203832948",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.495923,103.975215&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.495923,103.975215&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

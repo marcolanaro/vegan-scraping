@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shadal 5",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Delivery, Take-out, Kosher\n                                    ",
+  "description": "Vegetarian restaurant on the ground floor of a synagogue, decorated in pastel colors. Offers many vegan options, including sushi, danish, quiche, sandwiches, pasta, hot dishes, grilled \"cheese,\" salad bar. No extra charge for soy milk in coffee. Delivers locally from 10am-12pm. Business lunch available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5 Shadal St",
+  "phone": "tel:03-5600345",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:30am-4:00pm, Sun 7:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/shadalrest",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.063289,34.774774&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.063289,34.774774&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

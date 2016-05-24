@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Udupi Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Indian, International, Buffet, Take-out\n                                    ",
+  "description": "Serves good Indian and Chinese dishes. Restaurant seats 50 people. Please call for address and let HappyCow know exact address- thanks!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Shk. Mohd. Building, 2, Karama, U.A.E.",
+  "phone": "tel:+9714-3365563",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.264025,55.289426&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.264025,55.289426&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

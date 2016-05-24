@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bardak",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bar and pizza restaurant. Has a tomato based sauce and a long list of toppings that you could get on your pizza (and without cheese). Relaxed atmosphere with music played, plenty of seating. Another branch at 38 Keren Hayesod.",
+  "priceRange": "Moderate",
+  "streetAddress": "4 Beit Yaacov",
+  "phone": "tel:1599599799",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-12:30am, Sat 7:00am-12:30am, Sun 12:00pm-12:30am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/bardakbardq",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.785396,35.211628&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.785396,35.211628&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

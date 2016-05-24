@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cofeba",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western\n                                    ",
+  "description": "Self-described as a vegetarian literature cafe, open since Jan 2015. Offers a daily menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Goethestrasse 42",
+  "postalCode": "8010",
+  "phone": "tel:+43-067761251231",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Cofeba/1581676368730849",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.076900,15.447178&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.076900,15.447178&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

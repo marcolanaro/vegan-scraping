@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "An Lanh ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Juice bar, Take-out, Vietnamese\n                                    ",
+  "description": "Quan an chay veggie buffet style, pay per person. Offers fresh vegetables dishes, mock meat, noodles, rice. Note that map coordinates are slightly off -- please send correct/exact coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "92 Tang Bat Ho",
+  "phone": "tel:+84947905944",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.980048,107.992534&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.980048,107.992534&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

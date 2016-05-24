@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Meshulash",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Take-out, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. On Dizengoff St amongst shops and cafes. There are 4 items on the menu marked for vegans: 2 breakfast, vegetable couscous, and a salad. Has soy milk for coffee.",
+  "priceRange": "Moderate",
+  "streetAddress": "168 Dizengoff Street",
+  "phone": "tel:077-3351612",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-2:30am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafe.meshulash",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.084698,34.774393&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.084698,34.774393&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

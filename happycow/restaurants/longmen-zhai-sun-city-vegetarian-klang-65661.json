@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Longmen Zhai - Sun City Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "龙门斋素食馆 offers vegetarian food.",
+  "priceRange": "Moderate",
+  "streetAddress": "11-13 Jalan Jelai 10KS/1, Telok Gadong Besar",
+  "postalCode": "42000",
+  "phone": "tel:03-31665699/,%20016-2465657",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:30am-2:30pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.017991,101.419162&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.017991,101.419162&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

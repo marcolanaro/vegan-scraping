@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cosme Kitchen Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Italian, Macrobiotic, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located in JR Kyoto station B2F. Vegan choices such as soy minced meat bolognese, keema curry, millet salads are offered. Drinks include organic tea and coffee. Located in Kyoto station B2F Cube.",
+  "priceRange": "Moderate",
+  "streetAddress": "901 Karasuma Shiokojikudaru, Higashioji, Shimogyo-ku",
+  "postalCode": "810-0001",
+  "phone": "tel:075-7465119",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/mfl.CosmeKitchen.cafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.985991,135.758255&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.985991,135.758255&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

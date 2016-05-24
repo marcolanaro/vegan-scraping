@@ -1,0 +1,17 @@
+{
+  "title": "Porteka",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Serves vegetarian and vegan sandwiches, pastries, smoothies and fresh salads. Retail shelves sell gluten-free and sugar-free products.",
+  "priceRange": "Moderate",
+  "streetAddress": "Krúdy utca 9",
+  "phone": "tel:+36703130348",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:00am-6:00pm, Thu 8:00am-7:00pm, Fri 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PortekaGasztro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.490176,19.067894&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.490176,19.067894&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

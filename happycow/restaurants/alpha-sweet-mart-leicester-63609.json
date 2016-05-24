@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Alpha Sweet Mart",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "Indian savory and sweets.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "92 Melton Rd",
+  "postalCode": "LE4 5EB",
+  "phone": "tel:01162667985",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.653196,-1.119862&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.653196,-1.119862&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

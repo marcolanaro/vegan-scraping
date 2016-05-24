@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Don Juan Sabor Latino",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Argentinian, South American, Latin, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. South American cafe set in a park. Uses fresh ingredients with log fire for cooking food. Will cook a vegan meal using a separate pan when you ask. Ask for the vegetable mix in cornflour bread.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dane John Gardens",
+  "phone": "tel:01227378100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/DON-JUAN-sabor-latino/697181550386819",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.275275,1.078225&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.275275,1.078225&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Coco Box",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Farm shop, juice bar, and cafe offering cold pressed juices, blended juices, smoothies, coffee, tea, pastries, and sandwiches. Has soy, almond, and coconut milk for drinks. Sells Saigon Cider. Atmosphere is that of a coffee shop with a few tables, a booth with a couch, high top cafe counter, and it opens to the street. Free Wi-Fi. Owner speaks English and Vietnamese. Prices consider high by local standards.",
+  "priceRange": "Expensive",
+  "streetAddress": "94 Le Loi",
+  "phone": "tel:+84-5103862000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cocoboxvietnam",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.876794,108.328535&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.876794,108.328535&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Houmous Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little snack bar offering warm wraps and pita with various fillings. Vegan choices include falafel, hummus, sauces, salads, and tortilla chips. Uses separate bowls and plates to serve vegan items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Smiths Lane, The Mall",
+  "postalCode": "LU1 2LP",
+  "phone": "tel:07828-130-460",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-6:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/The-Houmous-Bar-Arndale-Centre-Luton/409916339069797",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.878912,-0.413927&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.878912,-0.413927&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

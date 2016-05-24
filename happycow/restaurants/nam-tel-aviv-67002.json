@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nam",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This Thai restaurant has a menu in English with vegan and veganizable items marked in all categories, including egg roll, tom yam soup, noodles, curries, and others. Most items have tofu as an option. Business lunch with 10% discount Sunday-Thursday 12-5pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "275 Dizengoff St",
+  "phone": "tel:03-6708050",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:30pm-5:00pm, 6:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/namrest",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.095301,34.776269&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.095301,34.776269&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Muhtelif Mekan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, International, Italian, Western, Mediterranean, Fusion, Middle Eastern, Spanish\n                                    ",
+  "description": "A vegetarian restaurant, with a daily changing menu which includes plenty of vegan options.  Regular menu items include vegan desserts, salads, vegan soups, vegan balls (like fellah or falafel). Also has a small books and gift shop. Located in the Yeldegirmeni Quartier of Central Kadikoy. The access is either by m4 underground line Kadikoy station or by ferry from Besiktas-Eminonu-Karakoy (etc.) to Kadikoy pier. Friendly atmosphere for stray/pet animals.",
+  "priceRange": "Moderate",
+  "streetAddress": "Feritbey Sokak 18/A",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/muhtelifmekan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.993562,29.029034&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.993562,29.029034&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

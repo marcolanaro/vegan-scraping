@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Woolloomooloo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Italian, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Western food restaurant at 台北市信義區信義路四段379號. Has some vegetarian food like the quinoa avocado salad.",
+  "priceRange": "Moderate",
+  "streetAddress": "379, Sec. 4, Xinyi Road, Xinyi District",
+  "phone": "tel:0287890128",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.033248,121.558130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.033248,121.558130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

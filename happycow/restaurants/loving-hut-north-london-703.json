@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Western, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "Formerly Peking Palace and in 2011 became an official branch of Loving Hut, an international chain of vegan food restaurants opened by followers of Supreme Master Ching Hai, an advocate for veg living. Serving food, coffee, non-alcoholic beverages, and more. Each location is individually owned and operated. Prices are inexpensive to moderate.",
+  "priceRange": "Moderate",
+  "streetAddress": "669 Holloway Rd",
+  "postalCode": "N195SE",
+  "phone": "tel:020-72818989/,%20020-72815363",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 6:00pm-11:00pm, Tue-Fri 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/The-Loving-Hut-International-Co/341117823332",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.565390,-0.133290&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.565390,-0.133290&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

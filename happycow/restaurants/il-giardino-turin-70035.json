@@ -1,0 +1,19 @@
+{
+  "title": "Il Giardino",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Organic, Beer/Wine\n                                    ",
+  "description": "Sleek vegetarian restaurant with a large choice of vegan options. Also has a cooking school.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Giuseppe Barbaroux, 25",
+  "phone": "tel:+390116970071",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-3:00pm, 7:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/giardinoristorantevegtorino",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.072469,7.679081&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.072469,7.679081&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

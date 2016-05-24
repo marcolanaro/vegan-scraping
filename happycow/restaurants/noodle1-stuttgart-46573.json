@@ -1,0 +1,18 @@
+{
+  "title": "Noodle1",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Beer/Wine, Asian, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small eatery with quick service. Menu includes a page of vegetarian dishes plus several interesting juices and cocktails.",
+  "priceRange": "Moderate",
+  "streetAddress": "Willhelmsplatz 1",
+  "postalCode": "70182",
+  "phone": "tel:0711-86020186",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:30am-11:00pm, Thu-Fri 11:30am-11:30pm, Sat 1:00pm-11:30pm, Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.771817,9.178520&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.771817,9.178520&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mim's Emporium",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Vegan store providing wholefoods, organic, chilled, frozen, supplements, toiletries, groceries and gifts, as well as gluten-free products. Discount for bulk purchases. Vegan/animal rights literature.",
+  "streetAddress": "Market Food Hall, Unit 5",
+  "postalCode": "TQ12 2RJ",
+  "phone": "tel:01626-332539",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.530003,-3.603978&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.530003,-3.603978&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fresh Kitchen - Schuster Center Mall",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Juice bar, Take-out, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Marks several vegan items on the menu, including a breakfast, a sandwich, a salad, a dessert, and more. Kosher.",
+  "priceRange": "Moderate",
+  "streetAddress": "Eliyahu Khakim St, Schuster Center Mall",
+  "phone": "tel:03-5472548",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-11:00pm, Fri 8:00am-3:00pm, Sat 8:00pm-12:00am, Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Fresh.kitchen.tlv",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.126312,34.801179&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.126312,34.801179&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

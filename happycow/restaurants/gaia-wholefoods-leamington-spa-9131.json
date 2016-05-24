@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gaia Wholefoods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A co-operative owned wholefood shop offering fresh local and organic produce, health foods, environmentally friendly products, and alternative magazines. All vegan or vegetarian products only.",
+  "streetAddress": "7 Regent Place",
+  "postalCode": "CV31 1EH",
+  "phone": "tel:01926-338805",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.284870,-1.532150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.284870,-1.532150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

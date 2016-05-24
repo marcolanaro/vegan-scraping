@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kale",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Delivers vegan, mostly organic meals and bulk orders. Could arrange for take-out/pick-up. Also hosts cooking workshops on the premises once a month on Saturday. Call for details.",
+  "streetAddress": "Hapoel 36",
+  "phone": "tel:09-9587863",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/kale.order",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.185793,34.814557&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.185793,34.814557&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

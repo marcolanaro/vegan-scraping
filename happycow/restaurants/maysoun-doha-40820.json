@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Maysoun",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Middle Eastern, Arabic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual pool side restaurant offering a variety of vegan starters and salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ain Khalid Gate, 56, Khalil bin Ahmad Street",
+  "phone": "tel:0097444984296",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.280282,51.522476&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.280282,51.522476&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

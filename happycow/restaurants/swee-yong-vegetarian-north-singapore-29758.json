@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Swee Yong Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "An inexpensive stall in the Chong Pang Market and Food Centre serves Chinese vegetarian food with vegan options. Signature dish is bee hoon. Try the vegetarian noodle. Choose your own ingredients or order as shown on menu. Name in Chinese: (瑞荣).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 104 Yishun Ring Road, Unit 01-133, Yishun",
+  "postalCode": "760104",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.431634,103.828649&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.431634,103.828649&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

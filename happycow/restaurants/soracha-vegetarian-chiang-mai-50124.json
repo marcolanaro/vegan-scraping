@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soracha Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Thai\n                                    ",
+  "description": "Menu is 95% vegan. Specializes in regional northern specialties. Menu changes substantially from day-to-day depending on availability and the owner/chef's ideas of what to make. Try the bamboo shoot stuffed with veggie pork; veggie steak; fermented mushroom grapao. No Wi-Fi or English spoken.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Somphot Chiang Mai 700 Pii Rd, On the second Ring Road, about 300 meters north from the promenada intersection",
+  "postalCode": "50210",
+  "phone": "tel:081-6733278",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.767831,99.039953&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.767831,99.039953&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

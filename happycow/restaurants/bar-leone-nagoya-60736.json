@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bar Leone",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Italian, Japanese, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bar near Fushimi station. If you make a reservation at least 12 hours in advance, the chef prepares an all vegan course.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Chome-18-33 Nishiki, Naka Ward",
+  "postalCode": "460-0003",
+  "phone": "tel:052-231-3700",
+  "venueHours": "\n                                                                                                        Mon-Sun 5:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BAR-LEON-1415933558637193",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.169087,136.898827&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.169087,136.898827&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kwan Inn Vegetarian - Banda St",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "观音斋 is inside K88 Coffee House. Serves economic rice, vermicelli, noodles with readily cooked vegetables. On the menu are laksa, porridge, and rice dumplings.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5 Banda Street, Unit 01-52",
+  "postalCode": "050005",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.281417,103.843535&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.281417,103.843535&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

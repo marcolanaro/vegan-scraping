@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fresh Kitchen - London Ministore",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Juice bar, Take-out, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. A few vegan items on the menu, including a breakfast, a sandwich, a salad, and a dessert. Kosher.",
+  "priceRange": "Moderate",
+  "streetAddress": "30 Ibn Gavirol",
+  "phone": "tel:03-6099595",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-11:00pm, Fri 8:00am-2:00pm, Sat 8:00pm-12:00am, Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Fresh.kitchen.tlv",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.074975,34.781799&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.074975,34.781799&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

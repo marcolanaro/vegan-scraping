@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nha Hang Chay Thien y",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Vietnamese\n                                    ",
+  "description": "A vegetarian/vegan Chinese style Chay restaurant serves pho, rice, faux fish and meats, plus pancakes with filling. Pancakes might be with egg, so vegans inquire.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "79 Yersin",
+  "phone": "tel:3813285",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Nhà-Hàng-Chay-Thiên-Ý/423959577740223",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.249431,109.185981&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.249431,109.185981&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

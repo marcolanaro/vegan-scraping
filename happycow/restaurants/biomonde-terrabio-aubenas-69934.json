@@ -1,0 +1,13 @@
+{
+  "title": "Biomonde Terrabio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "Rue de la Sardonne, ZA Moulon Ponson",
+  "postalCode": "07200",
+  "phone": "tel:0475932868",
+  "venueHours": "\n                                                                                                        Mon-Sat 2:30pm-7:00pm, Tue-Sat 9:00am-12:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.617296,4.403369&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.617296,4.403369&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

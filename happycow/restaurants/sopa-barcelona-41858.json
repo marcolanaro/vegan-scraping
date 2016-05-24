@@ -1,0 +1,20 @@
+{
+  "title": "Sopa Barcelona",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Delivery, Take-out, Spanish\n                                    ",
+  "description": "Vegetarian cafe serving soup, salad, and food like a lentil burger. Has free Wi-Fi. Also sells some cooking ingredients. Several locations.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Roc Boronat 114",
+  "postalCode": "08018",
+  "phone": "tel:933095676",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat 10:00am-6:00pm, Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SopaBarcelona",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.402422,2.194990&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.402422,2.194990&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

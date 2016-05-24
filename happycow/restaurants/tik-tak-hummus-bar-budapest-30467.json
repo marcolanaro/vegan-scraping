@@ -1,0 +1,17 @@
+{
+  "title": "TiK TaK Hummus Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Beer/Wine, Take-out, Middle Eastern\n                                    ",
+  "description": "Serves hummus, falafel, and other Middle Eastern food including a vegan version of korm sabzi. Most items are vegan suitable. Uses no dairy, but some desserts have egg which is clearly marked on menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kertesz Utca 39",
+  "postalCode": "1073",
+  "phone": "tel:+36-30-7689450",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.502220,19.065157&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.502220,19.065157&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

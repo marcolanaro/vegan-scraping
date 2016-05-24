@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kanokwan Jae",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Take-out\n                                    ",
+  "description": "Small, family-owned vegetarian restaurant. Owner will custom-make dishes for you.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "385/20 Thanon Pisarn",
+  "postalCode": "56160",
+  "phone": "tel:0810293278",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.521142,100.307994&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.521142,100.307994&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

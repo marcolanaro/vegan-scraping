@@ -1,0 +1,13 @@
+{
+  "title": "Ambrosia Nektar",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store with vegetarian and vegan products available.",
+  "streetAddress": "Ower de Hase 7-9",
+  "postalCode": "49074",
+  "phone": "tel:+49-0-54122458",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-6:30pm, Sat 8:30am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.273804,8.048858&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.273804,8.048858&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

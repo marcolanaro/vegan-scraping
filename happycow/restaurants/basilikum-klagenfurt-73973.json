@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Basilikum",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, European\n                                    ",
+  "description": "A small vegetarian cafe with vegan options. All food is made-in-house using local ingredients. Owner is helpful, friendly and speaks good English.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Haus zur Golden Gans, Herrengasse 1",
+  "postalCode": "9020",
+  "phone": "tel:+43-6644065236",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.625431,14.306616&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.625431,14.306616&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

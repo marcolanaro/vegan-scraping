@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Revital Health at Cambridge",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Acquired by Revital in August 2005 from the previous owners and known previously as Cambridge Health Foods, this store is located in the main shopping area of the University City of Cambridge. Has a juice and smoothies bar, fresh food counter, and shelves stocked with a range of healthy food, natural products, and food supplements.",
+  "streetAddress": "5, Bridge St",
+  "postalCode": "CB2 1UA",
+  "phone": "tel:01223%20350433",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-6:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.208820,0.118020&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.208820,0.118020&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

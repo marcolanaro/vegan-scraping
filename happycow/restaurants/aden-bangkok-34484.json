@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aden",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Store next to Nittaya Kai Yang. Stocks many organic products including \"The King's Project\" brand; some vegetarian friendly foods; rice milk, soy milk and organic cereal; organic fresh produce.",
+  "streetAddress": "Soi Supha Ruam, Bang Sue",
+  "postalCode": "10800",
+  "phone": "tel:+66-291%206474",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.826441,100.533062&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.826441,100.533062&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

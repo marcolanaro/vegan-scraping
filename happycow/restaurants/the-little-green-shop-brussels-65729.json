@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Little Green Shop",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Buffet\n                                    ",
+  "description": "A concept store flower shop and a 100% vegan/vegetarian lunch spot Mon-Fri. Offers a brunch buffet on the weekend. Outdoor seating in the garden.",
+  "priceRange": "Moderate",
+  "streetAddress": "Chaussee d'Alsemberg 314",
+  "postalCode": "1190",
+  "phone": "tel:+32-22181121",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/The-Little-Green-Shop-1511233882428695",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.817200,4.340688&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.817200,4.340688&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

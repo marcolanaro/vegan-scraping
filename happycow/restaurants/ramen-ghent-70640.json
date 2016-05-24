@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ramen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Japanese, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little lunch place making broths and noodles and turns them into ramen soups. Each month the chef picks five dishes and prepares them in the open kitchen-counter. Sample dishes might be a spinach-mushroom-tofu buns and soba noodle salad with kale. Portions are on the small side. Gets crowded so get there early.",
+  "priceRange": "Moderate",
+  "streetAddress": "Oudburg 51",
+  "phone": "tel:0472337236",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/eetramen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.059003,3.724696&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.059003,3.724696&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

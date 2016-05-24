@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Roni Kantor",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A women's clothing boutique selling non-leather shoes and bags, re-worked vintage dresses. Operates another outlet in Jaffa flea-market district. Previously located on Rothschild Blvd.",
+  "streetAddress": "Dizengoff 78",
+  "phone": "tel:972-74-7033488",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-8:00pm, Fri 10:00am-3:30pm, Sun 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Roni.Kantor.Vintage",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.076551,34.774776&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.076551,34.774776&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

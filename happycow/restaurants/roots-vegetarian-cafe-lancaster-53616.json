@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Roots Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic\n                                    ",
+  "description": "A vegetarian cafe opened November 2014. Has plenty of vegan options: about 2/3 mains, 2 soups and cakes. Uses local produce. Has a Saturday brunch. Located around the corner from Penny St. Eco-friendly business.",
+  "priceRange": "Moderate",
+  "streetAddress": "5 George St",
+  "postalCode": "LA1 1XQ",
+  "phone": "tel:01524-923673",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:00am-5:00pm, Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/rootsveggiecafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.046824,-2.799260&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.046824,-2.799260&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

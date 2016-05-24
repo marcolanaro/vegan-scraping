@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lotus Vegetarian Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, BYOB\n                                    ",
+  "description": "Offers a large range of Chinese dishes from rice and noodle dishes to vegetable mains, soups, and mock meats. Owners are originally from Hong Kong and have experience in the food service industry.",
+  "priceRange": "Moderate",
+  "streetAddress": "536 Wilmslow Road",
+  "postalCode": "M20 4BY",
+  "phone": "tel:01614457457",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 12:00pm-1:30pm, 5:00pm-10:30pm, Wed-Thu 5:00pm-10:30pm, Wed-Fri 12:00pm-1:30pm, Fri-Sat 5:00pm-11:00pm, Sun 5:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.430813,-2.228854&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.430813,-2.228854&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Balti Nailsworth",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Take-out, Bangladeshi, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small Bangladeshi restaurant, primarily does take away food. Offers a separate large vegetarian menu and will accommodate requests.",
+  "priceRange": "Moderate",
+  "streetAddress": "Morrisons Car Park, Nailsworth",
+  "postalCode": "GL6",
+  "phone": "tel:01453-839393",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.688435,-2.224093&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.688435,-2.224093&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

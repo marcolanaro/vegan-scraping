@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "k u p u",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic, European\n                                    ",
+  "description": "A peaceful secluded organic all-vegan cafe serving lunch from 11:00 am to 2:00 pm and sweets and drinks until 6:00 pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Yamaguchi-ken, Shunan-shi, Wakamiyacho, 2 Chome−7",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-6:00pm, Wed-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.051486,131.806353&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.051486,131.806353&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

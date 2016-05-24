@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Be Lohas Healthy Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Organic, Malaysian\n                                    ",
+  "description": "乐活有机素食 store sells organic food, health food, and houses also a veg restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "26, Jalan USJ 10/1E, Taipan Business Center",
+  "postalCode": "47620",
+  "phone": "tel:03-56314482",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:30am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.048663,101.583668&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.048663,101.583668&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

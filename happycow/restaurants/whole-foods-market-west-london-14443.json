@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. This location is 3 stories tall, with food counters upstairs for eating-in. Stocks fresh fruits and vegetables including organic produce, deli, vitamins, supplements, personal care products, grocery, and more. Upstairs market cafe open for brunch from 10am on Sunday.",
+  "streetAddress": "The Barkers Building, 63/97 High Street, Kensington",
+  "postalCode": "W8 5SE",
+  "phone": "tel:0207-368-4500",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-10:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.501895,-0.190913&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.501895,-0.190913&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

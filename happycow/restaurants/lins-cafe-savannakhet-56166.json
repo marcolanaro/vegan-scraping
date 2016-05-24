@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lin's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Western, Beer/Wine, Laotian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Asian fusion and western food plus coffee, tea, fresh juices, baked pies. Offers cooking classes, free Wi-Fi, books exchange, tourist information. English spoken. Vegans could ask for yellow or green curry with veggies and tofu, stir fried tofu with tomato, fried mixed vegetables, fried yellow noodle with veggies, fresh spring roll.",
+  "priceRange": "Moderate",
+  "streetAddress": "Latsaphanit Rd, Ban  Xaiyaphoum Village",
+  "phone": "tel:+856-2099881630",
+  "venueHours": "\n                                                                                                        Mon-Tue 8:30am-8:30pm, Thu-Sun 8:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Lins-Cafe/195784493791804",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.557911,104.746669&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.557911,104.746669&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

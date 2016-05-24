@@ -1,0 +1,19 @@
+{
+  "title": "Marktpirat",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Fast food, Beer/Wine, Take-out, European, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A large restaurant with vegetarian and vegan choices. Has soy milk for coffee.",
+  "priceRange": "Moderate",
+  "streetAddress": "Markt 25",
+  "postalCode": "25746",
+  "phone": "tel:048182864161",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:30am-11:00pm, Fri-Sat 8:30am-1:00am, Sun 8:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/marktpirat",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.193997,9.092788&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.193997,9.092788&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

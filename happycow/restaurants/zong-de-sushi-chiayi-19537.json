@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zong De Sushi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Taiwanese\n                                    ",
+  "description": "A typical hole-in-the-wall Taiwanese veggie restaurant. They do have a buffet style area for veggies, though their noodles are more popular. Hongshao noodles and dumplings are popular choices. Chinese name: 宗德素食, address: 博愛路一段419號.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "419, Sec, 1, BoAi Road",
+  "phone": "tel:05-233-1028",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.487400,120.444480&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.487400,120.444480&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

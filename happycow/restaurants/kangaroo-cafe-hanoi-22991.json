@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kangaroo Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Juice bar, Beer/Wine, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This place was set up by an Australian but is staffed and run by local people. It's clean with A/C. The menu and specials board include vegetarian sections. Spicy lo mien noodle soup, fried rice, veggie burgers and chips. Uses organic and locally sourced as much as possible. Operates reliable tours to Ha Long and Sa Pa amongst others. Moved from 18 Bao Khanh Street.",
+  "priceRange": "Moderate",
+  "streetAddress": "22 Bao Khanh Street",
+  "postalCode": "Old Quarter",
+  "phone": "tel:844-38289931",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/realkangaroocafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.033333,105.850000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.033333,105.850000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

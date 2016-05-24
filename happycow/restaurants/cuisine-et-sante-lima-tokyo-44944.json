@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cuisine et Sante LIMA",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic\n                                    ",
+  "description": "Macrobiotic vegan restaurant from the Lima Cooking School opened Jan 2014 at 東京都目黒区東山3-1-6 near Ikejiri-Ohashi station (1 stop from Shibuya in Denentoshi line). For lunch offers 2 types of set menus and a curry plate. From 2-6pm is light food. Dinner is a la carte or a course meal. Also has sweets. The cooking school and a health food store are housed in the same building.",
+  "priceRange": "Moderate",
+  "streetAddress": "Tokyo, Meguro-ku, Higasiyama 3-1-6, Ikejiri",
+  "postalCode": "153-0043",
+  "phone": "tel:03-6701-3277",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ceslima",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.650592,139.686146&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.650592,139.686146&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

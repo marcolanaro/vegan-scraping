@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Virtuoso Foods",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": " NOV 2015 its vegetarian cafe at 7 Harpur St shut/closed. Now offering online order for delivery or pickup by arrangement.",
+  "streetAddress": "Bedford area",
+  "postalCode": "MK40 1LA",
+  "phone": "tel:01234354707",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Café-Virtuoso/124228371063233",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.137554,-0.468480&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.137554,-0.468480&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Ganefryd",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Mediterranean, Take-out, European, North African\n                                    ",
+  "description": "Small cozy vegetarian cafe in the Latin Quarter of Aarhus. Serves burgers, salads, the menu of the day (such as Moroccan stew in the Fall), cake, coffee and more. Most, if not all, dishes come in a vegan variety as well and are clearly marked.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Borggade 16",
+  "postalCode": "8000",
+  "phone": "tel:+4586131636",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-7:00pm, Sat 9:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Cafe-Ganefryd/303753439780643",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.160262,10.208880&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.160262,10.208880&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

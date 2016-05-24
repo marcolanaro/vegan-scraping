@@ -1,0 +1,15 @@
+{
+  "title": "Rasa Express",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Authentic Indian restaurant with vegan options. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "327 Euston Road",
+  "postalCode": "NW1 3AD",
+  "phone": "tel:020-7387-8974",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.524394,-0.139788&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.524394,-0.139788&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

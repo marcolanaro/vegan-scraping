@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Keat Lim Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out\n                                    ",
+  "description": "吉林(斋)素食 serves the daily noodle and rice with side dishes like drum sticks, roasted duck and spring rolls. Vegans please inquire.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "91 Whampoa Drive, Whampoa Drive Food Centre No 01-48",
+  "postalCode": "320091",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.323415,103.854085&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.323415,103.854085&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

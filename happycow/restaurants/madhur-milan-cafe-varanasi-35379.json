@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Madhur Milan Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food\n                                    ",
+  "description": "Located in city center between the main ghat and the famous Golden Temple. Serves north/south Indian food with thalis starting at Rs 25 and vendor style food such as idli sambar (Rs 15), chola bhatura or samosa chaat.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dasaswamedh Ghat Rd",
+  "postalCode": "221001",
+  "phone": "tel:+919415696756",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/MadhurMilanCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.307585,83.010055&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.307585,83.010055&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

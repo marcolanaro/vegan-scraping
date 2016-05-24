@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Earth Tone",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Take-out, Bakery\n                                    ",
+  "description": "Cafe serving desserts, a variety of drink like smoothies, herbal and organic tea and coffee, and western style food like sandwiches and pasta. Sells Thai herbs, natural body care and other products. May 2015 reported it's veg but not totally vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "opposite Maeyen Pagoda",
+  "postalCode": "66",
+  "phone": "tel:+660846628062",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 9:30am-5:00pm, Thu-Sun 9:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.350779,98.450425&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.350779,98.450425&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

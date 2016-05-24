@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lao Thai Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Thai, Beer/Wine, Take-out, Laotian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The in-house menu clearly labels vegan dishes and ones that can be made vegan. Try the crispy tiger prawns made of soy protein. A major plus is that the vegan versions of some dishes include tofu as a substitute (rather than just leaving out the meat). Chef is happy to customize dishes for you; just ask. Located right at the entrance to Cheddar Gorge.",
+  "priceRange": "Moderate",
+  "streetAddress": "The Cliffs",
+  "postalCode": "BS27 3QA",
+  "phone": "tel:01-934-740444",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.280306,-2.772135&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.280306,-2.772135&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mauloa Acai and Cafe",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Acai bowls and smoothies cafe. Has English menu.",
+  "streetAddress": "1 Chome-3-19 Oyodominami, Kita Ward",
+  "postalCode": "531-0075",
+  "phone": "tel:+81-664534441",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/MauloaAcaiAndCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.703747,135.490605&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.703747,135.490605&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

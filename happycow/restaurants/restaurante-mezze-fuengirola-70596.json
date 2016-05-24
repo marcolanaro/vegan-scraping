@@ -1,0 +1,18 @@
+{
+  "title": "Restaurante Mezze",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Organic, Take-out, European, Fusion, Spanish\n                                    ",
+  "description": "A restaurant serving creative mainly vegan food. At mid day there are several set menus to choose from and for dinner a mezze selection. Located behind the Eco Parque.",
+  "priceRange": "Moderate",
+  "streetAddress": "C/ Molino del Viento 9",
+  "postalCode": "29640",
+  "phone": "tel:636935203",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 1:00pm-4:00pm, Thu-Sat 8:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.535936,-4.629090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.535936,-4.629090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

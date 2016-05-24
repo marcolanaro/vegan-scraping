@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "VEG",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "纯源素食 serves economic rice, bee hoon, and ready-made vegetables dishes. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "34, Jalan Orkid, Mentakab",
+  "postalCode": "28400",
+  "phone": "tel:016-7044113/,%20014-9644912",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.482818,102.350104&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.482818,102.350104&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

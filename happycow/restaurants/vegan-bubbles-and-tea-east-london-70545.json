@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Bubbles & Tea",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "Takeaway teahouse offering vegan juices and vegan milk drinks with toppings like agar jelly, tapioca and coconut jelly. Drinks can be cold, warm or iced. Choose your mixture of fruit flavors. Drink contains a base of jasmine green tea from Taiwan.",
+  "streetAddress": "70-73 The Mall, Unit 37, Stratford Centre",
+  "postalCode": "E15 1XQ",
+  "phone": "tel:7438313568",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/http://plus.google.com/103434040213658442866",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.541512,0.000082&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.541512,0.000082&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

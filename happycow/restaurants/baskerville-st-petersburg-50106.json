@@ -1,0 +1,15 @@
+{
+  "title": "Baskerville",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Vegan bakery cafe at Contour Space offering cakes, sweets, lemonades, and juice. All profits go to support homeless dog shelter. Only operates on Saturday.",
+  "streetAddress": "Aptekarsky Prospekt 4",
+  "phone": "tel:+79-214118655",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.969618,30.318200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.969618,30.318200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

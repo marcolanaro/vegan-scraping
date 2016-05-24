@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Japan Vegetarian Society",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "Japan Vegetarian Society is a nonprofit organization (NPO) that was officially founded in May of 2001.",
+  "streetAddress": "c/o Osaka Jogakuin College, 2-26-54 Tamatsukuri,",
+  "postalCode": "540-0004",
+  "phone": "tel:81-6-6761-6427",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.693738,135.502165&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.693738,135.502165&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

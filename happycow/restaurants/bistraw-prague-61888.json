@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bistraw",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Fast food, Juice bar, Take-out, All Raw\n                                    ",
+  "description": "Raw vegan food kiosk in Prague parc Stromovka in the area Tiskarna na Vzduchu, here since 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Areál Výstaviště 67",
+  "postalCode": "17000",
+  "phone": "tel:+420-777676945",
+  "venueHours": "\n                                                                                                        Mon-Sun 2:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/bistraw.cz",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.104956,14.429314&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.104956,14.429314&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Greenlight Cafe & Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Raw, Western, Juice bar, Beer/Wine, Take-out, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Resort restaurant offering healthy choices, including veggie wraps and salads, raw dishes and smoothies.",
+  "priceRange": "Expensive",
+  "streetAddress": "3/28 Moo 1, Fisherman's Village, Bophut",
+  "postalCode": "84320",
+  "phone": "tel:0956157230",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/greenlightcafebar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.559431,100.032938&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.559431,100.032938&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

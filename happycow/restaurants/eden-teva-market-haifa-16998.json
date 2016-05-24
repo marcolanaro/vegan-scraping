@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eden Teva Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large health store offering a large variety of products including organic produce, vitamins, food bars, coffee bar, plants, bakery, kitchenware. There are two food bars with Israeli cuisine and Asian cuisine, both vegan friendly. Jan 2016 reported this outlet is open; the other in Nesher is closed.",
+  "streetAddress": "Hootzot Ha'mifratz shoping zone",
+  "phone": "tel:488186001",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.793800,35.028200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.793800,35.028200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

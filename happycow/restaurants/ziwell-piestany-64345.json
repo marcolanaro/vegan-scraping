@@ -1,0 +1,19 @@
+{
+  "title": "ZiWell",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Indian, Beer/Wine, Take-out, European\n                                    ",
+  "description": "Vegetarian cafe and community center. Food is served Mon-Fri 11am-2pm only. Typically you'll find 1 soup, 2 mains, 2 sides, 1 salad, and 1 dessert. Choose what you'd like.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Winterova 3",
+  "phone": "tel:+421948191750",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-12:00am, Fri-Sat 10:00am-1:00am, Sun 10:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/klubZiwell",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.591290,17.835379&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.591290,17.835379&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

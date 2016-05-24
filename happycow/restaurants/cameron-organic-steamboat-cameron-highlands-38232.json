@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cameron Organic Steamboat",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Organic, Malaysian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This place in Brinchang uses organic vegetables.",
+  "priceRange": "Moderate",
+  "streetAddress": "MDCH 10, Bandar Baru, Brinchang",
+  "postalCode": "39100",
+  "phone": "tel:05-4914807/,%204915011",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.491937,101.387524&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.491937,101.387524&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

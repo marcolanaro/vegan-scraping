@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Doughnut Plant - Lumine Est",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Donut counter with multiple outlets in the city - this one is at 東京都新宿区新宿3-38-1. Makes egg-free donuts from natural ingredients. Offers vegan varieties, including a baked soy milk doughnut and a baked soy milk caramel doughnut plus a couple seasonally changing ones.",
+  "streetAddress": "160-0022 Shinjuku, Shinjuku-ku, Tokyo 3-38-1",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/doughnutplant.jp",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.691324,139.701144&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.691324,139.701144&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

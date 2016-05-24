@@ -1,0 +1,18 @@
+{
+  "title": "Cafe 98",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Fast food, Take-out, Bakery\n                                    ",
+  "description": "A small vegetarian cafe serves organic coffee and tea, salty and sweet treats, organic superfood snacks, daily vegan options and raw cakes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Mannerheimintie 98",
+  "postalCode": "00250",
+  "phone": "tel:+358-465254411",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-5:30pm, Sat-Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Cafe98Mansku",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=60.188217,24.918071&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C60.188217,24.918071&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

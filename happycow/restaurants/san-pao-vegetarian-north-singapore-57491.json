@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "San Pao Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Take-out, Singaporean\n                                    ",
+  "description": "三宝斋 is a food stall inside Hock Lin Hin Coffee Shop. Serves dishes like prawn noodle, kwap chap, wanton noodle, yong tau foo. Daily specials include lor ee, roti prata, mee rebus, and chicken rice. No onion, garlic.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 422, Ang Mo Kio St 42 Unit 01-2508",
+  "postalCode": "560422",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:30am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.367910,103.851518&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.367910,103.851518&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

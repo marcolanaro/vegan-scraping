@@ -1,0 +1,16 @@
+{
+  "title": "La Trattoria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Macrobiotic, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic restaurant with vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Viale Po 13",
+  "phone": "tel:+39053255103",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.845711,11.604099&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.845711,11.604099&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "La Vie Claire",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "Route de Paris, RD 316 (RN16)",
+  "postalCode": "95270",
+  "phone": "tel:0178865369",
+  "venueHours": "\n                                                                                                        Mon 3:00pm-7:00pm, Tue-Fri 10:00am-12:30pm, 2:30pm-7:00pm, Sat 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.132048,2.434642&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.132048,2.434642&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

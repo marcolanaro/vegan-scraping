@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Taishan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Taiwanese\n                                    ",
+  "description": "愛家國際連鎖餐飲 is part of international chain of vegan restaurants opened by followers of Supreme Master Ching Hai, an advocate for veg living. Each location is individual family operated. Serves food, coffee, non-alcoholic beverages. Menu includes some photos. Rice, noodle, hot pots, faux meat plates. Prices cheap to moderate.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "14, Taishan Rd",
+  "postalCode": "260",
+  "phone": "tel:03-9332992",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-2:00pm, 4:30pm-8:30pm, Thu-Sun 11:00am-2:00pm, 4:30pm-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.755759,121.749123&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.755759,121.749123&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

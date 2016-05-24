@@ -1,0 +1,13 @@
+{
+  "title": "Das Freibackhaus",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Organic bakery making bread and pastry from whole grains. Several items are vegan.",
+  "streetAddress": "Glockengießerstraße 42",
+  "postalCode": "23552",
+  "phone": "tel:+49-45175793",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat 7:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.868952,10.692716&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.868952,10.692716&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

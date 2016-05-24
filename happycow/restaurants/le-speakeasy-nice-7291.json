@@ -1,0 +1,15 @@
+{
+  "title": "Le Speakeasy",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Macrobiotic, Organic, Beer/Wine, Take-out\n                                    ",
+  "description": "A small and cosy almost hidden cafe is run by an ex patriate Californian lady. Food is earthy and healthy. Small menu changes daily and usually includes combinations. Open Saturday lunch; closed Saturday evenings during winter.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "7 Rue la Martine",
+  "postalCode": "06000",
+  "phone": "tel:0493855950",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00pm-9:00pm, Mon-Fri 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.701650,7.269350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.701650,7.269350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

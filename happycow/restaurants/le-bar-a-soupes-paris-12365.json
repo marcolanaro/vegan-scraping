@@ -1,0 +1,14 @@
+{
+  "title": "Le Bar a Soupes",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tiny soup place near Bastille offering mostly vegetarian soups. Costs around 10 euro for a meal.",
+  "priceRange": "Moderate",
+  "streetAddress": "33 rue de Charonne",
+  "phone": "tel:0143575379",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-3:00pm, 6:30pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.853280,2.375930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.853280,2.375930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

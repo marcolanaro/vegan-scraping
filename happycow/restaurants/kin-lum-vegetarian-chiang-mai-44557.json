@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kin-Lum Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai\n                                    ",
+  "description": "Vegetarian Thai food restaurant, opened Dec 2013, in the same block as Che Om Bun, on the other side of the block (taken from next alley south). Food is made on the premises. Choose from around 60 different dishes, including appetizers, first and seconds, main courses, and desserts. 20-30 seats. Free Wi-Fi. Located in the same alley as Empress Hotel.",
+  "priceRange": "Moderate",
+  "streetAddress": "199/36 Chang Klan Rd",
+  "postalCode": "50100",
+  "phone": "tel:+66-841700259",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/kinlumvegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.775624,98.999750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.775624,98.999750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

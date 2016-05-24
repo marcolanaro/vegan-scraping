@@ -1,0 +1,14 @@
+{
+  "title": "Unicorn Grocery",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "100% vegan & organic supermarket with deli counter. A workers co-operative. Offers selection in fresh organic fruits and vegetables, sugar free products, fair trade products.",
+  "streetAddress": "89 Albany Road, Chorlton",
+  "postalCode": "M21 OBN",
+  "phone": "tel:0161-861-0010",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:30am-7:00pm, Sat 9:00am-6:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.446130,-2.277080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.446130,-2.277080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Restaurant Fryd",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant at Quality Hotel Klubben. Vegan menu choices are marked and includes 2 starters, 2  main dinners, and 2 desserts. It is advisable to make a reservation.",
+  "priceRange": "Expensive",
+  "streetAddress": "Nedre Langgate 49 ",
+  "postalCode": "3126",
+  "phone": "tel:33359700",
+  "venueHours": "\n                                                                                                        Mon-Fri 4:00pm-11:00pm, Sat 4:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.268136,10.404468&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.268136,10.404468&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

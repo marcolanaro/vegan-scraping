@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Frijoles",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers burritos, burrito bowls, tacos and salads with a large amount of vegan toppings such as black beans, rice, fried peppers and onions, tomato salsa, spicy green salsa, guacamole, lettuce, corn. Casual atmosphere with indoor and outdoor seating in a quiet section of Roppongi right next to Roppongi Hills.",
+  "priceRange": "Moderate",
+  "streetAddress": "Piramide Building, 1F, 6-6-9 Roppongi, Minato-ku, Tokyo",
+  "phone": "tel:03-6447-1433",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/frijoles.jp",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.661867,139.731351&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.661867,139.731351&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

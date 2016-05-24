@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kaoyi Vegetarian Food Mart",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A well-stocked vegetarian shop selling many mock meat products, sauces, staples, dried foods, spices, teas, and drinks.",
+  "streetAddress": "20, Lorong Brunei 2",
+  "phone": "tel:2485719",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.137256,101.712418&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.137256,101.712418&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

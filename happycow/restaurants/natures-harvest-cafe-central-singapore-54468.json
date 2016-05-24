@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nature's Harvest Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Organic, Take-out\n                                    ",
+  "description": "素香之家 serves local Chinese food. No added MSG, garlic or onions. On the menu are items like camellia oil mixed rice, lei cha rice, yam bee hoon and snacks like rojak, and dumpling. Fruit juices and coffee for drinks. Sells packaged organic and health products. Accepts Cash and NETS.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "60 Somme Rd 01-01 Le Somme Bldg",
+  "postalCode": "207876",
+  "phone": "tel:62971220",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.311351,103.858569&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.311351,103.858569&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

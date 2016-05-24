@@ -1,0 +1,17 @@
+{
+  "title": "XOND",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Organic, Western, Fast food, Take-out\n                                    ",
+  "description": "Vegan organic fast food restaurant that offers burgers, sandwiches, nuggets, pizza, and salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hauptstätter Straße 31",
+  "phone": "tel:0711-50485690",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-1:00am, Fri-Sat 11:00am-3:00am, Sun 11:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/xondnixwieveg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.772572,9.179288&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.772572,9.179288&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

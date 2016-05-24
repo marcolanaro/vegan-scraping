@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nature Cafe - The Aperia",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Western, Take-out, Asian, Singaporean\n                                    ",
+  "description": "Makes vegetarian version of many oriental and western dishes. On the menu are 200+ items plus several daily specials. Large selection of hot and cold beverages, including smoothies.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12 Kallang Ave, 01-28, The Aperia",
+  "postalCode": "339511",
+  "phone": "tel:67023962",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.309652,103.864014&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.309652,103.864014&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

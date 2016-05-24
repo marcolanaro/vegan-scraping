@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Food on Tambon Wiang",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Take-out\n                                    ",
+  "description": "Vegan restaurant and shop, has some baked items. One can choose from a few pre-cooked dishes on top of rice. Sells products like sauces, instant noodles, soy meats.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "118 Tambon Wiang, Wiang Pa Pao",
+  "postalCode": "57170",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.365392,99.503569&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.365392,99.503569&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

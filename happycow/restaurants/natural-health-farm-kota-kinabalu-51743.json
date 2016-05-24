@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natural Health Farm",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "In the same mall than \"Natural Green House Shop\", this is smaller with a similar variety as well some exclusive products.",
+  "streetAddress": "1st floor, City Mall, Jalan Lintas",
+  "phone": "tel:012-8853721",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.961670,116.097056&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.961670,116.097056&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Padma",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Classic Indian style restaurant, at 中区幟町10-10, Hiroshima-shi. Has English on the menu, and marks the vegetarian items. Vegans should specify, and staff will assist.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hiroshima-shi",
+  "phone": "tel:082%20836%205838",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Padma/288304571307740",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.393902,132.466870&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.393902,132.466870&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

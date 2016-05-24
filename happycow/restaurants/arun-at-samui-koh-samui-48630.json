@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Arun at Samui",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Owner is an experienced chef who makes cook-to-order Thai food dishes and accommodates vegan requests. On Maenam's ring road, next to the K Bank ATM.",
+  "priceRange": "Moderate",
+  "streetAddress": "248/10 Maenam",
+  "phone": "tel:077-921-566",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-10:00pm, Thu-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.567447,100.003181&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.567447,100.003181&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

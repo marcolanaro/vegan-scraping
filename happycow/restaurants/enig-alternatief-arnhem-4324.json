@@ -1,0 +1,17 @@
+{
+  "title": "Enig Alternatief",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Take-out\n                                    ",
+  "description": "Small and simple place. Food is mostly ovo-lacto vegetarian not vegan). Reservation is advised.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Wielakkerstraat 4",
+  "postalCode": "6811 DB",
+  "phone": "tel:026-4457626",
+  "venueHours": "\n                                                                                                        Mon-Tue 5:00pm-9:00pm, Wed-Thu 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.981690,5.908020&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.981690,5.908020&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

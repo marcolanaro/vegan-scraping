@@ -1,0 +1,19 @@
+{
+  "title": "Timberhill Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Bakery, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A stylish, casual, independent bakery/cafe specializing in sourdough bread; run by a vegetarian/vegan couple. Serves simple food made with quality ingredients. Sourdough bread is made from scratch and is all vegan and organic. Sandwiches include an avocado & sun dried tomato toastie made with the chia & flax sourdough and a hummus & beetroot sourdough sandwich. Also offers a vegan mezze. The brownie and lemon muffin are both vegan cake choices. Serves organic, fair trade coffee (or hot chocolate) which can be made with organic soy milk at no extra charge. Located on an attractive historic street in Norwich good for people watching as there are large windows and outdoor seating in sunny weather.",
+  "priceRange": "Moderate",
+  "streetAddress": "27-29 Timberhill",
+  "postalCode": "NR1 3LA",
+  "phone": "tel:01603-613172",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 8:00am-3:00pm, Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.626323,1.295274&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.626323,1.295274&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

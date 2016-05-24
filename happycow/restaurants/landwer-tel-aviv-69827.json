@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Landwer - Tel Aviv Port",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Mediterranean, Beer/Wine, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. In early-2016 the entire chain of Landwer cafes added even more vegan items to its menu. Options include breakfast, sandwiches, main dishes, and more. This one is located on the Mediterranean at the Tel Aviv Port.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Yordei HaSira",
+  "phone": "tel:03-5449449",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.096276,34.774289&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.096276,34.774289&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

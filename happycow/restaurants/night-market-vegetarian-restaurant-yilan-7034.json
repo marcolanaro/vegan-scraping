@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Night Market Vegetarian Goof",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "Small selection of noodle soups, boiled dumplings, and shaved ice desserts with beans and other chewy things inside. The only vegetarian restaurant at the night market but no English sign to tell you. If you can't find it, ask someone. Address 宜蘭夜市食品街(靠近東港橋下的夜市入口處). Info: 宜蘭夜市唯一一家素食店,老闆和老闆娘是慈濟的志工,他們有很多的湯麵可供你選,還有美味的水餃,燙青菜.另有可口的飯後甜點可選擇,例如:八寶冰,三色布丁...是個你不可錯過的地方.趕快來品嚐店內的美食,和親切的老闆和老闆娘見個面吧. 中式餐點亦可外帶.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Yilan Night Market Food Street",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 5:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.748800,121.758120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.748800,121.758120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bhavani",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Indian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurant. Indian style decor and music. Small menu with several dishes suitable for vegetarians. Broccoli pakora, vegetable curry, aloo baighan masala with rice and naan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Simon Stevenplein 5, Brugge",
+  "postalCode": "B-8000",
+  "phone": "tel:050-339025",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.206480,3.223170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.206480,3.223170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

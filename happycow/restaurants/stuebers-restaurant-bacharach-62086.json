@@ -1,0 +1,18 @@
+{
+  "title": "Stübers Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hotel restaurant. Uses local ingredients. Ask your server for the vegetarian, vegan, or gluten free 4 course menu.",
+  "priceRange": "Expensive",
+  "streetAddress": "Langstr. 50",
+  "phone": "tel:067431243",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.059498,7.768852&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.059498,7.768852&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

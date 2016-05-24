@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Granola Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American style food starting from breakfast and through to dinner. Veg choices include bagel and hummus-based dish, house-made granola, a veg burger, and soup.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bahnhofgürtel 89",
+  "postalCode": "8010",
+  "phone": "tel:+43-316775400",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-11:00pm, Sat-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/GranolaCompany",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.071961,15.419502&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.071961,15.419502&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

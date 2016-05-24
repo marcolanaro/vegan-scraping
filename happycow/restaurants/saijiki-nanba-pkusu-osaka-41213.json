@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saijiki Nanba Pakusu",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Japanese, Buffet, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hotel restaurant offering a large buffet with emphasis on fresh seasonal vegetables but not vegan-friendly. Modern decor.",
+  "priceRange": "Expensive",
+  "streetAddress": "Osaka Naniwa-ku, Osaka-shi Nanbanaka 2-10-70, 6F",
+  "postalCode": "?556-0011",
+  "phone": "tel:06-66368123",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.661851,135.501902&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.661851,135.501902&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

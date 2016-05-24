@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Riverside",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Beer/Wine, Asian, Laotian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu includes a range of vegetarian and vegan dishes listed explicitly. Some of the non-veg stuff may be requested without meat/fish/eggs. Not to be confuse with the other restaurant, RiverView, which does not cater to or care for alternative diets.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Main street",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.258213,100.416581&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.258213,100.416581&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

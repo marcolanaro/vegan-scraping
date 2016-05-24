@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fortunate Vegetarian Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "幸福素食 is a stall located inside Restoran Shanshan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "36, Jalan Harmonium 12, Taman Desa Tebrau",
+  "postalCode": "81100",
+  "phone": "tel:017-7766828",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 7:00am-1:30pm, Fri-Sun 7:00am-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.564645,103.795283&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.564645,103.795283&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

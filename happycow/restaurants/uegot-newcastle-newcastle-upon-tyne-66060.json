@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "ÜGOT",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Fast food, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small chain of cold press juice and health food bars. Offers breakfast pressed fruit smoothies and organic porridge with fruits; lunch wraps with kale and falafel; salads, smoothies; even has vegan frozen yoghurt. Food packaging labels if vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Central Station, Neville St",
+  "postalCode": "NE1 5DL",
+  "phone": "tel:01912612456",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-8:00pm, Sat-Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.969092,-1.616994&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.969092,-1.616994&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

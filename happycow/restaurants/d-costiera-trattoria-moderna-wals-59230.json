@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "D Costiera Trattoria Moderna",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian restaurant. Could try the spaghetti with a side of grilled veggies, and a loaded mixed salad. Uses dairy.",
+  "priceRange": "Moderate",
+  "streetAddress": "Krimpling 2, Wals-Siezenheim",
+  "postalCode": "5071",
+  "phone": "tel:0662850840",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-2:30pm, 5:00pm-10:30pm, Sat-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Divina-Costiera-Wals-Siezenheim-Salzburg/309058829285583",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.788782,12.972021&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.788782,12.972021&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

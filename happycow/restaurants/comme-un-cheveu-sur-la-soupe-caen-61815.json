@@ -1,0 +1,18 @@
+{
+  "title": "Comme un Cheveu sur la Soupe ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Organic, Western, French\n                                    ",
+  "description": "Restaurant, tearoom, and hair salon. Serve fresh organic food. Each day a plate consists of different little dishes features seasonal ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "144 rue Caponière",
+  "phone": "tel:+33-953186406",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.178559,-0.379793&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.178559,-0.379793&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

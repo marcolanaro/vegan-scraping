@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Royal Garden Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located near Gaienmae station. Has some vegan choices on menu. During lunch, only a set lunch can be ordered, but if it is not vegan, you can ask the staff to prepare you something vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Minato, Kita Aoyama 2-1-19",
+  "phone": "tel:03-5414-6170",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/RGC.Aoyama",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.672488,139.720329&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.672488,139.720329&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

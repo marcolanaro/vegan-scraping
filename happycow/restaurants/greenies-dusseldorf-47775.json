@@ -1,0 +1,19 @@
+{
+  "title": "Greenies",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International\n                                    ",
+  "description": "An ecological bistro serves vegetarian and vegan dishes including breakfast, cakes, bagels, soup and other warm meals. Coffee, tea and soft drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Collenbachstrasse 41",
+  "postalCode": "40476",
+  "phone": "tel:+49-0-211-97178879",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/greeniessalat",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.243501,6.782844&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.243501,6.782844&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

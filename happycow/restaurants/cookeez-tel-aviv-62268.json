@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cookeez - Allenby",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Ice cream sandwich shop, has 3 vegan cookies (peanut butter fudge, chocolate chip, snickerdoodle) and 3 vegan ice cream flavors (coconut, dark chocolate, lotus). Choose any 2 cookies per serving.",
+  "streetAddress": "114 Allenby St",
+  "phone": "tel:03-5663833",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:00am-2:00am, Thu 11:00am-3:00am, Fri 10:00am-3:00am, Sat-Sun 11:00am-2:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cookeezTLV",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.063914,34.772815&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.063914,34.772815&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

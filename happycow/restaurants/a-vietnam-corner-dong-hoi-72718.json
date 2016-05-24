@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "A Vietnam Corner",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hostel and restaurant with Wi-Fi catering to travelers. Menu has English and there are a few dishes that can be veganized though some are only for breakfast. The menu lists the ingredients for each dish.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ho Chi Minh Highway, Son Trach",
+  "phone": "tel:0971396662",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/avietnamcorner",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.610952,106.308641&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.610952,106.308641&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

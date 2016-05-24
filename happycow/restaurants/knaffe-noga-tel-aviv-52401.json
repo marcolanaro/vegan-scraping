@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Knaffe Noga",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Take-out, Middle Eastern\n                                    ",
+  "description": "Cafe in Jaffa (Yaffo) specializing in the Middle Eastern knaffe, a sweet or savory treat made with thin \"kada'if\" noodles. Many unusual varieties. Vegan options are based on coconut cream. Casual atmosphere.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8 Ruhama Street, Noga Complex, Jaffa",
+  "phone": "tel:03-5252818",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-11:00pm, Fri 9:00am-5:00pm, Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/knaffe.banamal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.056638,34.760996&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.056638,34.760996&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

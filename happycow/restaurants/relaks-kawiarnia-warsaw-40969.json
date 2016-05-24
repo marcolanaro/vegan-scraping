@@ -1,0 +1,19 @@
+{
+  "title": "Relaks Kawiarnia",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Take-out, Polish\n                                    ",
+  "description": "Coffee shop serving gourmet coffee, hot and cold drinks, vegetarian sandwiches, cookies, and cakes. Relaxed and informal setting.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ul. Pulawska 48, Jaroslawa Dabrowskiego",
+  "postalCode": "02-559",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-9:00pm, Sat 10:00am-7:00pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/kawiarniarelaks",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.143655,21.017848&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.143655,21.017848&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

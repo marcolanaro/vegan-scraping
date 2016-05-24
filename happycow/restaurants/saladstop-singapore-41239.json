@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "SaladStop - Novena Square",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Quick service salad bar chain restaurant offering create-your-own salads. Choose from 30+ toppings which include alfalfa, brown rice, beans, tofu, nuts, and more. Ask the staff to use a fresh chopping board.",
+  "priceRange": "Moderate",
+  "streetAddress": "238 Thomson Road, 02-24,  Novena Square",
+  "postalCode": "307683",
+  "phone": "tel:68200158",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-9:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/SaladStop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.319957,103.843908&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.319957,103.843908&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

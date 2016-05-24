@@ -1,0 +1,15 @@
+{
+  "title": "The Veggie Table",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Fast food, Delivery, Take-out\n                                    ",
+  "description": "A market stall trading at Borough Market on Thursdays, Fridays and Saturdays. They are situated in the area between Bedale Street and Southwark cathedral. Everything is vegan except for one item which has cheese and one of the sauces - please inquire. You can get burgers in a green leaf (£4.00) or in a bun (£5.00; with salad for £7.00) or inside a box (£6.00). Also serves salads (half for £3.00 or full £4.50).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Borough Market, London Bridge",
+  "postalCode": "SEI ITL",
+  "phone": "tel:020-3417-4542",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu 11:00am-4:00pm, Fri 11:00am-6:00pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.505082,-0.090081&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.505082,-0.090081&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

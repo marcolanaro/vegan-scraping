@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xin Dong Jing - New Tokyo Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Asian, Bakery, Malaysian\n                                    ",
+  "description": "新东京 is located inside Frankie's Place Coffeeshop. Offers bakery goods, snacks, and a variety of dishes to eat with rice or noodles.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 555, Ang Mo Kio Ave 10",
+  "phone": "tel:98209208",
+  "venueHours": "\n                                                                                                        Mon-Sun 5:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.371094,103.857023&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.371094,103.857023&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

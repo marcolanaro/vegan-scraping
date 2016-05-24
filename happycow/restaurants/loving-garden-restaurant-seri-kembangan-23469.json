@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Garden",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Fast food\n                                    ",
+  "description": "Chinese name is 爱心园素食. Serves mixed rice & noodles. Simple setup.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "24, Jln SR 7/3, Plaza Serdang Raya",
+  "postalCode": "43300",
+  "phone": "tel:016-639-8872",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.042948,101.704030&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.042948,101.704030&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

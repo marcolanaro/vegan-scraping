@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rebio - Holandska",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Buffet, Salad bar, Juice bar\n                                    ",
+  "description": "One of several Rebio self-serve restaurants, all of which are vegetarian. This one is located in the modern Spielberk office park. Air-conditioned, has Wi-Fi, uses mostly organic produce. The venue has 86 seats, atmosphere is a bit like a modern canteen. Limited vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Holandska 1",
+  "postalCode": "639 00",
+  "phone": "tel:731-463764",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-6:00pm, Sat 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.180287,16.604408&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.180287,16.604408&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

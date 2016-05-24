@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Anise",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store selling cookies (some vegan and labeled), soya milk, dried fruit, nuts, and other products.",
+  "streetAddress": "Emek Refaim 32",
+  "postalCode": "90833",
+  "phone": "tel:02-5636677",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Anise-%D7%90%D7%A0%D7%99%D7%A1-458932757474068",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.763878,35.219742&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.763878,35.219742&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

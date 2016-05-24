@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cơm Chay Bách Thảo",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "Large size com chay restaurant in the city centre near the Ho Xang Thoi lake. Has English menu. Serves traditional Vietnamese dishes like noodle soups (with mock meat) as well as hot pots.",
+  "priceRange": "Moderate",
+  "streetAddress": "86A Đề Thám, Quận Ninh Kiều, Cần Thơ",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.034575,105.781902&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.034575,105.781902&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

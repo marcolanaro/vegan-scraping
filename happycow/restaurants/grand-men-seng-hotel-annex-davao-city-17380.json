@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Grand Men Seng Hotel Annex",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegetarian menu. Try the chop suey with veggie meat.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Magallanes Street",
+  "postalCode": "8000",
+  "phone": "tel:2278937/,%202274775",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.064352,125.606432&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.064352,125.606432&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

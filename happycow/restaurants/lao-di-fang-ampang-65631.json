@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lao Di Fang",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "老地方 serves rice and noodle dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lot D-14, Jalan Bunga Mawar 2, Taman Muda",
+  "postalCode": "68000",
+  "phone": "tel:012-2645794",
+  "venueHours": "\n                                                                                                        Mon-Thu 4:00pm-10:30pm, Sat-Sun 4:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.118376,101.761086&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.118376,101.761086&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "TK6 Bar and Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A place to go out with friends to drink and grab a bite. Mostly fast food on the menu, a few choices for vegetarians. Has salads, a vegetarian taco, quesedilla, and burrito - be sure to order without sour cream or cheese. Located centrally in Susukino on the famous Tanuki street and frequented by foreigners. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "6-5-3 Minami 2 - Jo, Chuo-ku, Jonishi SapporoChuo Ward",
+  "phone": "tel:0112726665",
+  "venueHours": "\n                                                                                                        Mon-Sun 4:00pm-3:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tk6bar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.056764,141.348636&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.056764,141.348636&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

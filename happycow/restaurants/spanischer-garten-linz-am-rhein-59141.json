@@ -1,0 +1,17 @@
+{
+  "title": "Spanischer Garten",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Beer/Wine, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Spanish restaurant that offers many vegetarian dishes with several that are vegan suitable.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kanzlerstr. 10",
+  "postalCode": "53545",
+  "phone": "tel:+49-2644808011",
+  "venueHours": "\n                                                                                                        Mon-Tue 12:00pm-11:00pm, Thu-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.567670,7.280900&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.567670,7.280900&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

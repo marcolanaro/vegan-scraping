@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "33 Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western\n                                    ",
+  "description": "33素食 specializes in mock meats. On the menu are many dishes with veggie chicken rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 409 Ang Mo Kio Ave 10, Unit 01-33",
+  "postalCode": "560409 ",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-8:00pm, Thu-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.362693,103.855344&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.362693,103.855344&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ji Xiang Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Take-out, Singaporean\n                                    ",
+  "description": "吉祥素, inside Choice Coffee shop, serves economic rice, rice, and zichar items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "76 Lorong 25A Geylang",
+  "postalCode": "388258",
+  "phone": "tel:98360200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.315339,103.883202&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.315339,103.883202&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

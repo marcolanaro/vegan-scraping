@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Blue Planet Green People",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "From October to mid-May, BPGP holds a local farmers market in Al Ain on at the Sands Golf Course. Vendors sell organic, local fruits and veg, handicrafts, clothes & jewelry. Offers delivery of 'farm to fork' local, organic produce box to Al Ain area. Order online and deliveries can be picked up near the Hilton hotel on Tuesday.",
+  "streetAddress": "Sands Golf Course",
+  "phone": "tel:971-508308356",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 10:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/blue-planet-green-people-al-ain/232350350225519",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.130162,55.802312&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.130162,55.802312&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

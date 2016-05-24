@@ -1,0 +1,17 @@
+{
+  "title": "Prego Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has pizza with vegan cheese plus other veggie dishes like salads, beetroot carpaccio, and fruit sherbet.",
+  "priceRange": "Moderate",
+  "streetAddress": " Plac Doktora Józefa Rostka 2",
+  "phone": "tel:322019013",
+  "venueHours": "\n                                                                                                        Mon-Thu 1:00pm-9:00pm, Fri-Sat 1:00pm-10:00pm, Sun 1:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pizzapregopl",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.255334,19.010553&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.255334,19.010553&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

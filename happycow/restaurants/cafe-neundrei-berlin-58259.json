@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Neundrei",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Bakery\n                                    ",
+  "description": "Coffee bar offering baked goods, healthier food, and smoothies. Since Mar 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Monbijouplatz 2",
+  "postalCode": "10178",
+  "phone": "tel:03054878287",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/cafeneundrei",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.523105,13.399803&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.523105,13.399803&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

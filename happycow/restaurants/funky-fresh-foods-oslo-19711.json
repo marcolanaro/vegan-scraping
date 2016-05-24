@@ -1,0 +1,20 @@
+{
+  "title": "Funky Fresh Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Fast food, Juice bar, Catering\n                                    ",
+  "description": "Catering company Funky Fresh Foods opened its cafe in August 2014 at the DogA center. Serves burgers, juices, coffee. A small shop area sells organic products and its own labeled products.",
+  "priceRange": "Moderate",
+  "streetAddress": "DogA, Hausmannsgate 16",
+  "postalCode": "0766",
+  "phone": "tel:+47-23292870",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 10:00am-5:00pm, Wed-Fri 10:00am-10:00pm, Sat 12:00pm-10:00pm, Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/FunkyFreshFoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.918592,10.754553&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.918592,10.754553&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

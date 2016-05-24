@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Terre a Terre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Beer/Wine, Take-out, Catering, English\n                                    ",
+  "description": "Contemporary vegetarian food cuisine incorporating multi-ethnic tastes and cooking techniques. A la carte menu, children's menu, afternoon teas, organic wine, sweets. Also sells cookbook and some produce. Non-smoking. Reservations necessary on weekends.",
+  "priceRange": "Moderate",
+  "streetAddress": "71 East Street",
+  "postalCode": "BN1 1HQ",
+  "phone": "tel:01273-729051",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 12:00pm-10:30pm, Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.820180,-0.139210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.820180,-0.139210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Karl Ludwig Haus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, European, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mountain lodge with an organic food restaurant, situated 1,800 meters above sea level, in front of Heukuppe on the Rax, and only accessible by 2 hours hiking. Will provide vegan food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rax 7",
+  "postalCode": "8691",
+  "phone": "tel:+43-2665380",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.685097,15.714556&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.685097,15.714556&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

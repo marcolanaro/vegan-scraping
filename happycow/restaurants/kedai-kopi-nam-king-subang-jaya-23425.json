@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kedai Kopi Nam King",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "No egg 無蛋. Name in Chinese: 南京茶室(素食檔).",
+  "priceRange": "Moderate",
+  "streetAddress": "USJ 10 Taipan, (same row as Ambank)",
+  "postalCode": "47620",
+  "phone": "tel:016-6109981",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.047340,101.583800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.047340,101.583800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

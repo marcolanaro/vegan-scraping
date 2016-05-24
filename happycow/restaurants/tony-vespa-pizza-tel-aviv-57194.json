@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tony Vespa Pizza - Dizengoff Center",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Pizza, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This pizzeria in Northern Tel Aviv has vegan cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "267 Dizengoff St",
+  "phone": "tel:03-5460000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 5:00pm-2:00am, Tue-Wed 5:00pm-3:00am, Thu 5:00pm-4:00am, Fri 5:00pm-5:00am, Sat 5:00pm-3:00am, Sun 5:00pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TonyVespaIsrael",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.094857,34.776426&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.094857,34.776426&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

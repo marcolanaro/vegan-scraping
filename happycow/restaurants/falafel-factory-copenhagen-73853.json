@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Falafel Factory",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Take-out, Middle Eastern\n                                    ",
+  "description": "Falafel bar est. 2016. Offers falafel sandwiches, salads, hummus with chili and carrot, and sides. Small seating area.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Nørrebrogade 63",
+  "phone": "tel:28836633",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Falafelfactory-Kbh-218174285205125",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.690292,12.554559&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.690292,12.554559&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

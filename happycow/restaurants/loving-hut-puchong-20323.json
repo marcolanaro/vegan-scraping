@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Asian, Malaysian\n                                    ",
+  "description": "Part of international chain of vegan restaurants opened by followers of Supreme Master Ching Hai, an advocate for veg living. Each location is individual family owned and operated. Serving all vegan food, coffee, non-alcoholic beverages, and vegan desserts. Has Wi-Fi, private function rooms for 20-100 people.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15, Jalan Puteri 2/7, Bandar Puteri Puchong",
+  "postalCode": "47100",
+  "phone": "tel:03-80627769",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.022813,101.618494&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.022813,101.618494&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,13 @@
+{
+  "title": "Biocoop Bioasis",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "39 bd de la République, BP 80053",
+  "postalCode": "38500",
+  "phone": "tel:0476052634",
+  "venueHours": "\n                                                                                                        Mon-Fri 2:00pm-7:00pm, Tue 9:00am-12:30pm, Wed 8:00am-12:30pm, Thu-Fri 9:00am-12:30pm, Sat 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.363482,5.590092&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.363482,5.590092&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

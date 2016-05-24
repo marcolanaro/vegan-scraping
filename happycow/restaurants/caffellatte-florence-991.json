@@ -1,0 +1,14 @@
+{
+  "title": "Caffellatte",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Organic\n                                    ",
+  "description": "Ristorante vegetariano. Small vegetarian restaurant cafe and latteria. Serves homestyle cooking. Brunch all day. Open hours sometimes changes, so call ahead.",
+  "priceRange": "Moderate",
+  "streetAddress": "La latteria, Via Degli Alfani, 39/r Firenze",
+  "phone": "tel:+39-055-2478878",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.774390,11.262540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.774390,11.262540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

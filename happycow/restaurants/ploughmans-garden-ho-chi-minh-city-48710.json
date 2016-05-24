@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ploughman's Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Organic, Juice bar, Asian, Fusion\n                                    ",
+  "description": "Simple, vegetarian restaurant in lush garden setting run by two Japanese. Furniture is built from reused materials. No artificial chemicals used in cooking. Sources many greens from its garden. Hosts rooftop events like improv and movie screening.",
+  "priceRange": "Moderate",
+  "streetAddress": "Duong So 1, Tran Nao, District 2, HCMC",
+  "phone": "tel:0120-4718834",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ploughmansgarden",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.797442,106.734971&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.797442,106.734971&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

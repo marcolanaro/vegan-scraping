@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thuc Pham Chay Minh Duc",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "A wholesale type shop selling cooking sauces and vegetarian faux meat products made by Au Lac company.",
+  "streetAddress": "378 Tay Son",
+  "phone": "tel:0906267022",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.003824,105.820985&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.003824,105.820985&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

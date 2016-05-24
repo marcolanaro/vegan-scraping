@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Elemen - Thomson Plaza",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, American, Pizza, Chinese, Fusion\n                                    ",
+  "description": "元素 is a contemporary cuisine restaurant and a subsidiary of Koufu. On the menu are a fusion of western style food like mozzarella pizza and tomato basil spaghetti, plus other food like Chinese tea tofu with wheat noodles, avocado roll. Last order is 3pm and 9pm.",
+  "priceRange": "Expensive",
+  "streetAddress": "301 Upper Thomson Rd, Unit 01-113, Thomson Plaza",
+  "postalCode": "574408",
+  "phone": "tel:64520351",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-4:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Elemen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.354697,103.830989&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.354697,103.830989&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

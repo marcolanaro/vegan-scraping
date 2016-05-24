@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Com Chay Thuan Y",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Take-out, Vietnamese\n                                    ",
+  "description": "Located in the shadow of Tuy Hoa's hilltop Cham temple, this small, spartan restaurant serves traditional Vietnamese soups (pho, bun)and rice with a basic selection of vegetables and mock meats.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "60A Phan Dinh Phung",
+  "phone": "tel:01647721144",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.085726,109.301559&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.085726,109.301559&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

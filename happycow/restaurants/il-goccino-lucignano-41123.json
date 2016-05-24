@@ -1,0 +1,17 @@
+{
+  "title": "Il Goccino",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional Tuscan restaurant offering a good selection of vegan dishes clearly labelled on the menu.",
+  "priceRange": "Expensive",
+  "streetAddress": "Via Giacomo Matteotti, 90",
+  "postalCode": "52046",
+  "phone": "tel:+390575836707",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.274510,11.747331&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.274510,11.747331&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

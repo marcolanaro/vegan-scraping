@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Giri Dhari Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indonesian\n                                    ",
+  "description": "A small family-run restaurant offering vegan Balinese food, like nasi campur, nasi goreng, mie goreng, bakso, and cap cay. Owner speaks English and will explain the different vegan dishes served in the restaurant to foreign guests.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Uluwatu Simpangan 7, Jimbaran, Kuta Sel, Kabupaten",
+  "postalCode": "80361",
+  "phone": "tel:0819-99114160",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-8:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.799297,115.160532&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.799297,115.160532&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

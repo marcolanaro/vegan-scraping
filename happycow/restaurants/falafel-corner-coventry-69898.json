@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Falafel Corner",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Juice bar, Take-out, Middle Eastern\n                                    ",
+  "description": "An all-vegan restaurant serves falafel wraps and salads along with a selection of fresh juices and smoothies. All food and drinks are made fresh in front of you. They have a small seating area but are best suited for take-away food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "32 Broadgate",
+  "postalCode": "CV1 1NF",
+  "phone": "tel:07835-833769",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Falafel-Corner-UK-927638573989846",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.407680,-1.510944&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.407680,-1.510944&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

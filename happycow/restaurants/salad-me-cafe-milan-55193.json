@@ -1,0 +1,16 @@
+{
+  "title": "Salad Me Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Organic, Salad bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers breakfast, customizable salads, and has soy milk for coffee drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Prina,14, Angolo Corso Sempione,30",
+  "phone": "tel:0245395000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.480027,9.168290&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.480027,9.168290&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

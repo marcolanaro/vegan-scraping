@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Qing Xiang Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "清香の素食 is a vegetarian vendor inside a meat restaurant. A la carte menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11, Jalan Perniagaan Alma, Taman Rozhan Lorong 1, Alma",
+  "postalCode": "14000",
+  "phone": "tel:016-4973695",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.333601,100.479913&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.333601,100.479913&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

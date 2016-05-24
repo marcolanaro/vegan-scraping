@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Matter Wholefoods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic fruit, vegetables, and wholefood. Offers a platform for developing businesses to sell their creations. Has a deli and sells fresh food and cakes (including raw cake).",
+  "streetAddress": "1 Greenkbank Rd",
+  "postalCode": "BS5 6EZ",
+  "phone": "tel:+44-7711342689",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-7:30pm, Sun 11:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/matterorganic",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.467840,-2.561149&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.467840,-2.561149&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

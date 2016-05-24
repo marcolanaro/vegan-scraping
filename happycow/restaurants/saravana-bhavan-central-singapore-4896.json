@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saravana Bhavan - Syed Alwi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "International franchise vegetarian restaurant specializing in South Indian cuisine. Features an extensive menu with many varieties of dosas, plus curries and entrees in addition to chaat and sweets. Drinks list has fresh juices, fruit shakes, lassi, tea and coffee. Casual dining.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "84 Syed Alwi Rd",
+  "postalCode": "207663",
+  "phone": "tel:62977755",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-11:30pm, Fri-Sat 9:00am-12:00am, Sun 9:00am-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/saravanaabhavan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.309160,103.855920&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.309160,103.855920&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

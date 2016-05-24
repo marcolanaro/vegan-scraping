@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ahimsa Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, International, Indonesian, Banquets\n                                    ",
+  "description": "Food is simple, space is clean. No fridge, but ice in drinks is made from mineral water. Directions: Go just south of the Central Station along main road Jalan Kebon Jati heading west, it is the small alley on the left when coming from Kebon Jati going west.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl. Kebonjati Blk 41 Komp. Luxor Permai Kav. 25, Bandung, West Java",
+  "phone": "tel:022-4234739",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.186190,106.806300&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.186190,106.806300&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

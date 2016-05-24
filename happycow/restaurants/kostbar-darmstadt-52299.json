@@ -1,0 +1,18 @@
+{
+  "title": "Kostbar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Juice bar, Take-out\n                                    ",
+  "description": "Little cafe/health food shop offers snacks, cakes, smoothies, juices, coffee. Has soy, almond, and rice milk for coffee. Gluten free and vegan choices are available, such as made-in-house baked goods and bread.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dieburger Strasse 144",
+  "postalCode": "64287",
+  "phone": "tel:06151-9813664",
+  "venueHours": "\n                                                                                                        Mon-Wed 7:30am-5:30pm, Thu 7:30am-7:00pm, Fri 7:30am-1:00pm, Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/KostBarDarmstadt",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.880880,8.674130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.880880,8.674130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

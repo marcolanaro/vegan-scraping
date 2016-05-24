@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tulasi Vegetarian Restaurant and Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian\n                                    ",
+  "description": "Vegetarian Indian food place located in Little India. Uses some mock meats. Last order 10:30pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "46 Race Course Rd",
+  "postalCode": "218559",
+  "phone": "tel:62993809",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.308254,103.850817&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.308254,103.850817&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

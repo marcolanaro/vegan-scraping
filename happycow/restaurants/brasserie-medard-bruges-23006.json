@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Brasserie Medard",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Typical Belgian brasserie located in the centre of the old Bruges. Quite a number of vegetarian options all clearly labeled and especially what seems to be the most budget-friendly option in town: a properly huge dish of vegetarian spaghetti (pasta, tomato sauce, mushrooms) for approx. 3 Euro. Although the place is not vegetarian, the clear labeling and rarity of the deal both at the level of Belgian brasseries and for restaurants within Bruges, makes it an decent option for vegetarians. Vegans please inquire and inform HappyCow.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sint-Amandsstraat 18, Brugge",
+  "phone": "tel:050348684",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:00am-8:30pm, Fri-Sun 11:00am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.208472,3.222638&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.208472,3.222638&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

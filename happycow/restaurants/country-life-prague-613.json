@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Country Life",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural and organic food shop stocking a range of package and dried food products in addition to a small refrigerated case of foods, and a few natural household products. No vitamins or supplements. Has a veggie food restaurant upstairs.",
+  "streetAddress": "Jungmannova 1, Praha 1, Czechia",
+  "phone": "tel:+420-257-044419",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-6:30pm, Fri 10:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/countrylife.cz",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.079920,14.422090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.079920,14.422090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

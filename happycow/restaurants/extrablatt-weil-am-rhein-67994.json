@@ -1,0 +1,17 @@
+{
+  "title": "Extrablatt",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A traditional restaurant but has also 4 vegetarian dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Blauenstrasse 1",
+  "postalCode": "79576",
+  "phone": "tel:762178030",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:00pm, 6:00pm-10:00pm, Sun 11:30am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.590928,7.597745&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.590928,7.597745&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

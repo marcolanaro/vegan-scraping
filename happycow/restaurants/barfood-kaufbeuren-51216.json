@@ -1,0 +1,20 @@
+{
+  "title": "Barfood",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Fast food, Beer/Wine, Take-out\n                                    ",
+  "description": "Little vegan bar/restaurant serves made-in-house vegan food and cocktails. The second Sunday of the month they offer brunch, by reservation only.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Alleeweg 2a",
+  "postalCode": "87600",
+  "phone": "tel:+49-1632787459",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:30pm-2:00pm, Thu 5:00pm-10:00pm, Fri-Sat 5:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/barfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.881980,10.619830&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.881980,10.619830&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

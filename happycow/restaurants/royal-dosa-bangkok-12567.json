@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Royal Dosa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Indian, Beer/Wine, Take-out\n                                    ",
+  "description": "Indian restaurant. Simple environment, friendly service. Serves a variety of North Indian and South Indian food and sweets.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "122/12 Rajaprarop Rd., Phyathai, Rajtaevee",
+  "postalCode": "10400",
+  "phone": "tel:02-65637878/,%2002-2080559",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.753980,100.539410&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.753980,100.539410&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

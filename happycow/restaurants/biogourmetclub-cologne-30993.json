@@ -1,0 +1,19 @@
+{
+  "title": "BioGourmetClub",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, German, Gourmet\n                                    ",
+  "description": "Offers vegan 3-course meal which includes a drink for around 15 euro. One set menu per day (no choice). Must arrive no later than 1:15.",
+  "priceRange": "Moderate",
+  "streetAddress": "Venloer Strasse 59",
+  "postalCode": "50672",
+  "phone": "tel:+49-022195299622",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 1:30pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/BioGourmetClub",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.943450,6.932580&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.943450,6.932580&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

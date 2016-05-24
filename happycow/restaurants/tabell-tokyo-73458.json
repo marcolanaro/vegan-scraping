@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tabell - Food Truck",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Macrobiotic, Fast food, Take-out only\n                                    ",
+  "description": "Vegan lunch food truck that changes its location daily - check its webpage for latest updates. As of May 2016: Tuesday at Azabu Green Terrace Tokyo, Minami-Azabu 3-20-1; Wednesday at Yurakucho International Forum Marunouchi 3-5-1; Thursday at Ginza 6-17-1; Friday at Aoyama Amber Building, Jingumae 5-38-15.",
+  "priceRange": "Moderate",
+  "streetAddress": "Tokyo area",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/tabell.jp",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.671817,139.728028&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.671817,139.728028&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

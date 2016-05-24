@@ -1,0 +1,17 @@
+{
+  "title": "Ferrovecchio",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Italian, Western, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Burger restaurant, has one vegan burger.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via dei Sabelli, 32",
+  "phone": "tel:064460002",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:30pm-12:30am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.895867,12.513289&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.895867,12.513289&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

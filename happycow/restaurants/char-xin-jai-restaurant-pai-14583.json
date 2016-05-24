@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chew Xin Jai",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Buffet\n                                    ",
+  "description": "Point and choose from the food spread in front of you. A menu is also available. Grab a free map at the bus station, the restaurant is labeled as pure vegetarian food. Previously operated as J-In Pai Restaurant on Th Raddamrang.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "222 Moo 4 Wiang Tai",
+  "phone": "tel:085-7173628/,%20080-8604178",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.356931,98.439428&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.356931,98.439428&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

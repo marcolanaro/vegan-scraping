@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nova Kitchen - MBK",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese restaurant on 1st floor of MBK next to Tops supermarket. Has a separate vegetarian menu - no garlic, onion, eggs, or dairy used. Menu includes soups, noodles, rice, vegetables, faux meat, beverages. Previously on 6th floor.",
+  "priceRange": "Moderate",
+  "streetAddress": "444 Phayathai Rd",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.744909,100.529986&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.744909,100.529986&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Souk al Tayb",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "The Good Market is a weekly farmer's market organized to make local produce accessible in Beirut. There are a couple dozen local vendors offering a mix of things like nut butters, spices, fresh juices and organic vegetables and fruits.",
+  "streetAddress": "Beirut Souks",
+  "postalCode": "961",
+  "phone": "tel:009611442664",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Soukeltayeb",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.899984,35.503279&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.899984,35.503279&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

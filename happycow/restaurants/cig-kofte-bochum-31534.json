@@ -1,0 +1,19 @@
+{
+  "title": "Cig Kofte",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Middle Eastern, Turkish\n                                    ",
+  "description": "This veggie restaurant is nestled in an off street location just across from the city hall. The menu well presented, shows which are vegan suitable. Menu is around half vegetarian and half vegan food: wraps, salad plates, baklava, boreks, and soup.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hans-Boeckler-Strasse  18",
+  "postalCode": "44787",
+  "phone": "tel:023496294240",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.483651,7.215867&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.483651,7.215867&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

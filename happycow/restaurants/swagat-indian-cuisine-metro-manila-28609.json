@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Swagat Indian Cuisine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian cuisine restaurant, while meat-based, also offers vegetarian dishes that are clearly indicated on the menu. Vegans to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "119 FCC Building, Rada Street, Legaspi Village, Makati City",
+  "phone": "tel:5015079",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.555194,121.017783&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.555194,121.017783&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

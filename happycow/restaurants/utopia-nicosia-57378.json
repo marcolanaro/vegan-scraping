@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Utopia",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Shop offering ethically source and organic products, located near the OXI roundabout in Old Nicosia. A buffet is offered every Friday.",
+  "streetAddress": "Areos 48 Nicosia, Cyprus",
+  "postalCode": "1015",
+  "phone": "tel:+35799184191",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.170850,33.365527&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.170850,33.365527&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Salon de Nanadecor",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Organic\n                                    ",
+  "description": "A tea salon set up as an annex to the its organic cotton fashion shop. Offers an organic vegan menu that includes fresh baked bread made by natural yeast, sweets like fruit tart, and drinks like white tea - all served on antique dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "4-22-11, Jingumae, Shibuya",
+  "postalCode": "150-0001",
+  "phone": "tel:03-6434-0965",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/nanadecor/176466555801966",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.668641,139.708586&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.668641,139.708586&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

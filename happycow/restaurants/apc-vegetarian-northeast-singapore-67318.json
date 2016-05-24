@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "APC Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Taiwanese, Singaporean\n                                    ",
+  "description": "小茴香素食 is a stall in Hainan Eating House. On the menu are chicken rice, nasi lemak, laksa, bao and bak kut teh noodle. Directions: Use Exit B from Tai Seng MRT station.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "28, Tai Seng Street, Sakae Building, Unit 01-03",
+  "postalCode": "534106",
+  "phone": "tel:8612-3651",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-6:30pm, Sat 7:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/APC.Vegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.335079,103.889826&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.335079,103.889826&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

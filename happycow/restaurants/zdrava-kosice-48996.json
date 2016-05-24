@@ -1,0 +1,15 @@
+{
+  "title": "Zdrava Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Makes pizzas at Malbo Caffe and delivers. Has vegan cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kysucka 16",
+  "phone": "tel:+421-940408848",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/zdravapizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.720112,21.232361&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.720112,21.232361&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

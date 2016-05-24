@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saras 2Go",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "In the Pratunam area, nearest train station Airport Link - Rajaprarop station. Part of the Saras restaurants, serving Indian meals and snacks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "120/89, Rajaprarop Rd, Soi 1",
+  "postalCode": "10400",
+  "phone": "tel:02-2080001",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/SarasVegFood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.752588,100.541204&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.752588,100.541204&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

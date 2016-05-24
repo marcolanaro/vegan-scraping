@@ -1,0 +1,15 @@
+{
+  "title": "Canape",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Banquets\n                                    ",
+  "description": "Has a large menu and wine list. Garden seating available. Open 12:00-14:00 and 18:00-22:30, closed Tuesday.",
+  "priceRange": "Moderate",
+  "streetAddress": "Gartenstr. 1 (Altstadt, Nordrhein-Westfalen)",
+  "postalCode": "46535",
+  "phone": "tel:02064-17478",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.560060,6.734020&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.560060,6.734020&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

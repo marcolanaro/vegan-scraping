@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hachi Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Indian, International, Japanese, Organic, Beer/Wine\n                                    ",
+  "description": "Relaxed little café with 3 tables and plays soothing music that weighs up for the occasional noise of passing trains. The vibe is international, and the staff speak basic English. On the menu is tea, coffee, beer, smoothie, sandwiches, rice bowl, rice ball, müsli, muffins, lunch of the day. Also sells packaged snacks, essential oils, incense and jewelry. The owner is a yoga teacher who hosts yoga classes on the second floor. It's located under the rails, 150 meters to the right when facing the main entrance of Beppu station.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ekimae Honcho 9-20",
+  "postalCode": "874-0934",
+  "phone": "tel:0977765338",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-5:00pm, Wed-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/HACHICAFE8888",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.280787,131.502217&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.280787,131.502217&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

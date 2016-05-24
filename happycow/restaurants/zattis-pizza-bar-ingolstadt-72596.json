@@ -1,0 +1,14 @@
+{
+  "title": "Zattis Pizza Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria with a few outlets. Sells pizza by the pie or slice. No vegan pizza on the menu, but the kitchen will make a whole vegan pizza by request.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Am Westpark 6",
+  "phone": "tel:8411260277",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.774599,11.388944&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.774599,11.388944&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

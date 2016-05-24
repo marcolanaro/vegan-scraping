@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pizza Me",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Italian, Fast food, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizza place offering vegan cheese and mock meats. Collection or delivery within central Brighton area.",
+  "priceRange": "Moderate",
+  "streetAddress": "The Kiosk, Elm Grove, Hanover",
+  "postalCode": "BN2 3DD",
+  "phone": "tel:01273-622210",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 3:30pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pizzamebrighton",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.831640,-0.126790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.831640,-0.126790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

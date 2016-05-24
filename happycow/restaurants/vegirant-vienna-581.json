@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegirant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo\n                                    ",
+  "description": "Small veggie restaurant. Has a daily changing menu that consists of soup, main meal, and dessert.",
+  "priceRange": "Moderate",
+  "streetAddress": "Währinger Straße 57",
+  "postalCode": "1090",
+  "phone": "tel:+43-01-4078287",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.222870,16.351980&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.222870,16.351980&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

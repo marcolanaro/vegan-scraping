@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Alaska",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Beer/Wine, Bakery\n                                    ",
+  "description": "Offers 4 set meals at around 1260 yen each, which are: brown rice plate, curry plate, pizza plate, and bread plate. Also has rice bowls, a selection of filled bagels, house-made bread and cakes. Vegans to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "2-5-7 Higashiyama Meguro-ku",
+  "phone": "tel:03%206425%207399",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:30am-10:30pm, Thu-Sun 11:30am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.648970,139.691080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.648970,139.691080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

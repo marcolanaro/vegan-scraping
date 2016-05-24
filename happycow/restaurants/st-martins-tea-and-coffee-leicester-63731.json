@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "St Martin’s Tea and Coffee",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop serving a few vegan choices including salad, sides, and sandwich, plus has vegan cake and soya milk for tea/coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-6 St Martin’s Walk",
+  "postalCode": "LE1 5DG",
+  "phone": "tel:01162512879",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 9:00am-5:30pm, Sun 11:00pm-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/StMartins-Tea-and-Coffee-185786768158378",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.634827,-1.134937&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.634827,-1.134937&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

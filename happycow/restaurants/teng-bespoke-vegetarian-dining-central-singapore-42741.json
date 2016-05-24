@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Teng Bespoke Vegetarian Dining",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Japanese\n                                    ",
+  "description": "Vegetarian Japanese restaurant located in Sunshine Plaza. Serves maki, tempura, sashimi, tofu, udon, soba and tonkatsu dishes. Also sells set meals, which come with a milk-based pudding dessert (vegans can change it to salad). Sushi may contain mayonnaise, so check before ordering. Last order is 30 minutes before closing time.",
+  "priceRange": "Expensive",
+  "streetAddress": "91 Bencoolen Street, Unit 01-50",
+  "postalCode": "189652",
+  "phone": "tel:63377050",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300534,103.850828&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300534,103.850828&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

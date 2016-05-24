@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saam Pow Tip",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Buffet, Delivery, Take-out\n                                    ",
+  "description": "Small vegan restaurant, buffet style. Offers selection of mock meat dishes, curry vegetables, rice, noodles. Also sells some grocery items, religious literature, and CDs. Owner speaks English and is involved with non-profit projects to teach vegetarian cooking in remote villages. In 2014 relocated from 251/18 soi Anu Bahn Quan Dalun, San Sai; prior to that was in Mae Jo.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "17 Chang Phuak Road",
+  "phone": "tel:086-586-9059",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 5:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.826654,98.954197&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.826654,98.954197&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

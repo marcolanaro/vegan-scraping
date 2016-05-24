@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "NomVnom",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Fast food, Take-out, Fusion\n                                    ",
+  "description": "Relocated and re-opened here Jan 2016; previously at 50 Market St 01-28D Golden Shoe Carpark since Feb 2015. Vegan fast food eatery serving  burgers plus fries, soup and salad, ice cream and sweets. No garlic or onion used. NETS payment ok.",
+  "priceRange": "Inexpensive",
+  "streetAddress": " 6 Eu Tong Sen St, B1-44 The Central",
+  "postalCode": "059817",
+  "phone": "tel:62244996",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/nomvnom.sg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.288424,103.846694&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.288424,103.846694&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

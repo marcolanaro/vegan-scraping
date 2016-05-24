@@ -1,0 +1,19 @@
+{
+  "title": "Tokyo Sushi Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Japanese, Delivery, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale sushi bar nearby downtown. Labels the vegan options with the word \"vege\"--for example a \"vege lunch.\" Other choices are the californiamaki nigiri with avocado, nigiri with oshinko, and hosomaki.",
+  "priceRange": "Expensive",
+  "streetAddress": "Mściwoja 9",
+  "postalCode": "81-361",
+  "phone": "tel:586696080",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tokyosushibar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.520135,18.537779&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.520135,18.537779&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Liu He Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "六和素食 serves economic rice, vermicelli and other noodles.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "144 Upper Bukit Timah Rd, Beauty World Food Centre, Unit 04-28",
+  "postalCode": "588177",
+  "phone": "tel:64634789",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.342203,103.776158&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.342203,103.776158&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

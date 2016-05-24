@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wan Fu Yen Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food\n                                    ",
+  "description": "Small, open-air hawker style eatery.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "261, Datuk Wee Kheng Chiang Rd",
+  "postalCode": "93450",
+  "phone": "tel:082-413579",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.552709,110.361856&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.552709,110.361856&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

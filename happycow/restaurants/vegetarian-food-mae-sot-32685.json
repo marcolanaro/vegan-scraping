@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Food",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Buffet, Take-out\n                                    ",
+  "description": "Primarily buffet-style vegetarian food eatery that's all vegan. Menu is in Thai, staff speak Thai only. Basic Thai fare that is chosen from pots of pre-cooked food served with red rice. Steamed rice flour rolls, noodle stir fry, and noodle soups also available. Directions: heading away from Tesco towards the main bus station, it's on the right-hand side just before the Night Market, and opposite Supavet Tayakom School.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Thanon Phassartvithi",
+  "postalCode": "63110",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.775183,98.704075&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.775183,98.704075&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

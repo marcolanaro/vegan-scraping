@@ -1,0 +1,13 @@
+{
+  "title": "Biocoop Les Halles",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "6 cour des Halles",
+  "postalCode": "25200",
+  "phone": "tel:0381967868",
+  "venueHours": "\n                                                                                                        Mon 2:00pm-7:00pm, Tue 9:30am-7:00pm, Wed 9:00am-7:00pm, Thu-Fri 9:30am-7:00pm, Sat 9:30am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.509443,6.794700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.509443,6.794700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

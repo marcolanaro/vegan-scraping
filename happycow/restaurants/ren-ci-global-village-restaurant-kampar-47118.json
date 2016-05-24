@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ren Ci Global Village Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Buddhist\n                                    ",
+  "description": "Name 慈地球村随缘素食馆. Buddhist organization affiliate vegetarian restaurant. Volunteer-run. Self service. Pay on donation basis. Dine in only. Other branches in Alor Setar, Sungai Petani, Bukit Mertajam, Sungai Pinang and Chunglun.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "852, Jalan Industry, Taman Bandar Baru Selatan",
+  "postalCode": "31900",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ASRenciGlobalVillage",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.322549,101.135996&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.322549,101.135996&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

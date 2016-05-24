@@ -1,0 +1,18 @@
+{
+  "title": "Hofcafe Leeb",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Italian, Organic, Beer/Wine, Take-out, European\n                                    ",
+  "description": "Organic food cafe.",
+  "priceRange": "Moderate",
+  "streetAddress": "Dorfstraße 5",
+  "phone": "tel:+49-80361420",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sat 11:00am-7:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.845470,12.265860&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.845470,12.265860&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

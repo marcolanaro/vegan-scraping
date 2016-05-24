@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Komala's Restaurant - ARC",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Delivery, Take-out, Catering\n                                    ",
+  "description": "Part of vegetarian Indian food chain in Singapore. Fast food style.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "460 Alexandra Rd PSA Building, 01-01 Alexandra Retail Centre",
+  "postalCode": "119963",
+  "phone": "tel:62766455",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.273531,103.801340&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.273531,103.801340&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

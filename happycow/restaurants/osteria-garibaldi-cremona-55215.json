@@ -1,0 +1,17 @@
+{
+  "title": "Osteria Garibaldi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Old style osteria/bar. Has seitan and tofu dishes alongside the traditional local cuisine. Cozy atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Corso Giuseppe Garibaldi 38",
+  "postalCode": "26100",
+  "phone": "tel:0372-37365",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.136970,10.019700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.136970,10.019700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Marli Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Modest place with friendly atmosphere that's connected to a social welfare organization.",
+  "priceRange": "Moderate",
+  "streetAddress": "At Annen Strasse 1",
+  "phone": "tel:49-0451-8899744",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.863935,10.690294&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.863935,10.690294&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Drivhuset",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic store with a cafe. Offers fresh organic vegetables, personal care and beauty products, plus ready-made vegetarian and vegan food for take home. The owners grow some produce in their own field and greenhouse. Accepts orders for cooked meals and offers delivery.",
+  "streetAddress": "Korsholmvej 178",
+  "postalCode": "9631",
+  "phone": "tel:98645655",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Økologi-i-Drivhuset/206569516044040",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.715904,9.380735&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.715904,9.380735&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

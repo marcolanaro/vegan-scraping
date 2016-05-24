@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zenith Yoga Cafe - Hoan Kiem District",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Raw, Western, Juice bar, Take-out, Asian, Bakery, Fusion\n                                    ",
+  "description": "Its 2nd cafe, opened 2016. Serves vegetarian and vegan food and beverages. Find salads, pizza, rice and noodle dishes, falafel, vegan cookies and cakes. Yoga studios upstairs.",
+  "priceRange": "Expensive",
+  "streetAddress": "62 Ly Thuong Kiet",
+  "phone": "tel:904113637",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-8:30pm, Sun 8:30am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Zenith-Yoga-Caf%C3%A9-II-605058369636717",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.025214,105.844326&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.025214,105.844326&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

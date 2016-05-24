@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "A Healthy House of Groceries",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Japanese adddress 東京都墨田区錦糸　4-7-8-101. Little vegetarian health store selling veggie food products, many types of tea, frozen gluten \"meats, dried soy protein, Asian spices and sauces -- all without the addition of meat or fish products. Opened in summer 2012. Directions: From JR Kinshicho station north exit, walk out and turn right, walk across Yotsume street, the Lotte Hotel building will be on your left, turn left behind the Lotte building, and then turn right, the store will be on the left side.",
+  "streetAddress": "4-7-8 Kinshi Sumida-ku",
+  "postalCode": "130-0013",
+  "phone": "tel:03-66585814",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/HealthyHouseSu",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.697546,139.815994&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.697546,139.815994&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

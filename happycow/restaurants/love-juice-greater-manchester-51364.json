@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Love Juice",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Juice bar, Take-out\n                                    ",
+  "description": "Juice bar and cafe, replaced On the Corner in 2014. Offers vegan-friendly, raw, and gluten-free food. Has vegan cakes. Beverages includes juices, smoothies and shakes made with hemp, almond, coconut or soya milk. Cow milk and bee pollen are the non-vegan items used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "93 Beech Rd, Chorlton",
+  "postalCode": "M21 9EQ",
+  "phone": "tel:01618814841",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:30am-5:00pm, Sat 10:00am-5:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/lovejuiceltd",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.438133,-2.279464&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.438133,-2.279464&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

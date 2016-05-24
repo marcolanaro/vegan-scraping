@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Joy Bar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "喜悅吧, at 北市濟南路一段321號, is a small vegan bar on the business college campus. Offers rice, noodles, sandwich, pizza toast, bagel burgers, and snack foods. Most bread and sauce is made-in-house by the owner. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "321, Sec 1, Jinan Rd,  Zhongzheng District",
+  "phone": "tel:02-23935263",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Joy-Bar/154519461300076",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.042267,121.525318&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.042267,121.525318&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

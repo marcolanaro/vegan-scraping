@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "May Taste",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Delivery, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Makes Vietnamese food that reflect the flavors of Northern and Southern Vietnam. Extensive vegetarian selection. Complimentary tea and fruit with meal. English speaking staff. Cooking classes offered. Kitchen closed from 3-5pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "18C Dang Thai Mai, Tay Ho",
+  "postalCode": "1000",
+  "phone": "tel:+84-437188273",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/maytaste18c",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.062891,105.824534&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.062891,105.824534&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

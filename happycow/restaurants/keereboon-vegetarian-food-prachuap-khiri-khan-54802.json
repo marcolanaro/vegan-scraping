@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Keereboon Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai, Take-out\n                                    ",
+  "description": "A vegetarian/vegan restaurant with an extensive menu. Everything is made-in-house to order, so sometimes the food takes longer depending on what you order and how busy it is. Options with mock meat available. Opposite Prachuap Grand Hotel.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Thanon Sala Cheep",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.807903,99.796994&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.807903,99.796994&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

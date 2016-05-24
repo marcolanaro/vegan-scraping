@@ -1,0 +1,18 @@
+{
+  "title": "Braker's Go - Eisdiele",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, International, Italian, Fast food\n                                    ",
+  "description": "Small ice cream parlor with several homemade vegan soy ice cream options and vegan fruit sorbets. One scoop costs 60 cents. Milkshakes can be made with organic soy milk. During the winter months there are vegan waffles, hot dogs and tortillas with different fillings to be found on the menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bornaische Strasse 42",
+  "postalCode": "04277",
+  "phone": "tel:01773646038",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-8:00pm, Sat-Sun 12:00pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.307570,12.378760&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.307570,12.378760&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

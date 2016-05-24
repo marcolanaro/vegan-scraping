@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Casa Station Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Malaysian\n                                    ",
+  "description": "Chinese Vegetarian Buffet restaurant featuring egg-free dishes. Look for the menu of dishes written on a set of hanging boards on the rear left wall. Located opposite the Star City hotel.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6 Jalan Tengah",
+  "postalCode": "05100",
+  "phone": "tel:+60-47352624",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.125100,100.363180&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.125100,100.363180&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

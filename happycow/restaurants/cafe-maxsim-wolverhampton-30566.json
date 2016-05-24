@@ -1,0 +1,20 @@
+{
+  "title": "Cafe Maxsim",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Mediterranean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small, family-run bistro-style cafe in the city centre. Offers a wide range of tapas mezze dishes at approx. £4-£5 per dish. Some dishes are vegetarian (some vegan) or can be adapted for a veggie diet by request. Unlicenced, so BYO.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "87 Darlington Street",
+  "postalCode": "WV1 4EX",
+  "phone": "tel:01902428999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 8:30am-3:00pm, Fri-Sat 6:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/cafemaxsimwolverhampton",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.585637,-2.130765&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.585637,-2.130765&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

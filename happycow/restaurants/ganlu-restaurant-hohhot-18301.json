@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ganlu Restaurant - maybe closed",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "Chinese Name: 甘露餐饮店 Chinese Address: 呼市新华大街金融大厦52号. NOTE: maybe closed/shut down, please verify and let HappyCow know.",
+  "priceRange": "Moderate",
+  "streetAddress": "No.52,  Xinhua St.",
+  "phone": "tel:8613904713472",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.823690,111.677880&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.823690,111.677880&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

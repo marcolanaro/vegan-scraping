@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Fiesta",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican restaurant serving plenty of clearly labeled vegan dishes. Has an inexpensive lunch buffet offering 3 vegan dishes. Sometimes it looks like the restaurant is closed if you look through the windows in the ground floor, but there is another door around the corner and you have to enter there and go to the first floor.",
+  "priceRange": "Expensive",
+  "streetAddress": "Magazingasse 10",
+  "postalCode": "4020",
+  "phone": "tel:+430660-3783133",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/lafiestalinz",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.299815,14.289922&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.299815,14.289922&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aroma Maitri",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Fast food, Take-out, Indonesian\n                                    ",
+  "description": "Vegetarian restaurant serving dishes such as wonton noodle, nasi padang, nasi lemak and many more. Has plenty of vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl Wahidin Medan 140, Medan",
+  "phone": "tel:+6261-4521079",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.588272,98.698452&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.588272,98.698452&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

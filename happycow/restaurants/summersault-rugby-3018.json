@@ -1,0 +1,17 @@
+{
+  "title": "Summersault",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Beer/Wine, Take-out, British, English\n                                    ",
+  "description": "Coffeehouse and restaurant where everything is cooked in-house using organic ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "27 High Street",
+  "postalCode": "CV21 3BW",
+  "phone": "tel:01788543223",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-4:30pm, Fri 9:00am-9:00pm, Sat 9:30am-4:30pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.370813,-1.262897&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.370813,-1.262897&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

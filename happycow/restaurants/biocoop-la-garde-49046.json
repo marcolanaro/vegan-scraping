@@ -1,0 +1,13 @@
+{
+  "title": "Biocoop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "An organic health shop stocking a large selection of veg products. Biocoop is a french sign of organic food, fair trade products, and fresh local fruits and vegetables.",
+  "streetAddress": "505 avenue Robespierre",
+  "postalCode": "83130",
+  "phone": "tel:0494338166",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:00am-1:00pm, 3:00pm-7:00pm, Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.134806,6.024780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.134806,6.024780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

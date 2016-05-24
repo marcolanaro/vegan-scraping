@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bites and Wines - Onschuldig Genieten",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Beer/Wine, Delivery, Take-out, European\n                                    ",
+  "description": "Small vegan restaurant serving Belgium lunch, cake, tea, coffee, and wine. Gluten free options. Delivers Tue-Thur.",
+  "priceRange": "Moderate",
+  "streetAddress": "Oude Beurs 60",
+  "postalCode": "2000",
+  "phone": "tel:03-2335145",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Bites-Wines/1440445659552771",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.221524,4.402265&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.221524,4.402265&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

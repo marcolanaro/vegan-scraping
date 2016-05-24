@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Bakery",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "綠帶純植物烘焙, at 台北市松山區延壽街171號, is plant-based vegan bakery that uses natural ingredients. Opened Apr 2015 at a 15-minute walk from Nanjing Sanmin MRT.",
+  "streetAddress": "171, Yan Shou St, Songshan District",
+  "phone": "tel:02-27477668",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/greenvbakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.056830,121.562098&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.056830,121.562098&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

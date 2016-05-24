@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jack's Cat Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Vietnamese\n                                    ",
+  "description": "Cafe at the Vietnam Cat Welfare shelter which houses rescue cats. Serves vegetarian food and drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Le Hong Phong",
+  "postalCode": "563889",
+  "phone": "tel:975832515",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-3:00pm, Fri-Sun 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/jackscatcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.893903,108.327368&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.893903,108.327368&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Healthy Farm",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Asian, Vietnamese\n                                    ",
+  "description": "An all-vegan restaurant and market. Choose your ingredients (pay per item) and they'll be cooked for you. Also has an ice cream machine. Market sells ingredients for cooking (not ready-to-eat snacks). English menu. Wi-Fi and power outlets. Last orders 20min before closing time.",
+  "priceRange": "Moderate",
+  "streetAddress": "42 Tran Hung Dao, District 1",
+  "phone": "tel:0932-002161",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.766796,106.694144&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.766796,106.694144&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Godot",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Beer/Wine, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. In the former location of the defunct veg restaurant Illa de Gracia. Offers western style food, has a few vegetarian starters and a tofu burger; uses dairy and eggs.",
+  "priceRange": "Moderate",
+  "streetAddress": "Carrer Sant Doménec 19",
+  "postalCode": "08012",
+  "phone": "tel:933682036",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.400167,2.156961&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.400167,2.156961&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

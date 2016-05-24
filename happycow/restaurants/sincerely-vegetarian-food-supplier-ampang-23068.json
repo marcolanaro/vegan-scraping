@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sincerely Vegetarian Food Supplier",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Name in Chinese: 佛心齊料供應商. Vegetarian food manufacturer and supplier of vege meat and vege processed food.",
+  "streetAddress": "Lot 34, Batu 7, Jln Ulu Klang",
+  "postalCode": "68000",
+  "phone": "tel:+603-4256-0161",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.162568,101.751101&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.162568,101.751101&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

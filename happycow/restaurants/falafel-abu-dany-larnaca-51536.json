@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Falafel Abu Dany",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Middle Eastern, Lebanese, Arabic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lebanese restaurant in the city center. Offers mostly vegetarian and vegan dishes and only two meat choices. Dishes consist of falafel pitas, dips and salads. All menu items are clearly labeled and include gluten free items. Offers grilled falafel as an alternative to fried. Try the falafel popcorn.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Grigori Afxentiou 2 Akamia, center shop 10 ",
+  "phone": "tel:24400669",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.917890,33.635506&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.917890,33.635506&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

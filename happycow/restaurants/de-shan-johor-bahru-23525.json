@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "De Shan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "Offers healthy Chinese vegetarian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "41, Jalan Laksamana 1, Taman Ungku Tun Aminah",
+  "postalCode": "81300 Skudai",
+  "phone": "tel:019-7901932",
+  "venueHours": "\n                                                                                                        Mon-Tue 6:30am-9:00pm, Thu-Sun 6:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.526313,103.667434&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.526313,103.667434&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

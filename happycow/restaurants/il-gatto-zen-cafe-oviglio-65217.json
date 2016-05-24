@@ -1,0 +1,19 @@
+{
+  "title": "Il Gatto Zen Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Italian\n                                    ",
+  "description": "A small 100% vegan/vegetarian restaurant inhabited by a friendly colony of kittens.",
+  "priceRange": "Moderate",
+  "streetAddress": "Piazza Roma 1",
+  "postalCode": "15026",
+  "phone": "tel:3388665360",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 4:00pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gattozencafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.861348,8.489512&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.861348,8.489512&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

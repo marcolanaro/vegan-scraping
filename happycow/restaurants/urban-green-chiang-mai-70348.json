@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Urban Green",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small organic health store selling vegetarian and vegan produce like vegan yoghurt, soy milk, cereals, snacks plus books and some toiletries like shampoo and soap.",
+  "streetAddress": "62/4 Samlaan Rd. T. Phra Sing",
+  "postalCode": "50200",
+  "phone": "tel:052-061942",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/urbangreenorganic",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.783657,98.981667&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.783657,98.981667&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

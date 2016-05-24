@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Just Falafel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Middle Eastern\n                                    ",
+  "description": "Chain fast food restaurant located in the food court of Taj Mall. NOTE: As of 2015, this chain is serving meat in many of its locations - please verify if meat is served at this location and let HappyCow know!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Taj Mall",
+  "phone": "tel:077-753-7720",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/justfalafel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.956313,35.943489&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.956313,35.943489&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

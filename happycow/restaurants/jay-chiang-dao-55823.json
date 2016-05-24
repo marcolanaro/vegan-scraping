@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jay - Food Stall",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Fast food, Take-out\n                                    ",
+  "description": "Food stall located across the street from Chiang Dao Inn hotel at a block north and across from the road that takes you to the nest and the cave. Look for the big Thai veg signage and the word \"vegetarian.\" Please send correct map coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "107",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.368610,98.950475&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.368610,98.950475&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

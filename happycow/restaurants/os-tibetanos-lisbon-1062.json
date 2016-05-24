@@ -1,0 +1,15 @@
+{
+  "title": "Os Tibetanos",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Juice bar, Portuguese\n                                    ",
+  "description": "Vegetarian restaurant affiliated with a Buddhist center.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rua do Salitre, 117, Lisboa",
+  "postalCode": "1250-198",
+  "phone": "tel:+351-213142038",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-3:00pm, 7:00pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.719780,-9.148700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.719780,-9.148700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

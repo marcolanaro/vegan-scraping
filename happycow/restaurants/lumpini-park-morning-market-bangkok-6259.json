@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lumpini Park Morning Market",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Thai\n                                    ",
+  "description": "Food is available until about 9am. Thai Chinese dishes, desserts and  drinks are made fresh every Tues-Fri. Directions to morning market in Lumpini Park: go in the park entrance on Rama IV road across from the HSBC and Abdul Rahim Buildings (there is also a bus stop there). Walk in and take the first right. Walk about 50 meters and the market will be on your right. There are a few vegetarian stalls on the back side. Signs are in Chinese and Thai, ask for \"kin jeh\" (vegetarian).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lumpini Park",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.728110,100.540770&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.728110,100.540770&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

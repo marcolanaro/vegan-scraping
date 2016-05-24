@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Falafel Al Hana",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available.  Formerly all veg, but now offer meat as well. Specialty is their recipe for falafel. Features small or large falafel pita sandwiches, self-service salad and toppings bar. Approximately £3.20 for a small sandwich to £4.80 for a large sandwich with aubergine & humus.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "86 Claypath",
+  "postalCode": "DH1 1RH",
+  "phone": "tel:+441913830607",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.778090,-1.573310&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.778090,-1.573310&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

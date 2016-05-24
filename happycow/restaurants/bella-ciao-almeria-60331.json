@@ -1,0 +1,17 @@
+{
+  "title": "Bella Ciao",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tapas bar where vegans could get the soy burger, falafel, and pasta. In the old town.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle Trajano 21",
+  "postalCode": "04001",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.838053,-2.465198&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.838053,-2.465198&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

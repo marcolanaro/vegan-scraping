@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lee Ganae Gimbap",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Take-out, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A family-owned restaurant in the basement of Hill Castle Plaza, 2 blocks from Incheon City Hall station. Seats 14. Specializes in gimbap and other bunshik fast Korean food. Vegan-optional dishes include: gimbap, jjeolmyeon (chewy spicy buckwheat noodles), and ddeokbokki (spicy rice cake stew).  Sun dubu (spicy tofu stew) and doen-jang jigae (fermented soybean paste stew) are available Monday, Tuesday, Thursday. Owner speaks English, Mandarin, Japanese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Guwol-Ro 212, Guwol-Dong, Namdong-gu",
+  "postalCode": "405-823 ",
+  "phone": "tel:032-4734566",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-8:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.455892,126.714182&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.455892,126.714182&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

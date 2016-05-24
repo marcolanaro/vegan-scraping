@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Plantiful",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small shop and deli cafe opened early-2015 and is around 95% vegetarian with vegan choices labeled, such as cakes and non-dairy milks (almond, white bean). Main items are organic salads with house-made dressing.",
+  "priceRange": "Moderate",
+  "streetAddress": "1st Floor, Market Plus, Sukhumvit 83",
+  "phone": "tel:0615192656/,%200929564566",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/plantiful/1581168655487803",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.697610,100.609228&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.697610,100.609228&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

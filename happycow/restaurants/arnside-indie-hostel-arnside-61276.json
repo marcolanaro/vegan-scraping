@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Arnside Indie Hostel",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Budget accommodation offering breakfast, lunch, and evening meal service. Non-veg but could call ahead to arrange for vegetarian, vegan, or gluten free.",
+  "streetAddress": "Oakfield Lodge",
+  "postalCode": "LA50AT",
+  "phone": "tel:01524761781",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Ansideindependenthostelandstudycentre",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.198226,-2.840966&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.198226,-2.840966&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

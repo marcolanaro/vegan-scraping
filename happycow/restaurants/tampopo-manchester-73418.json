@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tampopo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Fast food, Take-out, Asian, Vietnamese, Singaporean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. East Asian food restaurant with a few outlets. Food types range from Vietnamese and Japanese to Indonesian and Singaporean noodle and rice dishes. Has express lunch menu. Marks the vegetarian and vegan options. For dessert the banana fritters and mango sorbet are vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Albert Square",
+  "phone": "tel:01618191966",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TampopoRestaurants",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.479376,-2.244794&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.479376,-2.244794&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

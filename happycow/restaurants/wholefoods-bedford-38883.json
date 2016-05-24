@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wholefoods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Independent store providing a range of health foods, whole grains, and other cooking supplies. Lots of vegan friendly products.",
+  "streetAddress": "1 Thurlow Street, Bedford",
+  "phone": "tel:01234213929",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.137044,-0.471420&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.137044,-0.471420&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

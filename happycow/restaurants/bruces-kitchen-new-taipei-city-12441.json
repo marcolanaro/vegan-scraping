@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bruce's Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western\n                                    ",
+  "description": "布佬廚房, at 台北新店市車子路137號 is a Xindian veggie restaurant that serves pizza, pasta, rice.",
+  "priceRange": "Moderate",
+  "streetAddress": "137, Che-Tze Rd, Xindian District",
+  "postalCode": "23155",
+  "phone": "tel:02-86666181",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:30pm, 2:30pm-5:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.948070,121.505090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.948070,121.505090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

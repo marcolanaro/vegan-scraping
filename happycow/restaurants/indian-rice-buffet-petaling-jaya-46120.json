@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wisma Ali Bawal Foodcourt - Indian Rice Buffet",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, Buffet, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food buffet, offers some vegetarian dishes separated from the meat section. Uses tofu in place of paneer. On Friday a vegan biryani is offered instead of the usual rice. Price for a plate is about 6-8RM.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11, Jalan Tandang, Wisma Ali Bawal Foodcourt",
+  "postalCode": "46050",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.087653,101.636384&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.087653,101.636384&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hotel Am Brilliantengrund",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Filipino, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hotel restaurant/cafe. Owner's mother cooks food from the Philippines. Has tofu dishes labeled as vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bandgasse 4",
+  "postalCode": "1070",
+  "phone": "tel:015233662",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-10:00pm, Sat-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/brillantengrund",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.200793,16.346099&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.200793,16.346099&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

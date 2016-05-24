@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Guru Coffee House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Juice bar, Take-out, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop with juice bar and retail area selling wholefoods, supplements, and protein bars. Kitchen prepares meatstuff separately from veg. Has soya and almond milk for drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "29 Brunswick Rd",
+  "postalCode": "GL1 1JE",
+  "phone": "tel:01452532827",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-7:00pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Guru-Coffee-House/1620398628218238?pnref=lhc",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.861877,-2.246135&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.861877,-2.246135&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

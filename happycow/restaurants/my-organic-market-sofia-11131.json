@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zelen Bio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic vegetarian store and bakery in the city center. Offers a variety of products including bulk grains and seeds, gluten free, raw and vegan food items, baby diapers, cosmetic, house cleaning products, eco-friendly toys. Freshly baked wholegrain bread. Previously was My Organic Market.",
+  "streetAddress": "Ulitsa Peter Parchevich 48",
+  "phone": "tel:+359-878878360",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-8:00pm, Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.690586,23.320917&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.690586,23.320917&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

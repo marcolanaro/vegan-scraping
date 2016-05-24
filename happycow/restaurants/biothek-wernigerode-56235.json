@@ -1,0 +1,17 @@
+{
+  "title": "biothek",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural and organic food market with a bio-bistro attached.",
+  "streetAddress": "Marktstraße 13",
+  "postalCode": "38855",
+  "phone": "tel:+49-3943557892",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BiothekWR/timeline?ref=page_internal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.832576,10.785187&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.832576,10.785187&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

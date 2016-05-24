@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shanti",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Salad bar, Juice bar, Take-out, Catering\n                                    ",
+  "description": "A small juice bar/cafe serving raw food only. Items include smoothies, juices, salads, soups and desserts. Makes custom order whole cakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Dubrovacke Bratovstine 27",
+  "phone": "tel:052-356174",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Shanti-Sirova-Hrana-Raw-Food-1633880513554952",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.870959,13.849865&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.870959,13.849865&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

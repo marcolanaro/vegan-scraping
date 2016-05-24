@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Merkur",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Relaxed cafe in the 8th District. Offers several veg choices, including tofu dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lammgasse 1",
+  "postalCode": "1080",
+  "phone": "tel:+43-19905413",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Cafe-Merkur/167843886645846",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.211993,16.351858&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.211993,16.351858&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

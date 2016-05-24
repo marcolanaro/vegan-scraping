@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jin Siow Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "靖孝素食 serves a wide selection of rice and noodle items.",
+  "priceRange": "Moderate",
+  "streetAddress": "1 Jalan Tun Razak, Mentakab",
+  "postalCode": "28400",
+  "phone": "tel:012-3303048",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:30am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.487418,102.347858&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.487418,102.347858&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

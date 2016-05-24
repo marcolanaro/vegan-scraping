@@ -1,0 +1,16 @@
+{
+  "title": "Pizza Moji",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Take-out\n                                    ",
+  "description": "Serves vegetarian and vegan pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ludgerusstr 3",
+  "postalCode": "45239",
+  "phone": "tel:+49-201-61234919",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Pizza-Moji/359328480783807",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.393863,7.001897&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.393863,7.001897&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

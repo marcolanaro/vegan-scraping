@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vrindavan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian\n                                    ",
+  "description": "South Indian food, has masala dosa. Directions: when you find the American Mission Hospital, locate the Catholic Church right past it, and the restaurant is on the same side as the Catholic Church, on the left. NOTE: Please send exact map coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "past American Mission Hospital and Catholic Church on left, Manama",
+  "phone": "tel:9734456511",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.216667,50.583333&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.216667,50.583333&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

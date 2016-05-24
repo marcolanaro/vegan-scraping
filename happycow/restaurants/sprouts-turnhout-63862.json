@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sprouts",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Raw, Western, Beer/Wine, Take-out, Catering\n                                    ",
+  "description": "A 100% organic plant based restaurant. Serves a weekly changing menu in a fresh & cozy contemporary atmosphere. Uses many local ingredients when possible. Specializes in raw food desserts. Drinks are organic and mostly sugar free. Extensive wine list available. Prefers reservations, but walk-ins are welcome.",
+  "priceRange": "Moderate",
+  "streetAddress": "Baron Frans du Fourstraat 4 bus 7, Tweetorentjesplein/Bloemekesgang",
+  "postalCode": "2300",
+  "phone": "tel:+32-468329078",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sproutsresto",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.323793,4.950599&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.323793,4.950599&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

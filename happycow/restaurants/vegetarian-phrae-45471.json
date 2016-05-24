@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai\n                                    ",
+  "description": "Go from Chaiyabun, Phrae provincial prison to Tourism Authority of Thailand office in Ban Mai. Turn right after the office. After 50m on youre left is an vegetarian restaurant. Opposite the TAT parking place.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "near Ban Mai",
+  "phone": "tel:0123456789",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.148313,100.146016&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.148313,100.146016&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

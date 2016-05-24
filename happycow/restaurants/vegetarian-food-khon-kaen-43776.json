@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai\n                                    ",
+  "description": "Local vegetarian restaurant. Large interior. Closed holidays.",
+  "priceRange": "Moderate",
+  "streetAddress": "side road from Soi Theparak 5",
+  "phone": "tel:0894214116",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.432486,102.830039&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.432486,102.830039&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

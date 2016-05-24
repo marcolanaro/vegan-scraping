@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Her Huay Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai\n                                    ",
+  "description": "Small restaurant with shop that sells vegetarian products.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "238/2-3 Sanambin Road, Lampang City",
+  "postalCode": "52000",
+  "phone": "tel:054-351308",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.744048,99.723267&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.744048,99.723267&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

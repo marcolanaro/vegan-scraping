@@ -1,0 +1,17 @@
+{
+  "title": "Coffee Fellows",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Take-out, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. German coffee bar franchise, this outlet is by Hamburg HBF. Marks the vegan items. Vegans could get the avocado bagel or the grilled vegetables bagel. Has soymilk for coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hachmannplatz 16",
+  "postalCode": "20099",
+  "phone": "tel:04030374883",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-9:00pm, Sat-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.554131,10.007295&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.554131,10.007295&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

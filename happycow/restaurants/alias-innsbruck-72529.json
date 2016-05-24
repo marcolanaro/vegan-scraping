@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Alia's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Fast food, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Arabic cuisine where you could get falafel, hummus, and other Arabic dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blasius-Hueber-Straße 16",
+  "phone": "tel:0512282272",
+  "venueHours": "\n                                                                                                        Mon 11:30am-3:00pm, 5:00pm-8:00pm, Wed-Fri 11:30am-3:00pm, 5:00pm-8:00pm, Sat 11:30am-3:30pm, Sun 11:30am-3:00pm, 5:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/AliasKueche",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.266083,11.384047&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.266083,11.384047&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

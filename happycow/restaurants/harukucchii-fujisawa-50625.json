@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Harukucchii",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Japanese, Beer/Wine, Bakery\n                                    ",
+  "description": "Small (12 seats) cozy vegan restaurant located 5 minutes from Fujisawa JR station (or 10 minutes from Fujisawa Enoden Station). Serves 4 different sets for lunch and a la carte for dinner. It also has vegan cakes and ice cream. Address in Japanese: 神奈川県藤沢市鵠沼花沢町3-22.",
+  "priceRange": "Moderate",
+  "streetAddress": "Fujisawa-shi, Kanagawa-ken, Kugenumahanazawacho 3-22",
+  "phone": "tel:0466-904554",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/harukucchii",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.337545,139.484448&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.337545,139.484448&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Spring - Heping East Road",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Buffet, Taiwanese\n                                    ",
+  "description": "All-you-can-eat vegetarian buffet,600 NTD for dinner for an adult. Lunch, afternoon tea/meal, and dinner. Serves veggie version of Japanese sushi, (complete with wasabi), steamed Xiao Mmai delicacies and many Western style desserts. Large spread includes hot and cold food, made-to-order noodle soups, desserts, coffee, tea, and more. Dairy and egg items are labeled (in Chinese). Chinese name 春天素食, address 台北市和平東路一段177號3樓.",
+  "priceRange": "Moderate",
+  "streetAddress": "3F, 177, Sec. 1, Heping East Road, Daan District",
+  "phone": "tel:02-2393-0288",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.026518,121.532221&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.026518,121.532221&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

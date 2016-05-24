@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bamomboocafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Thai, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee and food, with mostly vegetarian dishes (except for fish) -- from Thai food and tofu to seaweed salad. Coffee is from Chiang Dao hill tribe.",
+  "priceRange": "Expensive",
+  "streetAddress": "127/6 Rachapakinai T.Siripum A. Muang, Amphoe Muang",
+  "postalCode": "50200",
+  "phone": "tel:+66-53326534",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/BaMOMboo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.788988,98.990055&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.788988,98.990055&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "World Peace Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, British, English\n                                    ",
+  "description": "Cafe at the Vairochana Kadampa Buddhist Centre. Offers soups, sandwiches, salads, and hot meals. Vegan and gluten-free options marked. Uses many organic ingredients and locally grown vegetable.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "76 High Lane, Chorlton",
+  "postalCode": "M21 9XF",
+  "phone": "tel:0161-8617012",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.440843,-2.282012&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.440843,-2.282012&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

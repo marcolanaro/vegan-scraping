@@ -1,0 +1,19 @@
+{
+  "title": "Divine Victorine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small creperia with vegan choices for both main course and dessert crepes. Most of the foodis bio.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Rue Camille Berruyer",
+  "postalCode": "44000",
+  "phone": "tel:+33-0228089470",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-2:00pm, Wed-Sat 7:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.215185,-1.563445&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.215185,-1.563445&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

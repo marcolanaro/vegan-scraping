@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jit Seng Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Delivery\n                                    ",
+  "description": "Serves breakfast, lunch, and dinner everyday. Catering service for all functions, catering service with free delivery to designate location.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "48-C，Taman Sinn Hoe, Melaka",
+  "postalCode": "75150 Melaka",
+  "phone": "tel:06-2838121/,%20012-6391468",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.217925,102.267241&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.217925,102.267241&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

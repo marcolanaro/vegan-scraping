@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Balya Organik Health Food Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Market with an attached mostly veg cafe and juice bar. Carries seasonal fresh organic produce, a range of organic products including dried food, spices, olive oil, essential oils, nuts, coffee and tea, toiletries, and cleaning products. The cafe serves some vegan dishes such as lentil salad and carrot cake.",
+  "streetAddress": "Batarya Sok 16A, Cihangir",
+  "postalCode": "34433",
+  "phone": "tel:+90-212--25203582",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.029160,28.981252&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.029160,28.981252&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

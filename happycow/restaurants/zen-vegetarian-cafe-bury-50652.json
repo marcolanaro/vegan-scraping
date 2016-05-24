@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zen Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Salad bar\n                                    ",
+  "description": "A vegetarian cafe located inside a relaxing wellness space offering holistic services. A small walled garden for outside eating and more seating at the front in a covered area. Events are held at additional times during the week and a set 3 course menu (3 choices minimum for each course) for £12 when there is no event on Saturday evenings. Roughly 40% of food is vegan. Food is home cooking style made-in-house. As well as smaller tables there is often a large table to socialize with other diners.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "50 Bolton St",
+  "postalCode": "BL90LL",
+  "phone": "tel:0161-7641440",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/zenloungebury",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.593744,-2.300483&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.593744,-2.300483&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

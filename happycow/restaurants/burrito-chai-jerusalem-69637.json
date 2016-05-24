@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Burrito Chai",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small restaurant serving freshly made-in-house burritos, sangria, margaritas and an assortment of vegan tidbits. Vegan choices offered are sour cream, meat substitute, a rice with beans plate that includes a sampler of sauces/salads. Minimal seating. Eclectic customer base.\r\n\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4 HaEshkol Street, Mahane Yehuda",
+  "phone": "tel:054-2861355",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.784842,35.212083&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.784842,35.212083&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

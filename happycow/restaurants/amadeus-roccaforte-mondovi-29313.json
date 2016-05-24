@@ -1,0 +1,18 @@
+{
+  "title": "Amadeus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has some vegan dishes (barley soup, brown rice soup, farinata), and vegan toppings for pizza (tofu and vegetables). Pizza dough can be made with organic wholewheat flour.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via delle Terme, 6, Lurisia Terme",
+  "postalCode": "12088",
+  "phone": "tel:+390174583572",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.302899,7.708003&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.302899,7.708003&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

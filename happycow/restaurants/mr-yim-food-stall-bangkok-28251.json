@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mr Yim - Food Stall",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Thai, Fast food, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Formerly vegetarian but added meat in 2015. Still offers some veg dishes, perhaps stir fried vegetables with tofu, different kinds of rice, pad thai, and curry. There are other restaurants here that use the same seating area.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Soi Ram Buttri",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.761736,100.494685&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.761736,100.494685&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

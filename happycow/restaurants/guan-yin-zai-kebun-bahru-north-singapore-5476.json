@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Guan Yin Zai - Kebun Bahru",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": " 观音斋 offers dishes like mee rebus, laksa, lor mee, fried bee hoon, dried mee or mee soup, and veg fish porridge.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 226H Ang Mo Kio St 22 no. 01-19",
+  "postalCode": "560226",
+  "phone": "tel:93654818",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 7:00am-2:00pm, Thu-Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.367296,103.840049&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.367296,103.840049&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

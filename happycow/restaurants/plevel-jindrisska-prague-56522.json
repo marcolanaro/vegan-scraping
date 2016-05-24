@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Plevel - Jindrisska",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Beer/Wine, Fusion\n                                    ",
+  "description": "2nd location of this vegan food restaurant, opened spring 2015. Offers western meals like spaghetti, veggie burger, and fries as well fusion food like rice paper rolls, hummus and pita platter.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jindrisska 901/5, Jindrisska Pasaz",
+  "postalCode": "110 00",
+  "phone": "tel:245-001605",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-11:00pm, Sat 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/plevel.jindrisska",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.083262,14.426904&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.083262,14.426904&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

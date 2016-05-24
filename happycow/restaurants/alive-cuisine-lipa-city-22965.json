@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Alive! Cuisine",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Organic, Raw, Western, Juice bar\n                                    ",
+  "description": "Restaurant located within the Farm at San Benito wellness resort. The cuisine is prepared using organic, unrefined, and natural ingredients.",
+  "priceRange": "Expensive",
+  "streetAddress": "119 Barangay Tipakan, 4217 Lipa, Batangas",
+  "postalCode": "4217",
+  "phone": "tel:8848074",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheFarmSanBenito",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.926808,121.205936&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.926808,121.205936&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

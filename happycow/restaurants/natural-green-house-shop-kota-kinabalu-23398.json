@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natural Green House Shop - Damai Plaza",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food supplier & retailer.",
+  "streetAddress": "Lot 11C, GF, Block C, Damai Plaza, Luyang",
+  "postalCode": "88300",
+  "phone": "tel:088-235771",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.959084,116.088232&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.959084,116.088232&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

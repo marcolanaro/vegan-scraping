@@ -1,0 +1,17 @@
+{
+  "title": "Yellow Sunshine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Fast food, Take-out\n                                    ",
+  "description": "Vegan fast food and vegetarian options. Traditional German and international food. Menu available in English and German.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Wienerstrasse 19, Kreuzberg",
+  "postalCode": "10999",
+  "phone": "tel:030-69598720",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.497710,13.431160&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.497710,13.431160&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

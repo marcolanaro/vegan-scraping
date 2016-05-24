@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Suki-Ya",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Buffet, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. All-you-can-eat hot pot restaurant in the mall. Has a so-called \"healthy bar\" choice that includes many veggies plus tofu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "168 Jalan Bukit Bintang",
+  "postalCode": "55100",
+  "phone": "tel:+603-21414272",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/SUKI-YA-Pavilion-KL/254516377900159",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.143876,101.707528&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.143876,101.707528&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

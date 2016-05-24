@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Corba",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Bakery\n                                    ",
+  "description": "Vegan lunchroom opened May 2015 close to central station in the pedestrian area. Serves breakfast, antipasti, soups, salads, main dishes, and cake. Mostly regional and seasonal ingredients; gluten-free and soy-free options. Shelves offer some products for sale. Tip goes to charity organizations.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Huestrasse 6",
+  "phone": "tel:+49-01706521003",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-7:00pm, Fri-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/cafecorba",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.479781,7.221482&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.479781,7.221482&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

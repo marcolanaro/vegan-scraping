@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "GK Organic Farm",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Organic\n                                    ",
+  "description": "Farm offers luncheon & visit. Food is only served in tandem with visits to their farm & prior reservations is a must. See their blog where you can contact them & get their details. The farm is not easily found unless your familiar with the location.\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "PO Box 49",
+  "postalCode": "43000",
+  "phone": "tel:03-89256434",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.889900,101.751250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.889900,101.751250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

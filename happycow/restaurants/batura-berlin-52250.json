@@ -1,0 +1,15 @@
+{
+  "title": "Batura",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional Indian food restaurant. Vegan menu about 6 dishes is available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sommerstr. 42",
+  "postalCode": "13409",
+  "phone": "tel:03049200153",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.571456,13.377168&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.571456,13.377168&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

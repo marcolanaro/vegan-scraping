@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Stall at Coffee Express 2000",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese\n                                    ",
+  "description": "Vegetarian stall inside Coffee Express 2000 coffee shop, open all hours. No onion or garlic.",
+  "priceRange": "Moderate",
+  "streetAddress": "443 Pasir Ris Drive 6",
+  "postalCode": "510433",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.370095,103.956972&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.370095,103.956972&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

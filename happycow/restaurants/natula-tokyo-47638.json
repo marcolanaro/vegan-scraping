@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "NaTuLa",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Organic, Western, Salad bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant specializing in high quality, all-organic, additive-free ingredients. About half the menu is vegan/vegetarian, marked with a carrot symbol. Several items can be made vegan using soy milk mayo, vegan cheese, etc., if you ask the staff. Menu is in Japanese. Some staff speak some English.",
+  "priceRange": "Moderate",
+  "streetAddress": "2-3-14 Kajicho, Chiyoda-ku",
+  "phone": "tel:03-6206-4224",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-3:00pm, 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.691166,139.772464&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.691166,139.772464&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Taj",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Vegetarian Indian grocery store. Carries veggie burgers, veggie ham, wheat gluten, plus typical Indian spices, grains, chickpeas, lentils, breads, etc. Most items are vegan suitable, a few with dairy. Read the labels.",
+  "streetAddress": "7502 Bagtican St, San Antonio Village, Makati City",
+  "phone": "tel:632-757-3992",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.562966,121.012524&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.562966,121.012524&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

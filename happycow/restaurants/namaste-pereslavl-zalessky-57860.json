@@ -1,0 +1,16 @@
+{
+  "title": "Namaste",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian\n                                    ",
+  "description": "Twice a week offers lunch by donation. Soup, rice or potato, salad, something sweet, plus herbal tea.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Oktyabrskaya 26",
+  "phone": "tel:89106660159",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 12:00pm-4:00pm, Thu 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.744382,38.879183&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.744382,38.879183&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

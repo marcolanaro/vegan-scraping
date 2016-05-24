@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thin Hei Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "A quiet place named 天喜素食飯店.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "22, Jalan Dass",
+  "postalCode": "30300",
+  "phone": "tel:05-2537388",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.599637,101.082437&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.599637,101.082437&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

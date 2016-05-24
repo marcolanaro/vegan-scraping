@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Together Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Buffet, Take-out, Catering\n                                    ",
+  "description": "Chinese name 相聚欢素食馆. A spacious restaurant that also caters events.  The house-made tofu contains egg.",
+  "priceRange": "Moderate",
+  "streetAddress": "9, Jalan Puteri 1/4, Bandar Puteri",
+  "postalCode": "47100",
+  "phone": "tel:012-2386800/,%2003-80600465",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/togethervege",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.025693,101.616485&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.025693,101.616485&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

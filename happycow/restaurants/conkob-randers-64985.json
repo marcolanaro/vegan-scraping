@@ -1,0 +1,14 @@
+{
+  "title": "CONKOB",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "An organic food store carries a wide range of vegan and organic groceries, snacks, health foods, products for personal hygiene and much more. Does not have a produce section.",
+  "streetAddress": "Ostervold 89",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-5:30pm, Sat 10:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.459116,10.040901&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.459116,10.040901&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tea Hive",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe offering choice for vegan breakfast, brunch, sandwiches and cakes. Some dishes clearly vegan, others can be made vegan on request, including vegan afternoon tea (with reservation only).",
+  "priceRange": "Moderate",
+  "streetAddress": "53 Manchester Rd, Chorlton",
+  "postalCode": "M21 9PW",
+  "phone": "tel:+44-1618810569",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-5:00pm, Sat-Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/teahivechorlton",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.445430,-2.278198&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.445430,-2.278198&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Snow Lion",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Tibetan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a vegan menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Haarlemmerstraat 50",
+  "postalCode": "1013ES",
+  "phone": "tel:020-422-7776",
+  "venueHours": "\n                                                                                                        Mon-Sun 4:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.380104,4.892670&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.380104,4.892670&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

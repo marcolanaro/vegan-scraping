@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sri Lakshmi Narayana Bhavan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Take-out\n                                    ",
+  "description": "Vegetarian restaurant serves breakfast, lunch, dinner with vegan options. Cuisines are South and North Indian food, Chettinad style. Silent atmosphere. Wi-fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "26 Leboh Ampang",
+  "postalCode": "50100",
+  "phone": "tel:03-20222995",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Sri-Lakshmi-Narayana-Bhavan/273907496056699",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.148769,101.696981&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.148769,101.696981&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

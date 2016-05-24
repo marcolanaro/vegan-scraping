@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Marwadi Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian\n                                    ",
+  "description": "Well-maintained vegetarian restaurant near the Old Baneshwor/Ring Road roundabout in an alley next to Mandakini Hotel. Run by the people of Marwadi origin (Indians). Serves North Indian dishes with a bit of fusion food such as the chowmein noodles & salads. Try the chai & poori sabji for breakfast.",
+  "priceRange": "Moderate",
+  "streetAddress": "Gaushala Street, Nataraj Hotel",
+  "phone": "tel:9841829086",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.707749,85.343312&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.707749,85.343312&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

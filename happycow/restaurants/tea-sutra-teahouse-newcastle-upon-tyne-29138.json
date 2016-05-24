@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tea Sutra Teahouse",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, British\n                                    ",
+  "description": "A specialty oriental tea house offering fine teas and infusion. Serves vegan snacks, wraps, soups, and cakes. Comfortable seating including a raised cushion-only seating area. Offers a variety of treatments including acupuncture and ear candling.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Leazes Park Rd, 1st Floor",
+  "postalCode": "NE1 4PF",
+  "phone": "tel:+44-7575010173",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.974867,-1.617610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.974867,-1.617610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

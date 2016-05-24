@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Organic Farm Shop and Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic farm with a cafe that's all vegetarian except on Sundays when meat is offered. Menu changes daily and usually includes 1 or 2 soups plus, salads, and 2 main dishes alongside cakes, hummus, baked potatoes, drinks. Has Wi-Fi, green space around, simple and rustic atmosphere. Organizes courses, school visits, camping in summer. The shop sells fresh vegetable and fruit, groceries, natural household goods.",
+  "priceRange": "Moderate",
+  "streetAddress": "Burford Road",
+  "postalCode": "GL7 5HF",
+  "phone": "tel:01285-640441",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 9:00am-5:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/theorganicfarmshop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.731904,-1.939009&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.731904,-1.939009&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

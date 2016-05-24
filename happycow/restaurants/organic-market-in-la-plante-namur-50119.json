@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Organic market in La Plante",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Organic local market installed on a parking lot next to a nightshop. Sells fresh vegetables, fruits, jam, bread, and other foods.",
+  "streetAddress": "Chaussee de Dinant",
+  "postalCode": "5000",
+  "phone": "tel:+3281246253",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 3:30pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.445008,4.855894&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.445008,4.855894&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

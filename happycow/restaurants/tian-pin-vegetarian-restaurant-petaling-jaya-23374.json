@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tian Pin Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Malaysian\n                                    ",
+  "description": "Chinese name 天品素食館. Offers many types of vegetarian dishes: mix rice, noodle, a la carte dish. A few tofu items contain eggs.",
+  "priceRange": "Moderate",
+  "streetAddress": "53, Jln 20/7, Paramount Garden",
+  "postalCode": "46300",
+  "phone": "tel:03-7874-3660",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.109576,101.626123&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.109576,101.626123&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

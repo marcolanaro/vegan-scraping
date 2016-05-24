@@ -1,0 +1,19 @@
+{
+  "title": "Landhaus Beckmann",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hhotel and restaurant. The a la carte menu offers traditional food with modern touch. Several vegan suitable dishes, labeled.",
+  "priceRange": "Moderate",
+  "streetAddress": "Römerstrasse 1",
+  "postalCode": "47533",
+  "phone": "tel:02824-9625-6666",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.706590,6.320100&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.706590,6.320100&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

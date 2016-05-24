@@ -1,0 +1,18 @@
+{
+  "title": "Szary Stol",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, European, Polish\n                                    ",
+  "description": "Homely place serving healthy meals, coffee with soy and oat milk.",
+  "priceRange": "Moderate",
+  "streetAddress": "Borelowskiego Lelewela 14",
+  "postalCode": "30-138",
+  "phone": "tel:606654273",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-7:00pm, Fri-Sat 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/klubszarystol",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.054785,19.922455&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.054785,19.922455&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

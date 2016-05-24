@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hojbyhus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A 100% organic cafe and bakery. Cafe offers salads, savory and sweet pies, cake, coffee and more; vegans please inquire. Bakery offers vegan goods.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hojbyvej 5A",
+  "postalCode": "5250",
+  "phone": "tel:0045-66174340",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.329863,10.431824&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.329863,10.431824&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

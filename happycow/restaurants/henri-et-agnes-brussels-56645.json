@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Henri et Agnes",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Organic, Western, Catering, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small, health food lunchroom that uses organic and seasonal vegetables. The plat du jour is an \"assiette de legumes\" with 5 or so prepared vegetable dishes with option to add meat/cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rue Veronese 48",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-3:00pm, Sun 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/henrietagnes",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.845230,4.388791&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.845230,4.388791&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Burger Market Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Take-out\n                                    ",
+  "description": "Shala Chuan (look out for: 沙拉船 and many burger photos). A vegetarian burger stall in Gongguan Night Market with vegan options. Since it's a night market stall, it's very flexible (opens at ca. 4:30 pm and location can vary a bit, but you'll usually find it when you follow the market street). English menu available. Burgers and sandwiches with fresh vegetables and mock meat. English menu available. 30-50 NTD per burger. No seats available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "No 2, Lane 90, Section 4, Roosevelt Rd, Zhongzheng District",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.013684,121.534646&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.013684,121.534646&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

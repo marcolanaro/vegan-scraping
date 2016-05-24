@@ -1,0 +1,19 @@
+{
+  "title": "Il Picchio Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Organic, Beer/Wine, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An Italian cafe restaurant. Offers a range of veg dishes in salads, pasta sauces, entrees. Vegans should specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "33 Manor Farm Rd, Bitterne Triangle",
+  "postalCode": "SO181NN",
+  "phone": "tel:07482156011",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-5:30pm, Fri-Sat 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.924633,-1.375662&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.924633,-1.375662&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

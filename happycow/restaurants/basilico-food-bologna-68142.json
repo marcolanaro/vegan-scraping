@@ -1,0 +1,18 @@
+{
+  "title": "Basilico Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Organic, Western, Mediterranean, Juice bar, Take-out, Bakery\n                                    ",
+  "description": "Vegetarian takeaway with some seats inside. Offers baked goods and cakes, burgers and pasta. Opened Nov 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Massarenti 76c",
+  "postalCode": "40138",
+  "phone": "tel:3315056164",
+  "venueHours": "\n                                                                                                        Mon 7:30am-7:00pm, Tue-Thu 7:30am-8:00pm, Fri 7:30am-7:00pm, Sat 7:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/basilicofood.it",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.493147,11.361355&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.493147,11.361355&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

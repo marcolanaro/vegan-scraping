@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Huong Vien - Nguyen Van Luong",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Vietnamese\n                                    ",
+  "description": "Mostly vegan menu includes noodles, rice, veggies, mockmeats.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "95/1059B D. Nguyen Oanh, Saigon",
+  "postalCode": "P17 Go Vap",
+  "phone": "tel:9845167/,%200917103140",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.758000,106.653400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.758000,106.653400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

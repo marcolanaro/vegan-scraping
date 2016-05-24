@@ -1,0 +1,13 @@
+{
+  "title": "Bio L'Accueil",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural foods grocery store. Hours: Lundi de 16h a 19h, Mercredi et samedi 9h a 12h30, Mardi, Jeudi, Vendredi de 9h a 12h30 et de 16h a 19h.",
+  "streetAddress": "2 rue Montel",
+  "postalCode": "69440",
+  "phone": "tel:0478197133",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 4:00pm-7:00pm, Tue-Sat 9:00am-12:30pm, Thu-Fri 4:00pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.618500,4.672350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.618500,4.672350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

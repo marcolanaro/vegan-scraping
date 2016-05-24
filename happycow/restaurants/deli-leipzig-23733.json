@@ -1,0 +1,14 @@
+{
+  "title": "Deli",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Fast food\n                                    ",
+  "description": "Offers fast food including burgers, sandwiches, salads, and desserts. All the main entrees are vegan, but cow's milk is offered, so not fully vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Wolfgang-Heinze-strasse 12a",
+  "phone": "tel:0341-3032557",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.308990,12.372910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.308990,12.372910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

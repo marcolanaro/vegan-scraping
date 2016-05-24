@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Terre Mere",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar\n                                    ",
+  "description": "Sandwiches, juices, and smoothies. Uses original recipes like the nettle hummus. Smoothies are made with non-dairy milk and sometimes contain honey. Confirmed open, Dec 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rue de la Régence 21",
+  "postalCode": "4000",
+  "phone": "tel:+32-042213805",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-3:30pm, Sat 9:00am-4:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/terremere.be",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.642690,5.573643&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.642690,5.573643&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Amrita Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Japanese, Macrobiotic, Organic, Take-out\n                                    ",
+  "description": "Lunch room, coffee place, and retail space in an old Thai wooden house. Offers a daily macrobiotic lunch which includes organic brown rice, veggie plate, detox soup, papaya leaf tea. Most of the food is vegan, but some desserts contain dairy and/or honey. Has gluten free including muffin and pasta.",
+  "priceRange": "Moderate",
+  "streetAddress": "2/1 Soi 5, Samlan Rd",
+  "postalCode": "50200",
+  "phone": "tel:66-860539342",
+  "venueHours": "\n                                                                                                        Mon 9:00am-8:30pm, Wed-Sun 9:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/amritagarden",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.784172,98.982437&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.784172,98.982437&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

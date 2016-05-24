@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Phono Kafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese\n                                    ",
+  "description": "Small vegan cafe located near Kamata station, at 大田区西蒲田5-11-1. Has lunch plate, soup plate and curry. Also serves scones, muffins and cakes. No English menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ota-ku, Tokyo, Nishi Kamata 5-11-1",
+  "phone": "tel:03-64286392",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-7:30pm, Fri-Sun 11:30am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.567142,139.714318&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.567142,139.714318&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

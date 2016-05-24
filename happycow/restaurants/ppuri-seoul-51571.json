@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "PPURI",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Macrobiotic, Organic, Western\n                                    ",
+  "description": "A small, dessert and drinks cafe near Hyehwa station. Serves sugar free, gluten free, vegan baked goods like brown rice cakes, and drinks like grain coffee and black tea. Savory dishes are only available on the days of pop-up dinners - check facebook. Owner speaks English and offers cooking classes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bell Jongno-gu 154-18",
+  "phone": "tel:070-41338126",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 2:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ppuriontheplate",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.581779,126.999336&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.581779,126.999336&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

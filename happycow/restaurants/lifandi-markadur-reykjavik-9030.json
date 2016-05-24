@@ -1,0 +1,16 @@
+{
+  "title": "Lifandi Markadur",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store with a deli and juice bar inside.",
+  "streetAddress": "Borgartun 24",
+  "postalCode": "105",
+  "phone": "tel:+354-5858700",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-9:00pm, Sat 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/LIFANDImarkadur",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=64.145948,-21.899309&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C64.145948,-21.899309&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

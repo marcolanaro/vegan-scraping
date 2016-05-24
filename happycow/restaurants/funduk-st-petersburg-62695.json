@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Funduk - Railway Station Square",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Store sells nuts, dried fruits, seeds, beans, cereal, and spices. Offers delivery in Saint Petersburg area. NOTE: please send exact map coordinates to happycow!",
+  "streetAddress": "Baltic railway station square, 1, Building 2",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.934202,30.334841&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.934202,30.334841&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

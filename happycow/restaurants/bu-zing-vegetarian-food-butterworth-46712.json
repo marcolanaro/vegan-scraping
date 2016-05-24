@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bu Zing Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Chinese, Thai, Take-out, Catering\n                                    ",
+  "description": "Small hut selling vegetarian food, a la carte. Non-airconditioned.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4399, Jalan Raja Uda",
+  "postalCode": "12300",
+  "phone": "tel:012-4880335",
+  "venueHours": "\n                                                                                                        Mon-Thu 5:30pm-9:00pm, Sat-Sun 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.431828,100.384700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.431828,100.384700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

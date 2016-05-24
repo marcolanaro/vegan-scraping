@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rootcandi",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Mediterranean, Fusion\n                                    ",
+  "description": "Re-opened Mar 2016. Billed as the first vegetarian tapas restaurant in the UK, this place was est. Jul 2015 upstairs from Iydea Vegetarian Cafe; then in 2016 it expanded onto both floors, and Iydea was shut down by the owners (same). Everything on the menu is vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "105 Western Rd",
+  "postalCode": "BN1 2AA",
+  "phone": "tel:01273965904",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/rootcandi",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.824895,-0.153839&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.824895,-0.153839&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tavola",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian restaurant offering a menu marking vegan and veganizable items, including soup, antipasti, salad, pasta, risotto, and stuffed acorn squash. Meal per person costs around 25 euros. Weekday business lunches 12-5pm. Has private rooms for events.",
+  "priceRange": "Expensive",
+  "streetAddress": "75 HaNasi Itzhak",
+  "phone": "tel:09-9573818",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.180546,34.811293&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.180546,34.811293&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

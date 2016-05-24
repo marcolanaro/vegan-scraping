@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Harbo Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Beer/Wine, Bakery, European, Dutch\n                                    ",
+  "description": "Cafe and bar with Wi-Fi.  All cakes and bread is vegan. Serves vegetarian and vegan breakfast plates, sandwiches, organic beer and wine.",
+  "priceRange": "Moderate",
+  "streetAddress": "Blagardsgade 2D",
+  "postalCode": "2200 KBH N",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-12:00am, Thu-Fri 9:00am-2:00am, Sat 10:00am-2:00am, Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Harbobar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.687972,12.559946&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.687972,12.559946&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

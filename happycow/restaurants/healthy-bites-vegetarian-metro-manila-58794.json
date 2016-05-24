@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Healthy Bites Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Salad bar, Juice bar, Filipino\n                                    ",
+  "description": "Health food vegetarian restaurant Adventist Medical Center Manila also selling freshly baked whole wheat products. Fruit shake corner 9:30am-6pm. Salad bar 10:30am-6pm. Near LRT Buendia Station.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1975 Corner San Juan and Donada Streets, 1300 Pasay City",
+  "postalCode": "1099",
+  "phone": "tel:632-5259191x153",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:00am-6:30pm, Sun 6:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.555621,120.995905&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.555621,120.995905&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

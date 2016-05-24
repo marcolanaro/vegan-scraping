@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "D'Pavilion Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Catering\n                                    ",
+  "description": "丹亭素食 serves rice, noodle, and vegetable dishes. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "31-G, Jalan 10/116B, Kuchai Entrepreneurs Park",
+  "postalCode": "58200",
+  "phone": "tel:012-3160333",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/丹亭素食-DPavilion-Vegetarian-Cafe-215101951985769",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.089493,101.688703&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.089493,101.688703&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

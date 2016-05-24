@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yuva Eco Centre",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Yoga holidays, retreats, personal development workshops, hiking vacations. Serves Turkish vegetarian meals.",
+  "streetAddress": "Karaandiz Mevkii Faralya ",
+  "phone": "tel:+905325221392",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/yuvaecocentre",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.659246,29.126347&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.659246,29.126347&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

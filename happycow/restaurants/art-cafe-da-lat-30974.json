@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Art Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Organic, Juice bar, Beer/Wine, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Uses farm-fresh ingredients and has a large vegan section on the menu. Relaxed, fine dining atmosphere. Has Wi-Fi access.",
+  "priceRange": "Expensive",
+  "streetAddress": "76 Truong Cong Dinh",
+  "phone": "tel:+84-0633555299",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Art-Cafe/190757794366245",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.944753,108.434962&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.944753,108.434962&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Royal Indian Food",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian take-out restaurant. Different menu every day. Nearly half are vegetarian, of which several are vegan. One menu includes 2 different dishes with rice. Students get discount. Previously located at Tervuursestraat 5, Feb 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Naamsestraat 30",
+  "postalCode": "3000",
+  "phone": "tel:+32-479798146",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-10:00pm, Sat-Sun 6:00pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.879437,4.689134&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.879437,4.689134&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

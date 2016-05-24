@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nature Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "Nature Vegetarian 大自然素食 offers vegetarian food and is a food booth located within a kopitiam (coffee shop).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 112 Bukit Purmei Road Unit 01-201",
+  "postalCode": "090112",
+  "phone": "tel:6274-7505",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 6:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.273861,103.828287&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.273861,103.828287&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

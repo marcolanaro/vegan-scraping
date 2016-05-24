@@ -1,0 +1,13 @@
+{
+  "title": "Life",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Little health food in the centre of Porvoo. Part of a health food shop chain. Sells organic snacks, natural remedies, grains, beans, pasta, and cosmetics.",
+  "streetAddress": "Piispankatu 19",
+  "postalCode": "06100",
+  "phone": "tel:019-585477",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-5:00pm, Sat 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=60.393590,25.662830&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C60.393590,25.662830&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

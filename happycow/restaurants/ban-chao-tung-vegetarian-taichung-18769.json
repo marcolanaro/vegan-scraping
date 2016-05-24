@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ban Chao Tung Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Taiwanese\n                                    ",
+  "description": "Name in Chinese 本草堂素食餐廳. Address 408 Taiwan台中市南屯區惠文路318號 惠文路跟大墩六街口. Offers a wide range of Chinese vegetarian food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Huiwuen Road",
+  "phone": "tel:04-23825530",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-2:30pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.150190,120.643000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.150190,120.643000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

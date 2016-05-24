@@ -1,0 +1,13 @@
+{
+  "title": "EkoPlaza",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic health food store chain throughout the Netherlands. Offers grains, nuts, biscuits and sweets, wide range of juices, cereals, vegetables and fruits.",
+  "streetAddress": "Hueseplein 1",
+  "postalCode": "1185",
+  "phone": "tel:0204418691",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-7:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.296777,4.854135&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.296777,4.854135&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

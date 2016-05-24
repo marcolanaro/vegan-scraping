@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chuan Soon Vegetarian House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Malaysian\n                                    ",
+  "description": "A 100% vegan/vegetarian restaurant serves noodles, rice and more. Name in Chinese: 泉顺素食馆. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "48, Jalan CB 1, Taman Cheng Baru",
+  "postalCode": "75250",
+  "phone": "tel:014-622%201200",
+  "venueHours": "\n                                                                                                        Mon-Tue 7:00am-3:30pm, 5:30pm-8:00pm, Thu-Sun 7:00am-3:30pm, 5:30pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.274644,102.216126&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.274644,102.216126&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

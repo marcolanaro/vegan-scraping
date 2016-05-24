@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sai Dham",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Delivery, Take-out, Ayurvedic\n                                    ",
+  "description": "Vegetarian cuisine - Saatvik Bhojan without onion and garlic, less spices and oil. All food is dedicated to Shirdi Sai Baba. Does not take reservations.",
+  "priceRange": "Moderate",
+  "streetAddress": "near Lamcy Plaza",
+  "postalCode": "28146",
+  "phone": "tel:+97143358788/3366552",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 12:00pm-3:30pm, Mon-Wed 7:00pm-11:30pm, Thu-Fri 7:00pm-12:00am, Fri 1:00pm-3:30pm, Sat-Sun 12:00pm-3:30pm, 7:00pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Saidhamrestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.235030,55.307407&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.235030,55.307407&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

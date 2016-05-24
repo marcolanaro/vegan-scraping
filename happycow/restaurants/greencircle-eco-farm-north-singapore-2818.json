@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "GreenCircle Eco-Farm",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic vegetable farm that delivers directly to homes in Singapore.",
+  "streetAddress": "155 Neo Tiew Road",
+  "phone": "tel:68619286",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.420570,103.705250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.420570,103.705250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

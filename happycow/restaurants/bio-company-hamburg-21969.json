@@ -1,0 +1,13 @@
+{
+  "title": "Bio Company",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large health food store which also has a small deli stand which offers vegetarian soups and various snacks. Also has some tables to sit down and eat.",
+  "streetAddress": "Lange Reihe 29",
+  "postalCode": "20099",
+  "phone": "tel:040%2052594036",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.556579,10.010140&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.556579,10.010140&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

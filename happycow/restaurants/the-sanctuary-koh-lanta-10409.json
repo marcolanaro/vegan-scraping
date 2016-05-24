@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Sanctuary",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, International, Thai, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers some vegetarian options. Open during high season from 6.30pm and cafe is closed during low season. Location is also known as Long Beach. ",
+  "priceRange": "Moderate",
+  "streetAddress": "186 Moo 2, Phra Ae Beach",
+  "phone": "tel:081-8913055",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.607550,99.033510&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.607550,99.033510&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

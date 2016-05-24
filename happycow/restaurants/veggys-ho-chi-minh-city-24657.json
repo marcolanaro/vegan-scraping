@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veggy's",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "One of the few stores in HCMC that you can sometimes find things like soy yogurt, ready made hummus, and other vegan items such as nuts, seeds, lentils, spices, tahini, Bragg liquid aminos, maple syrup, molasses, dates, and imported avocados. There is a cold room with a selection of fresh vegetable. Previously at S54-1 Pham Van Nghi - Bac Khu, Pho Sky Garden, District 7.",
+  "streetAddress": "29A Le Thanh Ton Street, District 1",
+  "phone": "tel:38238526",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.779180,106.703440&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.779180,106.703440&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

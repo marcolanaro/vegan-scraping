@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Grove Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Indian, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers labeled vegetarian and vegan food items. Has vegan cheese for pizza and burgers. Curries can be made vegan using meat substitutes and tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Grove House, 133-135 Cardigan Road",
+  "postalCode": "LS6 1LJ",
+  "phone": "tel:0113-2302727",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 5:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Grove-Cafe/63645050338",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.809617,-1.574436&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.809617,-1.574436&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

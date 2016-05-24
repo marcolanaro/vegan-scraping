@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hong De Vegetarian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "Small vegan restaurant serving soup noodles, dry noodles, soup, rice, dumplings, and side dishes like vegetables, mock meat, and tofu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "163, Sec. 2, Nanchang Rd, Zhongzheng District",
+  "phone": "tel:02-23672320",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-2:30pm, 5:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.025648,121.522666&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.025648,121.522666&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

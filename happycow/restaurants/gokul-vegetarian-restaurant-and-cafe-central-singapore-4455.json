@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gokul Vegetarian Restaurant and Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Indian, Take-out, Indonesian, Hare Krishna\n                                    ",
+  "description": "Large menu featuring mainly Indian and some rice and Indonesian meals. No eggs, garlic, or onion. Large array of mock meats can be used in a number of dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "19, Upper Dickson Road",
+  "postalCode": "207478",
+  "phone": "tel:65-63967769",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.306468,103.852568&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.306468,103.852568&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

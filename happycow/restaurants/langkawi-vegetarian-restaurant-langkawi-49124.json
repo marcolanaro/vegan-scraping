@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Langkawi Vegetarian Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Buffet, Malaysian\n                                    ",
+  "description": "Pay as you wish, donation basis Buddhist vegetarian restaurant. Has rice, porridge, and noodle soups. Opens if 1st and 15th of Chinese lunar calendar fall on Friday.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "72, Jalan Pandak Mayah 7, Pusat Bandar Kuah",
+  "postalCode": "07000",
+  "phone": "tel:012-4864999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 8:00am-2:30pm, Sat-Sun 8:00am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.321701,99.852119&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.321701,99.852119&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

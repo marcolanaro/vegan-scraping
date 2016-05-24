@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Atelier Vegan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Western, Fast food, Bakery, Vietnamese, Take-out only\n                                    ",
+  "description": "Vegan store offering delivery and takeaway, est. 2016 (previously at 34 Cao Ba Quat). Offers ready-to-eat vegan food and sweets. Sells vegan clothing, shoes, coloring books, postcards, plus organic vegetables from its own farm. Menu includes pizza, falafel and made-in-house ice-cream. Vegan dishes sell out early so send an SMS to 016-8878-6666 to confirm availability and order. Eat-in available only Fri-Sun.",
+  "priceRange": "Moderate",
+  "streetAddress": "23 Han Thuyen",
+  "phone": "tel:016-8878-6666",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/veganvietnamworkshop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.018572,105.856330&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.018572,105.856330&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

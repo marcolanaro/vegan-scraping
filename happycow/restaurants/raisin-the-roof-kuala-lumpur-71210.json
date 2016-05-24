@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Raisin' The Roof",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Raw, Western, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "Western-style health & lifestyle cafe offering sweet and savory dishes using unprocessed, whole food ingredients. Find salads, wraps and sandwiches, baked goods, fresh juices, and coffee. Has a cooler with grab n go drinks and meals.",
+  "priceRange": "Moderate",
+  "streetAddress": "Plaza Damansara, 61 Jalan Medan Setia 1, Bukit Damansara",
+  "postalCode": "50490",
+  "phone": "tel:0320115313",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-8:00pm, Sat-Sun 9:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/raisintheroofcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.150297,101.653512&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.150297,101.653512&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

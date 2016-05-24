@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Guan Tao Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Take-out\n                                    ",
+  "description": "Vegetarian Chinese food cafe in Sungai Dua serving Chinese rice and noodles, sandwich, deep fried mushroom, and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-G-21 Lengkok Nipah, Taman Lip Sin, Mukim 13, Sungai Dua",
+  "postalCode": "11900",
+  "phone": "tel:012-4150803",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.583510,102.479600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.583510,102.479600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

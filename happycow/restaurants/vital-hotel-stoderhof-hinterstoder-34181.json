@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vital Hotel Stoderhof",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a number of vegan choices. Uses the 5 element cooking style. Uses vegetables from own garden in summer. Located inside hotel. Free Wi-fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hinterstoder 10",
+  "postalCode": "4573",
+  "phone": "tel:004375645266",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.700217,14.156442&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.700217,14.156442&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

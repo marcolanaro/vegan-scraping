@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "muffin Ladybug",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Western, Bakery\n                                    ",
+  "description": "A vegetarian restaurant/bakery with vegan muffins and scones. Name in Japanese: マフィンレディバグ. Located just northwest of Motoyama station, right between Nakashima building and Wakayama Seikeigeka medical clinic. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Chikusa Ward, Honyamacho, 4 Chome−74−1 小島ビル 2F",
+  "postalCode": "464-0036",
+  "phone": "tel:052-7349819",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.164635,136.962551&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.164635,136.962551&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

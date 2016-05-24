@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "C'est Bio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small organic health food and wellness products store with some vegetarian and vegan products (e.g. tofu, non-dairy milks). Limited range of fresh fruit and vegetables on Wednesdays and Saturdays.",
+  "streetAddress": "rue du Menuisier 27",
+  "postalCode": "1200",
+  "phone": "tel:+322-7729101",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 9:00am-12:30pm, 2:00pm-7:00pm, Wed 9:00am-7:00pm, Thu-Fri 9:00am-12:30pm, 2:00pm-7:00pm, Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.844084,4.418154&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.844084,4.418154&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,19 @@
+{
+  "title": "Madal Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Raw, Take-out, Bakery, Hungarian\n                                    ",
+  "description": "This coffee shop sells a range of packaged raw cookies and cakes, vegan bars, raw packed superfoods, and organic coffee. Offers a limited meal food selection like breakfast ciabatta and piadina. Owner is vegetarian.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hollan Erno u 3",
+  "postalCode": "1136",
+  "phone": "tel:+36-1-7966287",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-7:00pm, Sat 9:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/madalcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.513285,19.049628&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.513285,19.049628&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

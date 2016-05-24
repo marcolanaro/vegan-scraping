@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kwan Inn Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "观音斋素食馆 serves rice and noodle items.",
+  "priceRange": "Expensive",
+  "streetAddress": "336-338 Tanjong Katong Rd",
+  "postalCode": "437110",
+  "phone": "tel:63480019/,%2063482770",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.303837,103.896467&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.303837,103.896467&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

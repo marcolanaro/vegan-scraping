@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Joe - Ibn Gabirol",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Western, Take-out, Middle Eastern, Israeli, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Multiple locations, this one is inside a mini-mall with a few tables inside and a few tables next to it in the mall. There is a separate vegan menu which lists smoothies, salads, sandwiches, pizza, pasta, a burger, grilled \"cheese\", and breakfast. The \"cheese\" items contain a special vegan cheese manufactured by Cafe Joe. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "124 Ibn Gabirol Street",
+  "phone": "tel:03-5272566",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:30am-8:00pm, Fri 7:30am-4:00pm, Sun 7:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafejoe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.087014,34.782189&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.087014,34.782189&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veg Buffet",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Buffet, Take-out\n                                    ",
+  "description": "Buffet with lots of options including tofu with spicy vegetable, white and brown rice, seitan, soup, pineapple with beans. Everything is vegan. Located on a little street close to Tha Chalaep road, at the backy of  the Wat Mai, or just ask the locasl for \"mangsawirat\" (veg) restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Soi Tha Chalaep 2",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.604439,102.110145&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.604439,102.110145&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

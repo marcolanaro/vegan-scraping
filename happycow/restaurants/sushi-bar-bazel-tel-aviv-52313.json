@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sushi Bar Bazel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Japanese food restaurant and bar located blocks from Frishman Beach on the Mediterranean. Specializing in sushi. Has a separate vegan menu with sushi rolls, pad thai, yakitori, tempura (ask if uses a separate fryer), and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "20 Frishman Street",
+  "phone": "tel:03-5460575",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sushi.bazel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.079842,34.770384&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.079842,34.770384&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

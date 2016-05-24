@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "June's Art Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Thai, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This place is more upscale than the vegan places on the island. Offers many marked vegetarian dishes, some with tofu, plus a long list of juices like apple ginger carrot juice along with cakes and a healthy brown rice bread. Location on the main ring-road between Big C and the traffic lights where you turn to the Fisherman's Village, 500m south of the traffic lights. From Big C, it will be on your right side on the bottom floor in a group of 3-4 story buildings.",
+  "priceRange": "Expensive",
+  "streetAddress": "Main road 119/17, Chaweng",
+  "phone": "tel:077-425587",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:30am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.552005,100.034644&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.552005,100.034644&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

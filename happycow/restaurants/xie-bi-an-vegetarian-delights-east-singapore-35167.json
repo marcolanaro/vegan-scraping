@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xie Bi An Vegetarian Delights",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Take-out\n                                    ",
+  "description": " 谢必安素食 is located in New Century Food House. Serves many local delicacies like laksa, wanton noodles, prawns noodles, congee and Chinese stir-fried cooking. Last order 9:30pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 828 Tampines St 81, Unit 01-254",
+  "postalCode": "520828",
+  "phone": "tel:90064438",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.348941,103.934551&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.348941,103.934551&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

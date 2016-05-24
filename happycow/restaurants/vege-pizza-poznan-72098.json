@@ -1,0 +1,16 @@
+{
+  "title": "Vege Pizza",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Italian, Western, Bakery\n                                    ",
+  "description": "Vegan pizza business, est. 2015. Serves also cakes, hot dogs, and a soup of the day. Pet friendly.",
+  "priceRange": "Moderate",
+  "streetAddress": "Głogowska 29",
+  "postalCode": "60-702",
+  "phone": "tel:536457203",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-8:00pm, Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pizzavege",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.399987,16.906274&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.399987,16.906274&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

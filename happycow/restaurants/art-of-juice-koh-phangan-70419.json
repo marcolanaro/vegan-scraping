@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Art of Juice ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Buffet, Salad bar, Juice bar, Take-out, Asian\n                                    ",
+  "description": "Veggie buffet and slow pressed juices.",
+  "priceRange": "Moderate",
+  "streetAddress": "20/19, Moo 8, Srithanu ",
+  "postalCode": "84280",
+  "phone": "tel:0927053340",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.755799,99.965651&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.755799,99.965651&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

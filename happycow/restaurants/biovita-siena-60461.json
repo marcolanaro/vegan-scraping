@@ -1,0 +1,18 @@
+{
+  "title": "Biovita",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Macrobiotic, Organic\n                                    ",
+  "description": "Vegetarian restaurant and cafeteria that uses only organic produce. Also sells some products. Located 3km south of the city centre.",
+  "priceRange": "Moderate",
+  "streetAddress": "Strada Massetana Romana 54",
+  "postalCode": "53100",
+  "phone": "tel:+39-0577205416",
+  "venueHours": "\n                                                                                                        Mon-Tue 8:30am-7:30pm, Wed 8:30am-4:00pm, Thu-Fri 8:30am-7:30pm, Sat 8:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/biovitasiena",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.303506,11.322634&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.303506,11.322634&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

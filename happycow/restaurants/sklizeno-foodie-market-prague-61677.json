@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sklizeno Foodie Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "This store that has a vegan prepared food section with sandwiches, cake, and raw cakes for take away. The store stocks some rganic and healthy produce.",
+  "streetAddress": "Vodičkova",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon 9:00am-8:00pm, Tue-Fri 8:00am-8:00pm, Sat 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/sklizeno",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.080252,14.423643&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.080252,14.423643&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

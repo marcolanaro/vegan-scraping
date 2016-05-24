@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hill Tribe Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Covered, open-air style restaurant offering a decent vegetarian selection, all of which can be made vegan. Has tofu options. Reclined table service.",
+  "priceRange": "Moderate",
+  "streetAddress": "13/22 Phetchkasem Rd",
+  "phone": "tel:0936483860",
+  "venueHours": "\n                                                                                                        Mon-Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/HillTribeRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.684337,98.253015&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.684337,98.253015&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

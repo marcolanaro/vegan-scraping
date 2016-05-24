@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tower Hill Stables Animal Sanctuary",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "Animal sanctuary where Fiona Oakes, a retained fire-fighter and elite marathon runner, along with her partner, care for around 400 rescued animals including 30 dogs & 52 horses. Asheldam is a hamlet in Essex 14km southeast of Maldon.",
+  "streetAddress": "Southminster Road, Asheldham",
+  "postalCode": "CM0 7DZ",
+  "phone": "tel:+44-7720-732081",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/towerhillstables",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.643623,0.813318&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.643623,0.813318&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Huong Thoi Gian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Vietnamese\n                                    ",
+  "description": "A slightly more upscale vegetarian restaurant with a nice dining area very similar to Lien Hoa on Le Quy Don street. Has English menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "60 Hai Ba Truong",
+  "phone": "tel:0905485122/,%200543820878",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/H%C6%B0%C6%A1ng-th%E1%BB%9Di-gian-cafe/541653975910309",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.459489,107.589058&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.459489,107.589058&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

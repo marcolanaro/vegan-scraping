@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hasalatia",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Raw, Fast food, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Design-your-own-salad stand in the center of town, that also offers many soups in the wintertime. Dozens of fresh, healthy ingredients to choose from, all of which are vegan except for the tuna, egg and cheese toppings, and some of the dressings. No seating available inside, but a few tables outside and plenty of park benches nearby.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hillel 23",
+  "phone": "tel:02-6223300",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-8:00pm, Sun 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/hasalatia",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.780202,35.218419&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.780202,35.218419&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

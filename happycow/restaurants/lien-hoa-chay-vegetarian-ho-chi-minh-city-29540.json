@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lien Hoa Chay Vegetarian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Vietnamese\n                                    ",
+  "description": "Vegan restaurant with two sitting area, indoor air conditioning. A la carte menu and takeaway. Modern decor with also a covered patio.",
+  "priceRange": "Moderate",
+  "streetAddress": "497/35 Su Van Hanh, P12, District 10",
+  "phone": "tel:0862649166",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.758695,106.674220&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.758695,106.674220&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

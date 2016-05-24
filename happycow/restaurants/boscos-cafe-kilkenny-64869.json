@@ -1,0 +1,19 @@
+{
+  "title": "Bosco's Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Beer/Wine, European\n                                    ",
+  "description": "A 100% vegan/vegetarian restaurant with vegan owners. Serves jaffles, toasties and seasonal salads and more. Some food is vegan and all other options can be made vegan. Coffee is made from beans roasted in Ireland. Located inside the Art Deco building of the Watergate Theatre. Very cool spot, musicians and artists tend to be regular clientele. They also host in-house gigs.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Parliament St, Watergate Theatre",
+  "postalCode": "R95 D320",
+  "phone": "tel:00353-861232462",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/boscoscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.655089,-7.254852&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.655089,-7.254852&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saeng Sri Veggie",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Fast food, Take-out\n                                    ",
+  "description": "A few exceptionally clean, spicy and delicious dishes served on mixed Thai jasmine white/red rice. 3-4 blocks west of clock tower/JB Hotel.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "25/9 Saeng Sri Road",
+  "phone": "tel:074-351739",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.013253,100.475829&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.013253,100.475829&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nongna Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Fast food, Take-out\n                                    ",
+  "description": "Menu is displayed on the wall in Thai. Includes all-vegan noodle soup, papaya salad, spring rolls, mushroom satay, in-house-made tofu and veggie meats, wonton, iced drinks. Everything is vegan with the exception of canned Carnation milk for ice drinks available on request. Owner speaks a bit of English. Located in between two other Bud. vegetarian restaurants, a couple of minutes walk west from Suan Dok and across the street from Chiang Mai University Faculty of Pharmacy (purple color) building. Previously named Na Somtam.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "187 Suthep Road",
+  "phone": "tel:08-61972548",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.789472,98.966930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.789472,98.966930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

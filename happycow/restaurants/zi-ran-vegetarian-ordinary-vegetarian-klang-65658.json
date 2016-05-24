@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zi Ran Vegetarian - Ordinary Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "自然素餐厅 offers rice and noodle items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "24, Jalan Teluk Pulai, Kawasan 1",
+  "postalCode": "41100",
+  "phone": "tel:03-33816495",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 6:00pm-9:30pm, Tue-Sun 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.039439,101.438670&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.039439,101.438670&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

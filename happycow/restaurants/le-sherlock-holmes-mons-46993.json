@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Le Sherlock Holmes",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Salad bar, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. British style pub with vegan main courses and a variety of vegan burgers (chili con quorn, eggplant, zucchini, carrot). Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rue du Miroir 3",
+  "postalCode": "7000",
+  "phone": "tel:003265314909",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-3:00pm, 6:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Le-Sherlock-Holmes/103838061325",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.454742,3.953267&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.454742,3.953267&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

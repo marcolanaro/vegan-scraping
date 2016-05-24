@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Hairlatte",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out, Asian, Vietnamese, Korean\n                                    ",
+  "description": "Part of international chain of vegan restaurants inspired by Supreme Master Ching Hai, an advocate for veg living. Each location is individual family operated. Serves all vegan food, non-alcoholic beverages, and vegan desserts. Last order 8pm. Note that sometimes closes earlier, so better call ahead if coming in the evening.",
+  "priceRange": "Moderate",
+  "streetAddress": "102, Rivers 5th, 14-1, Dongdaesin-dong, Seo-gu",
+  "phone": "tel:051-2486166",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.117925,129.017088&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.117925,129.017088&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

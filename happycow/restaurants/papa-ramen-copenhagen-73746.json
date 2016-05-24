@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Papa Ramen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Japanese, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Ramen eatery with one vegan ramen (miso and tofu).",
+  "priceRange": "Moderate",
+  "streetAddress": "Skydebanegade 16,",
+  "postalCode": "1709",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 12:00pm-9:00pm, Thu-Fri 12:00pm-10:00pm, Sat-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/paparamen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.668610,12.554076&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.668610,12.554076&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

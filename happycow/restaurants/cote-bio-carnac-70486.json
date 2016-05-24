@@ -1,0 +1,13 @@
+{
+  "title": "Cote Bio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "6 rue du Tumulus",
+  "postalCode": "56340",
+  "phone": "tel:02-97529987",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-1:00pm, 3:30pm-7:00pm, Sun 9:00am-1:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.583672,-3.078091&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.583672,-3.078091&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tanaka Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "Serves hawker style vegetarian food such as fried bee hoon, veg chicken rice, kway chup, lor mee, and nasi lemak plus daily specials like mee siam and mee rebus. In the evening, the stall serves stir fry dishes, including assortment of noodles and a limited menu simple dishes such as mix vegetables, sweet and sour pork, fried mushroom. In most dishes egg is optional, but some of the fried noodles and kway tiao contains egg. Sometimes closes on Tuesday.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 306A Woodland St 31",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.430004,103.775060&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.430004,103.775060&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

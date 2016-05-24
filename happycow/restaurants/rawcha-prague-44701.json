@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rawcha",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Western, Take-out, Fusion\n                                    ",
+  "description": "Teahouse and raw food restaurant, opened May 2013. Offers raw cuisine, raw desserts, and quality tea from Asia. Also sells teaware.",
+  "priceRange": "Expensive",
+  "streetAddress": "Na porici 8, Praha 1",
+  "phone": "tel:+420-721837553",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Rawcha.Praha",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.088922,14.430686&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.088922,14.430686&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

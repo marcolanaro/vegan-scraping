@@ -1,0 +1,19 @@
+{
+  "title": "Il Sedano Allegro",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, International, Italian, Beer/Wine\n                                    ",
+  "description": "Vegetarian restaurant established in 1990. Relaxed atmosphere on a quiet street. May have little or no vegan options. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Farini 1/3 r",
+  "postalCode": "50121",
+  "phone": "tel:+39-055-2344020",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-12:00am, Sun 7:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.772656,11.265134&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.772656,11.265134&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

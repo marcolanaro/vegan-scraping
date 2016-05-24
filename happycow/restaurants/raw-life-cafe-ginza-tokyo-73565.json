@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Raw Life Cafe - Ginza",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Western, Fusion\n                                    ",
+  "description": "Raw food cafe 浅野ビルはありません3 7F、2-4-19都中央区銀座東京. Choose a combo from a variety of salads, wraps, soups, plus smoothies and sweets.",
+  "priceRange": "Moderate",
+  "streetAddress": "Asano Bldg 3 7F, 2-4-19, Choku",
+  "phone": "tel:03-62286261",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-8:00pm, Sat-Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.674330,139.766586&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.674330,139.766586&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

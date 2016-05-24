@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bagel Shmaygel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Fast food, Salad bar, Delivery, Take-out, Middle Eastern, Israeli, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Cafe specializing bagels and deli salads. Many vegan choices marked on the menu. Offers deals and party platters.",
+  "priceRange": "Moderate",
+  "streetAddress": "177 Herzl St",
+  "phone": "tel:08-6582764",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-8:00pm, Fri 7:00am-1:00pm, Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/%D7%91%D7%99%D7%99%D7%92%D7%9C-%D7%A9%D7%9E%D7%99%D7%99%D7%92%D7%9C-1657120127864428/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.898302,34.810458&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.898302,34.810458&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

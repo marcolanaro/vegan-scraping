@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bat Harim",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Caters custom-made vegan meals and picnics.",
+  "streetAddress": "Kadita 13001 Safed, Hazafon",
+  "phone": "tel:054-5951654",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/בת-הרים-אירוח-גלילי-טבעוני/692385437454923",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.005954,35.468309&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.005954,35.468309&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

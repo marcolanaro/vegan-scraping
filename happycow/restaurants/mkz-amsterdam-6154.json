@@ -1,0 +1,17 @@
+{
+  "title": "MKZ",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Western, Beer/Wine\n                                    ",
+  "description": "A collective run restaurant that's open for dinner only. Reservation required (except Sat), taking reservations between 2:30-6pm on Thur-Fri, limited to 50 diners. Menu changes daily and is fixed. A starter (usually soup, 1 euro), main dish (3 euro), dessert (1 euro). Beer and wine available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Eerste Schinkelstraat 16",
+  "postalCode": "1001 RA",
+  "phone": "tel:020-6790712",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.353970,4.854850&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.353970,4.854850&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

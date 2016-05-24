@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jay Restaurant Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Take-out\n                                    ",
+  "description": "Small restaurant with a selection of buffet items and a-la-carte menu. Some take-out pre-packaged food is also available. Directions: from the train station, catch the ferry and head west onto Th Naraesuan, after a few minutes walk, you'll come across a small bridge, the restaurant is on your left, just off Th Naraesuan. Roughly between the Main Bus Terminal and The Minivans To Bangkok.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "49/1 Khlong Makharm Riang Rd",
+  "postalCode": "13000",
+  "phone": "tel:035-243423",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.357913,100.574530&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.357913,100.574530&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fan Shu Teng - Sweet Potato",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Salad bar, Taiwanese\n                                    ",
+  "description": "Offers an organic salad with many types of sprouts and a decent selection of veggies. A variety of hot dishes also available.",
+  "priceRange": "Moderate",
+  "streetAddress": "130, Xian Fu Lu",
+  "phone": "tel:03-333-4546",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.997090,121.296020&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.997090,121.296020&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

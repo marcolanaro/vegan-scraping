@@ -1,0 +1,17 @@
+{
+  "title": "The Bear",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine\n                                    ",
+  "description": "A well-stocked wholefood shop on the ground floor, plus an upstairs veggie cafe offering vegan food options. Live music Friday and Saturday nights.",
+  "priceRange": "Moderate",
+  "streetAddress": "29 Rochdale Road",
+  "postalCode": "OL14 7LA",
+  "phone": "tel:01706-813737",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-4:30pm, Sun 11:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.712630,-2.098470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.712630,-2.098470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Radiance Wholefoods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and health food shop providing fresh organic produce, tempeh, bakery items, nuts, seeds, grains, and more. Mainly receive orders via website and deliver to shipping address.",
+  "streetAddress": "Sukhumvit Soi 22 Klongtoey",
+  "postalCode": "10110",
+  "phone": "tel:021164265",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/radiancewholefoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.726692,100.563043&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.726692,100.563043&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bohemian Burgers",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Western, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A fusion burger kitchen offering many kinds of veggie burgers along with sides of finger food, soups, and dessert. Has soymilk for coffee. Established since late-2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "14 Rr. Myslim Shyri",
+  "postalCode": "1000",
+  "phone": "tel:+355-696748778",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/BohemianBurgers",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.324633,19.809942&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.324633,19.809942&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

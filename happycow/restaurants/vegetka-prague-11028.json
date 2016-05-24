@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetka",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Fast food, Take-out, Vietnamese\n                                    ",
+  "description": "Vegetariánska kuchyně. Casual veggie food restaurant in a quiet neighborhood just a short walk from Dejvická Metro exit. Menu is in Czech, and there is a photo menu on the wall: seaweed rolls, stir frys, soymeat dishes, sushi, noodles, tofu and vegetables. White rice only. Meals are served in beautiful authentic china. Comfortable clean space with several tables. Vietnamese music and chants played. No smoking. Owners are very friendly, the man (Mr. Chen) also speaks English. Maybe closed in between lunch and dinner for rest. Directions: from Dejveska metro station, if facing Diplomat Hotel, Kafkova is an alley behind the hotel, and to the left.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kafkova 16, Praha 6",
+  "phone": "tel:+420-776-343462",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:30am-9:00pm, Sat 10:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.098770,14.397240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.098770,14.397240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

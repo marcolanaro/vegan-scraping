@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Namaskar Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Filipino\n                                    ",
+  "description": "Serves Chinese and Filipino food and also sells some herbal products. Previously named Vegetarian House.",
+  "priceRange": "Moderate",
+  "streetAddress": "75P Burgos Street",
+  "postalCode": "5300",
+  "phone": "tel:09204912965/,%2009187050124",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/namaskarvghouse",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.738513,118.734489&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.738513,118.734489&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

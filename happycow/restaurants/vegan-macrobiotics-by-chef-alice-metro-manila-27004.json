@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Macrobiotics by Chef Alice",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "No sugar, no vege-meat, no processed or artificial flavors and additives. Sells frozen ready-to-eat dishes, bottled vegan bagoong, and pure non-gmo soy sauce. Also caters and deliveries are done through CityDelivery.com. It's near SM Centerpoint; previously located on Mercato Market.",
+  "streetAddress": "3171 Reposo St",
+  "postalCode": "1016",
+  "phone": "tel:+63922-8148193/,%20+632-3436616",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/veganmacrobiotics",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.599857,121.015928&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.599857,121.015928&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

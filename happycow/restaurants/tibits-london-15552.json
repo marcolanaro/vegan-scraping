@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tibits",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Buffet, Salad bar, Juice bar, Beer/Wine, Take-out, Catering\n                                    ",
+  "description": "Connected with Hiltl restaurant in Zurich, Europe's oldest vegetarian restaurant, Tibits is a short stroll from famous Piccadilly Circus. Features a food boat of savory entrees as well fresh salads--help yourself to what you'd like, and a staff will weigh your plate. Food is served until 30 minutes before closing. Has fresh juices and takeaway containers available. Reservations taken for group of 8 or more.",
+  "priceRange": "Moderate",
+  "streetAddress": "12-14 Heddon Street",
+  "postalCode": "W1B 4DA",
+  "phone": "tel:020-7758-4110",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-10:30pm, Thu-Sat 9:00am-12:00am, Sun 11:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tibits.uk",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.511030,-0.139570&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.511030,-0.139570&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

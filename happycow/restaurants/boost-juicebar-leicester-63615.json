@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Boost Juicebar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice bar serving smoothies, fruit crushes, juices and booster supplements. Soya milk available for shakes.\r\n",
+  "streetAddress": "Highcross Shopping Centre",
+  "phone": "tel:01162517400",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:30am-8:00pm, Thu-Fri 8:00am-8:00pm, Sat 9:00am-7:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BoostJuiceUK/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.635545,-1.138334&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.635545,-1.138334&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

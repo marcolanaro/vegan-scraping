@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Akbar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Standard Japanese style North Indian menu with a selection of vegetarian dishes like spinach curry, chick pea curry, and others (likely uses ghee/clarified butter - vegans must ask). Lunch time vegetarian plate (two curries, sweet yoghurt, small salad starter, and hot/cold drink with naan or rice) costs approx. 1200 yen.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nakamura-ku, Mei-eki 4-3-25, Castle Plaza B1",
+  "phone": "tel:052-583-0986",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:30pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.171247,136.887264&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.171247,136.887264&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

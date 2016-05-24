@@ -1,0 +1,18 @@
+{
+  "title": "Biofresh",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Western, Salad bar, Juice bar, Take-out, French\n                                    ",
+  "description": "Vegan restaurant offering organic food and raw options.",
+  "priceRange": "Moderate",
+  "streetAddress": "36 rue de l'Arsenal",
+  "postalCode": "68100",
+  "phone": "tel:0369073631",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-2:00pm, 7:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.746789,7.333562&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.746789,7.333562&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

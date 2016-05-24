@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Phap Lam",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Take-out, Vietnamese\n                                    ",
+  "description": "In Phap Lam Pagoda, at 3-way intersection with Le Dình Duong Street, you will find this restaurant. Serves traditional Vietnamese rice and noodle dishes, soups, and cakes and pastry wraps. Has English language menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "574 Ong Ich Khiem",
+  "phone": "tel:0511-3872192",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.061203,108.216641&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.061203,108.216641&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

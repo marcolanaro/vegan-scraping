@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Home Wellness Centre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "家圆养生绿苑 serves rice and noodle items.",
+  "priceRange": "Moderate",
+  "streetAddress": "26, Jalan Adda 3/3, Taman Adda Height",
+  "postalCode": "81100",
+  "phone": "tel:0167104398",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/homewellnesscatering/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.547273,103.749651&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.547273,103.749651&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

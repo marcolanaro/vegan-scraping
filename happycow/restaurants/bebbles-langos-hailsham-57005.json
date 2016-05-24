@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bebble's Langos",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Hungarian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hungarian with a British twist, its menu is based around the food Langos, a traditional Hungarian street food that is cooked to order. The dough is vegan, and there are a variety of sweet and savory topping and fillings. Husband and wife operated, can answer questions about ingredients, offer different vegan puddings with prior notice.",
+  "priceRange": "Moderate",
+  "streetAddress": "10 Goerge St",
+  "postalCode": "BN271AE",
+  "phone": "tel:01323-301490",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:30am-10:00pm, Fri-Sat 11:30am-11:00pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/bebbleslangos",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.862159,0.259333&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.862159,0.259333&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

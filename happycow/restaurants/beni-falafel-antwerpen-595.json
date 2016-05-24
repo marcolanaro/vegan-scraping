@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Beni Falafel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Middle Eastern\n                                    ",
+  "description": "Falafel shop. Chakchuka can be made egg free, vegan options on request.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lange Leemstraat 188, Belgielei, Antwerp",
+  "postalCode": "2018",
+  "phone": "tel:32-3-2188211",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-8:00pm, Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.205472,4.418373&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.205472,4.418373&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

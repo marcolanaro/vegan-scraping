@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Annapurna Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, British, English\n                                    ",
+  "description": "Vegetarian café within a holistic treatment centre. Offers a daily special, soup, a choice of toasties and paninis, toast with various toppings, filled jacket potatoes, cakes including gluten-free.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Vulcan Place",
+  "postalCode": "NE22 5DN",
+  "phone": "tel:01670457140",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-5:00pm, Tue-Fri 10:00am-5:00pm, Sat 9:30am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/AnnapurnaWellbeingCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.130801,-1.592680&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.130801,-1.592680&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

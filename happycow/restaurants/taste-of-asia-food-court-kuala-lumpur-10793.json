@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Taste of Asia Food Court",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Buffet, Fast food\n                                    ",
+  "description": "No garlic or onion used. Note to vegetarian purists: the plates and utensils are shared with the other (non-vegetarian) stalls and all is washed together in one place. Suggestion: take-out foam box or bring your own. Can use card to make payment by buying the card, top-up the value and refund the balance from the counter. Previously listed as 'Berjaya Time Square 10th Avenue Food Mall', Aug 2014. Please confirm if there are vegan options and let HappyCow know!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1, Jalan Imbi, Lower Ground Floor West, Berjaya Times Square",
+  "postalCode": "55100",
+  "phone": "tel:03-79829135",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.142659,101.710396&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.142659,101.710396&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rama",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Organic, Beer/Wine\n                                    ",
+  "description": "Address in Japanese 422.8052 静岡県静岡市駿河区緑が丘町19.6. Very rustic feel location. Serves mostly organic and locally produced food, including some grown by the owners. All vegan except packaged honey for sale in the shop. Best access is by car; it's a 30 minute walk from the nearest train station.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shizuoka City",
+  "phone": "tel:054-2605186",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-11:00pm, Thu-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Rama/343642825704888",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.954067,138.380516&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.954067,138.380516&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

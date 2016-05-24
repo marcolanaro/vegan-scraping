@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Legend Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Malaysian\n                                    ",
+  "description": "Provides a wide range of dishes. Has parking.",
+  "priceRange": "Moderate",
+  "streetAddress": "S/Lot 10 of P/Lot 745 Block 745 Knid, The 3rd Excharge, 3  1/2 mile",
+  "postalCode": "93250",
+  "phone": "tel:082-460400",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-9:30pm, Sat 11:00am-9:30pm, Sun 10:00am-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.514394,110.334898&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.514394,110.334898&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

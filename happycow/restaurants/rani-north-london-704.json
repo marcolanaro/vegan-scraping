@@ -1,0 +1,15 @@
+{
+  "title": "Rani",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Buffet, Beer/Wine, Take-out\n                                    ",
+  "description": "Features a daily buffet. All dairy items clearly labeled and no eggs used.",
+  "priceRange": "Moderate",
+  "streetAddress": "7 Long Lane, Finchley Central",
+  "postalCode": "N3 2PR",
+  "phone": "tel:020-83494386",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:00pm-10:00pm, Sun 1:00pm-3:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.605540,-0.188570&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.605540,-0.188570&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

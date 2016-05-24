@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tien Zhi Tyng",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Malaysian\n                                    ",
+  "description": "Malaysian food: various noodles, stir fry or in soup; rice with assorted dishes to choose from. No English menu. Please send exact / correct map coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 10, Lot 4, Taman Indah, 4th Mile",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.905774,118.063224&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.905774,118.063224&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

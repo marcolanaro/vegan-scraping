@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yo Sushi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Japanese, Buffet, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Choose dishes from the sushi conveyor belt or order a la carte. Try the pumpkin katsu curry or avocado maki minus mayonaise. Any item labeled vegetarian without milk or egg is vegan. On the first floor of Manchester Arndale Shopping Centre.",
+  "priceRange": "Moderate",
+  "streetAddress": "Withy Grove and Cross St",
+  "postalCode": "M4 3AQ",
+  "phone": "tel:01612198934",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/YOSushi",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.483824,-2.241873&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.483824,-2.241873&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Vis a Vis",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Macrobiotic, Take-out, Bakery\n                                    ",
+  "description": "Small restaurant serving vegan food, cake, and drinks. Menu and baked goods change from time-to-time. Bright interior. Operating since early-2012.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-3-12 Nara Builg2F, Asahi",
+  "phone": "tel:+81-985-267666",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/visavis77cafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.909688,131.426732&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.909688,131.426732&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

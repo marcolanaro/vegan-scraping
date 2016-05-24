@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yin-Yang Flower Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Organic, Take-out, Asian, Fusion\n                                    ",
+  "description": "A tiny, casual, all-vegan, organic cafe located just behind Shochiku Movie Studio. It's about a 5 minute walk from the Randen Katabira-no-Tsuji Station which is close to Uzumasa Movie Village and Arashiyama. Offers three kinds of meals: Plate of the day lunch (1,000¥ - accepts orders until 3:00 pm); today's curry (800¥); miso soup and brown rice balls set (600¥ - five pungent roots free). You also can order a boxed lunch (800¥) to go. Uses only GMO-free products. Prices quoted as of April 2016.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-39, Goshonouchi-cho, Ukyo-ku",
+  "postalCode": "616-8157",
+  "phone": "tel:810-754067109",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-5:00pm, Wed-Thu 11:30am-5:00pm, Fri-Sat 11:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.012380,135.697602&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.012380,135.697602&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

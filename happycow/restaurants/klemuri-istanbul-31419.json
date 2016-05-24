@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Klemuri",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Salad bar, Beer/Wine, Take-out, Black Sea, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers plenty of vegan options on the menu and also some daily options. Black Sea cuisine offers a good variety of veggie food. Located on a quiet street just off of Istiklal Cad near Taksim Square, in an historical building with an inviting atmosphere. Go through Tbox shop on Buyuk Parmakkapi Street. English speaking owners serve food. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Buyuk Parmakkapi Sokak, Unit 2, Beyoglu",
+  "phone": "tel:+90-2122923272",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/klemuri",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.034530,28.982529&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.034530,28.982529&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

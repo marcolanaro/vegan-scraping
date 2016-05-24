@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BlueTaco",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Beer/Wine, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Specializes in making tacos. Has tofu tacos and avocado tacos for vegans. Small space with bright colors and street art decor.",
+  "priceRange": "Moderate",
+  "streetAddress": "Blagardsgade 1",
+  "phone": "tel:32218000",
+  "venueHours": "\n                                                                                                        Mon-Wed 12:00pm-10:00pm, Thu-Sat 12:00pm-11:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Blaataco",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.687886,12.560069&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.687886,12.560069&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

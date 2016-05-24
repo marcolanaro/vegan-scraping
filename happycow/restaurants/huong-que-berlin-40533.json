@@ -1,0 +1,15 @@
+{
+  "title": "Huong Que",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Juice bar, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has several dishes marked as vegetarian which are mostly suitable for vegans including vegetables, tofu, vegan duck, vegan chicken and noodle dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bergmannstrasse 96, Kreuzberg",
+  "postalCode": "10961",
+  "phone": "tel:306949869",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.489611,13.391249&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.489611,13.391249&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Je Tieng 1",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai\n                                    ",
+  "description": "A vegetarian restaurant that also sells frozen and dried mock meats and other vegetarian cooking ingredients. Restaurant serves buffet style dishes that change daily with vegan options; no food left after 12pm. Best time to arrive is in the early morning around 7am, though it will be crowded. There are a la carte dishes available until late afternoon. Je Tieng 2 is just 100 meters down the road and specializes in vegetarian hot pot (suki). No English spoken or written.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "100/1-2 Moo 1 Prayasatya Road, T Samed",
+  "postalCode": "20000",
+  "phone": "tel:+66-891441646",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/j.tieng.chonburi",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.326396,101.003311&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.326396,101.003311&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

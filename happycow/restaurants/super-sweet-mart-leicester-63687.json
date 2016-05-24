@@ -1,0 +1,15 @@
+{
+  "title": "Super Sweet Mart",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "Vegetarian Indian sweet shop.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "86-88 Green Lane Rd",
+  "postalCode": "LE5 3TJ",
+  "phone": "tel:01162536316",
+  "venueHours": "\n                                                                                                        Mon-Tue 9:30am-8:00pm, Thu-Sat 9:30am-8:00pm, Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.639171,-1.103323&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.639171,-1.103323&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

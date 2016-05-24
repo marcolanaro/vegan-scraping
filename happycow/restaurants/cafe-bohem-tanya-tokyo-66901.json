@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Bohem Tanya",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Raw, Beer/Wine, Fusion, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Specializes in anti-aging creative cuisine. Has vegan choices; please inquire. Serves wine, Belgium beer, Chinese tea and more.",
+  "priceRange": "Moderate",
+  "streetAddress": " 6-1 Yokoo Blvd 101, Honshiocho, Shinjuku-ku, Tokyo",
+  "postalCode": "160-0003",
+  "phone": "tel:81-363800526",
+  "venueHours": "\n                                                                                                        Mon-Tue 6:00pm-10:00pm, Thu 6:00pm-10:00pm, Sat-Sun 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeBohemTanya",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.689097,139.729094&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.689097,139.729094&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

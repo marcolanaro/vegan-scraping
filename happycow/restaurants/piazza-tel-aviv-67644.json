@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Piazza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian eatery offering several  veganizable options in every category, including pasta, pizza, and starters. Plenty of seating. Parking lots in the area.",
+  "priceRange": "Moderate",
+  "streetAddress": "99 Dizengoff St.",
+  "phone": "tel:03-5274488",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/piazzatlv",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.079309,34.773903&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.079309,34.773903&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

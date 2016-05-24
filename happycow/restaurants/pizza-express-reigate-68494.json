@@ -1,0 +1,20 @@
+{
+  "title": "Pizza Express",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain pizzeria restaurant. Willing to cater to vegetarians and vegans. Could make cheese-less pizza or add vegan cheese if you bring it. The Pianta pizza is vegan suitable, comes with spinach, chestnut mushrooms, pine kernels, artichoke, tomato, chilli flakes and garlic, topped with virgin olive oil and fresh parsley. For dessert a vegan sorbet.",
+  "priceRange": "Moderate",
+  "streetAddress": "15 High St",
+  "postalCode": "RH2 9AA",
+  "phone": "tel:01737241969",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:30am-11:00pm, Thu-Sat 11:30am-11:30pm, Sun 11:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pizzaexpress",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.237464,-0.206457&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.237464,-0.206457&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

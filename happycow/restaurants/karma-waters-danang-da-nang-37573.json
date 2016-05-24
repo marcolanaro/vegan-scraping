@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Karma Waters - Danang",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Indian, Western, Juice bar, Delivery, Take-out, Vietnamese\n                                    ",
+  "description": "Vegan restaurant with English speaking staff and menus, free Wi-Fi. No MSG or sugar added, and no alcohol. Has gluten-free muffins, cakes, and bread; most dishes are gluten-free. Raw vegan menu available. Serves both Western (French press) and Vietnamese coffee. Also hosts vegan cooking classes, responsible tours and homestay. Moved from 113/10 Nguyen Chi Thanh in 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "34 Nguyen Chi Thanh",
+  "phone": "tel:5113-849790",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/karma.waters.98",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.076745,108.220476&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.076745,108.220476&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rusty Pelican",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Beer/Wine, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican food, run by a chef from California. He understands and will cater to all dietary needs. Everything homemade on premises. Little place with atmosphere.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "67/139 Moo 5, Bang Niang",
+  "phone": "tel:+66/(0)84-840-6607",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.666950,98.249520&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.666950,98.249520&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

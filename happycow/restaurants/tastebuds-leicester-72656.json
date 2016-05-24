@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tastebuds",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Western, Fast food, Take-out, Catering\n                                    ",
+  "description": "Cafe opened Oct 2015 in Highfields Leicester, specializing in casual vegetarian Indian food as well western meals like sandwiches and fries. Makes cakes and shakes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "114 Melbourne Rd",
+  "postalCode": "Le20ds",
+  "phone": "tel:01162623024",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-8:00pm, Fri-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Tastebuds-Leicester-1916200578604463",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.632795,-1.114172&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.632795,-1.114172&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kasalong Gardens Home",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Indian, Thai, Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chill place with 2 tables in a pebble garden in the courtyard of a guesthouse, opened Sept 2013. Menu features breakfast food, curry and vegetable dishes with tofu and brown rice (no red meat), plus fruit and vegetable juices, smoothies, and lassi. Try a hearty vegetable and pumpkin soup or a vegan burger. The friendly owner is also the cook.",
+  "priceRange": "Moderate",
+  "streetAddress": "22, Moonmuang Lane 9",
+  "phone": "tel:0847690207",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/pages/Kasalong-Gardens-Home/470677033019348",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.793761,98.992174&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.793761,98.992174&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

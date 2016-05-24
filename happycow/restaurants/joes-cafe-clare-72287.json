@@ -1,0 +1,18 @@
+{
+  "title": "Joe's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Beer/Wine, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Staff will make anything vegan if it is possible. Also, the everyday vegan choices are plentiful. Easy to find; right next door to the Promenade car-park. It's quirkily and pleasantly decorated.",
+  "priceRange": "Moderate",
+  "streetAddress": "Promenade",
+  "phone": "tel:00-3530657086113",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Joes-cafe-187928861251270",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.933504,-9.347759&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.933504,-9.347759&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

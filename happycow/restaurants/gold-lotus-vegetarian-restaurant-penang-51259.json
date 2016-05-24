@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gold Lotus Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Take-out\n                                    ",
+  "description": "A vegetarian buffet restaurant offers a variety of local dishes such as buffet rice, mmee goreng, char koay teow, jawa mee, hokien mee, hokkien char, siam laksa, nasi lemak, fried rice, bak kut teh and nasi ulam. Chinese name: 黃金淨地素食館",
+  "priceRange": "Inexpensive",
+  "streetAddress": "52, Lebuh Presgrave, George Town",
+  "postalCode": "10300",
+  "phone": "tel:016-4561669",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.410937,100.330778&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.410937,100.330778&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

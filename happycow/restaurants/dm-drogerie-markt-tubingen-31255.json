@@ -1,0 +1,13 @@
+{
+  "title": "DM-Drogerie Markt",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A drugstore chain throughout Germany. Offers its own cosmetic label called Alverde. Products are ecological, organic, and mostly vegan. Also sells some Alnatura products which are vegan, like hearty spreads, a cheese-free basil-pesto, agave nectar, soy-products, etc.",
+  "streetAddress": "Hugelstraße 5",
+  "postalCode": "72072",
+  "phone": "tel:+4970713659384",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.514848,9.068428&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.514848,9.068428&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

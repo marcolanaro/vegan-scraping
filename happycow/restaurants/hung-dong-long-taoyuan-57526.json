@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hung Dong Long - Vegetarian Hot Pot Buffet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Taiwanese\n                                    ",
+  "description": "宏冬龍素食養生迴轉自助火鍋, at 桃園市龜山區文化三路318號, offers all-you-can-eat hot pot train (conveyor belt) vegetarian restaurant. Choose from 3 soup stocks: spicy, flavor, and herb. Large variety of vegetables and soy-based faux meats. Also offers rice, stinky tofu, braised food, fresh fruit, drinks, and ice cream.",
+  "priceRange": "Moderate",
+  "streetAddress": "318 Wenhua 3rd Rd, Guishan District",
+  "postalCode": "33377",
+  "phone": "tel:03-3279303",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 10:00am-2:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.055628,121.365348&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.055628,121.365348&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

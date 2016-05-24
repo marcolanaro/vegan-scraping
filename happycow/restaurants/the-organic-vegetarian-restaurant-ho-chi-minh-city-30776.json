@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Organic Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Take-out, Vietnamese\n                                    ",
+  "description": "Tastefully appointed, comfortable, and clean restaurant. Most menu items are vegan but a few have dairy ingredients: Vietnamese cuisine, western style pasta, soups and porridge, hot pots. Has Wi-Fi. Dining on two floors, with room for large parties on both floors.",
+  "priceRange": "Moderate",
+  "streetAddress": "54 Ly Van Phuc Stress, Tan Dinh Ward, District 1",
+  "phone": "tel:08-38200278",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.791427,106.693811&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.791427,106.693811&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

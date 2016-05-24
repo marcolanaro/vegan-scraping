@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Prunus",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Organic, Take-out\n                                    ",
+  "description": "Vegan macrobiotic restaurant serving balanced set meals. Located in front of the station. Gluten free menu available. Chef is a macrobiotic cooking instructor and nutritionist. See website for English. Apr 2015 opened after remodeling.",
+  "priceRange": "Moderate",
+  "streetAddress": "9-4, Kurumamichi-cho, Saga Tenryuji, Ukyo-ku",
+  "postalCode": "616-8373",
+  "phone": "tel:075-8622265",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.018001,135.681316&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.018001,135.681316&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

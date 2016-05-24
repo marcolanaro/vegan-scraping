@@ -1,0 +1,14 @@
+{
+  "title": "Ristorante Tiramisu",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. German/Italian restaurant offers basic vegan Italian dishes such as salad, antipasti, spaghetti with tomato sauce. In addition, vegetarian meals can be made vegan. Also open on Sun 6:30pm-open end.",
+  "streetAddress": "Wolfstalstrasse 47",
+  "postalCode": "97209",
+  "phone": "tel:0931-96162",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 5:30pm-12:00am, Sun 11:30am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.836050,9.896340&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.836050,9.896340&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

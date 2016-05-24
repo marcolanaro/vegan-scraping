@@ -1,0 +1,17 @@
+{
+  "title": "Prinz Myshkin City",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Beer/Wine, European, German\n                                    ",
+  "description": "A vegetarian restaurant and lounge. Upscale vibe. Offers a varied menu, plus daily special. Vegan options are marked.",
+  "priceRange": "Expensive",
+  "streetAddress": "Hackenstrasse 2",
+  "postalCode": "80331",
+  "phone": "tel:089265596",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.135780,11.570950&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.135780,11.570950&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Country Vegefoods",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo\n                                    ",
+  "description": "Vegetarian restaurant with store that sells vegetarian supplies like seitan, veggie meats, soy products, and nuts. Operated by Seventh Day Adventists.",
+  "streetAddress": "161 Luna Mencias St, San Juan",
+  "phone": "tel:632-7238614;%20639062228898",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-5:30pm, Fri 7:00am-4:00pm, Sun 7:00am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Country-Vegefoods/160306827322848",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.592003,121.037723&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.592003,121.037723&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

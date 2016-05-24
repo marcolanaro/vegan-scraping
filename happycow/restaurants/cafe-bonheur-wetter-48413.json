@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Bonheur",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a unique and welcoming atmosphere. As vegans you can get breakfast with vegan spreads, vegetables and fruits. Coffee specialties can be ordered with soy milk. All coffee beans are fair trade and organic. At times has vegan brownies, with more vegan desserts if there is a demand. Located in the historic building Villa Bonnhoff, a mansion built in 1902. During summer the associated garden cafe is opened, too. Wi-fi; ask for password.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kaiserstrasse 51",
+  "postalCode": "58300",
+  "phone": "tel:023356827135",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 9:00am-12:00pm, 2:30pm-7:00pm, Sat-Sun 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.388120,7.387300&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.388120,7.387300&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

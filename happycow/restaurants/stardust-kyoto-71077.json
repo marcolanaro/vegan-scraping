@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Stardust",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Japanese\n                                    ",
+  "description": "Food is all vegan. Good ambiance though not suitable for large parties.",
+  "priceRange": "Moderate",
+  "streetAddress": "41 Shichiku Shimotakedonocho, Kita Ward",
+  "postalCode": "603-8412",
+  "phone": "tel:0752867296",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.052340,135.748686&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.052340,135.748686&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

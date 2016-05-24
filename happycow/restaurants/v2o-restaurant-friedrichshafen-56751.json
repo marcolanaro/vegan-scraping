@@ -1,0 +1,19 @@
+{
+  "title": "v2o Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Organic, Western, Take-out\n                                    ",
+  "description": "First 100% vegan restaurant in the city opened in November 2014. Organic, seasonal, regional food. Serves international made-in-house dishes. Has a weekly changing lunch. Small light rooms with a modern interior.",
+  "priceRange": "Moderate",
+  "streetAddress": "Meersburger Strasse 29, Fischbach",
+  "postalCode": "88048",
+  "phone": "tel:+49-75418099200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-2:00pm, Wed-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/v2o-vegan-vegetarian-organic/892433074113834",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.670199,9.407901&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.670199,9.407901&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

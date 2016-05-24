@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bo De Quan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Beer/Wine, Take-out, Vietnamese\n                                    ",
+  "description": "Medium-sized restaurant on two floors. Serves a variety of rice and noodle dishes and soups. The brick walls are painted plainly and the undersides of the wooden 2nd floor sections are painted in mostly bright, alternating colors. No English. Directions: It's located just off Nguyen Tai, a narrow alleyway that runs to the northwest off Ho Tung Mau street, and is located roughly midway between the post office at Nguyen Thi Minh Khai street and Nguyen Van Cu street. From Ho Tung Mau go 100 meters on Nguyen Tai, there you will see a small, arched bridge that leads to the left over a small canal, cross the bridge and continue straight into Bo De Quan's parking area and front door.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "09 Ho Tung Mau, 13 kenh so 2",
+  "phone": "tel:038-3593111",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.671230,105.686599&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.671230,105.686599&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

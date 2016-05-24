@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kong's Burger",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Fast food, Juice bar, Take-out, Asian, Fusion\n                                    ",
+  "description": "Small burger joint, seats 10. Serves vegan sandwiches and burgers with whole wheat bread and house-made patties. Has soy latte. Free Wi-Fi & outlets. Last order 30 minutes before closing.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jurye 3 (sam)-dong, Gaya-daero 272",
+  "phone": "tel:513166069",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-9:00pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.150046,129.002281&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.150046,129.002281&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

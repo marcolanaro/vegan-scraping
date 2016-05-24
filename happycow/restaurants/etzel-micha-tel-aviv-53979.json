@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Etzel Micha",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Take-out, Middle Eastern, Israeli, Yemenite\n                                    ",
+  "description": "Small restaurant offering home-style food made on the premises. There is hummus with toppings like mushroom and pine nuts, soup, salad, and a soy-based \"malabi\" dessert. Vegans be sure to mention that you only want vegan (tivoni) dishes; some items contain egg. No charge for soy milk, and you could get its special sauces and olives to take away.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "191 Ben Yehuda",
+  "phone": "tel:03-6242975",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-5:30pm, Fri 7:00am-4:00pm, Sun 7:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.091432,34.774375&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.091432,34.774375&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

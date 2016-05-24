@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Borderline",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Burmese\n                                    ",
+  "description": "Cafe, shop, and gallery where 'artists in exile' exhibit and sell their work. The cafe removed meat from its menu per report, May 2014. It's around the back of the shop and there is a green garden. Kitchen cooks with organic peanut oil and can modify a dish to be vegan when requested. Kitchen closes at 8:30pm. Offers biodegradable boxes for take-away, and you have an option to take a tiffin box for a deposit.",
+  "priceRange": "Moderate",
+  "streetAddress": "674/14 Thanon Intharakeeree",
+  "postalCode": "63110",
+  "phone": "tel:055546584",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.716106,98.570833&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.716106,98.570833&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

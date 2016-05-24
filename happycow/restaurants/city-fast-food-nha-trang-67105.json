@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "City Fast Food",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Simple 24/7 fast food joint in the tourist area. Sells a vegetarian bean burger, a vegetarian sausage, and vegetarian chicken kebab (egg, cheese, vegetables).",
+  "priceRange": "Moderate",
+  "streetAddress": "32 Tran Quang Khai, 117 Nguyen Thien Thuat",
+  "phone": "tel:058-3522199",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.233179,109.194995&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.233179,109.194995&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Greens Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Juice bar, Bakery, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Licensed cafe and bistro offering some vegetarian dishes that can also be made vegan and are marked. Sample menu items such as 3-bean chilli with rice, jacket potato, or tortilla chips, vegan option shepherds pie, daily vegan soup, sandwich and other jacket potato fillings. Food is made on the premises.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 College St",
+  "postalCode": "LA22 9SZ",
+  "phone": "tel:01539435970",
+  "venueHours": "\n                                                                                                        Mon-Wed 10:00am-5:00pm, Fri-Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.459149,-3.023909&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.459149,-3.023909&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

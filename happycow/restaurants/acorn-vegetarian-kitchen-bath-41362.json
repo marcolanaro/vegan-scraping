@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Acorn Vegetarian Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Beer/Wine, British, English\n                                    ",
+  "description": "In summer 2012 Bath's Demuths restaurant was sold to two of its staff, one of whom is the head chef, and has been renamed to Acorn. Offers seasonal, modern vegetarian cuisine.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 North Parade Passage",
+  "postalCode": "BA1 1NX",
+  "phone": "tel:01225446059",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-3:00pm, Mon-Fri 5:30pm-9:30pm, Sat 5:30pm-10:00pm, Sun 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.380750,-2.358401&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.380750,-2.358401&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

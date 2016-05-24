@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "PLUS",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Organic, Western, Salad bar, Juice bar, Take-out, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic salads and juices with some retail products and takeaway. The dressings are vegan, and you could build your own salad or choose from the menu. Does not use wheat, cow milk, or processed sugar.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ajuinlei 14",
+  "postalCode": "9000",
+  "phone": "tel:0479855773",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:30am-6:00pm, Sat 11:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/plus.gent",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.051312,3.720232&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.051312,3.720232&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aulac Healthy World Vegetarian 4",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "Modern vegan restaurant with nice interior design. Specialty is steam boat where you have the option of few different soup base and you choose the vegetables that you like to put in the soup to cook yourself. There are different kind of mushroom, tofu, mock meat, vegetable to cook and eat fresh, you can eat as much as you like. The fresh veggies are place on a train (like a sushi train), you pick what you want.",
+  "priceRange": "Moderate",
+  "streetAddress": "63-65 Nguyen Kiem Street, P.3 Q. Go Vap District",
+  "phone": "tel:0838940211",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.814365,106.678718&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.814365,106.678718&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

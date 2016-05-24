@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Japanese, Organic, Buffet, Fast food, Take-out, Asian\n                                    ",
+  "description": "Inside the Okada Building since 2013. Part of the international chain of vegan restaurants opened by followers of supreme master Ching Hai, an advocate for veg living. Individual family operated. Offers vegan food, drinks, desserts, take-out lunch boxes, lunch with soups, Taiwanese dumplings, afternoon tea time, and cooking workshops. Saturday there's a vegan lunch buffet.",
+  "priceRange": "Moderate",
+  "streetAddress": "Okada Bldg 2F, 1-54, Jimbocho, Kanda, Chiyoda-ku",
+  "postalCode": "101-0051",
+  "phone": "tel:03-5577-6880",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-5:00pm, Sat 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/LovingHutJapan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.698272,139.757530&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.698272,139.757530&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

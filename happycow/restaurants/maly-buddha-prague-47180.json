@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Maly Buddha",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located between the castle and Strahov Monastery, an Asian inspired restaurant set in a cave has plenty of vegan choices. Menu is in English. Staff speaks good English and is knowledgable about veganism. Try the soup and the spring rolls.",
+  "priceRange": "Moderate",
+  "streetAddress": "46 Uvoz",
+  "phone": "tel:220-513-894",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.087663,14.390246&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.087663,14.390246&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

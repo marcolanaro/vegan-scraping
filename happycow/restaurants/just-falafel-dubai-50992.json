@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Just Falafel - Jumeirah Lake Towers",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise chain was originally veg but added meat to its menu. Offers falafel sandwiches in different international flavors. Dairy and cheese is used, so vegans need to specify.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jumeirah Lakes Towers, Lake Terrace Building",
+  "phone": "tel:04-4539175",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-1:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/justfalafel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.075570,55.145360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.075570,55.145360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

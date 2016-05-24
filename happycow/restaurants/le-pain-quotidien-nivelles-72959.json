@@ -1,0 +1,16 @@
+{
+  "title": "Le Pain Quotidien",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Mediterranean, Bakery, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of international chain featuring artisan bakery. Vegan dishes are marked with a carrot.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rue de Namur 13",
+  "phone": "tel:067877003",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-6:30pm, Sun 8:00am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.598017,4.325255&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.598017,4.325255&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

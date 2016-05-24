@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Inu Eco Natural",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pet friendly cafe in Hapjeong Seoul at 마포구 서교동 398-16. Vegan choices are not on menu but will make a vegan dish upon request. Has soy milk for drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hapjeong",
+  "postalCode": "121-210",
+  "phone": "tel:2-3232923",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Cafeinu1",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.549591,126.919101&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.549591,126.919101&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

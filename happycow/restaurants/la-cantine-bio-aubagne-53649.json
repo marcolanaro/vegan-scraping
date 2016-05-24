@@ -1,0 +1,17 @@
+{
+  "title": "La Cantine Bio",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic restaurant by the health food chain Satoriz. Offers one vegetarian menu each day. Tea room in the morning and the afternoon. Use egg and dairy.",
+  "priceRange": "Moderate",
+  "streetAddress": "2136 route de Gémenos",
+  "postalCode": "13400",
+  "phone": "tel:0442842429",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-11:30am, 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.298064,5.598249&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.298064,5.598249&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

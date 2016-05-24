@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Earth Cafe and Market - Jalan Guatama Selatan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, International, Delivery, Middle Eastern, Indonesian\n                                    ",
+  "description": "Opened 2012 formerly as Down to Earth Cafe. Downstairs is the health food shop and second floor is the restaurant. Vegan except for egg. Its extensive menu features different international cuisines. Earthy decor with all laminated bamboo furniture. The company also owns Zula restaurant and Earth Cafe that are both in Seminyak. Products made by the company are distributed around the island.",
+  "priceRange": "Expensive",
+  "streetAddress": "Jalan Guatama Selatan (Jl Gootama)",
+  "phone": "tel:03617385545",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.511740,115.264322&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.511740,115.264322&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

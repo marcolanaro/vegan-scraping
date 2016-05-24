@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xian Ting Vegetarian ",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "A 100% vegan Chinese restaurant serving a variety of dishes. Reported to HappyCow that hours are 5:30am-2pm, but did not state which days. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 105 Hougang Ave 1, No 02-49",
+  "postalCode": "530102",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.354041,103.890141&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.354041,103.890141&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

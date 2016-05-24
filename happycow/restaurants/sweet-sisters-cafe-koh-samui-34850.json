@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sweet Sisters Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Thai, Western, Juice bar, Beer/Wine, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A health food cafe that sources local and some organic ingredients as well as grows some of its own produce. Some vegetarian and vegan suitable dishes. Opened in summer 2012.",
+  "priceRange": "Moderate",
+  "streetAddress": "Baan Bang Kao intersection",
+  "postalCode": "84310",
+  "phone": "tel:+66864708631",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-9:00pm, Thu-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.428064,99.988203&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.428064,99.988203&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

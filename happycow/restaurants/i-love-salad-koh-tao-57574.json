@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "I Love Salad",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small place offering western style food and marks the vegetarian and vegan items. Apart from salad there's a vegan chickpea burger with seaweed fries and a raw vegan cheesecake. Need to specify if you don't want honey. It's located down the dirt road next to 7/11 in Chalok, near Buddha View dive school. Since Sept 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "22/35 Moo 3, Chalok Baan Kao",
+  "postalCode": "84360",
+  "phone": "tel:+66-870886319",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/ilovesaladkohtao",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.067945,99.826588&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.067945,99.826588&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

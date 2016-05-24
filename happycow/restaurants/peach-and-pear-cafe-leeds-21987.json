@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Peach and Pear Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Juice bar, Take-out, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A little local Halal and veggie friendly cafe. Sells homemade recipe foods and will alter food to suit your needs. There's a hot chocolate made with real chocolate bars. Range of cafe type food includes hot all day breakfast (makes their own vegan sausages), hot and cold sandwiches.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "92a Brudenell Road",
+  "postalCode": "Ls61EG",
+  "phone": "tel:01132434562",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 8:00am-5:00pm, Sat 9:00am-5:00pm, Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Peach-and-Pear-Cafe/165241840158889",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.811756,-1.571217&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.811756,-1.571217&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

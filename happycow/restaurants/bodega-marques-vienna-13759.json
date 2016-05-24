@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bodega Marques",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Spanish tapas restaurant. Menu includes salads and a few vegetarian tapas can be made vegan. Live music sometimes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Parisergasse 1",
+  "postalCode": "1010",
+  "phone": "tel:5339170",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 5:00pm-1:00am, Sun 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.211140,16.369190&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.211140,16.369190&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

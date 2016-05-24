@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Naphat Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai, Buffet, Salad bar, Take-out\n                                    ",
+  "description": "Thai style extensive buffet with papaya salad, noodle soup, coffee, flavored iced tea, and vegan ice cream. Also some a la carte items. Spacious place.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "191 Suthep Rd",
+  "phone": "tel:921739955",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.789639,98.965382&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.789639,98.965382&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Su Shi Xiao Chi - Vegetarian Small Eats",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Take-out, Taiwanese\n                                    ",
+  "description": "Small buffet with a few tables, mostly for take away. There is a park across the street with lots of seating.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "37, Jingzhong St, Wenshan District",
+  "postalCode": "116",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.992671,121.543354&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.992671,121.543354&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Bonta e Sapore",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Macrobiotic, Organic, Western, Take-out\n                                    ",
+  "description": "Vegan restaurant and deli, run by a Brazilian lady.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via San Quintino, 8H",
+  "postalCode": "10121",
+  "phone": "tel:+39-3297723288",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-2:30pm, 3:30pm-7:00pm, Fri 9:30am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.065466,7.676133&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.065466,7.676133&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

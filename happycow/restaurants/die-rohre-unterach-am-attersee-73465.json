@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Die Rohre",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, Organic, Thai, Beer/Wine, Asian, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has labeled vegan soups, salads, main courses and desserts and labeled dishes with vegan options. Also offers labeled vegan wine. Most of the products are locally sourced and organic.\r\n",
+  "priceRange": "Expensive",
+  "streetAddress": "Eichenweg 1",
+  "postalCode": "4866",
+  "phone": "tel:+436641339864",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 3:00pm-11:00pm, Thu-Fri 3:00pm-11:00pm, Sat 9:00am-11:00pm, Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/dieroehregastronomie",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.804038,13.474924&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.804038,13.474924&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

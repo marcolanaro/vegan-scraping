@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Purelife Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Asian, Fusion, Malaysian\n                                    ",
+  "description": "Simple nice vegetarian restaurant. Practices the concept of sustainable consumption and uses all natural ingredients without preservatives or additives.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "7, Jalan 1, Taman Desa Billion",
+  "postalCode": "43000",
+  "phone": "tel:603-87336189",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.078073,101.740015&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.078073,101.740015&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

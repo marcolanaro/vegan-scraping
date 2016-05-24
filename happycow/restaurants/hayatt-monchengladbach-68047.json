@@ -1,0 +1,17 @@
+{
+  "title": "Hayatt",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Asian, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan Lebanese-Syrian food available: hummus, falafel, tabouleh, baba ghannousch, warak inab, batata harra and more. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rheydter Strasse 18",
+  "postalCode": "41065",
+  "phone": "tel:02161-6783900/,%200178-8887713",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 5:00pm-10:00pm, Wed-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.183771,6.440986&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.183771,6.440986&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

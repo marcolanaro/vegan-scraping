@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cuisine Viet & Lantern Lounge ",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Fusion, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Frequented by tourists, this place offers Vietnamese and western fare with separate vegetarian menu. In 2015 it took over the space of the previous Tamarind Cafe.",
+  "priceRange": "Expensive",
+  "streetAddress": "80 Ma May ",
+  "phone": "tel:8439352986",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.034589,105.853690&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.034589,105.853690&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

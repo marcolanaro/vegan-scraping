@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shi Fang Fo Yuan Su Shi Guan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "十方佛缘素食馆 is a Chinese restaurant serving rice, noodle, vegetables and tofu dishes. Opened Mar 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "3 Jalan Chung Thye Phin, Taman Jubilee, Ipoh, Perak",
+  "postalCode": "30250",
+  "phone": "tel:016-5022740",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-9:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.589029,101.085593&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.589029,101.085593&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

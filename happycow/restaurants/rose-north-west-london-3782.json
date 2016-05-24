@@ -1,0 +1,17 @@
+{
+  "title": "Rose",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Indian, Buffet, Fast food, Take-out, Catering, Indo-Chinese\n                                    ",
+  "description": "Indian vegetarian food menu. The buffet lunch features over 200 dishes, hours from 12-3pm. Vegans to ask as dairy is used. No smoking or alcohol.",
+  "priceRange": "Moderate",
+  "streetAddress": "532/534 Kingsbury Road, Kingsbury",
+  "postalCode": "NW9 9HH",
+  "phone": "tel:0800-583-8905",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.585862,-0.277057&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.585862,-0.277057&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

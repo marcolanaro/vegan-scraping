@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Guan Fatt Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Take-out, Catering\n                                    ",
+  "description": "根发中西素食餐馆 serves buffet, dim sum, curry vege fish, and a few western style dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "75, Jalan Rimbunan Raya 1, Laman Rimunan",
+  "postalCode": "52100",
+  "phone": "tel:03-62579523",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.211210,101.649666&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.211210,101.649666&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

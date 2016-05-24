@@ -1,0 +1,18 @@
+{
+  "title": "Comese Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Italian, Organic, Buffet, Beer/Wine, Bakery, Catering\n                                    ",
+  "description": "This bistro serves organic, vegetarian, vegan and raw-vegan dishes inspired by local and international cuisines.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via dei Bruzi 4/6",
+  "postalCode": "00185",
+  "phone": "tel:3478748969",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 7:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.893478,12.514929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.893478,12.514929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

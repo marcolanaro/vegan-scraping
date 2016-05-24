@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "A-Ma",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Buffet\n                                    ",
+  "description": "Lunch eatery in Silom area near the Hindu Temple. Hot food typically starts from 10:30am and runs by by 3pm. Offers 6 to 8 hot dishes plus around 6 to 8 fake meats. Has both brown and white rice. Could order noodles, cooked-to-order. Run by husband and wife owners.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12 Pan Rd, Silom",
+  "postalCode": "10500",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.723188,100.523523&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.723188,100.523523&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

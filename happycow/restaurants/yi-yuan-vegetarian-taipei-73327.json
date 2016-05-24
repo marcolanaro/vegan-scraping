@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yi Yuan Vegetarian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "Veggie restaurant at 台北市士林區福國路 32 號. Menu has steamed stinky tofu, fried whole fish with sauce. Nice atmosphere with dash of old tradition.",
+  "priceRange": "Moderate",
+  "streetAddress": "32 FuGuo Rd, Shilin District",
+  "phone": "tel:02-28357830",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.102257,121.524246&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.102257,121.524246&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

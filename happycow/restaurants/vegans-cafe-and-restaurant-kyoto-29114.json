@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegans Cafe and Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Japanese, Organic, Western\n                                    ",
+  "description": "An all-vegan restaurant offering food like pizza, soy BBQ rice bowl, spaghetti with soy meat sauce, sweets, organic coffee and more. Has an English menu. Last order taken at 4:30 pm. Note that open hours are at times irregular (depending on the owner). Located near Fushimi Shrine at 612-0029 京都市伏見区深草西浦町4丁目88. A natural organic store operates on the second floor. New owner since March 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "612-0029 Kyoto-shi Fushimi-ku Fukakusa Nishi Uramachi 4-chome 88",
+  "postalCode": "61 A",
+  "phone": "tel:075-6433922",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:30am-5:00pm, Thu-Fri 11:30am-5:00pm, Sat 11:30am-9:00pm, Sun 11:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/VegansCafeAndRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.959786,135.767665&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.959786,135.767665&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

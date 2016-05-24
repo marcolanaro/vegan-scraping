@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Biokilera",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Sells organic produce, tea, superfoods,vegan and vegetarian products, cosmetics.",
+  "streetAddress": "Tsar asen, 54",
+  "phone": "tel:052602600",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat-Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Biokilera",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.211928,27.920198&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.211928,27.920198&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

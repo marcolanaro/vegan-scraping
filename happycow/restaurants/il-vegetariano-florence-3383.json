@@ -1,0 +1,16 @@
+{
+  "title": "Il Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Beer/Wine, Take-out\n                                    ",
+  "description": "Ristorante vegetariano. Rome vegetarian restaurant where there are no waiters, you are served by the chef and seat yourself. Cozy atmosphere, limited seating.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via delle Ruote, 30 r",
+  "phone": "tel:+39-055-475030",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.780670,11.257360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.780670,11.257360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

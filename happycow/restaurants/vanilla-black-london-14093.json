@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vanilla Black",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Western, Beer/Wine, Gourmet\n                                    ",
+  "description": "London vegetarian restaurant, near Chancery Lane Tube Station, off Chancery Lane. Aims to elevate meat-free cookery to a level that delights discerning palates of all tastes. Has a vegan menu with 2 choices per course over a 3-course menu.",
+  "priceRange": "Expensive",
+  "streetAddress": "17-18 Tooks Court",
+  "postalCode": "EC4A 1LB",
+  "phone": "tel:020-72422622",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-2:30pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.517020,-0.110700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.517020,-0.110700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

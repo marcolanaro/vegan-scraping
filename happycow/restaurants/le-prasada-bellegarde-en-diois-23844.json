@@ -1,0 +1,15 @@
+{
+  "title": "Le Prasada",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, French\n                                    ",
+  "description": "Vegetarian restaurant located within l'Hôtel Prasada. Serves organic food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Le Village",
+  "postalCode": "26470",
+  "phone": "tel:0475214074",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 12:30pm-2:00pm, 7:00pm-9:00pm, Thu-Sun 12:30pm-2:00pm, 7:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.537913,5.427789&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.537913,5.427789&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

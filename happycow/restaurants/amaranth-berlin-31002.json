@@ -1,0 +1,19 @@
+{
+  "title": "Amaranth",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Western, Buffet, Mediterranean, European, German\n                                    ",
+  "description": "Amaranth’s vegan kitchen is Essentis Biohotel’s restaurant, a solar powered organic hotel with a focus on health and consciousness. The kitchen is open daily for lunch and dinner. On Sunday it features brunch from 11am-2pm. Regularly hosts groups and events ranging from wedding celebration to business meetings in the winter garden and on the terrace overlooking the Spree. Location can be reached by public transportation. Prior to 2015 was as called Pfeffer & Salz.",
+  "priceRange": "Expensive",
+  "streetAddress": "Weiskopffstr. 16-17, Berlin-Kopenick",
+  "postalCode": "12459",
+  "phone": "tel:0305300500",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-9:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.457150,13.540240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.457150,13.540240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

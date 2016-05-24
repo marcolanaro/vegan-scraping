@@ -1,0 +1,13 @@
+{
+  "title": "Biomonde Bio Dore",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "2 route de Clermont",
+  "postalCode": "63920",
+  "phone": "tel:0473518026",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-12:00pm, Mon-Tue 3:00pm-7:00pm, Thu 3:00pm-7:00pm, Fri-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.838587,3.498736&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.838587,3.498736&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

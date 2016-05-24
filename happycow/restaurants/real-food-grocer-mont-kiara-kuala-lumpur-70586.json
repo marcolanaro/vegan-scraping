@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Real Food Grocer Mont Kiara",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, International, Organic, Asian\n                                    ",
+  "description": "Vegetarian restaurant and food shop that offers a number of vegan options. Vegan menu options are clearly marked on the menu. Restaurant is on ground floor of 1 Mont Kiara Mall (Shop lot G-11).",
+  "priceRange": "Moderate",
+  "streetAddress": "1, Jalan Kiara, Mont Kiara",
+  "postalCode": "50480",
+  "phone": "tel:362119078",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/realfoodmontkiara",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.165932,101.653021&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.165932,101.653021&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

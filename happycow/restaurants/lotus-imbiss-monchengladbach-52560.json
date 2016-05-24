@@ -1,0 +1,17 @@
+{
+  "title": "Lotus Imbiss",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai, Fast food, Beer/Wine, Delivery, Take-out\n                                    ",
+  "description": "A vegetarian/vegan restaurant uses fresh ingredients in the dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Eickener Str 263",
+  "phone": "tel:021616788508",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.208670,6.446640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.208670,6.446640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

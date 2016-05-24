@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wing Ai Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "温愛素食馆 serves veggie food.",
+  "priceRange": "Moderate",
+  "streetAddress": "14 Solok Sungai Keramat 10C, Taman Klang Utama",
+  "phone": "tel:016-3541186",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.083877,101.411888&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.083877,101.411888&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

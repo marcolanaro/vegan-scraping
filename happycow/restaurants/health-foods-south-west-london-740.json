@@ -1,0 +1,13 @@
+{
+  "title": "Health Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Please send HappyCow some details!",
+  "streetAddress": "767 Fulham Rd, London, UK",
+  "postalCode": "SW6",
+  "phone": "tel:020-77368848",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.476790,-0.203780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.476790,-0.203780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

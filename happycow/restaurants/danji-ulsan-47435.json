@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Danji",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Korean\n                                    ",
+  "description": "Lots of wood and a cheerful atmosphere. Some vegan snacks and dried and canned foods for sale.",
+  "priceRange": "Moderate",
+  "streetAddress": "863-13 Seongan-dong, Jung-gu",
+  "postalCode": "863-13",
+  "phone": "tel:052-2442234",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.574540,129.305650&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.574540,129.305650&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

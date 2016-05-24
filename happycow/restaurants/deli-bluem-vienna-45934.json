@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "deli bluem",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Salad bar, Take-out, Bakery, European, Austrian\n                                    ",
+  "description": "Plant based deli cafe/bistro. Offers soups, salads, sandwiches and flatbreads, pies, muffins, and pastries. Uses natural, largely seasonal and local ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hamerlingplatz 2",
+  "postalCode": "1080",
+  "phone": "tel:+43-018900449",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/delibluem",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.211378,16.344551&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.211378,16.344551&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veganerie Bakery - Mercury Ville",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Vegan bakery on the 4th floor of Mercury Ville department store, est. since 2013; has a 2nd shop at EmQuartier. Offers a varied range of freshly baked vegan pastries and sweets in addition to coconut ice cream and coffee drinks; waffles and granola in the morning. Try the vegan brownie or cinnamon roll.",
+  "streetAddress": "4F Mercury Ville, Chitlom BTS, Lang Suan St",
+  "phone": "tel:08-74433728",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/VeganBakeryBangkok",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.743873,100.543425&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.743873,100.543425&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

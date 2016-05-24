@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bei Fong Su Shi Mien Guan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "北方素食麵館. English is North Vegetarian Noodles House. Offers northern Chinese cuisine: dumplings, hand-cut noodles, buns. Kitchen breakfast in the afternoon til 5pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "11 Xiang Xin Rd",
+  "phone": "tel:04-2383-0116",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.138427,120.643921&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.138427,120.643921&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

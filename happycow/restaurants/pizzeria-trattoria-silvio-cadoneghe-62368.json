@@ -1,0 +1,19 @@
+{
+  "title": "Pizzeria Trattoria Silvio",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Pizza, Italian, Buffet, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria offering pizzas with soy and rice cheese on request and has a vegan menu to book a little further in advance.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Italo Bordin, 39",
+  "postalCode": "35010",
+  "phone": "tel:+39-049702150",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:30pm-12:00am, Tue-Fri 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Pizzeria-Trattoria-Silvio/155204924502816",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.447495,11.899959&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.447495,11.899959&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hummus HaGargir",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Mediterranean, Middle Eastern, Israeli\n                                    ",
+  "description": "Hummus place offers mostly vegan dishes, a few with eggs. Offers different kinds of fresh made hummus plus falafel balls, salads, sandwiches, vegan shakshouka and couscous. If arriving in the afternoon call ahead to make sure there is more hummus.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2 HaSadna'ot St",
+  "phone": "tel:09-9500858",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-6:00pm, Fri 9:00am-2:00pm, Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/humusgarger",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.162445,34.807167&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.162445,34.807167&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

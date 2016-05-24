@@ -1,0 +1,12 @@
+{
+  "title": "Bioltre",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Store stocking many kinds of vegan foodstuff and has vegan cakes.",
+  "streetAddress": "Via Po 70/2",
+  "phone": "tel:07165030",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-1:00pm, Mon-Fri 4:00pm-8:00pm, Sat 4:00pm-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.709776,13.204389&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.709776,13.204389&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

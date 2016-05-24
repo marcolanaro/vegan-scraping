@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tamaki",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Beer/Wine, French, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A nice French-Japanese fusion restaurant. As of Feb 2016, a set meal is 8000 yen including drinks. Does set meals, can do full vegan set. Lots of local, fresh vegetables.",
+  "priceRange": "Expensive",
+  "streetAddress": "472-1 Kinpukicho, Nakagyo Ward",
+  "phone": "tel:075-2134177",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.012997,135.758661&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.012997,135.758661&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

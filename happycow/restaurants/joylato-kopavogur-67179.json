@@ -1,0 +1,14 @@
+{
+  "title": "Joylato",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Ice cream shop connected Mamma Veit Best health store. Uses organic local/fair trade ingredients and has coconut and nut milk based flavors.",
+  "streetAddress": "Laufbrekka 30",
+  "phone": "tel:+3545551327",
+  "venueHours": "\n                                                                                                        Mon-Tue 12:00pm-9:00pm, Thu-Fri 12:00pm-9:00pm, Sat-Sun 1:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=64.113644,-21.893701&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C64.113644,-21.893701&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

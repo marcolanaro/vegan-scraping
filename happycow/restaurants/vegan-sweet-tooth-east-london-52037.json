@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Sweet Tooth",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Vegan chef and baker Giancarlo offers custom cakes and cooking classes. He specializes in making allergy-friendly cakes and sells them at area markets - check webpage for latest updates. As of Oct 2015: Saturday 10am-6pm at Hackney Homemade Market in Hackney Central; Sunday 11am-4pm at Chatsworth Market in Chatsworth Rd.",
+  "streetAddress": "London areas",
+  "postalCode": "E11 4EZ",
+  "phone": "tel:07799721148",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/vegansweettoothlondon",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.555235,-0.001067&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.555235,-0.001067&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

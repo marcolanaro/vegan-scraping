@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Annalakshmi Janatha",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet\n                                    ",
+  "description": "Vegetarian Indian restaurant created to preserve and teach Indian culture/cuisine. Reservations can be made for private functions after 7pm weekdays and 11am-9pm Sunday. 10 min walk from Tanjong Pagar MRT in East West Line, Near Raffles Place MRT.",
+  "priceRange": "Moderate",
+  "streetAddress": "104 Amoy Street, CBD",
+  "postalCode": "069924",
+  "phone": "tel:62230809/,%203399993",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.281671,103.847461&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.281671,103.847461&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

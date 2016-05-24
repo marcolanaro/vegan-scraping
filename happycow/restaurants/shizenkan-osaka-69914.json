@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shizenkan",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small organic health store with vegan products such as bread, cookies, chocolate, and vegan mayo. Stocks organic fruits and vegetables and other organic products. Vegan bento boxes on Fridays.",
+  "streetAddress": "Chūō-ku Kawaramachi 3-2-3",
+  "postalCode": "?541-0048",
+  "phone": "tel:06-62311341",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.685834,135.502706&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.685834,135.502706&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

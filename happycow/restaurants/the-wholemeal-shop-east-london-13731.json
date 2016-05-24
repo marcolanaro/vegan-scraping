@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Wholemeal Shop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Vitamins, organic food, bread, pasties, wholefood beverages, conserves, herbal teas and drinks.",
+  "streetAddress": "190 Well St, Hackney",
+  "postalCode": "E9 6QT",
+  "phone": "tel:020-89851822",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.543870,-0.047120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.543870,-0.047120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

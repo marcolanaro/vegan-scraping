@@ -1,0 +1,14 @@
+{
+  "title": "Pasticceria Bianconiglio",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery producing only gluten-free pastries and cakes. Has different vegan products.",
+  "streetAddress": "Viale Marconi 13",
+  "postalCode": "33081",
+  "phone": "tel:+39-0434652945",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-12:30pm, 3:30pm-7:00pm, Sat 9:00am-7:00pm, Sun 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Bianconiglioaviano",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.065120,12.585400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.065120,12.585400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

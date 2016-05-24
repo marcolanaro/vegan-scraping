@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Flow",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, British, English\n                                    ",
+  "description": "Casual restaurant opened Jul 2015. Menu labels vegan and gluten free options. Dishes utilizes seasonal ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "9a, The Haymarket Walk",
+  "postalCode": "BS1 3LN",
+  "phone": "tel:01173296226",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 6:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.459335,-2.591896&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.459335,-2.591896&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

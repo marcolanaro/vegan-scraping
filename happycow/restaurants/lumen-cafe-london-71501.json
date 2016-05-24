@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lumen Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Buffet, Salad bar, Take-out, Catering, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Reopened and managed by Black Olive Cooks early 2016. Serves made-in-house wholesome food with some vegan choices. Serves breakfast, lunch, snacks and cakes. Daily specials. A peaceful atmosphere in Bloomsbury with a lovely courtyard garden. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "88 Tavistock Pl",
+  "postalCode": "WC1H 9RS",
+  "phone": "tel:0202781887",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/LumenCafeLondonWC1H9RS/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.526379,-0.122353&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.526379,-0.122353&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

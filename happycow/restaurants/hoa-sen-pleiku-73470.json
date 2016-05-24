@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hoa Sen ",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Juice bar, Take-out, Vietnamese\n                                    ",
+  "description": "Tiem Chay Hoa Sen vegan eatery featuring self-serve buffet with a variety of vegetables and some mock meat dishes. Fresh juices available. NOTE: Please send correct / exact map coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "46 Dang Bat Ho",
+  "phone": "tel:010915092349",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.971354,108.014630&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.971354,108.014630&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

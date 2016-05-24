@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shamaim",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Beer/Wine, Take-out, Bakery, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Israeli and Middle Eastern cuisine restaurant near Ekoda station. Has a range of vegetarian and vegan meal options and serves Arabic espresso, selection of beer, wine, and cocktails. Belly dancing show the last Friday of each month. Plenty of seating inside.",
+  "priceRange": "Moderate",
+  "streetAddress": "4-11 Sakaecho, Nerima",
+  "postalCode": "176-0006",
+  "phone": "tel:0339485333",
+  "venueHours": "\n                                                                                                        Mon 5:00pm-12:00am, Tue-Sun 11:30am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/shamaimtokyo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.737248,139.672106&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.737248,139.672106&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

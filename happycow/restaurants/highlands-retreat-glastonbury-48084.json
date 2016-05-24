@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Highlands Retreat",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Vegetarian B&B in Glastonbury town. Offers vegan breakfast options.",
+  "streetAddress": "21 Rowley Rd",
+  "postalCode": "BA6 8HU",
+  "phone": "tel:01458-830910",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.149396,-2.711000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.149396,-2.711000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

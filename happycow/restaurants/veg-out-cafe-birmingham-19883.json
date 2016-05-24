@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veg Out - maybe closed",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Fast food, British\n                                    ",
+  "description": "Serves veggie food made with local, seasonal ingredients. Soups, falafel, burrito, samosa, vegeburgers, and weekly seasonal specials. Child friendly. Grows herbs in its garden. Previously named The Manic Organic Cafe. NOTE: maybe closed/shut down, please verify and let HappyCow know.",
+  "priceRange": "Moderate",
+  "streetAddress": "46 Poplar Road, Kings Heath",
+  "postalCode": "B14 7AG",
+  "phone": "tel:0121-4413802",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-5:00pm, Fri 9:00am-10:30pm, Sat 10:00am-10:30pm, Sun 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/CafeVegOut",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.436237,-1.890963&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.436237,-1.890963&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

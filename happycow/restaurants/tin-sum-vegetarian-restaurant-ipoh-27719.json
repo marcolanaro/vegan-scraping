@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tin Sum Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "Clean, has Wi-Fi access. Vegans please inquire about options and inform HappyCow. ",
+  "priceRange": "Moderate",
+  "streetAddress": "12, Persiaran Kuala Kangsar 1",
+  "postalCode": "30010",
+  "phone": "tel:+605-5063194",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.632719,101.086852&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.632719,101.086852&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

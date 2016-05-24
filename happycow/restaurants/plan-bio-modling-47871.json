@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "PLAN Bio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic shop located next to railway and bus station. Stocks over 5000 products with daily fresh bread, pastries, and vegetables.",
+  "streetAddress": "Bahnhofplatz 2",
+  "postalCode": "2340",
+  "phone": "tel:+43-2236908175",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-7:00pm, Sat 7:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/PLANB.iomarkt",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.085534,16.294444&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.085534,16.294444&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

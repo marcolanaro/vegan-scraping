@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Heavenly Vegan Cupcakes",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "No storefront. Sussex-base vegan bakery. Sells cupcakes in various locations - check website. Also delivers in and around Sussex.",
+  "streetAddress": "Juzier, East Sussex",
+  "postalCode": "BN8 6AE",
+  "phone": "tel:0002154887",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/HeavenlyVeganCupcakes",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.922897,0.162563&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.922897,0.162563&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

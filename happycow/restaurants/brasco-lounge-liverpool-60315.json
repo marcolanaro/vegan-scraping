@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Brasco Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Central Liverpool branch of the nationwide Loungers chain. Offers vegetarian (including vegan), gluten free, and allergen info.",
+  "priceRange": "Moderate",
+  "streetAddress": "27A Mann Island, Liverpool Waterfront",
+  "postalCode": "L3 1BP ",
+  "phone": "tel:01512365085",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Brasco-Lounge/379000018843270",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.403744,-2.994356&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.403744,-2.994356&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

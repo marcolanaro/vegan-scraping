@@ -1,0 +1,20 @@
+{
+  "title": "Osteria da Ago Rita",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fresh veg pinzimonio with special sauce, house-made pasta, veg and vegan menu changing according to season. Veranda setting between olive trees and Lake Garda view.",
+  "priceRange": "Moderate",
+  "streetAddress": "Loc. Frader 59, Loc. S. Felice 1",
+  "postalCode": "37010",
+  "phone": "tel:0456290054",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 6:00pm-1:00am, Thu-Fri 6:00pm-1:00am, Sat-Sun 11:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.637955,10.707425&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.637955,10.707425&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

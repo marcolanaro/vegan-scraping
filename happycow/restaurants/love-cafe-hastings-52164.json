@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Love Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers vegan breakfast and lunch choices. Bohemian atmosphere.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "28 Norman Rd, Leonards-on-sea",
+  "postalCode": "TN37 6AE",
+  "phone": "tel:01424-717815",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-6:00pm, Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheLoveCafe.me",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.852261,0.560831&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.852261,0.560831&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

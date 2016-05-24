@@ -1,0 +1,15 @@
+{
+  "title": "Plain Vanilla Bakery and Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Take-out\n                                    ",
+  "description": "A small bakery/cafe that offers at least one choice of vegan cupcakes and cookies. You also can have soy milk with your coffee. Only a few seats, but there is a park on the opposite side of the street.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hessenplatz 4",
+  "postalCode": "4020",
+  "phone": "tel:+43-0-676-966-32-88",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-6:00pm, Sat 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.301171,14.294950&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.301171,14.294950&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

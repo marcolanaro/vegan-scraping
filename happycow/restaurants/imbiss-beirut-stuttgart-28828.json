@@ -1,0 +1,15 @@
+{
+  "title": "Imbiss Beirut",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu has a section labeled vegetarian that includes falafel and hummous.",
+  "priceRange": "Moderate",
+  "streetAddress": "Josef-Hirn-Platz 8",
+  "postalCode": "70173",
+  "phone": "tel:07117269400",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.772890,9.177620&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.772890,9.177620&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

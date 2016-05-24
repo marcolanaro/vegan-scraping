@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BioChi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, European\n                                    ",
+  "description": "Small health food shop and vegetarian restaurant. Offers weekly changing menu. The shop hours are longer, Mon-Fri 8am-6pm, Sat 8am-2pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Martin Luther Str. 32",
+  "postalCode": "8970",
+  "phone": "tel:+43-368723927",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Biochi/253284528153906",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.390536,13.688006&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.390536,13.688006&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

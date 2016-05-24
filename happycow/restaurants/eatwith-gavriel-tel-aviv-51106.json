@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gavriel",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Chef Gavriel caters weekly vegetarian pop-up dinners in his house in Florentine. Menu could also be vegan with advance notice.",
+  "streetAddress": "Zvolon St",
+  "phone": "tel:0546214040",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.059994,34.772891&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.059994,34.772891&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

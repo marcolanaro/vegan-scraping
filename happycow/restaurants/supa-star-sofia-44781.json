@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Supa Star",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The first soup bar in Bulgaria. Also serves salads with many vegan choices and is always a vegan soup. Menu changes daily.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8 Tsar Ivan Shishman Street",
+  "postalCode": "1000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:30am-9:00pm, Sat 12:00pm-9:00pm, Sun 12:00pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BarSupaStar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.692770,23.331292&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.692770,23.331292&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

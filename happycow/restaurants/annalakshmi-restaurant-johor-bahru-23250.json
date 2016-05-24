@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Annalakshmi Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Indian, Malaysian\n                                    ",
+  "description": "Indian vegetarian restaurant founded in originally in Kuala Lumpur in 1984 and moved to this space Jun 2015 from 39 Jalan Ibrahim. The food is cooked and served by volunteers. The traditional Indian vegetarian cuisine is simply presented in a buffet spread and there is no fixed price for the food. The guests pay any amount as s/he wishes. The concept is \"Eat to your heart's content, pay what your heart feels.\"",
+  "priceRange": "Inexpensive",
+  "streetAddress": "19 Jalan Dapat",
+  "postalCode": "80100",
+  "phone": "tel:013-7531377",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.465943,103.744932&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.465943,103.744932&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

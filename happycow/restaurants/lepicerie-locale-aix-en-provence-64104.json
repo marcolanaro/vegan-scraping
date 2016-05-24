@@ -1,0 +1,17 @@
+{
+  "title": "L'Epicerie Locale",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food shop with a gluten-free restaurant serving French cuisine.",
+  "streetAddress": "31 rue du Maréchal Joffre",
+  "postalCode": "13100",
+  "phone": "tel:0442277479",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/www.facebok.com/BioInFrance",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.526591,5.454130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.526591,5.454130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

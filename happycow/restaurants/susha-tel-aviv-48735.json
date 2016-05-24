@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Susha",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Japanese, Delivery, Take-out, Asian, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Offers fish. Meets the Israeli vegan friendly standard. Small Kosher Asian food restaurant with a large menu, many marked vegan items. Offers soup, dim sum, egg rolls, salads, and sushi. Open one hour after Shabbat ends on Saturday.",
+  "priceRange": "Moderate",
+  "streetAddress": "12 Herzl Street",
+  "phone": "tel:1-700-55-10-20/,%2003-300-1369",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-1:00am, Fri 11:00am-3:30pm, Sat 7:00pm-1:00am, Sun 11:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.062287,34.770101&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.062287,34.770101&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

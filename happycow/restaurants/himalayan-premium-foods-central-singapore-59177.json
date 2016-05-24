@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Himalayan Premium Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Operates retail outlets in Singapore has its own organic farm in Nepal. Sells organic vegetables, fruits, pulses, lentils, coffee, tea, spices, and flour all from Nepal.",
+  "streetAddress": "04-27 Peninsula Shopping Centre, 3 Coleman St",
+  "postalCode": "179804",
+  "phone": "tel:65351949",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.291960,103.850200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.291960,103.850200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

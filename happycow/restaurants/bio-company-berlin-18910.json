@@ -1,0 +1,12 @@
+{
+  "title": "Bio Company",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food shop with lots of veg*n produce to choose from but also not 100% veg*n - there is a meat section at the back. There is also a bakery and coffee shop.",
+  "streetAddress": "Hackescher Markt",
+  "phone": "tel:030-74773351",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.523010,13.402550&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.523010,13.402550&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

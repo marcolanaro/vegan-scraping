@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mostviertlerwirt Ott",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Beer/Wine, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional Austrian food menu with around 7 vegan suitable dishes including desserts and salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "Marktplatz 4",
+  "postalCode": "3353",
+  "phone": "tel:+43-747742304",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/pages/Mostviertlerwirt-Hubert-Melitta-Ott/145009245536127",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.036596,14.652913&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.036596,14.652913&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

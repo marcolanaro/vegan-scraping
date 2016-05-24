@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yogi Cafe - Central Festival",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Raw, Western, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "All vegan except honey and dairy as an option. From the same owner as Bo Phut Yogi Cafe, opened Jan 2016, this mostly organic, all vegetarian, health focused cafe, offers raw food, burgers and baked fries, salads, juices, and smoothies. Menu denotes what is vegan.Everything is made to order. Free Wi-Fi. Located just outside the Central Festival Shopping Center, to the right of Starbucks and across from FamilyMart and Al's Resort.",
+  "priceRange": "Moderate",
+  "streetAddress": "Central Festival Shopping Mall, Chaweng Beach Rd.",
+  "phone": "tel:0993041716",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.531645,100.061583&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.531645,100.061583&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xi Le - Joy Vegetarian Fusion Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Italian, Western, Juice bar, Take-out, Fusion, Taiwanese\n                                    ",
+  "description": "喜樂蔬食創意料理, 桃園縣龜山鄉復興北路46號, is a western fusion restaurant that offers dishes like pasta, veggie steak, risotto, gratin food, hotpot, congee, burgers, soups, set meals, and fresh fruit juice.",
+  "priceRange": "Moderate",
+  "streetAddress": "46, Fuxing North Rd",
+  "postalCode": "33377",
+  "phone": "tel:03-3270818",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-9:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.058589,121.369780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.058589,121.369780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

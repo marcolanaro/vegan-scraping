@@ -1,0 +1,18 @@
+{
+  "title": "Le Tournesol Cuisine Vegetarienne",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, French\n                                    ",
+  "description": "Located near the Place du Vigan, vegan and gluten-free items are made upon request. Reservations recommended, but not required.",
+  "priceRange": "Moderate",
+  "streetAddress": "11, Rue de l'Ort en Salvy",
+  "postalCode": "81000",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.926651,2.146839&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.926651,2.146839&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

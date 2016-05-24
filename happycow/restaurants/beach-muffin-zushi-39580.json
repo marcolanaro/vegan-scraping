@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Beach Muffin",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Western, Beer/Wine, Take-out, Bakery\n                                    ",
+  "description": "Restaurant with a tap room, housed in a funky, old building. Has 10 tables inside where customers often hang out for hours. Food consists of house-made veggie burgers, burritos, bagel sandwiches with tofu and bean spreads, herbal teas, and coffee. Desserts are tofu sundaes, in-house-made cakes and muffins. Also sells organic herbs and spices, teas, beans, nuts and dried fruits. Long-time vegetarian owner speaks English. NOTE: May use cheese in burrito and some baked goods may contain milk or eggs.",
+  "priceRange": "Moderate",
+  "streetAddress": "8-3-22 Zushi-shi, Sakurayama",
+  "postalCode": "249-0005",
+  "phone": "tel:046-8725204",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/beachmuffin",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.290473,139.577789&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.290473,139.577789&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

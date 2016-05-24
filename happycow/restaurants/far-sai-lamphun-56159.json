@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Far Sai",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Buffet\n                                    ",
+  "description": "Small and pleasant local vegan restaurant offering Thai style buffet food. Near the sports stadium.",
+  "priceRange": "Moderate",
+  "streetAddress": "2/10 Sanam Geela Rd",
+  "phone": "tel:0819868466",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/farsaiveggie",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.570311,98.999603&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.570311,98.999603&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

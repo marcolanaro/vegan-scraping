@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Oh Se Gae Hyang",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Western, Korean\n                                    ",
+  "description": "Seoul vegan restaurant owned by well-known Korean vegetarian food company, Vegifood. 60-seats, Korean style seating. Each 12 tables introduce the world 12 saints' wise sayings and their pictures. Food is mostly Korean and Chinese with a few pasta and salad dishes. No galic or green onion. Located at Insadong near NakWonSangGa where there are many Korean traditional crafts and art works in the area. Metro: 1 line JongGak / 3 line AnGuk / 5 line JongRo3Ga. Straight in front of the end of the street on the nort side of the Ssamzigil Arts-Center.",
+  "priceRange": "Moderate",
+  "streetAddress": "14-5 Insa-dong 12-gil, Jongno-gu",
+  "phone": "tel:02-7357171",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:30pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.574530,126.985130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.574530,126.985130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bordo Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has veggie pizza, and veg cheese - ask if carries vegan cheese or not.",
+  "priceRange": "Moderate",
+  "streetAddress": "Yakinton 6",
+  "phone": "tel:+972-1700706051",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-11:00pm, Fri 11:30am-2:30pm, Sat 6:00pm-11:00pm, Sun 11:30am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/PizzaBordo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.935326,34.788169&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.935326,34.788169&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

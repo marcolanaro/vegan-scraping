@@ -1,0 +1,15 @@
+{
+  "title": "Soup Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Beer/Wine, Caribbean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A canteen, bar and live music venue offers vegan menu choices, including a vegan roast on Sundays. Located in the northern quarter. Free Wi-Fi. Encompasses two floors and in addition to live music, also hosts club nights, film nights, comedy events and art exhibitions.",
+  "priceRange": "Moderate",
+  "streetAddress": "31-33 Spear St",
+  "postalCode": "M1 1DF",
+  "phone": "tel:01612365100",
+  "venueHours": "\n                                                                                                        Mon-Wed 12:00pm-9:00pm, Thu 12:00pm-1:00am, Fri-Sat 12:00pm-3:00am, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.482797,-2.234643&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.482797,-2.234643&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

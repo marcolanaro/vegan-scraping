@@ -1,0 +1,17 @@
+{
+  "title": "Realfood",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Beer/Wine, Take-out, Bakery, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A food shop, bakery, and cafe that supplies locally sourced foods including fresh fruit and vegetable and fresh bread baked on the premises by Emma. Simple cafe food menu with coffee and other drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11 Paris Street",
+  "postalCode": "EX1 2JB",
+  "phone": "tel:01392-681234",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:30am-5:00pm, Sat 9:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.725554,-3.526891&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.725554,-3.526891&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

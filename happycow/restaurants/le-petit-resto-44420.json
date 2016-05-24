@@ -1,0 +1,15 @@
+{
+  "title": "Le Petit Resto",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Organic, Western, Buffet, Salad bar, Beer/Wine, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Features a vegetarian buffet at lunchtime. The evening menu, however, is not fully veg. At location of the now defunct La Cantine Vegetarienne.",
+  "priceRange": "Moderate",
+  "streetAddress": "Place des Tanneurs",
+  "postalCode": "13100",
+  "phone": "tel:0616827696",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.528176,5.445654&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.528176,5.445654&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Die Kleene Aubergine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Mediterranean, Juice bar, Take-out\n                                    ",
+  "description": "Vegetarian place making food in-house and cooked in front of guests. Mediterranean and familial cuisine including soups, lassi, potato pastas, tomato sauces, big salads, club sandwiches. Daily changing menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Marheinekepl 15",
+  "postalCode": "10961",
+  "phone": "tel:0303989610",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.489456,13.394165&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.489456,13.394165&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

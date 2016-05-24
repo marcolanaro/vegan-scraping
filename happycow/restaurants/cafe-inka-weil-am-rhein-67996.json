@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Inka",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, European, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A historic restaurant offering many vegetarian dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Dorfstrasse 95/1, Otlingen",
+  "postalCode": "79576",
+  "phone": "tel:0762165387",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.622370,7.625390&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.622370,7.625390&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

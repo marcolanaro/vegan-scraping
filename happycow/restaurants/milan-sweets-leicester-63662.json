@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Milan Sweets",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "Vegetarian Indian sweets and take-away meals.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "99 East Park Rd",
+  "postalCode": "LE5 4QD",
+  "phone": "tel:01162460136",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 9:00am-7:00pm, Fri-Sat 9:00am-8:00pm, Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.635802,-1.102810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.635802,-1.102810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

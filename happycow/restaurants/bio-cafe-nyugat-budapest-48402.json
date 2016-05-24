@@ -1,0 +1,18 @@
+{
+  "title": "Bio Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Organic, Western, Juice bar, Take-out, Bakery\n                                    ",
+  "description": "Cafe offering an array of organic vegetarian and vegan food such as salads, sandwiches, bakery goods and cakes. Since 2011.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bajcsy-Zsilinszky ut 65, Nyugat",
+  "postalCode": "H1065",
+  "phone": "tel:+36-205621818",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-6:30pm, Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/biocafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.509402,19.055318&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.509402,19.055318&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

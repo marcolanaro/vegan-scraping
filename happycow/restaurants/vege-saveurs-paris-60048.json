@@ -1,0 +1,17 @@
+{
+  "title": "Vege Saveurs",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai, Asian, Vietnamese\n                                    ",
+  "description": "Asian food restaurant opened Jun 2015 just steps from Bastille. Vegan except for the \"poulet\" which contains milk but you could order a vegan version.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "29 rue de Charenton",
+  "postalCode": "75012",
+  "phone": "tel:+33-143452910",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:30pm, 6:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.852231,2.371413&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.852231,2.371413&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

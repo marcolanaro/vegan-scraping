@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shang Pin Zhai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Organic, Take-out, Taiwanese\n                                    ",
+  "description": "Noodle shop serving vegetables, miso, and rice that are organic. Options include hand-pulled noodle, rice vermicelli, or yang chun (Canton) noodle; noodle in soup, \"dry\" noodle, or pan-fried noodle; with or without dumplings (wonton); in base of miso, herbs, or Sichuan vegetable. Has an English menu but no English on signage - look for sign with 上品齋 and the English phrase \"organic vegetables and rice\". NOTE: On Google Maps the street is spelled \"QingNian\", but the actual street sign uses \"CingNian.\"",
+  "priceRange": "Moderate",
+  "streetAddress": "128, QingNian 2nd Rd",
+  "postalCode": "801",
+  "phone": "tel:07-2152582",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-2:00pm, 4:30pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.618645,120.297661&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.618645,120.297661&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

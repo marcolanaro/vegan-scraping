@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hashachen Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, Take-out, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Sugar Cafe changed name to Hashachen Bistro in late-2014 and is now a neighborhood bistro-style restaurant with a bar and wine list (same management). Vegan choices are marked in every category with mains being hot tabbouleh or tofu curry; several vegan salads and breakfasts. Charges extra for soy milk in cappuccino. Free Wi-Fi. Jazz on some nights.",
+  "priceRange": "Moderate",
+  "streetAddress": "8 Ibn Gabirol",
+  "postalCode": "38900",
+  "phone": "tel:074-7024068",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:30am-11:00pm, Fri 8:00am-5:00pm, Sat 10:00am-5:00pm, Sun 7:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.072086,34.781954&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.072086,34.781954&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Asuka",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese\n                                    ",
+  "description": "Vegan restaurants, moved here from Osaka in 2013. Offers daily lunch course. Reservations suggested.",
+  "priceRange": "Expensive",
+  "streetAddress": "17-28-4 Gojo 2-chome",
+  "postalCode": "630-8033",
+  "phone": "tel:0742-431118",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.369736,135.682169&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.369736,135.682169&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

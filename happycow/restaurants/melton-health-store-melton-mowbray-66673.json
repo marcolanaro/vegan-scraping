@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Melton Health Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A health food store with a focus on gluten-free, sugar-free, vegan, organic products, in addition to local items. Sells sports supplements and some grab 'n go items. Welcoming atmosphere with a friendly owner.",
+  "streetAddress": "11 Windsor St",
+  "postalCode": "LE13 1BU",
+  "phone": "tel:01664562727",
+  "venueHours": "\n                                                                                                        Mon-Tue 9:00am-5:00pm, Wed 11:00am-5:00pm, Thu-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/MeltonHealthStore",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.764892,-0.885115&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.764892,-0.885115&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

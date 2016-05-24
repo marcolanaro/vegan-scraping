@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Souphailins",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Organic, Thai, Western, Beer/Wine, Laotian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. On the side street just before the post office as you face away from the main town, this restaurant offers an extensive menu with plenty of vegetarian and vegan choices plus has shakes and teas. The owner understands the concepts of veg, and they works with local women on organic farms in the community.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Muang Xay",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.692557,101.981333&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.692557,101.981333&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

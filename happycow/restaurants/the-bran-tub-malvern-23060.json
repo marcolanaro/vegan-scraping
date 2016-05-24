@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Bran Tub",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "This store sells vegetarian, vegan and allergy foods.",
+  "streetAddress": "27 Worcester Rd",
+  "postalCode": "WR14 4QY",
+  "phone": "tel:01684-891191",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.113036,-2.330140&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.113036,-2.330140&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Stall - 10th Mile Wet Market",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "民康素食园 is a food stall inside the market.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Stall 1, 1st Floor,  10th Mile Wet Market, Kota Padawan (Batu 10)",
+  "postalCode": "93250",
+  "phone": "tel:019-8773631",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.480904,110.307051&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.480904,110.307051&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

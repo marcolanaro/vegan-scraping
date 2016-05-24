@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nha Hang Yen's Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Beer/Wine, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. On a quieter street blocks from the popular tourist area, this restaurant is affiliated with the Ha Van budget hotel next door. Has warm atmosphere and offers a fairly large vegetarian menu section for this city. Make Vietnamese dishes of tofu, rice, noodle, and vegetables. Has Wi-Fi.",
+  "priceRange": "Expensive",
+  "streetAddress": "3/3 Tran Quang Khai",
+  "phone": "tel:0586521669",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.232660,109.195411&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.232660,109.195411&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MikkaMakka",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Buffet, Take-out\n                                    ",
+  "description": "A 100% vegan buffet bistro. Serves soups, salads, dips, pates, sauces, main dishes, and sweets. Dine-in at small tables or take-out. In warm weather, tables on the sidewalk are available. Price is determined by the size of the plate you choose. Staff speaks English, Hungarian and German. Easy to reach by the 37 and 38 trams which stop right in front of the restaurant at Canisiusgasse.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Nussdorfer Strasse 47",
+  "postalCode": "1090",
+  "phone": "tel:676-5861858",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Open Mon-Fri 9:45am-7pm.\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/hello.mikkamakka",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.227956,16.354656&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.227956,16.354656&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

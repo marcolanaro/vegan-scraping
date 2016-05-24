@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bezel HaTe'ena",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Middle Eastern, Israeli\n                                    ",
+  "description": "A small house in Kibbutz Amiad where the owner will make a meal for you with advance notice. Uses fresh, natural ingredients.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kohner Family house",
+  "phone": "tel:0526124683",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:30am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/BennysNature",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.930354,35.540521&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.930354,35.540521&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

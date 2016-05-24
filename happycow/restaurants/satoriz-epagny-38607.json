@@ -1,0 +1,13 @@
+{
+  "title": "Satoriz",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store chain.",
+  "streetAddress": "99 Avenue des Alpes",
+  "postalCode": "74330",
+  "phone": "tel:0450242002",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.936512,6.077599&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.936512,6.077599&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

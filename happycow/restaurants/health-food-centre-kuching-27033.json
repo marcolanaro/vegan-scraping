@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Health Food Centre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Fast food, Take-out\n                                    ",
+  "description": "Garlic and onion not used in cooking but does use milk and eggs. Also sells vegetarian cooking products and local snacks (kuih-muih). Name in Chinese: 宏康园.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lot 2655, Ground Floor, Block 10, 3rd Mile, Central Park",
+  "postalCode": "93200",
+  "phone": "tel:082-233305",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.527090,110.335178&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.527090,110.335178&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

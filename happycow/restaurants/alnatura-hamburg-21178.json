@@ -1,0 +1,13 @@
+{
+  "title": "Alnatura",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large organic supermarket chain throughout Germany. Stocks a wide range of food products, including baby food.",
+  "streetAddress": "Hoheluftchaussee 18",
+  "postalCode": "20253",
+  "phone": "tel:040-41405877",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-8:00pm, Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.579571,9.974897&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.579571,9.974897&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

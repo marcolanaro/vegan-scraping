@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bali House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Balinese cuisine restaurant near Japan's famous sacred destination Ise jingu and Meotoiwa (husband and wife rocks). Could ask for vegetarian version of nasi goleng or mi goleng.",
+  "priceRange": "Moderate",
+  "streetAddress": "281-5 Mizoguchi, Futamicho",
+  "phone": "tel:08043030354",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.505502,136.756298&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.505502,136.756298&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

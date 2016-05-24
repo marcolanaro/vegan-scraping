@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "YKS Vegetarian ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Singaporean\n                                    ",
+  "description": "原康素食 is a stall located inside Kopitiam Food Court in Changi General Hospital. Offers white/brown rice or bee hoon/noodles to eat with readily-cooked dishes like broccoli, cauliflower, spring rolls, and curry. Also serves lor mee, tom yam noodle, yong tau foo. Tze char items after 12pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2 Simei St 3",
+  "postalCode": "529889",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.340890,103.948883&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.340890,103.948883&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

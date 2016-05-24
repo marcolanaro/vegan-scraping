@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Society Cookery School",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "The culinary expression of the aims and values of the UK Vegetarian Society is to support people to adopt and maintain a vegetarian lifestyle. The school offers courses and workshops in vegetarian and vegan cookery. Formerly named Cordon Vert.",
+  "streetAddress": "Parkdale, Dunham Rd, Altrincham",
+  "postalCode": "WA14 4QG",
+  "phone": "tel:01619252000",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.385387,-2.368278&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.385387,-2.368278&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

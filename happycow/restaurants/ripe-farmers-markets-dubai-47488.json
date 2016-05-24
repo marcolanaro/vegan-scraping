@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ripe Farmers Markets",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Operates weekly farmers markets in Dubai, Sharjah, and Abu Dhabi - check website for dates & locations.",
+  "streetAddress": "Dubai areas",
+  "phone": "tel:+97143807602",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ripeuae",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.001418,55.280096&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.001418,55.280096&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

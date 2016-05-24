@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bamboo Grove Cafe Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Western, Fast food, Juice bar, Take-out, Catering\n                                    ",
+  "description": "Chinese name 竹园小厨素食. Offers a la carte menu. Also open if Tuesday is on 1st and 15th of Chinese lunar calendar.",
+  "priceRange": "Moderate",
+  "streetAddress": "18, Lorong Bukit Kulim1/1, Bukit Kulim",
+  "postalCode": "09000",
+  "phone": "tel:012-4958399",
+  "venueHours": "\n                                                                                                        Mon 11:30am-2:30pm, 5:30pm-10:30pm, Wed-Sun 11:30am-2:30pm, 5:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.369256,100.535957&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.369256,100.535957&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

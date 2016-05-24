@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ajanta Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Take-out\n                                    ",
+  "description": "Every morning food is available: puri bhaji, idli, dosa, kachori, samosa, and gujrathi thali.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "A 10/3-4, Sh. Mohd. Colony, Karama, U.A.E.",
+  "postalCode": "482",
+  "phone": "tel:+9714-3371585",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.264167,55.290000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.264167,55.290000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

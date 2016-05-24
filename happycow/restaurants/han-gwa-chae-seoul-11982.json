@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Han Gwa Chae",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Korean\n                                    ",
+  "description": "Vegan buffet style. Han Gwa Chae is an abbreviation for \"rice with herbal medicine, fruit and vegetables\". Food is prepared in a traditional, Korean (temple food) spirit, with ingredients from small farms. The basic menu is composed of porridge, a soy-base soup, variety of cooked season greens, acorn jelly, tofu, and different sides. Organic fruit and seasonable tea served. Directions: Take Seoul subway line 1 to Jonggak Station, take exit 3, walk straight toward Geumgang Jehwa, turn left at intersection of Geumgang Jehwa, turn right at Sudo Pharmacy located centrally on Insadong St, walk 100m and on the left is Han Gwa Chae. Also nearby is Anguk Station on the Seoul subway line 3.",
+  "priceRange": "Moderate",
+  "streetAddress": "30-9 Guan Hoon Dong, Jong Ro gu, Insadong",
+  "phone": "tel:02-720-2802",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-3:00pm, 5:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.574305,126.985708&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.574305,126.985708&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

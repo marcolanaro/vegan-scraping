@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dibek Traditional Cook",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Middle Eastern, Turkish, Arabic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional home style Turkish cuisine with several vegan choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hakki Pasa Meydani 1",
+  "phone": "tel:+90-3842712209",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.642595,34.829146&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.642595,34.829146&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

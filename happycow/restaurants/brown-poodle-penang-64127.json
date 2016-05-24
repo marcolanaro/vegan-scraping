@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Brown Poodle",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Bakery, Malaysian\n                                    ",
+  "description": "Opened Oct 2015. Small, meatless cafe serving coffee, cakes, vegan and vegetarian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "80, Persiaran Midlands",
+  "postalCode": "10250",
+  "phone": "tel:0124282812",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-9:00pm, Thu-Fri 11:00am-9:00pm, Sat-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/brownpoodlecafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.435928,100.305946&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.435928,100.305946&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

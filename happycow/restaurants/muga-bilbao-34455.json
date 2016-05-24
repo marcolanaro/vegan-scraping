@@ -1,0 +1,19 @@
+{
+  "title": "Muga",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Typical bar serves an array of pintxos, some of which are vegan including seitan and tofu bocadillos, pizza, sandwiches, burgers and salads. No English spoken.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle de Maria Munoz 8, Old Town",
+  "postalCode": "48005",
+  "phone": "tel:+34-944-16-27-81",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-12:00am, Fri 12:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.257896,-2.921657&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.257896,-2.921657&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

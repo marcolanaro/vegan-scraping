@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natur and Reform - Praterstr.",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natur & Reform is a chain store. Has organic produce & grocery.",
+  "streetAddress": "Praterstr. 58",
+  "postalCode": "1020",
+  "phone": "tel:+43-01-2142646",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-6:00pm, Sat 8:30am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.216315,16.387584&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.216315,16.387584&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

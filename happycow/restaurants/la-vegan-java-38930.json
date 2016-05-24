@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Vegan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Javanese, Indonesian, Halal\n                                    ",
+  "description": "Vegan food restaurant inside of a major mall. Simple set up under strict hygienic management. Has A/C. Menu includes a variety of dishes such as Chinese noodle dishes, veggie burgers, tempeh, faux meat skewers, and many fresh mushroom dishes including mushroom skewers.",
+  "priceRange": "Moderate",
+  "streetAddress": "PTC, lantai UG, E7/28, Surabaya",
+  "postalCode": "60293",
+  "phone": "tel:031-3123-3888",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/La-Vegan/520030034685360",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-7.288707,112.673401&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-7.288707,112.673401&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

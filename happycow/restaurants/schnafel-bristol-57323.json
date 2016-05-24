@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Schnafel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Fast food, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Quick service wraps and salads shop.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Unit 3, Clifton Down Shopping Centre, Whiteladies Rd",
+  "postalCode": "BS8 2NN",
+  "phone": "tel:01179747277",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:30am-9:00pm, Fri-Sat 8:30am-10:00pm, Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/schnafelbristol",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.464000,-2.610740&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.464000,-2.610740&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

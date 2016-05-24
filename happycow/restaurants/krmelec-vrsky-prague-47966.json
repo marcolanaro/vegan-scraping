@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Krmelec Vrsky",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Macrobiotic, Juice bar, Beer/Wine, European, Czech\n                                    ",
+  "description": "A vegan restaurant with a homey atmosphere near the Vinohrady Hospital. Food is inspired by macrobiotic, is vegan and no refined sugar used. As part of the daily menu, you choose from two types of soups and two main dishes. Also offers sweet and salty snacks. Drinks include draft beer, fresh fruit juices or free filtered tap water.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ruska 152/777",
+  "postalCode": "10000",
+  "phone": "tel:+420-734362191",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-4:00pm, Fri 10:00am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/krmelecvrsky",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.073749,14.476528&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.073749,14.476528&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

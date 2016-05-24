@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Izusen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Shojin Ryori. Food is supposed to be all vegan but reported uses fish for broth (Sept 2014). One of 3 locations; the other locations do offer fish/seafood.",
+  "priceRange": "Expensive",
+  "streetAddress": "inside Daitokuji-cho, Murasakino, Kita-ku",
+  "phone": "tel:075-4916665",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.041880,135.747560&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.041880,135.747560&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

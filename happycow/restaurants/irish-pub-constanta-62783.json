@@ -1,0 +1,17 @@
+{
+  "title": "Irish Pub",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Beer/Wine, European, Fusion, Irish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Near the city beach and the city centre. Has salads plus vegan suitable dishes such as zucchini carpaccio, broccoli spaghetti, rolls of eggplant with tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ştefan cel Mare, nr. 1",
+  "phone": "tel:+40-241550400",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.073254,28.629245&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.073254,28.629245&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

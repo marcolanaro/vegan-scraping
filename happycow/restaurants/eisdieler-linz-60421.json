@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eisdieler",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Ice cream shop which makes several flavors of vegan ice cream including strawberry as well with superfoods and alcohol. There's often a DJ in the evenings. Closes in winter months.",
+  "streetAddress": "Promenade 9",
+  "postalCode": "4020",
+  "phone": "tel:+43-732942689",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/eisdieler",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.303813,14.287021&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.303813,14.287021&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lotus and Flower's One",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Japanese, Organic, Beer/Wine\n                                    ",
+  "description": "Elegant modern cuisine. Very small. Select from one of several set courses. Desserts and drinks extra. Japanese menu with a range of vegan options. English spoken by some staff.",
+  "priceRange": "Moderate",
+  "streetAddress": "3-60-11 Wada, Suginami Ku",
+  "postalCode": "166-0012",
+  "phone": "tel:03-6304-9441",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm, 6:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/lotusflowersone",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.697505,139.660264&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.697505,139.660264&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

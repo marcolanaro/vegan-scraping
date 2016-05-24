@@ -1,0 +1,15 @@
+{
+  "title": "Estravagario",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Organic, Beer/Wine\n                                    ",
+  "description": "A small Bologna vegetarian restaurant with a bar. Offers meals and beverages list include coffee, tea, soft drinks, juices, blended fruit and fresh vegetables, shakes. Non smoking.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Mascarella, 81/H",
+  "postalCode": "40100",
+  "phone": "tel:0514210582",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-7:00pm, Fri 8:00am-12:00am, Sat 7:30pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.501330,11.352820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.501330,11.352820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

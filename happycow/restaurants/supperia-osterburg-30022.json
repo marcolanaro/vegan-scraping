@@ -1,0 +1,17 @@
+{
+  "title": "Supperia",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Organic, Take-out\n                                    ",
+  "description": "Supperia is a soup bistro with a daily changing range of two or three different soups, always vegetarian, vegan upon request (better call ahead to let them know in advance). Uses mainly local, all organic ingredients. Also has different types of chocolate, coffee, tea, salads, soft drinks and desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Breite Str.9",
+  "postalCode": "39606",
+  "phone": "tel:03937%2082012",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.787990,11.753060&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.787990,11.753060&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

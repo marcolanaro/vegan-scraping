@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bite n Chat",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Fusion, Indonesian\n                                    ",
+  "description": "Modern style restaurant. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl. Kemang Pratama Raya Blok A no. 10, Bekasi",
+  "postalCode": "17714",
+  "phone": "tel:02182435973",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-10:00pm, Fri-Sat 10:00am-10:30pm, Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Bitenchat",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.271794,106.987019&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.271794,106.987019&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

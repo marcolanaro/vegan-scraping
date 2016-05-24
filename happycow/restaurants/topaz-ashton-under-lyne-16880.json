@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Topaz",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, English\n                                    ",
+  "description": "Not-for-profit organization operating movement/music and art studios, traditional counseling service, and vegetarian café with internet facilities. Offers wide range of services and activities to the local community of Tameside and Glossop, from art to yoga and all things in between. They use Fair Trade and Organic produce whenever possible.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "216-218 Katherine Street",
+  "postalCode": "OL6 7AS",
+  "phone": "tel:+44-0161-3309223",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-4:00pm, Fri-Sat 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.488300,-2.098660&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.488300,-2.098660&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

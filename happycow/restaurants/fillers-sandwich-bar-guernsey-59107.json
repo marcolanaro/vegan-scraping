@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fillers Sandwich Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little sandwich shop in St Peter Port. Build-your-own sandwich, baguette, wrap, salad box, or jacket potato.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "24 Smith St, St Peter Port",
+  "phone": "tel:01481253407",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-3:00pm, Sat 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/fillers.sandwiches",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.456799,-2.536622&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.456799,-2.536622&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

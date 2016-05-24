@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Deandra Vegetarian Corner",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Fast food, Indonesian\n                                    ",
+  "description": "Vegetarian restaurant specializing in nasi campur. Please send exact map coordinates to happycow.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Taman S Parman (Samping Untar 1), Jakarta Barat",
+  "phone": "tel:0818892299",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-5:00pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.168746,106.791054&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.168746,106.791054&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

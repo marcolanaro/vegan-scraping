@@ -1,0 +1,17 @@
+{
+  "title": "Leaf Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Salad bar, Juice bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Healthy food and juices cafe near the Bastion Barbican mountain.",
+  "priceRange": "Moderate",
+  "streetAddress": "Subačiaus 16",
+  "phone": "tel:8-67227144",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.676472,25.291771&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.676472,25.291771&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

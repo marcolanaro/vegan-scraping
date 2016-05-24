@@ -1,0 +1,14 @@
+{
+  "title": "Plaza Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Fast food, Salad bar, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafeteria, has vegan croissant and dairy-free milk.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Piazza Solferino, 10",
+  "phone": "tel:0117640489",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.069340,7.676740&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.069340,7.676740&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

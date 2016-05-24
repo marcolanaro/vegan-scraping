@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Welt Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A fair trade cafe serves a mostly vegetarian menu, with some vegan choices or dishes that can be made vegan. Specializes in breakfast (served until 10pm) and brunch (served only on weekends). Serves a large variety of beverages, including alcohol. Trendy atmosphere. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Schwarzspanierstrasse 15",
+  "phone": "tel:01-4053741",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-12:00am, Sat-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/weltcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.216726,16.357458&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.216726,16.357458&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

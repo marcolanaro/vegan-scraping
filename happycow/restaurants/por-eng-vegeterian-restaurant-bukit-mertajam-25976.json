@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Por Eng Vegeterian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Take-out, Catering, Malaysian\n                                    ",
+  "description": "Economic rice, noodle soups, a la carte menu. Some egg and dairy used. Has Wi-Fi. If Thursday is on the 1st and 15th of chinese lunar calendar, then it's open.",
+  "priceRange": "Moderate",
+  "streetAddress": "322, Jalan Berjaya, Kampung Baru",
+  "postalCode": "14000",
+  "phone": "tel:012-9811480",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:00am-10:00pm, Fri-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.352222,100.469018&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.352222,100.469018&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

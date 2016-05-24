@@ -1,0 +1,18 @@
+{
+  "title": "Mithos Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Italian, Salad bar, Beer/Wine, Take-out, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan choices are the salad bar and a few other dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Agia Marina",
+  "postalCode": "73001",
+  "phone": "tel:2821068670",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.519716,23.928959&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.519716,23.928959&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

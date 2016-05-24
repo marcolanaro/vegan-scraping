@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mueli",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small organic store with a good selection of vegan products including tofu, soy milk, soy yoghurt, spreads, fruits and vegetables. Centrally located, all organic and with focus on regional products.",
+  "streetAddress": "Pfarrplatz 16",
+  "postalCode": "4020",
+  "phone": "tel:+43-70-77-56-88",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-6:00pm, Sat 8:30am-12:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.306060,14.288279&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.306060,14.288279&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

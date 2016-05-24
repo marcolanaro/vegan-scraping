@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Louise - Ramat HaHayal",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Beer/Wine, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Trendy cafe with several locations. Pleasant setting on a quiet suburban street near the Ramat HaHayal hi-tech and industrial zone. Offers a separate vegan menu, also in English. Large all-vegan breakfast served until 1pm. Lunch and dinner vegan choices include huge salads, sandwiches, soup, pasta, and grain-based mains like the vegan paella. Juice bar includes fruit shakes (can be made with soy milk), juices. No extra charge for soy milk in coffee. Busy on weekends so better reserve ahead. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "11 Harugei HaMalchut",
+  "phone": "tel:03-6492000",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-11:00pm, Sat 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafelouisehaifa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.109265,34.833402&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.109265,34.833402&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

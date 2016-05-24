@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rice Thai Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cozy atmosphere. Thai food menu with some vegetarian dishes. Curries and stir frys can be made vegan with tofu or vegetables - specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "41 St Cuthbert's St",
+  "postalCode": "MK40 3JG",
+  "phone": "tel:01234272053",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 6:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Rice-Thai-Restaurant-Bedford/291986304238602?sk=timeline&ref=page_internal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.138795,-0.462929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.138795,-0.462929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

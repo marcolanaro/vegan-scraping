@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Felice's Vegetarian Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarian and fish. Little cafe in Kuta, Lombok run by a woman who understands vegan well and can veganize most things on the menu. Try the potato balls and the fried tempeh.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "near main strip of Kuta",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.874847,116.249280&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.874847,116.249280&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

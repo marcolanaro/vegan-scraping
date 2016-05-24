@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zeal",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic, Buffet, Take-out\n                                    ",
+  "description": "Vegan food buffet featuring many vegetable dishes. Next door is their shop selling organic products like clothing, toiletries, and food as well as sweets and snacks. Owners grow some of its produce in a greenhouse next door.",
+  "priceRange": "Moderate",
+  "streetAddress": "889-2161, Miyazaki",
+  "phone": "tel:0985651508",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-6:00pm, Sun 11:30am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.814540,131.453516&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.814540,131.453516&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

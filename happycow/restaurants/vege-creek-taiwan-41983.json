@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Creek",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Taiwanese\n                                    ",
+  "description": "Established Dec 2012, this cafe offers a blend of East meets West with modern design concept striping the space down to the bare essentials and a long wooden communal table in the center of the dining area.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2, Lane 129, Yanji Street, Da-An District",
+  "phone": "tel:02-27781967",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-2:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/vegecreek",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.042964,121.555081&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.042964,121.555081&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

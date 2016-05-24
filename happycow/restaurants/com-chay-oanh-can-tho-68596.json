@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Com Chay Oanh",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vietnamese\n                                    ",
+  "description": "An inexpensive vegetarian restaurant that serves the standard rice and noodle dishes one can find in South Vietnam. Reopened Jan 2016 at its current location, after transferring from 9698 Ly Tu Trọng. Address is approximate.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "97 De Tham",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.035347,105.781128&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.035347,105.781128&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

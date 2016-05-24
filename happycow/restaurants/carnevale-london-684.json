@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Carnevale",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Delivery, Take-out, Wine\n                                    ",
+  "description": "London veggie restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "135 Whitecross Street, London, UK",
+  "postalCode": "EC1Y 8JL",
+  "phone": "tel:020-7250-3452",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-11:00pm, Sat 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.522840,-0.092881&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.522840,-0.092881&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

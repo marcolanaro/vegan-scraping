@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ru Lai Vegetarian - Ang Mo Kio",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "如来素食 vegetarian food stall in the food center.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 226D Ang Mo Kio Ave 1 St 22 #01-185",
+  "phone": "tel:96680226",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:30am-12:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.366839,103.839361&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.366839,103.839361&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,16 @@
+{
+  "title": "Sweet Life",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "American bakery serving cupcakes and coffee with plant milk available. Each day a changing vegan cupcake flavor. Has also vegan pies, a daily soup with hummus.",
+  "streetAddress": "Warszawska 7",
+  "postalCode": "31-155",
+  "phone": "tel:793011544",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SweetlifeKrk",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.068492,19.943187&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.068492,19.943187&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

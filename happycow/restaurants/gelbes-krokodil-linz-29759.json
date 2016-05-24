@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gelbes Krokodil",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine, European, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bar restaurant. Menu includes a vegetarian category where the vegan suitable dishes are clearly marked.",
+  "priceRange": "Moderate",
+  "streetAddress": "Dametzstrasse 30",
+  "postalCode": "4020",
+  "phone": "tel:+43-732-784182",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-11:30pm, Sat 4:00pm-11:30pm, Sun 10:00am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.302651,14.290541&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.302651,14.290541&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "FO Kuang Vegetarian Fast Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "Serving varieties of local cuisine and fast food, 3 dishes with rice, around RM3 per meal. Complimentary Chinese tea and water. Non smoking. No air conditioning.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "35, Jalan Medan Midah, Taman Midah",
+  "postalCode": "56000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.100942,101.733709&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.100942,101.733709&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

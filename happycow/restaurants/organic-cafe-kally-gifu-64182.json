@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Organic Cafe Kally",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Macrobiotic, Organic, Beer/Wine\n                                    ",
+  "description": "A 100% vegan restaurant serves soy meat, teriyaki rice bowls, vegan burgers, organic beer, bailey coffee with soy milk and more. \r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1498-200 Naru, Shirotori, Gujo-shi",
+  "phone": "tel:050-34517009",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.748577,136.964354&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.748577,136.964354&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Moss Ocean House",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "B&B in Kagoshima with vegan/macrobiotic breakfast and dinner. Only such place on the island of Yakushima. You can see the sunrise and the moon rise. Directions: from the Miyanoura port: go south, it takes 50 mins and from the Anbou port: go south, it take 10 mins. Address in Japanese: 鹿児島県熊毛郡屋久島町麦生311-91. After the sarukawa no gajyumaru, you will see the sign of the lodge. The sign is on the ocean side. By bus take onoaida, kurio bus and get off at the 'Nakabashi' stop. Walk about 3 minutes.",
+  "streetAddress": "311-91 Mugio, Kagoshimaken kumagegun Yakushimamchou",
+  "phone": "tel:0997-47-3650",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.273277,130.620328&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.273277,130.620328&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

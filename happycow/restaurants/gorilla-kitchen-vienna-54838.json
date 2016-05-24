@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gorilla Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A burrito place offers a vegan burrito named lotus tofu burrito.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ziegelofengasse 18",
+  "phone": "tel:0660-4817152",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/gorillakitchen2013",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.191083,16.361315&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.191083,16.361315&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

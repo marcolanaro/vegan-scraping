@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vaishno Bhojnalya",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Indian\n                                    ",
+  "description": "Offers a small menu of vegetarian food with a few vegan options. Located on a small street across the street from the Indian emporium center near Yaworat Chinatown. Has a/c. Chakraphet Rd is at the end of Yaworat Rd, the main China market road. Please send correct map location to HappyCow.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Chakraphet Rd 490",
+  "phone": "tel:0811417243",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.743551,100.501784&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.743551,100.501784&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

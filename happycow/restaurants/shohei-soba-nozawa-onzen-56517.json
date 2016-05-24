@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shohei Soba",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Family-run Japanese soba shop on the 2nd floor by Main Street Foot Bar; outside is a blackboard listing the menu items. Has soba dishes with deep fried tofu and wild edible vegetables. Each dish costs around 1000yen. Last order 6:45pm. Nearby is a shop selling steamed buns with various fillings. NOTE: please send map coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "O-yu Street",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.922602,138.444611&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.922602,138.444611&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

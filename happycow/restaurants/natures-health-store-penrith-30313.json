@@ -1,0 +1,12 @@
+{
+  "title": "Nature's Health Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small shop on main street of town.",
+  "streetAddress": "1 King Street",
+  "phone": "tel:01768-899262",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.663790,-2.751631&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.663790,-2.751631&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

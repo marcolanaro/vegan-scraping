@@ -1,0 +1,20 @@
+{
+  "title": "Lupin Restaurante Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Juice bar, Beer/Wine, European\n                                    ",
+  "description": "Opened Mar 2015, this vegetarian restaurant offers a variety of cuisines, with world influences, from ravioli and tofu dish to creme brulee.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua Arquitecto Marques da Silva, 74",
+  "postalCode": "4150-483",
+  "phone": "tel:913894248",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-3:30pm, Thu-Sat 7:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/LupinRestauranteVegetariano",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.153345,-8.630508&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.153345,-8.630508&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

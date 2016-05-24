@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sweet Mandarin",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Beer/Wine, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese food restaurant. Offers a separate vegan menu wide various starters, mains, and sides. Sells a line of bottled sauces that are vegan suitable.",
+  "priceRange": "Moderate",
+  "streetAddress": "19 Copperas St",
+  "postalCode": "M4 1HS",
+  "phone": "tel:0161-8328848",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sweetmandarins",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.484696,-2.236003&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.484696,-2.236003&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nagisa Warms",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Macrobiotic, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located in front of Lake Biwa. Offers vegan lunch set and as for dinner, offers vege spaghetti, vege taco rice, gluten cutlet, etc.",
+  "priceRange": "Moderate",
+  "streetAddress": "15-5 Uchidehama, Otsushi",
+  "postalCode": "520-0806",
+  "phone": "tel:077-5268220",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.006919,135.881446&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.006919,135.881446&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

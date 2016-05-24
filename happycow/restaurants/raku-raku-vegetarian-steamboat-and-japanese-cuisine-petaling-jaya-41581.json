@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Raku Raku Vegetarian Steamboat and Japanese Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Japanese, Organic, Western, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "Vegetarian restaurant offers many vegan options. Uses no msg, white sugar or white salt. Cooks with less oil, rice is cooked with charcoal, vegetables and fruits are washed with an ozone machine.",
+  "priceRange": "Moderate",
+  "streetAddress": "51 Jalan SS22/11, Damansara Jaya",
+  "postalCode": "47400",
+  "phone": "tel:03-77326111",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:30am-3:00pm, 5:30pm-10:00pm, Thu-Sun 11:30am-3:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/rakuraku2u",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.131305,101.621381&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.131305,101.621381&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

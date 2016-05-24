@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yap Lim",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet\n                                    ",
+  "description": "叶林素食餐厅 restaurant has A/C. Serves rice and noodle with a variety of buffet dishes made of vegetables, tofu, and mock meat. The cooked food is vegan except for the banana cakes (egg). It is also a food store selling an extensive choice of frozen mock 000meats and other food, prepackaged health food (some of which do contain milk products), supplements, drinks, etc.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "14-G Jalan Darat Makbar",
+  "postalCode": "25100",
+  "phone": "tel:095143439",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-3:30pm, 6:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.807327,103.319890&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.807327,103.319890&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

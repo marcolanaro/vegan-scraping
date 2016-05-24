@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MonkeyFood",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Mediterranean, Fast food, Delivery, Take-out, Middle Eastern\n                                    ",
+  "description": "Cafe serving vegan fast food such as falafel, kebab, salad, cakes and sweets, hummus, plus coffee with soya milk, club mate and other alcohol free drink.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "128A Bogdanovicha",
+  "phone": "tel:333520606",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/monkey.food.minsk",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.936739,27.584313&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.936739,27.584313&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

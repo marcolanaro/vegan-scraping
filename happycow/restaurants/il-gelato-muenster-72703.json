@@ -1,0 +1,12 @@
+{
+  "title": "Il Gelato",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Small ice cream shop next to the university. Offers vegan flavors including chocolate and vanilla. Also serves coffee, yoghurt (has vegan), organic muesli, and shakes.",
+  "streetAddress": "Universitätsstraße 25",
+  "phone": "tel:251000000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.961600,7.618490&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.961600,7.618490&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

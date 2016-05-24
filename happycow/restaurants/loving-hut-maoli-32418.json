@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Maoli",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Taiwanese\n                                    ",
+  "description": "Part of international chain of vegan restaurants inspired by Supreme Master Ching Hai, an advocate for veg living. Each location is individual family owned and operated. Serves all vegan food, non-alcoholic beverages, and vegan desserts. Name in Chinese 愛家國際連鎖餐飲.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1051 Zhongzheng Road",
+  "postalCode": "36052",
+  "phone": "tel:037-366-863",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.548301,120.816357&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.548301,120.816357&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

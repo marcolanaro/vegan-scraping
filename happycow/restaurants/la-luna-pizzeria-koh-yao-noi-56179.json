@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Luna Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Italian, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian-owned pizzeria. Offers pizza without cheese for vegans and also banana based soft serve ice cream.",
+  "priceRange": "Expensive",
+  "streetAddress": "between Takao Pier and Island Resort",
+  "phone": "tel:+66-0846291550",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.127918,98.621519&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.127918,98.621519&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

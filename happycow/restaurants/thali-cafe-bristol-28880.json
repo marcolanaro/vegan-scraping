@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thali Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian thali restaurant with several locations. Always a vegetarian thali and a dairy-free thali on offer. Cakes, sweets, and lemonade made in-house. Offers tiffin boxes for takeaway.",
+  "priceRange": "Moderate",
+  "streetAddress": "1 Regent Street, Clifton",
+  "postalCode": "BS8 4HW",
+  "phone": "tel:0117%20974%203793",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.453413,-2.616573&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.453413,-2.616573&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

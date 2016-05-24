@@ -1,0 +1,17 @@
+{
+  "title": "Curry Co",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Take-out, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Curry & Co is a sausage bar serving the typical dish currywurst (curry sausage) but has a few vegan sausage dishes, as well as a vegan ice cream.\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Louisenstr. 62",
+  "postalCode": "01099",
+  "phone": "tel:+49-1739765497",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:00am-10:00pm, Thu 11:00am-12:00am, Fri-Sat 11:00am-2:00am, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.065740,13.755920&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.065740,13.755920&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

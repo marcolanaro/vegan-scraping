@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yangming Spring - Jongshao East Road",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Gourmet\n                                    ",
+  "description": "Name 陽明春天蔬食, address 台北市忠孝東路四段98號10樓. Gourmet Japanese inspired vegetarian cuisine. Hand-made. Choice of set menus.",
+  "priceRange": "Expensive",
+  "streetAddress": "10F, 98, Sec. 4, Jongshao East Road",
+  "phone": "tel:02-87721829",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.041377,121.546364&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.041377,121.546364&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

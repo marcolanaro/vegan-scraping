@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MOO",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Salad bar, Juice bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Majority of the food is vegan. Staff is aware of what items are vegan. Serves wraps, soups, dhals, cakes. Take-out cafe with small seating area. MOO stands for Mostly Organic Origins.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "47 New St, St Helier",
+  "postalCode": "JE2 3RA",
+  "phone": "tel:01534-618396",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ilovemooo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.186325,-2.106022&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.186325,-2.106022&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

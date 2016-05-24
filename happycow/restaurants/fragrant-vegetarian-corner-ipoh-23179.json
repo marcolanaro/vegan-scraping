@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fragrant Vegetarian Corner",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "A vegetarian corner(stall) situated inside a small food court that serves soup noodles in the morning only. Famous with Fragnant \"Heong Choon\" soup with noodles and vegan wantan (optional).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3, Dataran Niaga, Taman Kledang",
+  "postalCode": "31450",
+  "phone": "tel:0165487243",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.569285,101.044785&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.569285,101.044785&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

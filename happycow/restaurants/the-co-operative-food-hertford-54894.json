@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Co-operative Food",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "This small shop offers a big selection of accidentally vegan products like their jam doughnuts, custard doughnuts, apple strudels. Also sells ready-to-eat tubs of vegan sweet chilli noodles. All of its own brand of household items such as laundry detergent and shampoo are vegan.",
+  "streetAddress": "26 Fleming Crescent",
+  "postalCode": "SG14 2DJ",
+  "phone": "tel:01992552754",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.800204,-0.101246&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.800204,-0.101246&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sushi Kitchen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Take-out\n                                    ",
+  "description": "Japanese meatless cafe. Nicely decorated and air-conditioned. Offers vegan sushi, tempura, fried noodle, noodle soup, fried rice, porridge, green tea. Sit on tatami mat or regular chair. Has a small library. Better to make advance reservation. Located diagonally behind Chong Cheng primary school (崇正小學) in Sungai Ara.",
+  "priceRange": "Moderate",
+  "streetAddress": "2A-1 1Fl, Jalan Sungai Ara, Desa Ara, Sungai Ara, Bayan Lepas",
+  "postalCode": "11900",
+  "phone": "tel:0125913311/,%200164117570",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-8:00pm, Fri-Sun 11:30am-2:30pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.324753,100.271191&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.324753,100.271191&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

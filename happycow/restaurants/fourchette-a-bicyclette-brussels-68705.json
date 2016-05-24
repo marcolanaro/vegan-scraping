@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fourchette a Bicyclette",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Delivery, Take-out, European, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant and delivery bike in the the Saint Boniface area. Proposes new menu each week using seasonal and organic products. Daily a soup, two starters (warm or cold), a vegetarian dish, and a non-veg dish, and two dessert.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rue Longue Vie, 46",
+  "phone": "tel:25135365",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-6:00pm, Wed 11:00am-4:00pm, Thu-Fri 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.835807,4.366536&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.835807,4.366536&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

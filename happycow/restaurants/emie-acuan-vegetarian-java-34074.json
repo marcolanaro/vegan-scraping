@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Emie Acuan Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Delivery, Take-out\n                                    ",
+  "description": "Vegetarian restaurant with plenty of vegan options, including specials. Has different menu Fri-Sun.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Fresh Market, GF Block A, Unit 135 Pantai Indah Kapuk, Jakarta Utara",
+  "phone": "tel:082113783333",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.123712,106.876841&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.123712,106.876841&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

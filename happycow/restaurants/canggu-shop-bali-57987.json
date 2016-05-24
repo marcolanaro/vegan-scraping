@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Canggu Shop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Whole food shop in Batu Bolong, est. Dec 2014. Sells products without chemical or artificial ingredients. Delivers.",
+  "streetAddress": "Jalan Pantai Batu Bolong 23A, Canggu",
+  "postalCode": "80361",
+  "phone": "tel:085953780775",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/CangguShop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.638238,115.145469&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.638238,115.145469&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

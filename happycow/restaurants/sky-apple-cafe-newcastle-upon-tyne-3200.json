@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sky Apple Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, Take-out, Bakery, English\n                                    ",
+  "description": "Operating since 2002 with current ownership since 2010. Daytime is cafe menu, takeaway, and prepared foods for heat and serve at home. Dinner is restaurant menu. Vegan items are marked. Vegan cakes also available for advance order. Reservation suggested for evenings. Metro: Byker or Chillingham Road, or bus 16,18.",
+  "priceRange": "Moderate",
+  "streetAddress": "182 Heaton Rd, Heaton",
+  "postalCode": "NE6 5HP",
+  "phone": "tel:01912092571",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-4:30pm, Wed-Sat 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sky.apple.7",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.983960,-1.581860&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.983960,-1.581860&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

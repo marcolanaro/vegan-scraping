@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Vegansky Svet",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, International, Buffet, Fast food, Asian\n                                    ",
+  "description": "Part of international chain of vegan restaurants inspired by Supreme Master Ching Hai, an advocate for veg living. Each location is individual family owned and operated. Opened late 2011, and as of Aug 2013, an official Loving Hut. Lunch buffet offered 11am-3pm. Child friendly, non-smoking. Has menu with food photos. Near Arbesovo Namesti or Svandovo Divadlo tram stops.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Zborovska 814/19, Praha 5",
+  "postalCode": "150 00",
+  "phone": "tel:775208729",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/veganskysvet",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.076270,14.407250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.076270,14.407250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

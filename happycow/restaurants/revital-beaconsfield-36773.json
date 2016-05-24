@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Revital",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Chain of health food stores. Carries vitamins and minerals, sports' nutrition items, body and skin care and much more. Has a good selection of refrigerated and frozen vegan foods. Holds in-store events.",
+  "streetAddress": "12 The Highway, Station Rd",
+  "postalCode": "HP9 1QQ",
+  "phone": "tel:01494-678787",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Revital/119465414735471",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.608300,-0.642786&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.608300,-0.642786&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

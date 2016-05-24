@@ -1,0 +1,15 @@
+{
+  "title": "Aubergine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, German\n                                    ",
+  "description": "Small restaurant with a garden. Offers weekday lunch buffet and Sunday buffet; also an extensive a la carte menu during week nights plus a special meal of the month. Uses organic ingredients and beverages. Vegan versions for most of the dishes available.",
+  "priceRange": "Moderate",
+  "streetAddress": "Haimbacher Str. 51",
+  "postalCode": "36041",
+  "phone": "tel:0661-2926868",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:30am-2:00pm, Tue-Sun 6:00pm-10:00pm, Sun 11:30am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.552100,9.647070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.552100,9.647070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

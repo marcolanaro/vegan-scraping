@@ -1,0 +1,19 @@
+{
+  "title": "Haferkater",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, German\n                                    ",
+  "description": "A 100% vegan and vegetarian restaurant specializing in porridge, cooked without milk and served with various toppings. Also serves coffee and other food. Offers street food in the winter and terrasse in the summer. No inside seating space.",
+  "priceRange": "Moderate",
+  "streetAddress": "Boxhagener Strasse 76-78",
+  "postalCode": "10245",
+  "phone": "tel:01514-1218975",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-4:00pm, Sat-Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Haferkater",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.507722,13.468839&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.507722,13.468839&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

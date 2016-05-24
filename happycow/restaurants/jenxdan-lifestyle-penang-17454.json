@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "JenxDen Greenlife Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Take-out, Asian, Catering\n                                    ",
+  "description": "简单绿意小屋 is an air conditioned veggie cafe with Wi-Fi internet; change of ownership 2014. Serves Asian and western food. Eggless cheese cake available. Located off Jalan Burma behind Malaysian Buddhism Association. Another branch in Farlim, Penang.",
+  "priceRange": "Moderate",
+  "streetAddress": "21 Jalan Chong Thye, George Town",
+  "postalCode": "10050",
+  "phone": "tel:04-2268414/,%20+60164141817",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/janxdengreenlife",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.425405,100.321251&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.425405,100.321251&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

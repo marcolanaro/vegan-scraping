@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mumbai Delights",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Fast food, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Pure vegetarian Indian restaurant in Mont Kiara.",
+  "priceRange": "Moderate",
+  "streetAddress": "Block E, Unit 01-04, Plaza Mont Kiara, Mont Kiara",
+  "postalCode": "50480",
+  "phone": "tel:0362062008",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Mumbaidelights",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.165338,101.651123&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.165338,101.651123&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

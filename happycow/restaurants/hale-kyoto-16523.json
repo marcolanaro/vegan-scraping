@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hale",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Beer/Wine\n                                    ",
+  "description": "Kyoto vegan restaurant. Offers set meals. Directions: in the Nishiki Market arcade, look for the half open glass door next to the sweet shop stall, approx. 4 stalls before you reach Fuyacho -dori, at 京都府京都市中京区東魚屋町198-1, 〒604-8055. May 23, 2015 reported still operating.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Nishiki-dori, 198-1",
+  "phone": "tel:075-2312516",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 11:30am-3:00pm, Fri-Sun 11:30am-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.005244,135.765341&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.005244,135.765341&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

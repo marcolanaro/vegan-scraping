@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Poh Hiong ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "寶香素食園 veggie eatery.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "B06 Taman Kenanga Mewah, Jalan Kenanga 3/21, Taman Kenanga Seksyen 3, Melaka",
+  "postalCode": "75200",
+  "phone": "tel:018-6635699",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 7:00am-5:00pm, Thu-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.211297,102.239567&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.211297,102.239567&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

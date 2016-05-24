@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "misswallsbackgarden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Buffet, Juice bar, Take-out\n                                    ",
+  "description": "Offers a daily changing spread of dishes. Relaxed space with Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "52 Grove Rd",
+  "postalCode": "BN21 4UD",
+  "phone": "tel:01323-411529",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-5:00pm, Sat 8:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/misswallsbackgarden",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.767265,0.278847&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.767265,0.278847&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

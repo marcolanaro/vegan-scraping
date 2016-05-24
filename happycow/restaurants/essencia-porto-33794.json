@@ -1,0 +1,18 @@
+{
+  "title": "Essencia",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Portuguese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Gourmet vegetarian restaurant with non-vegetarian options. Offers vegan main course options. ",
+  "priceRange": "Expensive",
+  "streetAddress": "Rua Pedro Hispano, 1190",
+  "postalCode": "4150-123",
+  "phone": "tel:351228301813",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:30pm-3:00pm, Mon-Thu 8:00pm-10:30pm, Fri-Sat 8:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.165616,-8.629371&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.165616,-8.629371&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Philippe - Paris Lounge",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Salad bar, French, Wine\n                                    ",
+  "description": "斐麗巴黎, at 台中市西區五權西六街20巷2號, offers upscale dining. It's one of 2 locations; this one was previously at GuanQian Road North District. Set menus start from NT 500 each and up, plus la carte. All-you-can-eat salad bar is included in set menu.",
+  "priceRange": "Expensive",
+  "streetAddress": "2, Lane 20, Sec. 6, WuQuan Rd, West District",
+  "phone": "tel:04-23768089",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.139010,120.658646&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.139010,120.658646&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

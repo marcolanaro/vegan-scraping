@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "9 Warung",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Beer/Wine, Take-out, Indonesian\n                                    ",
+  "description": "Laid back restaurant serving home-cooked Indonesian food that's mostly vegan. Owner speaks English and understands special dietary requirements. Also hosts cooking classes and sells art and jewellery. Location is opposite Tanah Tho Gallery at 2km south of Ubud on the main road, intersection of Jalan Lodtunduh and Jalan Lodtunduh 1.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Lodtunduh, Ubud",
+  "phone": "tel:0817776768",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.533501,115.263149&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.533501,115.263149&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

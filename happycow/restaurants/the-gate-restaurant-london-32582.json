@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Gate Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Juice bar, Beer/Wine, British, English, Indo-Iraqi\n                                    ",
+  "description": "Offers casual vegetarian dining with Indo-Iraqi Jewish influence. All-day mezze bar menu and weekend brunch. Vegan options are marked \"vo.\" Located opposite Saddler's Wells Theatre, around the corner to Upper Street, and a short walk from Angel tube station.",
+  "priceRange": "Expensive",
+  "streetAddress": "370 St John St, Islington",
+  "phone": "tel:0207-2785483",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-2:30pm, Mon-Sun 6:00pm-10:30pm, Sat-Sun 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.530091,-0.105192&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.530091,-0.105192&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

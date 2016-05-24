@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "SU French Healthy Eatery",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, French, Gourmet\n                                    ",
+  "description": "Chinese name SU法式養生蔬食館. Classy, vegetarian French cafe next to the park in Beitou, short walk from New Beitou MRT.",
+  "priceRange": "Expensive",
+  "streetAddress": "228, GuangMing Rd, BeiTou District",
+  "phone": "tel:02-28946428",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.135870,121.505800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.135870,121.505800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

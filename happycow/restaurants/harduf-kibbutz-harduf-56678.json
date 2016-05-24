@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Harduf",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Western, Beer/Wine\n                                    ",
+  "description": "This vegetarian restaurant in the Haifa area is part of Kibbutz Harduf. Offers home-style cooking with many vegan items, such as breakfast, almond pancakes, Indian dish, salads, soups, stuffed vegetables. Offers view of the Galil mountains. Intimate atmosphere. Several deals for couples.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kibbutz Harduf",
+  "phone": "tel:04-9059229",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-4:00pm, Thu 9:00am-10:00pm, Fri-Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Hardufrestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.763717,35.174663&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.763717,35.174663&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

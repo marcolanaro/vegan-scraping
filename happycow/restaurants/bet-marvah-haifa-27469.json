@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bet Marvah",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Bet Marvah means \"house of sage,\" previously offering vegetarian food once a week out of a guesthouse at Yafo St. 82 but no longer. Now catering. If you contact them in advance, they will \r\nprepare a vegan version to any of the few non-vegan dishes on the menu.",
+  "streetAddress": "Hanna 13",
+  "phone": "tel:052-3236877",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.797166,34.976725&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.797166,34.976725&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

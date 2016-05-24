@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ah Poh Vege Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "阿婆素食 vegetarian restaurant, with an a-la-carte menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-43, Festival Walk at Ipoh, Jalan Medan Ipoh 1",
+  "postalCode": "31400",
+  "phone": "tel:+60-185720803",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ahpohvege",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.629105,101.127766&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.629105,101.127766&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

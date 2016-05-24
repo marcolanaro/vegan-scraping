@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cowherd's Cafe - Food Van",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Juice bar, Take-out, British, English, Fusion\n                                    ",
+  "description": "Mobile vegan lunch wagon launched in 2015. Parks during the week at Greengate Square. Serves lunch food plus juices and snacks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Victoria Bridge St, Greengate Square, Salford",
+  "postalCode": "M3 5AS",
+  "phone": "tel:07974-800711",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/CowherdsCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.485342,-2.246182&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.485342,-2.246182&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

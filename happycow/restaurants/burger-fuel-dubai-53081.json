@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Burger Fuel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise burger joint from New Zealand. Menu includes veggie patties that are cooked separately. The ingredients range from sweet potato, chickpea, mushroom, and basil to pumpkin, cashew nut, ginger and seeds. Toppings such as plum, peanut, and aioli sauces plus avocado, relish, and salad greens.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "The Dubai Mall, Upper Food Court, Level 2",
+  "phone": "tel:04-3253416",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:30am-12:00am, Thu-Fri 9:30am-1:00am, Sat-Sun 9:30am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/burgerfueluae",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.199963,55.279189&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.199963,55.279189&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

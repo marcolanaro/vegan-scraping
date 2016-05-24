@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gung De Lin",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "上海功德林素食餐廳, at 台中市西區美村路一段456號, makes Taiwanese and Shanghai dishes. At across from middle school. Menu includes all kinds of dumplings, soups, stir fries, and appetizers. Inexpensive to moderate prices. Other locations in Taiwan (see website).",
+  "priceRange": "Moderate",
+  "streetAddress": "456, Sec. 1, MeiTsuen Rd, West District",
+  "phone": "tel:04-23756792",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.143053,120.661576&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.143053,120.661576&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

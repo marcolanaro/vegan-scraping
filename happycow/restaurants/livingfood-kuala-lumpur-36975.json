@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "LivingFood",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Raw, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bistro and cafe near KL Central Park. Around 50% of the menu is raw food; try the living enchilada or the raw desserts. Has air con and Wi-Fi.",
+  "priceRange": "Expensive",
+  "streetAddress": "Jalan Tun Razak, G-04 Menara Tan & Tan",
+  "postalCode": "55100",
+  "phone": "tel:+6016-8889123",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/LivingFood/322593054427116",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.156274,101.720711&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.156274,101.720711&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

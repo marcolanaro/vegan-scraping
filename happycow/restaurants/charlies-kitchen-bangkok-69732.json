@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Charlie's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Thai, Western, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a dedicated vegetarian section to the menu, and offers some faux meat dishes - a rarity in this part of Bangkok. Vegans please inquire. Located in a busy and popular tourist area next to Nana Plaza.",
+  "priceRange": "Moderate",
+  "streetAddress": "5/1-2, Soi 4 Sukhumvit Rd, Klongtoey",
+  "postalCode": "10110",
+  "phone": "tel:011-1112222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.740973,100.553140&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.740973,100.553140&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

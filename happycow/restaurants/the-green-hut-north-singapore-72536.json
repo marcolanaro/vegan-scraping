@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Green Hut",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Take-out\n                                    ",
+  "description": "原素坊 opened Feb 2016 serving stir fried vegetables, assam fish, veg fish and chicken cutlet, dumpling soup and noodles.",
+  "priceRange": "Moderate",
+  "streetAddress": "Blk 501A, Wellington Circle, #01.30",
+  "postalCode": "751501",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.451764,103.820764&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.451764,103.820764&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Caprice Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Beer/Wine, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A vegan menu is offered on Sunday 9am-11pm when you ask for it; dishes include cheeseburgers, risotto, spaghetti bolognese, couscous, and for dessert chocolate mousse, creme brulee.",
+  "priceRange": "Moderate",
+  "streetAddress": "12 Avenue Jean Moulin",
+  "phone": "tel:0183761127/,%200146281099",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-12:00am, Sat 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CapriceCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.827477,2.325534&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.827477,2.325534&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

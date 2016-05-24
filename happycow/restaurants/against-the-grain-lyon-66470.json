@@ -1,0 +1,17 @@
+{
+  "title": "Against the Grain",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, French\n                                    ",
+  "description": "Vegan cafe est. 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "135 rue Sébastien Gryphe",
+  "postalCode": "69007",
+  "phone": "tel:0472940533",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:30am-6:00pm, Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.747500,4.838835&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.747500,4.838835&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

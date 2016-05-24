@@ -1,0 +1,17 @@
+{
+  "title": "Cibi e Libri",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Macrobiotic, Organic, Beer/Wine, Take-out\n                                    ",
+  "description": "La gastronomia vegetariana. Genova vegan restaurant, bookshop, and astro-music cafe.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Ravecca 48, Genova",
+  "postalCode": "16128",
+  "phone": "tel:010-2467050",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.404930,8.933610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.404930,8.933610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

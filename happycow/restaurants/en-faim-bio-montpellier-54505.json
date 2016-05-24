@@ -1,0 +1,17 @@
+{
+  "title": "En Faim Bio",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Delivery, Take-out, Bakery, French\n                                    ",
+  "description": "Simple, organic fast food restaurant in the city center beside the Polygone. Offers vegetarian and vegan food: sandwiches, galette, salad, soup, and baked goods.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15, passage de l'Horloge",
+  "postalCode": "34000",
+  "phone": "tel:+33467444611",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.608628,3.883589&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.608628,3.883589&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

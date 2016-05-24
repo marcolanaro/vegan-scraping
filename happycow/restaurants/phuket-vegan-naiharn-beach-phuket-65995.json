@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Phuket Vegan Naiharn Beach",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Western, Fusion\n                                    ",
+  "description": "Raw food restaurant with air conditioning and terrace, next to Baan Oui guesthouse. On the menu are dishes like raw pasta, vegan burger, pancakes, chia seed breakfast, house-made kombucha, coconut kefir and yoghurt. Note: Please send exact map coordinates to happycow!",
+  "priceRange": "Expensive",
+  "streetAddress": "31/48 Moo1, Saiyuan Roda, Nai Harn Beach",
+  "phone": "tel:0848374429",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-5:00pm, Wed-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Phuket-Vegan-Naiharn-Beach-802358093206094",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.781778,98.313900&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.781778,98.313900&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

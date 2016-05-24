@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "So Free Pizza - TaiDa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Take-out\n                                    ",
+  "description": "Located besides WenZhuo park, near Taiwan University at 大安區新生南路三段86巷19號. Offers different flavors of wood fired pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "19, Lane 86, Sec. 3, Xinsheng S Rd, Da’an District",
+  "phone": "tel:02-23643351",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/SoFreePizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.018770,121.532185&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.018770,121.532185&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

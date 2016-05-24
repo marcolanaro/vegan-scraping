@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Rice Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out only\n                                    ",
+  "description": "素经济飯档 fast food stall.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Tun H.S.Lee",
+  "postalCode": "50000",
+  "phone": "tel:016-3777247",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.144387,101.696635&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.144387,101.696635&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "May Kaidee's  Vegetarian Restaurant - Tanao",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Thai, Beer/Wine, Take-out\n                                    ",
+  "description": "Veggie restaurant near Khao Sarn Rd, in alley behind Burger King. This is their larger location. Upstairs is the cooking school (2nd floor) with balcony seating for restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "59 Tanao Road, Banglamphu",
+  "phone": "tel:662-2817699/,%20891373173",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.758019,100.499110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.758019,100.499110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

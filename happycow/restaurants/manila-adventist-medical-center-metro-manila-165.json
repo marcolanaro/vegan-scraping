@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Manila Adventist Medical Center",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Take-out, Bakery, Filipino\n                                    ",
+  "description": "Cafeteria setting. Freshly baked bread and bakery items for take-away, plus a good icy air conditioner to give you a break from the sweltering heat. At corner of Taft Ave and Senator Gil Puyat Avenue, Buendia LRT station.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "45 Donada St, 1st floor, Pasay City",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.555339,120.995264&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.555339,120.995264&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe der Provinz",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Take-out, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. All organic French-style café offering a selection of vegan, ovo-lacto and meat crepes, galettes and waffles. Salads also available. The crepes, galettes, and waffles are made with wheat-free batter (spelt and buckwheat flours, soy milk), although may not be vegan and made with eggs. Various coffees and drinks. Also sells books, bags and other small goodies. Nice atmosphere with open kitchen.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Maria Treu-Gasse 3",
+  "postalCode": "1080 Wien",
+  "phone": "tel:+43-19442272",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.210488,16.351205&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.210488,16.351205&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

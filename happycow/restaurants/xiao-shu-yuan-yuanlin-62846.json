@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xiao Shu Yuan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Fast food, Take-out, Fusion, Taiwanese\n                                    ",
+  "description": "Vegetarian burger, fries, and fast food eatery a 2-minute walk from Yuanlin train station, at 員林鎮新興街128號. Est. 2014.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "128, Xin Sheng St",
+  "postalCode": "510",
+  "phone": "tel:04-8362698",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/vegburg048362698",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.960643,120.570885&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.960643,120.570885&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

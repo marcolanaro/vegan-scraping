@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Home Cafe & Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "素之家 serves noodles, rice items, dim sum, and steam boat.",
+  "priceRange": "Moderate",
+  "streetAddress": "66 Jalan Hujan Rahmat 3, Taman Overseas Union",
+  "postalCode": "58200",
+  "phone": "tel:03-79717289",
+  "venueHours": "\n                                                                                                        Mon-Wed 10:00am-9:30pm, Fri-Sun 10:00am-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/The-Home-Cafe-Restaurant-1066187673405149/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.071826,101.672363&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.071826,101.672363&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

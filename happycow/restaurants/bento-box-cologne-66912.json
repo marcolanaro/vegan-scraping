@@ -1,0 +1,17 @@
+{
+  "title": "Bento Box",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Japanese, Delivery, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant chain offering Japanese food, including vegan choices such as soup and sushi.",
+  "priceRange": "Moderate",
+  "streetAddress": " Aachener Str. 500",
+  "phone": "tel:22160601710",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:30am-10:00pm, Sat-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/bentobox.restaurants",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.937740,6.893300&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.937740,6.893300&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

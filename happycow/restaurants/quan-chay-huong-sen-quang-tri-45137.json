@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Quan Chay Huong Sen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Vietnamese\n                                    ",
+  "description": "This eatery offers several choices for vegans and vegetarians alike. Food is prepared hygienically at a cooking station next to the dining area. Ornamental fruit and vegetables hang from the ceiling. The menu includes several rice and noodle dishes that employ mushroom and tofu to great effect. A few beverage choices on display at the front counter. Filtered water is available at a tap in the rear of the restaurant. Limited English is spoken.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "185 Tôn Thất Thuyết 5, Đông Hà",
+  "phone": "tel:053-3852480",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.811956,107.105429&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.811956,107.105429&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

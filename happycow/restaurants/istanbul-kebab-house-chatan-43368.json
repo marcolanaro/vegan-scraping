@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Istanbul Kebab House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Beer/Wine, Take-out, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarian menu available with vegan choices and others that can be made vegan, including babaganoush, hummus, falafel wraps, cucumber salad, soup and at times a vegan bread.",
+  "priceRange": "Moderate",
+  "streetAddress": "3-51 Miyagi, Okinawa",
+  "phone": "tel:098-936-1218",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:00am-2:00pm, 4:30pm-9:00pm, Fri 11:00am-2:00pm, 4:30pm-9:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.330851,127.744518&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.330851,127.744518&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

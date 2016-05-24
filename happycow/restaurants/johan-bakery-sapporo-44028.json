@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Johan",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery with many locations. This one is in central Sapporo in Odori Station's Food court on the B1 floor. Makes around 4 kinds of vegan suitable bread plus some buns and small breads. Products are marked with symbols for dairy and/or egg ingredients. Vegans be advised that the labels are in Japanese-only.",
+  "streetAddress": "Odori Station, Food court, B1",
+  "phone": "tel:0120044427",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Johan-Paris/450782305027435",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.059391,141.352929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.059391,141.352929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

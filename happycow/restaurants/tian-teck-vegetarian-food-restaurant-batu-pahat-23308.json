@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tian Teck Vegetarian Food Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "天德中西素食館. In 2015 it re-opened. Serves healthy, vegetarian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "32, Jalan Fatimah",
+  "postalCode": "83000",
+  "phone": "tel:07-4330991/,%20016-7787930",
+  "venueHours": "\n                                                                                                        Mon-Tue 10:00am-2:30pm, 5:30pm-10:00pm, Thu-Sun 10:00am-2:30pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.847235,102.926874&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.847235,102.926874&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veg Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai, Buffet\n                                    ",
+  "description": "A simple, buffet style veggie restaurant offering 6 or so dishes that vary daily and seem to be all-vegan. Dishes are local-style spicy, but you can taste before you pick. Free drinking water. No English name but recognizable by the yellow jay flag. Sells soy-protein crispy snacks, meat substitutes. Directions: Walk away from the bridge over the River Kwai all the way across the tourist street until the road bends to the left where the CJ supermarket is; walk around 30 meters on the left side and you'll find it.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Maenam Khwae Road",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.032375,99.522843&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.032375,99.522843&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

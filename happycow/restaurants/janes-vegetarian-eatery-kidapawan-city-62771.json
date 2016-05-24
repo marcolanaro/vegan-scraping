@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Janes Vegetarian Eatery",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Thai, Salad bar, Take-out, Asian, Bakery\n                                    ",
+  "description": "A 100% vegan restaurant run by Seventh Day Adventists near the central markets. Offers cooked vegan food such as organic rice, mock meats, stir fry, steamed greens and many soy based products and dry goods.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jose Abad Santos Street",
+  "postalCode": "9400",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-3:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.012161,125.088985&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.012161,125.088985&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

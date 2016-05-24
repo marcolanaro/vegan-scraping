@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "D'Life",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Pizza, Chinese, Western\n                                    ",
+  "description": "Signature dishes are the D'life fried rice, laksa, hokkien mee, ginger mee soup.",
+  "priceRange": "Moderate",
+  "streetAddress": "65, Jalan Rimbunan Raya 1, Laman Rimbunan",
+  "postalCode": "52100",
+  "phone": "tel:03-61793438",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.211013,101.649845&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.211013,101.649845&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Asian Chample Foods Goya",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Beer/Wine, Asian, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Okinawan and other Asian food. Machiya. Nov 2015 reported still operating.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "114-6 Jodoji Nishidacho, Sakyo Ward",
+  "postalCode": "606-8417",
+  "phone": "tel:075-7521158",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:30am-4:00pm, 5:30pm-11:00pm, Thu-Sun 11:30am-4:00pm, 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.028526,135.787747&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.028526,135.787747&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Al Andalus Arabic Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, Juice bar, Middle Eastern, Arabic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegans could get falafel, 3 varieties of hummus, babaganouj, tabouleh, and a few others. Fresh juices as well. English spoken, English menu. Sheesha is available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Warisan Square, Jalan Dua Pulu",
+  "postalCode": "88000",
+  "phone": "tel:+60-146714898",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.977990,116.070512&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.977990,116.070512&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Judges Bakery",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic bakery and wholefood store.",
+  "streetAddress": "51 High Street, Hastings, East Sussex",
+  "postalCode": "TN34 3EN",
+  "phone": "tel:01424-722588",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.857060,0.591160&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.857060,0.591160&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Casa Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "健康料理坊 serves rich, noodle and snacks. Located behind Maybank.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "68, Jalan Batai Laut 4,Taman Intan",
+  "postalCode": "41300",
+  "phone": "tel:03-33452878%20.",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.056929,101.472825&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.056929,101.472825&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

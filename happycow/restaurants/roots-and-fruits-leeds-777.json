@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Roots and Fruits",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, British, English\n                                    ",
+  "description": "Small veggie food cafe in the city centre. Offers vegetarian meals and some vegan ones, Cakes made by That Old Chestnut, a range of hot and cold drinks. Meals range from veggie breakfasts to soups, Mexican, lunch staples such as jacket potatoes and burgers.",
+  "priceRange": "Moderate",
+  "streetAddress": "10 Grand Arcade",
+  "postalCode": "LS1 6PG",
+  "phone": "tel:+44-0113-2428313",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.800280,-1.540440&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.800280,-1.540440&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

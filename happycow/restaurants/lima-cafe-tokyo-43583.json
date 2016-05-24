@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lima Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Macrobiotic, Take-out\n                                    ",
+  "description": "Small vegan macrobiotic cafe located inside Lima Health Shop. Crowded during lunch time.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Tokyo Shinjuku-ku, Yoyogi 2-23-1",
+  "postalCode": "151-0053",
+  "phone": "tel:03-6304-2005",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/limacafemacro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.686159,139.698334&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.686159,139.698334&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

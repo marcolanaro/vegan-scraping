@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Teva Castel - Arlozorov",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store offering many vegan products plus organic produce and legumes, vitamins and supplements, and more.",
+  "streetAddress": "64 Arlozorov St",
+  "phone": "tel:03-5223289",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-10:30pm, Fri 8:00am-3:00pm, Sun 8:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.086208,34.777949&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.086208,34.777949&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

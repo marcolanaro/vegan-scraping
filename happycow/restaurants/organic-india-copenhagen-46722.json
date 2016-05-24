@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Organic India",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves some vegan Indian dishes using plenty of veggies. Organic ingredients are used 90-100% of the time.",
+  "priceRange": "Expensive",
+  "streetAddress": "Vesterbrogade 169, Frederiksberg",
+  "postalCode": "1800",
+  "phone": "tel:88189000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 4:30pm-9:00pm, Sat-Sun 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Organic-India/497958600289438",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.670374,12.535812&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.670374,12.535812&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

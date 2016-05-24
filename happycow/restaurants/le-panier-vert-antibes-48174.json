@@ -1,0 +1,13 @@
+{
+  "title": "Le Panier Vert",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic health food and grocery store. Stocks fresh organic fruits and vegetables, nuts, grains, legumes, refrigerated food, supplements, herbal remedies, and cosmetics. Vegan products include tofu, seitan, faux meats, plant-based milk and yogurt, and vegan cheese.",
+  "streetAddress": "22 BD FOCH Antibes",
+  "postalCode": "06600",
+  "phone": "tel:+33-493344202",
+  "venueHours": "\n                                                                                                        Mon 9:00am-1:00pm, 3:00pm-7:30pm, Tue 9:00am-7:00pm, Wed-Thu 9:00am-1:00pm, 3:00pm-7:30pm, Fri 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.577905,7.121438&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.577905,7.121438&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

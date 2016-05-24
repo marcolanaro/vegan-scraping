@@ -1,0 +1,14 @@
+{
+  "title": "St George's Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Large indoor market with a food court featuring many vendors including ones selling vegetarian prepared foods. Hosts events.",
+  "streetAddress": "May St",
+  "phone": "tel:028-90320202",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Fri 6:00am-2:00pm, Sat 9:00am-3:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.596190,-5.924740&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.596190,-5.924740&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

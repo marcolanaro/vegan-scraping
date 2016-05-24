@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Live Life Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Asian, Filipino\n                                    ",
+  "description": "Vegetarian and vegan food. Reported located is difficult to find, so call ahead. Note: please send directions to happycow!",
+  "priceRange": "Moderate",
+  "streetAddress": "2240 Chino Roces Ave, Makati City",
+  "phone": "tel:63-24786310",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/livelifevegetarianfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.552515,121.013702&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.552515,121.013702&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

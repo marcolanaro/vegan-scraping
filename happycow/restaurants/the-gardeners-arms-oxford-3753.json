@@ -1,0 +1,15 @@
+{
+  "title": "The Gardener's Arms",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Beer/Wine, English\n                                    ",
+  "description": "A pub with kitchen serving vegetarian and vegan bar snacks and main meals.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "39 Plantation Road, Jericho",
+  "postalCode": "OX2 6JE",
+  "phone": "tel:01865-559814",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 5:00pm-9:00pm, Wed-Sat 12:00pm-2:30pm, Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.762610,-1.266560&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.762610,-1.266560&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

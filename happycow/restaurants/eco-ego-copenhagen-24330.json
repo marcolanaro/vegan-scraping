@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eco Ego",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "All vegetarian green lifestyle store near Norreport Station and Botanical Garden. Stocks ecological and ethical products: clothes, shoes, personal care products, bags, paper products and office supplies, kitchen articles, bed/bath, and more.",
+  "streetAddress": "Norre Farimagsgade 82",
+  "postalCode": "1364",
+  "phone": "tel:45-32120612",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-6:00pm, Fri 10:00am-7:00pm, Sat 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.685469,12.568989&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.685469,12.568989&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

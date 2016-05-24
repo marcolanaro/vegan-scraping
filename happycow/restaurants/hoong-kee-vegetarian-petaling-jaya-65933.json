@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hoong Kee Vegetarian at Taste Enclave",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "素食档在味聚园 veggie food.",
+  "priceRange": "Expensive",
+  "streetAddress": "Ground Floor, Pyramid Tower Hotel, Persiaran Lagoon, Bandar Sunway",
+  "postalCode": "46150",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-10:00pm, Fri-Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.072019,101.608980&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.072019,101.608980&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

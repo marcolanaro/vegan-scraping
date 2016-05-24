@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kanjira",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai\n                                    ",
+  "description": "Small veggie restaurant with 4 tables. Offers dishes with vegetables and faux meat. Use fake meat (soy bean or wheat flour for imitated meat). Located near the border of Laos, just North of Soi 8 on the 1020.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sai Klang street",
+  "postalCode": "57140",
+  "phone": "tel:0869109909",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.264216,100.406208&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.264216,100.406208&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

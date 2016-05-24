@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cuchina",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Organic, European, Austrian\n                                    ",
+  "description": "Organic grocery store with a vegetarian bistro that offers only 1 daily menu that's vegetarian, sometimes vegan or can be made vegan. Has breakfast food, soy milk and almond milk for coffee. Hosts cooking classes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lilienbrunngasse 3",
+  "postalCode": "1020",
+  "phone": "tel:066488594423",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cuchina.dieLebenskueche",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.213534,16.377519&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.213534,16.377519&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

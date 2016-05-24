@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ci Yan Vegetarian Health Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Juice bar, Take-out\n                                    ",
+  "description": "The menu comprise a brown rice set and around 5 other main dishes that change daily, usually Chinese or Western, plus a soup of the day. Call ahead if you'd to know what's offered.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8 Smith St",
+  "postalCode": "058971",
+  "phone": "tel:62259026",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.282133,103.844735&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.282133,103.844735&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

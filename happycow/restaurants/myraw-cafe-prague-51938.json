@@ -1,0 +1,16 @@
+{
+  "title": "MyRaw Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Western, Beer/Wine\n                                    ",
+  "description": "Vegan raw food cafe and candy store. Offers daily raw menu (soup and main dish), and breakfast (e.g. scramble made from avocado) and raw cakes. Serves coffee and wine. Interior is in Provence style.",
+  "priceRange": "Expensive",
+  "streetAddress": "Dlouha 39",
+  "postalCode": "11000",
+  "phone": "tel:+420-603415938",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-10:00pm, Sat 9:00am-11:00pm, Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/myrawcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.090799,14.426907&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.090799,14.426907&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

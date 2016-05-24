@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Greze Cafe - Healthy Food Thai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Thai, Western, Take-out\n                                    ",
+  "description": "Health food store and cafe. Also another outlet at Yanui, Rawai.",
+  "priceRange": "Moderate",
+  "streetAddress": "7/20, Ta-Ied Soi, Chalong",
+  "postalCode": "83130",
+  "phone": "tel:0897306671",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.864231,98.347764&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.864231,98.347764&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "About Animals",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Fast food, Beer/Wine, Taiwanese\n                                    ",
+  "description": "Chinese name 動物誌, address 台北市文山區景隆街1巷9號. Vegan restaurant and bar opened by animal rights activists in Oct 2013. Selections include veggie burgers and sandwiches as well as various fried snacks. There is beer on tap in addition to non-alcoholic drinks. The bar also serves as a platform for film/photography exhibits and other artistic/activist events. LGBT-friendly. Located near WanLong MRT, exit 2.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "9, Lane 1, Jinglong Street, Wenshan District",
+  "postalCode": "116",
+  "phone": "tel:+886-983683024",
+  "venueHours": "\n                                                                                                        Mon-Thu 2:00pm-10:30pm, Fri-Sun 11:00am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/aboutanimalszr",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.000977,121.540045&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.000977,121.540045&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "La Riera",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fusion, Spanish\n                                    ",
+  "description": "Barcelona veggie restaurant operating since 1988. It's next to football club Barcelona. Large groups ok. Offers a 4-course daily menu. Food such as paella, curry, seitan steak, and different fruit-based desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "Regente Mendieta 15",
+  "postalCode": "08028",
+  "phone": "tel:+34-650429440",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 1:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.377076,2.122717&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.377076,2.122717&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

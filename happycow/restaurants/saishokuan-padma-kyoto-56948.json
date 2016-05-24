@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Padma",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Organic, Beer/Wine\n                                    ",
+  "description": "Kyoto-style Japanese organic restaurant, at 京都府京都市左京区吉田牛ノ宮町25-12, which is north of Higashi Ichijo St, 2 blocks west of Yoshida Shrine, east of Maruta. Serves vegan meals plus sake and herbal refreshments. Hosts music and events.",
+  "priceRange": "Moderate",
+  "streetAddress": "Marikooji St",
+  "phone": "tel:075-7087707",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:30am-2:30pm, Wed 6:00pm-9:30pm, Fri-Sat 6:00pm-9:30pm, Fri-Sun 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.025915,135.776628&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.025915,135.776628&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

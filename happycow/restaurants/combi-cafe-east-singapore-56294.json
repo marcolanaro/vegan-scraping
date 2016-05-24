@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "ComBi Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, International, Western, Take-out\n                                    ",
+  "description": "Opened in January 2015, this vegetarian cafe serves a wide variety of Chinese and western meals. On the menu are dishes like vege chicken drumstick rice, oatmeal codfish rice, fish chop, as well waffles and fries. No onion, garlic, leek or shallot used. Aside from waffles, all other food is egg-less. Relaxed setting, seats up to 100.",
+  "priceRange": "Moderate",
+  "streetAddress": "865 Mountbatten Rd,  Unit 01-41/42/43, Katong Shopping Centre",
+  "postalCode": "437844",
+  "phone": "tel:63489559",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/combicafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.304144,103.901820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.304144,103.901820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

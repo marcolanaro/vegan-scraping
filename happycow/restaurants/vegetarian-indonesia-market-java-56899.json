@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Indonesia Market",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Shop selling vegetarian food stuff including chilled and frozen.",
+  "streetAddress": "Jl Wisata Bukit Mas C1/22, Surabaya",
+  "postalCode": "60213",
+  "phone": "tel:+62-82257672819",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-7.312401,112.665600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-7.312401,112.665600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

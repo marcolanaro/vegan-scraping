@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Happy Family and Ice Refreshment House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Malaysian\n                                    ",
+  "description": "Open air veggie restaurant, serving Chinese and Malaysian dishes, dim sum, and iced desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "4H, Jalan Hua Kiew ",
+  "phone": "tel:60-84319159",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.292927,111.830160&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.292927,111.830160&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,20 @@
+{
+  "title": "Hotel Restaurant Meierhof",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a daily vegetarian menu\r\nand 2 vegetarian courses. Has vegan options. Reservations required.",
+  "priceRange": "Moderate",
+  "streetAddress": "Meierhofstrasse 15",
+  "postalCode": "9495",
+  "phone": "tel:+4233990011",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-9:30pm, Sun 11:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.122409,9.528882&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.122409,9.528882&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

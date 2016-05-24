@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nocturno",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Israeli, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Pescatarian restaurant and coffee house at Designers in the City Complex, a cooperative art studio space. This serving dishes are hand-made by ceramists at the compound.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Betsal'el St 7, Designers in the City Compound",
+  "phone": "tel:077-7008510",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-1:30am, Fri 7:00am-5:00pm, Sat 8:00pm-1:30am, Sun 7:00am-1:30am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.780726,35.213572&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.780726,35.213572&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

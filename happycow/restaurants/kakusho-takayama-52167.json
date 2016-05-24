@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kakusho",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers vegetable kaiseki (traditional Japanese, multi-course dish, vegan / Shojin).",
+  "priceRange": "Expensive",
+  "streetAddress": "2-98 Baba-Cho, Takayama City Gifu",
+  "phone": "tel:0577-32-0174",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.142363,137.262689&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.142363,137.262689&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

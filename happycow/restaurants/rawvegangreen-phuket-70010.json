@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "RawVeganGreen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Raw, Western, Juice bar, Take-out\n                                    ",
+  "description": "Coffee shop offering vegan, raw, vegetarian food for breakfast and lunch. Makes cereal bread without yeast. Open kitchen. Note: Please send correct / exact map coordinates to happycow!",
+  "priceRange": "Moderate",
+  "streetAddress": "Bangtao, Boat Ave,Cherngtalay District",
+  "phone": "tel:+66955252189",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.984291,98.286106&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.984291,98.286106&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

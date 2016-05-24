@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Iceberg - Ibn Gabirol",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Ice cream parlor. Has ice cream made with soy milk and coconut milk, and unusual sorbet flavors like blackberry-tarragon and chocolate-hazelnut. Cones are vegan.",
+  "streetAddress": "24 Ibn Gabirol Street",
+  "phone": "tel:03-6092735",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-12:00am, Fri 11:00am-11:30pm, Sat-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/profile.php?id=100004996271043",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.074158,34.781859&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.074158,34.781859&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ta-im",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Take-out, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegans could get falafel, hummus, and salads. Casual atmosphere. English, Hebrew, and Japanese spoken.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-19-16 Ebisu, Shibuya-ku",
+  "phone": "tel:03-54242990",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-3:30pm, 5:30pm-11:00pm, Thu-Sun 11:00am-3:30pm, 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.647219,139.716389&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.647219,139.716389&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

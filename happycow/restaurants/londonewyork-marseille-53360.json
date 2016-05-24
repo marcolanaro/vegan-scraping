@@ -1,0 +1,15 @@
+{
+  "title": "Londonewyork",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Catering, French\n                                    ",
+  "description": "Cozy vegan restaurant offering meals prepared with seasonal and organic produce.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "77 rue de Lodi",
+  "postalCode": "13006",
+  "phone": "tel:0620544592",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-4:00pm, Tue 12:00pm-6:00pm, Wed-Fri 12:00pm-4:00pm, Sat 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.289462,5.387347&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.289462,5.387347&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

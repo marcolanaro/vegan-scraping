@@ -1,0 +1,16 @@
+{
+  "title": "Pizzeria Prego",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria where you could get vegan cheese on your pizza.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Moltkestrasse 1",
+  "postalCode": "45128",
+  "phone": "tel:0201233030",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-2:00pm, Mon-Sat 5:00pm-10:00pm, Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/lieferheld",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.442638,7.017898&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.442638,7.017898&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

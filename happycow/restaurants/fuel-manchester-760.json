@@ -1,0 +1,14 @@
+{
+  "title": "Fuel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, English\n                                    ",
+  "description": "A little vegetarian food cafe. Menu indicates which items are vegan possible. Has vegan cakes sometimes, and soya milk is available for drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "448 Wilmslow Road, Withington",
+  "phone": "tel:0161-448-9702",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-12:30am, Sat 10:00am-12:30am, Sun 10:00am-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.434490,-2.227930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.434490,-2.227930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

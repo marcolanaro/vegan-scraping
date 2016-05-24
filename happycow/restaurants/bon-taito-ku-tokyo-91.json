@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bon - Taito-ku",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Buddhist\n                                    ",
+  "description": "Multi-course meals and lunch bento box.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ryusenji 1-2-11, Irya",
+  "phone": "tel:38720234",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-3:00pm, 5:00pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.722900,139.790480&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.722900,139.790480&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

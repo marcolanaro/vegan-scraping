@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nan Pu Tuo",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "南普陀 serves rice and noodle dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "RS 26 Jalan Bakri, Batu 1",
+  "postalCode": "84000",
+  "phone": "tel:012-6110540",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.048338,102.578904&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.048338,102.578904&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

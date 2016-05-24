@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thai Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Buffet, Fast food\n                                    ",
+  "description": "Vegetarian Thai food displayed in a steamtable. Choose what you'd like. Previously at 65 Intha Warorot Rd.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bumrungburi soi 1",
+  "phone": "tel:081-2893163",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.782103,98.982964&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.782103,98.982964&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

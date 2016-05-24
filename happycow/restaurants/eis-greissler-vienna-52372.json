@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eis Greissler",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "An ice cream shop with half the menu being vegan. Uses local (Austrian) products.",
+  "streetAddress": "Mariahilferstrasse 33",
+  "phone": "tel:0664-1051146",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/EisGreissler",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.200324,16.356634&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.200324,16.356634&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

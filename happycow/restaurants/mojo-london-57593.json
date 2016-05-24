@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mojo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Juice and snack bar in Soho since summer 2014. Offers smoothies and juices, soups, salads, and cakes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8 D'Arblay St",
+  "postalCode": "W1F 8DP",
+  "phone": "tel:0208-0016520",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/findmemymojo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.514414,-0.136674&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.514414,-0.136674&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

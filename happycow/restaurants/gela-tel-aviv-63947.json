@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gela",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Kosher vegan ice cream parlor. Offers many flavors plus frozen treats, waffles, and toppings.",
+  "streetAddress": "47 Levinsky St",
+  "phone": "tel:054-2020866",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-11:00pm, Fri 9:00am-4:00pm, Sat 8:00pm-11:00pm, Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.059704,34.772361&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.059704,34.772361&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

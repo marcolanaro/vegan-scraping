@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pandan Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Buffet, Take-out, Indonesian\n                                    ",
+  "description": "Serves local cuisine, Chinese food, Indonesian food, fresh juices, and soup by request. Previously located at Jl. Thamrin 170, Aug 2014. Marker on map may be incorrect, please let HappyCow know.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl. Sutrisno / Antara, Medan",
+  "phone": "tel:6281361537249",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-3:00pm, 4:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.581009,98.693310&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.581009,98.693310&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

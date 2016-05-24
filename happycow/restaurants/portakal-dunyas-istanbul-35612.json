@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Portakal Dunyas",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Vegan juice bar on the Asian side of Istanbul, right across the Karakoy-Kabatass-Eminonu ferry station, on the other side of the street, 150 meters to the left from the traffic lights. Offers many choices. All vegan except for honey and milk.",
+  "streetAddress": "Rihtim Cad. Resit Efendi Sok. No:2 D:1",
+  "phone": "tel:02163377379",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.992732,29.025388&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.992732,29.025388&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

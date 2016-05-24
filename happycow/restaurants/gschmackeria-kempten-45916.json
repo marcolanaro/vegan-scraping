@@ -1,0 +1,17 @@
+{
+  "title": "Gschmackeria",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Take-out, European, German\n                                    ",
+  "description": "Small vegetarian cafe between the theatre and the town hall of Kempten. Menu offers soups, hot dishes, muesli, baked potatoes, various breakfast foods, coffee, tea, lemonade. Vegan food is labelled.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Heinrichgasse 4",
+  "postalCode": "87435",
+  "phone": "tel:+49-8315409055",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.726819,10.318092&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.726819,10.318092&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

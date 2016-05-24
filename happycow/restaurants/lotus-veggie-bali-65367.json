@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lotus Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Buffet, Indonesian\n                                    ",
+  "description": "Balinese buffet (nasi campur) restaurant (warung) opened Nov 2015 in Kuta. Help yourself to the dishes to eat with plain steamed rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl. Kendedes, Kuta",
+  "postalCode": "80361",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.730986,115.178167&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.730986,115.178167&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

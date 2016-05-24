@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lai‘s Brother Cafe Vegetarian Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Fast food, Malaysian\n                                    ",
+  "description": "素食档在赖氏兄弟茶室 veggie food stall inside Lai Brother's Cafe (non-veg). Note that the entrance is not on Jalan Lanang - follow the small street that starts at Jalan Lanang footbridge and you'll see Lai‘s Brother Cafe on the left, at the next corner. Serves Chinese and local noodles, with a few dim sum items. Vegans need to specify no egg.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6A Jalan Lanang",
+  "postalCode": "96000",
+  "phone": "tel:016-8916170/,%20016-8976648",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Lais-Brother-Cafe-%E8%B5%96%E6%B0%8F%E5%85%84%E5%BC%9F%E8%8C%B6%E5%AE%A4/705187162857725",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.285879,111.831813&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.285879,111.831813&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

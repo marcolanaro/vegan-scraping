@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Morpho Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Raw, Western\n                                    ",
+  "description": "Vegan restaurant on Horikawa-dori at the corner of Kamichojyamachi and on the west side of the Horikawa river canal. Offers a large selection of mains, as well as some cakes and desserts, drinks, and set meals. Closes 2nd and 4th Wednesday of month.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "309 Saikachicho",
+  "phone": "tel:075-4325017",
+  "venueHours": "\n                                                                                                        Mon 11:30am-3:00pm, 5:00pm-9:00pm, Wed-Fri 11:30am-3:00pm, 5:00pm-9:00pm, Sat-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.023596,135.751566&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.023596,135.751566&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

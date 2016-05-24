@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mermaid and Monster Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Take-out, Fusion\n                                    ",
+  "description": "Opened Dec 2015 a mermaid themed restaurant. On the menu are spaghetti and udon, sushi and rice dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "29 Jalan Masai Jaya 1, Plentong",
+  "postalCode": "81750",
+  "phone": "tel:012-7727407",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/MermaidMonster-Cafe-440338189491379",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.522308,103.813439&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.522308,103.813439&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

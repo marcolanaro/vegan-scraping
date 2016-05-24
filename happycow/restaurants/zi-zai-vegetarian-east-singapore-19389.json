@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zi Zai Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Indian, Buffet, Take-out\n                                    ",
+  "description": "Spacious restaurant serving inexpensive vegetarian food. Try the roti prata.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 801, Tampines Ave 4, #01-281",
+  "phone": "tel:67811820",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.347126,103.938050&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.347126,103.938050&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

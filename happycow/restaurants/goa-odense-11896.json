@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Goa",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Although predominately non-veg, this Indian restaurant has around a dozen dishes that are lacto-vegetarian. Small space, dim lights. From train station exit facing the main street, go right and left on Ostre Stationsvej. Staff will make lacto-vegetarian dish vegan on request.\r\n ",
+  "priceRange": "Moderate",
+  "streetAddress": "41-42 Ostre Stationsvej",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.301180,10.466500&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.301180,10.466500&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

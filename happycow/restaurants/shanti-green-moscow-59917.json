@@ -1,0 +1,17 @@
+{
+  "title": "Shanti Green",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "Opened 2015, this restaurant offers a large selection of vegetarian and vegan food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bolshoy Kozlovskiy Pereulok 2/1",
+  "phone": "tel:+74957836868",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.767780,37.646778&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.767780,37.646778&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

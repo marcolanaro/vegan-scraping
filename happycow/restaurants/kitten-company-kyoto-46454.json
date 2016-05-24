@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kitten Company",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese\n                                    ",
+  "description": "Tea house also offering vegan cake and light food. No coffee or smoking. Sells hand-made art.",
+  "priceRange": "Moderate",
+  "streetAddress": "Karasuma St, Gojostreet 294-1",
+  "postalCode": "600-8170",
+  "phone": "tel:753441591",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.995980,135.758936&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.995980,135.758936&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

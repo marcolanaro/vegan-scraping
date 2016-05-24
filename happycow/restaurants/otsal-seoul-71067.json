@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Otsal",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurant with a separate vegetarian menu where most dishes can be veganized. Has vegan samosa. Walk up 150m from Exit 3 of Seoul National University station, at  관악구 관악로 164 대우디오슈 봉천동 856-5.",
+  "priceRange": "Moderate",
+  "streetAddress": "by Seoul National University station",
+  "phone": "tel:02-8826527",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/otsal.otsal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.479565,126.952890&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.479565,126.952890&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

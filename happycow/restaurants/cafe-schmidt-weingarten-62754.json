@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Schmidt",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Bakery, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A bakery with an added cafe/restaurant that offers a vegan breakfast and vegan sandwiches. Outside seating in the summer. Located at city center in the marketplace. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lowenplatz 8",
+  "postalCode": "88250",
+  "phone": "tel:+49-751560720",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-6:00pm, Sat 6:00am-5:00pm, Sun 7:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/cafeschmidt.net/timeline?ref=page_internal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.806450,9.639799&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.806450,9.639799&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

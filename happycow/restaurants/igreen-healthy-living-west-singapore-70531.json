@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "iGreen Healthy Living",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out\n                                    ",
+  "description": "爱绿 is a vegetarian stall in Fu Chan Coffeeshop since Mar 2016. On the menu are curry rice, dumpling soup, mushroom noodle, fried rice, and fruits rojak (salad). The dumpling, curry and tom yum paste are made in-house.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 491 Jurong W St Ave 1 #01-173",
+  "postalCode": "640491",
+  "phone": "tel:83599883",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-8:30pm, Sun 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/IGREENhealthyliving",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.349656,103.726699&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.349656,103.726699&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

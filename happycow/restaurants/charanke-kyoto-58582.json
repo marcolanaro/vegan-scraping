@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Charanke",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Western, Beer/Wine, Take-out, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Natural food cafe & bar in central Kyoto, close to Nijo-jo Castle, at 京都市中京区矢幡町313. Serve organic coffee, green tea, amazake, hemp milk, smoothies and shakes, alcohol, and light meals.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "313 Yawata-chou, Nakagyou-ku",
+  "phone": "tel:0752235463",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/charanke.kyoto",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.013678,135.753249&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.013678,135.753249&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

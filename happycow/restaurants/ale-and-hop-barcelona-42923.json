@@ -1,0 +1,18 @@
+{
+  "title": "Ale and Hop",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Beer/Wine, Spanish\n                                    ",
+  "description": "Bar offering beers on tap and a large bottle selection. Serves vegetarian tapas. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Basses de Sant Pere, 10b",
+  "postalCode": "08003",
+  "phone": "tel:931269094",
+  "venueHours": "\n                                                                                                        Mon-Wed 6:00pm-2:30am, Thu 12:00pm-2:30am, Fri 12:00pm-3:00am, Sat 11:00am-3:00am, Sun 11:00am-2:30am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/aleandhop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.388742,2.180083&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.388742,2.180083&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

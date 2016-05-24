@@ -1,0 +1,17 @@
+{
+  "title": "Velvet Leaf",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Juice bar, Asian, Vietnamese\n                                    ",
+  "description": "Veggie Vietnamese and Asian food cafe est. 2015. Food is all vegan, though drinks are not.",
+  "priceRange": "Moderate",
+  "streetAddress": "Damaschkestrasse 12-14, Berlin-Charlottenburg",
+  "phone": "tel:03060943452",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-10:00pm, Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.500330,13.300980&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.500330,13.300980&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

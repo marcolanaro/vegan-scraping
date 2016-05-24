@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nevatim",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Vegan food delivery, catering, and personal chef service. All vegan menu. Minimum order of 70$ is required, plus shipping fee, delivers to the surrounding Krayot area and to Haifa.",
+  "streetAddress": "Hatel 5",
+  "phone": "tel:04-8754731/,%20050-2508386",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/nevatimm",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.849419,35.095149&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.849419,35.095149&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

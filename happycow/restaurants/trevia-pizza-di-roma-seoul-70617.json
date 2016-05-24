@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Trevia - Pizza di Roma",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Handmade pizza and flatbread. Vegan pizza choice is the  'no cheese mushroom.' Last order 10pm dine-in 10:30pm to-go. Nearest bus stop is 03-152 it’s just by the restaurant. By subway head to Noksapyeong station (line 6) and come out exit 2. Walk down the road till you get to the underpass and cross the road. Take the right hand exit and walk straight ahead. \r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "557 Itaewon-Dong, Noksapyeongdae-ro 222",
+  "phone": "tel:02-7946003",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Trevia2.kr",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.537321,126.987056&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.537321,126.987056&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

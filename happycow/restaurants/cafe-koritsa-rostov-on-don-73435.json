@@ -1,0 +1,16 @@
+{
+  "title": "Cafe Koritsa",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Buffet, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has plenty of vegetarian dishes, of which some are vegan or could possibly be made vegan; please inquire.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Pushkinskaja Street, 121",
+  "phone": "tel:88632101600",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.225848,39.716676&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.225848,39.716676&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

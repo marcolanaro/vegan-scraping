@@ -1,0 +1,15 @@
+{
+  "title": "Chai Paani",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, International, Take-out\n                                    ",
+  "description": "Vegetarian Indian restaurant serving Indian, Indo-Chinese, Mexican, and Italian cuisine, with egg-free waffles and crepes (not vegan). ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "87A Belgrave Rd",
+  "postalCode": "LE4 6AS",
+  "phone": "tel:01162663004",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.649776,-1.122130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.649776,-1.122130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

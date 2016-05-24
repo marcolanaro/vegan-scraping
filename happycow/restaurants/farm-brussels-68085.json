@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Farm - Auderghem",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "One of FARM co-operative organic health food market.",
+  "streetAddress": "Chaussée de Wavre, 1080, Auderghem",
+  "phone": "tel:+3223185853",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/farmstore.be",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.823509,4.401618&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.823509,4.401618&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

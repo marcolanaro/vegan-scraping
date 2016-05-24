@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BioWerkstatt",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Juice bar, Take-out\n                                    ",
+  "description": "Health food shop with a daily vegan lunch menu consisting of a main dish and a soup. Also has non-vegan veggie quiche, organic cake, different salads on offer. Small sitting area in the shop. Organic juices and mineral water for only approx. 0,50€ including as many refills as wanted. The shop features a wide range of fresh fruit and vegetables and other organic products. Non smoking. Previously named Bioladen Gruner Baum.",
+  "priceRange": "Moderate",
+  "streetAddress": "Biberstrasse 22",
+  "postalCode": "1010",
+  "phone": "tel:43-01-5126695",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.210366,16.381478&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.210366,16.381478&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

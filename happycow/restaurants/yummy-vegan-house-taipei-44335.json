@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yummy Vegan House",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Fusion, Taiwanese\n                                    ",
+  "description": "Little cafe offering a variety of vegan meals plus drinks, and snacks - from Taiwanese rice and noodle dishes to spaghetti and sandwiches. Address 台北市北投區中央南路一段218號.",
+  "priceRange": "Moderate",
+  "streetAddress": "218, Sec. 1, Zhongyang South Road, Beitou District",
+  "phone": "tel:02-28947570",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:30am-3:30pm, 5:00pm-8:00pm, Fri-Sun 11:30am-3:30pm, 5:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/芽米屋美味蔬食館/200040540063635",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.128097,121.500969&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.128097,121.500969&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

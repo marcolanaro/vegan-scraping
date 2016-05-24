@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pure Vegi Cosmetics",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Vegan cosmetic store.",
+  "streetAddress": "Burggasse 128",
+  "postalCode": "1070",
+  "phone": "tel:069918038700",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Fri 12:00pm-6:00pm, Sat 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.204403,16.339519&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.204403,16.339519&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

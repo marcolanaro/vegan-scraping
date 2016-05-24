@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yabuhan",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Can prepare vegan dishes if reserved in advance. Kitchen rests 4-4:30pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shizuya St, 2-19-14 Inaho, Otaru City",
+  "postalCode": "047-0032",
+  "phone": "tel:134331212",
+  "venueHours": "\n                                                                                                        Mon 11:00am-8:30pm, Wed-Sat 11:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.190717,140.994662&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.190717,140.994662&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

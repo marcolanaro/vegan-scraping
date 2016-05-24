@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dosa Express",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. South Indian food menu with 20+ main entrees and numerous vegetarian dosas. Saturday and Sunday features breakfast thali buffet and unlimited dosas.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "19 Copson Street, Withington",
+  "postalCode": "M20 3HE",
+  "phone": "tel:01614344494",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Dosaxpress/205786489554136",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.433794,-2.229693&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.433794,-2.229693&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

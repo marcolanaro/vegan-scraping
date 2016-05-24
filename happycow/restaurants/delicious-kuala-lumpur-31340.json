@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Delicious",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarian menu items are labelled with a V, some of which are vegan, including sandwiches, burgers, pasta and more. Located in Bangsar Village II.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Jalan Telawi, Bangsar Baru",
+  "postalCode": "59100",
+  "phone": "tel:603-2287-1554",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.132859,101.670516&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.132859,101.670516&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

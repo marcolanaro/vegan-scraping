@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hummel in der Au",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Organic, Beer/Wine, Take-out, European, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant with an easy-going atmosphere, hosted by a cook who is willing to make vegan dishes with advance notice. Offers seasonal menus. It's the campsite restaurant of Campingplatz Pyhrn-Priel and is located in a picturesque landscape. Pets  welcome.",
+  "priceRange": "Moderate",
+  "streetAddress": "Gleinkerau 34",
+  "postalCode": "4582",
+  "phone": "tel:07562%207066",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 5:00pm-12:00am, Fri-Sun 11:30am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gasthaus.hummel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.690949,14.326166&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.690949,14.326166&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

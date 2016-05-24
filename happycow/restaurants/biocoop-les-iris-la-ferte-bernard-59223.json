@@ -1,0 +1,13 @@
+{
+  "title": "Biocoop Les Iris",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "4 rue Denfert-Rochereau",
+  "postalCode": "72400",
+  "phone": "tel:0243601316",
+  "venueHours": "\n                                                                                                        Mon 9:00am-1:00pm, 3:00pm-7:00pm, Tue-Thu 9:30am-1:00pm, Wed-Thu 3:00pm-7:00pm, Fri 9:30am-7:00pm, Sat 9:30am-1:00pm, 2:00pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.186896,0.651292&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.186896,0.651292&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Honest To Goodness",
+  "tags": [
+    "Health Food Store",
+    "Vegan"
+  ],
+  "description": "100% Vegan grocery store featuring over 800 products. All stock is ethically sourced. Food, bodycare, household products, vitamins, supplements. New location since Nov 2010 as reported to HappyCow.",
+  "streetAddress": "10 Market Street, Hoylake",
+  "postalCode": "CH47 2BG",
+  "phone": "tel:0151-6326516",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-6:00pm, Sun 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.393156,-3.176472&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.393156,-3.176472&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

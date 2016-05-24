@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bamboo Bee Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Western\n                                    ",
+  "description": "A very small and busy restaurant catering to locals and tourists. Large menu. Holds cooking classes.",
+  "priceRange": "Moderate",
+  "streetAddress": "177 Ratchaphakhinai Rd",
+  "phone": "tel:0904636583",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/BambooBeeCM",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.794890,98.989930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.794890,98.989930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

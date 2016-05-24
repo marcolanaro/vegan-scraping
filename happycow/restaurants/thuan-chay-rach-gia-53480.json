@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thuan Chay",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Take-out, Vietnamese\n                                    ",
+  "description": "Vegan food restaurant. Staff speak Vietnamese only.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "37 Dong Da Ave",
+  "postalCode": "n/a",
+  "phone": "tel:01274338997",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.958519,105.133571&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.958519,105.133571&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

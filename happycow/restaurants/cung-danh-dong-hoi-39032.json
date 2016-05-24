@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cung Danh",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An open-air cafe with a spacious plant-filled terrace, which itself sits one meter above the moat that surrounded the ancient walled fortress. Most customers come here for drinks. Offers 2 extensive, separate menus: one vegetarian (no mock meats) and the other conventional (with meat). Food is cooked to order. No English spoken. An English-language menu is sometimes available but is often misplaced. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "40 Tran Hung Dao",
+  "phone": "tel:0523714777",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.470583,106.620794&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.470583,106.620794&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

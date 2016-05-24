@@ -1,0 +1,14 @@
+{
+  "title": "Biomonde",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "10 rue de Quatrefages",
+  "postalCode": "17000",
+  "phone": "tel:0546567226",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/biomonde.larochelle",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.162691,-1.181917&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.162691,-1.181917&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

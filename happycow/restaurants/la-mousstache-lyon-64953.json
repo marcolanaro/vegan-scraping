@@ -1,0 +1,19 @@
+{
+  "title": "La Mouss'tache",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Beer and burger restaurant. Has a vegan burger with a rosti, plus ratatouille, fries, and salad. ",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Rue Saint-Georges",
+  "postalCode": "69005",
+  "phone": "tel:+334-72828553",
+  "venueHours": "\n                                                                                                        Mon 11:00am-11:00pm, Tue-Sat 10:00am-12:00am, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/lamousstache",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.759277,4.825455&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.759277,4.825455&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

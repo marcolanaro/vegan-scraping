@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Millies Fresh and Organic",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Independent local and organic produce store with therapy rooms. Fresh produce, vitamins, health foods, amd deli products. Not all veg.",
+  "streetAddress": "109 Vicar Lane",
+  "postalCode": "LS1 6PJ",
+  "phone": "tel:0113-2429%20217",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.799570,-1.539640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.799570,-1.539640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

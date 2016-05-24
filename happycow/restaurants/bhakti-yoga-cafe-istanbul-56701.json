@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bhakti Yoga Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Organic, Take-out\n                                    ",
+  "description": "Ground floor vegetarian cafe, opened early-2015 downstairs from a yoga centre (upstairs). Serving yogic sattvic cuisine without onion, garlic, mushroom. Fixed menu of Indian food, smoothies and lassi, almond and soya milk made onsite. Has seitan, vegetable curry spaghetti, samosa, and thali. Sells a few organic items from yoga farm like herbal and medicinal tea and vegetables.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bostancibasi sokak, Cihannuma Mah. 20 Besiktas",
+  "phone": "tel:+90-5534934357",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/cafebhakti",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.044378,29.008005&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.044378,29.008005&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

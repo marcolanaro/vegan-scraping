@@ -1,0 +1,18 @@
+{
+  "title": "Pique-Prune",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Organic, Buffet, Salad bar, Beer/Wine, Take-out, French\n                                    ",
+  "description": "Restaurant and store. Provides vegetarian, organic, and healthy food in a pleasant atmosphere. Daily changing menu. Cooking classes available.",
+  "priceRange": "Moderate",
+  "streetAddress": "132, Rue Eugène Pottier",
+  "postalCode": "35000",
+  "phone": "tel:0299304089",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.111760,-1.680260&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.111760,-1.680260&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Be Lohas",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Malaysian\n                                    ",
+  "description": "BMS/Be Lohas is a chain restaurant & health store. Serves organic vegetarian food. This one is inside the IOI Mall Putrajaya.",
+  "priceRange": "Moderate",
+  "streetAddress": "LG-42, Lower Ground Floor, IOI City Mall, IOI Resort",
+  "postalCode": "62502 Putrajaya",
+  "phone": "tel:3-83280722",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Be-Lohas-IOI-City-Mall/685012908276781",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.969734,101.713375&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.969734,101.713375&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

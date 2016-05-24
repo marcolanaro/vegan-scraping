@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Le Pain Quotidien -  Galerie de la Reine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Situated within the famous \"Galeries Royales Saint-Hubert\", 5 minutes walk from Brussels Central station. International restaurant chain featuring organic artisan bakery and communal table. Menu includes several ovo-lacto vegetarian dishes and a few vegan ones plus a vegan muffin. Many locations in Belgium.",
+  "priceRange": "Moderate",
+  "streetAddress": "Galerie de la Reine 1",
+  "postalCode": "1000",
+  "phone": "tel:+32-25020220",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-7:00pm, Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.847208,4.354609&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.847208,4.354609&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

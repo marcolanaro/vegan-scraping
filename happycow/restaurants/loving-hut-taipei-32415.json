@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Zhuangjing",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Taiwanese\n                                    ",
+  "description": "Name in Chinese 愛家國際連鎖餐飲. Part of international chain of vegan restaurants inspired by Supreme Master Ching Hai, an advocate for veg living. Each location is individual family owned and operated. Serves all vegan food, non-alcoholic beverages, and vegan desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "440, ZhuangJing Road, Xinyi District",
+  "phone": "tel:02-27586266",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:00pm, 5:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.026898,121.567017&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.026898,121.567017&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

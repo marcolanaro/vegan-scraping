@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Riverside Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Thai, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Guesthouse with restaurant located in the main town right on the river. Menu has separate vegetarian pages which are actually all vegan. It states that most dishes can be made vegetarian.",
+  "priceRange": "Moderate",
+  "streetAddress": "328 Tipchang Rd, Amphur Muang Lampang",
+  "phone": "tel:054221861",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/The-Riverside-Guest-House/267146499989866",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.290241,99.494040&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.290241,99.494040&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

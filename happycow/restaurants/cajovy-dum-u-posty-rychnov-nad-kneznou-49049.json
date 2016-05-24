@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cajovy dum u Posty",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A health food shop with many vegan items such as yogurts and pates, and also organic and cruelty-free toiletries. There is a small seating area where tea, coffee and cakes can be purchased and consumed.  English speaking staff.",
+  "streetAddress": "Bezrucova",
+  "postalCode": "51601",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-5:30pm, Sat 8:30am-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.164669,16.277368&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.164669,16.277368&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

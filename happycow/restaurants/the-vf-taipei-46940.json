@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The V:F - Daan Park",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Western, Bakery, Taiwanese\n                                    ",
+  "description": "One of a few locations in Taipei, this one is right by the Da-an Park at 信義路三段7號2F. Offers slightly fancy vegetarian food cafe in a modern, nice atmosphere. Menu features a mix of Italian, Indian, French, and Taiwanese.",
+  "priceRange": "Moderate",
+  "streetAddress": "7, 2F, Sec. 3, Xinyi Rd, Daan District",
+  "phone": "tel:02-27067755",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TheVFFVThe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.033854,121.533493&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.033854,121.533493&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

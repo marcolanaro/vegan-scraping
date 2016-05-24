@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fandanko",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian deli with some veg dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Gammel Gugvej 19",
+  "postalCode": "9000",
+  "phone": "tel:0045-98162211",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-8:00pm, Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Fandanko",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.030627,9.928466&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.030627,9.928466&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

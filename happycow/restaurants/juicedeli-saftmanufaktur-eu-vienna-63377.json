@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Juicedeli Saftmanufaktur e.U.",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "Offers organic cold-pressed juices plus smoothies, detox water, salads, raw soup and chia pudding.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mariahilfer Strasse 45/20",
+  "postalCode": "1060",
+  "phone": "tel:06649251282",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:30am-7:00pm, Sat 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/juicedeliviena",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.199918,16.355228&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.199918,16.355228&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,19 @@
+{
+  "title": "Hotel Alemagna",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hotel restaurant serving vegan dishes upon reservation.",
+  "priceRange": "Moderate",
+  "streetAddress": "Viale Michelangelo, 17, Bibione",
+  "postalCode": "30020",
+  "phone": "tel:+39043143502",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:30pm-1:30pm, 7:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.634365,13.027688&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.634365,13.027688&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

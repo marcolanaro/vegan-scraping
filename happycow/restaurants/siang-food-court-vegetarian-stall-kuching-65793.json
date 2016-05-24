@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Siang Food Court Vegetarian Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "素食档在香咖啡 offers vegetarian food and coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ground Floor, Lot 7577, Jalan Kwong Lee Bank",
+  "postalCode": "93450",
+  "phone": "tel:010-7906722",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.550678,110.380577&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.550678,110.380577&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

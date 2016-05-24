@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "India House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian\n                                    ",
+  "description": "Vegetarian India restaurant. Serves South Indian light fare including thali, marsala dosa, rava marsala, idli, uttaphan, and more. Try the chicory flavored coffee.",
+  "priceRange": "Moderate",
+  "streetAddress": "8 & 9 Al Hisn Street, Bur Dubai, U.A.E.",
+  "phone": "tel:+9714-3526006",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.261022,55.295180&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.261022,55.295180&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

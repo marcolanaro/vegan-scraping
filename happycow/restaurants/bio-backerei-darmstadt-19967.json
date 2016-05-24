@@ -1,0 +1,13 @@
+{
+  "title": "Bio Backerei",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "An organic bakery with some vegan products, every ingredient is declared.",
+  "streetAddress": "Elisabethenstraße 12A",
+  "postalCode": "64283",
+  "phone": "tel:+49-0-61519928866",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.872425,8.650857&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.872425,8.650857&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

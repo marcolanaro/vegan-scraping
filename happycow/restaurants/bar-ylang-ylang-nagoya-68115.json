@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bar Ylang Ylang",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Japanese, Western, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Simple place on the 2nd floor, with view of Hori kawa (river), located a 5-minute walk from Fushimi station or 15-minute walk from Nagoya station. Owner's sister is vegan so he understands what vegan means and can speak some English. Could order tomato pasta and specify no cheese or order the sides that are vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Naka Ward, Nishiki, 1 Chome-14-23",
+  "postalCode": "460-0003",
+  "phone": "tel:052-2233125",
+  "venueHours": "\n                                                                                                        Mon-Sun 5:00pm-3:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BAR-YLANG-YLANG-152754464752096",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.169775,136.892536&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.169775,136.892536&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

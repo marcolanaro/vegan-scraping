@@ -1,0 +1,18 @@
+{
+  "title": "Hank Vegan Burger",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Western, Fast food, Take-out\n                                    ",
+  "description": "Open since January 2014, this is an organic burger restaurant where the burgers are all vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "55, rue des Archives",
+  "postalCode": "75003",
+  "phone": "tel:0972440399",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/hankrestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.861445,2.358393&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.861445,2.358393&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

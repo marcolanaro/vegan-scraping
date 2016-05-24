@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "King Falafel",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Mediterranean, Fast food, Middle Eastern, Take-out only\n                                    ",
+  "description": "Vegan and kosher take away counter (no seating). Point card available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-7-31-1F Minami-Azabu, Minato-ku",
+  "postalCode": "106-0047",
+  "phone": "tel:03-54414770",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.648210,139.736976&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.648210,139.736976&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

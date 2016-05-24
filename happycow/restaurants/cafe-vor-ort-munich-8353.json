@@ -1,0 +1,16 @@
+{
+  "title": "Cafe Vor Ort",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Take-out, Bakery, German\n                                    ",
+  "description": "A vegetarian cafe and bakery that sources organic and natural ingredients. Uses eggs and dairy, and vegan items are limited. Situated in the suburbs and has a garden.",
+  "priceRange": "Moderate",
+  "streetAddress": "Gautinger Str. 3, Neuried",
+  "phone": "tel:089-7595408",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.092800,11.465120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.092800,11.465120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

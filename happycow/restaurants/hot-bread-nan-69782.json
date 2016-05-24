@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hot Bread",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Thai, Western, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegetarian menu with vegan choices, for breakfast and lunch. Wi-Fi for guests. Location is next to the 7-11 by the night market.",
+  "priceRange": "Moderate",
+  "streetAddress": "38/1-2 Suriyapong",
+  "phone": "tel:0896359375",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.774744,100.769419&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.774744,100.769419&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

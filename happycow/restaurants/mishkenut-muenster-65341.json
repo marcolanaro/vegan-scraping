@@ -1,0 +1,15 @@
+{
+  "title": "Mishkenut",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Middle Eastern, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has several vegan choices including falafel, baba ganoush, sandwiches and a vegetable entree.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "221 Ridge Rd",
+  "postalCode": "46321",
+  "phone": "tel:219-836-6069",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.563268,-87.521299&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.563268,-87.521299&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

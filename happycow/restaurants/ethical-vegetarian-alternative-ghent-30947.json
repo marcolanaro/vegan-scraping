@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ethical Vegetarian Alternative",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "EVA is Belgium's vegetarian organization. Pick up a veggie street map of Ghent and other cities, or for veg information. Previously at Steendam 84.",
+  "streetAddress": "Steendam 82",
+  "phone": "tel:093296851",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/vegetarisme",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.057101,3.731185&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.057101,3.731185&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

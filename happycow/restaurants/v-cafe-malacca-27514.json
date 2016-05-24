@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "V Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Extra large menu featuring vegetarian Chinese and Western cuisine. Has Wi-Fi, air-conditioning, and relaxing music.",
+  "priceRange": "Moderate",
+  "streetAddress": "669M, Jalan Bukit Melaka 1/2 or (1/1), Bukit Beruang, Taman Bukit Melaka",
+  "postalCode": "75450",
+  "phone": "tel:+606-2324576",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.244738,102.271372&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.244738,102.271372&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Smoothies",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Offers shakes, smoothies, sorbet, and juices. Can make vegan protein powder shakes with nut milk.",
+  "streetAddress": "250 High Rd, London",
+  "postalCode": " E10 5PW",
+  "phone": "tel:02085583399",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.560021,-0.009230&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.560021,-0.009230&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

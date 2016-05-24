@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thien Quoc Chay",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "Warm and welcoming vegan restaurant serving a variety of Vietnamese dishes. English menu and Wi-Fi available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "421/8 Su Van Hanh",
+  "phone": "tel:08-38654686",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-2:00pm, 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.772325,106.668999&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.772325,106.668999&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

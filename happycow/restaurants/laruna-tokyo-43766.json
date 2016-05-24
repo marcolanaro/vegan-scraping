@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Laruna",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bar and grill located 8 minutes from Yoyogiuehara station. Offers some healthier choices including a vegan lunch set. Upstairs space holds events for yoga, flower arrangements, and art.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shibuya-ku, Uehara 2-31-3",
+  "phone": "tel:03-64168535",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-2:30pm, 5:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/laruna.org",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.664229,139.679611&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.664229,139.679611&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

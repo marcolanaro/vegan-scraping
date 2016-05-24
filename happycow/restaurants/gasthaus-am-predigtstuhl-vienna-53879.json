@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gasthaus am Predigtstuhl",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Beer/Wine, Take-out, Austrian, Arabic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has two cozy dining rooms - one smoking and one non-smoking, in addition to a silent garden. Offers a whole vegan menu with seasonal products. Gluten free also available. Serves basically Austrian food, but can prepare, on request, Arabic food such as hummus, falafel and rice meals. Free of flavor enhancers and finished products. Soy is also marked in the vegan menu. Easily reached by car or by public transport via U3 to Ottakring and buses 146 B to Oberwiedenstrasse or 46 B to Predigtstuhl.",
+  "priceRange": "Moderate",
+  "streetAddress": "Oberwiedenstrasse 34",
+  "postalCode": "1170",
+  "phone": "tel:+43-14841156",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Gasthaus-am-Predigtstuhl/1453395531559902",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.224254,16.293248&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.224254,16.293248&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

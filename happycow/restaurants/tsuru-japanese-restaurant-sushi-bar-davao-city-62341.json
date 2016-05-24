@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tsuru Japanese Restaurant & Sushi Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Japanese, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual dining restaurant specializes in Japanese food with a vegetarian menu (mostly vegan). Shares the space with a Vietnamese restaurant Hanoi (with few vegan dishes). Both restaurants are willing to veganize items on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "J Camus St ",
+  "postalCode": "8000",
+  "phone": "tel:+63822330501",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tsurujapaneserestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.070531,125.607568&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.070531,125.607568&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

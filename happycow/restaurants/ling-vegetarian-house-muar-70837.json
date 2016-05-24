@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ling Vegetarian House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Take-out\n                                    ",
+  "description": "素之家 is a Chinese restaurant serving Chwee Kway and Kway Chap. Vegans please inquire.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1-10 Jalan Arab, 84000 Muar Johor ",
+  "postalCode": "84000",
+  "phone": "tel:017-2884134",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.047840,102.570707&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.047840,102.570707&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

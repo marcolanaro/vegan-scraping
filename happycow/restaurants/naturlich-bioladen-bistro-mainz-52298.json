@@ -1,0 +1,18 @@
+{
+  "title": "Naturlich Bioladen Bistro",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Take-out, Middle Eastern\n                                    ",
+  "description": "A vegetarian/vegan bistro located inside a bio supermarket serving daily fresh made-in-house vegetable soups, foccacia, tabbouleh, salads, falafel and more. Daily soup is always vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Josefsstrasse 65",
+  "postalCode": "55118",
+  "phone": "tel:+49-6131614967",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.010254,8.262323&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.010254,8.262323&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

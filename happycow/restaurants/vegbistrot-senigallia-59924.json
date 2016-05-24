@@ -1,0 +1,18 @@
+{
+  "title": "VegBistrot",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Italian, Organic, Beer/Wine\n                                    ",
+  "description": "Organic vegetarian restaurant inside the Hotel Venezia, since 2014. Colorful and casual setting. Better to reserve ahead.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Rieti, 68",
+  "postalCode": "60019",
+  "phone": "tel:+39-0717925708",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 8:00am-11:00pm, Thu-Sun 8:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/vegbistrothotelveneziasenigallia",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.709196,13.232611&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.709196,13.232611&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

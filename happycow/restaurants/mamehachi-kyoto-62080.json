@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mamehachi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A traditional tofu restaurant where most dishes are made with tofu and yuba. Much of the menu is based on tofu. On request, vegan version are offered. Staff speaks English. Lunch course costs approx. 2000-2800 yen, dinner course 4600-5400 yen.",
+  "priceRange": "Expensive",
+  "streetAddress": "Chuo-ku, Nabeyamachi 210-4",
+  "postalCode": "604-8015",
+  "phone": "tel:075-2112469",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 5:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.004747,135.770908&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.004747,135.770908&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kamalaya Spa Resort",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Thai, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Food is fresh, natural and healthy. Many choices plus a detox menu.",
+  "priceRange": "Expensive",
+  "streetAddress": "102/9 Moo 3, Laem Set Road, Na-Muang",
+  "phone": "tel:077429800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/kamalaya.thailand",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.423440,100.007177&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.423440,100.007177&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

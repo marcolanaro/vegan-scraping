@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Take Vegetarian Garden",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Buffet catering service.",
+  "streetAddress": "Blk 332 #01-1881 Ang Mo Kio Ave 1",
+  "postalCode": "560332",
+  "phone": "tel:83606038",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Takevege332@gmail.com",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.361755,103.851834&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.361755,103.851834&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

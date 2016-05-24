@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Baan Kanitha",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale Thai restaurant. Menu has a vegetarian (vegan) section. Prices around 250+ baht per dish.",
+  "priceRange": "Expensive",
+  "streetAddress": "69 South Sathorn Rd, Sathorn",
+  "postalCode": "10120",
+  "phone": "tel:+662-67542001",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/baankhanithabkk/timeline?ref=page_internal ",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.723340,100.536434&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.723340,100.536434&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

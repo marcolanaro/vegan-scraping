@@ -1,0 +1,17 @@
+{
+  "title": "Healthy Habit's Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Salad bar, Delivery\n                                    ",
+  "description": "A health food store is also included in this cafe.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Quarantine Hill",
+  "phone": "tel:00353-404-68645",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.979827,-6.036554&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.979827,-6.036554&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

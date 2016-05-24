@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Organic Farmers' Market Chiang Mai",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Once a week here vendors sell locally grown organic produce and snacks. It's near Lotus and the Superhighway / Srimongkol Rd.",
+  "streetAddress": "J J Handicraft Market",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.805952,98.996268&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.805952,98.996268&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

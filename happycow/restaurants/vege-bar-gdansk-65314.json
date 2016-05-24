@@ -1,0 +1,19 @@
+{
+  "title": "Vege Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "In 2015 this fast food bar replaced Green Way that was previously here. Offers vegetarian and vegan dishes: soups, wraps to-go, plant based cutlets, plus cakes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dluga 11",
+  "postalCode": "80-827",
+  "phone": "tel:58-3018228",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.349298,18.649147&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.349298,18.649147&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hummus Bros - Holborn",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. UK's first hummus bar serving in-house-made hummus as a base, with your choice of topping, mostly vegan, including chickpeas, fava beans, vegetable salads, mushrooms or guacamole, served with warm pita bread. Gluten free pita bread available. Also serves salads, juices, teas and coffee. No vegan desserts. Free Wi-fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "37-63 Southampton Row",
+  "postalCode": "WC1B 4DA",
+  "phone": "tel:020-7404-7079",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/hbros",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.519456,-0.121645&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.519456,-0.121645&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

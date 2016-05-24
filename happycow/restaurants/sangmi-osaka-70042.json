@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sangmi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Macrobiotic, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Busy place at 大阪市大阪府大阪市阿倍野区阿倍野筋２丁目４−３９ that's health conscious in cooking and uses very limited to no dairy and egg, but does use dashi (fish broth) in cooking. Usually 2 lunch options, can upgrade your meal with additional seasonal vegetables or extra genmai rice. From 3pm it's less busy and double as a cafe providing an array of main dishes, desserts, and drinks. Sells genmai, salt-and-black-sesame furikake, cookies, salad dressings, tofu mayonnaise, and other goodies.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Abeno",
+  "postalCode": "545-0052",
+  "phone": "tel:06-66222135",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/玄米カフェ実身美sanmi天王寺/778930265480503",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.636699,135.511366&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.636699,135.511366&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

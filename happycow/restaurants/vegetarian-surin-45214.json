@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai\n                                    ",
+  "description": "At the junction Thonsarn Road and Luck Muang road, go down Luck Muang road eastwards, and you will find this small restaurant on the south side of the road, halfway first block.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Luck Muang Road",
+  "phone": "tel:0123456789",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.883805,103.491357&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.883805,103.491357&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

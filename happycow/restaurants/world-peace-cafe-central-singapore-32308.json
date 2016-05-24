@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "World Peace Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Italian\n                                    ",
+  "description": "Vegetarian cafe with a blissful atmosphere. Serves Italian coffee, specialty teas, snacks, soups, salads, paninis, sandwiches and wraps, some of which are vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "134 Neil Road",
+  "postalCode": "088863",
+  "phone": "tel:6438-1127",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.278486,103.841033&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.278486,103.841033&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

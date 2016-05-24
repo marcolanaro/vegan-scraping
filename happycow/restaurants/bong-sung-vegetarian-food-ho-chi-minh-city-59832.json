@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bong Sung Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Vietnamese\n                                    ",
+  "description": "A fine dining restaurant providing vegetarian vegan Vietnamese cuisine, opened in 2015. Spacious interior with plenty of seating. Vegan except for dairy milk and yogurt.",
+  "priceRange": "Expensive",
+  "streetAddress": "86 Nguyen Du, Ben Nghe Ward, Distric 1",
+  "phone": "tel:838220377",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/nhahangchaybongsung",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.778217,106.699061&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.778217,106.699061&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Daai Vegetarian ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Fast food, Take-out, Fusion, Indonesian\n                                    ",
+  "description": "大愛素食海鮮烹飪 is in A2 Food court. Serves rice, noodles and vegetable dishes. A la carte dishes are available for lunch and dinner. Has vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Komplex Baloi Kusuma A2 Food Court, Batam Island",
+  "phone": "tel:+62-8984035100/,%2008526429669",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.134155,104.009684&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.134155,104.009684&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Agra",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurant, menu has a section of vegetarian dishes. Ask about dairy use.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12 rue de la Fraternité",
+  "postalCode": "89000",
+  "phone": "tel:0386523091",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-2:00pm, 7:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.796363,3.567844&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.796363,3.567844&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

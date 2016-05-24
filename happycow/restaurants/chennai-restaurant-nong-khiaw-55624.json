@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chennai Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Asian, Laotian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. South and North Indian halal food with some Laotian, Thai and Malaysian food. Selection of vegetarian dishes, has tofu as paneer. Please send exact map coordinates to happycow!",
+  "priceRange": "Moderate",
+  "streetAddress": "Ban Sophun",
+  "phone": "tel:+8562095746407",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/ChennaiRestaurantAtLaos",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.571035,102.611575&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.571035,102.611575&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

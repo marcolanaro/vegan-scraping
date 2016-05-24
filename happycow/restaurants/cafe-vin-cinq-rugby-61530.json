@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Vin Cinq",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, European, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bistro cafe with a cocktail bar. Creates seasonally inspired menus that includes options that are either suitable for vegans or can be adapted. With advance notice will produce a 3-course vegan menu.",
+  "priceRange": "Expensive",
+  "streetAddress": "25 High St",
+  "postalCode": "CV21 3BW",
+  "phone": "tel:+44-1788541304",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-4:00pm, 6:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.371350,-1.262983&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.371350,-1.262983&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lamai Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai\n                                    ",
+  "description": "Vegan except for a couple items with honey (ask). Restaurant on Had Lamai 4, which is thought of as an unnamed street, a little north of the gas station and morning market (same side of the street). Sometimes offer a buffet consisting of a couple dishes and a soup. Has a menu other times which includes Thai dishes with mock meat options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "138/14 Moo 4 Maret Lamai Beach",
+  "postalCode": "84310",
+  "phone": "tel:0897232061",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.471224,100.047613&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.471224,100.047613&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,15 @@
+{
+  "title": "Burger Lokal",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Modern decor burger and fries place. Offers marked 3 vegan choices (seitan, bean, lentil) plus has vegan cheese and mayonnaise.",
+  "priceRange": "Moderate",
+  "streetAddress": "Pilgrimstein 22",
+  "postalCode": "35037",
+  "phone": "tel:%20064216979004",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.810250,8.771550&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.810250,8.771550&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

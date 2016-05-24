@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Serince Chig Koftecisi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Turkish\n                                    ",
+  "description": "Serves standard vegan chig kofta, which is a local fast food made of bulghur, ground nuts and spices in a tortilla with lettuce and pomegranate sauce.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bogazkesen Caddesi, 35/a",
+  "phone": "tel:0-212-2457408",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.028389,28.979968&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.028389,28.979968&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

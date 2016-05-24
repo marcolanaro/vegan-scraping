@@ -1,0 +1,15 @@
+{
+  "title": "Kichererbse",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Fast food, Take-out, Middle Eastern, Turkish\n                                    ",
+  "description": "Little shop offering veggie versions of the popular döner/kebab (falafel) and other Turkish food. Mostly take away with a few seats.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Metzgergasse 2",
+  "postalCode": "72070",
+  "phone": "tel:07071521",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-7:00pm, Sat 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.521376,9.055735&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.521376,9.055735&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

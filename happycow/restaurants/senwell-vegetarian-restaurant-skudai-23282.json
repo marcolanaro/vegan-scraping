@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Senwell Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "天之雨素食餐厅 Malaysian and Chinese vegetarian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "71, Jln. Sutera Tanjung 8/2, Tmn Sutera Utama",
+  "postalCode": "81300",
+  "phone": "tel:013-7273327",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-3:00pm, 5:00pm-10:00pm, Sat-Sun 10:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.515003,103.667768&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.515003,103.667768&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

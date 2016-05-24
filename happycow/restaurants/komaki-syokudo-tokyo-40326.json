@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Komaki Syokudo - Kamakura Fushikian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Beer/Wine, Take-out, Asian\n                                    ",
+  "description": "Opened Jun 2013, this vegan restaurant is located in shopping mall 2k540 Aki-Oka Artisan/Chabara complex, underneath the train tracks, next to the UDX building. Offers shojin ryori (temple cuisine). Rice and miso soup re-fills with purchase of meal.",
+  "priceRange": "Moderate",
+  "streetAddress": "8-2 Kanda Neribeicho Chiyoda-ku",
+  "postalCode": "101-0022",
+  "phone": "tel:03-5577-5358",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/komaki.syokudo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.699670,139.773098&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.699670,139.773098&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

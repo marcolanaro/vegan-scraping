@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nabo Sushi and Wok",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Fast food, Take-out, Asian, No seating, take away , Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Sushi and wok. There are around 15 vegan sushi options labeled in the menu, but ask if uses same oil for frying when making vegan food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Geels Plads 2",
+  "postalCode": "2830",
+  "phone": "tel:+4561668899",
+  "venueHours": "\n                                                                                                        Mon-Sun 2:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.795150,12.474374&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.795150,12.474374&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

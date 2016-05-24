@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xuan Xin - Queensbay Mall",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Malaysian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. 炫昇香港小厨 offers several vegetarian dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "2F-02, North Zone, Queensbay Mall, Persiaran Bayan Indah, Bayan Lepas",
+  "postalCode": "11900",
+  "phone": "tel:04-6431779",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.333285,100.306838&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.333285,100.306838&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

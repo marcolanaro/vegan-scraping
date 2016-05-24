@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bar Maroc",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Middle Eastern\n                                    ",
+  "description": "A 100% vegan/vegetarian restaurant. All pizzas are made on a vegan base. Drinks include Moroccan mint tea, beer, cocktails and more. Comfortable and relaxed setting with music. Feel free to stay as long as you want and just relax.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "120 New St",
+  "postalCode": "HD1 2UD",
+  "phone": "tel:01484-537907",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Bar-Maroc/182124065217984",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.643289,-1.783829&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.643289,-1.783829&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

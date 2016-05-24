@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fivelements - Puri Ahimsa",
+  "tags": [
+    "Veg Hotel/BnB",
+    "Vegan"
+  ],
+  "description": "Wellness retreat and healing centre founded upon Balinese traditions. Has an onsite vegan restaurant.",
+  "streetAddress": "Mambal, Abiansemal, Badung, Banjar Baturning",
+  "postalCode": "80352",
+  "phone": "tel:+62-361469206",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Fivelements.PuriAhimsa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.558434,115.224485&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.558434,115.224485&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

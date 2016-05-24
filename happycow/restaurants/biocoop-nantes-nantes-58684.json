@@ -1,0 +1,13 @@
+{
+  "title": "Biocoop Nantes Nord",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "188 route de Rennes",
+  "postalCode": "44300",
+  "phone": "tel:0240891390",
+  "venueHours": "\n                                                                                                        Mon 2:00pm-7:30pm, Tue-Fri 9:30am-7:30pm, Sat 9:30am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.261162,-1.582128&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.261162,-1.582128&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

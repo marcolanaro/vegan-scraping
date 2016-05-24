@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Urban Tadka",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Delivery, Take-out\n                                    ",
+  "description": "Located in a quiet neighborhood called Discovery Gardens. Rice, curries, samosas, soups and more. Family friendly with large tables available.",
+  "priceRange": "Moderate",
+  "streetAddress": "Building 12  Zen 3 Discovery Gardens",
+  "phone": "tel:+971-44289422",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.264444,55.311667&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.264444,55.311667&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

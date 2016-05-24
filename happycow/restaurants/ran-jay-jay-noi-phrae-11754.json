@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ran Jay Jay Noi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese\n                                    ",
+  "description": "Large vegetarian restaurant in Phrae. Menu is mostly vegan but  will cook eggs upon request. Open 6am-7pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "52/9-10 Thung Tom Street, Ni Wieng District",
+  "phone": "tel:089-4315914",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.261570,99.959420&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.261570,99.959420&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

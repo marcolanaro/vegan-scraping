@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nha Hang Am Thuc Chay Va Cafe Sen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Juice bar, Take-out, Vietnamese\n                                    ",
+  "description": "A 100% vegan Vietnamese restaurant uses tofu in some dishes.  Menu is in Vietnamese (has pictures). Owner speaks some English. As of August 2015, soups are 15.000vnd, fried dishes  spring rolls (nem) 7vnd, salads 25-30.000vnd. Fresh juices 20.000. (One US dollar equals 20.400vnd.) Has a unusual ambiance in the dining area. some mock tofu dishes.\r\n ",
+  "priceRange": "Moderate",
+  "streetAddress": "52 Do Ngoc Du, Tan Binh",
+  "phone": "tel:0904485090",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.936239,106.315676&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.936239,106.315676&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

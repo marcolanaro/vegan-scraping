@@ -1,0 +1,18 @@
+{
+  "title": "The Jolly Farmer",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Western, British, Pub food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A traditional English pub, with a welcoming ambiance, serves mainly British pub food. Vegan choices include pizza, nut roast, veggie stack burger and Bramley apple pie with soy ice cream. Free broadband internet.",
+  "priceRange": "Moderate",
+  "streetAddress": "High St, Bramley",
+  "postalCode": "GU5 0HB",
+  "phone": "tel:+440-1483893355",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-2:30pm, 6:00pm-9:30pm, Sun 12:00pm-3:00pm, 7:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.192405,-0.557073&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.192405,-0.557073&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

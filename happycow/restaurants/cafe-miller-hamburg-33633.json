@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Miller",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Juice bar, Beer/Wine, Bakery, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe offering breakfast til 6pm and usually includes 3 or 4 vegan choices. Stocks soymilk. Other menu items are salads, soups, sandwiches, cakes and pies. Free Wi-fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Detlev-Bremer-Strasse 16",
+  "postalCode": "20359",
+  "phone": "tel:040315719",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-12:00am, Fri-Sat 9:00am-3:00am, Sun 9:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeMiller",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.551962,9.965089&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.551962,9.965089&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

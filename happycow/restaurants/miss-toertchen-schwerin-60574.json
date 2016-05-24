@@ -1,0 +1,17 @@
+{
+  "title": "Miss Toertchen ",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "A bakery cafe, has seating. Typically offers 1 or 2 vegan items, like a muffin.",
+  "streetAddress": "Schusterstr. 8",
+  "postalCode": "19055",
+  "phone": "tel:038539378735",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-6:00pm, Sat 11:30am-6:00pm, Sun 1:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/MissToertchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.628050,11.414140&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.628050,11.414140&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

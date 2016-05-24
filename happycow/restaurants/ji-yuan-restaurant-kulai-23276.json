@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ji Yuan Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "纪缘素食馆 serves rice, noodle, and vegetable dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "14, Batu 21, Jln. Air Hitam",
+  "postalCode": "81400",
+  "phone": "tel:012-7373292",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.668256,103.588777&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.668256,103.588777&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

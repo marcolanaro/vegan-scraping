@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Goveg Vegan Shop",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Opened Mar 2015,this vegan shop stocks food, books, shoes, wallets, belts, and eco-friendly products.",
+  "streetAddress": "14 rue Hors Chateau",
+  "postalCode": "4000",
+  "phone": "tel:+32-42220921",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 10:30am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Goveg-vegan-shop/794773080606849",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.646603,5.576818&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.646603,5.576818&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

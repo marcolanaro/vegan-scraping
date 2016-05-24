@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Bistro Mundial",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, European\n                                    ",
+  "description": "Simple place offering vegetarian and vegan food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Potthof Str. 22",
+  "phone": "tel:02331183947",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-10:00pm, Sat 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/AWHMundial",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.358430,7.475910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.358430,7.475910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "DiShuiFong - Water Drop Teahouse",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Take-out, Taiwanese\n                                    ",
+  "description": "Vegetarian restaurant located on the ground floor of a buddhist institute building. Spacious, fine, and serene environment. Offers appetizers from NT50+, main dishes from NT100-250, coffee and tea from NT50+. Most food items are vegan, though a few dishes contain dairy, so vegans to specify. Bus your own table when finished. Has parking underground.",
+  "priceRange": "Moderate",
+  "streetAddress": "6 Wenquan Rd",
+  "phone": "tel:03-9875000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.827263,121.775054&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.827263,121.775054&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

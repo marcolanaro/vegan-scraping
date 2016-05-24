@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Connoisseur Concerto",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, European, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain cafe with many locations. Aim is to be \"art boutique caffès.\" Prices are in the upper moderate to expensive range. Menu notes which dishes are veg, which are without garlic, onion, egg, or dairy. Free Wi-Fi.",
+  "priceRange": "Expensive",
+  "streetAddress": "350 Orchard Road, Level 2",
+  "postalCode": "238868",
+  "phone": "tel:62355622",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/theconnoisseurconcerto",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.305487,103.831573&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.305487,103.831573&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

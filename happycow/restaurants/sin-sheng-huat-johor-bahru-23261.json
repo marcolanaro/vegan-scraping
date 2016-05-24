@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sin Sheng Huat",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "Please send HappyCow some details!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "29, Jln.Dedap 23, Tmn. Johor Jaya",
+  "postalCode": "81100",
+  "phone": "tel:607-3530705",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.540214,103.802033&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.540214,103.802033&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

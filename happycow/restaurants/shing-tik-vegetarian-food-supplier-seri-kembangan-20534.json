@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shing Tik Vegetarian Food Supplier",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Sells various vegetarian food and organic food products. Many products are manufactured using soy beans, mushrooms, vegetables, and Chinese herbs. Moved to new location on same street Aug 2010. Previously located in a different location on Jln Perusahaan.",
+  "streetAddress": "10, Jln Perusahaan 3, Taman Serdang Jaya, Seri Kembangan",
+  "postalCode": "43300",
+  "phone": "tel:03-8948-5601",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.023141,101.705439&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.023141,101.705439&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

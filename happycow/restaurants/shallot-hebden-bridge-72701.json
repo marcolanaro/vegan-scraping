@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shallot",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Italian, Western, British, English, European\n                                    ",
+  "description": "An all-vegan bistro located in the city center serving traditional dishes vegan-style.",
+  "priceRange": "Moderate",
+  "streetAddress": "Salem Mill, Salem St",
+  "postalCode": "HX7 6HB",
+  "phone": "tel:07941959950",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sat 6:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/shallothebdenbridge",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.741019,-2.016595&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.741019,-2.016595&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

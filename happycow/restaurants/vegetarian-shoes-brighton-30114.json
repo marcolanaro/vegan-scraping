@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Shoes",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Small shop selling cruelty-free shoes for men and women. Made in Europe.",
+  "streetAddress": "12 Gardner Street",
+  "postalCode": "BN1 1UP",
+  "phone": "tel:+441273685685",
+  "venueHours": "\n                                                                                                        Mon-Tue 10:00am-6:00pm, Wed 12:00pm-6:00pm, Thu-Sat 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Vegetarian-Shoes/37139698588",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.824910,-0.139623&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.824910,-0.139623&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

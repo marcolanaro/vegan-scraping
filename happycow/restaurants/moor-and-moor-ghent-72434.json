@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Moor&Moor",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Grocery store est. 2015 with focus on local, organic, meat-free, and eco-friendly foodstuff. Has vegan cheese and bulk items. Serves coffee and prepared sandwich for takeaway. A few seats inside.",
+  "streetAddress": "Jakobijnenstraat 7",
+  "postalCode": "9000",
+  "phone": "tel:0495236983",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 9:00am-6:30pm, Sun 9:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/moormoorfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.052139,3.719882&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.052139,3.719882&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

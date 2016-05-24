@@ -1,0 +1,13 @@
+{
+  "title": "Erdapfel",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Whole food store with vegetarian and vegan products available.",
+  "streetAddress": "Schlößlesgasse 10",
+  "postalCode": "89077",
+  "phone": "tel:0731386893",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-7:00pm, Fri 7:00am-7:00pm, Sat 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.396511,9.955569&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.396511,9.955569&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

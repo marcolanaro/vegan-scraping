@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zus en Zo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, European, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small restaurant that mixes styles and cultures, both in the decorating as well as in the food. Menu includes a couple vegetarian and vegan dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kapelstraat 8",
+  "postalCode": "3950",
+  "phone": "tel:+32-89464977",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Fri 12:00pm-9:30pm, Sun 12:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.175968,5.580120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.175968,5.580120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

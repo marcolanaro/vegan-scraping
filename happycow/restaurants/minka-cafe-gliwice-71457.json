@@ -1,0 +1,18 @@
+{
+  "title": "Minka Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, European\n                                    ",
+  "description": "A vegetarian bistro/cafe with vegan options. Caters to families with children; has a special fun zone.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Zawiszy Czarnego 22",
+  "postalCode": "44-100",
+  "phone": "tel:+48532915255",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-7:00pm, Fri-Sat 11:00am-8:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/minkacafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.289061,18.650818&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.289061,18.650818&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

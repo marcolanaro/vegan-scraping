@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cloud Villa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Taiwanese\n                                    ",
+  "description": "Near Chung Tai Chan Monastery, this is a vegetarian restaurant within a hotel. More upscale. Offers a la carte menu.",
+  "priceRange": "Expensive",
+  "streetAddress": "12, Yong Feng Road",
+  "phone": "tel:049-2930930x211",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-2:00pm, 5:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.034482,120.947475&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.034482,120.947475&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

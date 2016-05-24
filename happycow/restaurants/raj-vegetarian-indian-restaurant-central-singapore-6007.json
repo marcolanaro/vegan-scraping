@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Raj Vegetarian Indian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian\n                                    ",
+  "description": "Uses fresh ingredients in making cuisine from the Northern, Southern, Eastern and Western parts of India. Reservations recommended. Call for hours.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "76  Syed Alwi Road",
+  "postalCode": "207655",
+  "phone": "tel:62971716",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-11:00pm, Fri-Sat 11:00am-11:30pm, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.308937,103.856327&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.308937,103.856327&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

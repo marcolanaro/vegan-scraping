@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "New Giant Bowl Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Malaysian\n                                    ",
+  "description": "Vegetarian restaurant. Chinese name 新大碗公快餐店. 素食快餐, 也有中餐﹐與大碗公不同. Moved to the back area, Oct 2012.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11A, Jalan SS 2/55",
+  "postalCode": "47300",
+  "phone": "tel:03-7876-2235",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.117028,101.621398&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.117028,101.621398&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

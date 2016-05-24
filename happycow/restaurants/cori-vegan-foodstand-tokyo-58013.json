@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cori Vegan Foodstand",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Western, Beer/Wine, Fusion, Take-out only\n                                    ",
+  "description": "Food vendor at the Commune 246 food truck market in Omotesando. Offers a wide array of vegan food, from fried soy meat to falafel and hummus sandwich, organic drinks including alcohol.",
+  "priceRange": "Moderate",
+  "streetAddress": "3 Chome-13 Minamiaoyama Minato",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 1:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/100VegetablePurefoodCori",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.665505,139.713694&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.665505,139.713694&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

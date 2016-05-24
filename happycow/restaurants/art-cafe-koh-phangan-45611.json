@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Art Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Thai, Western, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upstairs cafe with free Wi-Fi. Please send menu details to happycow.",
+  "priceRange": "Moderate",
+  "streetAddress": "Haad Chao Phao Kho",
+  "phone": "tel:77349222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 8:00am-7:00pm, Wed-Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.767256,99.962492&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.767256,99.962492&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

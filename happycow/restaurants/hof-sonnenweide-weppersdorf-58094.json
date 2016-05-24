@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hof-Sonnenweide",
+  "tags": [
+    "Veg Organization",
+    "Vegan"
+  ],
+  "description": "An animal sanctuary offering guided tours. The owner also serves vegan food and drinks with Austrian snacks like garlic bread with schmalz, potato goulasch, schnitzel-semmel, and desserts like szomloer nockerl nd  apfelstrudel. Call to arrange a tour.",
+  "streetAddress": "Rechtgraben 1",
+  "postalCode": "7331",
+  "phone": "tel:+43-67684821611",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.594170,16.417935&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.594170,16.417935&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

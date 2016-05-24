@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Guan Dong Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Take-out\n                                    ",
+  "description": "Small vegetarian cafe offering typical dishes like sesame noodles, dumplings, and also soups where you choose the ingredients yourself (including beets, broccoli, yams, and more).  Also, connected, is a small stand offering pancakes, and a few types of vegan pan fried buns with veggies inside (also offers cheese ones so vegans beware).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "268, JhongMei Street",
+  "phone": "tel:04-23027688",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:30pm, 4:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.149273,120.660324&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.149273,120.660324&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

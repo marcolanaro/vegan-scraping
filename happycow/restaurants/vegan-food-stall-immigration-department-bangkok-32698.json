@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Food Stall",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Fast food, Take-out\n                                    ",
+  "description": "Possibly named \"Thi Neung Aharn Jay\", and located at the Government Complex building, near the Immigration department, there are 2 large food courts. One of them has a pure veg (vegan) food stall. Offers basic Thai vegan dishes for 40-60 baht each. The owners used to operate UR Station in Suan Pluu when the main immigration service was there.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Government Complex Building B, Chaengwattana Road Soi 7, Laksi",
+  "postalCode": "10210",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.882350,100.567968&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.882350,100.567968&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "101 Parathas",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, Delivery, Take-out\n                                    ",
+  "description": "A vegetarian/vegan pure veg Indian restaurant in Dubai's JLT neighborhood. Has many vegan options. In addition to parathas (cooked in sunflower oil), serves other Indian dishes such as curries. The menu does not mark vegan dishes, so vegans please inquire.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Shop 8, Platinum Tower, Cluster I, Jumeirah Lakes Towers",
+  "phone": "tel:+971-44249950",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/101parathas",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.069130,55.142902&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.069130,55.142902&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

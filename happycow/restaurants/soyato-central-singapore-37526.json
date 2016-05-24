@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soyato",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Soy ice cream you can find at 90s The Candy Studio. Also find it at\r\nYes Natural Retail Store @ Clementi; The Plant Story @ Hort Park; Fresh Healthy Cafe @ Alexandra Retail Centre and in supermarkets island wide in Singapore. ",
+  "streetAddress": "90s @ Scape Underground Unit B7 S",
+  "postalCode": "237978",
+  "phone": "tel:65706292",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/soyato",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.280094,103.850949&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.280094,103.850949&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Banwarou - Mimika",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Taiwanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This little Taiwanese restaurant in the heart of Chinatown has a separate vegetarian menu and a gregarious owner. Try the sesame paste noodles. Chinese name 萬和樓(味味香), address 神奈川県横浜市中区山下町139.",
+  "priceRange": "Moderate",
+  "streetAddress": "139 Yamashita-cho, Naka-ku",
+  "phone": "tel:045-663-3113",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.442540,139.645520&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.442540,139.645520&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

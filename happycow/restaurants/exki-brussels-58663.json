@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "EXKi - Woluwe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Health food concept chain shop. Grab n go sandwiches and salads with ingredients listed. Uses some organic produce and fruit and veg. Busy at lunchtime.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rue Saint-Lambert 200",
+  "postalCode": "1200",
+  "phone": "tel:+32-27792302",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-7:00pm, Fri 8:00am-8:00pm, Sat 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/EXKiRestaurants",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.843382,4.436732&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.843382,4.436732&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

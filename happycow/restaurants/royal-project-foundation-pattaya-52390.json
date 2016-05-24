@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Royal Project Foundation",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of a national chain of shops in support of organic farming.\r\nAll organic, but not all veg. Sells a variety of produce and grains, as well as some health products. Beware than many of the chips and products center around honey.",
+  "streetAddress": "Inside Central Festival Pattaya Mall, Ground floor",
+  "phone": "tel:038043525",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.933966,100.884291&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.933966,100.884291&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

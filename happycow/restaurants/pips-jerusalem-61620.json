@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pips",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian\n                                    ",
+  "description": "Pizza, pasta, and salads restaurant. Has 2 vegan pizza options plus different veggie toppings for add-on. Whole wheat pasta is vegan. 3 set choices with many add-ons. Salad are vegan suitable except for the caprese. Specify just to be sure, though. English menu available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Havatzelet  6",
+  "phone": "tel:02-6245613",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-11:00pm, Sat 8:30am-12:00am, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PIPS.PIZZA",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.801214,35.154316&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.801214,35.154316&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

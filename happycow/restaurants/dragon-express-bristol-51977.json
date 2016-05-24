@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dragon Express",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese take away and delivery restaurant specializing in vegetarian and vegan food with an extensive range of vegan choices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "58-60 Avonleigh Rd, Bedminster",
+  "postalCode": "BS3 3JA",
+  "phone": "tel:0117-3789696",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 5:30pm-11:00pm, Wed-Thu 5:30pm-11:00pm, Fri-Sat 5:30pm-11:30pm, Sun 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.435356,-2.610056&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.435356,-2.610056&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

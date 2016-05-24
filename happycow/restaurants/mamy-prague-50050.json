@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mamy",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Authentic Korean food with separate  extensive vegetarian/vegan menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Benediktska 3, Praha 1",
+  "phone": "tel:+42-0224815009",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Prahamamy",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.089934,14.426567&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.089934,14.426567&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,19 @@
+{
+  "title": "Liquid Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Raw, Western, Juice bar, Take-out\n                                    ",
+  "description": "A juice bar that offers green smoothies in compostable cups or bottles as well as prepared vegan salads, soups, a few sweets without sugar. Vegan except for honey. Has seating inside. Opened Nov 2014.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Stargarder Strasse 72",
+  "postalCode": "10437",
+  "phone": "tel:017680003378",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-6:00pm, Sat 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/liquidgardenberlin",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.546881,13.417784&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.546881,13.417784&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

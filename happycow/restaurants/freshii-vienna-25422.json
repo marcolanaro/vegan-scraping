@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Freshii",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. International fast food chain restaurant where you can customize wraps, bowls, and salads. Choose your vegetables plus there is brown rice and a grilled tofu protein choice.",
+  "priceRange": "Moderate",
+  "streetAddress": "Herrengasse 5, Wien",
+  "postalCode": "1010",
+  "phone": "tel:004316991439",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-8:00pm, Sat-Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/freshii",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.208572,16.366260&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.208572,16.366260&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,15 @@
+{
+  "title": "King Falafel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Salad bar, Juice bar, Middle Eastern\n                                    ",
+  "description": "Small vegetarian place in the pedestrian zone in city center selling falafel and baked potatoes with salad from a salad bar. Fresh orange juice is available. Has vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Vlamingstraat 37",
+  "postalCode": "2511 BA",
+  "phone": "tel:+31-0-70-427-58-61",
+  "venueHours": "\n                                                                                                        Mon 11:00am-7:00pm, Tue-Fri 10:00am-7:00pm, Sat 10:00am-6:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.076266,4.309216&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.076266,4.309216&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natur and Sundhed Helsekost",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store selling tofu, soy faux meats, frozen vegetarian food, soy, nut and rice milks, vegan cheese, dried goods, vegan chocolate spread, some vegan chocolate, small produce section. Natural body care items, household cleaners and more.",
+  "streetAddress": "Norrebrogade 57, 2200 N, Norrebro ",
+  "phone": "tel:35357602",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 10:00am-3:00pm, Sun 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.689932,12.555193&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.689932,12.555193&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

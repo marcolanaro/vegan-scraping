@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Five Star J Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Thai, Western, Beer/Wine, Delivery\n                                    ",
+  "description": "Small restaurant serving vegetarian food. Renovated in 2015. Has menu with food photos and also sells some food products for takeaway. Uses dairy cheese for pizza and eggs in some breakfast dishes. Fries with coconut oil.",
+  "priceRange": "Moderate",
+  "streetAddress": "313/37 Moo 10, South Pattaya Rd",
+  "phone": "tel:+66-38421105",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/fivestarj",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.923677,100.882172&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.923677,100.882172&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

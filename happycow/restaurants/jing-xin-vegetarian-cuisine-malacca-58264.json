@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jing Xin Vegetarian Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Japanese, Malaysian\n                                    ",
+  "description": "净欣素食 serves local Malaysian Chinese and Japanese dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "668-K, Jalan Bukit Melaka 1/3, Taman Bukit Melaka, Bukit Beruang",
+  "postalCode": "75450",
+  "phone": "tel:016-2219591",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-2:30pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.244575,102.271644&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.244575,102.271644&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

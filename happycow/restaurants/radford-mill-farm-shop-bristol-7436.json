@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Radford Mill Farm Shop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Fresh fruits and vegetables, staples, freshly made vegetarian and vegan sandwiches coffees, teas, and juices. Small seating area for eating.",
+  "streetAddress": "41 Picton Street, Montpelier, Bristol, UK",
+  "postalCode": "BS6 5PZ",
+  "phone": "tel:0117-9426644",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.465900,-2.588300&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.465900,-2.588300&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

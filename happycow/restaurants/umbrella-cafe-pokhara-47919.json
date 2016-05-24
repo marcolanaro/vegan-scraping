@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Umbrella Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Beer/Wine, Nepali, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarian choices include faux tofu meats and kofta, of which some can be adapted to vegan. Free Wi-Fi. Floor and bench seating.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lake Side-6",
+  "phone": "tel:98003995885",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Umbrella-Cafe/254107734680717",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.202565,83.985008&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.202565,83.985008&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

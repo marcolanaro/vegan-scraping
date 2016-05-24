@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Miao Xiang Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "Name 妙香齋. It's a vegetarian stall in the non-veg Kim Sam Restaurant. Try their in-house-made pan mee and tomato mee. Go early before the food runs out. Closes every other Thursday.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "32, Medan Kurau",
+  "postalCode": "13700",
+  "phone": "tel:016-4433345",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.384528,100.391099&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.384528,100.391099&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Juragan Baso",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Indonesian\n                                    ",
+  "description": "Please send HappyCow some details!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jelambar Baru Raya Blok A2 102 B, Jakarta Barat, West Jakarta",
+  "postalCode": "11460",
+  "phone": "tel:021-70858197",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.211540,106.845170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.211540,106.845170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

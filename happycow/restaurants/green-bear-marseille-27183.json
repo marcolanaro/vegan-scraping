@@ -1,0 +1,20 @@
+{
+  "title": "Green Bear",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, French\n                                    ",
+  "description": "In 2014 reported became all-vegetarian. Coffeehouse cafe located near the old port. Changing menu includes several marked vegan dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "17 rue Glandeves",
+  "postalCode": "13001",
+  "phone": "tel:0491040691",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/greenbearcoffee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.293239,5.375276&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.293239,5.375276&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

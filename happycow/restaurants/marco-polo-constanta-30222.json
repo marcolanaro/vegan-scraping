@@ -1,0 +1,14 @@
+{
+  "title": "Marco Polo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Romanian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fine dining restaurant where the staff speaks English and can tell you which dishes are vegetarian suitable. Has pizza (can order without cheese). Accommodating to veg requests.",
+  "priceRange": "Expensive",
+  "streetAddress": "Str Sarmisegetuza Nr 2",
+  "phone": "tel:0241-617-357",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.173333,28.638333&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.173333,28.638333&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

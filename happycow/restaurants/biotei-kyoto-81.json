@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Biotei",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Japanese, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small cozy modern cafe style. Serves fresh vegetable-based food. Some English is spoken, but bring a language dictionary if you don't speak any Japanese. Address in Japanese: 京都府京都市中京区三条通東洞院西入梅忠町28, Ｍ＆Ｉビル２Ｆ. Name in Japanese: 自然派レストラン びお亭.",
+  "priceRange": "Moderate",
+  "streetAddress": "Southwest corner of Sanjo-dori and Higashinotoin-dori, 2nd floor",
+  "phone": "tel:075-2550086",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:30am-2:00pm, Tue-Wed 5:00pm-8:30pm, Fri-Sat 5:00pm-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.008518,135.761026&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.008518,135.761026&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

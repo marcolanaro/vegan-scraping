@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kim Bau Zai Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "A vegetarian restaurant with vegan options. Comfortable environment with air-conditioning. Wi-fi. Name in Chinese: 金包仔.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "81, Laluan Batu Gajah Perdana 11, Taman Batu Gajah Perdana",
+  "postalCode": "31550",
+  "phone": "tel:016-548-1118",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Kim-Bau-Zai-Vegetarian-Restaurant/127874117293145",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.503080,101.022387&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.503080,101.022387&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

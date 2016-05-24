@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Super Jay Vegetarian Mart",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Supplies for vegetarian restaurants and individuals who plan to cook for themselves. Stocks mostly dry TVP, noodles and frozen mock-meat products, a variety of vegetarian sauces, and a few ready-to-eat items.",
+  "streetAddress": "221 Ranong Road",
+  "postalCode": "83000",
+  "phone": "tel:076-222-570",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.883669,98.384113&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.883669,98.384113&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

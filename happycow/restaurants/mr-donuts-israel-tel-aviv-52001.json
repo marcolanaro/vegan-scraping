@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mr. Donuts Israel",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Kosher vegan donuts sold via the Israeli franchise of the American Mr. Donut chain. In Tel Aviv, you will find them at HaShwarma HaTzimchonit, Ramat Aviv Mall, Azrieli Mall, Dizengoff Center, Ichilov Mall, and Yellow Shops.",
+  "streetAddress": "Israel",
+  "phone": "tel:09-7686600",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/israeldonuts",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.096934,34.781853&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.096934,34.781853&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

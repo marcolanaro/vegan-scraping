@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mee and I Asian Tapas and Noodle Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Juice bar, Beer/Wine, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan menu items are clearly marked with a 'Ve.' Menu states that they will cook your food in separate pans if you tell them you are vegan. Staff are knowledgeable about what other items can be made vegan as well. Serves a variety of food with large portions. Atmosphere is open, ethnic, with a big upstairs space that can accommodate large groups.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "45-47 Castle St",
+  "postalCode": "CB3 OAH",
+  "phone": "tel:07448295222",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-3:00pm, 5:00pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.212431,0.112795&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.212431,0.112795&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

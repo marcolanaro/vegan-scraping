@@ -1,0 +1,15 @@
+{
+  "title": "Iden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Buffet, Fast food, Salad bar, European, German\n                                    ",
+  "description": "Buffet restaurant at the back of the street behind the escalator. Spread features cold salads, hot entrees, and dessert. Vegan items are labeled.",
+  "priceRange": "Moderate",
+  "streetAddress": "Eberhardstr. 1",
+  "postalCode": "70173",
+  "phone": "tel:0711-235989",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-6:00pm, Sat 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.774520,9.179790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.774520,9.179790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

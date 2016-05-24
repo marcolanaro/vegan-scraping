@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hock Vegetarian - Sin Hoe Garden Food Court ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Malaysian\n                                    ",
+  "description": "福齋 vegetarian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Medan Pasar, Taman Sin Hoe, Melaka",
+  "postalCode": "75150",
+  "phone": "tel:012-6857203",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:30am-12:00pm, Wed-Sun 7:30am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.216419,102.266378&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.216419,102.266378&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

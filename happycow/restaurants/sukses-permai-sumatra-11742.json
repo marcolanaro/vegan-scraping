@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sukses Permai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Chinese, Indian, Juice bar, Take-out\n                                    ",
+  "description": "Popular restaurant with 15+ years in Indonesian and Chinese vegetarian foods. Has vegetarian empek-empek, a Palembang food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Tembesu St, Palembang",
+  "phone": "tel:62711315343/,%200711315343",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-0.144290,100.637080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-0.144290,100.637080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

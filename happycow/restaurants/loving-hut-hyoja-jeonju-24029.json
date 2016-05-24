@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Hyoja",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Fast food, Take-out, Asian\n                                    ",
+  "description": "Part of international chain of vegan restaurants opened by followers of Supreme Master Ching Hai, an advocate for veg living. Each location is individual family owned and operated. Serves vegan food, coffee, and non-alcoholic beverages. Free wi-fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "104, Hangang APT-Shopping area, 660-1, Hyoja-dong 1-ga, Wansan-gu",
+  "phone": "tel:063-224-8929",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-8:30pm, Sun 11:30am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.801811,127.113699&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.801811,127.113699&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Flooh's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Burger restaurant making its own patties and sauces. Has a vegetarian burger (contains bell pepper, fennel, string beans, zucchini, onion, and mushroom) that you could ask to omit cheese and replace with guacamole or/and salsa instead and request vegan buns. Owner also makes a vegan mayonaise and daily soups with option for vegetable broth for vegan customers.",
+  "priceRange": "Moderate",
+  "streetAddress": "Delaerestraat, 21",
+  "postalCode": "8800",
+  "phone": "tel:051810610",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:00pm, Mon-Thu 6:00pm-9:00pm, Fri-Sat 6:00pm-10:00pm, Sun 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/floohsburger",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.946211,3.128179&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.946211,3.128179&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

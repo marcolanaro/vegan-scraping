@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mai3 Cafe and Resto Vegan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, International, Juice bar, Take-out, Indonesian\n                                    ",
+  "description": "A vegan Balinese restaurant opened May 2015. Menu consists of multi-ethnic dishes and dim sum made with vegetables, nuts, tuber, tofu, and tempeh. House-made drinks and desserts. Food is gluten-free.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl Diponegoro 8C Pesanggaran, Denpasar",
+  "postalCode": "80222",
+  "phone": "tel:0361729096",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.707248,115.211147&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.707248,115.211147&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

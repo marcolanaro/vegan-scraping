@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Whispers",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Delivery, Middle Eastern, Jordanian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. One of the few restaurants locally that have a vegetarian section, but you need to make sure they waiter fully understands that you're vegan or vegetarian. Try telling them you're vegetarian and say you don't eat MINCED meat or chicken, etc. Also if you're vegan, let them know to include NO eggs/honey/dairy in your dish. The atmosphere is friendly but there is an aquarium inside.",
+  "priceRange": "Moderate",
+  "streetAddress": "Abdul Rahman Alawi St, Umm Utheina",
+  "phone": "tel:+962-6-5921850",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.949381,35.932911&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.949381,35.932911&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

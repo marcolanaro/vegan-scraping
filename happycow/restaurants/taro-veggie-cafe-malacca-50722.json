@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Taro Veggie Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Indian, Western, Mexican\n                                    ",
+  "description": "Eco-friendly vegetarian restaurant serving international cuisine. Offers a wide array of beverages.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11, Jalan TTC 26A, Taman Teknologi Cheng",
+  "postalCode": "75000",
+  "phone": "tel:06-3347136",
+  "venueHours": "\n                                                                                                        Mon 11:30am-9:00pm, Wed-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.257558,102.232847&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.257558,102.232847&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

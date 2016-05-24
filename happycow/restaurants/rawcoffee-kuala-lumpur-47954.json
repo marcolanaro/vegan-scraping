@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "RGB and The Bean Hive",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Take-out, Bakery, Fusion\n                                    ",
+  "description": "RAWcoffee moved out of Wisma Equity Building and rebranded as RGB & The Bean Hive. A coffee roastery and vegetarian cafe in a quiet area off Jalan Damai. Offers veggie wraps and sandwiches, various deli salads, baked goods and sweets including vegan ones. Has Wi-Fi and hosts movies and events.",
+  "priceRange": "Moderate",
+  "streetAddress": "35 Jalan Damai",
+  "postalCode": "50450",
+  "phone": "tel:+60-321811329",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/rathergoodbeans",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.164855,101.718885&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.164855,101.718885&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

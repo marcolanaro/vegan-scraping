@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Seoul National University Vegan Buffet ",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Korean\n                                    ",
+  "description": "All-you-can-eat lunch buffet at Seoul National University open to the public. Directions: Get off at Seoul National University station exit 3, take bus 5513 to 법대입구 (law department stop), walk up the small hill from bus stop, and the cafe is there.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Gwanak-ro, Gwanak-gu, Seoul, Asian Research Institute, Building 101",
+  "phone": "tel:2-8805114",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-1:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/seoulnatluniversity",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.489821,126.956640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.489821,126.956640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

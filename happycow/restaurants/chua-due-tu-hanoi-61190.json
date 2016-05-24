@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chua Due Tu ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Vietnamese\n                                    ",
+  "description": "Pagoda Duệ Tú, a eatery situated right next to a pagoda. Several dishes are available and you point at what you want to eat. Local place, no English. Large yard.",
+  "priceRange": "Inexpensive",
+  "streetAddress": " Duệ Tú Alley, Nguyen Khánh Toàn",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-9:00am, 11:00am-2:00am, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.035723,105.802330&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.035723,105.802330&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

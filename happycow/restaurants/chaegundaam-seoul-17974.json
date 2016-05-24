@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chaegundaam",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lunch and dinner with separate veg and non veg menu. The fixed menu is the only option for dinner, and once the dishes start coming, they keep coming. The meal essentially consists of a wide assortment (about 15-20) of Korean-style amuse-bouches, from salads, kimchi, and soups (cold and hot) to noodles and sweets. Plan on at least 90 minutes for a meal. Near the Creative Museum.",
+  "priceRange": "Expensive",
+  "streetAddress": "983 Ildong-building, Daechi-dong",
+  "phone": "tel:02-55591734",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.500420,127.064180&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.500420,127.064180&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

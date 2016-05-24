@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yes Natural F B",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Asian, Singaporean\n                                    ",
+  "description": "悦意坊 serves Singaporean Chinese cuisine. Wide selection of a la carte items. On the menu are mock sharkfin soup, tom yam soup, and yam basket. There is a set menu for 4,6,8 and 10 pax. Last order 30 minutes before closing.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "57 Lorong 27 Geylang",
+  "postalCode": "388184",
+  "phone": "tel:67411580",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.315952,103.883731&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.315952,103.883731&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Su Shih Yuan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Taiwanese, Buddhist\n                                    ",
+  "description": "Menu offers assorted hot and cold tea drinks, herbal teas, juices, set rice meal (comes with assorted veggies), noodles, sizzling plates, and hot pots; no egg used but mayonnaise has dairy. Cheap to moderate prices. Nice decor with air conditioning when hot. Small tables seat up to 4.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "163, Xiangshang North Road",
+  "phone": "tel:04-23017112",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.147649,120.662215&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.147649,120.662215&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

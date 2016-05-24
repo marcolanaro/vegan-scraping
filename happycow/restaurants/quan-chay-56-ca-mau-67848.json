@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Quan Chay 56",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Vietnamese\n                                    ",
+  "description": "A vegetarian restaurant serving Vietnamese food with plenty of vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "56 Ly Thuong Kiet, Phuong 7",
+  "phone": "tel:+84-7803827273",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.175337,105.152534&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.175337,105.152534&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

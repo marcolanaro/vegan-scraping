@@ -1,0 +1,19 @@
+{
+  "title": "bistRAWveg",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Raw, Western\n                                    ",
+  "description": "A tiny raw veg bistro in a shopping mall in the city centre.",
+  "priceRange": "Moderate",
+  "streetAddress": "Palachova 1404",
+  "postalCode": "46001",
+  "phone": "tel:739000739",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/bistRawVeg-LiberecPlaza-1565181287030238",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.768812,15.060047&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.768812,15.060047&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Vege Bistro",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out, Polish\n                                    ",
+  "description": "Vegan restaurant, opened Jun 2015. Offers traditional Polish food for lunch and dinner like pierogi plus other food like hummus, pancakes, cutlets, soups, salads, and changing flavors of cake. Simple setup.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kopernika 25",
+  "phone": "tel:572919043",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-7:00pm, Sat 12:00pm-8:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/VegeBistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.236464,21.020194&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.236464,21.020194&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

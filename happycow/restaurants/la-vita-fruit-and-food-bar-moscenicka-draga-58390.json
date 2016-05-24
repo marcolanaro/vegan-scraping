@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Vita Fruit and Food Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A juice bar and cafe. Has vegan smoothies. ",
+  "priceRange": "Moderate",
+  "streetAddress": "D66 20, 51417",
+  "phone": "tel:00385-911737295",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/La-Vita-bar/237965639635545",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.238254,14.255288&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.238254,14.255288&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

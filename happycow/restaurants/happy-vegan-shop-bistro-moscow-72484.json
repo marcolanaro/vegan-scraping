@@ -1,0 +1,14 @@
+{
+  "title": "Happy Vegan Shop Bistro",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food\n                                    ",
+  "description": "A small vegan bistro opened inside a vegan shop. Has only vegan menu; mostly fast food, desserts and drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Angelov Pereulok, 8",
+  "phone": "tel:+7-4957522060",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.853407,37.346247&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.853407,37.346247&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

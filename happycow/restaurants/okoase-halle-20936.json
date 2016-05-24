@@ -1,0 +1,15 @@
+{
+  "title": "Okoase",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Catering\n                                    ",
+  "description": "A vegetarian, friendly and smoke-free restaurant in the center of town. Offers catering.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kleine Ulrichstraße 2",
+  "postalCode": "06108",
+  "phone": "tel:0345-2901604",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-9:00pm, Sun 9:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.482166,11.965814&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.482166,11.965814&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

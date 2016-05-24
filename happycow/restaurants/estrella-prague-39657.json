@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Estrella",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Western, Czech\n                                    ",
+  "description": "Vegetarian food restaurant in the center of Prague. Prepares modern style dishes with seasonal ingredients and inspired by Czech specialties and international cuisine. Menu changes. Non-smoking. Established sine 2012.",
+  "priceRange": "Moderate",
+  "streetAddress": "Opatovicka 17",
+  "postalCode": "110 000",
+  "phone": "tel:+420-777431344",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/estrella.rest",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.079513,14.417989&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.079513,14.417989&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

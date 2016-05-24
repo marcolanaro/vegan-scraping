@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wise Beans",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small wholefood cafe located in Stokes Croft, since fall-2014. Has veggie items, almond milk for hot beverages.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Unit 1 Avonmead House, 40-48 Stokes Croft",
+  "postalCode": "BS1 3QD",
+  "phone": "tel:01179243682",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/wisebeans",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.461668,-2.590240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.461668,-2.590240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

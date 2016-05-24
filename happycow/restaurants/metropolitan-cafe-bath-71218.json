@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Metropolitan Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Take-out, Bakery, British, English\n                                    ",
+  "description": "Vegetarian cafe above the Bloomsbury store. Serves drinks, sweets and cakes, sandwiches and wraps. Ask what's vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "15 New Bond St",
+  "postalCode": "BA1 1BA",
+  "phone": "tel:01225482680",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-5:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.383130,-2.360709&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.383130,-2.360709&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

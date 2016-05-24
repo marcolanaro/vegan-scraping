@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bork",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Juice bar, Take-out, Persian, Iranian\n                                    ",
+  "description": "Vegetarian cafe, established 2014. Offers pasta, Persian cuisine, juices, espresso drinks and other beverage.",
+  "priceRange": "Moderate",
+  "streetAddress": "6, Abdi Nejad Alley, 16 Azar St, Keshavarz Blvd",
+  "phone": "tel:+98-2188985049",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-10:00pm, Sat 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/borkvegetarianfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.706084,51.391802&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.706084,51.391802&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

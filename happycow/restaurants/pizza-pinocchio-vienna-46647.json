@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pizza Pinocchio",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Italian, Fast food, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizza and pasta can be made vegan with vegan cheese and meat substitute.",
+  "priceRange": "Moderate",
+  "streetAddress": "Neustiftgasse 25",
+  "postalCode": "1070",
+  "phone": "tel:+431%209560673",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-3:00pm, 5:00pm-11:00pm, Sun 11:00am-3:00pm, 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Pizza-Pinocchio-Neustiftgasse/165977296798685",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.205239,16.352890&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.205239,16.352890&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

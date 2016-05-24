@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Superfood Organic Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Raw, Western, Juice bar, Take-out\n                                    ",
+  "description": "A small cafe that serves mostly raw food with raw cakes and sweets, juices, tea, and coffee. Some smoothies contain whey powder. Vegan options include 2 salads, some drinks and some smoothies. Situated in the tourist area within Germasogia district, since 2014. Confirmed open, Oct 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "79 Vasileos Georgiou A Anko seafront court",
+  "postalCode": "4047",
+  "phone": "tel:96363556",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-9:00pm, Sat-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/isuperfoodorganicbar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.697338,33.092770&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.697338,33.092770&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

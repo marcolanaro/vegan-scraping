@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "LeAnn Organic Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Malaysian\n                                    ",
+  "description": "Organic food 有机食物 without egg. Location also has a shop selling organic food.",
+  "priceRange": "Moderate",
+  "streetAddress": "143, Jln SS 2/24, SS2",
+  "postalCode": "47300",
+  "phone": "tel:03-78778621",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-8:30pm, Sat 10:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.115520,101.621684&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.115520,101.621684&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

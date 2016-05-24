@@ -1,0 +1,18 @@
+{
+  "title": "Vegalicious - Food Truck",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Fast food, Delivery, Take-out only\n                                    ",
+  "description": "Veggie food truck offering American food: burgers, hot dogs, tacos, desserts. Located at Aix-les-Milles on Monday and Wednesday, and at Saint-Paul-lès-Durance on Tuesday, Thursday and Friday. See website for precise location.",
+  "priceRange": "Moderate",
+  "streetAddress": "Zone d'activité Le Castellet",
+  "postalCode": "13115",
+  "phone": "tel:0678072383",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/vegalicious.truck",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.691161,5.724164&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.691161,5.724164&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

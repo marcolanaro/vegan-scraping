@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mama Sababa",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, International, Western, Laotian, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A sign outside advertises \"vegetarian food,\" and the choices are presented on one page of the menu. Some other non-veg dishes can be cooked veg or vegan, but you need to specify clearly. Has ground seating on the first floor, and one table with view on the sunset. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "South of Elephant Crossing",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.922588,102.445776&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.922588,102.445776&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Racionalni Vyziva",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Stocks gluten-free, vegetarian, vegan, and healthy food products. Has vegan cakes, buchteln, sandwiches, burgers, salty croissants, and pizza among other stuff (best days are Tue and Wed); oils, grains, plant milks, healthy sweets; a shelf of natural cosmetics. You can order a organic vegetables box with one week advance notice. Located in the northeast suburbs.",
+  "streetAddress": "Bryksova 775/41, Praha 14",
+  "postalCode": "19800",
+  "phone": "tel:+420-222-932847",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-7:30pm, Sat 9:00am-4:00pm, Sun 2:00pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.106671,14.580653&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.106671,14.580653&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

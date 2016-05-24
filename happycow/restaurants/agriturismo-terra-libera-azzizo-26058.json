@@ -1,0 +1,19 @@
+{
+  "title": "Agriturismo Terra Libera",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Organic, Beer/Wine\n                                    ",
+  "description": "Organic holiday farm located in the countryside 10 km from Lake Maggiore. Offers vegetarian hot meals. Seasonal herbal and flower preparations. Meal with drinks costs euro 30+.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Campi Lunghi 1, Via Rimembranze",
+  "postalCode": "21030",
+  "phone": "tel:346-2893392",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sun 8:00pm-11:30pm, Sat-Sun 12:30pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.836247,8.791286&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.836247,8.791286&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

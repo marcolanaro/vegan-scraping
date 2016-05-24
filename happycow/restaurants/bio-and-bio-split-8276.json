@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "bio&bio - Morpurgova",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic market with locations throughout Croatia as well an online shop. Offers a wide selection of certified organic products: vegetarian and vegan food, nutritional supplements, natural cosmetics, books, and more.",
+  "streetAddress": "Morpurgova poljana 2",
+  "phone": "tel:021343076",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/biobio.hr",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.508626,16.437343&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.508626,16.437343&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

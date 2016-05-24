@@ -1,0 +1,16 @@
+{
+  "title": "Ristorante Taverna Vegetariana",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Beer/Wine, Take-out\n                                    ",
+  "description": "A 15-minute walk from Vatican, the specialties of this tavern mainly consist of traditional Italian vegetarian cuisine. Oven cooked and not fried. Pasta and sweets made-in-house. Non-smoking. May order drinks around 7:30pm but the chef does not arrive until 7:40pm. Previously named Taverna Vegetariana L'insalatiera.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Trionfale 94",
+  "phone": "tel:06-39742975",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:30pm-3:00pm, 7:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.912930,12.451990&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.912930,12.451990&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

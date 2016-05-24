@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Terrassen Martinus Center",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Buffet, Salad bar, Danish\n                                    ",
+  "description": "Open seasonally, usually during the summer and on weekends outside of the holiday season. Restaurant with a connected cafe - part of The Martinus Center. Large garden. Has Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Klintvej 69",
+  "postalCode": "4500",
+  "phone": "tel:+45-59306280",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/MartinusCenter",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.948462,11.599721&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.948462,11.599721&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

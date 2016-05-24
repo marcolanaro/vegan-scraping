@@ -1,0 +1,13 @@
+{
+  "title": "Bio Space",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "2-floor organic supermarket selling a wide range of food and products. Fresh fruit and vegetable, baby food, cleaning products, toiletries, hairdresser, acupuncture, books, clothes, shoes, kitchen utensils.",
+  "streetAddress": "C/ Valencia 186",
+  "postalCode": "0801",
+  "phone": "tel:934531573",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-8:30pm, Sat 8:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.387870,2.156910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.387870,2.156910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

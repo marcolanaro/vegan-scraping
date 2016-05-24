@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Seminarhaus",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Vegetarian full board, optional vegan full board.",
+  "streetAddress": "Bei Burg Rastenberg",
+  "postalCode": "3532",
+  "phone": "tel:+43-02826312",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.558240,15.328700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.558240,15.328700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Blue Boy Vegetarian Food Centre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Malaysian\n                                    ",
+  "description": "蓝兒素食店 Kedai Kopi & Makanan Blue Boy Vegetarian. This centre houses some stalls selling vegetarian with Asian dishes such as char kway teow, assam laksa, curry mee, dry/soup noodles, popiah, laksa, cheecheong fun, tom yam, fried rice, yongtaufoo, curry puffs, etc. Also a dry goods shop. Feb 2016 reported the centre is still operating.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6001, Blue Boy Mansion, Jalan Tong Shin",
+  "postalCode": "50200",
+  "phone": "tel:016-6850498",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.144892,101.706146&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.144892,101.706146&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

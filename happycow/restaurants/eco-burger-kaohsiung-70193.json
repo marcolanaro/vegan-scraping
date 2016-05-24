@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eco Burger",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "愛客漢堡, at 高雄市左營區崇德路290號, is a vegetarian fast food and burger restaurant that opened in Aug 2015. Offers burgers, pasta, rice with side dishes like french fries, onion rings, nuggets, and hash browns. Also has vegan ice cream from Mori vegan (a vegan ice cream shop in Kaohsiung). Marks if dishes contain milk or egg. Some dishes can be made vegan but you have to say it when you order. Menu is in Chinese. 5-minute walk from Ecological District MRT station.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "290, Chongde Rd, Zuoying District",
+  "phone": "tel:073411433",
+  "venueHours": "\n                                                                                                        Mon 11:00am-10:00pm, Wed-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ECOxBURGER",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.676036,120.303429&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.676036,120.303429&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

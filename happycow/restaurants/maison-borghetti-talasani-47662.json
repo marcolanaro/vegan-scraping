@@ -1,0 +1,14 @@
+{
+  "title": "Maison Borghetti",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Non-veg bed & breakfast where you could ask for the vegetarian meal when you make your reservation. A meal costs around €33.",
+  "streetAddress": "Talasani Village, Corsica",
+  "postalCode": "20230",
+  "phone": "tel:+33-495385087",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.408607,9.479137&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.408607,9.479137&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

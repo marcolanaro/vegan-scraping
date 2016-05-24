@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Au Lac Vegetarian Restaurant - District 5 ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International\n                                    ",
+  "description": "Small clean place with friendly staff. English menu with pictures. Has vegan options. \r\n\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5 Tan Da Street, P 10 District 5",
+  "phone": "tel:0822126867",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.844023,106.773366&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.844023,106.773366&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

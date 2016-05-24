@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pattaya Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai\n                                    ",
+  "description": "Formerly Budatip-Health Station. Small open-air storefront managed for years by dedicated female buddhist monks. Public temple upstairs. Located opposite Mooks Residence just after Soi 7/1 off Chaloem Phrakiat. Go north on 3rd past Central Rd,'vegetarian food' sign hangs left-side, past right-side Carrefour turnoff.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "223/4, Moo 9, Third Rd",
+  "postalCode": "20150",
+  "phone": "tel:0870643342",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.939799,100.893888&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.939799,100.893888&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

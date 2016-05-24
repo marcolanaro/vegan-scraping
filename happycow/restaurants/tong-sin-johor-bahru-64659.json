@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tong Sin",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Fast food, Malaysian\n                                    ",
+  "description": "Economy rice with a variety of dishes. Also fried noodles.",
+  "priceRange": "Moderate",
+  "streetAddress": "58, Jalan Pinang",
+  "postalCode": "81000",
+  "phone": "tel:07-6633851",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-2:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.559897,103.760333&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.559897,103.760333&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

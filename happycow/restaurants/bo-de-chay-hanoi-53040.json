@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bo De Chay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Juice bar, Beer/Wine, Vietnamese\n                                    ",
+  "description": "A few steps in front leads you up to this spacious restaurant which is associated with Quan Su Temple next door. Offers mock meat and tofu dishes, some dairy like milk shakes, but most dishes seem vegan. Has Wi-Fi. Staff doesn't speak English, but English menu is available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "65 Quan Su, Quan Hoan Kiem",
+  "phone": "tel:0084-0-439420400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.023879,105.844827&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.023879,105.844827&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Manna",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Beer/Wine, European, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Deli cafe and restaurant on pedestrian street. Reported you will be able to find vegetarian food. Please let happycow know what the vegan options are!",
+  "priceRange": "Moderate",
+  "streetAddress": "Maria Theresien Strasse 3",
+  "postalCode": "6020",
+  "phone": "tel:+43-512560700%2020",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Manna-Delikatessen-Caf%C3%A9-Innsbruck/386865804673068",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.266815,11.393995&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.266815,11.393995&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

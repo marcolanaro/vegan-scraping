@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dieu Phap Chay",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "A simple place that offers a small menu of vegan Vietnamese food, primarily noodle based soups and spring rolls.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "303 Nam Ky Khoi Nghia, Q.3",
+  "phone": "tel:0905588998",
+  "venueHours": "\n                                                                                                        Mon-Thu 6:00am-9:00pm, Sat-Sun 6:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.790241,106.683598&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.790241,106.683598&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

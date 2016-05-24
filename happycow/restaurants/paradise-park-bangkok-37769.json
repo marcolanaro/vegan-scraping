@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Paradise Park - Food Stall",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Fast food, Take-out\n                                    ",
+  "description": "A small food stall in the Paradise Park mall that sells vegan food. Choose from a variety of daily dishes prepared in advance and sold in a cantine style. Very popular so the food is sold out by the afternoon.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Paradise Park Shopping Mall, Srinakarin Rd",
+  "postalCode": "10250",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.686886,100.647374&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.686886,100.647374&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

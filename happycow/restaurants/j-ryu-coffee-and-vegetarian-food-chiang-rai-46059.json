@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "J Ryu Coffee and Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai\n                                    ",
+  "description": "Casual, modern style cafe with free Wi-Fi opened in Sept 2013. Vegetarian and vegan food menu. Located one block east of super highway on left hand side (heading east).",
+  "priceRange": "Moderate",
+  "streetAddress": "843/16 Pao Khun Road",
+  "phone": "tel:0808518546",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/j.ryu.cr",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.910078,99.841789&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.910078,99.841789&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

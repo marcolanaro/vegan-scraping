@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zhou Ye Cottage",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Taiwanese\n                                    ",
+  "description": "Chinese name 卓也小屋, address 苗栗縣三義鄉雙潭村13鄰崩山下1-5號. A charming restaurant located at a countryside cottage with overnight accommodation. Many Taiwanese go to this region to get away for the weekend. The meal is prix fixe and includes around 7 small side dishes plus all-you-can-eat hot pot.",
+  "priceRange": "Expensive",
+  "streetAddress": "雙潭村13鄰崩山下1-5號",
+  "phone": "tel:03-7879198",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-2:00pm, 5:00pm-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.389806,120.795032&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.389806,120.795032&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

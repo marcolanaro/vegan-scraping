@@ -1,0 +1,17 @@
+{
+  "title": "Kleines Cafe Budapest",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cozy little cafe. Offers fair trade (GEPA) teas and organic beverages, usually a couple labeled vegan cakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Chemnitzer Str 9",
+  "postalCode": "44139",
+  "phone": "tel:+49-231142917",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-7:30pm, Sat-Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.508590,7.462906&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.508590,7.462906&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

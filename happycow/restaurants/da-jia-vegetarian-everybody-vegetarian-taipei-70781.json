@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Da Jia Vegetarian - Everybody Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Taiwanese\n                                    ",
+  "description": "Simple, home-style cooking such as noodles, rice, and dumplings. Menu is in Chinese. Has another outlet by Wanfang Hospital MRT station.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3, Cheqian Rd, Wenshan District",
+  "postalCode": "116",
+  "phone": "tel:29315281",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.991259,121.541114&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.991259,121.541114&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

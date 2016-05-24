@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Guanabana",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Juice bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American style smoothies cafe est. 2014. Also offers light food like salads. Uses whole fruit in smoothies. Has Wi-Fi. Please confirm if map marker is correct and let HappyCow know.",
+  "priceRange": "Moderate",
+  "streetAddress": "23 Ly Tu Trong Q1",
+  "phone": "tel:0909824830",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/guanabanasmoothies",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.780424,106.703551&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.780424,106.703551&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

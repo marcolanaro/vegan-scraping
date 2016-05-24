@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Su Sum Chinese and Thai Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Thai\n                                    ",
+  "description": "素心齋菜館 vegetarian restaurant uses egg, but you can request/remind the chef to exclude egg and dairy products. It also serves mixed rice in the afternoon for lunch.",
+  "priceRange": "Moderate",
+  "streetAddress": "58 Jalan Lau Pak Khuan, Ipoh Garden",
+  "postalCode": "31400",
+  "phone": "tel:05-5482015",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:30am-3:00pm, 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.611851,101.107571&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.611851,101.107571&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

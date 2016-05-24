@@ -1,0 +1,16 @@
+{
+  "title": "Hellinikon",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Mediterranean, Beer/Wine, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Oceanfront restaurant with terrace. Some vegetarian food on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "alley opposite Anchor",
+  "phone": "tel:+30-2684032351",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.285334,20.400501&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.285334,20.400501&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

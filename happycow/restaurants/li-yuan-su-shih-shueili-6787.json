@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Li Yuan Su Shih",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Taiwanese\n                                    ",
+  "description": "A low-key casual no decor place serving a good variety of noodle dishes, soups, and steam veggies. Try the ma-jong mien (sesame paste noodles). Sign in green letter denotes \"Su\" which means \"vegetarian.\" From Shueili train station walk straight ahead, pass bridge for a few blocks, and turn right on Bo Ai Street.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "BoAi Street",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.809100,120.873600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.809100,120.873600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

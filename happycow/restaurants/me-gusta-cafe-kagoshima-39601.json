@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Me Gusta Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small Mexican cafe in the Tenmonkan shopping area close to Starbucks coffe). Has vegetarian taco and wraps made with beans, salsa, and vegetables; freshly-cooked corn chips with salsa. Owner speaks some English, and it will be important to communicate that you don't want cheese and sour cream. Check the location on Google maps first, or ask someone in the mall for directions.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kagoshima City, Naka-cho, Yamasan biru 1F",
+  "phone": "tel:099-226-5807",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:00am-8:00pm, Thu-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/ME-GUSTA-CAFE/534033643308143",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.591910,130.555249&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.591910,130.555249&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

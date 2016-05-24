@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "GSY Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Indian\n                                    ",
+  "description": "Free Wi-Fi zone.",
+  "priceRange": "Moderate",
+  "streetAddress": "5, Jalan Helang, Gelugor",
+  "phone": "tel:04-6590932",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-3:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.350151,100.298182&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.350151,100.298182&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

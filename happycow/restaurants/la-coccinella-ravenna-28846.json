@@ -1,0 +1,15 @@
+{
+  "title": "Coccinella Bio",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Organic, Buffet, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan choices are pasta, cereals, seitan, salads, and cookies.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Faentina 63",
+  "postalCode": "48123",
+  "phone": "tel:+39-544463582",
+  "venueHours": "\n                                                                                                        Mon-Sat 6:30am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.422952,12.178224&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.422952,12.178224&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

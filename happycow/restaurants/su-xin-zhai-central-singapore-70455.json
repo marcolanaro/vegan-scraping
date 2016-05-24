@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Su Xin Zhai - Food Stall",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Fast food, Take-out\n                                    ",
+  "description": "素心斋 is a Taiwanese food stall. Serves cold noodle, ramen and herbal (angelica) vermicelli.\r\n\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 335 Smith St, Stall 02-123, Chinatown Complex",
+  "postalCode": "050335",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.281960,103.843462&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.281960,103.843462&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

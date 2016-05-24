@@ -1,0 +1,18 @@
+{
+  "title": "Genuino",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Organic, Fast food, Salad bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan dishes are clearly labeled. Uses seasonal ingredients.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Delle Beccherie 13",
+  "postalCode": "34100",
+  "phone": "tel:+39-0400640490",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-10:00pm, Sat 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.647968,13.766947&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.647968,13.766947&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

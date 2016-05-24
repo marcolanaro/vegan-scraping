@@ -1,0 +1,15 @@
+{
+  "title": "La Cuisine de Johanna",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Buffet, Catering\n                                    ",
+  "description": "A vegetarian buffet restaurant where you pay by weight. Has plenty of vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "44 Cours Anatole France",
+  "phone": "tel:05-56358103",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/lacuisinedejohannabordeaux",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.835535,-0.583783&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.835535,-0.583783&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

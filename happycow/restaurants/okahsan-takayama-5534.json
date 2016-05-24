@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Okahsan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic\n                                    ",
+  "description": "Offers lunch and dinner, made by the owner with organic vegetables and grains from Kyushu islands. At lunch a basic plate or full plate is offered for 10 people til 2pm - better to reserve a space. Try the vegan ramen, which is MSG free and sugar free. Dinner is by reservation only, for minimum 2 up to 10 guests. Japanese dictionary or phrase book will be a big help if visiting this place for lunch or dinner, since chefs don't speak English. Relocated from Yurakucho 46.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "46 Uramachi",
+  "postalCode": "506-0013",
+  "phone": "tel:+81-577351057",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-6:00pm, Sat-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.141780,137.257286&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.141780,137.257286&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

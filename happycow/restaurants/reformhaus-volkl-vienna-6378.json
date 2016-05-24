@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Reformhaus Volkl",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Buffet\n                                    ",
+  "description": "Reformhaus Völkl meals are served around 12noon. Has a yoghurt which isn't based on cowmilk-bacteria (yamato yoghurt). Also a bakery inside.",
+  "priceRange": "Moderate",
+  "streetAddress": "Landstrasser Hauptstr. 23",
+  "postalCode": "1030",
+  "phone": "tel:43-01714841913",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.204599,16.388444&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.204599,16.388444&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

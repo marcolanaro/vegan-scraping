@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "One Stop Restaurant Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Catering\n                                    ",
+  "description": "Vegetarian Chinese restaurant with an array of vegan options. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "10-1-1 Jalan Setia Prima Q U13Q",
+  "postalCode": "40170",
+  "phone": "tel:0166228118",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.102502,101.453790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.102502,101.453790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

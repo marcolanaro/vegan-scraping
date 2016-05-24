@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Boonsita Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Buffet, Buddhist\n                                    ",
+  "description": "Better to arrive early for more food options. Directions: from front entrance of the hospital walk 30m east to the right, and Boonsita is on the left. Look for the large banner with the owner's photo on it along with a number of jay (thai veg) signs. Pleasant, covered outdoor eating area, and there is a lawn right next to it.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sathan Payabarn Rd",
+  "phone": "tel:053-808377",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm, Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.901874,99.829179&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.901874,99.829179&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Makanan Sayur Sayuran",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Buffet, Fast food, Take-out\n                                    ",
+  "description": "丰盛素食 small vegetarian place in the bus terminal, mostly vegan. Chinese buffet style restaurant as is typical in this part of the world.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Stall 13 Bus Terminal, Jalan Jeti",
+  "postalCode": "86800",
+  "phone": "tel:0137996618",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 6:00am-11:00pm, Sat-Sun 6:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.430600,103.833584&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.430600,103.833584&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

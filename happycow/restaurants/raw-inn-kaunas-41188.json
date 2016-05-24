@@ -1,0 +1,18 @@
+{
+  "title": "Raw Inn",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Raw, Western\n                                    ",
+  "description": "Raw food restaurant, mostly vegan with the exceptions of dairy milk for coffee and honey in smoothies and desserts. Organizes health-related seminars.",
+  "priceRange": "Moderate",
+  "streetAddress": "Vilniaus Gatve 30-1",
+  "phone": "tel:+37065200360",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-10:00pm, Fri-Sat 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/RawOption",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.896362,23.892089&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.896362,23.892089&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natural Tabor",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western\n                                    ",
+  "description": "Two menus per day plus a selections of salads with plenty of vegan options. Entrance is on Prazska Street.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Strelnicka II 229",
+  "postalCode": "39001",
+  "phone": "tel:+420-381233700",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.413746,14.660835&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.413746,14.660835&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

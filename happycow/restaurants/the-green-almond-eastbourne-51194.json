@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Green Almond",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Catering, European\n                                    ",
+  "description": "Small vegetarian bistro, opened Aug 2014. Offers lunch plates and Friday/Saturday evening meal (booking required).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12 Grand Hotel Buildings, Compton Street",
+  "postalCode": "BN21 4JE",
+  "phone": "tel:01323-734470",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-4:00pm, Fri-Sat 7:00pm-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/thegreenalmond",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.760553,0.282619&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.760553,0.282619&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

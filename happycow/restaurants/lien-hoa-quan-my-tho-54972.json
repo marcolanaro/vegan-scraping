@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lien Hoa Quan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Vietnamese\n                                    ",
+  "description": "A 100% vegan restaurant opened early 2015, offers a broad variety of dishes including rice and noodles dishes, soups, spring rolls and hot pot. Dine in or take out. The room is bright and open to the street in front.",
+  "priceRange": "Moderate",
+  "streetAddress": "220 Tran Hung Dao, P 4",
+  "phone": "tel:073-3888579",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.356146,106.357028&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.356146,106.357028&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

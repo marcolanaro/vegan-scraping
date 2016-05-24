@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Iki Laboratory",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Organic, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Despite Hokkaido being a land of many farms, it's difficult to find pure vegetarian food in Sapporo.  This restaurant is located in the basement of a building on the north side of the \"Minami 1 Nishi 5\" block, southwest of Sapporo Station. The vibe is very Japanese with traditional wooden floor seating. The menu features organic vegetable dishes plus soy meat versions of Japanese katsu pork cutlets and kara-age chicken nuggets. Vegan dishes and vegan desserts are the kitchen's specialty. Has brown rice. Menu available in English, and staff speak some English. Also hosts cooking classes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Minami 1 Nishi 5 , B1F Shikishima S1 Bldg",
+  "postalCode": "060-0061",
+  "phone": "tel:011-2116145",
+  "venueHours": "\n                                                                                                        Mon-Sat 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ikilab.en",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.058400,141.349840&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.058400,141.349840&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

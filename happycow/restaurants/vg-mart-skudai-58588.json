@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "VG Mart",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Malaysian\n                                    ",
+  "description": "绿源疏食站 serves a variety of rice and porridge dishes, dim sum, noodles, and curry. Last order 9:45pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Jalan Bestari 1/2, Taman Nusa Bestari, Nusajaya",
+  "postalCode": "79150",
+  "phone": "tel:60-7-2447828",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/VG-mart-绿源疏食站/120585924668892",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.480017,103.665463&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.480017,103.665463&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

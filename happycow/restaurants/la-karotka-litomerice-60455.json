@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Karotka",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Delivery, Take-out\n                                    ",
+  "description": "Vegetarian restaurant and guesthouse, opened Nov 2014. Offers a separate mid-day and lunchtime menus, both with a variety of dishes such as stew, pasta, salads, curry, hummus and pita. Many gluten-free options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Velka Dominikanska 99/17",
+  "postalCode": "41201",
+  "phone": "tel:+420-777655140",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/LaKarotka",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.534585,14.135313&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.534585,14.135313&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

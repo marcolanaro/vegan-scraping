@@ -1,0 +1,13 @@
+{
+  "title": "Satoriz",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store chain.",
+  "streetAddress": "ZI Départementale 4",
+  "postalCode": "38200",
+  "phone": "tel:0474168312",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.559805,4.847591&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.559805,4.847591&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

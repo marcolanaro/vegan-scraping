@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mums Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Organic, Take-out, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lunch place in inner city Copenhagen offering fresh, seasonal menus. Daily veggie soups, salads, and sandwiches.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kompagnistraede 31",
+  "postalCode": "1208",
+  "phone": "tel:+45-88877031",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/mums31",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.676702,12.574632&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.676702,12.574632&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

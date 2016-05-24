@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ihei",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Specials includes black or white soybeans cooked into tofu, tempura vegetables, pickled vegetables, and three different forms of tofu. Some English spoken. Address in Japanese: 京都府京都市東山区清水3-342.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shimizu-ku, Kyoto Higashiyama 3-342",
+  "phone": "tel:0755313015",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.997930,135.781070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.997930,135.781070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

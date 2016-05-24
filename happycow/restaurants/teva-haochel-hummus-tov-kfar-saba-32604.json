@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Teva Ha'ochel - Hummus Tov",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Mediterranean, Delivery, Take-out, Israeli\n                                    ",
+  "description": "Vegan, home-style cooking with changing dishes, such as goulash, beans, hummus, falafel and soy product. Est. 2012 and became all vegan in 2015 (same owner).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "50 Rothschild",
+  "postalCode": "44449",
+  "phone": "tel:0774504201",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:30am-5:00pm, Fri 8:30am-4:00pm, Sun 8:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/hummustov",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.174994,34.908406&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.174994,34.908406&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

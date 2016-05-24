@@ -1,0 +1,18 @@
+{
+  "title": "Kai's Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Fast food, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria that also offers vegan pizza with tofu and vegan cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Fritz-Erler-Straße 1-3",
+  "postalCode": "76133",
+  "phone": "tel:0721373734",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.008713,8.410207&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.008713,8.410207&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

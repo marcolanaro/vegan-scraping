@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Indian Chaat",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out, Indo-Chinese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Formerly a vegetarian restaurant but added meat in addition to a vegetarian menu. Also an outlet in Silom and one in Narathiwas.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "59/4, Sukhumvit Soi 23, Klongtoey, Sukhumvit",
+  "postalCode": "10110",
+  "phone": "tel:02-2597900",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.738486,100.564718&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.738486,100.564718&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

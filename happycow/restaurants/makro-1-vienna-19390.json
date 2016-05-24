@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Makro 1",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out, Austrian\n                                    ",
+  "description": "Little restaurant and shop with a garden hidden in a court off the street. Serves an organic vegan menu daily as well as cakes. Food is served 11:30am-2:30pm. Non-smoking. Note that the shop sells both vegan as well vegetarian products. Originally established 1982.",
+  "priceRange": "Expensive",
+  "streetAddress": "Fleischmarkt 16 im Hof",
+  "postalCode": "1010",
+  "phone": "tel:+43-15131947",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/makro-1/280563265289253",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.210700,16.376630&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.210700,16.376630&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

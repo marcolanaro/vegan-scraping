@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sarmale Romanian Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Buffet, Beer/Wine, Romanian, Eastern European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Dinner includes vegetarian choices like cheese or mushroom sarmale (cabbage rolls), vegetable soup, salad, and bean dip. Weekend lunch buffet is not vegetarian. Features gypsy dance twice a month and various other Romanian cultural events. Subway Higashiyama line, Shin Sakae station, walk 2 minutes walk from exit 2.",
+  "priceRange": "Expensive",
+  "streetAddress": "Aichi, Nagoya shi, Aoi 1-16-28",
+  "phone": "tel:052-935-8877",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-2:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/SARMALE.Romanian.Restaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.175873,136.918133&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.175873,136.918133&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saravanaa Bhojan Shala",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "Indian pure vegetarian restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "Al Khan",
+  "phone": "tel:0097165266066",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Saravanaa-Bhojan-Shala/1423863167906123?sk=timeline&ref=page_internal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.331944,55.358889&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.331944,55.358889&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

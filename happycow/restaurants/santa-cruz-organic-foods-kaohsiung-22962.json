@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Santa Cruz Organic Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Santa Cruz International is Taiwan's largest organic food importer/distributor and was acquired by the owner 7-Eleven convenience stores on Taiwan to establish a chain of organic food stores here. This branch is the size of a convenience store, mainly carrying packaged health and organic foods (local and imported). Juices, nuts, grains, pasta, beans, seaweed, snacks, tofu, sauces, seasonings, and food-based nutritional supplements. A small selection of fresh organic produce is available. Note: although the street sign actually gives road name as \"CingNian\", the Pinyin spelling \"QingNian\" is given here to work with Google Maps.",
+  "streetAddress": "183-1, QingNian 1st Rd",
+  "postalCode": "800",
+  "phone": "tel:07-5378901",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.621521,120.307123&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.621521,120.307123&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

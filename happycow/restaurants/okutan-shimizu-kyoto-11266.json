@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Okutan Kiyomizu",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A 200 yr old famous tofu restaurant. Yudofu set meal cost Y3,150; traditional tofu meal Y4,200. Address in Japanese: 京 都市 东山 区 清水 3-340. Reported to use fish sauce for the sauce which is served separate. Serves vegan hot boiled Tofu dishes (Not Tofu Shojin Ryori).",
+  "priceRange": "Expensive",
+  "streetAddress": "3-340 Kiyomizu, Higashiyama-ku",
+  "phone": "tel:075-525-2051",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 10:30am-5:00pm, Fri-Sun 10:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.994635,135.782195&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.994635,135.782195&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

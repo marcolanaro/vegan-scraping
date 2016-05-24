@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tien Ran Fo",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Taiwanese\n                                    ",
+  "description": "Natural Buddha Vegetarian Restaurant. Address in Chinese: 台北市中山區錦州街411號1樓.",
+  "priceRange": "Moderate",
+  "streetAddress": "411, Jin Zhou Jie",
+  "phone": "tel:02-2501-8887",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.060360,121.541650&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.060360,121.541650&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

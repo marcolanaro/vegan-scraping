@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natural Food Store Farm",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located on the second floor of an organic health store is a cozy and inviting little lunch spot called The Farm. Serves two vegan lunch sets: Vegetable curry with brown rice and a small salad or vegetable deli sampler plate served with miso soup and brown rice. Home-style food of seasonal vegetables and a dessert (strawberry soy smoothie).  An English menu card is available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-18-1 Kego, Chuo-ku",
+  "phone": "tel:092-716-9200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-3:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.584844,130.391090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.584844,130.391090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

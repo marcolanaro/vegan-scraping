@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Den Go'e Fe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Beer/Wine\n                                    ",
+  "description": "A vegetarian restaurant serves soup of the day, vegetable pie, pancakes with vegetarian filling, bread, cake, organic coffee, hot chocolate or tea with vegan options. Beer, wine and soda is local.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nygade 28",
+  "postalCode": "8600",
+  "phone": "tel:+45-86813344",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.167007,9.546467&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.167007,9.546467&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

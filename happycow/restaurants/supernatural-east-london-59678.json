@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "supernatural",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice and smoothie bar. Uses organic, locally sourced and sustainable ingredients. Delivers. Vegan except for whey protein.",
+  "streetAddress": "Unit 4, Canary Wharf Underground Station",
+  "postalCode": "E14 4HJ",
+  "phone": "tel:02075196067",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:30am-9:00pm, Sat-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.500897,-0.022566&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.500897,-0.022566&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

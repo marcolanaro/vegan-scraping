@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Li Li Fruit Store",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Also known to other foreigners as Lily's, a nostalgic store established since 1947 and is known for its fresh fruit, fruit drinks, and shaved ice (some contain condensed milk). Opposite Confucius temple.",
+  "streetAddress": "199, Sec. 1, Fucyan Rd, West Central District",
+  "phone": "tel:06-2137522",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.990486,120.197501&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.990486,120.197501&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

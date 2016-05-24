@@ -1,0 +1,15 @@
+{
+  "title": "Art Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Take-out, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers 2 vegan dishes on the menu: a falafel hummus baguette and a marinated tofu baguette. A few other snack foods are vegan also. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "14 New Road",
+  "postalCode": "OX1 1LT",
+  "phone": "tel:01865-242464",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-7:00pm, Sun 8:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.751714,-1.260779&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.751714,-1.260779&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

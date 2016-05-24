@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Little-Heaven",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Japanese, Organic, Western, Beer/Wine, Fusion\n                                    ",
+  "description": "Must call to reserve at least 3+ days ahead as it's not always open. Upscale vegan restaurant minutes from Katabiranotsuji station on the Arashiyama line, or 10 minutes from Uzumasa station on Sanin line. Offers a lunch set consisting of seasonal vegetables of Kyoto, traditional dried soymilk skin, and wheat gluten. Has vegetable sushi course. Dessert costs extra.",
+  "priceRange": "Expensive",
+  "streetAddress": "8-29 Saganohirakichou, Ukyo",
+  "postalCode": "616-8313",
+  "phone": "tel:0757772500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/LITTLEHEAVEN55",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.014552,135.698824&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.014552,135.698824&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

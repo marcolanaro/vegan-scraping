@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "VT Six Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, International, Beer/Wine\n                                    ",
+  "description": "Located next to the Central Festival Mall on Second Road, this restaurant has a nice atmosphere with good service at reasonable prices. Take-out, delivery, free Wi-Fi, music, air-conditioning. Located in the ground floor or first floor of High View Talay Beach Condo building. The condo is just south from Central Festival Mall and you get there from 2nd Pattaya Road side. Previously named Vegetarian Paradise Indian Restaurant. Confirmed open Oct 2014, however the space is smaller and the door reads Luxury Room for Rent.",
+  "priceRange": "Moderate",
+  "streetAddress": "243/36 Moo-10, pattaya, Thailand ",
+  "postalCode": "20150",
+  "phone": "tel:038-412494",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.933860,100.883074&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.933860,100.883074&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

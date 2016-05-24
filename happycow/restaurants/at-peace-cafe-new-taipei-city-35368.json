@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "at Peace Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Organic, Western, Take-out, Bakery, Fusion\n                                    ",
+  "description": "@ Peace Cafe aka 愛在創意快餐, at 新北市新店區金興路40號, opened in Xindian 2010. Makes vegan food and baked goods and sells fresh organic produce. Small space, bright with natural lighting. Owners speak English. Directions: take MRT to Xindian Station, then take bus of Green 3 line to Garden city community.",
+  "priceRange": "Moderate",
+  "streetAddress": "40, Jin Xing Rd, Xindian District",
+  "postalCode": "23152",
+  "phone": "tel:02-26660887",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/bio.atpeace.cafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.932062,121.552715&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.932062,121.552715&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

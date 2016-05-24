@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wanida Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Outside restaurant, just north of the Alcazar's parking lot. Has separate vegetarian menu with 40+ entries. Open late. Confirmed open, Dec 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "78/14 Moo 9 Pattaya 2 Road",
+  "postalCode": "20260",
+  "phone": "tel:081-3406312",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30pm-3:30am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.944401,100.888945&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.944401,100.888945&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

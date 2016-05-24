@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Curly  KaleCafe",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Pop-up service showing up at venues around and about town - check its webpage latest events. Established Jun 2014.",
+  "streetAddress": "Cambridge areas",
+  "phone": "tel:07732113680",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Curly-Kale-Cafe/909099172448968",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.216592,0.147738&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.216592,0.147738&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Panettone",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, International, Western, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Quick service, casual cafe offering breads, breakfast food, sandwiches, and meals. Menu has 2 pages of vegetarian food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Unit 7B, Level 1, Stesen Sentral",
+  "postalCode": "50470",
+  "phone": "tel:+60%203-22798733",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-9:00pm, Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Panettone-Restaurant-KL-Malaysia/206367166060564",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.133822,101.687069&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.133822,101.687069&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

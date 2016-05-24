@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Market - Dizengoff",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Take-out\n                                    ",
+  "description": "This branch opened early-2015. Offers seasonal house-made vegan food like stews, soups, sandwiches, salads. Saturday's opening time is one hour after shabbat.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "140 Dizengoff St",
+  "phone": "tel:03-5525808",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-12:00am, Fri 12:00pm-5:00pm, Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.082430,34.773901&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.082430,34.773901&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

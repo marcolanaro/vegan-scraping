@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Corner Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a separate vegetarian menu (in English) with many vegan options such as hummus, eggplant, pizzas, and salads. Quaint little place is right near the Hagia Sophia, Blue Mosque, and the Cistern. Mostly outdoor/patio seating. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Alemdar Cad Caferiye Sok, Unit 14, Sultanahmet",
+  "postalCode": "94572",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.009439,28.979208&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.009439,28.979208&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

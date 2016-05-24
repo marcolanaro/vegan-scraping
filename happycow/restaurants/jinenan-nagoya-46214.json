@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jinenan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Macrobiotic\n                                    ",
+  "description": "A very small restaurant near Irinaka subway station on the Tsurumai line. You have two choices - lunch with dessert, or lunch without dessert. Guests are expected to remove shoes at the door, and only chopsticks are offered as utensil (no forks). Everything is written in Japanese, and the owner speaks only Japanese. Evening reservations for 4 or more people is possible (call). Directions: take Exit 1 and walk towards Seirei (Holy Spirit) Hospital, stay on the same side as the hospital, and restaurant is after Takigawamachi intersection, the restaurant name is written in kanji (自然庵).",
+  "priceRange": "Moderate",
+  "streetAddress": "Iki iki Gaaden, Kawanayama Biru, 51-1 Kawanayama-machi, Showa-ku",
+  "postalCode": "466-0827",
+  "phone": "tel:052-832-0881",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.145594,136.959337&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.145594,136.959337&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

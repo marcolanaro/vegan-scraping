@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wai Kika Moo Kau",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Western, Beer/Wine, English\n                                    ",
+  "description": "Vegetarian and vegan eatery serving breakfast, lunch, and desserts. Pronunciation of name is \"Why kick a moo cow.\"",
+  "priceRange": "Moderate",
+  "streetAddress": "11a Kensington Gardens",
+  "postalCode": "BN1 4AL",
+  "phone": "tel:01273-671117",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-5:00pm, Fri-Sat 9:00am-9:00pm, Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Wai-Kika-Moo-Kau-Appreciation-Page/269340037926",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.826490,-0.138600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.826490,-0.138600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

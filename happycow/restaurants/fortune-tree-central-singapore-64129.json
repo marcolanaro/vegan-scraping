@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fortune Tree Vegetarian Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "Stall operating at S-11 Food Court in Bishan since Oct 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 504, Bishan St 11",
+  "postalCode": "570504",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon 7:00am-8:00pm, Wed-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.349288,103.848480&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.349288,103.848480&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

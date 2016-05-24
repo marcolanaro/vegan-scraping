@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Detox Juice Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Wheat grass, aloe vera, fresh squeezed juices.",
+  "streetAddress": "310/131 Moo 1 Thepkrasattree Rd, Thalang",
+  "postalCode": "83110",
+  "phone": "tel:0848444504",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.031667,98.333889&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.031667,98.333889&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

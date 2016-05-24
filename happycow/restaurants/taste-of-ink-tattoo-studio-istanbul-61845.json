@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Taste of Ink Tattoo Studio",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "Tattoo shop using only vegan & cruelty-free products.",
+  "streetAddress": "Osmanaga mah. Serasker cad. 51, d:3 Kadikoy, Serasker St 51 Dikmen apt. floor 3 Kadikoy",
+  "postalCode": "34710",
+  "phone": "tel:+905073371174",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "fb": "http://www.facebook.com/xtasteofinkx",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.989583,29.027492&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.989583,29.027492&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

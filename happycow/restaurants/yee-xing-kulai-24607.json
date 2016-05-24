@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yee Xing",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "益心 is a simple place without air conditioning but comfortable environment. Dec 2015 reported still operating.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "58 ,Jalan Pinang ,Taman Kota Kulai",
+  "postalCode": "81000",
+  "phone": "tel:+6076633851",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-2:00pm, 6:30pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.668512,103.581843&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.668512,103.581843&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

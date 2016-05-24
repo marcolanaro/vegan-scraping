@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saigon Vegan - Bui Vien",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Vietnamese\n                                    ",
+  "description": "Vegetarian restaurant whose owner has been vegan since 1985. Located on a major street among many hostels and restaurants in the backpacker area. Offers an extensive all-vegan food menu, and serves coffee and other drinks. The only non-vegan item is cow milk option. Wi-Fi available.",
+  "priceRange": "Moderate",
+  "streetAddress": "240 Bui Vien",
+  "phone": "tel:08-38372686",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.765944,106.690843&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.765944,106.690843&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

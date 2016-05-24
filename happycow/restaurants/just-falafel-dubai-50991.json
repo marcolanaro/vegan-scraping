@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Just Falafel - Ibn Battuta Mall",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise chain was originally veg but added meat to its menu. Offers falafel sandwiches in different international flavors. Dairy and cheese is used, so vegans need to specify.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ibn Battuta Mall, Food Court",
+  "phone": "tel:04-4517676",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/justfalafel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.044554,55.120264&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.044554,55.120264&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

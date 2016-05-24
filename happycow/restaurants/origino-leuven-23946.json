@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Origin'O",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Chain of medium-sized organic supermarkets. Stocks a wide range of vegetarian and vegan food, including fresh fruit and vegetables. non-dairy milks, soups, spreads, meat substitutes such as tofu, tempeh, and seitan.",
+  "streetAddress": "Craenendonck 5",
+  "postalCode": "3000",
+  "phone": "tel:016236718",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:30pm, Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/OriginO/193668313787",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.881469,4.698968&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.881469,4.698968&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

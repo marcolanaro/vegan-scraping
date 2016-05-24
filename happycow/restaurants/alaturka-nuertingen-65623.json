@@ -1,0 +1,19 @@
+{
+  "title": "Alaturka",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Fast food, Take-out, Middle Eastern, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Turkish Imbiss centrally located, serves a range of vegan meals, freshly prepared. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Bahnhofstr 4/1",
+  "postalCode": "72622",
+  "phone": "tel:07022-2165757",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-9:00pm, Fri-Sat 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.626788,9.342113&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.626788,9.342113&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

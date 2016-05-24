@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tuptim Siam",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai food restaurant across the road from the seafront. Menu marks the veg-suitable dishes, offers curry and stir frys with tofu. Could ask to omit egg in the pad Thai noodle. Specify if vegan/veg and say no fish sauce. Try the crispy tofu starter which can also be add to a main entree.",
+  "priceRange": "Moderate",
+  "streetAddress": "6/7 The Esplanade",
+  "postalCode": "PO21 1TR",
+  "phone": "tel:01243862525",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 6:00pm-10:00pm, Wed-Sun 12:00pm-2:00pm, Fri-Sat 6:00pm-10:30pm, Sun 6:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Tuptim-Siam/150598868307411",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.780951,-0.678597&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.780951,-0.678597&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

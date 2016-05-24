@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Heart-Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, International, Western, Take-out\n                                    ",
+  "description": "Small place serving organic food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Domgasse 10",
+  "postalCode": "A-4020",
+  "phone": "tel:+43-67761294047",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.305468,14.288193&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.305468,14.288193&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

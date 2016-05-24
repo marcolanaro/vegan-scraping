@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tom Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Western, Take-out, Catering, Swiss, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan choices, so vegans please inquire. Vegetables are grown in the front garden.  Try the meat-free curry. Owner is Swiss and a long time resident of Takayama. He speaks German, English and Japanese. Located 10 minutes from the Takayama station.",
+  "priceRange": "Moderate",
+  "streetAddress": "Showa-cho 1-188-1",
+  "phone": "tel:0577338333",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TomCafe-212852585405453",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.140216,137.248537&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.140216,137.248537&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

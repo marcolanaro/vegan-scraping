@@ -1,0 +1,13 @@
+{
+  "title": "Basic Berlin-Zehlendorf",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic supermarket with many vegan items (marked with a green V), including plant milk, yoghurt, cheese, and tofu. Bakery and bistro opens at 7am.",
+  "streetAddress": "Breisgauer Straße 17 ",
+  "postalCode": "14129",
+  "phone": "tel:3080197970",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.437130,13.216450&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.437130,13.216450&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

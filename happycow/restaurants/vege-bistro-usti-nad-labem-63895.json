@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Bistro Cekarna",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Buffet, Take-out, Czech\n                                    ",
+  "description": "A 100% vegetarian/vegan restaurant with plenty of gluten free items. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "U Nadrazi 1300/1",
+  "postalCode": "40001",
+  "phone": "tel:+420-735088151",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BistroCekarna  ",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.660319,14.044818&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.660319,14.044818&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

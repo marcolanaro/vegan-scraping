@@ -1,0 +1,19 @@
+{
+  "title": "Troand",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Western, Beer/Wine, Fusion\n                                    ",
+  "description": "Simple design cafe and restaurant in an old convent. Could make something vegan when requested.",
+  "priceRange": "Expensive",
+  "streetAddress": "Klosterstraße 10",
+  "postalCode": "97292",
+  "phone": "tel:+49-9369983850",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 3:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.780170,9.680600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.780170,9.680600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

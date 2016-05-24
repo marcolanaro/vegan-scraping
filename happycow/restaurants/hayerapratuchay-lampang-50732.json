@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hayerapratuchay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Buffet, Take-out\n                                    ",
+  "description": "A vegetarian buffet restaurant where you can order from the menu or choose from the buffet (around 6 different dishes with rice). Some prepackaged food are also sold like TVP, noodles and frozen mock-meat.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "115/3 Prisnee Road",
+  "phone": "tel:05-4322841",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.288046,99.503566&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.288046,99.503566&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

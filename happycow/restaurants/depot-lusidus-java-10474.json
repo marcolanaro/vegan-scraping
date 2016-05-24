@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Depot Lusidus",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Chinese, Buffet, Fast food\n                                    ",
+  "description": "Vegetarian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Pusat Pertokoan Babarsari 21, Yogyakarta",
+  "postalCode": "55281",
+  "phone": "tel:+62-274-4332575",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-7.327240,109.901280&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-7.327240,109.901280&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,16 @@
+{
+  "title": "The East Coast Diner",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Pizza, International, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers vegan pizzas, burgers and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Church St",
+  "postalCode": "IP12 1DH",
+  "phone": "tel:+44-1394389076",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TheEastCoastDiner",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.092502,1.316307&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.092502,1.316307&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

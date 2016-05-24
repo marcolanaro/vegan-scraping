@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fine Juicy Kitchen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Buffet, Take-out\n                                    ",
+  "description": "Has ordering menu available til 4pm, plus buffet food. Red and white rice, mock meats. Try the cinnamon soup. No Wi-Fi. Look for large yellow sign with red letters on left hand side of one way street, after Soi si Chan 8. Owner is a long time vegan. She and her staff speak a few basic words of English.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sichan Rd",
+  "phone": "tel:987654321",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.606378,102.112597&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.606378,102.112597&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

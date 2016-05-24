@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ren Kost and Krop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Ren Kost and Krop (pure diet and body) is a large organic grocery store with an extensive variety of vegan and gluten free products. Carries nature-friendly cosmetics and skin care products. Open in the 1970s.",
+  "streetAddress": "Jaegergardsgade 43-45",
+  "postalCode": "8000",
+  "phone": "tel:86195999",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-6:00pm, Fri 9:30am-7:00pm, Sat 9:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.148179,10.199464&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.148179,10.199464&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

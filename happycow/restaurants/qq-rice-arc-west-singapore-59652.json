@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "QQ Rice - ARC",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Japanese, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise fast service shop selling whole grain rice rolls with different fillings including beans, mock meats, mushroom, and vegetables.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "460 Alexandra Rd, Alexandra Retail Centre, Unit 01-12",
+  "postalCode": "119963",
+  "phone": "tel:6271-9584",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat-Sun 9:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/qqrice.sg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.273773,103.801357&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.273773,103.801357&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

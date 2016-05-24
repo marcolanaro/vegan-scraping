@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kafe De Mahametta",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "慈心坊 serves Chinese vegetarian food.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "74A, Jalan Aman Perdana 1D/KU 5 ,Taman Aman Perdana",
+  "postalCode": "41050",
+  "phone": "tel:012-3713643/,%20019-4509018",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.110825,101.411500&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.110825,101.411500&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

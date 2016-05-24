@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tenat",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Ethiopian, African\n                                    ",
+  "description": "Vegan restaurant serving Ethiopian cuisine, since 2013. Mellow vibe with music played including Ethiopian and jazz. A jazz ensemble performs Monday nights 8:30-11pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Chlenov 27",
+  "phone": "tel:0547499538",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-11:00pm, Fri 11:00am-5:00pm, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/tenatvegan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.057135,34.774808&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.057135,34.774808&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

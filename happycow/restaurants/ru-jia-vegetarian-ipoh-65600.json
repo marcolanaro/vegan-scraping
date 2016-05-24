@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ru Jia Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "如家素食馆 veggie food. Makes a variety of buns.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "N682 Lorong 4, Bercham",
+  "postalCode": "31400",
+  "phone": "tel:175073302",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.624422,101.149956&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.624422,101.149956&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

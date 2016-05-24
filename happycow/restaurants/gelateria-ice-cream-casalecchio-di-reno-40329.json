@@ -1,0 +1,15 @@
+{
+  "title": "Gelateria Ice Cream",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Serves dairy and vegan ice creams and gelato and semifreddos.",
+  "streetAddress": "Via Bazzanese, 11/6",
+  "postalCode": "40033",
+  "phone": "tel:051-575519",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:30pm-11:00pm, Sun 12:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.479633,11.269352&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.479633,11.269352&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

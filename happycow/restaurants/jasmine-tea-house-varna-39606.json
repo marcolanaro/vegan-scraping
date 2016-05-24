@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jasmine Tea House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Juice bar, Bulgarian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant and tea house, established in Feb 2013. Large menu of beverages. Food is mostly vegetarian, some fish. The decorations of Hindu paintings and ambient music induce a very relaxed atmosphere. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "26, Petko Karavelov Str.",
+  "phone": "tel:0884022122",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Jasmine-Tea-House-Жасмин-Тий-Хаус-/131406497030295",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.206738,27.922419&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.206738,27.922419&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Merrymomo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Macrobiotic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Macrobiotic cafe at 〒532-0011 大阪府大阪市淀川区西中島6-8-8. Offers an inexpensive vegan lunch set from 11am-2pm. Has other veg items, and staff is aware of vegan requirements.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Osaka",
+  "phone": "tel:06-63007972",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.727875,135.494879&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.727875,135.494879&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

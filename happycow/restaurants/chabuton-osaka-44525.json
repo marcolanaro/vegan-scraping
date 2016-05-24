@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chabuton",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This ramen restaurant also offer a vegetable-only ramen as well vegetable gyoza. Expect to wait as it can be busy, especially on weekends. Tickets are purchased from a vending machine. Has English menu. Apr 2014 reported uses fish stock in the vegetable ramen - please ask the kitchen to use vegetable broth.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8F, 1-1 Ofukacho, Kita Ward, Umeda",
+  "phone": "tel:06-6292-9734",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.704788,135.496866&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.704788,135.496866&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

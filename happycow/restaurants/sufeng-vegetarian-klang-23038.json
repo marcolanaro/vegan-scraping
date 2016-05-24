@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sufeng Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "淑芳齊素食館 vegetarian Chinese food.",
+  "priceRange": "Moderate",
+  "streetAddress": "8 Jalan Dato Yusof Shahbudin 28, Taman Sentosa",
+  "postalCode": "41200",
+  "phone": "tel:03-51625678",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.010215,101.465040&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.010215,101.465040&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kuai Le Zhai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "快乐斋 serves vegetarian version of local food. On the menu are curry noodle, wanton noodle, Assam fish.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "16, Jalan Sutera, Taman Sentosa",
+  "postalCode": "80150",
+  "phone": "tel:016-7389496",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.493019,103.770784&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.493019,103.770784&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

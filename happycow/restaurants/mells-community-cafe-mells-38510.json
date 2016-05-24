@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mells Community Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small village cafe, part of the shop, that offers the usual fare of quiches, salads, sandwiches and cakes, plus cream teas. Whenever possible uses produce from village. Most salads are vegan and freshly made-in-house. Vegans ask for the salad platter and for a small group a vegan main course will be prepared.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Selwood Street",
+  "postalCode": "BA113PF",
+  "phone": "tel:01373-812251",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-5:00pm, Sat-Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.240012,-2.387895&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.240012,-2.387895&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

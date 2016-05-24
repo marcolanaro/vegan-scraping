@@ -1,0 +1,13 @@
+{
+  "title": "Satoriz",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store chain.",
+  "streetAddress": "1115 chemin de la Cassine",
+  "postalCode": "73200",
+  "phone": "tel:0479323571",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:30am-7:00pm, Fri-Sat 8:30am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.656557,6.370719&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.656557,6.370719&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

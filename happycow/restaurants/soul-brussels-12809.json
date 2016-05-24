@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soul",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, International, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small and charming restaurant run by two Finnish sisters in Brussels' Sablon quarter serving organic fusion food containing no cow's milk or cream, white sugar, wheat, gluten, or additives. Smoke-free.",
+  "priceRange": "Expensive",
+  "streetAddress": "20 rue de la Samaritaine",
+  "postalCode": "1000",
+  "phone": "tel:02-25135213",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 7:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/soulresto",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.840570,4.352600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.840570,4.352600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

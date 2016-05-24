@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "May Kaidee Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Fast food, Take-out\n                                    ",
+  "description": "Chiang Mai vegetarian restaurant offering vegan-friendly meals and cooking classes. Sits 1 block north of Ratchawithi  Road, near Sumit hotel. Mar 2016 reported still operating.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "46/32g Ratvithi Rd, Si Phum, Mueang Chiang Mai",
+  "postalCode": "50200",
+  "phone": "tel:087-7175275",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.790656,98.990708&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.790656,98.990708&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

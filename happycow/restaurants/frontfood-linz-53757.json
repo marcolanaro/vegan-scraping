@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "FrontFood",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Fast food, Take-out\n                                    ",
+  "description": "Vegan fast food burger joint offering burgers, fries, soft drinks, muffins. Everything is organic and, where possible, fair trade, even the packaging. Vault style rooms and straightforward interior. Seats approximately 20. Opened 2014.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Pfarrgasse 20",
+  "phone": "tel:+43-06504608357",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/frontfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.305575,14.288671&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.305575,14.288671&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

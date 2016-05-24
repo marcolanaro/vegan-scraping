@@ -1,4 +1,21 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lords Restaurant Complex",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Asian Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A creative and varied menu with an Asian twist. Other cuisines are Indian, Sri Lankan and Italian. Offers four vegan choices. Also six vegetarian dishes can be made vegan such as Sri Lankan mushroom raisin and cashew nut curry, thai green vegetable curry, veggie bean burger and the mushroom spinach and tofu risotto. Has an extensive dairy free cocktail range. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "80 Porutota Road, Etthukala",
+  "postalCode": "11500",
+  "phone": "tel:0094-0-314-939-051",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-2:30pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/lordsnegombo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.322893,79.848276&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.322893,79.848276&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Jardim dos Sentidos",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Buffet, Portuguese\n                                    ",
+  "description": "Vegetarian food restaurant in a pleasant atmosphere. Lunch is buffet style. Dairy is used, so vegans to inquire.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rua da Mae D'Agua, 3, Lisboa",
+  "postalCode": "1250-154",
+  "phone": "tel:+351-213423670",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-3:00pm, Mon-Sun 7:00pm-10:30pm, Sun 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.717540,-9.146540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.717540,-9.146540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

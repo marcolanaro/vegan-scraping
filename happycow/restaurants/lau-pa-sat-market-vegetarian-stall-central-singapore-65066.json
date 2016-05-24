@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lau Pa Sat Market Vegetarian Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Take-out\n                                    ",
+  "description": "Stall 77-78 of Lau Pa Sat market. Serves Chinese economic rice, bee hoon, and zichar dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "18 Raffles Quay, Lau Pa Sat Market",
+  "postalCode": "048582",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.280859,103.850187&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.280859,103.850187&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

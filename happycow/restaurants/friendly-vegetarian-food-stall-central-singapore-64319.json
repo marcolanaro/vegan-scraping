@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Friendly Vegetarian Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Chinese, Western, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "善缘素食 veggie food stall in Bukit Merah Food Centre serving a variety of dishes such as wonton noodles, hor fun, crispy noodles, fried rice, mee goreng, sliced fish bee hoon, laksa, spaghetti, and pizza.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Bukit Merah Market & Food Centre Blk 112 #01-13",
+  "postalCode": "160112",
+  "phone": "tel:96719792",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 6:30am-1:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Friendly-Vegetarian-Food-善缘素食-731993833484962",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.280003,103.826003&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.280003,103.826003&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

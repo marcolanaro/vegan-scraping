@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dorobushi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Organic, Salad bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic and natural food restaurant At lunch three vegan choices: spaghetti with soy meat sauce and vegan cheese, steamed vegetables with rice, or your choice of pasta, sauce and toppings. Meal come with unlimited small salad bar. There is also a cheaper cafe called Dorobushi Kitchen on B1F.",
+  "priceRange": "Moderate",
+  "streetAddress": "5-8-16 Ginza, FANCL Square Building, 9F, Central Honshu",
+  "postalCode": "91207",
+  "phone": "tel:03-55373970",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:30pm, Mon-Sat 5:00pm-9:30pm, Sun 5:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.670410,139.764490&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.670410,139.764490&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

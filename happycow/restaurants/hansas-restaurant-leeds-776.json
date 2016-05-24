@@ -1,0 +1,15 @@
+{
+  "title": "Hansa's Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian\n                                    ",
+  "description": "Vegetarian restaurant established since the 1980s. Features Gujarati style Indian cooking. Vegans to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "72-74 North Street",
+  "postalCode": "LS2 7PN",
+  "phone": "tel:+44-0113-2444408",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:00pm-10:00pm, Fri 5:00pm-11:00pm, Sat 6:30pm-11:00pm, Sun 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.801614,-1.538172&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.801614,-1.538172&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

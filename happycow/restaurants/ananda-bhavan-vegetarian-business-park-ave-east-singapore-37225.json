@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ananda Bhavan Vegetarian - Business Park Ave",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian\n                                    ",
+  "description": "A branch of Singapore's oldest Indian vegetarian restaurant that was established in 1924. Serves South and North Indian meals, dosa, appam, idli as well as snacks such as vegetable puffs and curry puffs. Located on the ground floor of the North Tower of UE Bizhub East, Unit 01-29.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6 Changi Business Park Avenue 1, Upper Changi",
+  "postalCode": "486017",
+  "phone": "tel:62979522",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.335930,103.963722&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.335930,103.963722&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

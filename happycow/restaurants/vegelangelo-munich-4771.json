@@ -1,0 +1,17 @@
+{
+  "title": "Vegelangelo",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Beer/Wine\n                                    ",
+  "description": "Weekly menu features international dishes with vegetables, potatoes, noodles, and rice. Uses seasonal and GMO-free ingredients. Non smoking. This is a one person operation (proprietor does everything) so reservations are requested so she can plan out her ingredients for the day.",
+  "priceRange": "Moderate",
+  "streetAddress": "Thomas-Wimmer-Ring 16",
+  "postalCode": "80538",
+  "phone": "tel:089-28806836",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:00pm-12:00am, Tue-Sat 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.135890,11.583750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.135890,11.583750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

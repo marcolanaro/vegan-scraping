@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "First World Hotel - Vegie House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "A vegetarian stall in the Kopitiam Food court, floor 2b, of the First World Hotel complex in the \"Las Vegas of Malaysia\" tourist attraction. The prices are higher than elsewhere in Malaysia but also the quality is higher. MSG and oil have been used less. The dishes are mostly Chinese, including rice and noodle dishes, fake meats and fish. The next stall sells hot and cold Asian style soy milk to go with the meal. More info at http://en.wikipedia.org/wiki/First_World_Hotel_%26_Plaza.",
+  "priceRange": "Moderate",
+  "streetAddress": "First World Hotel plaza",
+  "postalCode": "69000",
+  "phone": "tel:+60122155319",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-10:00pm, Fri-Sat 10:00am-11:00pm, Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.424883,101.794483&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.424883,101.794483&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

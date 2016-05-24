@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ce Pien Chek - maybe closed ",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "Cheap vegan eatery, lots of choices, nice selection of ala carte as well. NOTE: maybe closed/shut down, please verify and let HappyCow know.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl. Siam 72, Pontianak",
+  "phone": "tel:085252513299",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-0.022523,109.330307&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-0.022523,109.330307&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Datli Maya",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Delivery, Take-out, Middle Eastern, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small restaurant serving modern versions of tradition Turkish dishes. Focus is on healthy \"fast slow food\" making use of an authentic wood oven. Has markd vegan and vegetarian items such as lahmacun (Turkish pizza), wraps, beans, hummus, soup, vegetarian set menu and breakfast on weekdays.",
+  "priceRange": "Moderate",
+  "streetAddress": "Türkgücü Cd. 59/A, Cihangir",
+  "phone": "tel:+90-212292905657",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Datlimaya",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.031332,28.981895&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.031332,28.981895&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

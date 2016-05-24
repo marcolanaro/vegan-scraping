@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sui Yan ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Take-out, Malaysian\n                                    ",
+  "description": "随缘居 restoran vegetarian offers a steamboat of buffet dishes with a variety of local favorites like thunder rice tea, wanton noodle and hotplate beancurd. Closes Monday except on 1st and 15th day of lunar month.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "51, Jalan Bentara 20, Taman Ungku Tun Aminah",
+  "postalCode": "81300",
+  "phone": "tel:%20+6075571602",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 10:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.515525,103.657369&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.515525,103.657369&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

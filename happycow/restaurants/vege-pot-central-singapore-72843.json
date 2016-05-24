@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Pot",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out, Asian, Singaporean\n                                    ",
+  "description": "素砂煲 serves Chinese and local favorites like curry noodles, Penang bak kut teh, tom yam soup, and kueh tiao doup.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "190 Middle Rd, Fortune Centre #02-31",
+  "postalCode": "188979",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VegePot",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300108,103.852465&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300108,103.852465&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

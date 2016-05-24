@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mayang Oasis Food Court",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Indian, Buffet, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "In this food court two of the stalls are vegetarian. Most stalls serve Malay, Chinese, and Indian dishes. Has Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Stall No.21, Jalan SS26 /9, Taman Mayang Jaya",
+  "postalCode": "47301",
+  "phone": "tel:016-3600711/,%20016-3600733",
+  "venueHours": "\n                                                                                                        Mon-Sat 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.117001,101.604041&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.117001,101.604041&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

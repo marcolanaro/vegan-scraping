@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mohan Dish",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional Indian food that's not pure veg but does include around 7-10 vegetarian entree choices. Vegans need to inquire. Menu also offers salads, a few of which are vegan suitable (like the chickpea salad) or can be ordered without animal products. Directions: take Nanboku line to Asabu, and get off at Kita24 Jo subway station.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4 Chome-2-10 Kita 24 Jonishi",
+  "phone": "tel:011-7573116",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.090692,141.343087&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.090692,141.343087&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

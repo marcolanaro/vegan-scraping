@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bao Vegetarian - Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "Stall in the night market of Linjiang Street. The woman/cook has a wok, a pot with boiling water, and another pot with a hot soup. The customer chooses the ingredients to be stir-fried in the wok. Dish is served by itself or with rice & boiled vegetables or with noodles. A few stools and a table for eating there.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Linjiang Street, Da’an District",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.030049,121.555057&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.030049,121.555057&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

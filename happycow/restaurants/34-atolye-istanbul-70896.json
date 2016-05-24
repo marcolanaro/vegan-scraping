@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "34 Atolye",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Delivery only service (no dine-in or seating). Turkish and world cuisine menu with a specifically-labeled vegan menu which includes soy-based faux meat dishes: burgers, meatballs, wraps, kebabs.",
+  "streetAddress": "11/B Sahin Sokak, Kurtulus",
+  "phone": "tel:2123438191",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/34atolye",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.048035,28.980764&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.048035,28.980764&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

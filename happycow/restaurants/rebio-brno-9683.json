@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rebio - Orli",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Buffet, Salad bar\n                                    ",
+  "description": "Self service vegetarian food bar, one of several locations in Brno. Take what you want and pay for food by weight.",
+  "priceRange": "Moderate",
+  "streetAddress": "Orli 26",
+  "postalCode": "602 00",
+  "phone": "tel:542211130",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Restaurace-Rebio-Oficiální-stránka/486214241390269",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.194170,16.612490&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.194170,16.612490&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

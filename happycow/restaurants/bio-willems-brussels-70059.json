@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bio Willems",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small health store with a large range of products, including veggies and fruits and other vegan products. Also carries freshly baked bread. German, French and English spoken.",
+  "streetAddress": "48 Rue Willems",
+  "phone": "tel:0639-775970",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 4:00pm-7:00pm, Tue-Fri 11:00am-3:00pm, Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.849121,4.377083&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.849121,4.377083&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

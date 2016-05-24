@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zillertaler Grillhof",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Italian, Buffet, Salad bar, Juice bar, Take-out, German, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little hotel with a restaurant. Has vegan menu, pizza, and tarte flambee. Reported some rooms are vegan - you have to say it by reservation.",
+  "priceRange": "Moderate",
+  "streetAddress": "Großriedstraße 16",
+  "postalCode": "6273",
+  "phone": "tel:52832250",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.302127,11.868159&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.302127,11.868159&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

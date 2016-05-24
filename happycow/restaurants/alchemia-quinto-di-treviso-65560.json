@@ -1,0 +1,16 @@
+{
+  "title": "Alchemia",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Organic, Bakery, European\n                                    ",
+  "description": "Organic shop and bistrot. Offering vegan breakfast and lunch choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via M. Graziati, 3",
+  "phone": "tel:+39-0422370833",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.643531,12.164706&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.643531,12.164706&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yesa Cig Kofte",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Fast food, Take-out, Turkish\n                                    ",
+  "description": "Small shop that sells only çiğ köfte, either on a plate or rolled into bread as dürüm. Meat is replaced by primarily ground walnut.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Belediye Cad. 604/D",
+  "postalCode": "34530",
+  "phone": "tel:02128533039",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.030593,28.452785&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.030593,28.452785&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

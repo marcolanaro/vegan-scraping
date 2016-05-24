@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BE O",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic market selling mostly fruits and veggies, as well as some bulk items like wine, oil, nuts and cereals directly form the growers. Drinks and bread is also available and at the counter. If you go shopping/working in Ghent you may leave your purchases in the cooling space till 30 minutes after closing time.",
+  "streetAddress": "Heilige Geeststraat 6",
+  "postalCode": "9000",
+  "phone": "tel:0477635596",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 11:30am-6:30pm, Sat-Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BE-O-779153288869247",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.053126,3.723834&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.053126,3.723834&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

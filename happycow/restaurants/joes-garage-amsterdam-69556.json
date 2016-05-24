@@ -1,0 +1,15 @@
+{
+  "title": "Joe's Garage",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine, European\n                                    ",
+  "description": "Not a restaurant but a squat - offering vegan dinner on Monday and vegetarian dinner on Thursday. Suggested donation of 4 euros (Feb 2016) covers soup, bread, main course, and dessert. Sells beer by the bottle.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Pretoriusstraat 43",
+  "postalCode": "1092",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:00pm-9:00pm, Thu 7:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.355679,4.924819&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.355679,4.924819&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

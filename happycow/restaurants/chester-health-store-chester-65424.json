@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chester Health Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Independent health food shop with many vegan specialties, including Violife cheese and raw chocolate.",
+  "streetAddress": "59 Bridge St Row ",
+  "postalCode": "CH1 1NW",
+  "phone": "tel:01244320444",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/chesterhealth/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.189435,-2.891014&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.189435,-2.891014&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

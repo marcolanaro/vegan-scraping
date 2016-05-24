@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shiki-Saisai Non",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. 四季菜彩 のん, at 和歌山県西牟婁郡白浜町堅田878-45, is a 20-minute walk from Shirahama station. At lunch and dinner it offers one vegetarian meal called \"shojin-gozen.\" Sit in a tatami mat room or at the counter. Vegans should specify. E-mail: islandriv-shojinryorinon@yahoo.co.jp.",
+  "priceRange": "Moderate",
+  "streetAddress": "878-45",
+  "postalCode": "6492201",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon 11:00am-2:00pm, 6:00pm-9:00pm, Wed-Sun 11:00am-2:00pm, 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.666049,135.382754&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.666049,135.382754&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

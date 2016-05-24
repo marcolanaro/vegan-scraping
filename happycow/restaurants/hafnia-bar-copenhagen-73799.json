@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hafnia Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Juice bar, Take-out, Catering, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Start with a vegan and gluten-free base then add your fillings/toppings for sandwiches, salads, grain bowls. Meat served is fish and poultry. Has fresh pressed juices, almond milk shakes, acai bowls, raw cakes, coffee, tea.",
+  "priceRange": "Moderate",
+  "streetAddress": "Store Regne Gade 26a ",
+  "phone": "tel:42407424",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-8:00pm, Sat 9:30am-8:00pm, Sun 10:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/hafniabar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.681810,12.582647&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.681810,12.582647&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

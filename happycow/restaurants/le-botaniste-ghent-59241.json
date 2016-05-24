@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Le Botaniste",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Take-out, European\n                                    ",
+  "description": "Open July 2015 an organic botanical fast food and wine bar. Has gluten-free, does not use refine sugars.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hoornstraat 13",
+  "postalCode": "9000",
+  "phone": "tel:092334535",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-3:00pm, 5:00pm-8:00pm, Fri-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/LeBotaniste",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.052176,3.721112&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.052176,3.721112&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

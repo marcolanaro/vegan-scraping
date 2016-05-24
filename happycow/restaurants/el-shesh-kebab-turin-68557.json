@@ -1,0 +1,17 @@
+{
+  "title": "El Shesh Kebab",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Take-out, Middle Eastern, Egyptian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Egyptian fast food eatery whose menu includes vegan suitable itmes like falafel, ful, couscous, and others. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Giorgio Bidone, 21e",
+  "phone": "tel:0116507550",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.052661,7.678944&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.052661,7.678944&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

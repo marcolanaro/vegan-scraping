@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lotus Vegetarian Court",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Buffet, Take-out\n                                    ",
+  "description": "蓬池閣素食 provides vegetarian economic rice (buffet style) during lunch hours. For dinner, order dishes from the menu, some of which are vegan, plus you may ask the chef to prepare vegan food for you too. Has air conditioning.",
+  "priceRange": "Moderate",
+  "streetAddress": "17 Jalan Tiara 2c/ku 1, Pusat Perniagaan BBK, Bandar Baru Klang",
+  "postalCode": "41150",
+  "phone": "tel:163789298",
+  "venueHours": "\n                                                                                                        Mon-Tue 9:00am-3:00pm, Mon-Sun 5:00pm-9:00pm, Thu-Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/LotusVegetarianCourt",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.063565,101.468016&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.063565,101.468016&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

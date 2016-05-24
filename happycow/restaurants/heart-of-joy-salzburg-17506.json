@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Heart of Joy",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, European\n                                    ",
+  "description": "Vegetarian cafe also providing vegan food. Offers mock meat options. Vegan soup specials daily. Vegan party first Friday of each month from 18.00. Vegan bagels/toasts, vegan cakes, vegan milk shakes and vegan ice cream during summer. No smoking, no alcoholic beverages. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Franz Josef Strasse 3",
+  "phone": "tel:43-662-890-773",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.807190,13.042770&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.807190,13.042770&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

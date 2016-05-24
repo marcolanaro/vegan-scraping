@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sentosa Delight Centre - Vegetarian Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Fast food, Take-out\n                                    ",
+  "description": "It's the only stall in the coffee shop that sells vegetarian food. Stall name is also Vegetarian Food. Offers Chinese stir fried noodles and rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "397-400, Lot 704, Block 17 KCLD, Jalan Tapang",
+  "postalCode": "93250",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.475225,110.348357&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.475225,110.348357&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

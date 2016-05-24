@@ -1,0 +1,13 @@
+{
+  "title": "Biocoop Cosmos",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "Route du Barcares, RD 83",
+  "postalCode": "66530",
+  "phone": "tel:0468536321",
+  "venueHours": "\n                                                                                                        Mon 9:00am-1:00pm, 2:00pm-7:00pm, Tue 9:00am-7:00pm, Wed-Fri 9:00am-1:00pm, 2:00pm-7:00pm, Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.777192,2.919147&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.777192,2.919147&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

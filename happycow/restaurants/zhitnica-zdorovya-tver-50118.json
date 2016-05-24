@@ -1,0 +1,17 @@
+{
+  "title": "Zhitnica Zdorovya",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Indian, International, Organic, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "A vegan restaurant with juice bar. Wi-fi, warm homey atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Prospect Chaykovskogo d, 23",
+  "phone": "tel:+74-822584929",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.844035,35.900021&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.844035,35.900021&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

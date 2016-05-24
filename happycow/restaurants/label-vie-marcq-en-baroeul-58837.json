@@ -1,0 +1,14 @@
+{
+  "title": "Label Vie",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "101 boulevard Clémenceau",
+  "postalCode": "59700",
+  "phone": "tel:0320989805",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-1:00pm, 2:30pm-7:00pm, Fri-Sat 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/LabelVieBio",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.664478,3.087920&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.664478,3.087920&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

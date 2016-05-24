@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sun Flower Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Myanmar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Similar food offering as other restaurants in town but its vegetarian set menu is vegan-suitable and worth noting. Owner understands the concept of veganism and also owns Zu Zu's cooking class. Closes 9pm during low season.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "near Yone Gyi Rd, east of market, Kantar Quarter",
+  "phone": "tel:09-428317343",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.661172,96.931878&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.661172,96.931878&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

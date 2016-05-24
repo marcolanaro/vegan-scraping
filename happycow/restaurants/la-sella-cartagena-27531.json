@@ -1,0 +1,16 @@
+{
+  "title": "La Sella",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Beer/Wine\n                                    ",
+  "description": "This vegetarian restaurant has a cozy atmosphere. Serves pizza, salads, appetizers and main-courses. Offers a variety of vegan options, including pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle de Pablo Picasso 21",
+  "phone": "tel:968516580",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 1:30pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.615512,-0.991959&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.615512,-0.991959&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

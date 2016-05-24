@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jay Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai\n                                    ",
+  "description": "An authentic vegetarian buffet-style Thai restaurant. From the street you can see the yellow flags with jay written on it but doesn't appear to have an actual name. The front of the restaurant is all open. Check which dishes contain egg. They do speak little English.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "136/8, Pradipat",
+  "postalCode": "10400",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.791169,100.540584&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.791169,100.540584&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Broccoli Revolution",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Thai, Western, Juice bar, Fusion\n                                    ",
+  "description": "Modern, casual-nice restaurant on two floors with high ceiling, Wi-Fi, and plenty of seating. Opened Sept 2015. All vegan except for honey in a few items. Varied dishes might include quinoa-broccoli burger, taro fries, pasta, vegan cakes. Little bit of English spoken. Dishes priced each 120-280 baht, juice 100-180 baht.",
+  "priceRange": "Expensive",
+  "streetAddress": "899, Sukhumvit Rd, Khlong Tan, Krung Thep Maha Nakhon 10110",
+  "phone": "tel:8-70911905",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BROCCOLI-REVOLUTION-608093132654566",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.726621,100.575334&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.726621,100.575334&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

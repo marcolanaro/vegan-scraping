@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natural Food Holo",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Organic\n                                    ",
+  "description": "Vegetarian organic cafe, opened since 2009. Many vegan dishes, but bread and cake might contain dairy, so ask. Slightly difficult to find as you have to take subway and bus (bring your map or smart phone).",
+  "priceRange": "Moderate",
+  "streetAddress": "Higashi-ku, Nakanuma Nishi 5 Jo, 2 Chome7−3",
+  "phone": "tel:011-8876224",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/自然食ホロ/294210580591205",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.135433,141.410709&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.135433,141.410709&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

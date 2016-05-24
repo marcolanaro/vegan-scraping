@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eat at The Stade",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Fast food, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Will cater for special diets and always has vegetarian and vegan choices, vegan cake, soya smoothies. Previously at 12 Claremont.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hastings Old Town",
+  "postalCode": "TN34 1HA",
+  "phone": "tel:01424-426768",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-4:30pm, Sat 9:30am-8:00pm, Sun 9:30am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/eat-hastings/120400921332831",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.856412,0.591113&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.856412,0.591113&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Alte Muhle",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Pizza, Italian, Organic, Mediterranean, Juice bar, Beer/Wine, Take-out, Bakery\n                                    ",
+  "description": "Bar in the center of the city that offers a wide choice of in-house made food. Find sweets, sandwiches, juices, and snacks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Muhlgraben 34",
+  "postalCode": "39012",
+  "phone": "tel:3398735193",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-8:00pm, Sat 7:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.671091,11.161500&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.671091,11.161500&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

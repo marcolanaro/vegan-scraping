@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tri Ocasci",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine\n                                    ",
+  "description": "A cozy vegetarian cafe with soy milk option for cappuccinos and lattes. Serves main dishes and desserts including vegan (usually cupcakes); vegans please inquire as to what else is vegan. Also is a space for cultural events and activities promoting veg lifestyles (e.g. VeganFest Brno). Nearest public transport stop is Uvoz (lines 4, 25, 26, 81).",
+  "priceRange": "Moderate",
+  "streetAddress": "Gorkeho 37",
+  "postalCode": "60200",
+  "phone": "tel:+420-775702778",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-11:00pm, Sat-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/triocasci",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.199011,16.593202&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.199011,16.593202&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

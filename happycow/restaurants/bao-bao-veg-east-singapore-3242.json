@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bao Bao Veg",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Take-out\n                                    ",
+  "description": "Food is made to order.  Selling typical veg meehoon every day before 12pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "Block 58, New Upper Changi Road 01-203",
+  "phone": "tel:62204344",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:30am-12:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.324532,103.941146&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.324532,103.941146&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

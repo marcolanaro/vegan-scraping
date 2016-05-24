@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tia's Mexican and Mediterranean Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Mediterranean, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a separate vegan menu including a daily vegan happy hour 5-7pm; pizzas, enchiladas, and chimichanga burritos all could be made with vegan cheese. Also a gluten-free menu, traditional Mexican cocktails and beers.",
+  "priceRange": "Moderate",
+  "streetAddress": "84 Claypath",
+  "postalCode": "DH1 1RG",
+  "phone": "tel:+44-01913839001",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 5:00pm-1:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.778078,-1.573135&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.778078,-1.573135&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

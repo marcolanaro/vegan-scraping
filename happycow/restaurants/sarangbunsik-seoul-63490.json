@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "SaRangBunSik",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Asian, Korean \n                                    ",
+  "description": "A small 100% vegan Korean restaurant serving traditional food; home meal style, Chinese style and street style. Some menu items are deckbokki, bulgogi & rice, jajangmyeon, jjamppong, deep fried vegetables, ramen, dumplings and more. Family-run with friendly owners.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1230-5, Gaepo-dong, Gangnam-gu",
+  "phone": "tel:02-5774012",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.477171,127.048110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.477171,127.048110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

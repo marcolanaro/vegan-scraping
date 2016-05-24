@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Organic Farm Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Laotian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A vibrant hub for a variety of projects that center around the organic production of mulberry trees, along with organic fruits, vegetables, and other produce for the restaurant. The mulberry trees provide leaves to produce mulberry tea, mulberry wine, mulberry tempura, and mulberry shakes. Wages support the many villagers who work here, and foreign visitors come for the opportunity to work on an organic farm. From Western style breakfast to vegetable soups, curries, and Laos-style main meals, all with tofu options, teas and local coffee. Also a guest house.",
+  "priceRange": "Moderate",
+  "streetAddress": "PO Box 253 Vang Vieng",
+  "phone": "tel:+856-0-23511220",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Organicmulberryfarm-vangvieng/293835267470398",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.961274,102.444194&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.961274,102.444194&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

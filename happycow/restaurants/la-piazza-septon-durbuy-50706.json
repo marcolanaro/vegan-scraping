@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Piazza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A standard pizzeria with a chalkboard menu of vegetarian items, which can be made vegan upon request. A small but busy family run restaurant in a tourist town.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Tier Moureau 1",
+  "postalCode": "6940",
+  "phone": "tel:086-211510",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.351281,5.455454&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.351281,5.455454&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "En.Gawa",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, International, Japanese, Mediterranean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small restaurant run by chef Yuko, who trained in Europe and speaks English. She knows vegan cuisine and has given vegan Japanese cooking classes. Seats 10 inside plus 6 more outside in good weather. Dinner reservations can be made upon request, with a minimum of 2 people. Email kihila@hotmail.com ahead of time, and Yuko will arrange to provide a vegetarian or vegan meal with dishes like vegetable soup, pizza, pasta, various breads, hummus, desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "3468-1, Kusawa, Ano, Tsu City",
+  "postalCode": "514-2328",
+  "phone": "tel:+81-592538995",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-4:00pm, Sat-Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/%E3%81%88%E3%82%93%E3%81%8C%E3%82%8F/238116453024027",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.759434,136.410855&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.759434,136.410855&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

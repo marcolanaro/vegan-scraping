@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut Hostel",
+  "tags": [
+    "Veg Hotel/BnB",
+    "Vegan"
+  ],
+  "description": "Previously a Loving Hut restaurant, now a hostel only. Offers vegan breakfast brought in from a nearby Loving Hut.",
+  "streetAddress": "30, Datong Street",
+  "phone": "tel:038-352559",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/lovinghut.taiwan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.980789,121.606469&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.980789,121.606469&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

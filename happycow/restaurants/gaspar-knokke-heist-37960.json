@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gaspar",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Shop selling seitan and tofu meals, vegan sandwich spread and pate, vegetable salad, and a daily organic soup for take home.",
+  "streetAddress": "Sparrendreef 86",
+  "postalCode": "8300",
+  "phone": "tel:050627677",
+  "venueHours": "\n                                                                                                        Mon-Tue 8:00am-6:30pm, Thu-Sun 8:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.352658,3.304861&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.352658,3.304861&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

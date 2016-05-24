@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Superfood",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Beer/Wine, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. In a city with limited pure veg food, this place offers some vegetarian dishes, and the owner-chef is committed to providing and adapting dishes to cater to vegetarians and vegans. Located a 10-minute drive (half hour walk up the hill) from the city centre, and has a terrace overlooking a quiet neighborhood street. Sometimes hosts live music.",
+  "priceRange": "Moderate",
+  "streetAddress": "Husrefa Redzica 14, Ciglane",
+  "postalCode": "71000",
+  "phone": "tel:033977797",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Superfood-Sarajevo/397469747074006",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.866074,18.408649&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.866074,18.408649&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

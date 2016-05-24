@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Peace Paradise Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Thai, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant belongs to A resort. Menu has 20+ vegetable dishes, which are listed as vegetarian, not only traditional Thai food (coconut milk based kari/chili), but also tofu (tofu with ginger, chili tofu, etc.). The owner Yay knows the word vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "139 Moo 2, Ban Koh Pu",
+  "phone": "tel:66-0856929269",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.832720,98.949391&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.832720,98.949391&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

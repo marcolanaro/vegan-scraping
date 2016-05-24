@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Spicy Home",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Catering\n                                    ",
+  "description": "Indian vegetarian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3, Taman Seroja 2, Jalan Kanpung Koh",
+  "postalCode": "32000",
+  "phone": "tel:012-9118994/,%2005-6917266",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.201936,100.698989&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.201936,100.698989&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

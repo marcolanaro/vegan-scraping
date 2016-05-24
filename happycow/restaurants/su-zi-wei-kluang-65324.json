@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Su Zi Wei",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "素滋味 is a veggie stall located inside Medan Selera ABC. Serves nasi lemak, noodle, economic rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Jalan Pulasan 1, Taman Sri Menanti",
+  "postalCode": "86000",
+  "phone": "tel:012-7687702",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 6:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.042319,103.319861&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.042319,103.319861&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

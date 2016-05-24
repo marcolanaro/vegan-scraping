@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pappa Rich",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Juice bar, Take-out, Fusion, Malaysian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain restaurant, opens til late. Menu offers around 5 vegetarian dishes that can be requested vegan by omitting egg; plus there are a few veg sides like steamed buns and sticky rice. Most dishes are traditional Malay food that center around a satan mutton. Has soy milk (warm and cold) and fresh juices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Paya Keladi, Jalan Banggol",
+  "phone": "tel:096222323",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/PappaRichKT/timeline?ref=page_internal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.332686,103.135443&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.332686,103.135443&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

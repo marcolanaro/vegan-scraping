@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chan Phuong Vegetarian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "The food at this small air-conditioned restaurant is 100% vegan, however, they may offer drinks which contain dairy. Offer many dishes with mock meats. No MSG is used. They also have an English-language menu, and the owners speak English very well. Previously located on Le Hong Phong St.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "185 Hong Lac, P10, Tan Binh District",
+  "phone": "tel:089235477",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.786470,106.642979&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.786470,106.642979&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

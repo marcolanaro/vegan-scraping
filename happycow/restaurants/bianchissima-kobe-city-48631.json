@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bianchissima",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located in front of Muslim Mosque in famous Kitano area. Chef can make Italian vegan dishes upon request. Ideal for special occasions, dress property.",
+  "priceRange": "Expensive",
+  "streetAddress": "3-3-5 Yamamotodori, Chuo-ku",
+  "postalCode": "650-0003",
+  "phone": "tel:078-2627717",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.699499,135.189965&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.699499,135.189965&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

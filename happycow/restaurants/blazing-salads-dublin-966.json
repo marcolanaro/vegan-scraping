@@ -1,0 +1,18 @@
+{
+  "title": "Blazing Salads",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Macrobiotic, Organic, Western, Salad bar, Take-out, Bakery, Catering, Irish\n                                    ",
+  "description": "Wholefood vegetarian take-out deli featuring a vegan salad bar in addition to savouries, salads, and sugar-free cakes made on site, as well as a variety of certified organic sourdough breads that are baked daily in the shop's commercial bakery. Busy at lunch time.",
+  "priceRange": "Moderate",
+  "streetAddress": "42 Drury Street",
+  "postalCode": "Dublin 2",
+  "phone": "tel:01-6719552",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.342730,-6.263090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.342730,-6.263090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

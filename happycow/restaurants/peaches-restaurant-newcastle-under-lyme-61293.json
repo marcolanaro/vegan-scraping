@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Peaches Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Buffet, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese restaurant with semi-formal decor. Offers an all-you-can-eat option where the food is brought to your table. Lots of tofu dishes (satay sauce vegan), could order seaweed without the topping, the sesame toast is vegan, plus a few other starters. Busy on weekends so better book ahead.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-2 Silverdale Rd",
+  "postalCode": "ST5 2TB",
+  "phone": "tel:01782%20715598",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:30pm-2:00pm, 6:00pm-10:30pm, Sun 12:30pm-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PeachesRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.010201,-2.231064&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.010201,-2.231064&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

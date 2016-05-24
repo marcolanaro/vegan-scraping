@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "C Sharp Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Take-out\n                                    ",
+  "description": "Cozy vegan cafe serving all made-in-house food and sweets, using no MSG. Serves mainly original and traditional Japanese food, vegan style.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Agatsuma-gun Nagano Haramachi Kita Karuizawa 2032-3022",
+  "phone": "tel:09017362594",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.453525,138.596698&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.453525,138.596698&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

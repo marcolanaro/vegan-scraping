@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Well Dressed Salad Bar and Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Salad bar, Take-out\n                                    ",
+  "description": "Same owner as Eight Treasures restaurant. Could create your own salad on a bed of romaine, baby spinach or rocket, choosing from toppings such as chickpeas, kidney beans, shimeiji mushrooms, sunflower seeds and beetroot. Also offers other western dishes. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "282 S Bridge Rd",
+  "postalCode": "058831",
+  "phone": "tel:65347787",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:30am-10:00pm, Fri-Sat 10:30am-12:00am, Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/WellDressedSaladBarSg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.281496,103.844753&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.281496,103.844753&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

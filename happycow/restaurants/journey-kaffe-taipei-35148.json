@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Journey Kaffe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian coffee house and restaurant in Neihu. Has an English menu. Vegetarian and vegan choices are specified. Free Wi-Fi with ample power outlets accessible from every seat. Chinese name is 覺旅咖啡, address 台北市內湖區瑞光路583巷24號1F.",
+  "priceRange": "Moderate",
+  "streetAddress": "24, Lane 583, RuiGuang Road, Neihu Distrcit",
+  "postalCode": "114",
+  "phone": "tel:02-87513227",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/journeykaffe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.080595,121.568077&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.080595,121.568077&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

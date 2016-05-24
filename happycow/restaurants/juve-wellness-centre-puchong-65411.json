@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Juve Wellness Centre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Organic, Delivery, Take-out, Catering, Malaysian\n                                    ",
+  "description": "著味有机蔬食坊 specializes in organic and health food. Sells holistic lifestyle products.",
+  "priceRange": "Moderate",
+  "streetAddress": "5A (1st Floor), Jalan Kenari 4, Bandar Puchong Jaya",
+  "postalCode": "47100",
+  "phone": "tel:03-58829005",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:30am-5:00pm, Sat 11:30am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/JuveWellnessPuchong",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.045491,101.620905&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.045491,101.620905&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kokusai Cafe Sorafune",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese\n                                    ",
+  "description": "Japanese style vegan cafe located 10 minutes from Kamakura station, opened early-2014. For lunch it serves onigiri set, risotto set, karaage set, and daily plate. Also offers scones and cake.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kamakura-shi, Kanagawa-ken, Omachi 2-2-2",
+  "phone": "tel:0467384085",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 10:30am-5:30pm, Thu-Sun 10:30am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/sorafune",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.314765,139.552270&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.314765,139.552270&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

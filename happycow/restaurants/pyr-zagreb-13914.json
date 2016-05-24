@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "PYR",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Macrobiotic, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. All vegetarian except for fish. The restaurant has 6 tables and is part of the PYR holistic center. There's a daily menu that you can order for 65 Kuna, or pick the items you want off the menu. Directions: At the end of a courtyard/alley off Teslina, follow the yellow \"PYR\" sign, up the stairs.",
+  "priceRange": "Moderate",
+  "streetAddress": "Teslina 13/1",
+  "postalCode": "10000",
+  "phone": "tel:+385-01-4872244",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pyr.holistickicentar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.795390,16.018770&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.795390,16.018770&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

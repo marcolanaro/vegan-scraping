@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ajyari",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Organic, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. 有機茶屋あじゃり, at 〒563-0058 大阪府池田市栄本町12-4シャンティ池田１階, is an organic restaurant, tea house, and food shop. Vegan bento lunch boxes upon reservation. Vegan lunch set upon request and vegan Japanese desserts. More vegan options if you call a day ahead. Usually uses fish broth (dashi) but not if you ask for a vegetarian or vegan meal. Otherwise does not use fish or meat. Owner understands veganism. Dinner (5-9pm) upon reservation until one day ahead. Sometimes closes early (14h30) on Monday. Sunday is tea house only.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sakaehonmachi 12−4",
+  "postalCode": "563-0058",
+  "phone": "tel:072-7541258",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-6:30pm, Sat-Sun 8:00am-10:30am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.825049,135.427760&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.825049,135.427760&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

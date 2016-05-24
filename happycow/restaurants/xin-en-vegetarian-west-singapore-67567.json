@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xin En Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Chinese, Take-out\n                                    ",
+  "description": "心恩素食 is a stall in Gourmet Street Coffee Shop. On the menu are mee soto, fish slice soup, laksa, lor mee, bak kut teh, mee rebus, kway chap and mee siam. Offers daily specials and vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 710 Clementi West Street 2",
+  "postalCode": "120710",
+  "phone": "tel:9328-2007",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/XinEnVegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.306594,103.761770&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.306594,103.761770&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

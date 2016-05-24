@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zdrava Vyziva Kopretina",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A tiny health food store offering some refrigerated soy products such as tofu and tempeh. Also stocks oil, tahini and sauces, spices, seaweed, ecological cosmetics.",
+  "streetAddress": "Sudoměřská 48",
+  "phone": "tel:777711320",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-1:00pm, 2:00pm-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.081623,14.458347&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.081623,14.458347&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

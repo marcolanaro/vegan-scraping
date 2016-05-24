@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sahib Food House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Nepalese\n                                    ",
+  "description": "Vegetarian eatery serving all types of Indian cuisine (Gujarati, Panjabi, South Indian) plus Nepali food. Reservations for special occasions accepted.",
+  "priceRange": "Moderate",
+  "streetAddress": "SWU Dormitory Basement, Private Road, Urgello",
+  "phone": "tel:+639226038436",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Sahib-food-house-901268589914696/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.302546,123.892036&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.302546,123.892036&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

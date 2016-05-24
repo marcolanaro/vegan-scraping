@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Burgcafe Obernberger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An ice cream parlor/cafe offers vegan ice cream and some dishes that are vegan or can be made vegan. Cozy atmosphere in the center of Ybbs. Also serves coffee, breakfast, in-house-made pastries and snacks. Popular student hangout in the vicinity of the school center. Located close to the Danube River.",
+  "priceRange": "Moderate",
+  "streetAddress": "Burgplatz 6",
+  "postalCode": "3370",
+  "phone": "tel:07412-55950",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/burgcafe.obernberger",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.177029,15.083211&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.177029,15.083211&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

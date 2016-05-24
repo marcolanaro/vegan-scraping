@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lagonid",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Delivery, Take-out, Middle Eastern, Armenian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu includes a vegetarian section of which half is vegan suitable; also has a salad section. Nice interior, air conditioned, has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "37 Nalbandyan Street",
+  "postalCode": "0010",
+  "phone": "tel:584993",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Lagonid.Middle.Eastern.Cuisine",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.183176,44.522131&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.183176,44.522131&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

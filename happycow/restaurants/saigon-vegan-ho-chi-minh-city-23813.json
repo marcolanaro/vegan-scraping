@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saigon Vegan - Vo Van Tan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Vietnamese\n                                    ",
+  "description": "At the alley Nguyen Dinh Chieu off Vo Van Tan, you'll find this vegan food restaurant with a modern space and air conditioning. Suitable also for business lunch or dinner. The owners are strictly vegan. Offers extensive menu with food like pho, carmelized tofu dish, hot pot. Vegan except for cow milk offered for coffee.",
+  "priceRange": "Moderate",
+  "streetAddress": "378/3 Vo Van Tan, District 3",
+  "phone": "tel:38344473",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.770378,106.684296&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.770378,106.684296&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

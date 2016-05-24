@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Daily Bread Co-operative",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Wholefood warehouse near Cambridge Regional College, in Arbury, North city, off Milton Rd. Sells cookbooks, organic fruit & vegetable, bread & cakes, toiletries, stationery, fair trade items. Has a small seating area.",
+  "streetAddress": "Unit 3, Kilmaine Close, King's Hedges",
+  "postalCode": "CB4 2PH",
+  "phone": "tel:01223-423177",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:00am-5:30pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.233640,0.135750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.233640,0.135750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chang Chun Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Singaporean\n                                    ",
+  "description": "长春素食 is a veg stall in Bendemeer Food Centre which is located just outside Boon Keng MRT station exit B. On the menu are mee siam, lor mee, lontong, and ipoh hor fun. No onion, garlic, or egg.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "29 Bendemeer Rd, Bendemeer Market And Food Centre, Unit 01-52",
+  "postalCode": "330029",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.319142,103.863322&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.319142,103.863322&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

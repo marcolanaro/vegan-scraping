@@ -1,0 +1,19 @@
+{
+  "title": "La Parenthese",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Beer/Wine, European, French\n                                    ",
+  "description": "Vegetarian restaurant offering food like soups, salads, and crêpes made with organic and local produce. Vegan should ask.",
+  "priceRange": "Moderate",
+  "streetAddress": "26 rue de la Justice",
+  "postalCode": "68100",
+  "phone": "tel:0389560847",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-2:00pm, 7:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/la-Parenth%C3%A8se-296729227021766",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.748059,7.341243&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.748059,7.341243&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

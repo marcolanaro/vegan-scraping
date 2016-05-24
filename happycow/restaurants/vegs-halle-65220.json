@@ -1,0 +1,19 @@
+{
+  "title": "Vegs",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Fast food, Take-out, German\n                                    ",
+  "description": "Opened Oct 2015 a vegan fast food eatery. On the menu are salads, fries, croquettes, currywurst, hotdogs, wraps, a weekly changing soup, plus vegan chocolate, and beverages.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ludwig-Wucherer-Strasse 29",
+  "postalCode": "06108",
+  "phone": "tel:017620796828",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat 3:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/vegs.halle",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.493386,11.969897&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.493386,11.969897&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

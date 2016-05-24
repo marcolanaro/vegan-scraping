@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "WanChat",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Fast food, Take-out\n                                    ",
+  "description": "Operating since 1991, this vegan eatery is a member of Thai Vegetarian Association. Offers a steamtable of prepared dishes - point to what you'd like. Also sells vegan dried and frozen foods, organic products. Relocated to this space in 2014. Opens weekends on buddhist holidays.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11/1 Padung-Donyo Rd, Kruha-Suwan Sub-District",
+  "postalCode": "93000",
+  "phone": "tel:+66-74615858/,%2066-848619050",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.613314,100.083189&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.613314,100.083189&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

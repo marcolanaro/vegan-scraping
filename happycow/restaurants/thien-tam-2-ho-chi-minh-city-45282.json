@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thien Tam 2",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Fast food, Take-out, Vietnamese\n                                    ",
+  "description": "Typical, family-run, small restaurant. No AC, no English menu, very cheap prices. Vegetarian buffet style with items you see and choose, or the owner chooses for you. Meal comes with soup.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "73, Nguyen Thi Nho",
+  "postalCode": "P3 Q6",
+  "phone": "tel:01698844768",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.770685,106.652634&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.770685,106.652634&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

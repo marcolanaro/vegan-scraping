@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chat-soeurs-delices",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic/health store located on trendy Place du Chatelain. Among other things, they sell local greens, spices that are not easy to find in Brussels, as well as many vegan products (they are particularly keen to satisfy vegan customers). Every Thursday, all of the take away food is vegan, as part of the Thursday veggie day campaign.",
+  "streetAddress": "Place du Chatelain, 47",
+  "postalCode": "1050",
+  "phone": "tel:003226446106",
+  "venueHours": "\n                                                                                                        Mon 10:00am-8:00pm, Wed-Thu 10:00am-8:00pm, Fri 10:00am-9:00pm, Sat 10:00am-8:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ChAt-soeurs-delices-361346934032942",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.824988,4.361195&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.824988,4.361195&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

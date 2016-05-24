@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Syrian Arab Friendship Club",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Beer/Wine, Middle Eastern, Syrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A Syrian restaurant offers plenty of vegetarian and vegan alternatives with inexpensive prices. Among the dishes that are offered are salad, tabouli, falafel, baba ghanoush, cooked and baked vegetables.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3 Lliados Street, Germasogeia Municipality",
+  "postalCode": "4046",
+  "phone": "tel:357-25328838",
+  "venueHours": "\n                                                                                                        Mon 2:00pm-11:30pm, Fri 2:00pm-11:30pm, Sat-Sun 12:00pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.699586,33.095892&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.699586,33.095892&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Azeitona",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Middle Eastern\n                                    ",
+  "description": "All vegetarian falafel restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Beckstrasse 17-19",
+  "postalCode": "20359",
+  "phone": "tel:040-68981481",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-11:00pm, Fri-Sat 12:00pm-2:00am, Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.558724,9.964694&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.558724,9.964694&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

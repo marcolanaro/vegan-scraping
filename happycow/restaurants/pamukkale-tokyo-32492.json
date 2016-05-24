@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pamukkale",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Middle Eastern, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The main dishes are primarily meat-based, but many of the appetizers are vegan suitable when you ask to omit the yogurt garnish. Has stuffed peppers and eggplants (cold), salads, bread, and others. Belly dancing events. Address in Japanese: 東京都新宿区新宿3-21-7, 東新ビル5F.",
+  "priceRange": "Moderate",
+  "streetAddress": "Toshin Bldg 5f, 3-21-7 Shinjuku",
+  "phone": "tel:0353669560",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 2:00pm-1:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.693840,139.703549&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.693840,139.703549&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

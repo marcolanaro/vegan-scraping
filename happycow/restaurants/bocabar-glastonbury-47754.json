@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bocabar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Mediterranean, Salad bar, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant in the Red Brick Building Centre on the outskirts of town. Offers a labelled vegan mezze and has vegan salads at the deli counter. Regular menus include limited veg choices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "The Red Brick Building Centre, Morland Road",
+  "postalCode": "BA6 9FT",
+  "phone": "tel:01458440558",
+  "venueHours": "\n                                                                                                        Mon 9:30am-5:00pm, Tue-Thu 9:30am-11:00pm, Fri-Sat 9:30am-12:00am, Sun 9:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.138220,-2.735947&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.138220,-2.735947&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

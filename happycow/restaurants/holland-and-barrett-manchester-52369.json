@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Holland and Barrett - Chorlton",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "UK health food chain store. Stocks vegetarian and vegan food, vitamins and nutritional supplements, dried pulses, beans, and fruits. Has a fridge and freezer section.",
+  "streetAddress": "607 Wilbraham Road, Chorlton-Cum-Hardy",
+  "postalCode": "M21 9AN",
+  "phone": "tel:01618811539",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/hollandandbarrett",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.442570,-2.279390&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.442570,-2.279390&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

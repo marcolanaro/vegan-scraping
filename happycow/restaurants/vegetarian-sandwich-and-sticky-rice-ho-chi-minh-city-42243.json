@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Food Stall",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Take-out, Vietnamese\n                                    ",
+  "description": "This food stall offers vegetarian sandwiches and sticky rice, and the flavors taste good not bland. Owners disciples of Supreme Master Ching Hai. It's in District 5 and close to District 1, right off Tran Hung Dao. Huynh Man Dat is the street located right after Le Hong Phong if you are coming from District 1.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "76 Huynh Man Dat",
+  "phone": "tel:0906805399",
+  "venueHours": "\n                                                                                                        Mon-Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.755100,106.676806&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.755100,106.676806&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

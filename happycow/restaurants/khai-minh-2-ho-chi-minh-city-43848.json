@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khai Minh 2",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Macrobiotic, Organic, Take-out, Vietnamese\n                                    ",
+  "description": "Second Khai Minh restaurant. Emphasis is on food made with heirloom red rice including pancakes, noodles, teas, desserts, and crackers. No added sugar or MSG. Also sells macrobiotic packaged food and books. English menu. Has Wi-Fi. Previously located at 29 Ngo Quyen.",
+  "priceRange": "Moderate",
+  "streetAddress": "105B Ngo Quyen, District 5",
+  "phone": "tel:0949695959",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.754606,106.666309&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.754606,106.666309&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

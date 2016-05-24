@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lunchbox",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Fast food, Delivery, Take-out, Kosher, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers healthier food boxed for take out, or eat on the premises. Includes vegan options in each category: mains, lunch, desserts, sides, salads, sandwiches. The ingredients and nutritional information are marked each box. Daily deals are posted. Ask for a lunch coupon with your first order; the 10th lunch is free.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "19 Lilienblum",
+  "phone": "tel:03-5614444",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-10:30pm, Sun 8:00am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/LunchBox.co.il",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.062155,34.769821&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.062155,34.769821&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

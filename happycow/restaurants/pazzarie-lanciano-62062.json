@@ -1,0 +1,16 @@
+{
+  "title": "Pazzarie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Italian, Take-out, Bakery\n                                    ",
+  "description": "Vegetarian bakery and deli offering bread, pizza, focaccia, pastries, cookies, hot meals and salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via del Mare 128/130",
+  "postalCode": "66034",
+  "phone": "tel:+39-0872715967",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Pazzarie/349670615115094",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.239722,14.395546&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.239722,14.395546&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

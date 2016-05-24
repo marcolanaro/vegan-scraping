@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Falafel Tof",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Fast food, Beer/Wine, Take-out, Middle Eastern\n                                    ",
+  "description": "Falafel eatery, since 2014. The only non-vegan items are a salad dressing that contains yogurt and a dish that one can have with egg. Simple place. Eco-friendly.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hoogstraat 32",
+  "postalCode": "2000",
+  "phone": "tel:+32-32916660",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-8:00pm, Fri-Sat 12:00pm-12:00am, Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/falafeltofantwerpen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.219938,4.398386&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.219938,4.398386&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

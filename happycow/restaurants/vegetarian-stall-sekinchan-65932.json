@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Stall at Shuang Yang Coffee Shop",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "素食档在双杨茶餐室 inside Shuang Yang Coffee Shop.",
+  "priceRange": "Inexpensive",
+  "streetAddress": " Site B, 45400",
+  "phone": "tel:011-1885%208380",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 7:00am-3:00pm, Fri-Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.506205,101.105987&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.506205,101.105987&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mildreds - Kings Cross",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, European\n                                    ",
+  "description": "The third Mildreds opened Feb 2016 in the new student quarter of Kings Cross. A spacious open kitchen layout, vegetarian, with about 80% vegan or options. Reservations not accepted.",
+  "priceRange": "Expensive",
+  "streetAddress": "200 Pentonville Rd",
+  "postalCode": "N1 9JP",
+  "phone": "tel:0207-2789422",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-11:00pm, Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/mildredsrestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.531325,-0.116316&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.531325,-0.116316&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

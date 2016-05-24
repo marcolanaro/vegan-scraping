@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tony's Candy Store",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Ice cream and milkshakes, candy is mostly retro and/or imported from America. Has vegan ice cream on offer (vary day to day but might include coconut, banana, salted caramel, bounty, and vanilla), and there is sometimes vegan sorbet.",
+  "streetAddress": "141 Fore St",
+  "postalCode": "EX4 3AN",
+  "phone": "tel:01392437771",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-6:00pm, Fri 9:30am-6:30pm, Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TonysMilkshakesandCandy",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.720760,-3.535250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.720760,-3.535250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

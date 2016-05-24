@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bio Bar von Antun",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Beer/Wine, Take-out, European\n                                    ",
+  "description": "Vienna vegetarian restaurant. Extensive menu is around 90% is vegan and organic. Lunch is approx 10.50€-14€ or a large choice of a la carte options. Non-smoking.",
+  "priceRange": "Moderate",
+  "streetAddress": "Drahtgasse 3",
+  "postalCode": "1010 Wien",
+  "phone": "tel:+43-01-9689351",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:30am-11:00pm, Sat-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.211526,16.369629&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.211526,16.369629&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

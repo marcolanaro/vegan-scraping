@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pirata",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Delivery, Take-out\n                                    ",
+  "description": "Opened Jan 2015, a fish-free vegan sushi eatery offering primarily takeaway.",
+  "priceRange": "Moderate",
+  "streetAddress": "Neubaugasse 80, Wien",
+  "postalCode": "1070",
+  "phone": "tel:+43-69917332878",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-3:00pm, 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.205211,16.349247&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.205211,16.349247&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

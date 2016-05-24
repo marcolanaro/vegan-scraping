@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Naturhotel LechLife",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a separate section on the menu for vegan food which includes soups, several main dishes (with seitan and other faux meats) and dessert (cakes and others). The portions are rather small. As of November 2014, no other options for vegans in this small town.",
+  "priceRange": "Expensive",
+  "streetAddress": "Holz 1a",
+  "postalCode": "6610",
+  "phone": "tel:+430-567264234",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/naturhotel.lechlife",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.481648,10.680397&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.481648,10.680397&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

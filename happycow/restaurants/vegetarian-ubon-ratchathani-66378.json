@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Take-out\n                                    ",
+  "description": "Typical Thai vegetarian eatery with ready to order food and a limited selection of natural fruit drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Thammawithi 4, Tambon Kham Yai",
+  "postalCode": "34000",
+  "phone": "tel:+66893012500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-11:00am, 4:00pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.266150,104.839848&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.266150,104.839848&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

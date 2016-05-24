@@ -1,0 +1,19 @@
+{
+  "title": "Green Day",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Buffet, Fast food, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "At Rynek Glowny Market Square, east of St. Mary's Church in old town. In 2013 it took over the Green Way Classic Mikolajska that was here. Similar menu and concept.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Mikolajska 14",
+  "postalCode": "31-027",
+  "phone": "tel:586603301",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.061439,19.941461&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.061439,19.941461&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

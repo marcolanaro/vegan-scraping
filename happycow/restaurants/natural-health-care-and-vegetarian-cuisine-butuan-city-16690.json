@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natural Health Care and Vegetarian Cuisine",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Buffet, Filipino\n                                    ",
+  "description": "Natural Health Care and Vegetarian Cuisine has a nice, clean atmosphere with a TV. Owner is a doctor. Menu features carrot cake, veggie burgers, stir fry, and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Cor.Gomez, M. Calo Street",
+  "phone": "tel:0853601430",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-7:00pm, Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.945752,125.544001&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.945752,125.544001&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

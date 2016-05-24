@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Boonsom Farm Store",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Moved to this location Dec 2013. Boonsom is a producer of spirulina since early 1990s in Mae Wang village, a nature center with the Mae Win river and elephant camps 7km west of the farm. Visitors are invited to view a short video history of the farm and the 7 production steps of spirulina as well as purchase spirulina products. Boonsom also operates a shop called Green Cup at Star Avenue 3 Viva Terrace, Mahidol Road.",
+  "streetAddress": "Star Avenue 3, Viva Terrace Lifestyle Mall",
+  "phone": "tel:053363601-2",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.764939,98.991815&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.764939,98.991815&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

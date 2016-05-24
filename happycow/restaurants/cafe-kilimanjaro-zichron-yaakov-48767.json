@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Kilimanjaro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This coffee house is all veg except for tuna fish. Has vegan and gluten-free food including a red quinoa salad, gluten-free bread, and chocolate cake. Laid back atmosphere with free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hameyasdim 36",
+  "postalCode": "30900",
+  "phone": "tel:+972-542509120",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:00am-6:00pm, Thu 8:00am-10:00pm, Fri 8:00am-3:00pm, Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeKilimanjaro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.572008,34.954073&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.572008,34.954073&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

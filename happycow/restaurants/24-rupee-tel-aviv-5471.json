@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "24 Rupee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Take-out\n                                    ",
+  "description": "Vegetarian Indian Restaurant. Offers Indian thali, chai, and sweets.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Schocken 14-16",
+  "phone": "tel:03-6818066",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-12:00am, Fri 12:00pm-5:00pm, Sat-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/24rupee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.053186,34.772209&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.053186,34.772209&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

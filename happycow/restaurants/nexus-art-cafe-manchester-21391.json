@@ -1,0 +1,17 @@
+{
+  "title": "Nexus Art Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Eclectic artsy cafe that's a not-for-profit community arts space, linked to the Methodist Church. Serves some vegetarian and vegan food options. Located in the heart of Manchester's Northern Quarter.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dale Street, Northern Quarter",
+  "postalCode": "M1 1JW",
+  "phone": "tel:0161-2360100",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-7:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.480713,-2.234377&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.480713,-2.234377&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

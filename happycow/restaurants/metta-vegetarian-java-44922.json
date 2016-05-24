@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Metta Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indonesian\n                                    ",
+  "description": "A small, family owned restaurant. Serves vegetarian and vegan versions of Indon meals. No spoken or written English. Uses lots of faux meats. Hours are irregular; please check with them before going. Previously located at Jalan Simpang Wilis 7, Sep 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jalan Sawo, Malang",
+  "phone": "tel:081233255188",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-7.977813,112.615472&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-7.977813,112.615472&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

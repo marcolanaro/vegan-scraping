@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Water en Vuur",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant is located on a boat that is docked in the water. Easy to find with free parking and the big market is within walking distance. Offers a list of vegetarian and vegan dishes. Also has workshops on how to make seitan and others. ",
+  "priceRange": "Expensive",
+  "streetAddress": "IJzerdijk 48",
+  "postalCode": "8600",
+  "phone": "tel:0498-565555",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 12:00pm-2:30pm, Fri-Sun 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Water-en-Vuur/103732302621",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.024408,2.853238&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.024408,2.853238&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

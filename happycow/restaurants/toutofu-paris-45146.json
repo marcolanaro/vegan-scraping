@@ -1,0 +1,17 @@
+{
+  "title": "Toutofu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "Chinese food restaurant, opened Jan 2014. Name is a portemanteau for tout tofu, which means all tofu, so all the dishes are tofu-based. Tofu is made-in-house. Reported not using egg anymore in the house-made noodles and ravioli. Also see: http://www.nosbonnestables.canalblog.com/archives/2014/01/29/29040623.html",
+  "priceRange": "Moderate",
+  "streetAddress": "25 Rue Ordener",
+  "postalCode": "75018",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-5:00pm, Fri-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.890582,2.354417&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.890582,2.354417&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

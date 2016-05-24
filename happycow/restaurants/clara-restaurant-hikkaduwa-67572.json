@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Clara Restaurant ",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Asian, Sri Lankan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A non descript local roadside restaurant/shack, offers some made-in-house vegan Sri Lankan curry and vegetarian dishes (rice, noodles and veg) alongside a typical meat menu. Friendly family run. Expect noisy location and 30+ minutes' wait time.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Galle Road, Narigama",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.125424,80.108651&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.125424,80.108651&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

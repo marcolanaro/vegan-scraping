@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Base",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Part of a welcoming family home near the city centre and M32/M4/M5. Facilities include TV/DVD, wireless internet, beverages, iron, hairdryer, parking, your own entrance to double ensuite with power shower. Meals available served to your room or on the decking. Massage and foot treatments available. Will cater for special diets. Offers a \"breakfast in fridge\" option which you could pre-order; otherwise no longer offers breakfast as part of stay. The annexe is now no longer only vegetarian - it has a \"meat allowed\" policy for the self catering kitchen.",
+  "streetAddress": "564 Fishponds Rd, Bristol",
+  "postalCode": "BS16 3DD",
+  "phone": "tel:01179023456",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.476677,-2.538309&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.476677,-2.538309&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

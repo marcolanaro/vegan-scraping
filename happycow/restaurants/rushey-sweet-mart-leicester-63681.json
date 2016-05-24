@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rushey Sweet Mart",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "Vegetarian classic Gujurati sweet mart, with an East African style.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "86 Gipsy Lane",
+  "postalCode": "LE4 6RE",
+  "phone": "tel:01162125909",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 9:00am-6:30pm, Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Rushey-Sweet-Mart-386808638118643/timeline/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.654986,-1.107784&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.654986,-1.107784&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

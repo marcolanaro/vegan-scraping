@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kimosasa Vegetarian Cafe ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fusion\n                                    ",
+  "description": "西式素食咖啡厅 is a western style vegetarian food and coffee cafe.",
+  "priceRange": "Moderate",
+  "streetAddress": "C-6-G, Jalan PP25, Putra Walk, Taman Pinggiran Putra",
+  "postalCode": "43300",
+  "phone": "tel:0173844843/,%2003-89572688",
+  "venueHours": "\n                                                                                                        Mon 12:30pm-10:00pm, Wed-Thu 12:30pm-10:00pm, Fri-Sun 12:30pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Kimosasa-395546633895108",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.991859,101.676030&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.991859,101.676030&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

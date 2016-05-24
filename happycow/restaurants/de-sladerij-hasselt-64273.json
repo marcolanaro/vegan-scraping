@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "De Sladerij",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Salad bar, Take-out, European, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A no-nonsense salad bar where you can compose your own salads with daily fresh veggies. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Havermarkt 39 -2",
+  "postalCode": "3500",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/desladerij",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.929307,5.334615&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.929307,5.334615&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

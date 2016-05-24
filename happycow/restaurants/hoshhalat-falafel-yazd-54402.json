@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hoshhalat Falafel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Fast food, Middle Eastern\n                                    ",
+  "description": "On Salman Street (go south from the Cistern) you will find many falafel restaurants, and this is the only one that does not sell meat. Offers sandwich with fresh salad and falafel. Vegans be aware of mayonnaise sauce - specify.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Salman Street",
+  "phone": "tel:+989132507169",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-1:30pm, 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.891371,54.372844&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.891371,54.372844&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

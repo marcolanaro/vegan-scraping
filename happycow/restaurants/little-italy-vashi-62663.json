@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Little Italy",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Group of upscale vegetarian Italian restaurants in India. This one is near Vashi railway station. Uses dairy.",
+  "priceRange": "Expensive",
+  "streetAddress": "1st Floor, Platinum Techno Park",
+  "postalCode": "400703",
+  "phone": "tel:022-27811987-927",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/littleitaly.restaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.065253,72.995770&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.065253,72.995770&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

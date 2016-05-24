@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khai Minh 1",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Macrobiotic, Organic, Take-out, Vietnamese\n                                    ",
+  "description": "Small, family-owned vegan Vietnamese restaurant. Emphasis is on food made with heirloom red rice including pancakes, noodles, teas, desserts, and crackers. No added sugar or MSG. Also sells macrobiotic packaged food and books. Has Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "157 Dien Bien Phu Street, F15, Q Bin Tanh",
+  "phone": "tel:0989678129",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/QuanLucKhaiMinh",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.796990,106.703628&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.796990,106.703628&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

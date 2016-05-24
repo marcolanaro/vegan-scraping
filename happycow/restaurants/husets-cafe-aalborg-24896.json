@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Husets Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Buffet, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe inside a cultural centre. Large selection of vegetarian food with option to add meat. Chef comes out on request to explain dishes and ingredients used. The evening buffet is vegetarian and costs around DKK 50 per person. Nice interior. Fits individuals and groups. Makes season specials.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hasserisgade 10",
+  "postalCode": "9000",
+  "phone": "tel:+45-99824500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:30pm-2:00pm, Mon-Thu 5:30pm-7:00pm, Fri 5:30pm-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.046756,9.910189&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.046756,9.910189&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

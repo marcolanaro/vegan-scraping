@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dr. Tam's Vegan Haus",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Fast food, Take-out, Filipino\n                                    ",
+  "description": "Provides simple vegan food. Also sell a small selection of veggie meats, fresh organic vegetables, and other vegan foods. Hosts free health lectures on Sundays 3-6pm. Moved back to this original location from 2nd Flr Metrowalk, Meralco Ave, Pasig City in Nov 2013.",
+  "priceRange": "Moderate",
+  "streetAddress": "433 F. Legaspi St., Maybunga, Pasig City",
+  "phone": "tel:900-0548",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-8:00pm, Fri 9:00am-3:00pm, Sat-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.586117,121.064272&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.586117,121.064272&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

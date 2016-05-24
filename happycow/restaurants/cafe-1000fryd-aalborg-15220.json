@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe 1000Fryd",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Beer/Wine, European, Danish\n                                    ",
+  "description": "Bar and music venue serving sandwiches and cookies. Hosts a vegan soup kitchen on Tuesday (only). No smoking.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kattesundet 10",
+  "postalCode": "9000",
+  "phone": "tel:98132221",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 2:00pm-12:00am, Thu-Sat 2:00pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "fb": "http://www.facebook.com/Cafe1000Fryd",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.050223,9.917354&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.050223,9.917354&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

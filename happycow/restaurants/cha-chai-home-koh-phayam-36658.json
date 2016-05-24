@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cha Chai Home",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Almost entirely ovo-lacto-vegetarian except for the dishes that contain oyster sauce which can be left out or substituted with soya sauce on request. Extensive international and Thai food menu includes many salads and some faux meat dishes. Located near the middle of the island, on the road heading west from the school toward Aow Yai.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ao Yai Road",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Cha-Chai-Home/254384784616518",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.741500,98.416729&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.741500,98.416729&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "DaZhong Su Shi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Taiwanese\n                                    ",
+  "description": "大眾素食, at 大有路60號.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "60, Dayou St",
+  "phone": "tel:07-5516172",
+  "venueHours": "\n                                                                                                        Mon-Sun 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.628921,120.284409&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.628921,120.284409&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

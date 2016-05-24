@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ju Fu Makanan Saturan Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet\n                                    ",
+  "description": "聚福素餐食家 has a buffet table for quick meals or order off the menu, with a fair number of dishes listed. Adjacent to the Star City Hotel. Open longer hours on 1st and 15th of lunar calendar.",
+  "priceRange": "Moderate",
+  "streetAddress": "20-21 Jalan Tengah",
+  "postalCode": "05100",
+  "phone": "tel:+60-47325208",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.124785,100.363721&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.124785,100.363721&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

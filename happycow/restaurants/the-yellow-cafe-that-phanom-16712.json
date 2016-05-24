@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Yellow Cafe - maybe closed",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Thai, Take-out\n                                    ",
+  "description": "The Yellow Cafe serves home style food made with organically grown ingredients. Tofu and mushroom, pad thai with bean vermicelli, fruit smoothies. Formerly 117 Corner. NOTE: maybe closed/shut down, please verify and let HappyCow know.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rachautit, Soi 16, Phanompanarak",
+  "postalCode": "48110",
+  "phone": "tel:08-4448-9117",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.937000,104.724000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.937000,104.724000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

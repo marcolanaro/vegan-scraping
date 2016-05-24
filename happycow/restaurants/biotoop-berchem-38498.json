@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Biotoop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural shop established in 2012. Provides organic food, raw chocolate, non dairy milks, fresh fruit and vegetable, natural cosmetics, essential oils, nutritional supplements, and other ecological products.",
+  "streetAddress": "Strijdhoflaan 32",
+  "postalCode": "2600",
+  "phone": "tel:0032496907513",
+  "venueHours": "\n                                                                                                        Mon-Tue 9:00am-1:00pm, 2:00pm-6:00pm, Thu-Fri 2:00pm-6:00pm, Thu-Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Biotoop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.185978,4.426137&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.185978,4.426137&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

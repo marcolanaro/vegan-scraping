@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Phuoc Loc Tho",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Vietnamese\n                                    ",
+  "description": "Serves breakfast, lunch and dinner. Creative menu consisting of soups, salads, dumplings, Vietnamese country pancakes, spring rolls, a rice dish with vegetables and mock meats and more.  ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2A 30/4 St.",
+  "phone": "tel:097-7096590",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.352664,106.361400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.352664,106.361400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

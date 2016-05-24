@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Taj Mahal",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food restaurant with a daily buffet as well a la carte menu. Staff will show you which buffet or menu items are vegan suitable. Shabby-like Indian decor.",
+  "priceRange": "Moderate",
+  "streetAddress": "Adlergasee 14",
+  "postalCode": "4020",
+  "phone": "tel:+43-0732776051",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Taj-Mahal-Linz/207007365983643",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.306788,14.287798&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.306788,14.287798&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

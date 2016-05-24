@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "42 Degrees Raw",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Pizza, Organic, Raw, Western, Buffet, Fast food, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "One of several 100% vegan 42 Degree Raw outlets. Offers primarily raw food with several cooked dishes which are all sugar-free, gluten-free.  Open first and last Sunday; otherwise not. ",
+  "priceRange": "Expensive",
+  "streetAddress": "Frederiksberg Centret, Falkoner Alle 21  ",
+  "postalCode": "2000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-7:30pm, Sat-Sun 10:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/42raw",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.681478,12.534169&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.681478,12.534169&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

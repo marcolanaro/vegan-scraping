@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Holiday",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic\n                                    ",
+  "description": "You must call to reserve at least 3 or more hours ahead, then the owner will arrange for the staff to meet you at the restaurant. Est. May 2015 a little vegan cafe at the foot of Mt. Fuji. Serves lunch and macrobiotic dessert.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1141-124 Hirano",
+  "postalCode": "401-0502",
+  "phone": "tel:555738660",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-5:00pm, Fri-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "fb": "http://www.facebook.com/vegan.holiday",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.430118,138.917577&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.430118,138.917577&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

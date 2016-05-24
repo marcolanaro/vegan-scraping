@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nepali & Indian Only Vegetable",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Nepali\n                                    ",
+  "description": "Opened Dec 2015 offering a vegetarian food menu of Nepalese and Indian dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "54, ground floor, St 29, lower block, Babedan Township",
+  "phone": "tel:09-781083806",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.772707,96.156407&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.772707,96.156407&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gokul Vegetarian Restaurant and Cafe- Fortune Centre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Indian, International, Take-out\n                                    ",
+  "description": "There is another Gokul Restaurant location on Upper Dickson Rd in Little India. Order a la carte. A variety of vegan options. No onion or garlic used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "190 #01-07, Fortune Centre",
+  "postalCode": "188979",
+  "phone": "tel:63374811",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300336,103.852052&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300336,103.852052&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

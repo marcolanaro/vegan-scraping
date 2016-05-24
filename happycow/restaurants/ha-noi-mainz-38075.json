@@ -1,0 +1,17 @@
+{
+  "title": "Ha Noi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Asian, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The Vietnamese food menu includes a separate page of vegetarian dishes which most are vegan suitable.",
+  "priceRange": "Moderate",
+  "streetAddress": "Leibnitzstrasse 46",
+  "postalCode": "55118",
+  "phone": "tel:061316932395",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.007376,8.259268&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.007376,8.259268&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

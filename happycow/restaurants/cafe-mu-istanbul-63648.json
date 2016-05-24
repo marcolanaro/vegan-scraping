@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe MU",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Mediterranean, Bakery\n                                    ",
+  "description": "A coffee place in the heart of Yeldegirmeni quarter. Serves coffees, teas, cakes, pies, and quiche. Has several veganized options such as vegan cake and vegan hot chocolate drink.",
+  "priceRange": "Moderate",
+  "streetAddress": "Karakolhane Caddesi 46/a, Yeldegirmeni, Kadikoy",
+  "phone": "tel:+902163375357",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafemu.yeldegirmeni",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.995173,29.029386&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.995173,29.029386&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

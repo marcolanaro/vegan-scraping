@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shoue-Hyang",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A cafe inside Seoraskan National Park, located near the cable car. Offers a vegetarian bibimbap, which is labeled veg in English. The gamja jeon (potato pancake) is another vegetarian option.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Seoraksan-ro, Sokcho-si, Gangwon-do",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.173055,128.491736&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.173055,128.491736&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

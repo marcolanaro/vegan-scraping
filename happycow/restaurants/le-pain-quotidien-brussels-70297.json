@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Le Pain Quotidien - Fort Jaco",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Mediterranean, Catering, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Belgian-based international restaurant chain featuring fresh artisan bakery and communal table. Each section of the menu includes at least one vegan option, labeled on the menu (e.g. rice milk porridge for breakfast, cashew cheese, vegan brunch).",
+  "priceRange": "Moderate",
+  "streetAddress": "Chaussée de Waterloo 1480",
+  "phone": "tel:23749229",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-6:30pm, Sun 7:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.784470,4.378557&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.784470,4.378557&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hoonja Food",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food market and Christian bookstore. Stock varies and includes veggie meat, organic legumes, packaged foods. Directions: exit subway at Hoegi, take exit 2, when you come off the stairs turn right and walk out to the main road, past the shop that sells bedding, turn left and follow the main road to the 3rd set of lights (which is opposite the gate to the Sahmyook Hospital and SDA Language institute), cross the road at the 3rd set of lights, and the shop is on the corner opposite the lights, kind of diagonal so it is facing the intersection.",
+  "streetAddress": "Hoeghie subway 1",
+  "phone": "tel:02-22429500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.589758,127.062031&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.589758,127.062031&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

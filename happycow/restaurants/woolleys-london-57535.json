@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Woolley's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Buffet, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small lunch joint in Holborn that also operates as a local office caterer. Has an entirely vegetarian salad bar; a soup of the day that is always vegetarian and sometimes vegan; baked potatoes with a variety of toppings; and a hot food bar that always has at least a couple vegan choices such as dahl, chilli, or tagine. Veg/vegan is labeled.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "33 Theobalds Rd",
+  "postalCode": "WC1X 8SP",
+  "phone": "tel:02074053028",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.520237,-0.118310&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.520237,-0.118310&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

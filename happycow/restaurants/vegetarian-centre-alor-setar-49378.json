@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Centre - Ching Xuan Yi",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out, Malaysian\n                                    ",
+  "description": "青圆意素食餐馆 provides vegetarian meals and also sells vegetarian mock meat, cooking ingredients, and organic products for take home.",
+  "priceRange": "Moderate",
+  "streetAddress": "1123, Lorong Kilang Ais, Persiaran Sultan Abdul Hamid",
+  "postalCode": "05400",
+  "phone": "tel:0194617987",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.107639,100.361692&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.107639,100.361692&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

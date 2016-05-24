@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Astrid och Aporna - Chp",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Vegan food store opened Dec 2014 in the heart of Frederiksberg. Stock vegan cheeses and faux meats as well a variety of sweets.",
+  "streetAddress": "Christian Winthers vej 2",
+  "postalCode": "1860",
+  "phone": "tel:33%2022%2000%2008",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-6:00pm, Fri 10:00am-7:00pm, Sat 11:00am-4:00pm, Sun 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Astrid-och-Aporna-Cph/1577575432456309",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.680604,12.534308&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.680604,12.534308&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

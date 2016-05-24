@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xiaminxi - Rice Revolution",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Take-out, Taiwanese\n                                    ",
+  "description": "呷米昔食厨房 is a small shop with a kitchen. Sells eco-friendly products. Close to MRT NTU Hospital station. Open Sunday by reservation only.",
+  "priceRange": "Moderate",
+  "streetAddress": "9, Hengyang Rd",
+  "phone": "tel:02-23319662",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.042415,121.513701&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.042415,121.513701&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

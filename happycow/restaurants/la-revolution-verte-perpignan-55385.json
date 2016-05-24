@@ -1,0 +1,19 @@
+{
+  "title": "La Revolution Verte",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Macrobiotic, Organic, Western, Juice bar, Take-out\n                                    ",
+  "description": "Vegan gluten-free restaurant applying macrobiotic techniques. Opened Jan 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "5 rue du Théatre",
+  "postalCode": "66000",
+  "phone": "tel:0695300066",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.698300,2.896243&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.698300,2.896243&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

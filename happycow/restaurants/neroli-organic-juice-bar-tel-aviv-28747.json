@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Neroli Organic Juice Bar and Rawfood Diner",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Organic, Raw, Western, Juice bar, Take-out\n                                    ",
+  "description": "Offers a menu of drinks and food which are 100% vegan, some raw, and mostly organic. Find green juices and smoothies, almond milk shakes, raw soups, acai-granola bowl, wheatgrass shots, raw desserts, kale salad, tabouleh-falafel platter, sandwiches, and veggie sushi. Moved to this space in 2014 from Shabazi St.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3, Lilienblum",
+  "postalCode": "65150",
+  "phone": "tel:03-5107869",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:30am-8:00pm, Fri 8:30am-4:00pm, Sun 8:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.061842,34.767419&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.061842,34.767419&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

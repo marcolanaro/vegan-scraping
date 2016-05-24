@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Comptoir 102",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Macrobiotic, European, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee cafe and accessories shop. The chef uses techniques for optimized digestion like pre-soaking, fermenting, low-temperature cooking, and steaming. Offers a daily menu. Has vegan choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "102, Beach Rd, Jumeira 1",
+  "phone": "tel:971-43854555",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:30am-7:00pm, Sun 8:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/comptoir102",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.184514,55.227447&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.184514,55.227447&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

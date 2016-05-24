@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "TripKitchen at TripSpace",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, Western, Mediterranean, Beer/Wine, Take-out, Asian, English, European, Fusion, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lovely space underneath the railway arches near Haggerston Overground station and Regent's Canal. Part of a yoga and dance studio. Serves mainly vegetarian and vegan dishes, with some meat and fish specials a few times a week. The menu focuses a lot on Middle Eastern and Indian cuisine. Open for breakfast, lunch and dinner, plus a weekend brunch with a small selection of cakes, some of which are vegan and/or gluten free, and raw nut and date balls.\r\n\r\n\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "339-340 Acton Mews, TripSpace Projects Arches",
+  "postalCode": "E8 4EA",
+  "phone": "tel:02079239417",
+  "venueHours": "\n                                                                                                        Mon 9:00am-6:00pm, Tue-Thu 9:00am-11:00pm, Fri-Sat 9:00am-12:00am, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tripspace",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.536715,-0.075839&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.536715,-0.075839&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

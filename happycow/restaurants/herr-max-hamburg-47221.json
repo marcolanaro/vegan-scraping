@@ -1,0 +1,13 @@
+{
+  "title": "Herr Max",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery with nice atmosphere and Wi-Fi. Offers house-made cakes including vegan choices which might be chocolate blueberry cupcake, chocolate cupcake with orange ganache, or banana bread. Soymilk for coffee and dairy-free ice cream available.",
+  "streetAddress": "Schulterblatt 12",
+  "postalCode": "20357",
+  "phone": "tel:04069219951",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.559961,9.963780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.559961,9.963780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

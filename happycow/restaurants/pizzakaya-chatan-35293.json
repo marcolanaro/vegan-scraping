@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pizzakaya",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Organic, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. California style pizzas shop. Has a separate menu for vegetarians.  Pizza dough used is vegan as of Apr 2016. Try the salad with the vegan version of the house dressing. Uses organic vegetables and has vegan cheese available. Also has a gluten free crust available for the small size pizza.",
+  "priceRange": "Expensive",
+  "streetAddress": "ATS Chatan 2-1, Mihama 9-17, Chatan",
+  "postalCode": "904-0115",
+  "phone": "tel:098-9360042",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pizzakayaokinawa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.316733,127.754766&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.316733,127.754766&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

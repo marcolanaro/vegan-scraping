@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aryaas",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Juice bar, Take-out, Indo-Chinese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. South Indian, North Indian, and Chinese food. Has thali set meals, masala dosa, onion rava, idli, uttappam, vada, chicory flavored coffee. Seats 123, including a separate family section.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sitteen Street, Sharafiah",
+  "phone": "tel:6322910",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-3:30pm, 7:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.543486,39.172989&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.543486,39.172989&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

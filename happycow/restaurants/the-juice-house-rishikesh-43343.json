@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Juice House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Juice bar\n                                    ",
+  "description": "Juice bar and cafe on the way to Parmarth Niketan ashram, by the Ganga river. Offers fruit juices, smoothies, fruit salads, porridge (has soymilk), muesli, chai, and coffee.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ram Jhula, Swargashram",
+  "phone": "tel:9756753806",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ajaysfanclub",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.120877,78.312853&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.120877,78.312853&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Daylight Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Spacious natural food restaurant 5 minutes from Shibuya station. Has vegan lunch set which sells out quickly.",
+  "priceRange": "Moderate",
+  "streetAddress": "Tokyo, Shibuya, Sakuragaokacho 23-18",
+  "phone": "tel:03-5728-4528",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-4:00pm, 5:30pm-11:00pm, Sat-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/daylightkitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.655909,139.699918&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.655909,139.699918&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

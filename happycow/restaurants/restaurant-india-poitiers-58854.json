@@ -1,0 +1,17 @@
+{
+  "title": "Restaurant India",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a vegetarian thali as traditional starters such as dhal samosa and pakora, naan bread, and kulfi dessert, lassi with mango pulp, Indian wine. Access direct from street, a short walk from the central Notre Dame church square.",
+  "priceRange": "Moderate",
+  "streetAddress": "178 Grande Rue",
+  "postalCode": "86000",
+  "phone": "tel:+33-549602603",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-2:00pm, 7:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.582755,0.345578&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.582755,0.345578&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

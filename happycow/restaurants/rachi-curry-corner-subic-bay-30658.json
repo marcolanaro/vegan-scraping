@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rachi Curry Corner",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food menu with two pages of vegetarian dishes of which several could be modified for vegans. Owner is very particular of food, so vegans may specify. Indian background music, Wi-Fi access, clean, smoking outside. Minutes walk from Harbor Point Mall, across from Subic International Hotel. Previously on Sampson Road. Confirmed open, Feb 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sta.Rita Road, Lot 5, Ground floor, Retail 1-C, Time Square",
+  "postalCode": "2222",
+  "phone": "tel:63-47-2502855",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.823380,120.281210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.823380,120.281210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

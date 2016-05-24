@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Casa Zdravlja",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A raw food stand on the second floor of the Point shopping centre. Uses organic ingredients to prepare raw super-food smoothies, juices, cakes and mousse. The cakes and mousse do contain honey, but due to customer demand they plan to offer vegan desserts as well. No seating. ",
+  "streetAddress": "Rudeska Cesta 169a",
+  "postalCode": "10000",
+  "phone": "tel:+385-91-2300-334",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/magicfactory.hr",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.791474,15.913770&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.791474,15.913770&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Good Health Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store. Sells health and organic products, cold juices, international products and packaged foods, vitamins, beauty and body natural products. Its little veggie food bar inside shut down, Jan 2014.",
+  "streetAddress": "48/4-5 Sridonchai Road",
+  "phone": "tel:053-206888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.781285,98.998371&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.781285,98.998371&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

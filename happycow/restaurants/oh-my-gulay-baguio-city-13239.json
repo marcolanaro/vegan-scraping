@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Oh My Gulay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo\n                                    ",
+  "description": "An art gallery and veggie restaurant with panoramic view of Baguio City. Unique and eclectic ambiance. No MSG.",
+  "priceRange": "Moderate",
+  "streetAddress": "5th floor, La Azotea, Session Rd",
+  "phone": "tel:0918-6676025",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.412609,120.597379&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.412609,120.597379&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

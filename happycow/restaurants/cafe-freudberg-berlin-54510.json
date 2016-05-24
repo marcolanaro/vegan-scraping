@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Freudberg",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Veggie bakery cafe offering 4 or 5 vegan cake/muffins each day. Makes fresh made oat and almond milk plus smoothies, pies, waffles, muffins, brioche. Uses mostly regional, organic and fair-trade.",
+  "streetAddress": "Kortestr 34",
+  "postalCode": "10967",
+  "phone": "tel:+49-3061626500",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-7:00pm, Sat-Sun 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.489970,13.408040&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.489970,13.408040&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

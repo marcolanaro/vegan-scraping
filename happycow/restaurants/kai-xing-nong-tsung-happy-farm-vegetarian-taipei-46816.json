@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kai Xing Nong Tsung - Happy Farm Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Take-out, Taiwanese\n                                    ",
+  "description": "Noodles restaurant with a small buffet section on the second floor. Located in front of a small park and a Santa Cruz shop - look for the veg sign, 素. Mostly vegan, with the exception of a couple of the mock meats.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "16, Alley 14, Lane 283, Sec. 3, Luosifu Road",
+  "postalCode": "106",
+  "phone": "tel:02-23678438",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:30am-2:00pm, 4:30pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/HappyFarmVegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.018588,121.531771&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.018588,121.531771&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

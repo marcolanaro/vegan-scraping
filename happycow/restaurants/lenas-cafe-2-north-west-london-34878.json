@@ -1,0 +1,19 @@
+{
+  "title": "Lena's Cafe 2",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Take-out, Bakery, Catering, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Boutique style food shop where many prepared salads and dishes are displayed in a large glass case. Daily baked breads, hot vegetarian and vegan suitable items. Has another location in Paddington.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "267 West End Lane, West Hampstead",
+  "postalCode": "NW6 1QS",
+  "phone": "tel:0207-4435666",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.550481,-0.191518&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.550481,-0.191518&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bar Briyut",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Salad bar, Take-out, Middle Eastern, Israeli, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Home-style restaurant, gets crowded at lunch from the surrounding office and blue collar business employees. Vegans could get from the salad bar plus soup, stews, stir-fries, grains, Moroccan hummus, legumes, curries, and other food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4 HaRakevet Street",
+  "phone": "tel:03-5665010",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-3:30pm, Sun 9:00am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.062849,34.775390&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.062849,34.775390&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

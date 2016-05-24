@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Neri Kitchen - Pop up",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Usually twice a month uses the space of Common Cafe at 大阪市北区中崎西1-1-6 to offer a vegan Japanese style lunch, pilaf or curry, plus cake, coffee, and tea. Must call ahead to check.",
+  "streetAddress": "Osaka-shi, Kita-ku, Nakazaki-nishi 1-1-6, Yoshimura Building B1F",
+  "postalCode": "530-0015",
+  "phone": "tel:06-63711800",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.707036,135.504973&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.707036,135.504973&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

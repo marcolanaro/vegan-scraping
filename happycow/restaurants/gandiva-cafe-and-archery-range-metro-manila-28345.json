@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gandiva Cafe and Archery Range",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, International, Western, Take-out\n                                    ",
+  "description": "Offers a variety of vegetarian food, including pizza, pasta, sandwiches, burgers, rice bowls, faux meats, and drinks. Uses dairy.",
+  "priceRange": "Moderate",
+  "streetAddress": "Unit 703-705 One Corporate Center, Julia Vargas cor. Meralco Ave., Ortigas Center, Pasig City",
+  "postalCode": "1600",
+  "phone": "tel:6388771",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:00am-7:00pm, Fri-Sat 10:00am-9:00pm, Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Gandiva-Cafe-and-Archery-Range/140651039350389",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.576377,121.085110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.576377,121.085110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

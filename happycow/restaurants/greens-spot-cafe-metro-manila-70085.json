@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Greens Spot Cafe ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Buffet, Fast food, Take-out, Asian, Fusion\n                                    ",
+  "description": "Small and cozy vegetarian cafe with air-conditioning and free Wi-Fi. Est. Dec 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "51 Magiting St, Teachers Village, Quezon City ",
+  "postalCode": "1104",
+  "phone": "tel:09178858687",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:30am-10:00pm, Fri 10:30am-6:00pm, Sat 6:00pm-10:30pm, Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/greensspotcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.646738,121.059496&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.646738,121.059496&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Gallery Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Take-out, British, English\n                                    ",
+  "description": "Situated near the Museum of Childhood in Bethnal Green, a social enterprise of St. Margaret's House. All food is vegan with vegetarian options, including pizza with vegan cheese. Also hosts a program of live events, a new art exhibition from an up-and-coming artist every month, live music nights, film screenings, comedy, and spoken word events throughout the year.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "21 Old Ford Road, Bethnal Green",
+  "postalCode": "E2 9PL",
+  "phone": "tel:020-89833624",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-9:00pm, Sat-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/thegallerycafelondon",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.529752,-0.054388&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.529752,-0.054388&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "India Star",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out\n                                    ",
+  "description": "Opposite Hira restaurant Kalba Road, near National Pait R/A, this place serves homestyle Gujarati Indian cuisine. Generally crowded. Unsure if it's pure veg or not... please verify for happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kalba Road",
+  "phone": "tel:065399411",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.357522,55.391865&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.357522,55.391865&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

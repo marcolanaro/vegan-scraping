@@ -1,0 +1,18 @@
+{
+  "title": "Blossom",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Bakery, European, Polish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee, baked goods, and food with some vegetarian choices but limited for vegans.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rakowicka 20",
+  "phone": "tel:572244515",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-9:00pm, Sat-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BlossomCofeeAndFood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.069164,19.952702&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.069164,19.952702&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

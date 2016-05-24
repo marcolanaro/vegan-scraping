@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "New Edge Vegie Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "A very extensive la carte menu with pictures. Staff speaks English. Large portions. Name in Chinese 新素代. Confirmed open as of June 9, 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "WK Commercial Centre",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Tue 7:00am-2:30pm, 5:00pm-9:30pm, Thu-Sun 7:00am-2:30pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.928789,116.090702&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.928789,116.090702&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Cafe Lotus",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Take-out\n                                    ",
+  "description": "Casual and bright space. Offers macrobiotic lunch set, sweets, and a vegan ice cream counter. Sells some tea and coffee things.",
+  "priceRange": "Moderate",
+  "streetAddress": "6-16-12 Nishiiwata",
+  "phone": "tel:0532-690880",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.751097,137.422186&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.751097,137.422186&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

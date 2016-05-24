@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lotus Vegetarian Restaurant and Teahouse",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Taiwanese\n                                    ",
+  "description": "蓮花素食茶飲館, at 台北市北投區溫泉路110之2號, is a simple Buddhist restaurant located a short walk from the geothermal park, next to a large Christian church. Uses faux meats (unsure if vegan or not) and sometimes dairy. Closes between lunch and dinner.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "110-2 Wenquan Rd, Beitou District",
+  "phone": "tel:02-28927611",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.136146,121.510859&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.136146,121.510859&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

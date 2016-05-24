@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ro-Dhel Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Indian, Organic, Filipino\n                                    ",
+  "description": "Serves vegetarian Filipino dishes such as afritada, estopado, tapa with pineapple, alacubana, kare-kare. Also available raw vegetable (green salad), ampalaya (bitter gourd), raddish, raw Spaghetti out of vegetable by ordering. Juices and daily snacks. Sells frozen products.",
+  "priceRange": "Moderate",
+  "streetAddress": "Public Market, Blk A, Stall 36/37",
+  "phone": "tel:09175121499;%2009228393743",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-7:00pm, Fri 9:00am-4:30pm, Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.840354,120.286989&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.840354,120.286989&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

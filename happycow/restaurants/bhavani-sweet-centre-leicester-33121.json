@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bhavani Sweet Centre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out, Catering\n                                    ",
+  "description": "Switched from Surtaj Sweet Centre in 2015, this is an Indian vegetarian restaurant with an extensive menu. Indian food and sweets.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "69 Narborough Rd",
+  "postalCode": "LE3 0LE",
+  "phone": "tel:01162333350",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/bhavani.sweet.centre",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.629190,-1.149031&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.629190,-1.149031&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

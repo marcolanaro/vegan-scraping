@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natural Holiday Inn",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Sri Lankan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Guesthouse and restaurant in a family home of a retired couple. Offers a simple menu with possibility to get vegetarian and vegan food upon request. Homely atmosphere with a luscious garden. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "6 Modara Road, Medaketiya",
+  "phone": "tel:047-2242325",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/NaturalHolidayInn",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.029966,80.797791&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.029966,80.797791&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

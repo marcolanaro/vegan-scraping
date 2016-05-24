@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kunstheuriger Zentgraf",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. B&B, gallery, and restaurant. Offers several veggie items including a veggie burger, vegan roast, veggie kümmelbraten and green hawfinch, different spreads and vegetable dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Setzgasse  1",
+  "postalCode": "7072",
+  "phone": "tel:+43-6506296619",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sun 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.751385,16.664376&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.751385,16.664376&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Stiftsrestaurant Melk",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, German, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant of the famous Stift Melk. Has one labeled vegan dish - a vegetable strudel.",
+  "priceRange": "Expensive",
+  "streetAddress": "Abt-Berthold-Dietmayr-Str. 3",
+  "postalCode": "3390 ",
+  "phone": "tel:275252555",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.229456,15.333455&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.229456,15.333455&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

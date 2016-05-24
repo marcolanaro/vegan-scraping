@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Miller Hospital Cafeteria",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Filipino\n                                    ",
+  "description": "Cafeteria located inside hospital. Has tofu and gluten dishes, soymilk, whole wheat bread, cinnamon bread, and much more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "400 Tres de Abril Street",
+  "postalCode": "6000",
+  "phone": "tel:032-2612100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.297441,123.879948&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.297441,123.879948&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

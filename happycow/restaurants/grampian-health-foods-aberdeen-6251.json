@@ -1,0 +1,13 @@
+{
+  "title": "Grampian Health Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "An independent health food shop. ",
+  "streetAddress": "34 Market St",
+  "postalCode": "AB11 5PL",
+  "phone": "tel:01224-590886",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.146030,-2.096410&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.146030,-2.096410&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Zoi Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Delivery, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery and little bistro. Has sweet as well salted vegan items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "via Mattei 82",
+  "postalCode": "20020",
+  "phone": "tel:+39-0293582056",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-1:00pm, 3:30pm-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ZoiBakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.545125,9.078451&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.545125,9.078451&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

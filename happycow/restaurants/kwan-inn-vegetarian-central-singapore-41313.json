@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kwan Inn Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "Not actually in the food court, but one of the stalls nearby. Sells economy rice, curry puff, chwee kueh, egg tart, chee cheong fun, char siew noddle, tahu goreng, laksa and pau.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "101 Upper Cross Street, People's Park Centre, B1-06/75-78",
+  "postalCode": "058357",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.285697,103.843945&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.285697,103.843945&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

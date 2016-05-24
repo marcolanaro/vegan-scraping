@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut  - Com Chay Phuc Lac",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Buffet, Take-out, Vietnamese\n                                    ",
+  "description": "Part of Loving Hut vegan restaurants. Hosts buffet on lunar moon 1st and 15th of the month. Info: www.foody.vn/ha-noi/com-chay-phuc-lac",
+  "priceRange": "Inexpensive",
+  "streetAddress": "So 84-Ngo 165 Chua Boc, Dong Da",
+  "phone": "tel:0935102703",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.006946,105.826490&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.006946,105.826490&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

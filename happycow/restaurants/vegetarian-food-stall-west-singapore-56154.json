@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Fast food, Take-out\n                                    ",
+  "description": "佛素食 is a vege stall that moved here from old ayer rajah crescent hawker centre. Try the olive fried rice, fried mee hun, or mixed rice.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 69 Ayer Rajah Crescent",
+  "postalCode": "139961",
+  "phone": "tel:92360452",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 5:30am-2:00pm, Sat 5:30am-10:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/n/a",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.296167,103.787009&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.296167,103.787009&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

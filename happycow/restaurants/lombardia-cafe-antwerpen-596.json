@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lombardia Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Macrobiotic, Organic, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A family business since 1972 which started out as a health food store and grew to incorporate a cafe and a line of hot fruit and ginger juices. The organic deli/diner serves a wide range of raw food, gluten-free, veggie, and vegan options. Specials are the California style salads, veggie soups, and vegan dish of the day; try the vegan whipped cream. Seats 80.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lombardenvest 78, Antwerp",
+  "phone": "tel:+32-3-2336819",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/lombardia.antwerp",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.217311,4.404019&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.217311,4.404019&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

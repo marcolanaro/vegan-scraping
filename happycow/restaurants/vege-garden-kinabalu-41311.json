@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Chinese, Western, Take-out\n                                    ",
+  "description": "素园 provides simple breakfast such as economy noodles. Daily veg dishes including tofu, tempeh, eggs and vegetables. Choice of 3-4 options served over steamed rices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "G17, Jalan Tun Razak",
+  "postalCode": "88000",
+  "phone": "tel:+6012-8203460",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/garden.vege",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.986197,116.076098&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.986197,116.076098&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

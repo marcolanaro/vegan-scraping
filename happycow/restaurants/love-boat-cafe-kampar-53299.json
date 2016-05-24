@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Love Boat Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Indian, International, Buffet, Delivery, Take-out, Asian, Catering\n                                    ",
+  "description": "爱之船料理 has Wi-Fi. Kitchen breaks from 3-5pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "33, Persiaran Batu Karang, Taman Kolej Perdana",
+  "postalCode": "31900",
+  "phone": "tel:05-4701280/,%2005-4701281",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.330434,101.144870&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.330434,101.144870&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

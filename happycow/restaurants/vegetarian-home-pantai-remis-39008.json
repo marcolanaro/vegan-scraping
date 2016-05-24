@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Home - maybe closed ",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "Vegan restaurant serving Chinese cuisine. NOTE: maybe closed/shut down, please verify and let HappyCow know.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "7 Jalan Syarikat Nelayan",
+  "postalCode": "34900",
+  "phone": "tel:+6056772167",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.468581,100.633029&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.468581,100.633029&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

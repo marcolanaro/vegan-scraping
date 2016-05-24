@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Life Delight",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Juice bar, Take-out\n                                    ",
+  "description": "Vegetarian Chinese restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "32 Jalan Ambong Dua, Kepong Baru",
+  "postalCode": "52100",
+  "phone": "tel:+603-62599226",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Vege-Life-Delight-Restaurant/584465054965970",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.211175,101.646676&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.211175,101.646676&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

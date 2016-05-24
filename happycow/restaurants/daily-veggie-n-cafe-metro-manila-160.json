@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Daily Veggie N' Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Take-out, Catering\n                                    ",
+  "description": "An ovo-lacto vegetarian restaurant established since 2001. Will adjust dishes to cater to customers with specific diets. Also sells refrigerated and dry vegetarian food. Current location since Jan 2013; previously 540 Banawe Street, Quezon City.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "114 Sto. Domingo Avenue, Siena, Quezon City",
+  "phone": "tel:632-7118209",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Daily-Veggie-n-Cafe/329289198335",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.636792,121.005711&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.636792,121.005711&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

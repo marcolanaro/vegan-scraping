@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rattle Gill Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International\n                                    ",
+  "description": "Small vegetarian cafe by the river, with options such as soup with bread and cheese or hummus, salads, jacket potatoes, flapjacks and cakes (usually some vegan), and drinks including a selection of cordials. Nice atmosphere and retro posters on the walls.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Bridge Street",
+  "postalCode": "LA22 9DU",
+  "phone": "tel:015394-34403",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Rattle-Gill-Cafe/233303880018102",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.432699,-2.962682&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.432699,-2.962682&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

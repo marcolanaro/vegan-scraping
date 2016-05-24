@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Exclusive Cake Shop & Vintage Tearoom ",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Bakery, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vintage tearoom with a separate vegan menu and can offer vegan afternoon tea and special order vegan cakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "47 North St",
+  "postalCode": "po191nf",
+  "phone": "tel:01243774127",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheExclusiveCakeShopAndVintageTearoom",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.839770,-0.778702&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.839770,-0.778702&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

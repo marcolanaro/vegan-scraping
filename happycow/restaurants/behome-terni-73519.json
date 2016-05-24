@@ -1,0 +1,19 @@
+{
+  "title": "BeHome",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Western, Beer/Wine, Take-out, Fusion\n                                    ",
+  "description": "Vegetarian restaurant est. Jan 2016. Prepares vegan and vegetarian meals with fresh seasonal produce. Cozy atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Cavour, 54",
+  "postalCode": "05100",
+  "phone": "tel:07441921618",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:30pm-3:00pm, Thu-Sun 7:30pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/behomeveg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.562485,12.645291&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.562485,12.645291&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

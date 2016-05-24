@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "HaTemani",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Take-out, Middle Eastern, Yemenite, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small Yemenite restaurant in South Tel Aviv with a mostly blue-collar clientele. Offers a vegetarian plate that is vegan suitable. Ask for the tzalachat tzimchonit. You pick 5 different items, like humus, salads, and falafel.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "39 Yehuda HaLevi",
+  "phone": "tel:03-5663939",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-6:00pm, Fri 10:00am-3:00pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.061775,34.772413&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.061775,34.772413&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

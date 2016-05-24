@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Roots Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Fast food, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "Seasonal cafe on the slopes of the Happo-One ski resort, near the start of the Kokusai 1 lift. Provides quick meals that are mostly vegan, including Mexican and falafel and hummus wraps, pasta, basic Chinese stir fry and rice meals, Indian-style curry, nachos, and other snack food. Uses organic and locally-grown ingredients. Note that the burger buns (bought from outside) contain dairy, and some sauces contain honey. Address is 長野県北安曇郡白馬村北城 4377.",
+  "priceRange": "Moderate",
+  "streetAddress": "4377 Happo, Kokusai Lodge",
+  "postalCode": "399-9301",
+  "phone": "tel:0261-72-5150",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Roots-Cafe-Hakuba/138795199466784",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.706090,137.833590&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.706090,137.833590&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

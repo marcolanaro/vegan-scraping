@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Marmite - temporarily closed",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Juice bar, Beer/Wine\n                                    ",
+  "description": "Vegetarian restaurant with vegan options. You can eat either the main dish or a menu and choose to pay either 4€ (min.), 8€ (medium) or 10€ (support the cause). Tap water is free. Drinks include freshly squeezed juices, tea, coffee, (local) beer, wine. Kitchen managed by groups of people that each work for a different non-profit organization. Reportedly closed for a remodel / restructuring - Sept 2014. Please update HappyCow of changes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "304 Rue Haute",
+  "postalCode": "1000",
+  "phone": "tel:+32471582768",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.835044,4.346866&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.835044,4.346866&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

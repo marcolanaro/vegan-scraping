@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Luk To",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Buffet, Fast food, Take-out\n                                    ",
+  "description": "Jay vegan restaurant. Look for sign \"vegetarian and health foods.\" Offers buffet selection as well by menu. No garlic or onion used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "223/6 Ranong Rd, Muang Phuket",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.883610,98.383562&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.883610,98.383562&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

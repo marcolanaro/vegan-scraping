@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Image Cooker",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Western\n                                    ",
+  "description": "Casual vegetarian restaurant serving spaghetti, baked rice and burgers (including an in-house-made tofu burger) plus other dishes. Has many vegan options.",
+  "streetAddress": "19 B-C, Jalan Harmonium 33/1, Taman Desa Terbau",
+  "postalCode": "81100",
+  "phone": "tel:+6012-7677347",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 3:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ImageCookerJB",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.552243,103.791760&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.552243,103.791760&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

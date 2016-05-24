@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shambhala Village",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Fast food, Delivery, Take-out, Mexican, Catering, Indo-Chinese\n                                    ",
+  "description": "Lacto-vegetarian Indian restaurant also serving other cuisines such as pasta and burgers, pizza, Chinese style noodles, and Mexican food.",
+  "priceRange": "Moderate",
+  "streetAddress": "85 Soho Rd, Handsworth ",
+  "postalCode": "B21 9SP",
+  "phone": "tel:01215513053",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-2:30pm, 5:30pm-10:30pm, Sat-Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.502057,-1.928245&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.502057,-1.928245&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

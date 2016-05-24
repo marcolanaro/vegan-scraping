@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loungers - Milo Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Nationwide chain cafe-bar by Loungers, offering a separate vegan menu - ask for it.",
+  "priceRange": "Moderate",
+  "streetAddress": "88-90 Lark Lane",
+  "postalCode": "L17 8UU",
+  "phone": "tel:0151-2365085",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.382308,-2.944189&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.382308,-2.944189&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

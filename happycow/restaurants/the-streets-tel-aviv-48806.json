@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Streets - Basel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, Take-out, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe with multiple locations; this one is in the Basel Street district. Lively atmosphere with free Wi-Fi. Marks the vegan choices on the menu. Meets the Israeli \"Vegan Friendly\" standard.",
+  "priceRange": "Moderate",
+  "streetAddress": "20 Ishtori HaParhi Street",
+  "phone": "tel:03-5441818",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheStreets.co.il/timeline",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.090614,34.780307&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.090614,34.780307&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

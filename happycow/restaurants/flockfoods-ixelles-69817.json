@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Flockfoods",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Markes custom order vegan cakes and desserts.",
+  "streetAddress": "Ixelles",
+  "postalCode": "1150",
+  "phone": "tel:0476261285",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Flockfoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.849368,4.368390&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.849368,4.368390&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Healthy Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Fast food, Juice bar, Take-out, Asian\n                                    ",
+  "description": "At this food court you'll find several juice vendors, a sandwich vendor, a \"bean\" vendor, and salad vendor.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Stall 02-27, 2nd floor Market St Food Court, Golden Shoe Carpark",
+  "postalCode": "048940",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.284967,103.850253&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.284967,103.850253&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

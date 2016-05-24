@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "na.cuis",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Italian, Japanese, Salad bar, Juice bar\n                                    ",
+  "description": "Serves meat, veg options available. Hotel with restaurant at 東京都品川区西五反田2-6-8. At lunch there is only one choice for vegetarian (vegan); however, the salad bar is complimentary with your meal. At dinner there are more choices for vegans and vegetarians, with labels.",
+  "priceRange": "Expensive",
+  "streetAddress": "2-6-8 Tokyo, Shinagawa ku, Nishigotanda 2-6-8 Mystays Hotel 2F",
+  "postalCode": "141-0031",
+  "phone": "tel:03-34941807",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, Mon-Sat 5:30pm-11:00pm, Sun 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.626588,139.722564&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.626588,139.722564&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

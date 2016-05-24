@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Komala Vilas - Race Course",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Delivery, Take-out\n                                    ",
+  "description": "Multiple locations offering North and South Indian cuisine as well as Indian sweets.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "24 - 26 Race Course Road",
+  "postalCode": "218548",
+  "phone": "tel:63415435",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Komala-Vilas-Vegetarian-Restaurant/105890872647",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.307806,103.850552&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.307806,103.850552&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

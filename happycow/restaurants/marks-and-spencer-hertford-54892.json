@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Marks and Spencer",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Mostly organic supermarket offering a premium selection of fresh fruit and vegetable plus health foods. A good place for vegans and vegetarians wanting to stock up for smoothies and stews.",
+  "streetAddress": "140-144 Fore St",
+  "postalCode": "SG14 1AJ",
+  "phone": "tel:01992535515",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.796723,-0.074664&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.796723,-0.074664&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

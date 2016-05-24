@@ -1,0 +1,20 @@
+{
+  "title": "Liquium",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Beer/Wine\n                                    ",
+  "description": "Dive bar and cafe serving vegan food all day. At noon there is a dish of the day with a soup or salad. In the afternoon and at night, there is a vegan bowl, tapas, soup, and salad. Free Wi-Fi, games, and a small library.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "71 rue Jeanne d'Arc",
+  "postalCode": "59000",
+  "phone": "tel:+33-642198227",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-12:00am, Fri 11:00am-1:00am, Sat 6:00pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Liquium-474870532658864",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.624249,3.064418&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.624249,3.064418&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

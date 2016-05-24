@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yi Yuan Healthy Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Fast food, Take-out\n                                    ",
+  "description": "豫园健康素食小档 is a vegetarian food vendor inside the non-veg restaurant called Kedai Kopi Kah Khi Nang. No air conditioning.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "67, 69, Lorong Kota Permai 1, Taman Kota Permai",
+  "postalCode": "14000",
+  "phone": "tel:012-4813368",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-9:00pm, Thu-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.341709,100.456457&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.341709,100.456457&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

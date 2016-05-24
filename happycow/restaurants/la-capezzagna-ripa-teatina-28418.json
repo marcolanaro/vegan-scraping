@@ -1,0 +1,14 @@
+{
+  "title": "La Capezzagna",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Agriturismo offering vegan dishes upon request, call ahead to reserve.",
+  "streetAddress": "Contrada Santo Stefano 64",
+  "postalCode": "28100",
+  "phone": "tel:+390871398040",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.354762,14.262032&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.354762,14.262032&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

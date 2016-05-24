@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sun Man Yuan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "Vegetarian eatery located in the basement of the Chinatown Food Court. Sells economy rice with organic brown rice, tom yam soup, laksa, pineapple fried rice, claypot tofu and hokkien noodle with plenty of vegan options. Uses milk in their curries and laksa.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "101 Upper Cross Street, People's Park Centre, B1-06/75-78",
+  "postalCode": "058357",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.285153,103.843750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.285153,103.843750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

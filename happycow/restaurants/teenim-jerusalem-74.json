@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Te'enim",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Macrobiotic, Take-out\n                                    ",
+  "description": "Creative fusion of European and Asian styles vegetarian and vegan dishes; non-smoking.",
+  "priceRange": "Expensive",
+  "streetAddress": "Str' Emile Botta 12, Yamin Moshe, Confederation House",
+  "phone": "tel:972-2-6251967",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.774972,35.224523&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.774972,35.224523&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

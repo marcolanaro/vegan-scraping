@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Annen Vegetarian & Yoga",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Juice bar, Beer/Wine, Vietnamese\n                                    ",
+  "description": "Offers local specialties like mi quang and cao lau along with others such as seaweed soup, fried tofu with tomato sauce, braised eggplant or mushrooms in claypot, stir-fried noodles and veggies, fried rice. Beverages range from tea, coffee, fresh juices, to smoothies, and beer.",
+  "priceRange": "Moderate",
+  "streetAddress": "320 Nguyen Duy Hieu",
+  "phone": "tel:0914845900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/ANNEN-Vegetarian-Yoga-1478306419083182",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.878194,108.335775&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.878194,108.335775&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

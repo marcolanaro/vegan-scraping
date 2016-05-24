@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Myths Vegetarian Product Speciality Store",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "A small vegetarian store selling a variety of products including both frozen and shelf packaged mock meats labeled as vegetarian. Also carries vegan items; please ask or read labels. Located next door to Legend Vegetarian Cafe (not affiliated).",
+  "streetAddress": "S/L 11, Lot 745, Jalan Datuk Tawi Sli, 3rd Exchange Commercial Centre",
+  "postalCode": "93250",
+  "phone": "tel:+60-82461400",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.511057,110.335607&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.511057,110.335607&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

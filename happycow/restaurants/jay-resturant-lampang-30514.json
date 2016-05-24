@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jay Resturant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai\n                                    ",
+  "description": "Typical Thai veggie place. Some items contain egg but mostly vegan. Next door is Go Cafe coffee shop where they will also make any coffee drink with soymilk by request.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "361/20-21 Chatchai Road, T. Soptui",
+  "postalCode": "52100",
+  "phone": "tel:0895566241",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.283800,99.484098&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.283800,99.484098&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

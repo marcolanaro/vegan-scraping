@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ruyi Yuan Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "如意园素食 is a stall located in a coffee shop. Offers white and brown bee hoon and noodles to eat with vegetables dishes, spring rolls, vegetables curry, or mock meat.  ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 80 Redhill Lane, 80 Eating House #01-350",
+  "postalCode": "150080",
+  "phone": "tel:97124621",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:30am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Ruyi-Yuan-Vegetarian-Food-since1983-211344728898328",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.287950,103.818783&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.287950,103.818783&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

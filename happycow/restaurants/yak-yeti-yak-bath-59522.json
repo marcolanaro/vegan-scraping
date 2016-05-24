@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yak Yeti Yak",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, Take-out, Nepali, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Family-run Nepalese restaurant and bar near the train and bus station. Features a section for traditional Nepalese dining with low tables and floor cushions. Menu lists vegetable dishes, but ask about dairy use. Uses locally sourced ingredients where possible. Booking is advised.",
+  "priceRange": "Moderate",
+  "streetAddress": "12 Pierrepont St",
+  "postalCode": "BA1 1LA",
+  "phone": "tel:01225442299",
+  "venueHours": "\n                                                                                                        Mon-Thu 6:00pm-10:30pm, Mon-Sun 12:00pm-2:00pm, Fri 5:00pm-10:30am, Sat 5:00pm-10:30pm, Sun 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/yakyetiyakbath",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.380174,-2.357311&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.380174,-2.357311&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

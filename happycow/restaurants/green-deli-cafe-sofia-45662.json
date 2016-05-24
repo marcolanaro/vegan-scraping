@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Deli Cafe - A. Stambolyiski",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Juice bar, Take-out, Bakery, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Modern style coffee, pastries, and sandwiches cafe with multiple locations. Some vegetarian items with a few vegan and raw choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "31 A. Stambolyiski Blvd",
+  "phone": "tel:+359-888235656",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-8:00pm, Sat-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Greendelicafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.697053,23.318143&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.697053,23.318143&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Snap Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, International, Western, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A relaxed place offering Western food in District 2. You can get veggie breakfast with veggie sausages plus sandwiches, soups, falafel, samosas, hummus, dips, chips, pasta, and pizza. Frequented by internationals. Evening live music, sports on TV, quiz nights, pool, table tennis, foosball, and other games.",
+  "priceRange": "Moderate",
+  "streetAddress": "32 Tran Ngoc Dien, Thao Dien, District 2",
+  "phone": "tel:08-35194282",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/The-Snap-Cafe/132688496781221",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.805491,106.740514&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.805491,106.740514&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

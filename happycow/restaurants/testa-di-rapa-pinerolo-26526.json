@@ -1,0 +1,16 @@
+{
+  "title": "Testa di Rapa",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Italian, Organic, Beer/Wine, Take-out\n                                    ",
+  "description": "Organic vegan restaurant and take away. It's also a little health store, with only vegan products.\r\n ",
+  "priceRange": "Moderate",
+  "streetAddress": "Vicolo Termine 2",
+  "phone": "tel:0121-376819",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.885019,7.328766&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.885019,7.328766&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

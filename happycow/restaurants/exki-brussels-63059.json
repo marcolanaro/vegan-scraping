@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "EXKi - Westland Shopping Center",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Health food concept international chain. Grab n go sandwiches and salads with ingredients listed. Uses some organic produce.",
+  "priceRange": "Moderate",
+  "streetAddress": "457 boulevard Sylvain Depuis",
+  "postalCode": "1070",
+  "phone": "tel:025217255",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.838602,4.285011&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.838602,4.285011&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

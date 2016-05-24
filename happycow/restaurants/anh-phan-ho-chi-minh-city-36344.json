@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Anh Phan",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small take-out banh mi (filled baguette sandwich) and banh bao (steamed buns) shop. Keeps a separate area for preparing banh mi chay (vegetarian). Point to the signage for banh mi chay and banh bao chay.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "226 Cong Quynh, Q1",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.766258,106.689348&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.766258,106.689348&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

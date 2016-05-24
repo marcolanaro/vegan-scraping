@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Kasbar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Buffet, Mediterranean, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small Arabic cafe, offering veggie food and chicken. Has falafel, dürüm (wraps), soups, salads. Monthly buffet with vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Heerstrasse 267",
+  "postalCode": "47053",
+  "phone": "tel:+49-2037398141",
+  "venueHours": "\n                                                                                                        Mon-Fri 2:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.415442,6.761871&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.415442,6.761871&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

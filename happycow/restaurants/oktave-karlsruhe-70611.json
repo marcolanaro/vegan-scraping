@@ -1,0 +1,17 @@
+{
+  "title": "Oktave",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Mediterranean, Beer/Wine, European, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small cafe and cocktail bar. Has vegetarian and vegan dishes. Hot food available till 10:30pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ludwig-Wilhelm-Str. 3",
+  "postalCode": "76131",
+  "phone": "tel:072166050207",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:00pm-1:00am, Fri-Sat 5:00pm-3:00am, Sun 1:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.009426,8.420342&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.009426,8.420342&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

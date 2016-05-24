@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Delights",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "净乐轩 is in the main lobby of Fu Hui Link. Offers white/brown rice or bee hoon/noodles, and eat it with dishes like broccoli, cauliflower, brinjal, curry vegetables. Also serves tze char items. Last order 7:30pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "19 Compassvale Walk",
+  "postalCode": "544644",
+  "phone": "tel:64898161",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.389419,103.900395&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.389419,103.900395&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

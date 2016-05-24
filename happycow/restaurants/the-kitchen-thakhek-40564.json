@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Thai, Western, Laotian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant on the ground floor of the Inthira hotel. The bilingual menu (English and Laotian) denotes the veg choices which range from veggie burger and pizza (could be made without cheese) to yellow and green curries with tofu. Some staff speak English, so you could communicate your requests.",
+  "priceRange": "Expensive",
+  "streetAddress": "79, Unit 4",
+  "phone": "tel:+856-051251237",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/InthiraThakhek",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.395353,104.804463&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.395353,104.804463&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

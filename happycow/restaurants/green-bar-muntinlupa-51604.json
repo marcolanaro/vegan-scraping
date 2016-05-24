@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Bar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Take-out, Bakery\n                                    ",
+  "description": "Est. Aug 2014, this dine-in deli is in a building that houses also a yoga/fitness studio. Sells vegan food which include breakfast burritos, seitan panini, vegan cheese melts, quinoa salad, cupcakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Westgate Center, Alabang",
+  "phone": "tel:7177212095",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:30am-9:00pm, Sat-Sun 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/greenbarcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.422315,121.034316&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.422315,121.034316&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "TRUVA Turkish Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Beer/Wine, Middle Eastern, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu has some vegetable-based dishes. Chef speaks English and will make dishes vegan on request including the bread (not vegan) that's served with hummus. Falafel, dolmas, dishes with spinach, etc.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kanagawa-ken Yokohama-shi Kanagawa-ku Tsuruya-cho 2-24-1, Tanigawa Bldg B1F",
+  "postalCode": "221-0835",
+  "phone": "tel:045-548-4656",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:00pm, 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Truvaresto",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.469026,139.620975&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.469026,139.620975&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

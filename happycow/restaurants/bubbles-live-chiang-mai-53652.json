@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bubbles Live",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Organic, Thai, Western, Fast food, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options avialable. Was originally veg but no longer since late-2014. Restaurant and coffee shop that makes salads, sandwiches, dessert, juices . Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ratchamanka Rd 5, Soi 2 A Muang",
+  "phone": "tel:053-208203",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-9:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Bubbles-Live/110374192356960",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.785449,98.991838&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.785449,98.991838&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

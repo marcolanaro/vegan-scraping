@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Karma Sushi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Japanese, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Dimly lit sushi restaurant in the city center, seats 34 possible. Tries to be as sustainable as possible with the fish it serves, and pickles its own ginger. Offers 2 vegan rolls. Kitchen stops 1 hour before closing.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ved Stranden 22",
+  "postalCode": "9000",
+  "phone": "tel:98147400",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-10:00pm, Fri-Sat 11:30am-11:00pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/karmaaalborg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.051051,9.918973&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.051051,9.918973&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

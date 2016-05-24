@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khun Noi Pochana Seacon Bangkae",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Take-out, Buddhist\n                                    ",
+  "description": "Booth in the Food Court on the ground floor. Name written in Thai with the word 'mangsawirat.'",
+  "priceRange": "Inexpensive",
+  "streetAddress": "607 Phetkasem Road",
+  "postalCode": "10160",
+  "phone": "tel:024582768",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.705885,100.349221&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.705885,100.349221&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

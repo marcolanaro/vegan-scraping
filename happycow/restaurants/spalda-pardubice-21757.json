@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Spalda",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural food shop and restaurant.",
+  "streetAddress": "Trida Miru 64",
+  "postalCode": "53002",
+  "phone": "tel:+420463351435",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-5:30pm, Sat 8:30am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.036814,15.774118&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.036814,15.774118&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

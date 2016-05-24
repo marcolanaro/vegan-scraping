@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fast Food Vege Fino",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Delivery, Take-out\n                                    ",
+  "description": "100% vegan and vegetarian fast food not far from the town center. Offers burgers, dogs, sausage burgers, sandwiches, spaghetti bolognese with seitan, fries on the side, salads and more. Vegans please inquire. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lavoslava Ruzicke 48",
+  "postalCode": "10000",
+  "phone": "tel:+385-098777577",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VegeFinoZaSve",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.796141,15.969777&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.796141,15.969777&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

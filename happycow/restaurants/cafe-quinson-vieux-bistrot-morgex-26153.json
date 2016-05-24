@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Quinson - Vieux Bistrot",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan menu upon request (with advance notice).",
+  "priceRange": "Expensive",
+  "streetAddress": "Piazza Principe Tommaso 10",
+  "phone": "tel:+39-0165809499",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.757981,7.038130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.757981,7.038130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

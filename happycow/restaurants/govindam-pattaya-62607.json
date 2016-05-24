@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Govindam",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Pizza, Indian, Buffet, Fast food, Beer/Wine, Delivery, Take-out, Indo-Chinese\n                                    ",
+  "description": "Vegetarian restaurant serving South and North Indian food. Vegan items are not marked, so ask. Offers 2 menus (in English): a full menu and a pictured one.",
+  "priceRange": "Moderate",
+  "streetAddress": "330/1 Moo 10, Pattaya Klang Road, Nong Prue, Banglamung",
+  "postalCode": "20150",
+  "phone": "tel:946488065",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Govindam.thailand1",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.927608,100.877081&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.927608,100.877081&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

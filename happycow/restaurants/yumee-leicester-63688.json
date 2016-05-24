@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yumee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Western, Fast food, Juice bar, Take-out, English\n                                    ",
+  "description": "Vegetarian take away and juice bar, also makes hot and cold food including salad boxes, jacket potatoes, sandwiches, and panini.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Kildare St",
+  "postalCode": "LE1 3YH",
+  "phone": "tel:01162539849",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.638091,-1.131421&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.638091,-1.131421&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

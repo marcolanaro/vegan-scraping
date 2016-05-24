@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Dot",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Japanese, Fast food, Take-out, Asian, Fusion, Singaporean\n                                    ",
+  "description": "绿一点 This outlet serves meals which are low in calories, no gluten or added MSG. Variety of Asian fusion food like bento set, noodles, burgers, mushroom pots, and toast set for breakfast.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "60 Paya Lebar Rd 02-15/16/17, Paya Lebar Square",
+  "postalCode": "409051",
+  "phone": "tel:67022221",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/greendot",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.318825,103.892634&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.318825,103.892634&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

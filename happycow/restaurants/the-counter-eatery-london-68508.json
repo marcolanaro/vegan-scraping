@@ -1,0 +1,20 @@
+{
+  "title": "The Counter Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Salad bar, Juice bar, Take-out, Hot Salads, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Salad and juice bar offering breakfast, smoothies (with almond milk base option), and the salads use oil-based dressings.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Unit 19, The Arcade, Liverpool St, The Arcade, Liverpool St",
+  "postalCode": "EC2M 7QH",
+  "phone": "tel:07791022721",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/thecounterldn",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.517579,-0.083036&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.517579,-0.083036&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nha Hang Viet Chay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Vietnamese\n                                    ",
+  "description": "Slightly fancy vegetarian restaurant, frequented by locals and monks (not to be confused with the one on the opposite side of Nam Ky Khoi Nghia in the Vinh Nghiem Pagoda walls). Some items contain dairy and/or condensed milk.",
+  "priceRange": "Moderate",
+  "streetAddress": "290/21A Nam Ky Khoi Nghia, Q.3",
+  "phone": "tel:+84838483399",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.790204,106.684708&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.790204,106.684708&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Bean Store",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Juice bar, Asian, Fusion, Singaporean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fusion cafe with an emphasis on soy milk drinks and food, e.g. matcha soy milk, soy milk frappuccino, soya pudding. Offers a separate vegetarian menu with various tofu dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "399 Vo Van Tan, Q.3",
+  "phone": "tel:84-39295678",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheBeanStoreVN",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.770390,106.684558&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.770390,106.684558&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

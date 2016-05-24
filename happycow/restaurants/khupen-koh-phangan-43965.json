@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khupen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This Thai food restaurant also offers a large selection of vegetarian dishes using tofu. Located opposite Bangkok bank main road inside soi, in front of a tattoo shop.",
+  "priceRange": "Moderate",
+  "streetAddress": "145/2 Moo1, Soi Krungthai",
+  "phone": "tel:0881674348",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.717155,99.983209&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.717155,99.983209&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

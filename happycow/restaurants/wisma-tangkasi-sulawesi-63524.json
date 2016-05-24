@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wisma Tangkasi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Organic, Raw, Buffet, Salad bar, Juice bar, Asian\n                                    ",
+  "description": "A 100% vegetarian/vegan kitchen serving mostly vegan food with the exception of egg dishes at times. No dairy. Uses all local and organic ingredients, some food also grown directly on site. As of September 2015, most likely the only vegetarian/vegan kitchen in the province, possibly in the whole of Sulawesi. Has an exclusive lodge based at a wildlife rescue center, rooms available sometimes. Usually have to book a few weeks in advance. Lunch offered to day visitors as a set meal.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "PPS Tasikoki, Jl Raya Tangjung Merah - Kema, Bitung, Watudambo",
+  "postalCode": "95372",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.393181,125.101940&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.393181,125.101940&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Mireo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Beer/Wine, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bar and restaurant offering Mediterranean cuisine with veggie choices in salads, pasta, appetizers like tabbouleh and hummus.",
+  "priceRange": "Moderate",
+  "streetAddress": "Glockenstraße 4",
+  "postalCode": "91054",
+  "phone": "tel:09131897811",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-1:00am, Sun 10:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/mireo.erlangen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.599663,11.003781&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.599663,11.003781&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

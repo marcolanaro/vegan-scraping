@@ -1,0 +1,16 @@
+{
+  "title": "Pema Thang",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Tibetan\n                                    ",
+  "description": "Cozy restaurant opened early-2015 near Notre Dame.",
+  "priceRange": "Moderate",
+  "streetAddress": "13 rue de la Montagne Sainte Genevieve",
+  "phone": "tel:0156811044",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00pm-10:30pm, Tue-Sat 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.848832,2.348683&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.848832,2.348683&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

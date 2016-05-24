@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Otis!",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Tex-Mex, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant and live music venue (with entry charge). Simple and funky, seats 30. Reported has soy cheese and vegan cake. Directions: from Hiroshima station take bus 24 and get off at Koseinenkin-kaikan stop, or from Peace Park walk south for 5 minutes.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-20 Kako-machi, Naka-ku",
+  "postalCode": "730-0812",
+  "phone": "tel:082-249-3885",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-11:00pm, Sun 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.388960,132.449880&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.388960,132.449880&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

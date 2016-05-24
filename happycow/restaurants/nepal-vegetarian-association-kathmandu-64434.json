@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nepal Vegetarian Association",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "Founded in 2007 with the aim of promoting vegetarianism.",
+  "streetAddress": "House 196/30, Radhe Marga, Dillibazar",
+  "postalCode": "00977",
+  "phone": "tel:+977-14428459/,%209841359833",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/groups/VegNepal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.690554,85.325148&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.690554,85.325148&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

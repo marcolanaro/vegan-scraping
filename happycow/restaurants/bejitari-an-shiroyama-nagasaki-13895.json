@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bejitari-an - Shiroyama",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural and organic food shop at 長崎市城山町31-17. Makes bento meals sets available on Tuesday and Friday.",
+  "streetAddress": "Shiroyama 31-17",
+  "phone": "tel:095-8610569",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 10:30am-5:30pm, Fri 10:30am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.774280,129.856090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.774280,129.856090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

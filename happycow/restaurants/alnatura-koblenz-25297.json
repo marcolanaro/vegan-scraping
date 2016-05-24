@@ -1,0 +1,13 @@
+{
+  "title": "Alnatura",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large health food store with vegetarian and vegan products available.",
+  "streetAddress": "Andernacher Strasse 238",
+  "postalCode": "56070",
+  "phone": "tel:+49-0-261-9822219",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.381620,7.577050&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.381620,7.577050&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

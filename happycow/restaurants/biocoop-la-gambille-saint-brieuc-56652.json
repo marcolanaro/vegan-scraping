@@ -1,0 +1,13 @@
+{
+  "title": "Biocoop La Gambille",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "10 rue de Robien",
+  "postalCode": "22000",
+  "phone": "tel:0296751285",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-1:00pm, 2:30pm-7:00pm, Fri-Sat 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.505538,-2.763842&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.505538,-2.763842&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

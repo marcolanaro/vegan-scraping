@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kam Kee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Malaysian\n                                    ",
+  "description": "鑑记素食 is the veggie restaurant name in Chinese. Serves famous Seremban roast bun (芙蓉烧包). It is on the left as you head to Port Dickson. Previously located on Jalan Yam Tuan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1172 Jalan Rasah",
+  "postalCode": "70300",
+  "phone": "tel:06-7670533",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.705524,101.940559&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.705524,101.940559&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

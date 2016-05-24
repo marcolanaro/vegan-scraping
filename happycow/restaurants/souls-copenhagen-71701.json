@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Souls",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Salad bar, Juice bar, English, European, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Est. 2016 this cafe has a plant-based menu plus pre-cooked meat is kept aside for customers who are interested. Seats 20.",
+  "priceRange": "Moderate",
+  "streetAddress": "Melchiors Plads 3",
+  "postalCode": "2100",
+  "phone": "tel:7134100101",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 10:00am-8:00pm, Fri 10:00am-9:00pm, Sat 9:00am-9:00pm, Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/soulscph",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.703460,12.585172&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.703460,12.585172&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

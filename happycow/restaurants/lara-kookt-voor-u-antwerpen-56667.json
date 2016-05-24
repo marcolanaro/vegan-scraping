@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lara kookt voor U",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Beer/Wine, Take-out, Catering\n                                    ",
+  "description": "Vegetarian restaurant offering daily changing menu with seasonal and local products, including hot lunch and early dinner, sandwiches, soup and breakfast.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Van Schoonbekestraat 158",
+  "postalCode": "2018",
+  "phone": "tel:03-2657058",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/Lara-kookt-voor-u-291470294246406",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.199416,4.403544&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.199416,4.403544&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "JAM Bar and Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Thai, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little restaurant and bar with 6 tables, opened in 2014 directly on Long Beach. Operates only during tourist season, otherwise closed. On the menu are some vegan suitable items like mango salsa, massamun curry with tofu, among others. Could specifically request to make a dish vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "238 Moo 3",
+  "phone": "tel:+66-944044991",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.614840,99.033049&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.614840,99.033049&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veg Revolution",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Brighton-based vegan and vegetarian catering service.",
+  "streetAddress": "20-21 York Place",
+  "postalCode": "BN1 4GU",
+  "phone": "tel:01273566132",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/jointhejuicerevolution",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.828736,-0.135795&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.828736,-0.135795&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

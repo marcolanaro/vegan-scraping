@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Joyful Coffee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Take-out, Bakery, Taiwanese\n                                    ",
+  "description": "Vegan turned vegetarian, this cafe opened July 2015 at 北區光華街102-3號 near Big City shopping centre. Offers meal sets, cakes, coffee and beverages.",
+  "priceRange": "Moderate",
+  "streetAddress": "102-3, Guanghua St, North District",
+  "postalCode": "300",
+  "phone": "tel:035355295",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 10:30am-7:30pm, Thu-Sun 10:30am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Joyfulcoffee.Hsinchu",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.818180,120.971981&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.818180,120.971981&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

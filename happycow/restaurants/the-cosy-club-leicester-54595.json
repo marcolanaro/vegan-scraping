@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Cosy Club",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, British, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. UK chain restaurant. 1940s-50s style decor, casual dining, drinking, and lounging. Serves sandwiches, panini, and breakfast. Has a separate vegan menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "62-68 Highcross St",
+  "postalCode": "LE1 4NM",
+  "phone": "tel:01164080008",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.635454,-1.138743&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.635454,-1.138743&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

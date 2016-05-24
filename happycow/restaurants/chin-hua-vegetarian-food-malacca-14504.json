@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chin Hua Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Buffet, Fast food, Delivery, Take-out, Catering\n                                    ",
+  "description": "Buffet restaurant. Closes 2nd and 16th day of lunar calendar.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "37, Jalan Kota Laksamana 1/2, Taman Kota Laksamana Seksyen 1/2",
+  "postalCode": "75200",
+  "phone": "tel:016-6466366/,%206681736",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-3:00pm, 6:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.194346,102.243929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.194346,102.243929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

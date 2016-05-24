@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Takiya",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has store downstairs, restaurant upstairs. Set menu daily, either non-veg (fish) or vegan upon request. No English menu but they will understand vegetarian and vegan. Bento box that includes many vegetable dishes, tofu, seaweed, miso soup.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Zenkoji Temple Complex",
+  "postalCode": "380-0851",
+  "phone": "tel:026-2324424/,%20026-2356161",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.181446,136.906398&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.181446,136.906398&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

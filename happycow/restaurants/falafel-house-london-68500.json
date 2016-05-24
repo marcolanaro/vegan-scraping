@@ -1,0 +1,17 @@
+{
+  "title": "Falafel House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Fast food, Salad bar, Take-out, Middle Eastern\n                                    ",
+  "description": "Small vegetarian deli and take-away specializing in falafel in pita and on salads with optional extras. Gets busy at lunch time.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "48 Carter Lane",
+  "postalCode": "EC4V 5EA",
+  "phone": "tel:02072483228",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.513277,-0.101504&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.513277,-0.101504&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

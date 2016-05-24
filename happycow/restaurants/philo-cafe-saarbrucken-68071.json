@@ -1,0 +1,19 @@
+{
+  "title": "Philo Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. It serves meat, and vegetarian and vegan options are available. The dishes of the day are announced weekly on their Facebook page and hang out near the entrance. They also offer sandwiches and pastries. Vegetarian and vegan choices are labelled.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Building C5.2, Saarland University campus",
+  "postalCode": "66123",
+  "phone": "tel:6813023378",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/Philo-cafe-411972345618274",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.253790,7.043319&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.253790,7.043319&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

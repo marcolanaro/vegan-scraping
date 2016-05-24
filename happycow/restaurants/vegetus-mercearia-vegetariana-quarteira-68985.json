@@ -1,0 +1,13 @@
+{
+  "title": "Vegetus Mercearia Vegetariana",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Vegetarian grocery store stocking a variety of products, from food and beer to natural cosmetics.",
+  "streetAddress": "Rua da Cabine, Edificio Canoa, Bloco B loja D",
+  "postalCode": "8125-181",
+  "phone": "tel:289301144",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-8:00pm, Sun 8:30am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.069920,-8.102088&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.069920,-8.102088&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

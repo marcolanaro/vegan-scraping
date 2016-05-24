@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chhappan Bhog - Salam Street",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Pakistani\n                                    ",
+  "description": "Serves Indian and Pakistani cuisine, including desserts. Three locations in Abu Dhabi. Located behind ADNOC building.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Salam Street",
+  "phone": "tel:02-677-8864",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.491587,54.374937&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.491587,54.374937&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

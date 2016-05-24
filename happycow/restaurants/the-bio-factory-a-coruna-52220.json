@@ -1,0 +1,13 @@
+{
+  "title": "The Bio Factory",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Organic ice cream place offering a few vegan flavors.",
+  "streetAddress": "Calle Santa Catalina, 8",
+  "postalCode": "15001",
+  "phone": "tel:616472946",
+  "venueHours": "\n                                                                                                        Mon-Thu 3:00pm-9:00pm, Fri-Sat 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.368190,-8.403871&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.368190,-8.403871&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

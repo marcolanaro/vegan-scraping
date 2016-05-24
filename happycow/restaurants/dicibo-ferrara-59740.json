@@ -1,0 +1,18 @@
+{
+  "title": "diCibo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe bar with daily changing menu, includes vegetarian and vegan options.",
+  "priceRange": "Expensive",
+  "streetAddress": "Via Carlo Mayr 4",
+  "postalCode": "44121",
+  "phone": "tel:+39-0532765997",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-10:00pm, Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/diCibo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.833426,11.617517&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.833426,11.617517&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

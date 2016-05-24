@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Annam Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a wide selection of vegetarian dishes from very mild to explosively hot, some of which are vegan or can be made vegan. Chef can make dishes not on the menu, upon request. Has a full bar.",
+  "priceRange": "Moderate",
+  "streetAddress": "5-8-13 Chuo-ku, Ginza",
+  "phone": "tel:03-35711835",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-3:00pm, 4:30pm-11:00pm, Sat-Sun 11:00am-4:00pm, 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Annam-kitchen-637938119623989",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.670239,139.764515&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.670239,139.764515&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Connery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Gastro pub with a good selection of vegan burgers (soy, barley and spelt-based).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Corso Trapani, 74",
+  "postalCode": "10149",
+  "phone": "tel:+39011338042",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00pm-1:00am, Fri-Sat 7:00pm-3:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.069795,7.638332&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.069795,7.638332&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

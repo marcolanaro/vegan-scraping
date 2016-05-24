@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zirve Cigkofte",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Turkish\n                                    ",
+  "description": "This is a small shop selling only çig kofte which is vegan. A beverage on the menu is not vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bozkurt Mah Esref Efendi Sok 1",
+  "phone": "tel:+90-538-3820000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.051104,28.986340&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.051104,28.986340&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

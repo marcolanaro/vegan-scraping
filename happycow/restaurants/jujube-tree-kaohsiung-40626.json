@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jujube Tree",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Taiwanese, Cantonese\n                                    ",
+  "description": "Chinese name 棗子樹. A Hong Kong-style dim sum restaurant with several locations. Features dumplings and many types of small dishes, all made in-house. On weekends, a reserved section of the restaurant is opened up and you could get a great view of the cityscape.",
+  "priceRange": "Moderate",
+  "streetAddress": "Level 7, Dream Mall, 789, Zhong Hua 5th Road",
+  "phone": "tel:07-9705966",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/台灣棗子樹粉絲團/159701320766812",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.595742,120.307335&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.595742,120.307335&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

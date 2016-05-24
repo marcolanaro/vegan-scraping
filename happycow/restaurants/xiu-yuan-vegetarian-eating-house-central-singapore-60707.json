@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xiu Yuan Vegetarian Eating House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Take-out\n                                    ",
+  "description": "修缘素美食屋 serves a variety of local Singaporean food like kway chap, vegetarian prawn noodle and sliced fish bee hoon. Business as usual on new and full moon day.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "190 Middle Rd Unit 02-05, Fortune Centre",
+  "postalCode": "188979",
+  "phone": "tel:82928972",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:30am-7:00pm, Fri 10:30am-2:30pm, Sat 10:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300377,103.852252&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300377,103.852252&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

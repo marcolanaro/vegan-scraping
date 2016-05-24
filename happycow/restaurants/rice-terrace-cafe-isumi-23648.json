@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rice Terrace Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Japanese, Macrobiotic, Organic\n                                    ",
+  "description": "Lovely macrobiotic cafe on an organic farm. A bit out of the way, they also offer accommodation. Beautiful set meals with several courses for about 1000 yen. Handmade dishware and cloth napkins. They make their own miso and soy sauce.",
+  "priceRange": "Moderate",
+  "streetAddress": "1501-1 Kuwada, Misaki-cho, Isumi-shi, Chiba-ken",
+  "postalCode": "299-4504",
+  "phone": "tel:0470-87-4501",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.237986,140.286498&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.237986,140.286498&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

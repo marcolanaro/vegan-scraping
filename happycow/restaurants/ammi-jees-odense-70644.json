@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ammi Jee's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian cuisine which includes vegetarian dishes. Ask about dairy use though.",
+  "priceRange": "Moderate",
+  "streetAddress": "Skibhusvej 125",
+  "postalCode": "5000",
+  "phone": "tel:66121012",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/AMMI-JEES-Skibhusvej-381842145161171",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.409908,10.394308&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.409908,10.394308&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

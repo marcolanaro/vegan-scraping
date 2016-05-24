@@ -1,4 +1,11 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Prasadam",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Deliver food during the week and catering on the weekend. Call or email for details (prasadam.info@gmail.com).",
+  "streetAddress": "Stenjevec",
+  "phone": "tel:+38513461300",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.806477,15.902271&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.806477,15.902271&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

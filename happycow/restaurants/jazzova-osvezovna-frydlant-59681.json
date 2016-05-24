@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jazzova Osvezovna",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Beer/Wine, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Ground floor cafe off the main square towards church. Makes cakes, lemonade, daily soup, and a couple of main dishes each day. Off-beat stylish relaxed atmosphere with odd tables and chairs, armchairs, floor cushions. English spoken. Offers many ovo-lacto vegetarian items.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kostelni 15",
+  "postalCode": "464 01",
+  "phone": "tel:+420-603179760",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sat 12:00pm-9:00pm, Sun 2:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/osvezovna",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.920975,15.078510&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.920975,15.078510&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

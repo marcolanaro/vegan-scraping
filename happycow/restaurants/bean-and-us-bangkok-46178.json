@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bean and Us",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bean & Us is a little coffee house where one could escape the Bangkok heat and get free Wi-Fi. Has soya milk latte and soya ice cream.",
+  "priceRange": "Moderate",
+  "streetAddress": "76-76/2 Phra Arthit Road Chana Songkhram",
+  "phone": "tel:0909249552",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-9:00pm, Sat-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/beanandus",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.762653,100.494241&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.762653,100.494241&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

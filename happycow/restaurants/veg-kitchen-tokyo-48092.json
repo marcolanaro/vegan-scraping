@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veg Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Beer/Wine\n                                    ",
+  "description": "Extensive menu specializing in South Indian food (eg dosas) but also serves a range of North Indian and Indian Chinese dishes. Small, comfortable space with 2nd-floor dining. Serves alcohol and allows smoking at dinner. Vegans must be careful to ask what contains dairy. Open Mon-Sat and may close on Sun.",
+  "priceRange": "Moderate",
+  "streetAddress": "3-44-8 Taito, Taito-ku",
+  "phone": "tel:03-5817-8165",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.705499,139.777835&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.705499,139.777835&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

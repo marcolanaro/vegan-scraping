@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kee Lin Vege Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Take-out, Malaysian\n                                    ",
+  "description": "麒麟阁素食料理 is another branch of Kee Lin.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12A, Jalan Austin Height 3/2, Taman Mount Austin",
+  "postalCode": "81100",
+  "phone": "tel:+60-73512975",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-9:30pm, Thu-Sun 11:00am-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.557932,103.780432&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.557932,103.780432&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

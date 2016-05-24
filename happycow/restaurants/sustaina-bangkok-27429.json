@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sustaina",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Organic, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The Japanese style curry is made with 6 kinds of organic fruit and vegetable and served with mixed brown rice or natural yeast bread (no wheat flour in curry). The first floor is shop selling organic vegetable and different kinds of products, and second floor is this restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "1/40 Soi Sukhumvit 39 (Phrom Phong) Sukhumvit Rd",
+  "phone": "tel:02-258-7516",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.730780,100.570114&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.730780,100.570114&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Komodo Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Indian, Thai, Juice bar, Bakery, Fusion, Singaporan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A cozy hill-top restaurant with outdoor seating under a traditional WaeRebo roof with a view of the harbor is available, plus indoor seating. Serves authentic Asian and Asian Fusion cuisine. Has an open kitchen. Has vegan choices, but may not be labeled, so please inquire.  All food is freshly made-in-house using produce, herbs and spices from own organic farm and from local markets and other farms. Some menu items that might be suitable for vegans is a coconut base soup with rice noodles, an Indian vegetable keema and curry fused risotto with seasonal vegetables, but vegans please ask before ordering.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl Soekarno Hatta",
+  "phone": "tel:+62-38542147",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.492857,119.879302&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.492857,119.879302&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

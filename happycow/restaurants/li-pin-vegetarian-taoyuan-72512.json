@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Li Pin Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "Fast food vegetarian eatery at the airport Terminal 1 basement food court. Serves dishes of various vegetables, mushrooms, and root vegetables.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "9, Hangzhan S Rd, Dayuan District",
+  "postalCode": "33758",
+  "phone": "tel:03-3834840",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.079651,121.234217&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.079651,121.234217&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

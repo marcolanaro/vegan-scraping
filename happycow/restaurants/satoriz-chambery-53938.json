@@ -1,0 +1,13 @@
+{
+  "title": "Satoriz",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store chain.",
+  "streetAddress": "2577 avenue des Landiers",
+  "postalCode": "73000",
+  "phone": "tel:0479686386",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.603996,5.892438&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.603996,5.892438&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

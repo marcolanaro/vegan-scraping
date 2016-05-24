@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Go Vegan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic\n                                    ",
+  "description": "Serves vegan lunch, enzyme brown rice, hemp seeds food, kids plates and dessert. Dinner is upon reservation only. No bleached sugar, salt or msg is used. Pets are welcome, except in tatami rooms. A portion of sales is donated to animal rights and Earth conservation groups. 10-minute walk from Sanbonmatsu station.",
+  "priceRange": "Moderate",
+  "streetAddress": "3742 Muroo Sanbonmatsu, Uda",
+  "postalCode": "633-0317",
+  "phone": "tel:0745802316",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cafeGoVegan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.576934,136.041394&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.576934,136.041394&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

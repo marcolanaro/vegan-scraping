@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loveat",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Organic, Western, Fast food, Salad bar, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. As of July 2013, has at least 10 vegan menu items like a wrap, sandwich and soup. Most other dishes can be made vegan by using tofu. Juice bar with plenty of veggies and fruit.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nachalat Binyamin 3",
+  "phone": "tel:+972-3-5164412",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/loveatcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.069474,34.770327&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.069474,34.770327&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

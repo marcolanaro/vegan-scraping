@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Herb Garden",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Western, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizza restaurant with salads and a few veggie choices on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Arch 8, Westgate Rd",
+  "postalCode": "NE1 1SA",
+  "phone": "tel:01912220491",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TheHerbGardenUK",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.968909,-1.611918&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.968909,-1.611918&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

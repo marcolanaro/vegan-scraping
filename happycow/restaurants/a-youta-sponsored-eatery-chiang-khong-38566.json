@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "A Youta Sponsored Eatery",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai\n                                    ",
+  "description": "Small family run vegetarian eatery. Has 4 tables and limited choice of food. No English spoken. Sign is written in Thai only so name of restaurant is a guess, but just look for Youta flags. Open Mon-Sun for breakfast and lunch.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "between Tedsaban Soi 21 and 23",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.253983,100.410912&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.253983,100.410912&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,13 @@
+{
+  "title": "La Vie Claire",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "120 rue de l'Île Napoléon",
+  "postalCode": "68170",
+  "phone": "tel:0389449584",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:30am-7:00pm, Fri 8:30am-7:30pm, Sat 8:30am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.761315,7.397860&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.761315,7.397860&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

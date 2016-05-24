@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mother's Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ethiopian, African, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This small Ethiopian restaurant offers injera with a few stews and salads on top. Has vegetable dishes (vegan suitable), Ethiopian beer.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "HaNeviim 20",
+  "postalCode": "3330504",
+  "phone": "tel:+972-508526549",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-12:00am, Sun 10:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/haifa.ethiopian.restaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.813201,34.995695&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.813201,34.995695&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ren Ci Global Village",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Indian\n                                    ",
+  "description": "Name 仁慈地球村. Simple food, using only fresh vegetables, no faux meat. Try the porridge. Service yourself and clean up afterwards. The workers here are volunteers. Pay a donation as you wish.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "B64, Jalan Mutiara 1, Taman Mutiara Indah",
+  "postalCode": "08000",
+  "phone": "tel:013299013",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 8:00am-2:30pm, Fri-Sun 8:00am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ASRenciGlobalVillage",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.643530,100.505730&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.643530,100.505730&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

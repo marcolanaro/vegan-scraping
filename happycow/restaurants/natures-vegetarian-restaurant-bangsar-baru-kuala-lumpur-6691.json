@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nature's Vegetarian Restaurant - Bangsar Baru",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Malaysian\n                                    ",
+  "description": "Dim sum served til 6pm and a la carte menu order from 12-10pm. Organic vegetables can be requested.",
+  "priceRange": "Moderate",
+  "streetAddress": "24, Jalan Telawi 3, Bangsar Baru",
+  "postalCode": "59000",
+  "phone": "tel:03-22835523",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-10:00pm, Sat-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Natures-Vegetarian-Restaurant-Bangsar/240246113929",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.131766,101.671184&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.131766,101.671184&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

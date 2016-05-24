@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jogyesa Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Aside from anchovy used in soups stock, the food is supposed to be vegetarian. A simple kitchen run by the Buddhist Jogyesa Temple with a limited menu: 3 noodles and 2 rice main courses. Main course comes with kimchi, plain rice and seaweed soup which is self-serve. You buy the meal ticket at the temple's souvenir shop first, give it to the staff and tell them what you want. Some staff speak limited English. Note the bibim noodles has egg.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "45 Gyeonji-dong, 45-20 Ujeongguk-ro",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.574014,126.982549&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.574014,126.982549&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

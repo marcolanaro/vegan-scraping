@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cay Bo De",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "Offers a traditional breakfast noodle soup of My Tho called hu tieu chay as well other soups. It has evolved considerably over the years, and now has 3 separate dining rooms in 3 separate store fronts, with a fourth, the original location, serving all 3. The current addresses are 22, 24, 32 and 36 Nam Ky Khoi Nghia. It's all one restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "22 Nam Ky Khoi Nghia",
+  "phone": "tel:883528",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.353090,106.361308&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.353090,106.361308&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

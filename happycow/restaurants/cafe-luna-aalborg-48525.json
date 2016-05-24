@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Luna",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, European, Dutch, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bar and restaurant. Offers a veggie patty for burger or panini. Cozy atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Boulevarden 38",
+  "postalCode": "9000",
+  "phone": "tel:98132275",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeLunaAalborg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.044426,9.918086&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.044426,9.918086&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

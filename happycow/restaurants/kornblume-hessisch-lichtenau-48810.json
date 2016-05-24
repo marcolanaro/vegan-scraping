@@ -1,0 +1,13 @@
+{
+  "title": "Kornblume",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food store stocking some vegan products. Offers every Monday and Thursday biological bread from the store Brotgarten.",
+  "streetAddress": "Landgrafenstrasse 36",
+  "postalCode": "37235",
+  "phone": "tel:+49-56024655",
+  "venueHours": "\n                                                                                                        Mon-Tue 9:00am-1:00pm, 3:00pm-6:00pm, Thu-Fri 9:00am-1:00pm, 3:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.196740,9.720770&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.196740,9.720770&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

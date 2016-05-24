@@ -1,0 +1,17 @@
+{
+  "title": "Shake Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A gelateria/cafe offers choices for vegans, including a tofu salad, tofu sandwich, sorbet, gelato and soy milk for hot drinks. A 5 minute walk from Santa Maria Novella railway station.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Degli Avelli 2R, Piazza Santa Maria Novella",
+  "phone": "tel:+39-055295310",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.774284,11.250562&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.774284,11.250562&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Kaffe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Organic, Western, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop. Has vegan lunch and desserts, gluten-free lunch and cakes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5 Sankey St",
+  "postalCode": "L1 5EW",
+  "phone": "tel:07528228375",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.399197,-2.976848&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.399197,-2.976848&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Rootz",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Fast food, Juice bar, Beer/Wine, Delivery, Take-out\n                                    ",
+  "description": "A vegetarian street food fast food place with vegan options in a friendly atmosphere. Offers beer, drinks, wraps, burgers, soup, salads, fresh coffee, breakfast and more. Located in the historical center of St Petersburg near Tauride Gardens.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ulitsa Radishcheva 37",
+  "phone": "tel:8-9818158554",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-11:00pm, Fri-Sat 11:00am-12:30am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/cafe.rootz",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.941572,30.363833&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.941572,30.363833&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

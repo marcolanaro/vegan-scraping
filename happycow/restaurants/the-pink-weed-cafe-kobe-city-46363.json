@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The PINK WEED Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Beer/Wine\n                                    ",
+  "description": "A 100% vegan restaurant serves five types of lunch and plenty of drinks and cakes. An English menu is available in the cafe.",
+  "priceRange": "Moderate",
+  "streetAddress": "4-7-12-1F Kitanagasa-dori, Chuo-ku",
+  "postalCode": "650-0012",
+  "phone": "tel:078-393-2118",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 9:00am-6:00pm, Wed-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/thepinkweedcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.690061,135.186651&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.690061,135.186651&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

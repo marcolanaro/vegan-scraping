@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nature's Choice",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store selling a range of vegan toiletries, natural remedies and health goods such as raw cacao and gluten free flours. Also sells vegan cheese and ice cream. Staff happy to accept special request orders.",
+  "streetAddress": "47 Church Ln, Leytonstone",
+  "postalCode": "E11 1HE",
+  "phone": "tel:020-85394196",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Natures-Choice/154585081235626",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.568512,0.009232&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.568512,0.009232&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

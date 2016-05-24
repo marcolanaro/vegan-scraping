@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Egg Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, British, English\n                                    ",
+  "description": "Casual setting on the second floor, near Central and Lime St stations. Usually 1 or 2 vegan soups daily, 3 daily specials at least 1 vegan. Menu includes vegan spicy beanburger, salads, quiche, and more. Special menu Sunday afternoon (full vegan roast). Vegan items clearly marked on the menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "16-18 Newington, 2F",
+  "phone": "tel:+44-01517072755",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-10:30pm, Sat-Sun 10:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.403960,-2.977750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.403960,-2.977750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

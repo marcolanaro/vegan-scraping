@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Momtaste",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Western, Malaysian\n                                    ",
+  "description": "回味小馆 serves a mix of Chinese and western food, small steamboat, and zhi char.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "80, Jalan Rotan Batu, Taman Seri Jaya",
+  "phone": "tel:11-10919927",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/%E5%9B%9E%E5%91%B3%E5%B0%8F%E9%A6%86-momtaste-1585707821703447",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.863408,102.952451&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.863408,102.952451&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

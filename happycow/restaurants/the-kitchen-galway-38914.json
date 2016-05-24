@@ -1,0 +1,15 @@
+{
+  "title": "The Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Bakery, British, Irish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lunch and coffee place where veg choices are marked. Has soy milk for tea/coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Galway City Museum, Spanish Arch",
+  "phone": "tel:091-534883",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-5:30pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/KitchenGalway",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.269723,-9.053721&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.269723,-9.053721&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Satoriz",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store chain.",
+  "streetAddress": "4 bis boulevard du Pré Biollat, Espace Léman 2",
+  "postalCode": "74200",
+  "phone": "tel:0450819125",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.348832,6.439283&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.348832,6.439283&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

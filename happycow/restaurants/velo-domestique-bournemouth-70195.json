@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Velo Domestique",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, British, English, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bike shop and cafe. Has soup and other vegan suitable dishes like falafel, shakshuka, avocado on toast. Specify to be sure.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "176-180 Seabourne Rd",
+  "postalCode": "BH5 2JB",
+  "phone": "tel:7748538453",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/7748 538453",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.727084,-1.818339&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.727084,-1.818339&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

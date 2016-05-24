@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sukh Sagar Bombay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Chinese, Indian, Juice bar, Catering\n                                    ",
+  "description": "Restaurant chain originated in India and branched out to many locations. The extensive menu includes cuisines from \r\nNorth Indian tandoor and Punjabi as well as snacks, pizza, Chinese dishes, desserts, fresh juices, and beverages. Spacious, established since 2001.",
+  "priceRange": "Moderate",
+  "streetAddress": "Trade Centre Road",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.237289,55.275815&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.237289,55.275815&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Art in Chai",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "NOTE: Please send exact geocode to happycow! Tea house serving a range of herbal teas. Has chai tea with soy milk or coconut milk; vegan chocolate cake.",
+  "streetAddress": "Moo 4, Vieng Tai",
+  "phone": "tel:+66-861901757",
+  "venueHours": "\n                                                                                                        Mon 9:00am-10:00pm, Wed-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.359228,98.437269&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.359228,98.437269&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

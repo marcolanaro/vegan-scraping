@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Baecker Mayer - Hindenburgstr",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Regional bakery store with extra vegan flyer. Offers vegan bread and other vegan bakery products. Part of a very large chain of bakeries.",
+  "streetAddress": "Hindenburgstr 43-47",
+  "postalCode": "72555",
+  "phone": "tel:07123-14258",
+  "venueHours": "\n                                                                                                        Mon-Thu 6:30am-6:30pm, Sat 6:30am-1:00pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.538800,9.288000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.538800,9.288000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Goodies",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out\n                                    ",
+  "description": "Coffee shop and bistro with multiple locations; inside Veganz supermarket, since 2014. Offers vegan soups, salads, bagel, desserts, and cakes plus smoothies, coffee and hotties.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Friedrich-Ebert-Str. 55",
+  "postalCode": "45127",
+  "phone": "tel:020145851365",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.460046,7.008509&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.460046,7.008509&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

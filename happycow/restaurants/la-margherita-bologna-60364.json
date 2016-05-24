@@ -1,0 +1,15 @@
+{
+  "title": "La Margherita",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Beer/Wine, Bakery\n                                    ",
+  "description": "Vegan bar, opened July 2015. Offers breakfast, lunch, and aperitif.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Nazario Sauro 28/b",
+  "postalCode": "40121",
+  "phone": "tel:+39-051227855",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.498073,11.339578&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.498073,11.339578&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

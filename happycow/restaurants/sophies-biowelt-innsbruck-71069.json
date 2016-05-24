@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sophie's Biowelt",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Take-out, European\n                                    ",
+  "description": "Natural products store with a bio bistro inside.",
+  "priceRange": "Moderate",
+  "streetAddress": "Universitätsstrasse 32",
+  "postalCode": "6020",
+  "phone": "tel:0512582456",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Sophies-Biowelt-663572447078263/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.268801,11.401007&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.268801,11.401007&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

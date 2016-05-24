@@ -1,0 +1,14 @@
+{
+  "title": "EkoPlaza",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of a chain of health food stores in the Netherlands. Offers a wide variety of food including organically grown fruit and vegetables, bread, soy products and tofu, cereals, grains, nuts, snacks, sweets, chocolate and more.",
+  "streetAddress": "Vechtstraat 50",
+  "postalCode": "8021",
+  "phone": "tel:+31-38-4551212",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-6:30pm, Sun 8:30am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/EkoPlaza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.515578,6.106047&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.515578,6.106047&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

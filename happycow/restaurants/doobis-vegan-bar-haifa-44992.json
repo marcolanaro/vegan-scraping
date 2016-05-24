@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Doobi's Vegan Bar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Beer/Wine, Israeli\n                                    ",
+  "description": "Vegan tapas bar, operating since Oct 2013. Hosts frequent live music events (no cover charge). Took over the location of MishMash.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Massada 16",
+  "phone": "tel:972-505299303",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/doobiesplace",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.809479,34.993729&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.809479,34.993729&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

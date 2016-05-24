@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Madame Wang",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Pizza, Western, Asian, Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu offers a mix of Indonesian, Asian, and western dishes. Mostly vegetarian except for the Indonesian food. Same owner as Gardena Vegetarian.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl. Telomoyo 12 , Malang",
+  "postalCode": "56175",
+  "phone": "tel:+62-341566786",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Madam-Wang-Secret-Garden/754884491248824",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-7.973021,112.618953&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-7.973021,112.618953&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

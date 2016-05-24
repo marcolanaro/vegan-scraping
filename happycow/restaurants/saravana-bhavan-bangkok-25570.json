@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saravana Bhavan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out\n                                    ",
+  "description": "Bangkok Indian restaurant serving vegetarian meals including thali and South Indian food such as dosa, idli, uttapam, pizza dosa. Fixed thali comprise rice, 2 large pieces of roti, 3 kinds of veggie curries, pickle, curd. Relaxed atmosphere.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "92/10-11 Soi Putha Osot Sreepaya, Bangrak",
+  "postalCode": "10500",
+  "phone": "tel:+66-873316741",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.727969,100.517836&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.727969,100.517836&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

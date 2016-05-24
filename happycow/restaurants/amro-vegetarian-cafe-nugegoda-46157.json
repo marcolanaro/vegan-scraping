@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Amro Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Juice bar, Take-out, Bakery, Sri Lankan\n                                    ",
+  "description": "Family restaurant specializing in vegetarian food and baked goods. Please confirm vegan options and let HappyCow know.",
+  "priceRange": "Moderate",
+  "streetAddress": "22 Old Kesbewa Road",
+  "postalCode": "10250",
+  "phone": "tel:+94114343366",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/AmroVegetarianCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.871660,79.892838&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.871660,79.892838&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

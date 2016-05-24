@@ -1,0 +1,17 @@
+{
+  "title": "Chay Viet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine, Take-out, Vietnamese\n                                    ",
+  "description": "\"Vegetarian\" is in the title of restaurant. Food is mostly vegan, with vegetables and tofu in the dishes. Sweet condensed dairy milk is used in the Vietnamese coffee.",
+  "priceRange": "Moderate",
+  "streetAddress": "Brunnenstr. 164",
+  "postalCode": "10119",
+  "phone": "tel:030-48494554",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-10:00pm, Sat 5:00pm-10:00pm, Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.534182,13.398069&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.534182,13.398069&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

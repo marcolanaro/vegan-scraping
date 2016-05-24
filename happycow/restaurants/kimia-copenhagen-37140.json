@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kimia",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Brunch\n                                    ",
+  "description": "Small and cozy basement vegetarian cafe with vegan options. Serves brunch, sandwiches, wraps, hot and cold drinks with soy milk option. Also has cake and biscuits. Located on a cosmopolitan street that has several other vegetarian, vegan-friendly and raw cafes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Blagardsgade 2, Norrebro",
+  "postalCode": "2200",
+  "phone": "tel:+45-42-48-98-23",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Kimia.Blaagaardsgade",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.687972,12.559946&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.687972,12.559946&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

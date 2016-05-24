@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "EL Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International, Fast food, Take-out, Indo-Chinese\n                                    ",
+  "description": "On the roadside by the ocean, est. 2015. Serves Indian vegetarian food plus sweets and drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "246, Dong Vui",
+  "phone": "tel:01688114838",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-2:30pm, 4:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/elcafemuine",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.953468,108.248757&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.953468,108.248757&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

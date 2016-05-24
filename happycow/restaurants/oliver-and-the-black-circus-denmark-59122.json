@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Oliver and the Black Circus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, European, Dutch, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fine dining restaurant where staff is aware vegan diets - just let them know. Also ask kitchen for vegan bread to eat with your meal.",
+  "priceRange": "Expensive",
+  "streetAddress": "Teglgardstaede 8A",
+  "phone": "tel:4574568888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 5:30am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.679581,12.568512&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.679581,12.568512&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

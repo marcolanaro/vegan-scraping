@@ -1,0 +1,13 @@
+{
+  "title": "La Vie Bio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural foods grocery store. Hours: Lundi 14h30-18h30; Du mardi au vendredi 9h30-12h30, 14h30-18h30; Samedi 9h30-13h, 14h30-18h30.",
+  "streetAddress": "13 bis bd Gambetta",
+  "postalCode": "02100",
+  "phone": "tel:0323052129",
+  "venueHours": "\n                                                                                                        Mon-Sat 2:30pm-6:30pm, Tue-Sat 9:30am-12:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.844260,3.295360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.844260,3.295360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Meggy's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. You can see the fresh pasta while it is being made in the restaurant; 5 different styles and a selection of sauces every week. Vegans to specify. Sit in the cellar.",
+  "priceRange": "Moderate",
+  "streetAddress": "Alaunstrasse 39, Neustadt",
+  "postalCode": "01099",
+  "phone": "tel:49-1623770889",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.066431,13.751040&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.066431,13.751040&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

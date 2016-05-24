@@ -1,0 +1,19 @@
+{
+  "title": "Zazza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Italian, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tiny pizza bistro near railway and bus station in the city centre. Has pizza with dairy-free cheese; fresh juices. A few seats for dining in.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mlynská 27",
+  "postalCode": "04001",
+  "phone": "tel:0919042040",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-10:00pm, Fri 7:00am-12:00am, Sat 8:00am-12:00am, Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/zazza.ke",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.721414,21.262123&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.721414,21.262123&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

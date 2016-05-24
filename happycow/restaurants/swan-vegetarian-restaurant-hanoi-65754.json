@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Swan Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Juice bar, Take-out, Vietnamese\n                                    ",
+  "description": "Restaurant on the second floor of a hotel. Serves Vietnamese as well Western vegetarian dishes. No egg used. Open hours vary, so best to call ahead.",
+  "priceRange": "Moderate",
+  "streetAddress": "14 Duong Thanh St",
+  "postalCode": "10000",
+  "phone": "tel:+84438239888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.029667,105.835082&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.029667,105.835082&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

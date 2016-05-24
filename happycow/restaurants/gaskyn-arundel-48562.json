@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gaskyns",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small, family-run sandwich shop and licensed café. Offers cakes and food made with locally sourced ingredients. A few vegan suitable choices: a bean mushroom patty with pita and caramelized onion chutney, a humous and side salad or on toast. Staff seems to be aware of special dietary requirements. Slow service. Babay and children friendly. Has Wi-Fi. Well-behaved dogs permitted.",
+  "priceRange": "Moderate",
+  "streetAddress": "4-6 Queen Street",
+  "postalCode": "BN18 9JG",
+  "phone": "tel:01903-884392",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.852878,-0.551901&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.852878,-0.551901&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "LeichtSinn Vitalbistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Fast food, Salad bar, Beer/Wine, Take-out, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bistro with urban decor. Offers light food and a salad bar, house-made lemonade and smoothies. Uses some organic and fair trade. A retail grocery area.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Elisabethstr 1",
+  "postalCode": "5020",
+  "phone": "tel:06503331143",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-6:00pm, Thu 9:00am-9:00pm, Fri 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.809940,13.041570&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.809940,13.041570&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

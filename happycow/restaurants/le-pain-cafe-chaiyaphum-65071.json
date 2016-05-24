@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Le Pain Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Thai, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The owner is a Thai cook who is fluent in English and is accommodating to vegan requests when you tell her. On the menu you will find vegetable stir fries, veggie burger and fries, and Thai dishes. Try the pad prik pao & ask for it \"jae\" (veg).",
+  "priceRange": "Moderate",
+  "streetAddress": "Plaza off Non Muang near the 7/11",
+  "postalCode": "36000",
+  "phone": "tel:0857632959",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-5:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/LepainChaiyaphum",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.851050,102.105217&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.851050,102.105217&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

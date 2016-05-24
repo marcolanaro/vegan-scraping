@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Babel Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Macrobiotic, Organic, Bakery\n                                    ",
+  "description": "Small organic macrobiotic cafe 大阪府 大阪市北区 浪花町 5-2 passage中崎町 2F. Offers a set menu for lunch and a slightly different one for dinner. Several kinds of cakes daily as well as a smoothie of the day and other organic drinks. Last order 7:30pm. Hosts parties which are sometimes vegan, sometimes with dairy cheese - check its web for event schedule.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kita-ku Naniwachō 5-2",
+  "postalCode": "530-0022",
+  "phone": "tel:09079644632",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Babel-cafe-541236519262480",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.707703,135.510556&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.707703,135.510556&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

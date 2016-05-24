@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Quad Cafe Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Italian, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe bar on the ground floor of the cinema building. Has a vegan menu with several items (you have to ask for it); plus something vegan for most option on the regular menu (apart from dessert). Holds events such as live music.",
+  "priceRange": "Moderate",
+  "streetAddress": "Market Place, Cathedral Quarter",
+  "postalCode": "DE1 3AS",
+  "phone": "tel:01332290606",
+  "venueHours": "\n                                                                                                        Mon-Wed 10:00am-10:00pm, Thu-Sat 10:00am-11:00pm, Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/derbyquad",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.923163,-1.475470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.923163,-1.475470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

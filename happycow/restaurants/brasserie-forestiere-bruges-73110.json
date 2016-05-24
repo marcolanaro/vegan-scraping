@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Brasserie Forestiere",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chic interior restaurant with veggie options on the regular menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Academiestraat 11",
+  "phone": "tel:50342002",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:30am-6:00pm, Thu 11:30am-6:00pm, Fri-Sat 6:00pm-10:00pm, Fri 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.211393,3.224668&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.211393,3.224668&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

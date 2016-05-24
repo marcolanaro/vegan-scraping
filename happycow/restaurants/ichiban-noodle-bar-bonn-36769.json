@@ -1,0 +1,18 @@
+{
+  "title": "Ichiban Noodle Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Japanese noodle bar with vegetarian/vegan choices. No frills. Attracts a young and international crowd.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bruedergasse 9",
+  "postalCode": "53225",
+  "phone": "tel:+49-228-9082268",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-3:00pm, 5:30pm-10:00pm, Sat 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.736231,7.102786&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.736231,7.102786&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

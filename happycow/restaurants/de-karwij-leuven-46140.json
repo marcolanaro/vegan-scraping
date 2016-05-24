@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "De Karwij",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Local health store. Stocks a variety of products, from eco-friendly household cleaning supplies and body care products to fresh fruit and vegetable, grains and beans by weight, macrobiotic and vegan products. Herbs and tonics on demand.",
+  "streetAddress": "Tiensesteenweg 32",
+  "postalCode": "3000",
+  "phone": "tel:016236236",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.873215,4.716208&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.873215,4.716208&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

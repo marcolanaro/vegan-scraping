@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sin Yuan Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "乐圆素馆 offers rice and noodle items.",
+  "priceRange": "Moderate",
+  "streetAddress": "30, Lorong Batu Nilam 21B, Bandar Bukit Tinggi 2",
+  "postalCode": "41200",
+  "phone": "tel:03-33248813",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-3:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.998047,101.442727&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.998047,101.442727&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

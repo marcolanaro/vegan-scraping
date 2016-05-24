@@ -1,0 +1,16 @@
+{
+  "title": "V-Cake Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Bakery\n                                    ",
+  "description": "Vegan cafe and bakery serving an assortment of cakes, muffins, cookies, plus sandwiches, soup, quiche, and soft ice cream. Food is made-in-house. Drinks include coffee, tea, matcha latte, hot chocolate, and lemonade. Has a wide variety of non-dairy milks. Chili served on Saturday, and brunch on Sunday.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rothenburger Strasse 14",
+  "postalCode": "01099",
+  "phone": "tel:+49-1749061634",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-6:00pm, Fri 11:00am-7:00pm, Sat 10:00am-7:00pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cafe.vcake",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.063909,13.752483&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.063909,13.752483&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

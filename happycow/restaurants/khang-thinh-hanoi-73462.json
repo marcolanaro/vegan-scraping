@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khang Thinh",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Take-out, Vietnamese\n                                    ",
+  "description": "Quan chay vegetarian eatery est. since 2014. Serves breakfast bun rieu and  pho. From 11am an all-you-can-eat buffet.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Số 3 Ngụy Như Kom Tum, Thanh Xuan",
+  "phone": "tel:0977157080",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ThaiCVC",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.997722,105.798794&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.997722,105.798794&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

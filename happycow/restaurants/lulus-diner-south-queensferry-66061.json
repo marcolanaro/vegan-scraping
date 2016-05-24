@@ -1,0 +1,17 @@
+{
+  "title": "Lulu's Diner",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Juice bar, Beer/Wine, Take-out, Catering\n                                    ",
+  "description": "A 100% vegan retro diner, acoustic music, licensed bar.",
+  "priceRange": "Moderate",
+  "streetAddress": "4 High St",
+  "postalCode": "EH30 9PP",
+  "phone": "tel:01316295150",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-3:00pm, Fri-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.990258,-3.396284&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.990258,-3.396284&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

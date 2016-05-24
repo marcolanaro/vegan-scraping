@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Einstein Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Chinese, Western, Malaysian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upstairs cafe located opposite Kompleks Selangor. Serves local dishes with vegetarian choices like pizza and dishes with faux meat like assam fish, rendang mutton, nasi lemak and chicken fried rice. Radio plays early 2000s indie music.",
+  "priceRange": "Moderate",
+  "streetAddress": "58 Jalan Sultan",
+  "phone": "tel:012-6830710",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.143557,101.698575&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.143557,101.698575&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

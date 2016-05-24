@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chiang Mai Organic Home Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Organic marketplace with vendors selling fresh organic fruit and vegetables, rice and some snacks and drinks. Spot it by the number of cars dangerously parked along the canal road.\r\n\r\n",
+  "streetAddress": "Canal Rd, Suthep",
+  "postalCode": "50200",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 2:00pm-6:00pm, Thu 2:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.775357,98.952678&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.775357,98.952678&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

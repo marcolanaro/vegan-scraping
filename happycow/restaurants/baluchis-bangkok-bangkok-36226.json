@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Baluchi's Bangkok",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Beer/Wine, Take-out, Catering\n                                    ",
+  "description": "Vegetarian Indian food place at Sawasdee Welcome Inn. Offers thali.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Soi Rongmai, Chao Fa Road, Pranakhorn",
+  "postalCode": "10200",
+  "phone": "tel:+66851598905",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/baluchisbangkok",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.759816,100.493188&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.759816,100.493188&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

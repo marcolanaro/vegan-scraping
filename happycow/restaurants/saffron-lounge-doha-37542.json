@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saffron Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food by Michelin Star chef Vineet Bhatia. Menu is approximately 1/2 veg and clearly marked. Elegant interior, located opposite New Exhibition Centre.",
+  "priceRange": "Expensive",
+  "streetAddress": "Bldg 26, Katara Cultural Village",
+  "phone": "tel:44080808",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/groups/109350085763090",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.359102,51.525798&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.359102,51.525798&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

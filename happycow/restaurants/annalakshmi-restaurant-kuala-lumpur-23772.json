@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Annalakshmi Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet\n                                    ",
+  "description": "Part of an international chain of Indian vegetarian restaurants. There are two restaurants at this location. Upstairs (inside) is fine-dining, accentuated with Indian art and handicrafts, with occasional classical dance and music performances. Downstairs (down the ramp to the car-park) is an inexpensive riverside cafe. The RM16 buffet is available Friday, Saturday, Sunday. It is run as a non-profit organization. Its adage is \"athithi devo bhava\" meaning \"the guest is God.\" This is a tribute to the Goddess of Plenty or Abundance, Annalakshmi.",
+  "priceRange": "Moderate",
+  "streetAddress": "114-116, Jalan Berhala, Brickfields",
+  "postalCode": "50470",
+  "phone": "tel:03-22723799/,%2003-22843799",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-3:00pm, 6:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.127453,101.687866&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.127453,101.687866&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

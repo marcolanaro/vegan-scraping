@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fo Guang Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "佛光2元素食仁道通店 offers a variety of noodles like curry mee, hokkien mee, and java mee, plus has buffet rice, nasi lemak, and vege chicken rice. Main specialty is that its offering three vegetable dishes and one rice for RM2.\r\n",
+  "streetAddress": "11, Kuantan Road, Georgetown",
+  "postalCode": "10150",
+  "phone": "tel:011-2331939",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.411525,100.324109&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.411525,100.324109&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

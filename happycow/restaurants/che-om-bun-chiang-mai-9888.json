@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Che Om Bun",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai, Buffet\n                                    ",
+  "description": "佛有缘素菜馆 is a self-serve veggie buffet located in front of the Empress Hotel. Pay for food by weight. Open daily during Chinese vegetarian festival in October.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "199/23 Changklan Rd",
+  "phone": "tel:053-820361",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.775851,98.999758&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.775851,98.999758&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Food House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Mediterranean, European, Turkish, Bosnian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Self described as \"European, Turkish, Grill, Italian, and Vegetarian,\" this restaurant is 5 minutes from the Mostar bridge and offers plenty of covered seating outside. Staff understands vegetarian but vegans need to be aware of dollops of dodgy mayonnaise or cheese being added on top of your food. Try the falafel, aubergine, and simple rice dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rade Bitange, 12",
+  "postalCode": "88104",
+  "phone": "tel:%20+387-61209388",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.338366,17.812571&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.338366,17.812571&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

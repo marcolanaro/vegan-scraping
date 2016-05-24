@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Joy-Veggie - Xindian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "A small, a la carte restaurant serving veggie Taiwanese dishes such as mushroom stew, currys, sesame-fried rice, and various forms of mock meat. Has English menu though not spoken. Not to be confused with Veggie Joy on Jhonghua Rd.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-14, Yonghua St, Xindian District",
+  "phone": "tel:02-29170259",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.976718,121.543303&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.976718,121.543303&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

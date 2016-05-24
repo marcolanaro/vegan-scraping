@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fresh Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Juice bar, Take-out, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. A few vegan items on the menu, including a breakfast, a sandwich, a salad, and a dessert. \"Mehadrin\" kosher.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 HaShunit, Arena Mall",
+  "phone": "tel:09-8321393",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:30am-11:30pm, Fri 7:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Fresh.kitchen.tlv",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.163622,34.797062&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.163622,34.797062&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

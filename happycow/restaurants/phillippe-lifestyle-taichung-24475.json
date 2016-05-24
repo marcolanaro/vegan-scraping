@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Phillippe - Lifestyle",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Salad bar, French\n                                    ",
+  "description": "Upscale dining, one of 2 locations in Taichung. Chinese name 斐麗, address 台中市北區青島路三段115號.",
+  "priceRange": "Expensive",
+  "streetAddress": "15, Sec. 3, Chingdao Road, North District",
+  "phone": "tel:04-2237-9101",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.168541,120.682137&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.168541,120.682137&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

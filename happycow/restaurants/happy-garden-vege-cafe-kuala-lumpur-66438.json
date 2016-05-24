@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Happy Garden Vege Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Malaysian\n                                    ",
+  "description": "绿苑素食坊 serves rice, noodles, vegetables and curry items.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jalan 3/23A, Jalan Genting Kelang off Taman, Danau Kota Setapak",
+  "postalCode": "53300",
+  "phone": "tel:03-41442281",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-4:30pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Happy-Garden-Vege-Cafe-595047500550023",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.201199,101.720424&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.201199,101.720424&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

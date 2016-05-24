@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Leezen Cafe",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Casual vegetarian restaurant upstairs from their all vegetarian health food store. Located across the street and a bit down from Evergreen Hotel.",
+  "streetAddress": "3, Sec. 2, Chung Kang Road (Taichung Port Road)",
+  "phone": "tel:04-2329-8900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.162730,120.648336&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.162730,120.648336&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

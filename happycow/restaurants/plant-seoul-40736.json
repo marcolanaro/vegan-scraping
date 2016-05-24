@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "PLANT",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out, Bakery, Korean\n                                    ",
+  "description": "Vegan cafe and bakery with a changing menu of sandwiches, kale salad, wraps, and occasionally veggie burgers. Also offers baked cakes, cookies, brownies, coffee and chai.",
+  "priceRange": "Moderate",
+  "streetAddress": "Plant 63-15 Itaewon-dong, Yongsan-gu",
+  "phone": "tel:070-4115-8388",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/STUDIOPLANT",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.533374,126.991396&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.533374,126.991396&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dolce Sophia",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "All vegan bakery. Currently offering custom order service only (Mar 2013). Please see facebook page for ordering info.",
+  "streetAddress": "Gent area",
+  "postalCode": "9000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/dolcesophiavegan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.070802,3.710728&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.070802,3.710728&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

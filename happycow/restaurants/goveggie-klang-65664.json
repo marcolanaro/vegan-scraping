@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "GoVeggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "绿生活素食坊, est. Sept 2015, serves a wide selection of rice and noodle dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "115 Jalan Jed 3, Kawasan 7, Bandar Parkland",
+  "postalCode": "41200",
+  "phone": "tel:012-2102138",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-3:00pm, 6:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.974315,101.457938&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.974315,101.457938&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

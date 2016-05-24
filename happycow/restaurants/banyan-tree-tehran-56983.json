@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Banyan Tree",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Western, Fast food, Fusion, Iranian\n                                    ",
+  "description": "Vegetarian food restaurant, coffee cafe, and fast food in North Tehran. Modern decor, nice atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "3, Amanpour Alley, Dr. Shariati Ave",
+  "phone": "tel:+982122631016",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.696111,51.423056&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.696111,51.423056&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tiang Sien",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Buffet, Fast food, Take-out\n                                    ",
+  "description": "Street food in an open front restaurant. Cooks Thai vegetarian food offered in buffet-style - choose what you want from canteen-style prepared containers, or order a la carte noodle soup. Right across from Makro on Srinakarin.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Thanon Srinakarin",
+  "postalCode": "10270",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.651535,100.640769&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.651535,100.640769&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

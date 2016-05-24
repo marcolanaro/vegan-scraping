@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chop Chop",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Fast food, Salad bar, Beer/Wine, Delivery, Take-out, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Build your own meal by choosing your noodles (all are vegan), sauce (such as vegan peanut butter, red or green curry), and a topping (vegans could get tofu or mushroom mix, and various vegetables). Offers Asian-influenced cocktails such as lychee cosmopolitan and mango-chili margarita.",
+  "priceRange": "Moderate",
+  "streetAddress": "20 Ibn Gabirol Street",
+  "phone": "tel:077-2040828",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CHOP.CHOP.TLV",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.073647,34.781894&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.073647,34.781894&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,15 @@
+{
+  "title": "M I N T Vegan",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Catering, personal chef, as well a home restaurant offering 3-course surprise dinner menu in Westerpark area (needs 48 hours advanced notice). Gluten free upon request. Catering service for up to 50 people.",
+  "streetAddress": "Amsterdam-Westerpark",
+  "phone": "tel:+31-0644472264",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.389722,4.875000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.389722,4.875000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

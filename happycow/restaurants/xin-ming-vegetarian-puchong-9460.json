@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xin Ming Vegetarian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "Serves mixed rice, noodles, and others vegetarian dishes. Available for pre-order. Provides various vegetarian food and dishes for catering as well.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "32, Jalan BPU 1, Bandar Puchong Utama",
+  "postalCode": "47100",
+  "phone": "tel:016-6360280",
+  "venueHours": "\n                                                                                                        Mon-Fri 5:00pm-9:00pm, Mon-Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/xinmingvege",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.993991,101.620334&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.993991,101.620334&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

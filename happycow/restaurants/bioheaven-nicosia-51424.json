@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BioHeaven",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic store providing fresh fruits and vegetables as well lactose-free and gluten-free food products and other packaged foods and cooking supplies.",
+  "streetAddress": "175 Grigoris Afxentiou, 2369 Agios Dometios",
+  "phone": "tel:96867252",
+  "venueHours": "\n                                                                                                        Mon-Tue 8:00am-8:00pm, Wed 8:00am-5:00pm, Thu-Fri 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Bioheaven",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.175196,33.328973&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.175196,33.328973&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

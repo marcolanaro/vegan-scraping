@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Ram-Intra 51",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Delivery, Take-out\n                                    ",
+  "description": "Part of international chain of vegan restaurants inspired by Supreme Master Ching Hai, an advocate for veg living. Each location is individual family owned and operated. Serves all vegan food, coffee, non-alcoholic beverages, and vegan desserts. Has Wi-Fi and parking spaces.",
+  "priceRange": "Moderate",
+  "streetAddress": "8/2 Moo 8 Soi Ram-Intra 51, Ram Intra Rd",
+  "postalCode": "10220",
+  "phone": "tel:081-751-5227",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-9:00pm, Thu-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.852945,100.638928&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.852945,100.638928&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ko-So Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Japanese, Macrobiotic, Organic, Beer/Wine\n                                    ",
+  "description": "Opened Nov 2013, this is modern, health food cafe offering a selection of puree soups, vegetable curry, salad with pancakes, pasta, fruits deserts, house made ginger drink, coffee, and alcoholic beverages. Reported to be 100% vegan and no longer using honey, Apr 2016. Last order one hour before closing.",
+  "priceRange": "Moderate",
+  "streetAddress": "Higashi, Shibuya-ku 3-25-3, Ebisu Lions Plaza 1F",
+  "postalCode": "150-0011",
+  "phone": "tel:03-34093405",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-3:00pm, 5:00pm-10:00pm, Sat-Sun 11:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/KOSOCAFEBIORISE",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.648641,139.709926&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.648641,139.709926&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

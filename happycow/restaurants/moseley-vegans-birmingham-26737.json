@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Moseley Vegans",
+  "tags": [
+    "Veg Organization",
+    "Vegan"
+  ],
+  "description": "A vegan social and information sharing, promoting, campaigning group. Open to anyone interested in veganism. For vegans and the vegan-curious in the South Birmingham area.",
+  "streetAddress": "South Birmingham",
+  "postalCode": "B13 8EF",
+  "phone": "tel:07870212306",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.440294,-1.901591&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.440294,-1.901591&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zhai Pu Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Take-out, Taiwanese\n                                    ",
+  "description": "Chinese name 齋舖素食館, address 花蓮市中山路857號. A vegetarian buffet, which you will find other ones like this throughout cities in Taiwan. The spread is extensive, and you pay for food by weight (choose what you'd like).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "857, Jhongshan Road",
+  "phone": "tel:03-8465858",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.993835,121.595890&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.993835,121.595890&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

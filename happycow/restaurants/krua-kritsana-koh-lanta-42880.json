@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Krua Kritsana",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai food with some vegetable dishes but limited vegan ones which are 2 kinds of fried noodle with vegetables or 1 fried rice with vegetables. Say \"no eggs,\" \"no meat,\" \"no fish,\" and staff will try to accommodate.",
+  "priceRange": "Moderate",
+  "streetAddress": "Long Beach",
+  "phone": "tel:0000007777",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.617203,99.032988&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.617203,99.032988&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

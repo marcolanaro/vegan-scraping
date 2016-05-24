@@ -1,0 +1,17 @@
+{
+  "title": "Savory Chay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai, Take-out, Asian, Vietnamese\n                                    ",
+  "description": "Vegetarian Southeast Asian kitchen, opened 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kronenstr. 70",
+  "postalCode": "10117",
+  "phone": "tel:+49-3020647692",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat-Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.511300,13.387910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.511300,13.387910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

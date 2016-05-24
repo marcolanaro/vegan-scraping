@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Seadive Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Filipino, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of the Seadive Resort and Dive Centre. With limited veg options in this remote town, serves a vegan vegetable curry, fruit platter (with no bread) and other vegan dishes or ones that can be made vegan. Wi-fi. Relaxing atmosphere, with a view, with open air seating and warm sea breezes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bgy 3 Don Pedro Street",
+  "phone": "tel:+63-918-400-0448",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.997583,120.201767&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.997583,120.201767&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

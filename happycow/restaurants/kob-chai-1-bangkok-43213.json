@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kob Chai 1",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Take-out\n                                    ",
+  "description": "A vegan Thai restaurant's specialties include noodles, green curry, red curry, rice soup, vegetarian chicken, stew, gaeng som, vegetarian dried pork, 3 flavored tofu skin, savory mushrooms. Choice of white or brown rice. No soft drinks, but they have some Thai herbal drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ladprao, Soi Chokchai 4, 15 Soi 54",
+  "postalCode": "10230",
+  "phone": "tel:02-931-1900/,%20086-613-0909",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.800449,100.650771&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.800449,100.650771&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

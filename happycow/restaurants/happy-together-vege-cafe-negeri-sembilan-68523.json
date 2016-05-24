@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Happy Together Vege Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Western, Fast food, Take-out\n                                    ",
+  "description": "众樂樂素食馆 is an air-conditioned place serving a mix of Chinese and western food alongside beverages like pearl milk, cappuccino, and watermelon juice. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "221-B, Jalan Temiang",
+  "postalCode": "70200 ",
+  "phone": "tel:0122869769",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 6:30am-3:30pm, Wed 6:30am-5:00pm, Thu 6:30am-3:30pm, Fri 6:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.754895,101.941046&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.754895,101.941046&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

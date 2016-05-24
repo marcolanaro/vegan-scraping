@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Mima",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cozy atmosphere. Outdoor seating in summer. Offers vegan choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Karmelitermarkt 21-24",
+  "postalCode": "1020",
+  "phone": "tel:04-36644562217",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-10:00pm, Sat 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.217410,16.377369&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.217410,16.377369&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

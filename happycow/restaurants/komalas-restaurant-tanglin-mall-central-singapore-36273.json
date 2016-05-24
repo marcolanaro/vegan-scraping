@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Komala's Restaurant - Tanglin Mall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Delivery, Take-out, Catering\n                                    ",
+  "description": "Part of vegetarian Indian food chain in Singapore. Fast food style.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "163 Tanglin Road, B1-17 Tanglin Mall, Tasty Food Court",
+  "postalCode": "247933",
+  "phone": "tel:67373944",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-9:00pm, Fri-Sat 9:00am-10:00pm, Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.304999,103.823800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.304999,103.823800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

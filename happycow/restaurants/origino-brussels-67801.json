@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Origin'O - Woluwe St Lambert",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Chain of organic supermarkets. Stocks a wide range of vegetarian and vegan food, including fresh fruit and vegetables. non-dairy milks, soups, spreads, meat substitutes such as tofu, tempeh, and seitan.",
+  "streetAddress": "Tomberg 199",
+  "postalCode": "1200",
+  "phone": "tel:02-7715303",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.843300,4.422931&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.843300,4.422931&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

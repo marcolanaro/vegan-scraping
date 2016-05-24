@@ -1,0 +1,13 @@
+{
+  "title": "Ekoplaza",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large organic and natural grocery store. Stocks a wide variety of products including fresh fruit and vegetables, packaged food, nutritional supplements, baked breads, and many vegan products.",
+  "streetAddress": "Asselsestraat 146",
+  "postalCode": "7311 EV",
+  "phone": "tel:055-5213310",
+  "venueHours": "\n                                                                                                        Mon 11:00am-6:00pm, Tue-Fri 8:00am-6:00pm, Sat 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.211866,5.952307&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.211866,5.952307&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

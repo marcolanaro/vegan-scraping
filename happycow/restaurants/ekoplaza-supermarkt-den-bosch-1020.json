@@ -1,0 +1,13 @@
+{
+  "title": "EkoPlaza Supermarkt",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food and grocery chain. Previously De Natuurwinkel at Vughterstraat 85, North Brabant.",
+  "streetAddress": "Vughterstraat 234",
+  "postalCode": "5211 GP",
+  "phone": "tel:073-6144420",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-6:30pm, Sat 8:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.684737,5.296072&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.684737,5.296072&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

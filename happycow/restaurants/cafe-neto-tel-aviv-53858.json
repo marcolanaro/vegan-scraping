@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Neto",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located in one of the refurbished Templar buildings in the Sarona shopping and restaurant area, this branch of the Cafe Neto chain has an updated menu that includes many vegan choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "12 David Elazar",
+  "phone": "tel:03-6721344",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafenetosarona",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.072585,34.788065&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.072585,34.788065&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "All Organic Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food grocery. Has fresh fruit and vegetables, packaged foods, vegan items. Served by bus route 13 and 21.",
+  "streetAddress": "Kolonakiou 16",
+  "postalCode": "4103",
+  "phone": "tel:+357-25-587670",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/ALL-Organic-Market/151577678247659",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.696011,33.068630&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.696011,33.068630&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

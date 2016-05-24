@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chuan Siang",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Thai, Fast food, Take-out\n                                    ",
+  "description": "Small, hole-in-the-wall eatery offering around 6 different Thai food dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bamrung Rat Road",
+  "phone": "tel:08-56147286",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.787770,99.008577&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.787770,99.008577&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

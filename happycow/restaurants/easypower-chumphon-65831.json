@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "EasyPower",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Organic, Thai, Take-out\n                                    ",
+  "description": "A casual place serving Thai vegetarian food. Uses organic vegetable from its backyard garden, organic thai rice from Roi-Et. Has Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Taweesinka, Thatapao",
+  "postalCode": "86000",
+  "phone": "tel:+660996755090",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/soulbrotherbar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.500444,99.175623&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.500444,99.175623&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

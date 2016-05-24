@@ -1,0 +1,18 @@
+{
+  "title": "Vegan Pizza",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Italian, Organic, Fast food, Delivery, Take-out\n                                    ",
+  "description": "First vegan pizzeria in Warsaw, est. Dec 2014, offering traditional and gluten-free pizzas using local farm produce. Vegan cheese is soy-free, gluten-free. Sauces are house-made. Drinks include shakes, fruit smoothies, fair trade coffee, and tea. Also serves cakes. Entrance is on Wilcza street.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Poznanska 7",
+  "postalCode": "00-680",
+  "phone": "tel:530880990",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/veganpizzapl",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.224016,21.012254&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.224016,21.012254&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

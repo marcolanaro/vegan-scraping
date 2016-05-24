@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Matoni",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mediterranean restaurant (konoba) opened in late-2014. Offers veggie choices, with examples such as raw lasagna with vegan ricotta and truffle sauce, vegan burger patties, seasonal salad with truffle sauce, vegan dessert made of cooked pear in chocolate sauce with vegan berry ice cream. Also offers changing vegan specials.",
+  "priceRange": "Moderate",
+  "streetAddress": "Prilaz braće Kaliterna 6",
+  "postalCode": "21000",
+  "phone": "tel:021278457",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 12:30pm-11:30pm, Fri-Sat 12:30pm-12:00am, Sun 12:30pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/konobamatoni",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.503136,16.445816&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.503136,16.445816&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

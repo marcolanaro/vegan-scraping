@@ -1,0 +1,12 @@
+{
+  "title": "Indian Veggie",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Vegetarian food delivery service offering mostly Indian cuisine with a few European-Indian fusion dishes. Will make vegan versions when asked.",
+  "streetAddress": "Sonnenweg 9",
+  "postalCode": "30171",
+  "phone": "tel:+49-511851564",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.369370,9.756700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.369370,9.756700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

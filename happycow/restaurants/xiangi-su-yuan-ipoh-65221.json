@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xiangji Su Yuan - Sam Poh Tong Temple",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "香積素苑 is a veggie restaurant at the Sam Poh Tong Temple.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Gunung Rapat, 3 Miles, Gopeng Rd",
+  "postalCode": "31350",
+  "phone": "tel:05-3120813",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.578041,101.109545&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.578041,101.109545&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

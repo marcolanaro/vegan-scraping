@@ -1,0 +1,16 @@
+{
+  "title": "Leaf",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Organic, Beer/Wine, Asian, German\n                                    ",
+  "description": "Nice atmosphere. Offering German and international plus coffee, cake, and snacks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Eulenstrasse 38",
+  "phone": "tel:040-87095177",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 5:00pm-11:00pm, Sun 3:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.550290,9.927190&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.550290,9.927190&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Scurry Hub",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual eatery offering sandwiches and Thai food like curries, stir-frys, and noodles. Vegans could get the red or green curry served with rice. Local Denmark debit card ok.",
+  "priceRange": "Moderate",
+  "streetAddress": "Fiolstræde 30",
+  "postalCode": "1171",
+  "phone": "tel:+45-20379739",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-9:00pm, Sat 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Scurry-Hub/114892394944",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.681584,12.572505&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.681584,12.572505&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

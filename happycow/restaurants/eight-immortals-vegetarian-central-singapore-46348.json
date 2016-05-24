@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eight Immortals Vegetarian- Tan Tock Seng Hospital",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Fast food, Take-out\n                                    ",
+  "description": "Food stall inside Kopitiam Food Court at Tan Tock Seng Hospital which is near Novena MRT station. Serves tom yam nodole, rice, bee hoon, noodles with a variety of vegetables, and tze char items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11 Jalan Tan Tock Seng, 01-13/14/15 Tan Tock Seng Hospital",
+  "postalCode": "308433",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.321097,103.845640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.321097,103.845640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,13 @@
+{
+  "title": "Kornmuhle",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Whole food store and bakery with vegetarian and vegan products available.",
+  "streetAddress": "Herrenkellergasse 8",
+  "postalCode": "89073",
+  "phone": "tel:0731-64515",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:30pm, Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.400234,9.991620&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.400234,9.991620&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Viva!",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "Viva!(Vegetarians' International Voice for Animals), a registered charity, was set up to monitor and to explain the increasing amount of scientific research linking diet to health - providing accurate information on which to make informed choices. Previously named Vegetarian and Vegan Foundation.",
+  "streetAddress": "8 York Ct Wilder St",
+  "postalCode": "BS2 8QH",
+  "phone": "tel:0117970-5190",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/VivaVeggieHealth",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.461805,-2.587233&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.461805,-2.587233&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

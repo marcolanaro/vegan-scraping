@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Serendah Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Take-out\n                                    ",
+  "description": "Offering items like lo mee, bah kut teh, nasi lemak, hokien mee, mock chicken rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lorong 1, behind Maybank, Kampung Kenanga",
+  "phone": "tel:016-6065327",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.309519,101.586942&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.309519,101.586942&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

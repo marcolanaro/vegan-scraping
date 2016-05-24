@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pink House Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Thai, Take-out, Bakery\n                                    ",
+  "description": "A restaurant serving simple vegetarian and vegan Thai food to foreign customers in the Saturday walking street area.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Wua Lai 2 Alley 19",
+  "phone": "tel:0932919361",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-10:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/PinkHouseGarden",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.779885,98.983200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.779885,98.983200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

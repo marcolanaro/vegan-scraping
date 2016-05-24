@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sri Ganesh Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian\n                                    ",
+  "description": "Mango lassi and vegetarian South Indian food. In 2014 relocated from 392/23-24 Soi Sukhumvit 20/1.",
+  "priceRange": "Moderate",
+  "streetAddress": "19/13-14, Sukhumvit Suites, Sukhumvit Soi 13, Khlongtoei Nuea, Wattana",
+  "postalCode": "10110",
+  "phone": "tel:02-2581425",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.734388,100.564042&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.734388,100.564042&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

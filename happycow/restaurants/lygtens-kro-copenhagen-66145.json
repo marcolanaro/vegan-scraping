@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lygtens Kro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A pub in the Copenhagen Nordvest area, where you can enjoy German specialties, draft beer and music. Offers a vegan lunch platter with salad w/ beetroot; vege meatballs w/ pickles; roasted mushrooms and walnuts and vege pate with pickled onions served from 12:00 pm to 5:00 pm.  Serves a vegan bratwurst with fried potatoes, kraut and pickles from 12:00 pm to 10:00 pm every day.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lygten 29",
+  "postalCode": "2400",
+  "phone": "tel:+45-26369086",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/lygtenskro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.703105,12.537322&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.703105,12.537322&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

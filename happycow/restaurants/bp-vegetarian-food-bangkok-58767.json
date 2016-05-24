@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "B.P. Vegetarian Food",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Non-veg\n                                    ",
+  "description": "A shop lot that serves vegetarian food. There's a stall that serves plenty of prepared dishes for dine in or takeaways, aka \"economy rice\" in certain parts of Asia. There's another one that serves fried dishes, including fried pastas. 5-minute walk from i-Residence Hotel to this place - walk out to the main road, turn left, and at the first junction, turn left again.",
+  "streetAddress": "Sathorn-3, Sounpru 8, Sathorn",
+  "phone": "tel:080-0807255",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.721023,100.527908&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.721023,100.527908&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

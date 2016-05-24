@@ -1,0 +1,20 @@
+{
+  "title": "Lahore",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Organic, Buffet, Fast food, Salad bar, Take-out, Bakery\n                                    ",
+  "description": "Vegetarian cafe serving Indian food plus wraps, cakes, and desserts. Interior features hand-painted walls, antique columns and furniture. Kitchen utilizes the Ayurveda approach.",
+  "priceRange": "Moderate",
+  "streetAddress": "Prachechny 10, Pirogova 14",
+  "postalCode": "190000",
+  "phone": "tel:812-9888859",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.928707,30.301879&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.928707,30.301879&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nataraj - Suginami-ku",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian\n                                    ",
+  "description": "Offers a special vegan dinner every Monday (for Meat Free Mondays) in all of its branches and also offers a savings of 10% discount if you make a reservation for the dinner.",
+  "priceRange": "Moderate",
+  "streetAddress": "B1F Hukumura Sangyou Bldg 5-30-6 Ogikubo Suginami-ku, Tokyo",
+  "phone": "tel:03-33985108",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.703910,139.621490&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.703910,139.621490&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

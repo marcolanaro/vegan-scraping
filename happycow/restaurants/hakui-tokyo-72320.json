@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hakui",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small health store a 5-minute walk from Honancho station, at 東京都杉並区方南2-4-28. Provides organic, natural-cultivation, and non-chemical vegetables and groceries. Japanese farmer made vegan scone, muffin, and cookies.",
+  "streetAddress": "Honancho station",
+  "phone": "tel:0363832333",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/hakuihousoukyoku",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.681307,139.657676&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.681307,139.657676&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

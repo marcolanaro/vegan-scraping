@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "iVegan Supermarket",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Opened spring 2014, this is Taiwan's first fully vegan supermarket. Stocks fresh fruit and vegetable, frozen mock meats, vegan butter and mayonaise, some stuff from Fresh bakery (a vegan bakery in Taipei), Loving Hut products, health care products, and more. Take the MRT to Wanlong station and take exit 1, go south and turn right when you see the iVegan sign.",
+  "streetAddress": "54, Wanlong Street, Wenshan District",
+  "postalCode": "11675",
+  "phone": "tel:02-29350900",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/iveganmart",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.000760,121.537455&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.000760,121.537455&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

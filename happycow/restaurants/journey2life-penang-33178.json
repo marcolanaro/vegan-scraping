@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Journey2Life",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "Chinese name 旅人蔬食. Offers set meal, brown rice, herbal soup, salad, dessert, sushi, and fresh juice. Located near Queensbay Mall and next to Eastin Hotel, behind the big Melaleuca store.",
+  "priceRange": "Moderate",
+  "streetAddress": "C-3-1, Lorong Bayan Indah 3, Bay Avenue",
+  "postalCode": "11900",
+  "phone": "tel:604-6111184",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.337680,100.307386&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.337680,100.307386&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

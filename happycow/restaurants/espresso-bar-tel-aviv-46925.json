@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Espresso Bar - Yehuda Maccabee",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. In the midst of a little Tel Aviv street with other cafes and shops, this cafe offers a separate vegan menu with choice in all categories, including a big Israeli-style breakfast, sandwiches like a grilled vegan mozzarella cheese, salads, and mains. Staff know what vegan means. Casual atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "57 Yehuda Maccabee Street",
+  "phone": "tel:057-9443774",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-12:00am, Sat 8:00am-12:00am, Sun 7:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/EspressoBarIL",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.093844,34.790963&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.093844,34.790963&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

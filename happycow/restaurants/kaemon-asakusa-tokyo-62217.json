@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kaemon Asakusa",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic\n                                    ",
+  "description": "Organic restaurant opened 2015 near Sensoji Temple and next to the metro Tobu station. Serves vegan food using fresh vegetables, beans, grains, and nuts. Menu is offered in Japanese and English with pictures. There are set dinner and lunch selections, and a la carte options, offered in half or full sizes. Last meal orders 2pm and 9pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hanakawado 3F, 1-9-1, Hanakawado, Taito-ku",
+  "phone": "tel:03-62317920",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-3:30pm, Tue-Sun 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/organickaemon",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.712722,139.798662&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.712722,139.798662&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

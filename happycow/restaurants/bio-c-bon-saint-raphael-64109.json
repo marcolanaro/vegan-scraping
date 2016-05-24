@@ -1,0 +1,13 @@
+{
+  "title": "Bio c' Bon",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "281 traverse Jean Moulin",
+  "postalCode": "83700",
+  "phone": "tel:0494193750",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:30am-7:30pm, Sat 9:00am-7:30pm, Sun 9:30am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.428587,6.778849&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.428587,6.778849&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

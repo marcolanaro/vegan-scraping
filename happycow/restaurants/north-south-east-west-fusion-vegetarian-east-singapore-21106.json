@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "North South East West Fusion Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fusion, Singaporean\n                                    ",
+  "description": "This veggie eatery moved out of Marine Parade Central food court and into its own shop (Dec 2014). Serves Asian vegetarian fusion cuisine. Last order 9:30pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "200 Tanjong Katong Rd",
+  "postalCode": "436998",
+  "phone": "tel:81000049",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/North-South-East-West-Fusion-Vegetarian-212697975467114",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.307800,103.895090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.307800,103.895090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

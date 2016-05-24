@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chow's Family Vegetarian Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Buffet\n                                    ",
+  "description": "美味素食之家 Chinese food restaurant featuring a buffet with many dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "44, Jalan Dedap 9, Taman Johor Jaya, South",
+  "postalCode": "81100",
+  "phone": "tel:012-7073053/,%20016-7228305",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.539364,103.805246&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.539364,103.805246&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

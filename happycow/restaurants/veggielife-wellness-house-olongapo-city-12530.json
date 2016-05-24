@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veggielife Wellness House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Fast food, Juice bar, Delivery, Take-out, Filipino\n                                    ",
+  "description": "Vegetarian restaurant. Caters primarily to a nearby school, and is open to all. Serves Chinese and Filipino food, juices and shakes. Previously known as Hapilife Healthy Food Corner. Confirmed open, Feb 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "18 Corpuz St, West Tapinac",
+  "postalCode": "2200",
+  "phone": "tel:476110249;%20+639065125148",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.829734,120.278664&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.829734,120.278664&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

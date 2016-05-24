@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chuk Lim - Bamboo Forest",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Malaysian\n                                    ",
+  "description": "竹林素食 a quiet place serving typical Chinese vegetarian food. Specialty is the curry (without coconut milk). Also try the kam hiong veg chicken, and KangKung Belacan (a spicy Malay styled spinach), majerine veg prawn, lime with sour plum. Kitchen closes 3-5:30pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "lot 2899, Jalan Balik Bukit",
+  "postalCode": "20300",
+  "phone": "tel:09-6244153",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.326068,103.133538&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.326068,103.133538&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ching Su - Fresh Choice - Beitun",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Organic, Juice bar, Take-out, Taiwanese\n                                    ",
+  "description": "Its 2nd outlet, a veggie restaurant that opened Jul 2015 at 台中市北屯區昌平路二段31-34號, across from a park. Casual, pleasant setting. Offers meals and salads, organic coffee and soy milk.",
+  "priceRange": "Moderate",
+  "streetAddress": "31-34, Sec. 2, Changping Rd, Beitun District",
+  "postalCode": "406",
+  "phone": "tel:04-24214899",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/%E6%B8%85%E8%94%AC-fresh-choice/189855111067581",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.189854,120.685262&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.189854,120.685262&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

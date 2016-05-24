@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Home Healthy Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Organic, Take-out, Malaysian\n                                    ",
+  "description": "绿之馨天然有机素食坊 serves a variety of rice and noodle dishes. NOTE: Reported unable to locate - please send correct/exact map coordinates to happycow!",
+  "priceRange": "Moderate",
+  "streetAddress": "44, Jalan Tasik 2, Pusat Perniagaan Tasik",
+  "postalCode": "86000",
+  "phone": "tel:019-7381218",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.030068,103.318464&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.030068,103.318464&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

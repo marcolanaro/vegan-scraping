@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Avalon",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic\n                                    ",
+  "description": "Organic-vegan restaurant. Soup, quiche, dessert, pasta, lasagna, salad, and a daily dish. Also open in evenings during the Ghent Festival. Closes 2014 11/26-11/3, 11/11, 12/25, 1/1/2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Geldmunt 32, Gent",
+  "phone": "tel:09-2243724",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Restaurant-Avalon/168890959788843",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.057540,3.721120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.057540,3.721120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Rock Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Delivery, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria with veggie & vegan choices. Runs a catering service called SMAK which offers also vegan options for food and cakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Wita Stwosza 15",
+  "postalCode": "50-148",
+  "phone": "tel:531026261",
+  "venueHours": "\n                                                                                                        Mon-Thu 1:00pm-9:30pm, Fri-Sat 1:00pm-11:30pm, Sun 1:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/RockPizzaWroclaw",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.109700,17.036855&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.109700,17.036855&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

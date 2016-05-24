@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Tree Story Cafe ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Take-out, Asian\n                                    ",
+  "description": "树@家 serves a variety of dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "19 Jalan Watan 2, Taman Desa 3, Parit Setongkat",
+  "postalCode": "84000",
+  "phone": "tel:012-3672258",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:30am-3:00pm, 6:00pm-10:00pm, Thu-Sun 11:30am-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/The-Tree-Story-Cafe-115661908484290",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.066969,102.586746&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.066969,102.586746&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

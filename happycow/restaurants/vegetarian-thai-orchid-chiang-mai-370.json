@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Thai Orchid",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Fast food, Take-out\n                                    ",
+  "description": "Offers an assortment of pre-made dishes. It's near President Hotel.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "419/24 Wichayanon Rd",
+  "phone": "tel:053-876-232",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.794589,98.995796&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.794589,98.995796&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

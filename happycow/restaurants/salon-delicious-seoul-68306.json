@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Salon Delicious",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Western food such as burger, mushroom pasta, pizza, chickpea salad. Has separate vegan menu - ask for it. Staff rests from 3-5pm during the week.",
+  "priceRange": "Moderate",
+  "streetAddress": "389-23, Hapjeong-dong, Mapo-gu",
+  "phone": "tel:02-3363613",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/dupainburger#_=_",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.550541,126.910380&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.550541,126.910380&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

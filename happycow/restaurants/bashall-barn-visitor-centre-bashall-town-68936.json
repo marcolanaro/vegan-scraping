@@ -1,4 +1,21 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bashall Barn Visitor Centre",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Salad bar, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A visitor centre with a restaurant and deli. Of the 4 labeled vegetarian dishes 3 are suitable for vegans.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bashall Town",
+  "postalCode": "BB7 3LQ",
+  "phone": "tel:01200428964",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Bashall-Barn/356839362743",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.873683,-999999.999999&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.873683,-999999.999999&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

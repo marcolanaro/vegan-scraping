@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lokapala",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Opened in 2012, an all-vegan concept store that is a shop that sells food and a second hand store. You can find a variety of food and drinks, plus clothes, patches, pins, stickers, books and much other stuff around animal rights activism and the vegan lifestyle; 90% is biological/fair. You can also have coffee or tea to go or drink in the shop. Part of their name is Fair Zu Mensch, Tier und Umwelt, which means in English fair to humans, animals and the environment.\r\n",
+  "streetAddress": "Hinterstadt 3-5",
+  "phone": "tel:+43-6602224488",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 2:00pm-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/lokapala.shop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.008105,13.656180&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.008105,13.656180&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

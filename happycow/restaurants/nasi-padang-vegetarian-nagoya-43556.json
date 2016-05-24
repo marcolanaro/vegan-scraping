@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nasi Padang Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indonesian\n                                    ",
+  "description": "Vegetarian restaurant serves dry mee, bah kut teh, mee rebus, veg rice, laksa, curry puff, lor mee and more. Drinks include sugarcane juice and nonya kueh. Has vegan options. Please update HappyCow with correct marker location.",
+  "streetAddress": "Nagoya Komplek Bumi Indah, Blok 4, Unit 54",
+  "phone": "tel:081277161889",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.145300,104.010295&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.145300,104.010295&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

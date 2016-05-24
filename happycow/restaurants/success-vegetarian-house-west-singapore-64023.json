@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Success Vegetarian House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Singaporean\n                                    ",
+  "description": "成功素食之家 is a stall inside Berjaya Eating House. Serves mixed economic rice and bee hoon.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 253 Choa Chu Kang Ave 1 , Keat Hong Shopping Centre Unit 01-17",
+  "postalCode": "680253",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.377542,103.744413&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.377542,103.744413&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

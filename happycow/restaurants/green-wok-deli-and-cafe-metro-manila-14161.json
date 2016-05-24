@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Wok Deli and Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Delivery, Take-out, Filipino\n                                    ",
+  "description": "Filipino vegetarian food shop. Sells all vegetarian versions of Filipino dishes such as veggie sisig, veggie dinuguan, veggie abodo, veggie humba, pancit, barbecue magic, and others. Drinks are sweetened with stevia and made with non-dairy creamers. Special coffee made from a blend of Agaricus mushroom, beans, pandan, gotu kola, vitamin C. Previously located on Kamuning Road.",
+  "priceRange": "Moderate",
+  "streetAddress": "2nd Flr Eagle Court Condominium, Matalino St, Quezon City",
+  "postalCode": "1109",
+  "phone": "tel:+632-5426790",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.644596,121.051431&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.644596,121.051431&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

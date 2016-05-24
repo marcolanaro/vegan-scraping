@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "He Xi Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Singaporean\n                                    ",
+  "description": "贺喜餐室 serves local zhi char dishes. On the menu are laksa, roasted duck rice, hor fun, and such.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 4 Upper Aljunied Lane 01-22",
+  "postalCode": "360004",
+  "phone": "tel:62890728",
+  "venueHours": "\n                                                                                                        Mon-Fri 5:30pm-8:00pm, Mon-Sat 6:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/he.xi.restaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.333613,103.879291&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.333613,103.879291&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

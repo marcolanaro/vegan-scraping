@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nico's Kitchen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Raw, Beer/Wine, Take-out, European, Fusion\n                                    ",
+  "description": "Serves a variety of dishes from around the world in tapas style using organic locally sourced ingredients. The restaurant combines soft warm lighting with a kitsch mismatched array of antique furniture. Opened in Feb 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "33 Western Rd, St Leonards",
+  "postalCode": "TN37 6DJ",
+  "phone": "tel:07982675094",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Fri-Sat 6:00pm-10:00pm, Sat 12:00pm-4:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ohmnomvegan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.854123,0.561051&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.854123,0.561051&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

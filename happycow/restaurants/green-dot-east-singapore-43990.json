@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Dot",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Fast food, Take-out\n                                    ",
+  "description": "绿一点  serves a wide variety of Asian fusion meat-free dishes. Vegans ask which items are suitable.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "311 New Upper Changi Rd, Unit B2-27, Bedok",
+  "postalCode": "467360",
+  "phone": "tel:67024139",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/greendotsg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.324664,103.929474&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.324664,103.929474&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

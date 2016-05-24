@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "FlipnFast",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Makes crepes and hot drinks at events and and markets around the North East and is available for private events. Can cater full vegan menu.",
+  "streetAddress": "Newcastle Upon Tyne areas",
+  "phone": "tel:07968096504",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/FlipnFast-1069866516370269/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.978252,-1.617780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.978252,-1.617780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

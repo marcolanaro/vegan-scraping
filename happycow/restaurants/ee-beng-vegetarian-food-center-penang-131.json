@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ee Beng Vegetarian Food Center",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Western, Buffet, Fast food\n                                    ",
+  "description": "Penang vegan restaurant. Special noodle menu for breakfast. Mockmeats made from wheat gluten. This is a self-service buffet,then they examine your plate and tell you the price.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "20 Lebuh Dickens, George Town",
+  "postalCode": "10050",
+  "phone": "tel:604-2629161",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.418926,100.330811&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.418926,100.330811&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,13 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Has fresh fruits and vegetables including organic produce, deli and hot food bars, vitamins, supplements, personal care products, grocery, and much more.",
+  "streetAddress": "32-40 Church Street, Stoke Newington, London, UK",
+  "postalCode": "N16 OL",
+  "phone": "tel:020-7254-2332",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-9:30pm, Sun 8:00am-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.562640,-0.075230&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.562640,-0.075230&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

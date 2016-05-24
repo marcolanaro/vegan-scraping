@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hashem's Son Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Fast food, Middle Eastern\n                                    ",
+  "description": "All vegetarian (maybe vegan) Arabic fast food. It is a small walk-up place with cafeteria seating outside. Very casual. One person there speaks some English, but it's best if you know some Arabic.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Raghadan Street, Behind the Sharif Hussein Bin Ali Mall",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/pages/Hashem-Restuarant/220832848082477",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.531920,35.006084&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.531920,35.006084&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

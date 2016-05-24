@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Genmai Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Macrobiotic, Organic, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fish is labeled. Mostly vegetarian food cafe on the 2nd floor, upstairs from its store, Genki Shop. Offers different types of rice balls, plus waffles, pudding, cake, drinks (has soy). Seats 36. Note that the little Hi-Genki supplements provided with most meals contain calcium derived from shellfish. Easy to find from Hommachi, just go 1 block east of the station and turn south down the shopping street.  Address is 大阪府大阪市中央区南久南宝町３-６-９.",
+  "priceRange": "Moderate",
+  "streetAddress": "Osaka",
+  "phone": "tel:06-47044811",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.679073,135.501337&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.679073,135.501337&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kuan Shih Yin Su Shih",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Taiwanese, Banquet\n                                    ",
+  "description": "Large, clean restaurant serving Taiwanese home-style fare accompanied by Buddhist music sometimes. Many dishes contain mock meat, and MSG is used. Complimentary tea. Menu has English and food photos. Staff speak some English. Address in Chinese is 台北民權東路2段29號.",
+  "priceRange": "Moderate",
+  "streetAddress": "29, Sec 2, Min Chuan East Road",
+  "phone": "tel:02-2596-3488",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-2:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.062800,121.529340&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.062800,121.529340&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

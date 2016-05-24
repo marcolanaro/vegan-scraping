@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Meow Yean Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "As of October 2013, $2 flat price for 3 course meals with rice or 1 course if you opt for the fried noodle. Local soup noodle charged the same. Has many vegan options. Free if someone pays to offer but does have fixed times and for dine-in only. Name in Chinese: 妙緣素食.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "B70 Solok Intan, Taman Intan",
+  "postalCode": "08000",
+  "phone": "tel:017-429%209388",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Meow-yean-vegetarian/560449004005424",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.649024,100.495130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.649024,100.495130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

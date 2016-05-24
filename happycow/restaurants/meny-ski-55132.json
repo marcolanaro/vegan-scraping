@@ -1,0 +1,13 @@
+{
+  "title": "Meny",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A supermarket stocking many vegetarian and vegan foodstuff, including veggie burgers and mock meats, soybeans, a few vegan cheeses, soy yogurt, and an extensive vegetable department. Fomerly Utra.",
+  "streetAddress": "Jernbanesvingen 6",
+  "postalCode": "1400",
+  "phone": "tel:64859900",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-9:00pm, Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.716419,10.836031&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.716419,10.836031&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

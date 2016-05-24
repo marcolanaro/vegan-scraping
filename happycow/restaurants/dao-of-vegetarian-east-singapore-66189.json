@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dao of Vegetarian - Marine Parade",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Singaporean \n                                    ",
+  "description": "素道斋 serves daily specials, as well as a selection of mixed dishes served with rice or beehoon (rice noodles). Very popular, so food tends to run out by lunchtime.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 81 Marine Parade Central Unit 01-654",
+  "postalCode": "440081",
+  "phone": "tel:91833480",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/DaoOfVegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.302879,103.906922&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.302879,103.906922&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

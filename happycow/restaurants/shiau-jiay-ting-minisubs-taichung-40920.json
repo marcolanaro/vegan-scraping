@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shiau Jiay Ting - Minisubs",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Western, Fast food, Take-out\n                                    ",
+  "description": "Chinese name 小潛艇, address 台中市北區博館東街27號. Casual eatery offering Taiwanese interpretation of Italian and western food for breakfast and lunch. Uses egg and dairy. Prices cheap to slightly more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "27, Bo Guan East Street, North District",
+  "phone": "tel:0423261808",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/minisubsMu",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.154980,120.666527&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.154980,120.666527&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

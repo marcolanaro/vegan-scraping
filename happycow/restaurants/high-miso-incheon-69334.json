@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "High Miso",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Fast food, Take-out, Fusion\n                                    ",
+  "description": "Vegetarian brown rice burger restaurant, part of a franchise. Uses organic brown rice, and buns are gluten-free. Burger patties are vegan. Can omit mayo on request.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "185-33 Bupyeong 1-dong",
+  "phone": "tel:032-5129277",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.491022,126.725506&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.491022,126.725506&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

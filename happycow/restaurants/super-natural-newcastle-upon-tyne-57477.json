@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Super Natural",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Buffet, Beer/Wine, Take-out, British, English\n                                    ",
+  "description": "Coffee lounge and restaurant serving a variety of foods including curries, vegetarian breakfast, pizza, smoothies, cupcakes and more. Relaxed and informal.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15-17 Upper Princess Square",
+  "postalCode": "NE1 8ER",
+  "phone": "tel:+44-7707887827",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Super-Natural-Cafe/788599297887313",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.975318,-1.610903&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.975318,-1.610903&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

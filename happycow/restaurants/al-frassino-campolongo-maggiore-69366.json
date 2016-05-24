@@ -1,0 +1,17 @@
+{
+  "title": "Al Frassino",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Only open upon reservation on Friday and Saturday night, and on Sunday for lunch. Can cater to vegans with a full vegan menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Bosco di Sacco, 32",
+  "phone": "tel:3482315128",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Fri-Sat 7:30pm-10:30pm, Sun 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.348490,12.040041&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.348490,12.040041&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

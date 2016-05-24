@@ -1,0 +1,18 @@
+{
+  "title": "Falafel House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Middle Eastern\n                                    ",
+  "description": "A vegetarian fast food restaurant serving many variations of the traditional falafel, including vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "23rd Athinas Avenue",
+  "postalCode": "PC 105 54",
+  "phone": "tel:+30-2103234183",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/FalafelHouseAthens",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.977963,23.726335&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.977963,23.726335&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

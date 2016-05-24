@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Vegan",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Vegan food store, opened here Apr 2016.",
+  "streetAddress": "113 Garden St",
+  "postalCode": "DN320RF",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 12:00pm-7:00pm, Thu-Sat 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/veganvegandot",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.562290,-0.084124&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.562290,-0.084124&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

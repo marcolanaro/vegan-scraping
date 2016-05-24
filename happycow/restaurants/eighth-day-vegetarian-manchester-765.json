@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eighth Day Vegetarian Restaurant Shop and Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        British, English\n                                    ",
+  "description": "Long running vegetarian cafe. Also a large vegetarian health food shop. Shop hours Mon and Fri 9am-5.30pm, Tue and Sat 9.30am-5.30pm, Wed and Thur 9am-7pm. Breakfast is served for first 2 hrs each day.",
+  "priceRange": "Moderate",
+  "streetAddress": "111 Oxford Rd",
+  "postalCode": "M1 7DU",
+  "phone": "tel:0161-2734878",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-7:00pm, Sat 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.471070,-2.237990&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.471070,-2.237990&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

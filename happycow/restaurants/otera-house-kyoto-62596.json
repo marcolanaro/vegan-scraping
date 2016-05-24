@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Otera House - Shojin Cafe Waka",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Take-out\n                                    ",
+  "description": "A small house converted into a restaurant, at 京都市下京区新開町397-9, close to the Bukkoji Temple. Serves a fixed menu with all vegan dishes; only the cake set contains eggs and milk. Open for lunch. For groups of more than three, or if ordering the lunch box, a phone reservation is desired. Menu varies but includes a lunch (four small vegan dishes with rice), take-away lunch box, organic coffee or tea, Hojicha (roaster green tea) and cake set.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shimokyoku, Ynaginobamba, Bukkojisagaru, Shinkaicho 397-9",
+  "phone": "tel:070-56570953",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 11:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/oterahouse",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.000410,135.763691&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.000410,135.763691&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

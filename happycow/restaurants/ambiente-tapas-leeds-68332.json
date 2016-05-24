@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ambiente Tapas",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Beer/Wine, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Spanish tapas restaurant and sherry bar. Offers a marked vegetarian/vegetable menu. Has espresso drinks, organic and vegi wine.",
+  "priceRange": "Moderate",
+  "streetAddress": "The Calls Grill, 36-38 The Calls",
+  "postalCode": "LS2 7EW",
+  "phone": "tel:01132461848",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/AmbienteTapasLeeds",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.794859,-1.538263&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.794859,-1.538263&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

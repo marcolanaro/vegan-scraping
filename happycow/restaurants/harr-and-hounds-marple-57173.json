@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Harr and Hounds",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bar and restaurant. Offers a sweet potato and chickpea curry and will accommodate by making other dishes vegan when requested.",
+  "priceRange": "Moderate",
+  "streetAddress": "Dooley Lane",
+  "postalCode": "SK6 7EH",
+  "phone": "tel:01614270293",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-11:00pm, Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Hare-Hounds/492154950872529",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.398196,-2.096558&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.398196,-2.096558&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

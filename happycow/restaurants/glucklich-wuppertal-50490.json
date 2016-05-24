@@ -1,0 +1,18 @@
+{
+  "title": "Glucklich",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Take-out, Bakery\n                                    ",
+  "description": "A vegetarian/vegan restaurant with a daily changing menu. Offers vegan baked goods (cupcakes, pies, cookies), sweet and savory vegan dishes such as pancakes and the glucksteller. Sat 6-10pm serves tapas.",
+  "priceRange": "Moderate",
+  "streetAddress": "Vohwinkeler Strasse 3",
+  "postalCode": "42329",
+  "phone": "tel:0202-97384131",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-6:00pm, Fri 8:00am-9:00pm, Sat 8:00am-2:00pm, Sun 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.230726,7.069553&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.230726,7.069553&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chutneys - Cinnamon Grand",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located in the Cinnamon Grand Hotel, specializing in Indian food.",
+  "priceRange": "Moderate",
+  "streetAddress": "77 Galle Rd",
+  "postalCode": "03000",
+  "phone": "tel:+94-11243743",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.917956,79.848584&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.917956,79.848584&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

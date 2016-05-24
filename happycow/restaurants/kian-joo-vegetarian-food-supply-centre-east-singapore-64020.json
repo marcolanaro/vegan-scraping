@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kian Joo Vegetarian Food Supply Centre",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "健裕斋料供应商 sells a variety of vegetarian mock meat, canned food and health products.",
+  "streetAddress": "Blk 134 Geylang East Ave 1, 01-221",
+  "postalCode": "380134",
+  "phone": "tel:68416898",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.315909,103.885764&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.315909,103.885764&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

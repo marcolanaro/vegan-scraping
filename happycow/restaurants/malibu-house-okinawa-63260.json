@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Malibu House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese\n                                    ",
+  "description": "As of Apr 2016 reported menu is now all veg. Offers different kinds of health tea. This restaurant has a view on the ocean and old movies poster collection as a part of the interior.",
+  "priceRange": "Inexpensive",
+  "streetAddress": " Yubinbango 904-0416 Kunigami Yamada, Onna-mura Yamada 3086-1",
+  "phone": "tel:098-9655496",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.433572,127.777652&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.433572,127.777652&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

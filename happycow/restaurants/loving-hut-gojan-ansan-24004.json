@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - GoJan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Fast food, Take-out, Asian\n                                    ",
+  "description": "Part of international chain of vegan restaurants opened by followers of Supreme Master Ching Hai, an advocate for vegetarian living. Each location is individual family owned and operated. Serves food, coffee, non-alcoholic beverages, and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "688-3, GoJanDong DanWonGu, Kyunggi-do",
+  "phone": "tel:031-475-5205",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-9:00pm, Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.321878,126.830885&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.321878,126.830885&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

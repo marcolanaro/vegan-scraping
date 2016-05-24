@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Alya Mutfagi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Buffet, Salad bar, Delivery, Take-out, Middle Eastern, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A family run Turkish restaurant with vegan choices. Name in English: Alya Kitchen.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Cocuk Park İci Yolu, Esentepe, Sisli",
+  "postalCode": "34394",
+  "phone": "tel:+90-2122744648",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.065589,29.009559&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.065589,29.009559&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zen Fut Sai Kai Vegetarian Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Cantonese\n                                    ",
+  "description": "Small vegetarian restaurant. 50+ years old. Many ingredients are handmade using fresh bean curd skins and gluten. No mock stuff used in the dishes. Dishes such as chicken balls made with fresh bean curd skins or sweet and sour style with pineapples, capsicums and fresh mushroom stewed with bitter gourd, hor fun, spring rolls, deep fried wanton and sugarcane flowers. Mixed vegetable curry on Sunday. Special Cantonese soup available on 1st and 15th day of lunar month. Look for picture of a laughing Buddha in yellow on the wall outside the restaurant. No GST and no service charge.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "147 Kitchener Road",
+  "phone": "tel:62980336",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.309870,103.857030&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.309870,103.857030&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

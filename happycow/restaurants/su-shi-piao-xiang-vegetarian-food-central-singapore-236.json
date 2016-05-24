@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Su Shi Piao Xiang Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Singaporean\n                                    ",
+  "description": "New ownership and name as of Apr 2010. Local cuisine.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "190 Middle Rd, #01-01, Fortune Centre",
+  "postalCode": "188979",
+  "phone": "tel:63377178",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.302022,103.853400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.302022,103.853400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

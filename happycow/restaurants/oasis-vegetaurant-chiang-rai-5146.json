@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Oasis Vegetaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Buffet\n                                    ",
+  "description": "Large vegetarian restaurant 150 yards behind the bus station. Food is all pre-cooked and laid out behind a glass window for you to point and choose. Offers a selection of vegetarian meats such as red pork, duck, three-flavored fish, drumsticks, fried pig intestines, and others. Makes a few made to order items like \"guay dtee-ow,\" which is especially delicious in the cool season after a long day's trekking.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "612/93 Sirikorn Market Paholyothin Rd",
+  "phone": "tel:053-740791",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.905487,99.835103&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.905487,99.835103&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

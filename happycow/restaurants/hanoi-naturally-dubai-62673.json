@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hanoi Naturally",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Delivery, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vietnamese restaurant in JLT area with branches, as of Sept 2015, also in Abu Dhabi and Ras Al Khaimah. Vegetarian items marked; vegans please specify. Dishes on offer include vegetarian noodle soup, eggplant and tofu claypot, root vegetable coconut claypot, lemongrass chili tofu, tofu with vegetable dishes, smoothies, salads, sides and fresh spring rolls.",
+  "priceRange": "Moderate",
+  "streetAddress": "Goldcrest Executive, Cluster C JLT",
+  "phone": "tel:044313099",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/hanoinaturally",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.068811,55.139049&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.068811,55.139049&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

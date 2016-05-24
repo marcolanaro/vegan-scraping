@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bioobchod Rozmaryna",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large organic store stocking a wide range of products including: cold foods for takeaway like salads, meals, sandwiches, burgers, wheaty sticks; sweets like vegan chocolates and flap jacks; natural cosmetics; fresh organic vegetable. Located near metro station Anděl, bus station Na Kníažecí­, and train station Smíchovské Nádraíží­.",
+  "streetAddress": "Nadrazni 17, Praha 5",
+  "postalCode": "15000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.069892,14.405200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.069892,14.405200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Itadaki Zen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic, Take-out\n                                    ",
+  "description": "Vegan restaurant located minutes from Hoya station on the Seibu Ikebukuro line, at 東京都練馬区南大泉５−３７−７. Offers lunch set with options like sushi, burger, and bibimbap. Dinner sets are reservation only. Branches in London, Oban, Sapporo, and Toyama.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nerima-ku, Minamioizumi 5-37-7",
+  "postalCode": "178-0064",
+  "phone": "tel:0339255692",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-3:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/Itadakizentokyo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.749285,139.569328&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.749285,139.569328&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

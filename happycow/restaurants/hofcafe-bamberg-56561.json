@@ -1,0 +1,17 @@
+{
+  "title": "Hofcafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a permanent menu of vegan dishes you can get after 5pm, plus a vegan breakfast is available. All vegan and vegetarian dishes (plus gluten-free ones) are marked. Coffee with soymilk is available. Located in the center of Bamberg in the pedestrian zone, next to the University.",
+  "priceRange": "Moderate",
+  "streetAddress": "Austrasse 14",
+  "postalCode": "96047",
+  "phone": "tel:+49-95125447",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-1:00am, Sat 9:00am-2:00am, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.893328,10.887662&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.893328,10.887662&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

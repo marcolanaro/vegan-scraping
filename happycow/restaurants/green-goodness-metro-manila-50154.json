@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Goodness",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Deliver fresh organic vegetables to supermarkets and homes.",
+  "streetAddress": "13 Brooklyn St., Cubao",
+  "postalCode": "1109",
+  "phone": "tel:7051956",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/greengoodnessasia",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.621448,121.043951&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.621448,121.043951&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

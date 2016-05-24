@@ -1,0 +1,18 @@
+{
+  "title": "Hullabaloo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Catering, Scottish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This well-established riverside restaurant offers a separate printed vegan menu with around 15 dishes. Lunch served 12-3pm, dinner from 5:30pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "Robert Burns Centre, Mill Rd, Dumfries",
+  "postalCode": "DG2 7BE",
+  "phone": "tel:01387-259679",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-4:00pm, Tue-Sat 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.067595,-3.617087&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.067595,-3.617087&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

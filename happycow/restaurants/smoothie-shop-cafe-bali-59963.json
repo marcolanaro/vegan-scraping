@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Smoothie Shop Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Raw, Western, Juice bar, Take-out\n                                    ",
+  "description": "Western-style cafe at Mandala Village complex. Serves smoothies, coffee, cold pressed juices from a slow juicer, and all day meals. Uses natural and organic ingredients. Has Wi-Fi.",
+  "priceRange": "Expensive",
+  "streetAddress": "Jalan Pantai Balangan, Jimbaran",
+  "phone": "tel:+623614725462",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Smoothie-Shop-Mandala-Village",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.809657,115.143696&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.809657,115.143696&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

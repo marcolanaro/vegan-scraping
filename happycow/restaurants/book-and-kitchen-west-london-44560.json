@@ -1,0 +1,19 @@
+{
+  "title": "Book and Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Western\n                                    ",
+  "description": "A bookshop with a small cafe and events space hosting literary evenings, supper clubs, music nights and more. The food includes raw vegetarian and vegan salads. All food is vegan and vegetarian with the exception fish for lunch on a Saturday. Organic teas and coffees on offers. Cakes are not vegan, as they have organic honey.",
+  "priceRange": "Moderate",
+  "streetAddress": "31 All Saints Rd",
+  "postalCode": "W11 1HE",
+  "phone": "tel:0203-417-8266",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 10:00am-6:00pm, Sun 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BookandKitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.518469,-0.204258&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.518469,-0.204258&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

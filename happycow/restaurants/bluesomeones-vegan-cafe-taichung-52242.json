@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bluesomeone's Vegan Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Bakery, Fusion\n                                    ",
+  "description": "A coffeehouse and restaurant that offers handmade desserts, Taiwan tea, vegan food, and coffee drinks. Located at 台中市民權路53巷3之1號. Originally opened Dec 2013 as Le Noir and changed Mar 2015 to Bluesomeone's Vegan Cafe, now run by HappyCow's very own Taiwan Ambassador.",
+  "priceRange": "Moderate",
+  "streetAddress": "3-1, Alley 53, Minchuan Rd, Central District",
+  "phone": "tel:04-22298896",
+  "venueHours": "\n                                                                                                        Mon-Tue 2:00pm-9:00pm, Thu 2:00pm-9:00pm, Fri-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/bluesomeonevegancafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.136409,120.680954&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.136409,120.680954&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

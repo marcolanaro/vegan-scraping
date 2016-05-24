@@ -1,0 +1,17 @@
+{
+  "title": "Ichiban Sushi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegetarian sushi combo and also veggie sushi individually. Miso contains fish, ask for 'miso ohne Fisch' (miso without fish).",
+  "priceRange": "Moderate",
+  "streetAddress": "Stockenstrasse 14",
+  "phone": "tel:02284109789",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.734470,7.103800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.734470,7.103800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

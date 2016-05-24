@@ -1,0 +1,15 @@
+{
+  "title": "Sagar - West End",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Beer/Wine\n                                    ",
+  "description": "London vegetarian restaurant specializing in South Indian cuisine. Vegan menu available upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "17A Percy Street",
+  "postalCode": "W1T 1DU",
+  "phone": "tel:020-7631-3319",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-3:00pm, 5:30pm-10:30pm, Sat 12:00pm-11:30pm, Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.518620,-0.132790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.518620,-0.132790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

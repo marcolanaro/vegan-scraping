@@ -1,0 +1,18 @@
+{
+  "title": "de Peper",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Organic, Western, Beer/Wine, Dutch\n                                    ",
+  "description": "Not a restaurant but a non-subsidized project that's managed by a group of volunteers. Offers one set meal with soup and main meal for 7-10 euros sliding scale, dessert 1.50 euro. In a former squat with changing art exhibited on the walls. Self service. Food service is 7-8.30pm. Reservation taken same day only via phone 1-4pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Overtoom 301",
+  "postalCode": "1054HW",
+  "phone": "tel:+31204122954",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 6:00pm-1:00am, Thu-Fri 6:00pm-1:00am, Sun 6:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.360190,4.865410&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.360190,4.865410&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

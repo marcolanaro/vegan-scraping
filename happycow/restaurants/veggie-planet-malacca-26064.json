@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veggie Planet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Organic, Take-out, Malaysian\n                                    ",
+  "description": "Serves healthy vegetarian cuisine using natural ingredients and no microwave. Contemporary setting and air conditioned.",
+  "priceRange": "Moderate",
+  "streetAddress": "41, Jalan Melaka Raya 8, Taman Melaka Raya",
+  "postalCode": "75000",
+  "phone": "tel:06-2922819",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/veggieplanet",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.183022,102.261047&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.183022,102.261047&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

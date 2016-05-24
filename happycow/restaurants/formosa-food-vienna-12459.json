@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Formosa Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, International, Asian\n                                    ",
+  "description": "A little vegetarian restaurant and shop offering mostly vegan Asian food with some other varieties like curry, schnitzel made with soy, veggie burgers and fries. Has vegan desserts. Previously vegan-friendly, now nearly 100% vegan (two items vegetarian) as confirmed by the owner as of May 2011. The shop area sells frozen vegetarian and vegan meat substitutes and even vegan dog food. Located in a quiet side street of the main shopping street Mariahilfstr.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Barnabitengasse 6",
+  "postalCode": "1060",
+  "phone": "tel:0699-19204294",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.198350,16.354080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.198350,16.354080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "SaiShokuKenBi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese\n                                    ",
+  "description": "Vegetarian shop and cafe. Serves lunch til 2:30pm, after that it offers drink and sweets only. Shop sells vegetarian food products like faux meats plus cookbooks. Directions: Exit Okubo station, make a right, go about 3 blocks until you see a Dotour coffee shop on your right, look to your left, directly across the street from Dotour you'll see a small side street, cross the street and go down that street, you will come to a small green sign with the name of the restaurant above the vending machines that line the side street, go 2 blocks and you'll see a sign for the restaurant on your left, there is a buddha statue in the courtyard. Address 東京都新宿区百人町2-21-26.",
+  "priceRange": "Moderate",
+  "streetAddress": "2-21-26 Hyakunin-cho, Shinjyuku-ku",
+  "phone": "tel:03-53323627",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-5:00pm, Wed-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.702400,139.697250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.702400,139.697250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

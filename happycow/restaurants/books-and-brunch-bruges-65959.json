@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Books & Brunch",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tea room offering different kinds of breakfasts, light lunches (salads, sandwiches and seasonal specials) in a used-book store. Organic and vegetarian options are always available and can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Garenmarkt 30",
+  "postalCode": "8000",
+  "phone": "tel:050-709079",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Booksenbrunch",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.204388,3.229533&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.204388,3.229533&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,20 @@
+{
+  "title": "Eva's Coffee",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual coffee cafe offering American style food and pastries. A few vegan choices. Has Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Corsetto Sant'Agata 2",
+  "postalCode": "25122",
+  "phone": "tel:+39-0305036258",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/evascoffeebrescia",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.540340,10.218956&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.540340,10.218956&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

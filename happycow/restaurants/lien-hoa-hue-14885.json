@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lien Hoa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Vietnamese\n                                    ",
+  "description": "Vegetarian a la carte with Vietnamese/English menus.",
+  "priceRange": "Moderate",
+  "streetAddress": "3 Le Quy Don",
+  "phone": "tel:816884",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.465256,107.597276&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.465256,107.597276&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

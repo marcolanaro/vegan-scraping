@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Maran Vegan Bistro",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Take-out, Bakery\n                                    ",
+  "description": "Takeaway counter inside a fully vegan supermarket. The dishes are mostly organic.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Stumpergasse 57",
+  "postalCode": "1060",
+  "phone": "tel:+43-15954900",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.195311,16.342743&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.195311,16.342743&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

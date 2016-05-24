@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Spud and Lettuce",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Fast food, Juice bar, Take-out, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Healthy fast food concept with lots of veggie choices: rolls and wraps, meat free breakfast, jacket potatoes, salads, soups, hot drinks and smoothies. Free Wi-Fi. Vegans could get baked beans and sweet potato, chickpea and spinach baked potato fillings, breakfast food. Est. 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Silverfox Way, Cobalt Business Park",
+  "postalCode": "NE27 0QJ",
+  "phone": "tel:+44-1912574770",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/spudandlettuce",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.020158,-1.507913&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.020158,-1.507913&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

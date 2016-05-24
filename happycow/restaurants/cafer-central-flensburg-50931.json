@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Central",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, European, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Big restaurant in the center of town at the main street/pedestrian zone. Offers many vegetarian dishes marked with \"VG,\" and in 2014 added a a separate full page for vegan items which includes soup and warm entrees. Food is made onsite.",
+  "priceRange": "Moderate",
+  "streetAddress": "Große Straße 83",
+  "postalCode": "24937",
+  "phone": "tel:+49-4611509100",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-10:00pm, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.789286,9.431584&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.789286,9.431584&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

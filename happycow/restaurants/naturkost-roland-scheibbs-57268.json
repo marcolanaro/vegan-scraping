@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Naturkost Roland",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "All organic products and some fair trade products. Plenty of labeled vegan products like tofu, seitan, sausages, burger, chocolate, noodles. Also has tea and coffee and cosmetic products.",
+  "streetAddress": "Hauptstraße 19",
+  "phone": "tel:+43-748245400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-12:00pm, 3:00pm-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/naturkostroland",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.006551,15.166803&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.006551,15.166803&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

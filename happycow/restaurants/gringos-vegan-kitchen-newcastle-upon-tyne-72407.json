@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gringos Vegan Kitchen",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Newcastle-based operation offering home delivery, meal planning, private catering, and pop-up events all over North East. Check its facebook for latest updates.",
+  "streetAddress": "33a Heaton Rd, Heaton",
+  "postalCode": "Ne6 1sb",
+  "phone": "tel:07779518683",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/gringoscatering1",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.979053,-1.580290&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.979053,-1.580290&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

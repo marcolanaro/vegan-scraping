@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Radiance Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Raw, Thai, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of The Spa Chiangmai Resort, this natural food restaurant and juice bar is nestled into a mature mango orchard next to a swimming pools and cascading waterfall. Serves raw, vegetarian, vegan, Thai, and international cuisine using produce from both the local village as well as the resort's organic farm.",
+  "priceRange": "Expensive",
+  "streetAddress": "165 Moo 4, Huai Sai A. Maerim",
+  "postalCode": "50180",
+  "phone": "tel:053-920888",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheSpaChiangMai",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.947308,98.918517&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.947308,98.918517&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

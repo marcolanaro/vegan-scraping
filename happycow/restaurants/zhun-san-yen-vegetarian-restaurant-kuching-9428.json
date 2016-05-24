@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zhun San Yen Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Buffet, Malaysian\n                                    ",
+  "description": "Lunch buffet, other times a la carte. Some meals contain eggs.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lot 165, Jalan Chan Chin Ann, Sarawak",
+  "postalCode": "93100",
+  "phone": "tel:082-230068",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-4:30pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.557736,110.354614&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.557736,110.354614&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

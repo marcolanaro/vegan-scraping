@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bali Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Balinese\n                                    ",
+  "description": "Mainly offering drinks, kombucha and fermented food. Has a free internet work station, free Wi-Fi, and a book swap. Also device charging station, Into recycled products, and health information. DIY water bottle top up and world music.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jalan Bisma 45, Ubud",
+  "postalCode": "80571",
+  "phone": "tel:+62-3618493699",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.508445,115.268105&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.508445,115.268105&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kafe Vegetarian City Garden ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "Serves rice, noodles, bread and vegetable dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "44 Jalan Metro Perdana Barat 3, Taman Usahawan",
+  "postalCode": "52100",
+  "phone": "tel:03-62416181/,%20016-2392931",
+  "venueHours": "\n                                                                                                        Mon-Wed 7:30am-10:30pm, Fri-Sun 7:30am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/citygardenveggiecafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.215792,101.639563&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.215792,101.639563&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

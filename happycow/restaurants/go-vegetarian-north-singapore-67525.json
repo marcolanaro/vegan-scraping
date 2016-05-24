@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Go Vegetarian - Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "Stall in Foodfare food court serving economic rice, noodle, and vegetable dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11 Canberra Rd Unit 01-05",
+  "postalCode": "759775",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.449097,103.819831&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.449097,103.819831&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

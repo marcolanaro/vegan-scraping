@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "bio&bio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "bio&bio is an organic market with locations throughout Croatia as well an online shop. Offers a wide selection of certified organic products: vegetarian and vegan food, nutritional supplements, natural cosmetics, books, and more.",
+  "streetAddress": "Vukovarska 36",
+  "phone": "tel:020311614",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/biobio.hr",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.650665,18.094423&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.650665,18.094423&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

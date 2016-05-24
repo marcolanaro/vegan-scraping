@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hoa-Xuan Food Stall at Bin Thanh Market",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Vietnamese\n                                    ",
+  "description": "Vegetarian food booth within the Bin Thanh market (S1032). Serves soup and rice with vegetables and mock meat. Note: Please send correct / exact map coordinates to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Le Loi, Booth S1032",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.812606,106.701400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.812606,106.701400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

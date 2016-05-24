@@ -1,0 +1,19 @@
+{
+  "title": "The Hogacre Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, British, English\n                                    ",
+  "description": "Changed name from Hog Roast, this is a vegetarian restaurant located on Hogacre Common, a 14 acre eco park a 5-minute walk from the center of the city, and is next door to Oxgrow, Oxford's edible community garden. Sources local produce and those grown on-site. One day per week it offers soup, lunch food, cake, juices, coffee and tea.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hogacre Common",
+  "postalCode": "OX1 4NA",
+  "phone": "tel:07702810877",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/TheHogRoast",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.742743,-1.265136&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.742743,-1.265136&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

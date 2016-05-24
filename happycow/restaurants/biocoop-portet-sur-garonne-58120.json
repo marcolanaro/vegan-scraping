@@ -1,0 +1,13 @@
+{
+  "title": "Biocoop Portet",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "8 allee Pablo Picasso",
+  "postalCode": "31120",
+  "phone": "tel:0561161306",
+  "venueHours": "\n                                                                                                        Mon 10:30am-7:30pm, Tue-Sat 9:30am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.537611,1.409643&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.537611,1.409643&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

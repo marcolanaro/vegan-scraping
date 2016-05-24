@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sheun Si Jai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Catering, Taiwanese\n                                    ",
+  "description": "Traditional Taiwanese style fine dining set up with tablecloth on tables. Spacious. Inexpensive to moderate prices. Photo menu. Most dishes are designed to be ordered for family size portions, and some individual dishes are also available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "280, Jiuqwan Road",
+  "phone": "tel:04-8350118",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.960803,120.566883&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.960803,120.566883&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

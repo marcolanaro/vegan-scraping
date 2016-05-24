@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Time Out",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, International, Italian, Take-out, Kosher\n                                    ",
+  "description": "Pizza, lasagna, cheese products. Restaurant has a garden. Closed Friday evening thru Saturday evening and Jewish holidays.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lange Herentalse 58, Antwerp",
+  "phone": "tel:03-2812300",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.214500,4.417590&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.214500,4.417590&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

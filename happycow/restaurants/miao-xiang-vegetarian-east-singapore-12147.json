@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Miao Xiang Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "Vegetarian food stall in food centre. Offers mee robus, mix vegetable rice, and others.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 58 #01-234, New Upper Changi Road, Bedok South",
+  "postalCode": "461058",
+  "phone": "tel:96434970",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.323985,103.941268&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.323985,103.941268&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

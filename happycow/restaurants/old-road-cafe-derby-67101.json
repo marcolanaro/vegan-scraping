@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Old Road Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Take-out, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe offering marked veggie/vegan items and keeps soya milk on hand for drinks. Owners know what vegan diet is.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11 Uttoxeter Old Rd",
+  "postalCode": "DE1 1GA",
+  "phone": "tel:01332%20585117",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-4:00pm, Sat 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Old-Road-Cafe-Derby-697940680295502",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.924933,-1.491023&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.924933,-1.491023&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

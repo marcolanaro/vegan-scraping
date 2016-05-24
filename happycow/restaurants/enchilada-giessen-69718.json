@@ -1,0 +1,18 @@
+{
+  "title": "Enchilada",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise Mexican restaurant with cocktail bar. Has small vegan section on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ludwigstrasse 30",
+  "postalCode": "35390",
+  "phone": "tel:64198386392",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 6:00pm-1:00am, Fri-Sat 6:00pm-2:00am, Sun 6:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/restaurant.enchilada.giessen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.580860,8.676590&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.580860,8.676590&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

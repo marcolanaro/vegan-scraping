@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tay Wa Ta Riw Bin",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Fast food\n                                    ",
+  "description": "Thai vegetarian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Suwannasorn, Mueng Kaeo market",
+  "postalCode": "27000",
+  "phone": "tel:0860549038",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.848201,102.026135&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.848201,102.026135&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

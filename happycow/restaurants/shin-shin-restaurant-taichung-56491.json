@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shin Shin Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Take-out\n                                    ",
+  "description": "A local vegetarian restaurant serving buffet style food, pay by weight.\r\nOwner speaks some basic English, informed us that no egg or milk was used (so possibly vegan). Has indoor seating; uses disposable plates. Has green signs outside with the word vegetarian on them.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Section 4, Fuxing Road",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-2:00pm, 4:30pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.135095,120.684150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.135095,120.684150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Mendi Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Beer/Wine, Take-out\n                                    ",
+  "description": "Family-owned vegetarian restaurant serving Indian cuisine. Vegan dishes can be modified by cooking with vegetable oil instead of ghee. India inspired decor with soft traditional Indian music in background. All food made fresh to order in-house. Located between Wychbold Post Office and McDonald's.",
+  "priceRange": "Moderate",
+  "streetAddress": "Worcester Rd",
+  "postalCode": "WR9 7PA",
+  "phone": "tel:01527-861912",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.291770,-2.115547&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.291770,-2.115547&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

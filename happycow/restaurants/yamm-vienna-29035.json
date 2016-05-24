@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yamm",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine\n                                    ",
+  "description": "Yamm is a stylish and expansive (750 square meters) self service vegetarian restaurant. Offers a broad list of vegan dishes and an extensive wine list.",
+  "priceRange": "Moderate",
+  "streetAddress": "Universitätsring 10",
+  "postalCode": "1010 Wien",
+  "phone": "tel:43-1-532-05-44",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:00am-11:00pm, Thu 8:00am-1:00am, Fri-Sat 9:00am-1:00am, Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/yammrestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.212973,16.361782&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.212973,16.361782&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

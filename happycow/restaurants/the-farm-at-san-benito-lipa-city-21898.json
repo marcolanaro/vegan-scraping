@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Farm at San Benito",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Located on 119 acres in the foothills of Mount Malarayat, 1025 feet above sea level, and a 90 minute drive south of Manila, The Farm offers a complete immersion into healthy and mindful living - see website.",
+  "streetAddress": "119 Brgy Tipakan, Batangas",
+  "postalCode": "4227",
+  "phone": "tel:+632-8848074",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TheFarmSanBenito",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.928780,121.205610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.928780,121.205610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

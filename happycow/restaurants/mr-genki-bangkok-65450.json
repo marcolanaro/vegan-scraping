@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mr Genki - Khlong Toei",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese\n                                    ",
+  "description": "Its 2nd branch, situated behind Sakura Sky Residence Hotel, near BTS Prom Pong station. Similar menu as the first branch. Refined Japanese vegetarian cuisine.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sukhumvit 33, Khlong Toei District",
+  "phone": "tel:086-6626500",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.734593,100.567594&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.734593,100.567594&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Little Tokyo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Japanese, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Japanese restaurant also caters to vegetarian diets, labels vegan suitable items. Menu includes vege chicken wings, mock duck with mango, tofu steaks, vegetarian chicken chunks teriyaki style, bean curd rolls, and noodle dishes. Has bento boxes. No animal oils used in cooking. A range of healthy and organic juices and drinks. Very atmospheric setting with fairy lights, sunken seating, a pond, and two floors of seating.",
+  "priceRange": "Expensive",
+  "streetAddress": "24 Central Rd",
+  "postalCode": "LS1 6DE",
+  "phone": "tel:01132439090",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-10:00pm, Fri-Sat 11:30am-11:00pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.796722,-1.541216&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.796722,-1.541216&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mama Rina",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Italian, Organic, Western, Salad bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Works with local organic  farmers. Opened in December 2013. Has vegetarian items on menu, of which some can be made vegan or you can special request other items be made vegan. Deep fried vegetable dishes are fried with the same oil as meat based dishes, unless a reservation is made ahead of time. Coffee based drinks can be made with almond milk, and there is an extensive alcohol and drink menu, with many non-alchoholic options. The large restaurant can accomodate up to 80 people, and reservations are welcome. Staff is partly Japanese, partly foreign and menus are in English. All staff speak English. The restaurant is non-smoking except a small smoking room. Free high speed Wi-Fi. Address is 大阪府大阪市淀川区加島2-2-62.",
+  "priceRange": "Moderate",
+  "streetAddress": "Yodogawa-ku, Kashima, 2-2-62",
+  "postalCode": "532-0031",
+  "phone": "tel:0668297211",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/MamaRinaOsaka",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.732410,135.459696&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.732410,135.459696&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Doa Sen Vang",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "Vegetarian restaurant, located on a street north-east from the Citadel. Moved from Han Thuyen.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "21 Nguyen Binh Khiem",
+  "phone": "tel:01224415620",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.482561,107.588071&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.482561,107.588071&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

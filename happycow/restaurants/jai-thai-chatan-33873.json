@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jai Thai",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Thai, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has two full menu pages marked vegetarian with some vegan options and ones that can be made vegan, including curries, soups, fried rice and noodle dishes. Try the vegan pad thai and curried veg spring roll.",
+  "priceRange": "Moderate",
+  "streetAddress": "15-69 Mihama, Chantan",
+  "phone": "tel:xn--098-936--ma%7C0828",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-3:00pm, 5:00pm-11:00pm, Sat-Sun 11:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.316822,127.757629&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.316822,127.757629&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

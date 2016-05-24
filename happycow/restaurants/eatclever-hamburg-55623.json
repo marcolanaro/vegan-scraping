@@ -1,0 +1,14 @@
+{
+  "title": "Eatclever",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Healthy meals delivery service for Hamburg and Hannover. Not all veg but with many vegetarian and vegan dishes. Order online.",
+  "streetAddress": "Caspar-Voght-Straße 92",
+  "phone": "tel:+49-1749280892",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/eatclever",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.564196,10.058413&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.564196,10.058413&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

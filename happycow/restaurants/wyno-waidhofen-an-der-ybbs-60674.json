@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wyno",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Beer/Wine, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant and wine bar in old town. Offers vegan and vegetarian dishes, accompanied by fine wines and reflect the diversity in a modern way of the Mostviertel.",
+  "priceRange": "Moderate",
+  "streetAddress": "Oberer Stadtplatz 23",
+  "postalCode": "3340",
+  "phone": "tel:+43-74425414611",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-12:00am, Sat 4:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required"
+  ],
+  "fb": "http://www.facebook.com/wynowaidhofen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.960624,14.774918&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.960624,14.774918&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

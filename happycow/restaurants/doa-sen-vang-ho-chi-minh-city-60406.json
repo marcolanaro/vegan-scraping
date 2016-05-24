@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Doa Sen Vang - Cao Thang",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "Opened Jun 2015 a modern, upscale restaurant with air conditioning with parking spaces. Offers extensive selection of vegan ice cream. English spoken and dubbed in the menu. Has Wi-Fi.",
+  "priceRange": "Expensive",
+  "streetAddress": "175B Cao Thang, P12, District 10",
+  "phone": "tel:08-66581777",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.774666,106.676096&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.774666,106.676096&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

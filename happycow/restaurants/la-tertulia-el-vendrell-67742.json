@@ -1,0 +1,19 @@
+{
+  "title": "La Tertulia",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Mexican, Tapas\n                                    ",
+  "description": "Vegetarian/vegan tapas bar serving home cooking, hamburgers, focaccia, fajitas, salads, etc. Many food choices, vegetable spicy sausage, vegetable pates, baked potatoes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Carrer Transversal 12",
+  "postalCode": "43700",
+  "phone": "tel:+34671949969",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-6:00pm, Fri-Sat 11:00am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/La-Tertulia-Menjant-amb-alternatives-532159980212343",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.217181,1.529472&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.217181,1.529472&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

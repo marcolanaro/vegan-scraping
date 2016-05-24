@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Hub at Healthy Spirit",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, British, English\n                                    ",
+  "description": "Little vegetarian cafe inside Healthy Spirit holistic health centre in Didsbury. Serves breakfast and lunch as well as cakes, tea, and coffee. Mostly vegan except the French toast, some gluten free.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "37 Barlow Moor Road, Didsbury",
+  "postalCode": "M20 6TW",
+  "phone": "tel:01614346784",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/HealthySpirit",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.418079,-2.233456&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.418079,-2.233456&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,16 @@
+{
+  "title": "Romeo Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizza and Italian eatery overlooking the bay. Has a vegan cheese pizza.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Argonafton 42",
+  "phone": "tel:2421200878",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.359206,22.946321&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.359206,22.946321&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

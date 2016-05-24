@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Itadakizen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Organic, Take-out\n                                    ",
+  "description": "Vegan restaurant opened since Dec 2012. Serve healthy traditional Japanese food with focus on organic and macrobiotic lifestyle. Has restaurants in London and Tokyo. The Sapporo restaurant is located in Maruyama with other vegan restaurants close by.",
+  "priceRange": "Moderate",
+  "streetAddress": "Chuo-ku, Minami 2-Jonishi, 23 Chome 1-23, Sutashio 23",
+  "postalCode": "064-0802",
+  "phone": "tel:011-6768436",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:30am-3:00pm, 5:00pm-9:00pm, Sat 11:30am-9:00pm, Sun 11:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/itadakizensapporo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.054699,141.323346&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.054699,141.323346&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

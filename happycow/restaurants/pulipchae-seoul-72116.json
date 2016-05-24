@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pulipchae",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Buffet, Salad bar, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Premium Korean buffet restaurant. Includes a vegan bibimbap station and many vegetable side dishes. Desserts are fruit, cookies, ice cream, and patbingsu (shaved ice, sweet red beans, sweet soya bean powder). DIY rice ball station (vegan if omit kimchi and anchovy - all ingredients are served separately). Additional dishes to order are that are vegan: seasoned thistle with rice (gondrebap) and soft bean curd.",
+  "priceRange": "Moderate",
+  "streetAddress": "Yanghwa-ro 148, Gyojung Building, B1, Mapo-gu",
+  "phone": "tel:02-3228172",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pulipchae",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.555683,126.922689&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.555683,126.922689&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

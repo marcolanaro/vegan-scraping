@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Manolya Hotel and Apartments",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Hotel in Marmaris offering detox programs with raw and vegetarian food.",
+  "streetAddress": "Sirinyer Mahallesi 138 Sok. no. 9",
+  "postalCode": "48400",
+  "phone": "tel:+90-2524174022",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.856589,28.255618&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.856589,28.255618&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

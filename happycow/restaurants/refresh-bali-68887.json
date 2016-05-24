@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Refresh",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers many vegetarian dishes of which some can be made vegan. Labels what's gluten-free and wheat-free. Lots of juices. Alternative sweeteners offered. Has Wi-fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jalan Raya Candidasa",
+  "postalCode": "80851",
+  "phone": "tel:36341400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.505638,115.560448&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.505638,115.560448&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

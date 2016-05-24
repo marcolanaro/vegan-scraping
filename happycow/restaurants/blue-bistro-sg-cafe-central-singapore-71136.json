@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Blue Bistro SG Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Take-out, Asian, Fusion\n                                    ",
+  "description": "Opened Mar 2016 this cafe serves a fusion of Eastern and Western flavors. On the menu are a variety of rice and noodles-based set meals plus baked and stuffed sandwiches. No garlic, onion, or egg used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "175 Bencoolen St #01-49",
+  "postalCode": "189649",
+  "phone": "tel:62388676",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/bluebistrosg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.302653,103.852468&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.302653,103.852468&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

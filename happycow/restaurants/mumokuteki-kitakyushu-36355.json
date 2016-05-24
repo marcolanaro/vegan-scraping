@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mumokuteki",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Billed as a vegetarian restaurant but uses dashi (fish stock) in the soup. If you ask for the soup with no dashi the staff will give you a vegan version. Most of the remaining menu including dessert is fully vegan. Makes vegan versions of all the local favorite foods and some from other nearby countries, has soy frozen yogurt and soy tiramisu. Nice interior. Japanese address: 福岡県北九州市小倉北区中井5丁目19-11",
+  "priceRange": "Moderate",
+  "streetAddress": "Kitakyushu",
+  "phone": "tel:093-582-8924",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.883409,130.875216&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.883409,130.875216&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

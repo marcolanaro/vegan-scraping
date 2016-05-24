@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Simple Life - The Gardens Mall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Organic, Juice bar, Malaysian\n                                    ",
+  "description": "Natural food restaurant group with multiple locations. Offers healthier vegetarian food made with natural ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "LG-232A Lower Ground Floor, The Gardens Mall, Mid-Valley City",
+  "postalCode": "59200",
+  "phone": "tel:+603-22021328",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/simpleliferestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.119591,101.676464&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.119591,101.676464&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

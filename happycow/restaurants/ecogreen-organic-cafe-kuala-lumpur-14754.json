@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ecogreen Organic Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Asian, Catering, Malaysian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant and shop. Organic and natural food. ",
+  "priceRange": "Moderate",
+  "streetAddress": "125 J Aminuddin Baki, Taman Tun Dr Ismail",
+  "postalCode": "60000",
+  "phone": "tel:0192626168",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.153027,101.620887&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.153027,101.620887&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Medifoods Trading",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store and organic restaurant.",
+  "streetAddress": "59, Jalan SS 18/6",
+  "postalCode": "47500",
+  "phone": "tel:03-5636-5338",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.063662,101.585806&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.063662,101.585806&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

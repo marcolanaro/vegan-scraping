@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Heaven",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "Dessert and coffee cafe in central Jiaoxi (shop front is on Zhongxoai Rd), opened Oct 2014. Offers vegan baked goods including cookies, cakes, and other handmade treats.",
+  "streetAddress": "85 Wenquan Rd",
+  "phone": "tel:03-93008822",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-8:00pm, Fri-Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VeganHeaven",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.829930,121.772073&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.829930,121.772073&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

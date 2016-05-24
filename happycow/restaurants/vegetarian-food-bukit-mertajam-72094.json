@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Food",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "A vegetarian store located in TESCO shopping center. Carries some vegan products. Chinese name: 斋 - 素食材料.",
+  "streetAddress": "2323, Jalan Rozhan, Pusat Perniagaan Seri Impian",
+  "postalCode": "14000",
+  "phone": "tel:0165991235",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.315776,100.478302&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.315776,100.478302&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

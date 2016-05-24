@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Taj - Alabang",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Vegetarian Indian grocery store. Carries veggie burgers, veggie ham, wheat gluten, plus typical Indian spices, grains, chickpeas, lentils, breads, etc. Most items are vegan suitable, a few with dairy. Read the labels.",
+  "streetAddress": "Unit 108 &109, One Legacy Place, Don Jesus Blvd, Muntinlupa City",
+  "phone": "tel:632-809-3417",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 9:00am-8:00pm, Fri-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.408133,121.041467&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.408133,121.041467&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

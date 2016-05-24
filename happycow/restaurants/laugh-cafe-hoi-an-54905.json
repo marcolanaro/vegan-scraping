@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Laugh Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Community-oriented restaurant operated by a charitable foundation that helps train young Vietnamese people. Menu includes a substantial amount of vegetarian local items (cau lao, white rose, etc) plus has cheap local draft beer. Closes for Tet holiday until Feb 27.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "126 Tran Cao Van",
+  "phone": "tel:+84-905192532",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Laugh-Cafe-Restaurant-Hoi-An/128595739984",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.880058,108.338047&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.880058,108.338047&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

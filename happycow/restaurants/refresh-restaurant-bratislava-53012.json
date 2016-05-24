@@ -1,0 +1,19 @@
+{
+  "title": "Refresh Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This underground space is located in the historical center of the city and is a restaurant and an alternative music club with a unique atmosphere. Has a regular vegan menu including a robi burger in an in-house-made bun, fresh guacamole, hummus with falafel or spicy chili sin carne, in addition to offering a vegan soup and meal of the week.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Venturska 5",
+  "postalCode": "81101",
+  "phone": "tel:00421-901714339",
+  "venueHours": "\n                                                                                                        Mon-Tue 8:00am-12:00am, Wed 8:00am-2:00am, Thu-Fri 8:00am-4:00am, Sat 8:30am-4:00am, Sun 10:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/refresh.restaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.142704,17.106405&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.142704,17.106405&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

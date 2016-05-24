@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ananda Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        International, Take-out\n                                    ",
+  "description": "Vegetarian meals and pastries, smoothies and fresh juices, books, magazines, vegetarian products. Vegetarian cooking classes. West from school num-5, Baga toiruu, 5-surguuliin baruun tald 18 dugaar bair.",
+  "priceRange": "Moderate",
+  "streetAddress": "Baga Toiruu, building-18",
+  "phone": "tel:316986/,%20325967",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.914525,106.857342&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.914525,106.857342&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

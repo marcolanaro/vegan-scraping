@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Everyday Vegetarian Eating House - maybe closed ",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Fast food\n                                    ",
+  "description": "Vegan Chinese restaurant with a vast array of selections. Family operated. Try the special kueh chap noodle. NOTE: maybe closed/shut down, please verify and let HappyCow know.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Bandar Baru, Lorong 11/1",
+  "postalCode": "08000",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                        Mon 7:00am-10:00pm, Wed-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.653526,100.507135&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.653526,100.507135&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

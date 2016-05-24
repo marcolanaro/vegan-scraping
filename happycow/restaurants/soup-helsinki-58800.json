@@ -1,0 +1,19 @@
+{
+  "title": "SOUP",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Buffet, Fast food, Delivery, Take-out\n                                    ",
+  "description": "Soup and coffee shop, est. 2015. Offers generally 5 soups each day that change from day to day. All are vegetarian.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Runenberginkatu 54",
+  "postalCode": "00260",
+  "phone": "tel:0407756790",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-5:00pm, Sat 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/souphelsinki",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=60.180785,24.924604&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C60.180785,24.924604&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

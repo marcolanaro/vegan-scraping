@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "My Earth Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small shop selling natural food, health, and lifestyle products. Stocks a variety of organic items, many of which are local/regional. Located on the highway, directly opposite the entrance to Gyuto Monastery (Karmapa temple).",
+  "streetAddress": "PO Sidhbari, Yol Cantonment Rd",
+  "postalCode": "176057",
+  "phone": "tel:9876665150",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/myearthstore",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.184653,76.367812&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.184653,76.367812&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut Express - Food Truck",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Western, Fast food, Take-out only\n                                    ",
+  "description": "Vegan food truck, parks in front of the Cathedral on Monday.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Boulevard de l'Imperatrice ",
+  "phone": "tel:0496384399",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-2:30pm, Tue 4:30pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/VivaVega-Loving-Hut-Express/210333269031713",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.847763,4.358188&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.847763,4.358188&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

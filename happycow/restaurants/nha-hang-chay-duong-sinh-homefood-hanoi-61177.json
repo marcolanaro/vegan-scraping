@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nha Hang Chay Duong Sinh - Homefood",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Organic, Vietnamese\n                                    ",
+  "description": "Modern, organic restaurant and food shop next to a lake. Offers combo menu. Sells fruits, nuts, mock meats, and other foodstuff.",
+  "priceRange": "Moderate",
+  "streetAddress": "26 Tran Bình Trọng",
+  "phone": "tel:19009235",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/homefoodvn",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.018629,105.843900&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.018629,105.843900&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

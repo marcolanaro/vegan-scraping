@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Smootch",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Smoothie and waffle bar located in the heart of the city on the main street. Serves a variety of mixed and instantly prepared 100% natural fruit juices, smoothies, milkshakes and waffles to take away. Has vegan choices. Also has breakfast, coffee, ice coffee, natural ice tea and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "Carera 92",
+  "postalCode": "52210",
+  "phone": "tel:00385-917845592",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/smootchkany",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.081168,13.637938&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.081168,13.637938&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

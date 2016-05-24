@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Adam & Luna",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Mediterranean, Fast food, Beer/Wine, Delivery, Take-out\n                                    ",
+  "description": "Catering turned vegan cafe opened May 2015 by Donaukanal close to the U2 Station Schottenring. Serves Levantine food like wraps, couscous, vebap (vegan kebap), lentil soup. Dine by the water. May be moving/closing at the end of October - please verify and let HappyCow know.",
+  "priceRange": "Moderate",
+  "streetAddress": "Obere Donaustrasse 83, Salztorbrücke ",
+  "postalCode": "1020",
+  "phone": "tel:06606820570",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 4:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/adam-luna/446597002173169",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.215284,16.374825&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.215284,16.374825&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

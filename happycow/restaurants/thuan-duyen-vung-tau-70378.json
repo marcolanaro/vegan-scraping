@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thuan Duyen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Fast food, Take-out, Vietnamese\n                                    ",
+  "description": "Pre-made dishes and soups. Staff hands you a plate of rice and you choose the dishes. No English spoken.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "188 Nam Ky Khoi Nghia",
+  "phone": "tel:01649318809",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.352046,107.087050&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.352046,107.087050&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

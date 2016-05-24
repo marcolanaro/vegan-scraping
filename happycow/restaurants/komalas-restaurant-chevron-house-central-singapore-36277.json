@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Komala's Restaurant - Chevron House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Delivery, Take-out, Catering\n                                    ",
+  "description": "Part of vegetarian Indian food chain in Singapore. Fast food style.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "30 Raffles Place, B1-06 Chevron House",
+  "postalCode": "048622",
+  "phone": "tel:65330644",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.284364,103.852060&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.284364,103.852060&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

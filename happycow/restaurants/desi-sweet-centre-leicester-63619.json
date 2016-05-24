@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Desi Sweet Centre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out, Bakery\n                                    ",
+  "description": "Small chain of Indian restaurants and take-away. Serving curries, savories, and sweets.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "49 Green Lane Rd",
+  "postalCode": "LE5 3TP",
+  "phone": "tel:01162624990",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.639544,-1.105486&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.639544,-1.105486&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

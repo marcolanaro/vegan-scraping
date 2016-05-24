@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zdrava Vyziva",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small shop selling locally produced fruits and vegetables, dairy-free milks and yogurts, tofu, wholewheat grains, beans, tea and natural toiletries.",
+  "streetAddress": "Plhovska",
+  "postalCode": "54701",
+  "phone": "tel:+420-602-709-486",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/zdravavyzivahronov",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.419108,16.167319&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.419108,16.167319&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

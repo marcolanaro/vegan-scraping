@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Terminal 21 - Veg Stall Food Court",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai, Buffet, Fast food, Take-out\n                                    ",
+  "description": "Giant shopping mall with a substantial food court up on the 5th floor - one of the stalls is a vegetarian stall displays a variety of food like stir fries, curries, some tofu, some gluten, some other mock meats, a few fritters. Plate comes with rice and your choice of dishes. Several other stalls in the food court sell smoothies, juices, and desserts with coconut milk. Look for it on the left side, 1 row back.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Shop FK14, Pier 21 Food Court, 5th Fl, Terminal 21 Shopping Mall, Sukhumvit Soi 19, Sukhumvit Rd",
+  "phone": "tel:+66-21080888",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.737509,100.560737&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.737509,100.560737&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

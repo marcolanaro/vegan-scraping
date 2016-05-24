@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Matsuontoko",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Japanese, Organic, Fast food, Beer/Wine, Take-out\n                                    ",
+  "description": "Vegan restaurant serving burgers, pizzas, pasta, salads and a few Japanese dishes. Serves organic and wine. Also serves cocktails. Non-smoking. Address in Japanese: 538-6 四条上る新京極通中之町中京区.",
+  "priceRange": "Moderate",
+  "streetAddress": "538-6 Shijyo Agaru Shinkyougoku Nakanocho Nakagyoku",
+  "postalCode": "604-8042",
+  "phone": "tel:075-251-1876",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/matsuontoko/316921331665778",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.004884,135.767385&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.004884,135.767385&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

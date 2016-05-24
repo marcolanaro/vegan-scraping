@@ -1,0 +1,16 @@
+{
+  "title": "Backwerk - Nordstrasse",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Take-out, Bakery, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery chain which offers bagels, wraps, sandwiches, breads and börek (Turkish baked filled pastry). Vegan items are labeled.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Nordstrasse 49",
+  "phone": "tel:2115136648",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-7:30pm, Sat 6:00am-4:00pm, Sun 8:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.237746,6.779795&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.237746,6.779795&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

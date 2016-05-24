@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dining Bowl Vege Cuisine Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Buffet, Delivery, Take-out\n                                    ",
+  "description": "A vegetarian buffet restaurant with vegan options not labeled, so vegans please inquire.",
+  "priceRange": "Moderate",
+  "streetAddress": "66 Jalan Hujan Rahmat 2, Taman Oversea Union",
+  "postalCode": "58200",
+  "phone": "tel:0379722125",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:00am-10:00pm, Fri-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/DiningBowl",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.072358,101.673042&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.072358,101.673042&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kafe Seng",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "Name in Chinese: 成咖啡店. Here you will find both around 7 veg food stalls and 1 or 2 non-veg stalls. On Mon-Sat mornings there is one stall selling herbal soup koay teow from 7am-9:30am.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "196-198, Jalan Tembikai, Taman Sri Rambai",
+  "postalCode": "14000",
+  "phone": "tel:016-4748238",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.358124,100.444476&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.358124,100.444476&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

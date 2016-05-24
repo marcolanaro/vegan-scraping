@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BioPoint",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "BioPoint is a chain of health food market. This one is small, located inside Prague's central station. Carries snack bars, tofu pate, and dairy-free cheese and other stuff. Many items are organic and some are fair trade.",
+  "streetAddress": "Praha Hlavni Nadrazi, Wilsonova 8",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.082579,14.434973&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.082579,14.434973&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

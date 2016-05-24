@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Living Wholesome",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Organic, Singaporean\n                                    ",
+  "description": "生活天然健康素食 specializes in a healthy, vegan version of hakka thunder tea rICE. Also serves bee hoon (rice vermicelli noodles) for breakfast. No garlic used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "51 Upper Bukit Timah Rd Stall 02-188, Bukit Timah Food and Market Centre",
+  "postalCode": "588215",
+  "phone": "tel:96660694",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/LivingWholesomeSG",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.339521,103.776288&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.339521,103.776288&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

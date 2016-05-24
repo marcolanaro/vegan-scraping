@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mad Guru",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food with some vegetarian dishes. Ask about dairy use though.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nørregade 56",
+  "postalCode": "5000",
+  "phone": "tel:88838080",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Restaurant-Paprika-151032911618880",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.400276,10.388837&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.400276,10.388837&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

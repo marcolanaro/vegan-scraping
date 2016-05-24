@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "T's Tantan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese\n                                    ",
+  "description": "Vegan ramen restaurant. Also serves salads and a few other main course options. Last order 10pm. Located inside Tokyo Station so you must be taking a train or you must buy a platform ticket. Find the food and shopping area known as Keiyo Street and you will be able to find the restaurant. Japanese name and address: T's たんたん：東京駅構内１F京葉ストリート.",
+  "priceRange": "Moderate",
+  "streetAddress": "Tokyo Station, 1F, Keiyo Street",
+  "phone": "tel:03-3218-8040",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.680865,139.767122&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.680865,139.767122&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

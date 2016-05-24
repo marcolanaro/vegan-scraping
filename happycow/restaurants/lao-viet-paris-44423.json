@@ -1,0 +1,17 @@
+{
+  "title": "Lao Viet",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Vietnamese, Laotian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Southeast Asian cuisine with many dishes that can be ordered \"vegetarian,\" as labeled by small broccoli on the menu. Also has one vegetarian menu with starter, main course, and dessert for around 15€.",
+  "priceRange": "Moderate",
+  "streetAddress": "24 boulevard Massena",
+  "postalCode": "75013",
+  "phone": "tel:0145840543",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 12:00pm-3:00pm, 6:30pm-10:00pm, Wed-Sun 12:00pm-3:00pm, 6:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.823274,2.373750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.823274,2.373750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

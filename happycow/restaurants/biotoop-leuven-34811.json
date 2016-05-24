@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Biotoop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A health food store that stocks many essential health food store items. Has daily fresh breads and baked goods plus grains, cereals, vegetable and fruit, bulk, vegan and gluten free products. Closed Sunday.",
+  "streetAddress": "Zwartzusterstraat 16",
+  "postalCode": "3000",
+  "phone": "tel:016-206950",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.872937,4.696492&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.872937,4.696492&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

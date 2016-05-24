@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Millstream",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Organic, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A family-run public house where customers are warmly welcomed. Has large country garden and a restaurant. Offers a few vegan choices such as fresh salads, roasted vegetables, chips, jacket potatoes and roasted potatoes. Uses locally sourced produce when possible. Advance bookings are highly recommended, especially on weekends; however, walk-ins are welcome and will be seated as best as possible. Pet-friendly, but are not permitted in the restaurant area.",
+  "priceRange": "Moderate",
+  "streetAddress": "88 Port Vale",
+  "postalCode": "SG14 3AF",
+  "phone": "tel:01992-582755",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-11:00pm, Fri-Sat 12:00pm-12:00am, Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/themillstreamhertford",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.800255,-0.086956&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.800255,-0.086956&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Futatsunoki",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small restaurant located 10 minutes from Kichijoji station. Has some vegan food available, including lunch plate (a limited amount per day) and desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "Tokyo, Musashino-shi, Kichijoji Honcho 4-6-10, Kichijoji",
+  "postalCode": "180-0004",
+  "phone": "tel:0422-21-3390",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 12:00pm-6:00pm, Fri 12:00pm-4:00pm, 6:00pm-10:00pm, Sat-Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/yukkurinonbiricafefutastunoki",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.705836,139.574065&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.705836,139.574065&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

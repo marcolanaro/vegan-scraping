@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Baan Suan Pai Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Selling packaged dry food. Can be reached by Skytrain. Baan Aree direction: from BTS Ari Exit 1 and go straight about 100 m on the right hand side between EXIM Bank and Esso gas station has one small street, go to that street and you will find it. Another one is opposite so from BTS ARI Exit 2, go straight about 100 m on the left hand side and it's next to Caltex gas station. Turn left and go to small street 20 steps.",
+  "streetAddress": "304 Phahon Yothin Road",
+  "phone": "tel:02-6151583",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.777790,100.544320&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.777790,100.544320&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

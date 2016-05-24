@@ -1,0 +1,18 @@
+{
+  "title": "Riccardo's Italian Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale, sophisticated ambiance. Offers Italian cuisine and has a separate vegan menu.",
+  "priceRange": "Expensive",
+  "streetAddress": "126 Fulham Rd, Chelsea",
+  "postalCode": "SW3 6HU",
+  "phone": "tel:020-7370-6656",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-3:00pm, 6:30pm-11:30pm, Sat 12:00pm-11:30pm, Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/RiccardosItalianRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.492000,-0.171452&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.492000,-0.171452&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

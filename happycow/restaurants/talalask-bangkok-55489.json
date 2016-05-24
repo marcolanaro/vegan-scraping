@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Talalask - Rama 2",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Thai, Take-out\n                                    ",
+  "description": "Another branch of Talalask, this one is at Park Village Tower B. Offers a large menu of vegan food dishes, cooked hot. Semi upscale decor. Carbonara is the only non-vegan dish, using dairy.",
+  "priceRange": "Moderate",
+  "streetAddress": "Park Village Tower B Floor 2",
+  "phone": "tel:66819149178",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/people/ตาละลักษมณ์-อาหารเจ/100006091115423",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.661015,100.433937&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.661015,100.433937&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

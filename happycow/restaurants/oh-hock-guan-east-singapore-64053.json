@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Oh Hock Guan",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "福源素食包点 specialized in making vegetarian bun and rice cake.",
+  "streetAddress": "Blk 3020 Ubi Ave 2 Unit 01-139",
+  "postalCode": "408896",
+  "phone": "tel:67449309",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.328087,103.893873&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.328087,103.893873&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

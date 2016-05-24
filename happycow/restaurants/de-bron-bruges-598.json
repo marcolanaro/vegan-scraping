@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "De Bron",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, European\n                                    ",
+  "description": "Small veggie food restaurant offering one main dish each day in different sizes. Prices range around €2 for soup, small dishes for €9.50, medium dishes for €10 and super €11.50 or so.",
+  "priceRange": "Moderate",
+  "streetAddress": "Katelijnestraat 82, Brugge",
+  "phone": "tel:050-334526",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.201880,3.226930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.201880,3.226930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

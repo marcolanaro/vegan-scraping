@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Nonthaburi",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Western, Take-out, Asian\n                                    ",
+  "description": "Part of the vegan chain restaurants inspired by Supreme Master Ching Hai, an advocate for veg living. Each location is individually owned and operated. Serves food, non-alcoholic beverages, and vegan desserts. Comfortable atmosphere, free Wi-Fi. Reported open Sept 2013.",
+  "priceRange": "Moderate",
+  "streetAddress": "100 Moo 8 Tiwanon Road, Bangpood Pakkret, Nonthaburi",
+  "postalCode": "11000",
+  "phone": "tel:0867832600",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.920696,100.518637&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.920696,100.518637&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

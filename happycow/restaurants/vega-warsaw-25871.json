@@ -1,0 +1,17 @@
+{
+  "title": "Vega",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, International, Buffet, Salad bar, Delivery, Take-out\n                                    ",
+  "description": "Vegetarian turned all-vegan as of Mar 2016. Simple cafeteria like place with plenty of seating. Offers an array of dishes, many with Indian influence, plus has cakes. Might be ISKON/Hare Krishna affiliated.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Aleja Jana Pawla II 36c",
+  "postalCode": "01-410",
+  "phone": "tel:22-3535400",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.241042,20.995187&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.241042,20.995187&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

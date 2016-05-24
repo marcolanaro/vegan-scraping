@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Stall at Restoran O For U",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Fast food, Take-out\n                                    ",
+  "description": "素食档 is a veg stall inside the restaurant O for U.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2, Jalan PJS 1/31, PJS 1, Taman Petaling Utama",
+  "postalCode": "46150",
+  "phone": "tel:018-3775565",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.079954,101.651848&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.079954,101.651848&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

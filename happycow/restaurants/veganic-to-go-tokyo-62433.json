@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veganic To Go",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Japanese, Macrobiotic, Organic, Raw, Western, Beer/Wine, Take-out, Asian, Fusion\n                                    ",
+  "description": "A 100% vegan cafe uses high quality ingredients with 60-100% being organic. Dishes include brown rice lunch plate and a made-in-house bun & patty vegan burger. Relaxing atmosphere. MSG free, GMO free, microwave free, artificial chemicals free. (Veganic = Vegan, Organic, Macrobiotic)\r\n\r\n\r\n\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "7-4-14 Roppongi, Minato-ku, 1F Nogizaka Studio",
+  "postalCode": "106-0032",
+  "phone": "tel:+81-364340211",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:30am-10:00pm, Wed 11:30am-5:00pm, Thu-Sat 11:30am-10:00pm, Sun 11:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/veganic25",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.665489,139.728365&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.665489,139.728365&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

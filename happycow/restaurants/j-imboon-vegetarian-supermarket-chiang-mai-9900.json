@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "J. Imboon Vegetarian Supermarket",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large store with a big selection of mock-meat products and vegetarian food. They also sell Buddha statues, incense, candles, books (in Thai), natural toothpaste, skin-care products, and more.",
+  "streetAddress": "188/1-3 Mueang Samut Rd, Imboon village",
+  "phone": "tel:053-235-487",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 8:00am-6:30pm, Wed-Sun 8:00am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.799292,98.997992&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.799292,98.997992&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

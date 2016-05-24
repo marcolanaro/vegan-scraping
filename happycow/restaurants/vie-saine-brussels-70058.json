@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vie Saine",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Old school health store selling food and non food (many health/lifestyle books) Has a small fridge with tofu and other vegan products.",
+  "streetAddress": "Chaussee de Wavre 1264",
+  "phone": "tel:0032-26726300",
+  "venueHours": "\n                                                                                                        Mon 2:00pm-6:30pm, Tue-Fri 10:00am-6:30pm, Sat 10:00am-12:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.820735,4.409719&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.820735,4.409719&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

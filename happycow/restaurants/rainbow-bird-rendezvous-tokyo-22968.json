@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rainbow Bird Rendezvous",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic, Juice bar, Beer/Wine, Delivery, Take-out\n                                    ",
+  "description": "July 2013 reported food is all vegan. Selection changes daily and seasonally and always includes vegan versions of Japanese fare like karaage, hamburg, tonkatsu, potato croquette, curry rice, and salad. Has vegan desserts, at least one raw dessert, and smoothies. Last order is one hour before closing.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-1-1 Yutenji Meguroku",
+  "postalCode": "153-0052",
+  "phone": "tel:03-3791-5470",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:30am-4:00pm, 5:30pm-8:00pm, Thu-Fri 11:30am-4:00pm, 5:30pm-8:00pm, Sat 11:30am-8:00pm, Sun 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.640777,139.694338&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.640777,139.694338&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

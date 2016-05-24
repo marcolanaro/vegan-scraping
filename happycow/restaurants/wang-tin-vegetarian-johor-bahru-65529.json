@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wang Tin Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Catering\n                                    ",
+  "description": "旺天素食店 serves a wide selection of rice and noodle dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "LG -31, Jalan Mawar 5, Tampoi Indah ll",
+  "postalCode": "81200",
+  "phone": "tel:018-%207917085",
+  "venueHours": "\n                                                                                                        Mon 11:00am-4:00pm, 5:00pm-10:00pm, Wed-Sun 11:00am-4:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.512674,103.683541&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.512674,103.683541&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

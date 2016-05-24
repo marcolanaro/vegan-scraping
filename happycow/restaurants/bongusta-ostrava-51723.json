@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BonGusta",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Organic, Salad bar, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "A cozy vegetarian/vegan 100% organic restaurant uses seasonal and local ingredients. Vegan lunches are served from 11am. Serves breakfast also. Food includes salads, wraps, burgers, superfood smoothies, coconut water. Located in city center.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nadrazni 112/50",
+  "postalCode": "70200",
+  "phone": "tel:+420-724903899",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/BonGusta/527329660683139",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.839506,18.284459&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.839506,18.284459&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

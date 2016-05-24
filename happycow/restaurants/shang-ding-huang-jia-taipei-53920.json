@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shang Ding Huang Jia - Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out\n                                    ",
+  "description": "上頂皇家 is a small stall that sells only vegetarian dumplings and filled bun. Dumplings have one type of filling, while buns have 3 flavors: cabbage, bamboo shoot, and potherb mustard. Food is cooked on a big pan, and the bottom is oily so that they won't stick. A few meters away from Sho Yuan Su Shih vegetarian restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "72-30, Huaining St",
+  "phone": "tel:23612361",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.046303,121.514163&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.046303,121.514163&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

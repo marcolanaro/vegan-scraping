@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Furama",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese restaurant on a busy street in the center of town. Offers a separate vegan menu with different kinds of dim sum, including fried and steamed. Other vegan choices include ramen soup, cold marinated tofu, carrot salad, and others.",
+  "priceRange": "Moderate",
+  "streetAddress": "7 Ben Yehuda Street",
+  "phone": "tel:054-7095555",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.073960,34.768139&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.073960,34.768139&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

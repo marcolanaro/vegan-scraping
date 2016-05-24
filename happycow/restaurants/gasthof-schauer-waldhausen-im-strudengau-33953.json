@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gasthof Schauer",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has some vegan dishes and vegan cakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Markt 6",
+  "postalCode": "4391",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Gasthof-Schauer/179595432075968",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.273106,14.947726&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.273106,14.947726&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

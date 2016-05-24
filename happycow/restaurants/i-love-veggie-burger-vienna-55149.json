@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "I Love Veggie Burger - Margaretenstrasse",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Fast food, Delivery, Take-out\n                                    ",
+  "description": "Its first outlet in the city. Vegan fast food restaurant serving burgers, wraps, hot dogs, desserts. Shares the location with a non-veg fast food burger restaurant, but has its own kitchen.",
+  "priceRange": "Moderate",
+  "streetAddress": "Margaretenstrasse 76",
+  "postalCode": "1050",
+  "phone": "tel:+43-15122509",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-11:00pm, Sat 12:00pm-11:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/iloveveggieburger",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.192429,16.360060&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.192429,16.360060&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

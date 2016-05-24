@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zelena",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Zelena, meaning \"green,\" is an organic vegan shop that opened in the city center in Apr 2015. Stocks organic fruit and vegetables and other products. Its kitchen makes juices, pate, salads, crackers, vegan cheese and sweets. Gluten-free bread and other gluten-free products available.\r\n",
+  "streetAddress": "Smareglina 5",
+  "postalCode": "52100",
+  "phone": "tel:+385-52354915",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/zelena.trgovina.pula",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.867149,13.848165&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.867149,13.848165&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

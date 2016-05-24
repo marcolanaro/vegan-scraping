@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Five Insights Hall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "五观食堂 is located at basement 1 of Buddha Tooth Relic Temple. Offers white/brown rice or bee hoon/noodles, and eat it with dishes like broccoli, cauliflower, kailan, brinjal, curry, samosa. Also serves daily specials like hor fun, laksa, loh mee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "288 South Bridge Rd",
+  "postalCode": "058840",
+  "phone": "tel:62200220",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Buddha-Tooth-Relic-Temple-and-Museum-ä½›ç‰™å¯º/199070010141241?sk=app_128953167177144",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.281372,103.844260&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.281372,103.844260&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

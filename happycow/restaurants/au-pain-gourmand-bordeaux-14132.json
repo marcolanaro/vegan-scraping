@@ -1,0 +1,18 @@
+{
+  "title": "Au Pain Gourmand",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Beer/Wine, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Middle Eastern cafe situated on longest pedestrian street in Europe. Very limited choices for veg but has falafel and hummus which costs around 5-6 euros. Traditional mint tea available. Staff speak English. Has Wi-Fi access.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "259 Rue Sainte Catherine",
+  "postalCode": "33000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.832160,-0.572910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.832160,-0.572910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Nguyen Hong",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Vietnamese\n                                    ",
+  "description": "This is the second Hanoi outlet for this international vegan restaurant chain, also known as Com Chay Thien Phuc. Located in an alley, with 3 90-degree turns,  There are small signs at both alley entrances, but the restaurant is easily visible from Hoang Ngoc Phach. Clean dining room. English language menu. Typical mock meat and vegetable dishes with reasonable prices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "71 Nguyen Hong St",
+  "phone": "tel:04-66751197",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.016273,105.810863&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.016273,105.810863&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cantonese en Ken Takase",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Billed as a healthier/anti-aging Chinese food restaurant, located in Tokyo Station Hotel since Oct 2012. Offers veg lunch and dinner set. Upscale atmosphere, English spoken. Reservations preferred.",
+  "priceRange": "Expensive",
+  "streetAddress": "Chiyoda-ku, Marunouchi 1-9-1, Tokyo Station Hotel B1F",
+  "phone": "tel:03-62699937",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/en.takase",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.681788,139.766761&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.681788,139.766761&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

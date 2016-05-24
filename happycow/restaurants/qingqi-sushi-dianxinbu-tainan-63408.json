@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Qingqi Sushi Dianxinbu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Japanese, Take-out, Taiwanese\n                                    ",
+  "description": "A neighborhood vegetarian dim sum eatery located diagonally opposite the Eastern Vegetable Market (Dong Caishi), at 台南市中西區青年路135號.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "135, Cingnian Rd, West Central District",
+  "phone": "tel:06-2285781",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.991967,120.209166&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.991967,120.209166&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

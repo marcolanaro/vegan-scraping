@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chuon Chuon Quan",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A rustic, spacious cafe on an often overlooked street inhabiting a decaying French villa. Wi-fi available 24/24, with various kinds of fast food. Vegan options may be very limited. ",
+  "priceRange": "Moderate",
+  "streetAddress": "5 Hoi Vu Street, Hoan Kiem District",
+  "phone": "tel:04322487888",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.028810,105.845592&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.028810,105.845592&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

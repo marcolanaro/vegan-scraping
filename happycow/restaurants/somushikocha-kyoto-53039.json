@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Somushikocha",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Old Korean style cafe and restaurant near Manga Museum. Has light Korean vegetarian and vegan meals which staff can indicate upon request. Subway Karasumaoike station Exit 6.",
+  "priceRange": "Moderate",
+  "streetAddress": "73 Karasumasanjyo, Nakairu-Okuracho, Nakagyoku, Kyoto",
+  "postalCode": "604-8166",
+  "phone": "tel:075-2531456",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.008276,135.758536&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.008276,135.758536&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

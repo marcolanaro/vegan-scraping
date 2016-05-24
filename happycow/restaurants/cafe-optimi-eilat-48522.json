@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Optimi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Italian, Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe near Mall Sea and Rimonim offering western cuisines with a huge menu of pasta, pizza, sandwiches, coffee, wine, and juices. Has vegetarian dishes and a few vegan ones.",
+  "priceRange": "Moderate",
+  "streetAddress": "Pninat Center, Eilat Promenade",
+  "phone": "tel:+972-86376510",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/CAFE-OPTIMI/101303331697",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.557669,34.951925&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.557669,34.951925&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

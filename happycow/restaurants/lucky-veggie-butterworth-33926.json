@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lucky Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Take-out\n                                    ",
+  "description": "Originally known as Sing Joyee Vegetarian. Serves a variety of Chinese vegetarian dishes with and without mock meats. Also has ala carte dishes, noodle dishes like wanton mee and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "35-37, Jalan Chain Ferry, Chai Leng Park",
+  "phone": "tel:+6043983068",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-3:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.387613,100.389248&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.387613,100.389248&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,13 @@
+{
+  "title": "La Vie Claire",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "9 rue de Paris",
+  "postalCode": "89200",
+  "phone": "tel:0386349183",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:00am-12:30pm, 2:30pm-7:00pm, Sat 8:30am-4:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.490387,3.907803&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.490387,3.907803&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

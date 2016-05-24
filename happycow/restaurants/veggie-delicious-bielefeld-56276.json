@@ -1,0 +1,18 @@
+{
+  "title": "Veggie Delicious",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Chinese, Japanese, Buffet, Salad bar, Beer/Wine, Take-out\n                                    ",
+  "description": "A 100% vegan Asian restaurant serving appetizers, salads, wraps, burgers, main dishes, sushi, dessert and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "Otto-Brenner-Strasse 112",
+  "postalCode": "33607",
+  "phone": "tel:+49-52192730320",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-3:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Veggie.Delicious.Bielefeld",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.014814,8.565162&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.014814,8.565162&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

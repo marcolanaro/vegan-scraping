@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Novelty Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Beer/Wine, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu specifies what is veg; has 4 or so labeled vegan choices. Shelves of books available to borrow and Wi-Fi access.",
+  "priceRange": "Moderate",
+  "streetAddress": "126 Ban XiangMouane, Sisavangvong Rd",
+  "phone": "tel:02055195023",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.891355,102.136288&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.891355,102.136288&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

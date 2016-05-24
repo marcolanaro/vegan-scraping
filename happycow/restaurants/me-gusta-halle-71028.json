@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Me Gusta",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a weekly changing seasonal menu; always has vegan choices. Offers a local and international kitchen, with healthy and wholesome ingredients. Gluten free and dairy free dishes are available. Uses mainly organic products and special requests are possible since everything is made-in-house to order.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bergensesteenweg 20",
+  "postalCode": "1500",
+  "phone": "tel:+32474408908",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Me-Gusta-103624119686758/?ref=hl",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.742965,4.240853&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.742965,4.240853&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

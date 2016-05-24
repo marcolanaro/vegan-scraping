@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mowgli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian street food with a separate vegan menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Unit 16, 37 Corn Exchange",
+  "postalCode": "M4 3TR",
+  "phone": "tel:01618320566",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-11:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Mowgli-Street-Food-681278181947566",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.508328,-2.040091&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.508328,-2.040091&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

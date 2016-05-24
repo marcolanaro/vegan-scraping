@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Village Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Stocks a large selection of vegan food brands (plant milk, cheese, ice cream, chocolate, ready meals), plus pantry staples like nutritional yeast, molasses, and flours; range of non alcoholic drinks and chilled beverages; fresh fruits and vegetables; eco household products.",
+  "streetAddress": "114 Barlow Rd, Levenshulme",
+  "postalCode": "m19 3ef",
+  "phone": "tel:01612487595",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-7:30pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.446040,-2.186897&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.446040,-2.186897&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

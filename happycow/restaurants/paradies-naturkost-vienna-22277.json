@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Paradies Naturkost",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Juice bar\n                                    ",
+  "description": "Wien small bistro located inside a health food shop. Daily changing menu with a soup and two main dishes (most is vegan or can be veganised). Fresh juices and salads available. Vegan pastries/muffins.",
+  "priceRange": "Moderate",
+  "streetAddress": "Altgasse 23a",
+  "postalCode": "1130",
+  "phone": "tel:+43-01-8765160",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.185584,16.298082&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.185584,16.298082&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

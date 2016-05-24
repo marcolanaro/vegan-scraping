@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Casablanca Moroccan Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Middle Eastern, Moroccan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Veg suitable appetizers include hummus, falafel, aaalouk (babaganoush), and a few others. Ask your waitstaff for the vegetarian menu. Features belly dance shows Thur, Fri, Sat evenings from 8:30pm at 1000 yen/person; Wednesday's show is free. Directions: On the Sakura Dori line, get off at Takaoka station exit 1, walk north and turn left at the light Takaoka Kita, turn right at the next street (one way street), and Casablanca is the second building on left.",
+  "priceRange": "Expensive",
+  "streetAddress": "Nagoya-shi, Higashi-ku, Izumi, 1-9-14 Takaoka Residence 1F",
+  "phone": "tel:052-953-7774",
+  "venueHours": "\n                                                                                                        Mon-Sun 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.179325,136.925993&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.179325,136.925993&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

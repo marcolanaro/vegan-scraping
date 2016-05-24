@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Living Juices",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "Juices and snacks bar offering vegetable juices, fruit juices, smoothies, raw chocolates, superfoods, health coaching, nutritional advice, and social hangout.",
+  "streetAddress": "27/4 Moo 1, Sairee",
+  "postalCode": "84360",
+  "phone": "tel:0901715281",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/livingjuices",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.099104,99.831873&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.099104,99.831873&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

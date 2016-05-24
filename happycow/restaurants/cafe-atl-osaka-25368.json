@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Atl",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Western, Beer/Wine, Bakery\n                                    ",
+  "description": "Vegetarian cafe turned vegan in 2014. The lunch menu consists of a few set meals plus baked goods and espresso drinks. Offer bagels with herb marinated tofu cheese. Emphasis is slow food using local produce. Quiet for the noisy Shinsaibashi area. In Shinsaibashi area on a side street off of the main drag. Directions from Apple store and Nike on Midosuji Ave, turn to Europe St, walk till you see the signboard in front of big gorilla signboard of the pet shop. Note that is is not open late in the night, so go early.",
+  "priceRange": "Moderate",
+  "streetAddress": "2-1-24 Shinsaibashisuji, Chuoku",
+  "postalCode": "542-0085",
+  "phone": "tel:06-62120066",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeAtl",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.671846,135.501594&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.671846,135.501594&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

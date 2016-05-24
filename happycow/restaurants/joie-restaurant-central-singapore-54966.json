@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Joie Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Japanese, Western, Beer/Wine, European\n                                    ",
+  "description": "A vegetarian fine dining restaurant located in the serene rooftop garden of Orchard Central, overlooking the busy Orchard/Somerset shopping district. Diners choose either a six-course lunch or seven-course dinner. Has vegan options. Private dining rooms are available.",
+  "priceRange": "Expensive",
+  "streetAddress": "181 Orchard Road, Unit 12-01, Orchard Central",
+  "postalCode": "238896",
+  "phone": "tel:68386966",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Joie-Restaurant/1500765866845726",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300958,103.839605&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300958,103.839605&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

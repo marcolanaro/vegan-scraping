@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fresh Rootz",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "2015 Traveling food van. Previously at vegetarian cafe annexed to Garden Organic Ryton.",
+  "streetAddress": "traveling",
+  "phone": "tel:024-76308213",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Fresh-Rootz/426548750718403",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.367174,-1.413166&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.367174,-1.413166&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

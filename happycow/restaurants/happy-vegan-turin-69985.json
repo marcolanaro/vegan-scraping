@@ -1,0 +1,17 @@
+{
+  "title": "Happy Vegan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Western, Fast food, Beer/Wine, Take-out, Bakery\n                                    ",
+  "description": "Vegan fast food restaurant serving piadina, a typical flatbread from central Italy, as well as burgers and sandwiches.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Caraglio, 34",
+  "phone": "tel:3271789903",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.064740,7.642020&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.064740,7.642020&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

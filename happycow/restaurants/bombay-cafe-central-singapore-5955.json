@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bombay Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Beer/Wine, Take-out, Catering\n                                    ",
+  "description": "Vegetarian Indian restaurant cooking North Indian cuisine. Previously at 332 & 334 Tanjong Katong Road, East.",
+  "priceRange": "Moderate",
+  "streetAddress": "79 Syed Alwi Rd",
+  "phone": "tel:63966452",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 6:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.309130,103.856133&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.309130,103.856133&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

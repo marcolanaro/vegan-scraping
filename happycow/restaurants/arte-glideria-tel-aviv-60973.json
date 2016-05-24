@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Arte Glideria",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Ice cream parlor offers many vegan options, including sorbets, nut ice creams, chocolate ice creams, and granita slush drinks. The almond flavor is the only one made with soy milk.",
+  "streetAddress": "11a Nahalat Binyamin",
+  "phone": "tel:055-8954868",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-11:00pm, Sat 1:00pm-11:00pm, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Arte-Glideria-%D7%90%D7%A8%D7%98%D7%94-%D7%92%D7%9C%D7%99%D7%93%D7%A8%D7%99%D7%94/234300030077129",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.068372,34.770061&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.068372,34.770061&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

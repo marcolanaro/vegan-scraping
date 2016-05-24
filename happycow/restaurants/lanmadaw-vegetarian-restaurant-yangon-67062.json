@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lanmadaw Vegetarian Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out\n                                    ",
+  "description": "南普陀素食餐馆 is located next to a Chinese temple and near Novotel Hotel. Its entrance is located directly opposite University of Medicine 1 campus. Serves rice, noodles, and a la carte vegetable dishes. Staff can speak Mandarin and basic English.",
+  "priceRange": "Moderate",
+  "streetAddress": "451, Pyay Road, 8 Ward, Kamayut Township",
+  "phone": "tel:09-250567239",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.818742,96.131840&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.818742,96.131840&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

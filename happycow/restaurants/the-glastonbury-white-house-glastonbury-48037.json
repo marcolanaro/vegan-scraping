@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Glastonbury White House",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Vegetarian B&B situated in a quiet residential street minutes walk from the town centre. Restored and refurbished throughout with natural paints, the two double rooms, both en-suite with fairtrade organic bedding and towels.",
+  "streetAddress": "21 Manor House Road",
+  "postalCode": "BA6 9DF",
+  "phone": "tel:+44-1458830886",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.150874,-2.717976&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.150874,-2.717976&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

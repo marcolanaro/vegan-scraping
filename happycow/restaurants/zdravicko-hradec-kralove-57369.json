@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zdravicko",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "The shop offers mostly bread, pasta, dried fruit, and nuts with a small selection of chilled food.",
+  "streetAddress": "třída Karla IV. 867/12",
+  "postalCode": "500 02",
+  "phone": "tel:+420-608820979",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-6:00pm, Sat 8:30am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.213528,15.823904&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.213528,15.823904&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yishen Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, International, Thai, Buffet, Take-out, Catering\n                                    ",
+  "description": "一心素食馆 operates several locations. Nice, more upscale setting. Check their website for promotions.",
+  "priceRange": "Expensive",
+  "streetAddress": "19-21 Jalan Medan Ipoh 6, Metro Ipoh Baru",
+  "postalCode": "31400",
+  "phone": "tel:05-5466013",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/yishensu",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.615437,101.119847&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.615437,101.119847&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

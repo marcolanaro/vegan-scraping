@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, International, Western, Fast food, Take-out, Catering\n                                    ",
+  "description": "Part of international chain of vegan restaurants opened by followers of Supreme Master Ching Hai, an advocate for veg living. Serves vegan food, coffee, non-alcoholic beverages, vegan desserts. Has kids menu. Last order 2:15pm, 9:15pm. No reservations on weekends or holidays. For catering call 97874389.",
+  "priceRange": "Moderate",
+  "streetAddress": "229 Joo Chiat Rd Unit 01-01",
+  "postalCode": "427489",
+  "phone": "tel:63486318",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-3:00pm, 5:30pm-10:00pm, Sat-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/LovingHutSg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.311131,103.901202&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.311131,103.901202&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

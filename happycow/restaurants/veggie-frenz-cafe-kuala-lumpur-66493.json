@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veggie Frenz",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Asian, Bakery, Catering, Fusion\n                                    ",
+  "description": "Opened May 2015, a Asian fusion cuisine restaurant offering rice, noodle, and vegetables dishes; plus baked goods.",
+  "priceRange": "Moderate",
+  "streetAddress": "28, Jalan Manis 1, Taman Segar",
+  "postalCode": "56100",
+  "phone": "tel:03-91340205",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-9:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Veggie-Frenz-Café-1424797941171974",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.089929,101.743695&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.089929,101.743695&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

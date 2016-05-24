@@ -1,0 +1,17 @@
+{
+  "title": "Soya",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic\n                                    ",
+  "description": "100% organic, mezzé, couscous. Saturday brunch costs around 28€. For vegan dessert phone ahead.",
+  "priceRange": "Expensive",
+  "streetAddress": "20, rue de la Pierre Levée",
+  "postalCode": "75010",
+  "phone": "tel:01-48-06-33-02",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 7:00pm-11:00pm, Wed-Fri 12:00pm-3:30pm, Sat 12:00pm-4:00pm, Sun 11:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.868155,2.369954&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.868155,2.369954&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

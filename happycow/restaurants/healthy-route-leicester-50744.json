@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Healthy Route",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Sitamins and supplements, dry and ambient grocery such as dry beans, grains and fruit, oils, condiments, snacks and confectionery. Wide selection of herbal teas. Chilled and frozen food including vegan.Also sells a few toiletries, cleaning products, and household goods. Some supplements may be in gelatine capsules. Sells both veg and non-veg marshmallow.",
+  "streetAddress": "18 Silver Street",
+  "postalCode": "LE1 5ET",
+  "phone": "tel:01162539097",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/healthyroute",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.635304,-1.134699&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.635304,-1.134699&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

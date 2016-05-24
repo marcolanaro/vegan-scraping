@@ -1,0 +1,17 @@
+{
+  "title": "Just Vege",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Mediterranean, Fast food, Take-out\n                                    ",
+  "description": "Take away vegetarian fast food restaurant in the Kallio area. Offers food like falafel in pita, hummus, veggie burgers, and fries.",
+  "priceRange": "Moderate",
+  "streetAddress": "Vaasankatu 15",
+  "postalCode": "00500",
+  "phone": "tel:+358-505446716",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri 11:00am-2:00am, Sat 12:00pm-2:00am, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=60.188456,24.957338&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C60.188456,24.957338&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

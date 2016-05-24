@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bistro u Pana Lilka",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Western\n                                    ",
+  "description": "A small vegetarian bistro offers only a daily menu, some of which is vegan. The meals are healthy, light and creative. It often serves vegan desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hanackeho Pluku 13",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Bistro-U-PANA-LILKA-1216260111724783",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.597680,17.256666&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.597680,17.256666&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

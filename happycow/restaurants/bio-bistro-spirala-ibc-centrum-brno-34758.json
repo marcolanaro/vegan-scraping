@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Spirala Bio Bistro - IBC Centrum ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Western\n                                    ",
+  "description": "Small vegetarian organic eatery, with vegan options, located on the ground floor of the IBC Shopping Center. Close to Sady Osvobození­ Park. Related to the larger bio restaurant Spirala on Orli St.",
+  "priceRange": "Moderate",
+  "streetAddress": "Prikop 838/6",
+  "postalCode": "60200",
+  "phone": "tel:545176265",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.199726,16.613792&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.199726,16.613792&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

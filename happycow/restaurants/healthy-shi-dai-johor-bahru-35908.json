@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Healthy Shi Dai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Taiwanese\n                                    ",
+  "description": "Taiwanese vegetarian food, set meal with vegan options. Previously located at 62 Jalan Pingai, Taman Pelangi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jalan dedap 13, Taman Johor Jaya",
+  "postalCode": "81100",
+  "phone": "tel:0167185756",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Open Mon- Fri 7am-9pm, Sat 11am-9pm, closed Sun.\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.541231,103.802817&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.541231,103.802817&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

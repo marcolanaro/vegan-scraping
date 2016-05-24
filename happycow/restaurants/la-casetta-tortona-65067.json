@@ -1,0 +1,16 @@
+{
+  "title": "La Casetta",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Italian, Organic\n                                    ",
+  "description": "Vegetarian restaurant with a monthly-changing seasonal menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Strada Veneziana, 9",
+  "phone": "tel:+39-3396749917",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Fri-Sat 7:30pm-10:30pm, Sun 12:00pm-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.812553,8.820546&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.812553,8.820546&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

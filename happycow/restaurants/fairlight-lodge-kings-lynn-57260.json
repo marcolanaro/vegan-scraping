@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fairlight Lodge",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Bed and breakfast combining the charm of a Victorian home with all the comforts of modern living. The hosts, Alastair and James, offer a great vegetarian breakfast which has been enjoyed by many. Please specify if you request veg/vegan or gluten-free. The location is within walking distance of King's Lynn restaurants, shops, and historic town centre.",
+  "streetAddress": "79 Goodwins Rd",
+  "postalCode": "PE30 5PE",
+  "phone": "tel:01553-762234",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.748011,0.408056&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.748011,0.408056&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

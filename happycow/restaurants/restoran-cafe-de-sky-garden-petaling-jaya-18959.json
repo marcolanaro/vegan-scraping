@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Restoran Cafe de Sky Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Italian, Western, Buffet, Catering, French\n                                    ",
+  "description": "Chinese Name: 天之花園精進料理坊. 和天苑是兄弟餐廳﹐菜單幾乎一樣﹐也是賣中、西、意、法餐!只是這裡的菜色比較多. Serves a variety of dishes and desserts. ",
+  "priceRange": "Moderate",
+  "streetAddress": "6-16, Jalan PJS 1/31, PJS 1, Taman Petaling Utama",
+  "postalCode": "46150",
+  "phone": "tel:03-7781-0876/03-7781-0879",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.080530,101.651610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.080530,101.651610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

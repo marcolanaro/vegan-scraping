@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bookworm's Coffee",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Fast food, Juice bar, Beer/Wine, Take-out, British, English, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers some vegetarian food both Vietnamese/Asian as well British vegetarian, like a veggie English breakfast (can request no egg), bangers 'n' mash\" (vegan need to omit the gravy), and veggie burger. Owner is vegetarian (Oct 2014) and will cater to veg diet requests. Juices and shakes also on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "04 Do Quang Dau, Pham Ngu Lao Ward",
+  "phone": "tel:08-38389487",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.766370,106.691360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.766370,106.691360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

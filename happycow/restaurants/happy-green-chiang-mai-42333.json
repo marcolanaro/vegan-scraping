@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Happy Green",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai, Laotian\n                                    ",
+  "description": "Vegetarian eatery by the Mae Ping river, on its west bank, over-viewing Wat Chedi Liem pagoda. Follow Chang Klan road south until you underpass Mahidol road bridge, continue 600 meters, and the restaurant will be on your left, look for the yellow red veg sign. Many of the vegetables and fruits used are organically grown in its riverfront yard; the remaining produce is from its small farm in Lampang. Some pre-made dishes are displayed at the front of the restaurant, and you could also order from the menu. Limited English spoken. Kitchen breaks 2-4pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Pa Daet Nuar 1 Alley, Pa Daet, Mueang Chiang Mai District",
+  "postalCode": "50100",
+  "phone": "tel:0837741743",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.755215,98.994395&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.755215,98.994395&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

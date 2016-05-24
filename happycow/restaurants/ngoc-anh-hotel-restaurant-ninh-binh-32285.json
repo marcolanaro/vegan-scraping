@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ngoc Anh Hotel Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hotel with a restaurant in its lobby that serves primarily its guests. Has a separate vegetarian menu page with vegan options. Tell your waitstaff you are vegetarian/vegan, and the kitchen will put together an inexpensive meal with steamed rice and two or three vegetable and tofu-based dishes made with seasonal ingredients. Vegetarian noodle soups, fried spring rolls, and other options are available as well. Few table seating along the wall in the reception area. Free Wi-Fi.",
+  "priceRange": "Expensive",
+  "streetAddress": "36 Luong Van Tuy Street",
+  "phone": "tel:030-3883768",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.256664,105.970544&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.256664,105.970544&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

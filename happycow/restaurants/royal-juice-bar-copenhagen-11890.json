@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Royal Juice Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Juice bar, Snacks, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small shop with a few tables. Offers sandwiches, fresh juices, and smoothies. Has a couple ovo-lacto vegetarian sandwich options. Convenient place to get a sandwich when visiting the Royal Palace area. It's near Royal Palace, across from large church with green dome.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "75 Store Kongensgade, Kobenhavn",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.685110,12.588400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.685110,12.588400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

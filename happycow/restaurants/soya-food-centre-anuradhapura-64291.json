@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soya Food Centre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Raw, Fast food, Juice bar, Take-out, Bakery\n                                    ",
+  "description": "Cafe serving vege Sri Lankan snack food plus fruit juices, soya drinks, fresh fruit, iced coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "main street",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.338538,80.411612&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.338538,80.411612&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

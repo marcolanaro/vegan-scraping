@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dieu Tam",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Take-out\n                                    ",
+  "description": "Quan Chay Dieu Tam is a small vegan buffet-style com binh dan restaurant run by a Buddhist family. Serves a mixture of salad, vegetable, tofu, soup, and mock meat dishes with a choice of white or brown rice with black beans, plus tea. The number of dishes can vary day to day, but generally the busier it is the larger the range of dishes that are available. Recommended to arrive before 1:30pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "133 Nguyen Dinh Thi",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.044148,105.820736&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.044148,105.820736&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

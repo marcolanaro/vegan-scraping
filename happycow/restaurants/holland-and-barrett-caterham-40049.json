@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Holland and Barrett",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store chain in the UK. Carries herbal remedies and supplements, ethical body care products, and some vegan foods.",
+  "streetAddress": "19 Church Walk Shopping Centre",
+  "postalCode": "CR3 6RT",
+  "phone": "tel:01883-330125",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/hollandandbarrett",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.281556,-0.077256&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.281556,-0.077256&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

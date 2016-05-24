@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Raw8 Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic, Raw, Western, Fusion\n                                    ",
+  "description": "Vegan raw food cafe, moved here in 2014. Offers lunch set, has raw cake. Last order taken 1 hour before closing.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-15-33, Nakatsu, Kita-ku, Osaka 531-0071",
+  "phone": "tel:090-89826868",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 12:00pm-5:00pm, Thu 12:00pm-5:00pm, Fri-Sat 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.712144,135.496557&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.712144,135.496557&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nectar Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Buffet\n                                    ",
+  "description": "Offers quality vegan food using a variety of the finest raw materials. Open on Mondays until 9pm with a buffet that changes weekly.",
+  "priceRange": "Moderate",
+  "streetAddress": "Derech Hai St",
+  "phone": "tel:050-762-6155",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/NectarCafe.TakeAway",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.380541,34.875308&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.380541,34.875308&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

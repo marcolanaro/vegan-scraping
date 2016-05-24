@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Tea Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "A vegetarian Chinese restaurant with vegan options. Air conditioned.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "91-92 Taman Bukit Jelutong",
+  "postalCode": "71700",
+  "phone": "tel:06-7582007",
+  "venueHours": "\n                                                                                                        Mon 11:00am-10:00pm, Wed-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.728761,101.943879&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.728761,101.943879&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

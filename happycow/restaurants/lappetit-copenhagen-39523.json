@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "L'appetit",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small restaurant in the city center serving a large variety of vegan and vegetarian cold salads, vegan samosa, falafel, homos, to name a few. Try the vegan vegetable ball. You can find some vegan cookies on the menu, also.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Frederiksborggade 27",
+  "postalCode": "1360",
+  "phone": "tel:88277156",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-9:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.684697,12.568494&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.684697,12.568494&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

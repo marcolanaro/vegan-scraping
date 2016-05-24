@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "999 Shan Noodle Shop",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Myanmar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Typical Shan noodle shop. The noodle dishes can be made vegan and staff speaks English. Also offer fresh juices. An opportunity for veg*ns to try these typical dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "130 B 34th St",
+  "phone": "tel:+95-1389363",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/999-Shan-Noodle-Shop/552511124859190",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.775940,96.159911&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.775940,96.159911&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

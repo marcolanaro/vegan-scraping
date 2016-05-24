@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khun Churn - Eathai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai\n                                    ",
+  "description": "One location of a restaurant chain originally from Chiang Mai. This branch is a booth in Eathai Food Center, in the Central Embassy Shopping Mall. Accessible by Skytrain Chidlom and Ploenchit stations. The stall is towards the back of the food court. Offers meat-free meals prepared using tofu, mushrooms, and veggies as the core ingredients with plenty of vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Central Embassy Shopping Center, 1031 Ploenchit Rd, Pathumwan, Lumpini",
+  "postalCode": "10110",
+  "phone": "tel:66-816423747",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/khunchurnEathai",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.744107,100.545839&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.744107,100.545839&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

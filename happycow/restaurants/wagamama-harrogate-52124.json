@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wagamama",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Fast food, Beer/Wine, Asian Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. International franchise chain inspired by Japanese food. Vegetarian items are marked with a V and some can be made vegan like replacing meat with tofu. This location reportedly fries the deep fried tofu first meatstuff every 2 days when frying oil is changed. Has freshly squeezed juices, edamame, goma wakame salad, yasai gyoza (dumplings), and others.",
+  "priceRange": "Moderate",
+  "streetAddress": "13-15 Parliament Street",
+  "postalCode": "HG1 2QU",
+  "phone": "tel:01423-506313",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.993386,-1.542929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.993386,-1.542929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

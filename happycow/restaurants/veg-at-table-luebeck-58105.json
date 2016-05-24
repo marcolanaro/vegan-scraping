@@ -1,0 +1,17 @@
+{
+  "title": "Veg at Table",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Fusion, Ayurvedic\n                                    ",
+  "description": "Opened Apr 2015 Veg@Table serves vegan meals with touch of Ayurveda. Pizza uses dairy cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "Fleischhauerstr. 80",
+  "postalCode": "23552",
+  "phone": "tel:1725159911",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-3:00pm, 5:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.866150,10.691235&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.866150,10.691235&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Heaven on Earth",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Fast food, Juice bar, Take-out, Filipino\n                                    ",
+  "description": "A family-operated restaurant located on 2nd floor of Abanao Square. Has vegetarian take-out, snacks, health products, and food supplements on the 2nd floor. A budget meal includes red rice and two choices. Gluten free, sugar free and dairy free choices are available. Food is vegan except for yogurt. Also sells some packaged vegan food like faux meat and drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Abanao Square Mall 2nd floor, Abanao St",
+  "postalCode": "2600",
+  "phone": "tel:9997939444",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.414028,120.593199&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.414028,120.593199&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

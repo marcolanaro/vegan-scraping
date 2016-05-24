@@ -1,0 +1,18 @@
+{
+  "title": "Aed Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Ingredients are labeled on menu. Seasonal courtyard outdoor seating.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rataskaevu 8, Harju",
+  "postalCode": "10123",
+  "phone": "tel:+372-6269088",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-10:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.437300,24.742990&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.437300,24.742990&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hummus House UK",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Salad bar, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Take away falafel wrap stall has a choice of vegan items such as chickpea falafel balls hummus, tahini, freshly chopped tomatoes, lettuce, cucumber, pickled gherkins, pickled parsnip. A small separate area is dedicated for their meat products, which do not contaminate the vegan area.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2 Market Way",
+  "postalCode": "CV11DY",
+  "phone": "tel:+44-7553533733/,%20+44-7962442552",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/HUMMUS-HOUSE-UK/115832231916441",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.407842,-1.513200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.407842,-1.513200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yi Ming Xuan Vegetarian ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "逸明軒素食坊 opened in 2015. Offers ready-made dishes as well a la carte.",
+  "priceRange": "Moderate",
+  "streetAddress": "26 Jalan Dato Yusof Shahbudin 28, Taman Sentosa",
+  "postalCode": "41200",
+  "phone": "tel:03-51673789",
+  "venueHours": "\n                                                                                                        Mon 10:00am-3:00pm, 5:00pm-9:00pm, Wed-Sun 10:00am-3:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/yimingxuanvegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.009565,101.464829&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.009565,101.464829&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

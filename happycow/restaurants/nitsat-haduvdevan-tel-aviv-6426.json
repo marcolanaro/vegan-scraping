@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nitsat HaDuvdevan",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Grocery market with an organic department as well imported vitamins and other nutritional supplies. Note that not all products are organic; there is a separate area in the store for organic products - consult the workers.",
+  "streetAddress": "Ibn Gavirol 58",
+  "phone": "tel:03-6965174",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.078837,34.781367&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.078837,34.781367&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

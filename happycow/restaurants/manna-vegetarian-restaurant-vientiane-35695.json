@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Manna Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Buffet, Take-out, Laotian\n                                    ",
+  "description": "June 2015 reported it's open - please send current location address to happycow!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Vientiane",
+  "phone": "tel:56-0309471751/,%20856-02055649296",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.964793,102.642517&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.964793,102.642517&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

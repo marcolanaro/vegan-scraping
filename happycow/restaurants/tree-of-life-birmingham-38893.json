@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tree of Life",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "Birmingham-based magazine and organization. Hosts workshops, events, and raw living food dinners - see website for calendar.",
+  "streetAddress": "Birmingham",
+  "postalCode": "B13 8DJ",
+  "phone": "tel:0121-4494086",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/treeoflifeuk",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.449544,-1.891234&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.449544,-1.891234&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

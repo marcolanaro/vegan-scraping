@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ee Teik Vegetarian",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Buddhist Chinese health food shop est. since 1987.",
+  "streetAddress": "24 Jalan Foo Choo Choon",
+  "postalCode": "30300",
+  "phone": "tel:05-2540896",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.596524,101.082605&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.596524,101.082605&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

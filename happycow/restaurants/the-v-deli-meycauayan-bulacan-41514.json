@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The V Deli",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Offers ready-to-eat and ready-to-cook Filipino-style vegetarian dishes, like veggie sisig, veggie relleno, and veggie kaldereta.",
+  "streetAddress": "159 Abacan St. Calvario",
+  "postalCode": "3020",
+  "phone": "tel:09178471956",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/thevdeli",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.749886,120.973929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.749886,120.973929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Indonesian\n                                    ",
+  "description": "Vegetarian Indonesian and Chinese food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl. Jelambar Baru Raya 79 B, Jelambar",
+  "postalCode": "11460",
+  "phone": "tel:+62-21-37777857",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-9:00pm, Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.155185,106.790361&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.155185,106.790361&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

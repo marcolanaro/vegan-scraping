@@ -1,0 +1,17 @@
+{
+  "title": "Casa Vegetariana",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Western, Buffet, Juice bar, Take-out, Catering, Romanian\n                                    ",
+  "description": "Self-service style vegan restaurant offering appetizers, salads, gaskets, soups & broths, baked goods, and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Strada Nircea cel Batran nr 49",
+  "phone": "tel:+40-0721000422",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.177968,28.654887&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.177968,28.654887&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

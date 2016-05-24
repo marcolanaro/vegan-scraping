@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Buccella Sandwich",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian style shop at 534-22 신사동. The vegetarian salad and sandwiches can be requested without cheese to make it vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Seoul",
+  "phone": "tel:+8225177339",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.520621,127.022595&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.520621,127.022595&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

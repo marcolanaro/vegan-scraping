@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mianto",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out, Bakery\n                                    ",
+  "description": "米愛多, at 台北市新生南路1段146巷7號1樓, offers vegan baked goods, light breakfast, and full western brunch, lunch, and dinner. Uses natural, non-GMO ingredients.",
+  "priceRange": "Expensive",
+  "streetAddress": "7, 1F, Ln 146, Sec. 1, Xinsheng South Road, Da’an District",
+  "phone": "tel:02-23219749",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.035481,121.531994&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.035481,121.531994&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

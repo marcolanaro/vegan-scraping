@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Puro",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Western\n                                    ",
+  "description": "Puro means \"pure vegan and raw food.\" Opened Jun 2014, this restaurant is affiliated with the Veganz grocery company. Serves raw food as well cooked vegan food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Vinohradská 2030/44",
+  "postalCode": "12000",
+  "phone": "tel:+420-731119388",
+  "venueHours": "\n                                                                                                        Mon 11:00am-7:00pm, Tue-Fri 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/puro.green",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.077020,14.440950&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.077020,14.440950&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MoMo Veg Cafe ",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out, Bakery, Catering, European\n                                    ",
+  "description": "Vegan take-out cafe with espresso bar. Serves gluten-free cakes and quiche, and wraps. Coffee comes directly from farmers, and you could choose soy or almond milk.",
+  "priceRange": "Moderate",
+  "streetAddress": "Trojicka 8",
+  "postalCode": "128 00",
+  "phone": "tel:603842142",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-6:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/momovegcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.070654,14.415600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.070654,14.415600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

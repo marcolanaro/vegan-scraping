@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zum Schwarzen Elefanten",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, European, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu has a few labeled vegan dishes and non-labeled vegan drinks. Opens til later but kitchen is not cooking.",
+  "priceRange": "Expensive",
+  "streetAddress": "Schulstrasse 13",
+  "postalCode": "3270",
+  "phone": "tel:+43-748243130",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-2:00pm, 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.005774,15.168049&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.005774,15.168049&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

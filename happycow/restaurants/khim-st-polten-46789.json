@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khim",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Beer/Wine, Take-out, Asian, Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Several vegetarian meals are also vegan suitable.",
+  "priceRange": "Moderate",
+  "streetAddress": "Schneckgasse 12",
+  "postalCode": "3100",
+  "phone": "tel:+43-274273139",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-2:00pm, 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.202305,15.624517&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.202305,15.624517&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

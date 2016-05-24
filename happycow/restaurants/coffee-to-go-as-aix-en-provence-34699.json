@@ -1,0 +1,15 @@
+{
+  "title": "Coffee to Go AS",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A coffee shop with soy milk on the menu.",
+  "streetAddress": "20 Rue Jacques de la Roque",
+  "postalCode": "13100",
+  "phone": "tel:0687796644",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.532266,5.446599&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.532266,5.446599&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

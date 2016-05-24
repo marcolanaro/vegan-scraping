@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Priroda i Drustvo",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Juice bar, Take-out, Bakery, Czech\n                                    ",
+  "description": "Small Juice and smoothie cafe. Most smoothies contain yogurt but can be made without. Also offers a daily menu of vegetarian dishes, soups, sandwiches, and baked goods.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Užarska 14",
+  "phone": "tel:051317022/,%200976240524",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/prirodaidrustvo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.326662,14.444840&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.326662,14.444840&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

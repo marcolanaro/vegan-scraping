@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kyoto Garden Restaurant Yachiyo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hotel restaurant. Offers one vegetarian dinner course. When calling vegans should specify.",
+  "priceRange": "Expensive",
+  "streetAddress": "34 Fukuchi Cho, Nanzenji",
+  "postalCode": "606-8435",
+  "phone": "tel:81-75-7714148",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/kaiseki.restaurant.Kyoto",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.011986,135.794394&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.011986,135.794394&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

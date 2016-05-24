@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loungers - Deco Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Nationwide chain cafe-bar offering a separate vegan menu - ask for it.",
+  "priceRange": "Moderate",
+  "streetAddress": "50 Cotham Hill, Cotham",
+  "postalCode": "BS6 6JX",
+  "phone": "tel:0117-3732688",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.463519,-2.607316&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.463519,-2.607316&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

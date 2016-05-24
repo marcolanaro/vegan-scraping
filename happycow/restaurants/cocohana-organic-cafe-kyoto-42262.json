@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cocohana Organic Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Organic, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic cafe in Tofukuji, outside the JR station on main road to Daihonzan Tofukuji temple. It's a food option for temple & garden day trippers. On the menu are vegan suitable items: a bibimbap with sticky rice. Has organic coffees & teas, toast plates, cake and parfait with green tea - possibly with dairy/egg. NOTE: May use fish in miso soup. Please confirm and inform HappyCow. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hon machi 13-243-1, Higayashiyama-Ku, Tofukuji",
+  "phone": "tel:075-525-5587",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.979468,135.770765&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.979468,135.770765&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

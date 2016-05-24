@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Health House",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "This shop stocks a good variety of products including nutritional supplements, vegan faux meats and vegan cheese, cleaning supplies, and pantry necessities.",
+  "streetAddress": "116 High St",
+  "postalCode": "ME4 4BY",
+  "phone": "tel:01634-409291",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.383455,0.522784&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.383455,0.522784&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

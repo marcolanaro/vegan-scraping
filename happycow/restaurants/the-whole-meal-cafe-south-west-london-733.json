@@ -1,0 +1,17 @@
+{
+  "title": "The Whole Meal Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine\n                                    ",
+  "description": "Small, quiet cafe seats 38. Offers lunch meals, daily specials, and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Shubbery Road, Streatham, London, UK",
+  "postalCode": "SW16 2AS",
+  "phone": "tel:020-87692423",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.430150,-0.128290&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.430150,-0.128290&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

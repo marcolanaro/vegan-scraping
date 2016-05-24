@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lien Hoa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai, Take-out, Vietnamese\n                                    ",
+  "description": "Affordable, clean, small, standard Vietnamese \"com chay\" veggie place, with better-than average food. Offers some vegetarian grocery products you can take home like veggie pho noodles. You see the dishes behind glass, so ordering is easy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "004 C/C Doan Van Bo, District 4, Ward 12",
+  "phone": "tel:38254495/,%208254495",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.756544,106.711120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.756544,106.711120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

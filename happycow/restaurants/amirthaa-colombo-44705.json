@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Amirthaa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Take-out, Sri Lankan\n                                    ",
+  "description": "Vegetarian restaurant serveing typical South Indian food such as dosas, idly, parota, thali, with vegan options. Uses ghee, so vegans please inquire. Directions: arrive Bambalapitiya station by train, you should go up by Station Rd, turn right on Galle Rd. Located close to a Tamil Hindu temple. One other location is near old Kadiresan Temple.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "256 A, Galle Road, Bambalapitiya",
+  "phone": "tel:0112590254",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.905883,79.851641&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.905883,79.851641&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Casalelaluna",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Beer/Wine\n                                    ",
+  "description": "A farm where one can eat vegetarian food and take a walk in the typically Sabina's country side.",
+  "priceRange": "Expensive",
+  "streetAddress": "loc. le piana (via Salaria, km 57/60km from Rome)",
+  "phone": "tel:+39-076585221",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.280380,12.846610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.280380,12.846610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

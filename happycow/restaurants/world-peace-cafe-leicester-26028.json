@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "World Peace Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Take-out, English\n                                    ",
+  "description": "Serves vegetarian, vegan, and gluten-free food. Coffee, specialty teas, homemade cakes (usually one vegan option for cakes) and healthy snacks. Cafe is attached to Bhuddist centre, and run by volunteers. Relaxed surroundings, nice wooden floor and decor.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Nagarjuna Buddhist Centre, 17 Guildhall Lane",
+  "postalCode": "LE1 5FQ",
+  "phone": "tel:0116-2620317",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.634796,-1.137803&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.634796,-1.137803&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Love Earth Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Japanese\n                                    ",
+  "description": "地球素食坊 serves sushi, rice, and noodle dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "A Jalan Desa 2/7, Desa Aman Puri",
+  "postalCode": "52100",
+  "phone": "tel:03-62744655",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:30am-9:00pm, Fri-Sun 9:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Love-Earth-Cafe-爱地球素食坊-135645133184450",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.209085,101.616633&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.209085,101.616633&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,13 @@
+{
+  "title": "La Vie Claire",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "1 boulevard Thiers",
+  "postalCode": "52000",
+  "phone": "tel:0325015208",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-12:00pm, 2:00pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.109457,5.143198&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.109457,5.143198&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

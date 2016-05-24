@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hsia An Chu Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Organic, Taiwanese\n                                    ",
+  "description": "夏安居 offers a multi course set menu as well as la carte menu. Uses organic vegetables and brown rice. Peaceful and relaxed setting.",
+  "priceRange": "Expensive",
+  "streetAddress": "147, Sec. 1, Zhongxing Rd",
+  "postalCode": "950",
+  "phone": "tel:08-9222646",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:30am-2:00pm, 5:30pm-9:00pm, Thu-Sun 11:30am-2:00pm, 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.767919,121.144340&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.767919,121.144340&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

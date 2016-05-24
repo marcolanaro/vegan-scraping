@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lu Su Jie - Vonny's Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Taiwanese\n                                    ",
+  "description": "綠素界 (green veg world). Menu is in Chinese only. Has curry, sandwiches, spaghetti, mock meats, and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "95, Sec. 2, Linsen Rd",
+  "phone": "tel:06-2349616",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.989421,120.223596&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.989421,120.223596&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

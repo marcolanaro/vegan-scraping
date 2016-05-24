@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sequoia Bio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Chain of health stores. Stocks fresh fruits and vegetables as well as many vegan foodstuff including cheese.",
+  "streetAddress": "Chaussée de Bruxelles, 63",
+  "phone": "tel:23570090",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/SequoiaBio",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.725389,4.399155&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.725389,4.399155&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

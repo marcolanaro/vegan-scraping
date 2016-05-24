@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cocolatto Dairy-Free Ice Cream",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Makes vegan ice cream for delivery.",
+  "streetAddress": "Makati ",
+  "phone": "tel:5055428",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cocolattoph",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.565030,121.019467&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.565030,121.019467&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Healthy Ikeda",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic health shop at 〒563-0021大阪府池田市畑1-6-28南マンション1F. Sells various soy meat imitations, some vegan some vegetarian (egg white). Many other vegan items including chocolate, cookies, donuts, bread, crackers, curry, mayonaise, margarine, and bouillon. Organic brown rice and vegetables. Online shop as well with ingredients listed for all products.",
+  "streetAddress": "Hata 1-6-28 Minami Mansion ground floor",
+  "postalCode": "563-0021",
+  "phone": "tel:072-7533245",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.823594,135.447378&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.823594,135.447378&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

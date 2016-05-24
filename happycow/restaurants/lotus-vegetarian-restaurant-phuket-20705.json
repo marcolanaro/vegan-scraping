@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lotus Vegetarian Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai\n                                    ",
+  "description": "Small restaurant at corner of Ratchaphruek and Hongyok Utis alley, 250m up the hill (in a south direction). Nice indoor sitting area. No onion or garlic. Previously located on Samakkhi Rd, Sep 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2 Soi Ratchapruk, Samkong",
+  "phone": "tel:076-211985",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.901349,98.377511&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.901349,98.377511&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

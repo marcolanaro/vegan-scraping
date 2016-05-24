@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "SaladStop - Capital Tower",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Quick service salad bar chain restaurant offering create-your-own salads. Choose from 30+ toppings which include alfalfa, brown rice, beans, tofu, nuts, and more. Ask the staff to use a fresh chopping board.",
+  "priceRange": "Moderate",
+  "streetAddress": "168 Robinson Road, 01-05, Capital Tower",
+  "postalCode": "068912",
+  "phone": "tel:68207668",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-8:30pm, Sat 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SaladStop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.277570,103.847334&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.277570,103.847334&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

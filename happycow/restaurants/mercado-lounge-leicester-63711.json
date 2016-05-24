@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mercado Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Mediterranean, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Reported has vegan menu with breakfast, sandwiches, salads, soup, tapas and dessert. Ask.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Edinburgh House, Abbey St, Market Harborough",
+  "postalCode": "LE16 9AA",
+  "phone": "tel:01858414811",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:00am-11:00pm, Thu-Fri 8:00am-12:00am, Sat 9:00am-12:00am, Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Mercado-Lounge-193939817448589/timeline/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.479060,-0.923661&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.479060,-0.923661&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

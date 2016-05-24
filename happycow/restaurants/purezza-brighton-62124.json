@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Purezza",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Italian, Western, Fast food, Beer/Wine, Take-out, Bakery\n                                    ",
+  "description": "Opened Nov 2015, a vegan pizzeria and cafe where most items are also gluten-free. On the menu are stonebaked pizzas plus organic and fairtrade coffee, salads, sandwiches, in-house made croissants and coconut yoghurt topped with fresh fruit.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12 St James St",
+  "postalCode": "BN2 1RE",
+  "phone": "tel:01273-945055",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/purezzauk",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.821065,-0.135114&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.821065,-0.135114&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

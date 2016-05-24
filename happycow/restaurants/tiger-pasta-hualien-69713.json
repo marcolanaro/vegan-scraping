@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tiger Pasta",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. 太革義廚 is a pasta restaurant that opened in Hualien summer 2015. The menu marks 4 or 5 vegan and a few more vegetarian choices, such as spaghetti with vegetables, mushroom, and basil sauce. In English vegan items are marked as \"vegetarian\" (全素), and vegetarian options are marked \"ovo-lacto vegetarian\" (素食). Order and pay for your meal at a machine near the entrance. There is self-service hot black coffee, hot and cold black tea, and cold water that is free.",
+  "priceRange": "Moderate",
+  "streetAddress": "73, Jianguo Rd",
+  "postalCode": "970",
+  "phone": "tel:0966333232",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/tigerpastataiwan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.983359,121.603569&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.983359,121.603569&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

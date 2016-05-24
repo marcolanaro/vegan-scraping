@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pesticide Free Farmers Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Pesticide-free farmers market held twice a week at 2 locations. On Wednesday it is on Chiang Rai Road just off Nimmanhaemin road by the university fields. On Saturdays it's at the Mae Hia Agricultural Research Station outside of town - a free shuttle leaves from the gates every 30-60 minutes at Chiang Rai Road. Sells lettuce, spinach and other pesticide-free fruits and vegetables at reasonable prices. Also sells fresh orange juice. Map marker is for Wed location. Please see photo for map of Sat location.",
+  "streetAddress": "2 Chiang Rai Road",
+  "postalCode": "50200",
+  "phone": "tel:+66-53944624",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 7:00am-12:00pm, Sat 7:00am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/PFVmarker",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.791571,98.959618&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.791571,98.959618&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

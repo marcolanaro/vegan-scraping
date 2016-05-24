@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eden Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Opened Oct 2015 in the same building complex as Manik Salon and Your Time Spa. Offers healthful meals with labeled vegan and gluten-free options, plus smoothies, coffee, and chocolate drinks. Kefir yogurt and kefir soda are made in-house.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl. Batu Bolong 8, Kuta Utara, Canggu",
+  "postalCode": "80361",
+  "phone": "tel:83114306553",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/edencafebali",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.646415,115.140794&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.646415,115.140794&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

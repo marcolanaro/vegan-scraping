@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Indian Chimney",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Re-opened after move from Moo 9, Beach Road, it's now on the west side of 2nd Road, mid-way between Soi 4 and Soi 5, across the street from Alcazar parking lot (Dec 2014). The daily lunch and dinner buffet is vegetarian aside from one chicken. The kitchen will custom make vegan or raw food upon request, like a raw spicy chutney or a fresh mango juice without sugar or milk. ",
+  "priceRange": "Moderate",
+  "streetAddress": "212 M.9, Pattaya Second Road, Nongprue, Banglamung",
+  "postalCode": "20260",
+  "phone": "tel:038488477",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.944203,100.888271&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.944203,100.888271&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

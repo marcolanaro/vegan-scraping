@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Restoran Jin Pu Ti - maybe closed",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "Restaurant serves typical local vegan food. Rice and noodle dishes. NOTE: maybe closed/shut down, please verify and let HappyCow know.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Pekan Lama",
+  "postalCode": "08000",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.637724,100.494508&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.637724,100.494508&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

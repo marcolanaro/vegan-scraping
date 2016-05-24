@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Noodle Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "素食面档 weekday veggie food stall.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "G-7, Kompleks Makanan, Taman Bayu Mutiara",
+  "postalCode": "14000",
+  "phone": "tel:019-4505511",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.345763,100.438954&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.345763,100.438954&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

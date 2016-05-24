@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fresh Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Delivery, Take-out, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Multiple locations western-style cafe. Menu denotes the vegetarian and vegan dishes as well calorie count; purports to offer health-conscious, fresh food. Variety of hot dishes and salads plus made-to-order shakes, organic coffee, juices.",
+  "priceRange": "Moderate",
+  "streetAddress": "4 David Remez",
+  "phone": "tel:02-5611182",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-11:00pm, Sat-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/Fresh.kitchen.tlv",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.768927,35.224411&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.768927,35.224411&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

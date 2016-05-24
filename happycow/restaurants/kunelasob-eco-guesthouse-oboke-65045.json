@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kunelasob Eco-Guesthouse",
+  "tags": [
+    "Veg Hotel/BnB",
+    "Vegan"
+  ],
+  "description": "Vegan guesthouse in an old farmhouse in the Iya valley. A daily onsen (Japanese bathhouse) visit, pick up and drop off service are included in your staying price. Serves macrobiotic vegan meals to its guests.",
+  "streetAddress": "442 Enoki, Myoshi-city Tokushima ",
+  "phone": "tel:81-8062823613",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/kunelasob/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.799776,136.889427&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.799776,136.889427&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

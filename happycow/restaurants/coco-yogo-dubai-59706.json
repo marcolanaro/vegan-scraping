@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Coco Yogo",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Manufacturer of dairy-free vegan yogurt, cheesecake, ice cream, stone ground coconut butter. Licensed by Dubai Municipality. Delivers and also sells at select stores. From Oct to May it's at Foodie Market at Times Square. From May-Oct it's at Ripe Farmers Market in Zabeel Park - check web details.",
+  "streetAddress": "Shop 7, Ground Floor, Mayfair Building",
+  "phone": "tel:0508582013",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/CoCoYoGo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.204849,55.270783&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.204849,55.270783&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

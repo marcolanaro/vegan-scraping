@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dewi Shri",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small restaurant, has vegetarian meals. In the main street of Tanjung Benoa (Nusa Dua), parallel to the shore, with many hotels. Open all day.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Pratama 108, Tanjung Benoa",
+  "phone": "tel:62361-775490",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.767380,115.220040&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.767380,115.220040&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

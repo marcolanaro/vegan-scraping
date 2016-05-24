@@ -1,0 +1,18 @@
+{
+  "title": "Le Phenicien",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Take-out, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A simple Lebanese food restaurant with the veggie options including falafel, hummus, tabbouleh, moutabbal, salads, chickpeas, and beans. Owner is willing to accommodate requests.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rue Alexandre Parodi 17",
+  "postalCode": "75010",
+  "phone": "tel:0158200173",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.880041,2.364639&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.880041,2.364639&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

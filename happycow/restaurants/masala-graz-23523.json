@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Masala",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Buffet, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarian buffet in which nearly all items are vegan and clearly marked, including the naan bread. It's an all-you-can-eat and as-much-as-you-want-to-pay. Friendly owners who are very interested in the vegan and ayurvedic kitchen.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Grazbachgasse 35",
+  "postalCode": "8010",
+  "phone": "tel:43316695459",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.065403,15.443766&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.065403,15.443766&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

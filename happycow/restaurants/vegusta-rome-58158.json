@@ -1,0 +1,18 @@
+{
+  "title": "veGusta",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out\n                                    ",
+  "description": "Offers handmade vegan street food: burgers and fries, desserts. Since Apr 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "via Delle Palme 31",
+  "phone": "tel:%203202657259",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:00pm-11:00pm, Wed-Sun 7:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Vegustastreetfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.889128,12.563433&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.889128,12.563433&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sakae Sushi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain sushi and Japanese food restaurant with multiple locations in Penang - see its webpage for other outlets. Offers some vegetable dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "4-16, Level 4, 1st Avenue Mall, no. 182, Jalan Magazine",
+  "postalCode": "10300",
+  "phone": "tel:04-2612218",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sakaesushi",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.413246,100.331326&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.413246,100.331326&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

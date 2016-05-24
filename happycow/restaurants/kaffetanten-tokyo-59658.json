@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kaffetanten",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Japanese, Organic, Western, Swedish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An adorable cafe run by a kind and warmhearted Japanese woman, who speaks English and Swedish as well. Offers vegan dishes and will happily make all other food vegan upon request. Uses farm fresh produce grown either in front of the store or by friends/family, so menu changes seasonally. All food is made-in-house.  Usually serves a mix of Swedish pastries, pasta, salads, and other Swedish dishes. Coffee with free refills. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-15-4 Nishi Waseda",
+  "postalCode": "169-0051",
+  "phone": "tel:03-62055811",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Closes at 6pm. Please check with them for all hours and days open.\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/kaffetantentokyo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.710045,139.712619&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.710045,139.712619&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

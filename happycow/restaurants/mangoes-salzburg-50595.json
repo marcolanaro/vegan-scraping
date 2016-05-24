@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "mangoes",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Indian, International, Organic, Thai, Fast food, Salad bar, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves salads, stews, wraps and sandwiches with a large selection of vegan choices. A daily lunch special is sometimes vegan. All food is made-in-house.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Schrannengasse 14",
+  "postalCode": "5020",
+  "phone": "tel:0662-876580",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/mangoes.sbg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.806300,13.047512&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.806300,13.047512&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

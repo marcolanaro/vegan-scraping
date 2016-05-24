@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Lifestyle",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Buffet, Take-out\n                                    ",
+  "description": "Chinese vegetarian food. Name is 新蔬食餐厅.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "24, Jalan Gaya 1, Taman Gaya",
+  "postalCode": "81800",
+  "phone": "tel:0167765251/,%200167785251",
+  "venueHours": "\n                                                                                                        Mon-Tue 9:30am-9:00pm, Thu-Sun 9:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.565639,103.801722&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.565639,103.801722&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,11 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shojin-Kaiseki-Sogen",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Offers private dining by appointment only. In a residential neighborhood a 20 minute walk from downtown and may be a little hard to find, at 東京都八王子市小門町20-2.",
+  "streetAddress": "20-2 Komon-cho, Hachioji-city",
+  "phone": "tel:04-26273050",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.659710,139.325220&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.659710,139.325220&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

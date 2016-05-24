@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shika-Jaya",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Japanese restaurant specializing in tofu and yamaimo dishes. The vegan set is okabe-zen. Please note that the so-un tofu dish contains egg, but it can be made vegan upon request. Staff speaks only Japanese.",
+  "priceRange": "Moderate",
+  "streetAddress": "640 Yumoto, Hakone-machi, Kanagawa-ken",
+  "postalCode": "250-0311",
+  "phone": "tel:81-0460-85-5751",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-2:30pm, 4:30pm-7:00pm, Fri-Sun 11:00am-2:30pm, 4:30pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.231247,139.100027&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.231247,139.100027&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

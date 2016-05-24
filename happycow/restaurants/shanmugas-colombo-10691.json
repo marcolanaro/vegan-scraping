@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shanmugas",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Delivery, Take-out, Sri Lankan\n                                    ",
+  "description": "Vegetarian food restaurant founded in 1998. Offers South Indian and North Indian cuisine. Lunch buffet. Nice decor with banquet halls.",
+  "priceRange": "Expensive",
+  "streetAddress": "Ramakrishna Road, Wellawatta",
+  "phone": "tel:11-2587629",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-10:00pm, Sat-Sun 7:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/shanmugas.restaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.865682,79.861453&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.865682,79.861453&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

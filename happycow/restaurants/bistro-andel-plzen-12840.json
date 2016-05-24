@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bistro Andel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, European, Czech, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Previously all-veg but after renovations in the fall of 2012 and re-opening on Nov 1, this place converted to a bistro and added meat dishes. Vegans to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bezručova 5 a 7",
+  "phone": "tel:777102680",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.745540,13.377440&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.745540,13.377440&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

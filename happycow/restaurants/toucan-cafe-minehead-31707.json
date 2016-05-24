@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Toucan Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Juice bar, Take-out, Bakery, English\n                                    ",
+  "description": "Vegetarian cafe that's part of the health food store. Offers lunch food, snacks, and changing specials; organic and fair trade coffee and tea; cakes, fruit smoothies and fresh squeezed juices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3, The Parade, Minehead",
+  "postalCode": "TA245NL",
+  "phone": "tel:01643706101",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/toucanwholefoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.205825,-3.478627&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.205825,-3.478627&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

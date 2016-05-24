@@ -1,0 +1,13 @@
+{
+  "title": "Biobazar",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "100% Organic and vegetarian store. Offers vegan food, cosmetic, and books. Established since 1998.",
+  "streetAddress": "via Ragen di Sopra 18/a",
+  "postalCode": "39031",
+  "phone": "tel:0474-530520",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-12:30pm, 3:30pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.794957,11.941025&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.794957,11.941025&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

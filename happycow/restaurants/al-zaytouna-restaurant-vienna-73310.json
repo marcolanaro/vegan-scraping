@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Al Zaytouna Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. الزيتونة, a Lebanese restaurant, offers a large selection of vegan dishes including appetizers such as hummus and baba ghanoush, soup, salad and main courses. Has a separate vegan section with all dishes clearly labeled with a V+.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hornesgasse 17",
+  "postalCode": "1030",
+  "phone": "tel:+43-017103447",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-11:00pm, Sat 11:00am-12:00am, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/alzaytouna.restaurant ",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.203808,16.395988&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.203808,16.395988&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

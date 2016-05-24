@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "NESX Vegans",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "Social group for vegans and vegetarians in North-East, formed 2006. It is listed by the Vegan Society and affiliated with the Vegetarian Society, and holds group membership of the Vegan Organic Network. Contact: nesxvegans@hotmail.co.uk",
+  "streetAddress": "North-East Essex",
+  "postalCode": "SK6 2DF",
+  "phone": "tel:n/a",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.889804,0.901235&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.889804,0.901235&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

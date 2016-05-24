@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soul Food Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Organic, Western, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Formerly Siddharta Cafe and veg but added tuna fish to its menu; otherwise food is vegan and vegetarian (egg). In Thongsala south of the pier 100 meters along the beach road, this cafe is built from recycled wood. Serves coffee, juices, salads, hummus in sandwich, cakes, tarts, and cold soups. Some items may be taken to go. Uses honey. Sells some food products as well. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "79/1 Moo 1, Thongsala",
+  "phone": "tel:0801482511",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-4:00pm, Sat 8:00am-3:00pm, 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.709700,99.986782&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.709700,99.986782&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

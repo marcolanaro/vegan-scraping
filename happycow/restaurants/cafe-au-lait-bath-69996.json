@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe au Lait",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Juice bar, Beer/Wine, Take-out, Bakery, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A family run coffeehouse situated opposite the train station serving home-style cooked food. Around 1/2 of the menu is vegetarian. Try the vegan burger.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12 Dorchester St",
+  "postalCode": "BA1 1SS",
+  "phone": "tel:01225571808",
+  "venueHours": "\n                                                                                                        Mon 7:30am-6:00pm, Tue-Wed 7:30am-10:00pm, Thu-Fri 7:30am-11:00pm, Sat 8:30am-11:00pm, Sun 8:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Cafe-au-Lait-Coffee-House-Bar-Kitchen-100127726711788",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.377931,-2.357247&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.377931,-2.357247&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

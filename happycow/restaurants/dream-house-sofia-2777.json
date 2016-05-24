@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dream House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Beer/Wine, Asian, Bulgarian\n                                    ",
+  "description": "Bulgarian and English both spoken and on the menu. Menu is mostly vegan with main course items labeled. Also has tea, soy and rice milk. Large dining room with view overlooking the street. Directions: Look for sign in yellow & green, take the corridor into the shopping centre, then take the white door to the left which is the entrance of a hostel, walk up a flight of stairs and you will find the entrance door there.",
+  "priceRange": "Moderate",
+  "streetAddress": "50A Alabin St",
+  "postalCode": "1000",
+  "phone": "tel:+359-29808163",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.694864,23.321389&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.694864,23.321389&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

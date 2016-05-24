@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fato",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Bakery\n                                    ",
+  "description": "A small vegetarian café located 10 minutes from Nakamurabashi station on the Seibu Ikebukuro line. Offers 3 types of lunch menus (usually vegan) plus bagels, muffins, scones. Many of the baked goods and sweets are vegan, but eggs and milk sometimes are used - check with staff. Last order 5:30pm. Address 東京都練馬区中村北2-26-6.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nerima-ku, Nakamurakita 2-26-6",
+  "phone": "tel:0359365512",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 10:00am-6:00pm, Thu-Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/fatocafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.734720,139.641470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.734720,139.641470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

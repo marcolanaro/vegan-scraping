@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Wind",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small cafe offering limited menu which sometimes sells out. If you ask the owner for vegan or vegetarian food, and she will bring you something.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-24-2, Oji-Honcho, Kita-ku",
+  "phone": "tel:090-55485869",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.689487,139.691706&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.689487,139.691706&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

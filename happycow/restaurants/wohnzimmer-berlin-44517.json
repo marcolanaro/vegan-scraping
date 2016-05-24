@@ -1,0 +1,17 @@
+{
+  "title": "Wohnzimmer",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Beer/Wine\n                                    ",
+  "description": "A cafe/bar/club serves primarily vegetarian food with some vegan options. Offers breakfast, cake, salad, soup. Has an inside smoking section.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lettestrasse 6",
+  "postalCode": "10437",
+  "phone": "tel:0049304455458",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-4:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.543533,13.419087&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.543533,13.419087&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

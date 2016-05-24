@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lee Jae Veg Food Stall",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Fast food, Take-out\n                                    ",
+  "description": "麗姐素菜館 is a veggie food stall in Samphantawongse (China Town), next to Check Inn Chinatown hotel. Look for the red & yellow \"jay\" flags (vegetarian). Everything on the menu (with pictures) is supposed to be vegan, made with tofu, noodle, and rice. Not sure if the mock meats are vegan or not.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "204-208 Soi Yaowarat 8, Charoen Krung Rd Soi 14, Khet Samphantawongse",
+  "postalCode": "10110",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.742453,100.508054&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.742453,100.508054&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

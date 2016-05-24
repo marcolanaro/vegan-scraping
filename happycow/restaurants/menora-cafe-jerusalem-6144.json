@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Menora Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, International, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Serves mostly vegetarian foods aside from fish. An elegant dining place. English spoken.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hayehudim St 37",
+  "phone": "tel:02-6289944",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.775814,35.231101&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.775814,35.231101&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

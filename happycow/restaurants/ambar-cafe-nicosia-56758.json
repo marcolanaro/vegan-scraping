@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ambar Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Organic, Salad bar, Delivery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe offers vegan choices; please ask. Also an organic shop on premises. Full name of business is Ambar Cafe and Organic Shop. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Arasta Sokak, No 38",
+  "phone": "tel:+90392-2283611",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ambarcafeorganicshop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.175891,33.362471&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.175891,33.362471&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

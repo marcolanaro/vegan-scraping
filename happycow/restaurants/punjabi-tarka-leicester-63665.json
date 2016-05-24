@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Punjabi Tarka",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Western, Delivery, Take-out, Indo-Chinese\n                                    ",
+  "description": "Indian vegetarian restaurant. Delivery on orders over £20. Serving a wide range of pizza, curry, thali, Indo-Chinese and western dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "52 Belgrave Rd",
+  "postalCode": "LE4 5AS",
+  "phone": "tel:01162627000",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-9:30pm, Fri-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/punjabitarkaleicester",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.646927,-1.125090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.646927,-1.125090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

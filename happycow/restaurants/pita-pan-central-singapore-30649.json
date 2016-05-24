@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pita Pan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Mediterranean, Fast food, Salad bar, Juice bar, Beer/Wine, Take-out, Middle Eastern\n                                    ",
+  "description": "Vegetarian restaurant located at the Marina Bay Sands Mall, Level 1. Offers in-house-made pita, falafel, and Middle Eastern salads. Counter service.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bay Front Avenue Unit 1-87, Marina Bay",
+  "postalCode": "01897",
+  "phone": "tel:66887450",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pitapansg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.283189,103.859878&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.283189,103.859878&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

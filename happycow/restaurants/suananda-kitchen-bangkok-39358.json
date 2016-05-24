@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Suananda Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International, Juice bar, Ayurvedic\n                                    ",
+  "description": "Little garden cafe at the back of Suananda Wellness center, tucked in an alley steps from the Myanmar embassy. Serves traditional Indian as well an a la carte menu of international food. Cooking is based on the Ayurvedic principle. Beverages include Ayurvedic tea, fresh juices, saffron & almond milkshake. Staff speak English. Opened since Mar 2013.",
+  "priceRange": "Moderate",
+  "streetAddress": "109/9 Thanon Pan, Silom",
+  "postalCode": "10500",
+  "phone": "tel:022381733",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SuanandaKitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.723450,100.523671&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.723450,100.523671&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Miracle Green House",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Italian, Western, Taiwanese\n                                    ",
+  "description": "Serves a range of primarily western-influenced food from soup and pizza to pasta and dessert. Uses non-gmo and organic farm produce. Nicely furnished, making for a pleasant dining experience. No Wi-Fi. Has English menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "30, Wuling Road",
+  "phone": "tel:03-5322727",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.816111,120.963219&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.816111,120.963219&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

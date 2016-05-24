@@ -1,0 +1,17 @@
+{
+  "title": "Gugar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Juice bar, Beer/Wine, European\n                                    ",
+  "description": "Small cafe with hippie-vibe. Serves smoothies, dips, and sandwiches.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "89 Republic St",
+  "phone": "tel:27032837",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 5:00pm-1:00am, Wed-Fri 10:00am-1:00am, Sat 3:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/gugarmalta/timeline?ref=page_internal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.900109,14.515544&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.900109,14.515544&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

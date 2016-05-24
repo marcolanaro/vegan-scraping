@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cappello Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Fast food, Beer/Wine, British, English, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Operated by the Loungers restaurant group. A large, informal cafe serving food and drink. Has a separate vegan menu listing snacks, mains, and desserts. Soya milk available. Child friendly, with games provided.",
+  "priceRange": "Moderate",
+  "streetAddress": "57-58 Ironmarket",
+  "postalCode": "ST5 1PE",
+  "phone": "tel:01782638356",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-11:00pm, Fri-Sat 9:00am-12:00am, Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Cappello-Lounge-183852001951838",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.011488,-2.226914&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.011488,-2.226914&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

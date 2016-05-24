@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "R and J Cozy Corner",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Indian, International, Japanese, Western\n                                    ",
+  "description": "Air-conditioned vegetarian restaurant 3 block from Boon Keng MRT, formerly known as Zi Zai Vegetarian. Set meal or individual dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Blk 23 Bendemeer Rd No.01-523",
+  "postalCode": "330023",
+  "phone": "tel:62939579",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.317600,103.863170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.317600,103.863170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Teva Castel - Carlebach",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store offering many vegan products, some organic produce, plus vitamins and supplements.",
+  "streetAddress": "27 Carlebach St",
+  "phone": "tel:03-6135599",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-10:30pm, Sun 8:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.068928,34.782897&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.068928,34.782897&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Veg Box Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Take-out, British, English\n                                    ",
+  "description": "Inside Canterbury Wholefoods store on the 2nd floor. Serving lunch, afternoon tea, and snacks. Uses seasonal, local organic vegetables. Child friendly, relaxed atmosphere. Free Wi-Fi. Previously located at 1-2 Jewry Ln, Jan 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "17A Burgate",
+  "postalCode": "CT1 2HG",
+  "phone": "tel:01227-456654",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-5:00pm, Sun 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/THE-VEG-BOX-CAFE/161243004865",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.278668,1.083022&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.278668,1.083022&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Maguire's Pizza Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Italian, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizza cafe and bar offering a gluten-free pizza and has vegan cheese, including the veg-undairy pizza. Pizza is made to order right in front of you and can be ordered either per slice or per pizza. The bar also sells vegan cupcakes, and some sides including cheesy garlic bread can be made vegan. Shows wrestling re-runs and is also a gig venue.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "77 Renshaw St",
+  "postalCode": "L1 2SJ",
+  "phone": "tel:07535090636",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 4:00pm-10:00pm, Wed-Thu 4:00pm-10:00pm, Fri-Sat 4:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/MaguiresPizzaBar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.402891,-2.976066&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.402891,-2.976066&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

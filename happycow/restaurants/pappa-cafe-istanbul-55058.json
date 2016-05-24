@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pappa Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Bakery, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This centrally coffee cafe uses \"Veggy\" branded vegan products and has soymilk for coffee. Reported separate cookware used for preparing the veg food. Said to have resemblance of Parisian or Rome cafe because of its cozy atmosphere in a 100+ year old building built by architect Pappa Constantine.",
+  "priceRange": "Moderate",
+  "streetAddress": "Caferağa Mah. Ruşenağa sok. no. 18 Moda Kadıköy",
+  "phone": "tel:+90-2163388050",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-8:00pm, Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pappacafemoda",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.984287,29.026040&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.984287,29.026040&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

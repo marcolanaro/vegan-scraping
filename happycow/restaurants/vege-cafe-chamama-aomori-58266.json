@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Cafe Chamama",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Beer/Wine\n                                    ",
+  "description": "Vegetarian cafe providing lunch and dinner. Also makes bento to-order.",
+  "priceRange": "Moderate",
+  "streetAddress": "12-29 Midori 1 chome",
+  "postalCode": "030-0845",
+  "phone": "tel:017-7325206",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-4:00pm, Fri-Sat 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/VegecafeChamama",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.807462,140.744482&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.807462,140.744482&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

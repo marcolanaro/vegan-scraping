@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Inder's Kitchen",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Not all veg, but offers an Indian vegetarian menu for both starters and main. Each dish specifies whether it contains dairy, nuts, and/or gluten.",
+  "streetAddress": "43 Clifton Road",
+  "postalCode": "CB1 7ED",
+  "phone": "tel:01223-211333",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/inderskitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.193021,0.139304&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.193021,0.139304&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

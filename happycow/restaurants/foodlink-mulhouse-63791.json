@@ -1,0 +1,18 @@
+{
+  "title": "FoodLink - Food Truck",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Fast food, French, Take-out only\n                                    ",
+  "description": "Vegan food truck - see its facebook for updated locations & times.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "local area",
+  "postalCode": "68100",
+  "phone": "tel:0625811213",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/FoodLinK68",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.741350,7.345686&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.741350,7.345686&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

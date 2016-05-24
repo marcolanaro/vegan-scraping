@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thali NR Sweets Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "Opened in June 2012, this Indian sweets and food cafe specializes in thali plates. Also offers a few Malay and Chinese dishes. All a la carte menu items can be prepared without onion and garlic upon request.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "75 Penang Street, Georgetown",
+  "postalCode": "10200",
+  "phone": "tel:60124620987",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/NR-SWEETS/163488630377516",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.417044,100.340195&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.417044,100.340195&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

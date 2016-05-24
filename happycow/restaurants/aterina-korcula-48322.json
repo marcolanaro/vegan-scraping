@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aterina",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Croatian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu is based on local food, mostly vegetables and fish. Several vegetarian and gluten free dishes, with possibility to make special order for vegan variation of other dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Trg Korculanskih Klesara i Kipara 2",
+  "postalCode": "20260",
+  "phone": "tel:0917995549",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-3:00pm, 6:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.961264,17.135149&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.961264,17.135149&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

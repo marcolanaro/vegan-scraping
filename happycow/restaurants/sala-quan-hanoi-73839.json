@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sala Quan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Vietnamese\n                                    ",
+  "description": "Vegetarian food restaurant est. 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "170 Ngoc Ha, Ba Dinh District",
+  "phone": "tel:437228857",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/comchaysalaquan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.027764,105.834160&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.027764,105.834160&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shimokitazawa Chabuzen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu clearly labels vegan dishes and the owner has a good idea what vegan means. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Daida 6cho-me,16-20, Setagaya-ku",
+  "phone": "tel:080-6603-8587",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/chabuzens",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.666850,139.663356&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.666850,139.663356&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

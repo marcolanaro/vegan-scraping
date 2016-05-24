@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ocean Arca",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Malaysian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. 海昇海鲜楼 is a seafood restaurant but does offer some vegetarian food reportedly cooked using separate cooking utensils.",
+  "priceRange": "Expensive",
+  "streetAddress": "TB 4366, Fajar Complex, Jalan Haji Karim",
+  "postalCode": "91000",
+  "phone": "tel:012-8181850/,%20089-757917",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-2:00pm, 6:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.246270,117.890198&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.246270,117.890198&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

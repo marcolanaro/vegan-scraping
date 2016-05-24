@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Food Center",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Take-out\n                                    ",
+  "description": "Small but clean hole-in-the-wall eatery. Menu is posted on the wall and incluedes around 20 dishes which are cooked to order. JAN 2014 reported not found... please send correct geocode coordinates.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Talat Luang Alley",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.721108,100.515066&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.721108,100.515066&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

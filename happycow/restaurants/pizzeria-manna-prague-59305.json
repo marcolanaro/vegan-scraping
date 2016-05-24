@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pizzeria Manna",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Quaint place with a neighborhood feel making pizza and Italian food. Has a white pizza with vegetable toppings (vegan). Ask about vegan cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Urxova 5, Praha 8",
+  "phone": "tel:222329044",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:30am-11:30pm, Sat-Sun 11:30am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.094459,14.457457&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.094459,14.457457&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

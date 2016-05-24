@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shanklin Health Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A family run independent health store on the Isle of Wight, established for over 25 years. Stockists of a wide range of foods for those with restricted diets including vegan, vegetarian, wheat free, gluten free, sugar free, and dairy free products. Also chilled and frozen foods, dried nuts and fruits, an extensive range of teas and herbs, and locally made products. Plus vitamin and mineral supplement, homeopathic and aromatherapy, sports nutrition, body care, hair care, and household products.",
+  "streetAddress": "25 High Street, Shanklin",
+  "postalCode": "PO37 6JW",
+  "phone": "tel:01983-863063",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.628724,-1.179509&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.628724,-1.179509&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Delhi Sweets",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Delivery, Take-out\n                                    ",
+  "description": "Indian food, sweets and snacks. Has Wi-Fi. Directions: Enter from the Mahesak side of Puttha Osot and not from the New Road section as the new highway blocks you.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "191/34 Soi Puttha Osot",
+  "postalCode": "10500",
+  "phone": "tel:02-2341105",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.727978,100.521093&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.727978,100.521093&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

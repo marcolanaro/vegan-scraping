@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Little India Healthy Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Take-out\n                                    ",
+  "description": "Indian vegetarian restaurant within Teachers Village. No onion or garlic. Separate menu for vegans.",
+  "priceRange": "Moderate",
+  "streetAddress": "24-F Malingap St, Teacher's Village, Diliman, Quezon City",
+  "postalCode": "1101",
+  "phone": "tel:024348370",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/LittleIndiaResto",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.642405,121.056830&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.642405,121.056830&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

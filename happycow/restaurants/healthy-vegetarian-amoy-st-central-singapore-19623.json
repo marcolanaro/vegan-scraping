@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Healthy Vegetarian - Amoy St",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "Vegetarian food stall. Get there from Tanjong Pagar MRT station (Telok Ayer St exit). Offer tze char dishes like fried kway teow, hor fun, mee goreng. In addition to economy rice with 3 vegetables option. Day's special might have almond noodle, bak kut teh, and nasi brayani. No onion, garlic, leek, or shallot.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Amoy St Food Centre, Stall 44, 1F",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.279224,103.846633&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.279224,103.846633&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

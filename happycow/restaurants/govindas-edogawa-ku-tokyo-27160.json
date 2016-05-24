@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Govinda's - Edogawa-ku",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian\n                                    ",
+  "description": "Associated with the Hare Rama Hare Krishna temple, offers vegetarian food with no onion or garlic and plenty of vegan options. Also offers no caffeine or alcoholic drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-23-4 Funabori, Edogawa-ku",
+  "phone": "tel:81-3-6808-2157",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-3:00pm, 5:00pm-9:00pm, Sat-Sun 10:30am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.683651,139.862383&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.683651,139.862383&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

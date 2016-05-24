@@ -1,0 +1,19 @@
+{
+  "title": "Sapore Vegano",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Macrobiotic, Beer/Wine, Take-out\n                                    ",
+  "description": "Opened in 2014 an all vegan restaurant and deli, also selling some food products.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Ormea, 29/d",
+  "postalCode": "10125",
+  "phone": "tel:+39-3935153779",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-7:00pm, Fri 11:00am-10:00pm, Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/saporevegano",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.055819,7.683279&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.055819,7.683279&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

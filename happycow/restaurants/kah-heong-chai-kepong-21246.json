@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kah Heong Chai",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Indian, Thai, Malaysian\n                                    ",
+  "description": "Vegetarian food. New location since winter 2010. Previously at 32C Jalan Burung Pucung, Taman Bukit Maluri.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "A-1-30 Avelon Tower Plaza Medan Putra",
+  "postalCode": "52200",
+  "phone": "tel:012-3022416/,%200367316732",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/khcvegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.201151,101.631465&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.201151,101.631465&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

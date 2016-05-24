@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "FuShiWu",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Take-out\n                                    ",
+  "description": "釜喜屋is a busy, vegan ramen noodle restaurant. Offers many flavors. No onion or garlic used. The owner learned about ramen and soup making in Japan. As of March 2015 shop closes the first 5 days of each month.",
+  "priceRange": "Moderate",
+  "streetAddress": "447, Zhongmei St, West District",
+  "phone": "tel:04-23269190",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:00pm, Sat-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.154511,120.660545&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.154511,120.660545&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

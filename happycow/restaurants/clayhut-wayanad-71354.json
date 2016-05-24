@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Clayhut",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, Organic, Kerala, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant at tourist location Wayanad in Kerala, India. Vegans please inquire. As of April 2016, awarded as 8th best affordable location in the world.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Opposite New Busstand",
+  "postalCode": "673121",
+  "phone": "tel:9741496273",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/ClayhutWayanad-984338561614761",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.606020,76.084657&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.606020,76.084657&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

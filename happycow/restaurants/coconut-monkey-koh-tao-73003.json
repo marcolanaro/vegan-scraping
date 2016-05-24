@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Coconut Monkey",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan choices are clearly marked and include breakfast, wraps, bowls, freshly made-in-house shakes & juices, desserts, almond and coconut milk lattes and more. European restaurant with a chill atmosphere. Has a full bar.",
+  "priceRange": "Moderate",
+  "streetAddress": "25/92 Moo 2, Mae Haad Beach",
+  "phone": "tel:093-6404522",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.082792,99.823788&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.082792,99.823788&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "ShanShen Vegetarian Food Restaurant - Selasar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Fast food, Delivery, Take-out, Catering, Malaysian\n                                    ",
+  "description": "善心素食館 serves rice, noodle and vegetable dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "14 Selasar Rokam 11, Taman Ipoh Jaya",
+  "postalCode": "31350",
+  "phone": "tel:05-3111894%20,%20016-5578260",
+  "venueHours": "\n                                                                                                        Mon 7:30am-3:30pm, 6:00pm-9:00pm, Wed-Sun 7:30am-3:30pm, 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.576454,101.123437&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.576454,101.123437&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

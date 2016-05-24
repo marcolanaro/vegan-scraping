@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bodhi - Banawe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Filipino\n                                    ",
+  "description": "Try the lumpia and maki-mi. Offers discounts on selected food items 1 hour before closing. A la carte menu ordering is good for groups.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "878 Banawe St, Quezon City",
+  "phone": "tel:632-7119967",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.638130,121.001122&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.638130,121.001122&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

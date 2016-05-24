@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Almi's Berghotel Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Buffet, Salad bar, Beer/Wine, Tyrolian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a special vegan menu card and a small vegan wine card. The hotel is in the middle of a conservation area so is eco-friendly, concentrating on organic and regional ingredients. For hotel guests, the chef will prepare a 4 course vegan menu every day, including salads from a daily changing buffet with at least one vegan sauce declared, a vegan soup, a vegan main course, which could be inspired by Oriental spices as well as by Tyrolian traditions, and a dessert. For breakfast, vegan guests get vegan specials at their table, separated from the non-vegan buffet, with yogurt, tofu, cheese, salami and sausages, cookies and chocolates and more. Traditional atmosphere with elements of modern art and design, and very warm and welcoming. Internet and Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Aussertal 30",
+  "postalCode": "6157",
+  "phone": "tel:0043-5274-87511",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/kanone66",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.016349,11.422168&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.016349,11.422168&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

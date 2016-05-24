@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lily's Vegetarian Indian Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Take-out\n                                    ",
+  "description": "Gujurati Indian food place that's especially busy on the weekends, and sometimes closes earlier if booked for outside catering. It's 5-minute walk from Ashton under Lyne train station, along from Aldi.",
+  "priceRange": "Moderate",
+  "streetAddress": "75-83, Oldham Rd",
+  "postalCode": "OL6 7DF",
+  "phone": "tel:0161-339-4774",
+  "venueHours": "\n                                                                                                        Mon 11:00am-8:00pm, Wed-Sat 11:00am-8:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/realindianfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.489280,-2.098720&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.489280,-2.098720&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

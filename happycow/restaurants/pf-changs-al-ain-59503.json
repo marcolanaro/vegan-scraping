@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "PF Chang's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of the American-Chinese chain restaurant, this one is located in Al Ain Mall on the ground floor. Vegetarian choices are labeled on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ground Floor, Al Ain Mall",
+  "phone": "tel:03-7648659",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-11:00pm, Fri-Sat 11:00am-12:00am, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.130162,55.802312&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.130162,55.802312&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

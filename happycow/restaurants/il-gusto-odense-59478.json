@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Il Gusto",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Italian ice cream shop that offers a few vegan flavors. All sorbets are vegan, and soy milk options available on Wednesdays.",
+  "streetAddress": "Vindegade 84-86",
+  "postalCode": "5000",
+  "phone": "tel:66192604",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ilgusto",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.397360,10.379769&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.397360,10.379769&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Boulevard Bookshop and Thai Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai food restaurant in a bookshop. The menu states kitchen will make a dish with tofu or vegetables instead of meat. BYOB. Gets busy so booking ahead (and checking that they have tofu) is advised.",
+  "priceRange": "Moderate",
+  "streetAddress": "32 George St",
+  "postalCode": "TN34 3EA",
+  "phone": "tel:01424463521",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.855525,0.587696&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.855525,0.587696&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

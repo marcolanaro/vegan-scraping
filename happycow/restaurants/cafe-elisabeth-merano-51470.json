@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Elisabeth",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe/lounge/cocktail bar with vegan choices such as bruschetta, mixed salad, pasta and cupcakes, muffins and cakes. All cakes and muffins are made-in-house. Sometimes live music and events are organized by the owners.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Passeggiata d'estate 2",
+  "postalCode": "39012",
+  "phone": "tel:338-8015278",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-11:30pm, Fri-Sat 9:00am-1:00am, Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.668976,11.165713&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.668976,11.165713&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

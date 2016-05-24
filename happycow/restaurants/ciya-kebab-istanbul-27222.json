@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ciya Kebab",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Salad bar, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Simple and fresh traditional Turkish food. Has a large vegetarian salad bar and many options for hot foods. Vegan please ask about options and inform HappyCow. Try the lentil soup. This restaurant was noted in the Lonely Planet for its vegetarian food options, so it's popular with travelers. Location is on the Asian side of Istanbul, in the Kadikoy area. Staff speak some English.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Guneslibahce Sokak 43",
+  "phone": "tel:216-3363013",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.989852,29.024735&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.989852,29.024735&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

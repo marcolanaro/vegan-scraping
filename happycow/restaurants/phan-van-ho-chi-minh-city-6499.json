@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Phan Van",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Vietnamese\n                                    ",
+  "description": "Clean food, popular with students. Food is placed out so customers can select from the choices. Staff is all vegetarian. No MSG. Note that restaurant is closed for two weeks during Tet Lunar New Year and that date is different every year.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "55 Phan Van Tri Street",
+  "postalCode": "P2 Quan 5",
+  "phone": "tel:08-9063456",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.758000,106.653400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.758000,106.653400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tofu Cafe Fujino",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has English menu with pictures, all dishes are centered around tofu but uses egg in some dishes. Lunch and dinner along with desserts. Clean and modern with prompt service. Japanese address 上京区今小路通御前通西入る.",
+  "priceRange": "Moderate",
+  "streetAddress": "843-7 Kamiyagawa-cho, Nishi-IRS, Onmae, Imakojidori, Kamigyo-ku",
+  "postalCode": "602-8384",
+  "phone": "tel:075-463-1028",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/tofucafefujino",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.029632,135.756733&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.029632,135.756733&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

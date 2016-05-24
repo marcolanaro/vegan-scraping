@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xue Hua Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "Vegetarian hawker stall selling dishes like hor fun, kway chap, laksa, luo han mee. Located at Eunos Crescent Market and Food Centre.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4A Eunos Crescent, Unit 01-31",
+  "postalCode": "402004",
+  "phone": "tel:98739028",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.320310,103.904068&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.320310,103.904068&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

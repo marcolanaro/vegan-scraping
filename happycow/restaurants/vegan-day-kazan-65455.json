@@ -1,0 +1,17 @@
+{
+  "title": "Vegan Day",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Fast food, Take-out, Middle Eastern\n                                    ",
+  "description": "A small vegan cafe and shop located in an old historical center. Serves falafel, burgers, sandwiches, hot dogs, and more. Beverages include coffee, tea and other non-alcoholic drinks. Sells fodstuffs to cook at home such as tofu, cheese, sausage, cutlets, nuts and groats, plus vitamins and other things. Est. 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ul Shigabutdin Marjani, 18 ",
+  "phone": "tel:+7-9534859282",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.779815,49.118567&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.779815,49.118567&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

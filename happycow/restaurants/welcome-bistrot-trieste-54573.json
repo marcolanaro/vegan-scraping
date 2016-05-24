@@ -1,0 +1,16 @@
+{
+  "title": "Welcome Bistrot",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Western\n                                    ",
+  "description": "Bistro offering a daily-changing. Most dishes are vegan, vegetarian dishes have a vegan option upon request. Relaxed atmosphere, since 2013.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via dell'Industria, 24a",
+  "postalCode": "34144",
+  "phone": "tel:040-9880922/,%20393-0856569",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:30pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/WelcomeBistrot",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.641520,13.778460&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.641520,13.778460&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

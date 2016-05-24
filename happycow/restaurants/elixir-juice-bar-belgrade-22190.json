@@ -1,0 +1,15 @@
+{
+  "title": "Elixir Juice Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Juice bar offering drinks and light food. Has smoothies, juices, coffee, breakfast food, sandwiches, soup, salads, and sweets. Relocated from Kralja Petra 42.",
+  "priceRange": "Moderate",
+  "streetAddress": "Strahinjica bana 52",
+  "postalCode": "11000",
+  "phone": "tel:069-2627213",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.822136,20.460462&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.822136,20.460462&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

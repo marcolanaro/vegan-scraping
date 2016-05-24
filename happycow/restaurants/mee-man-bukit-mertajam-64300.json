@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mee Man Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Catering, Malaysian\n                                    ",
+  "description": "美满素食食坊 vegetarian restaurant opened in Oct 2015. It's buffet style with around 20 or so dishes. Starts at 8am with simple fried noodles and mee hoon. Opens Sunday if on 1st and 15th day of lunar month.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "19, Jalan Kulim, Taman Jaya",
+  "postalCode": "14000",
+  "phone": "tel:0163710521/,%20011-33864329",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.350183,100.479758&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.350183,100.479758&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

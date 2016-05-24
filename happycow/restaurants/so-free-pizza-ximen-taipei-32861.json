@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "So Free Pizza - Ximen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Take-out\n                                    ",
+  "description": "Pizzeria near Ximen station, at 台北市萬華區西寧南路50巷1號. Offers different flavors of wood fired pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "1, Ln 50, Xining South Rd, Wanhua District",
+  "phone": "tel:02-23146225",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/SoFreePizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.044354,121.505797&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.044354,121.505797&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

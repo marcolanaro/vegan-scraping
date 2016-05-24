@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veggie Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Japanese, Organic\n                                    ",
+  "description": "Address 錦猪熊町537京都市中京区錦. Makes chilli bean soup, different types of pita, fries, and a range of drinks. All vegan food. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Nishikiinokuma-cho 537, Nakagyoku",
+  "phone": "tel:0753663979",
+  "venueHours": "\n                                                                                                        Mon 11:30am-2:30pm, 5:30pm-8:30pm, Thu-Sun 11:30am-2:30pm, 5:30pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.004359,135.750350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.004359,135.750350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

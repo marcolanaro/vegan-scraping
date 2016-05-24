@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Echostore",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "ECHO is the acronym for Environment & Community Hope Organization store. A sustainable lifestyle store and coffee bar. Few locations.",
+  "streetAddress": "G/F Serendra Piazza McKinley Parkway, Bonifacio Global City, Taguig",
+  "phone": "tel:632-9013485",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.554915,121.044248&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.554915,121.044248&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

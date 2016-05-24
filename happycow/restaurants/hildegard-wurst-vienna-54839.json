@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hildegard Wurst",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A hot dog place with vegan choices; please inquire. Opened December 2014. Also has a mobile hot dog business. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Operngasse 23",
+  "postalCode": "1040",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/HildegardWurst",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.197657,16.366151&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.197657,16.366151&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

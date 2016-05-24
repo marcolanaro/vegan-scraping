@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zumo Fresh Juice Bar  -  Derby",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Part of a chain offering in-house-made juices, smoothies, and some small snacks like wraps, soups, and fresh fruit. Mostly vegan. Uses dairy in some items.",
+  "streetAddress": "K19, North Mall, Westfield Eagle Centre",
+  "postalCode": "DE1 2PG",
+  "phone": "tel:0133-2205-328",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/zumobars",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.919094,-1.472247&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.919094,-1.472247&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "iVegan Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Italian, Fusion, Taiwanese\n                                    ",
+  "description": "Est. 2016 this restaurant is affiliated with iVegan Supermarket and is located within Taipei Pot Plant market at 台北市興隆路一段15號, in a large open space with also private rooms. Serves typical Taiwanese fusion veggie food, including pasta and burger sets. Near Wanlong Station (green line) Exit 3.",
+  "priceRange": "Moderate",
+  "streetAddress": "15 Xinlong Rd, Wanlong District",
+  "phone": "tel:02-29350900",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/iveganmart",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.004336,121.540230&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.004336,121.540230&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

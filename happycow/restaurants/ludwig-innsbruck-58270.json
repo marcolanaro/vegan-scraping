@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ludwig Burger & Beer",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Organic, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A more upscale burger restaurant. Uses organic ingredients. Has 1 veggie patty and 1 vegan one.",
+  "priceRange": "Moderate",
+  "streetAddress": "Museumsstrasse 3",
+  "postalCode": "6020",
+  "phone": "tel:512319222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-2:30pm, Tue-Thu 5:30pm-10:00pm, Fri-Sat 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Dasburgerrestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.267431,11.395674&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.267431,11.395674&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

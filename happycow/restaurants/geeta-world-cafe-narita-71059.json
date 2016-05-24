@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Geeta World Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegetarian choices, some of which may be vegan or can be made vegan; please inquire.",
+  "priceRange": "Moderate",
+  "streetAddress": "Narita 286-0032/558-1k, Kamichou Narita City Chiba Ken",
+  "phone": "tel:0476-245651",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.785054,140.322111&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.785054,140.322111&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

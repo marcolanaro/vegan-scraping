@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Harvest E8",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "An independently/family owned organic nutrition shop with a small cafe. Cafe serves cappuccino with soy or almond milk and a wide range of vegan and gluten free cakes. Wooden floor and tables. The shop has 4,000 plus items in stock, mostly organic, with a lot of choices for vegans.",
+  "streetAddress": "130-132 Kingsland High St",
+  "postalCode": "E8 4PH",
+  "phone": "tel:0207-254-9711",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.550080,-0.075077&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.550080,-0.075077&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

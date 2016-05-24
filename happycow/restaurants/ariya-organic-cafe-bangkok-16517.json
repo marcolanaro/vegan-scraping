@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ariya Organic Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Thai, Western, Juice bar, Take-out, Fusion\n                                    ",
+  "description": "Bangkok wellness center and organic cafe. Serves vegan organic food including fresh juices, smoothies, veggie sushi, salads, light entrees, raw crackers, and desserts. Uses fresh, all natural ingredients with many items being raw. Here since 2011; previously in MBK Center.",
+  "priceRange": "Expensive",
+  "streetAddress": "2nd Floor Life Center, Q-House Building Lumphini, Sathorn Rd",
+  "phone": "tel:26777353",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/AriyaOrganicCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.725528,100.544589&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.725528,100.544589&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

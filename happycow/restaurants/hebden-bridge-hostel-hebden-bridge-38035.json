@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hebden Bridge Hostel",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "This hostel has a self-catering kitchen that is strictly vegetarian, and a light breakfast is included.",
+  "streetAddress": "The Birchcliffe Centre, Hebden Bridge",
+  "postalCode": "HX7 8DG",
+  "phone": "tel:01422-%20843183",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.743351,-2.008698&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.743351,-2.008698&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

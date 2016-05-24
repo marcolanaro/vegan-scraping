@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "D'Life - Pandan Indah",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Western, Take-out, Malaysian\n                                    ",
+  "description": "A vegetarian restaurant serves dishes like spaghetti, curry, tofu and mushroom, noodles and rice, some of which are vegan or can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "23 Jalan Pandan Indah 4/2, Pandan Indah",
+  "postalCode": "55100",
+  "phone": "tel:03-42881390",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.129456,101.755326&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.129456,101.755326&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

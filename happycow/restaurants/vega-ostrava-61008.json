@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vega",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store in the city centre offering a good product range at inexpensive prices. Sells organic, fair trade, lacto-ovo-vegetarian, vegan, gluten-free, raw food, and dried fruits.",
+  "streetAddress": "Nadrazni 17",
+  "postalCode": "701 69",
+  "phone": "tel:+420-596115706",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.835524,18.286785&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.835524,18.286785&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

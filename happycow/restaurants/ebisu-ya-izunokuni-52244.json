@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ebisu-ya",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Hot spring hotel that offers dinner and breakfast to its guests. Non-veg but you could request a vegan meal when making reservation. Kitchen will make traditional Japanese food in vegan versions.",
+  "streetAddress": "1186 Kona, 410-2201",
+  "phone": "tel:055-9481541",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.038254,138.935434&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.038254,138.935434&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

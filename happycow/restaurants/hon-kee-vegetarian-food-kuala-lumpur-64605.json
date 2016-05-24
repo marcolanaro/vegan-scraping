@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hon Kee Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "汉记斋菜 veggie eatery.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Pasar Baru Bukit Bintang, Jalan Melati, Pudu",
+  "postalCode": "55100",
+  "phone": "tel:016-6166629",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:30am-11:30am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.144143,101.715037&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.144143,101.715037&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

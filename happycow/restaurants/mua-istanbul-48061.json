@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MUA",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Organic, Mediterranean, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe making gelato (dairy) and sorbetti (without milk). Offers some food with veg choices like hummus, tabbouleh, kisir, pasta salad, quinoa salad with avocado. Its other outlet at Galipdede Sokak 105 A had shut as of Mar 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "Yeniköy Mahallesi, Köybaşı Caddesi, No 126/B, Sarıyer",
+  "phone": "tel:02122998484",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-11:30pm, Fri-Sat 10:00am-1:00am, Sun 10:00am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/MUA/210842092283759",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.118251,29.066667&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.118251,29.066667&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

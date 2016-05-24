@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vien Chau",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Take-out, Vietnamese\n                                    ",
+  "description": "A 100% vegetarian restaurant with vegan options. Affordable prices, yet an elegant and spacious ambiance. English speaking waiter but no English menu. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "154 Tran Quy Cap",
+  "phone": "tel:0623737737",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.923495,108.071512&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.923495,108.071512&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

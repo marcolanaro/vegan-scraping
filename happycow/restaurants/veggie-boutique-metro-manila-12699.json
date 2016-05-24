@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veggie Boutique",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Home-based shop selling local and imported frozen, dried, and fresh vegetarian food products such as meat replacements, onion & garlic-free condiments, in addition to homeopathic medication, vitamins, and organic produce such as virgin coconut oil, brown rice, and mascovado.",
+  "streetAddress": "532 Camia Street, Palm Village, Makati City",
+  "phone": "tel:+632-8961215/,%20+63-9176311421",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/vegboutique",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.561715,121.040647&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.561715,121.040647&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

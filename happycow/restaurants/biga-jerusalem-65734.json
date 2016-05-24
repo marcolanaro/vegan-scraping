@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Biga",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Beer/Wine, Bakery, European, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves fish. Basic place at Yes Planet. Menu has a vegan section.",
+  "priceRange": "Moderate",
+  "streetAddress": "4 Naomi St",
+  "phone": "tel:026521121",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-11:00pm, Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.762270,35.225646&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.762270,35.225646&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

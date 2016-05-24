@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Beetroot Stories Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Western, Fusion\n                                    ",
+  "description": "This vegetarian restaurant is behind Wawee Coffee Shop Kad Klangwiang. Offers many vegan menu items. A sampling of the food: avocado sandwiches with pineapple and tomatoes, grilled vegetable sandwiches with pesto sauce, mussamun curry with pineapple, potatoes and carrots, stir fry cashew nuts with pineapple and bell pepper, boiled beetroot with pesto sauce, olive oil and vinegar, hot cappuccino with coconut milk. Closed Mon-Tue third week of month.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ratchadamnoen Rd",
+  "postalCode": "50100",
+  "phone": "tel:087-0246903",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.787692,98.990083&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.787692,98.990083&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

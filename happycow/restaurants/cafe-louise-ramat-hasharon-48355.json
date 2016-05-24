@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Louise - Ramat HaSharon",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Juice bar, Bakery, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe with multiple locations. Menu is mostly lacto-vegetarian, with a few meat sandwiches. Could make an item vegan by request. In-house made freshly baked bread.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sokolov 36, Ramat Ha Sharon",
+  "phone": "tel:03-5476262",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.142191,34.837049&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.142191,34.837049&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

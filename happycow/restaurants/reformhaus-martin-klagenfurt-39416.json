@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Reformhaus Martin",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small health food store providing some vegetarian and vegan products. Has vegan cosmetics. No fresh produce.",
+  "streetAddress": "Sudpark 1",
+  "postalCode": "9020",
+  "phone": "tel:+43-463318979",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-7:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.614607,14.320453&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.614607,14.320453&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

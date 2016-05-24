@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Greenhouse Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western\n                                    ",
+  "description": "Vegetarian cafe with vegan options. No connection with The Green House Restaurant in nearby Rusholme.",
+  "priceRange": "Moderate",
+  "streetAddress": "41-43 Oxford Road",
+  "postalCode": "WA14 2ED",
+  "phone": "tel:0161-929-4141",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.383150,-2.351258&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.383150,-2.351258&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kee Lin Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "麒麟閣素食餐馆 serves rice, noodle, and vegetables dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8, Jln. Hang Tuah 28",
+  "postalCode": "81300",
+  "phone": "tel:012-7070358",
+  "venueHours": "\n                                                                                                        Mon-Tue 12:00pm-10:00pm, Thu-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/keelinvege",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.519835,103.652141&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.519835,103.652141&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

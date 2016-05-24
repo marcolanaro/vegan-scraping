@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dhaba Beas - Vladislavova",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Buffet, Salad bar, Take-out, European\n                                    ",
+  "description": "Well-known chain of Indian vegetarian dhaba buffets (self service) with a casual, modern atmosphere. Offers both Indian and European vegetarian food including salads and freshly made juices. Food is priced by weight. Happy hour discount 50% off one hour before closing time.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Vladislavova 24",
+  "phone": "tel:+420-773-380371",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat 12:00pm-8:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.081479,14.421380&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.081479,14.421380&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

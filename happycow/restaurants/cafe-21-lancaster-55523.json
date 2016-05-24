@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe 21 at Info Lab",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. University eatery that's open to all. Offers a daytime menu with vegetarian, vegan, and 1 to 2 fish dishes - ranges from sandwich to main meals. Spacious 4th floor space with views, accessible by lift. Drinks til 4:30pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "InfoLab, Lancaster University",
+  "postalCode": "La1 4wa",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/LancasterCampusLife",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.005482,-2.785229&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.005482,-2.785229&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

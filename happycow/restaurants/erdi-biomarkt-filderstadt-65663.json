@@ -1,0 +1,12 @@
+{
+  "title": "Erdi Biomarkt",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic supermarket.",
+  "streetAddress": "Bernhäuser Hauptstrasse 2",
+  "phone": "tel:7119970873",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.678201,9.216294&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.678201,9.216294&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

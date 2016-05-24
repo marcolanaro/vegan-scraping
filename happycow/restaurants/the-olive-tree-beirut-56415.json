@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Olive Tree",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Mediterranean, Take-out, Bakery, Catering, Lebanese\n                                    ",
+  "description": "Organic vegetarian kitchen and upscale shop, opened Feb 2015. Food is mostly vegan except for cheese. Has a gluten-free bakery and sells organic and specialty foods and groceries. Staff speak Arabic, English, and French.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sodeco Square, block D, Ground Floor, Achrafieh",
+  "postalCode": "2200",
+  "phone": "tel:01613660",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/the.olivetree.lebanon",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.888381,35.521712&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.888381,35.521712&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

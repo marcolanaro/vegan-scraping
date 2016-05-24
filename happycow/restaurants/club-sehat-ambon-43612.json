@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Club Sehat",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Indonesian\n                                    ",
+  "description": "Vegan warung. Serves a small selection of Indonesian hot plates using vegetable protein and veggies. Also serves drinks and has a food counter that sells health foods and frozen vegetable protein. Holds cooking classes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Ahmad Yani, Ruko Batu Meja",
+  "phone": "tel:+62-0-9113257199",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:30am-3:30pm, Sun 11:30am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-3.705000,128.170000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-3.705000,128.170000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

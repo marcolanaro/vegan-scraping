@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Poh Puk",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic produce. A few stops on the express boat from Banglampoo Pier near Khaosan Rd by the river.",
+  "streetAddress": "1/9 Paeng Loi Sirirat, Sirirat, Bangkok Noi",
+  "postalCode": "10700",
+  "phone": "tel:02-8661719",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.756010,100.486740&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.756010,100.486740&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

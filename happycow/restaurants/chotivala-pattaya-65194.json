@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chotivala",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Delivery\n                                    ",
+  "description": "Vegetarian restaurant serving South and North Indian food. Vegan items are not marked, so ask. Inside is air conditioned. Has another branch in Bangkok.",
+  "priceRange": "Moderate",
+  "streetAddress": "2nd Rd, across from Central Festival",
+  "phone": "tel:+66-95896%200754",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.933526,100.884651&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.933526,100.884651&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

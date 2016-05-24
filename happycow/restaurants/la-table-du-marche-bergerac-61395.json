@@ -1,0 +1,20 @@
+{
+  "title": "La Table du Marche",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Modern French cuisine restaurant. Offers a vegetarian 3-course menu. Booking is advisable.",
+  "priceRange": "Moderate",
+  "streetAddress": "21 Place Louis de la Bardonnie",
+  "postalCode": "24100",
+  "phone": "tel:+33-553224946",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.852196,0.484010&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.852196,0.484010&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

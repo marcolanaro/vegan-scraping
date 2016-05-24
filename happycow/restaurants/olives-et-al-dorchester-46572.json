@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Olives Et Al",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, International, Organic, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Deli/gift shop with a large menu using mostly local products. Has several vegan choices, including a coconut curry, plus others that can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Poundbury Farm Way, Poundbury",
+  "postalCode": "DT1 3RT",
+  "phone": "tel:01305-216788",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:30pm, Sun 10:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/olivesetal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.714909,-2.465929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.714909,-2.465929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

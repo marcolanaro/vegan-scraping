@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Adarsha",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers one vegan lunch choice; please inquire. Offers vegan dinner dishes but vegan choices are not marked; please inquire. Staff speaks English. From Musashisakai Station's north exit, go west 100m. Take the passageway just north of Doutor and continue 50m west. The restaurant is on the south side of the street.",
+  "priceRange": "Moderate",
+  "streetAddress": "Musashino, Sakai 2-14-10",
+  "phone": "tel:+81-0422362210",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-3:00pm, 5:00pm-11:00pm, Sat-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.702513,139.542399&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.702513,139.542399&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

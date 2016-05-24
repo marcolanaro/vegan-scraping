@@ -1,0 +1,15 @@
+{
+  "title": "Wegetujemy Bistro",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "description": "The first vegan restaurant in Olsztyn, opened Dec 2015. Serves burgers and cakes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Mrongowiusza 3",
+  "postalCode": " 10-536",
+  "phone": "tel:793655365",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/WegetujemyBistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.779310,20.481499&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.779310,20.481499&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Go Falafel - Mayfair Court",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Juice bar, Take-out, Middle Eastern\n                                    ",
+  "description": "A 100% vegan take away falafel and juice place.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Unit 10 Mayfair Court, Wilmslow Rd",
+  "postalCode": "M14 5TP",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.441195,-2.219166&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.441195,-2.219166&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chingguo Cafe - Green Apple Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Take-out\n                                    ",
+  "description": "青果果自家烘焙咖啡店, at 礁溪鄉大忠村奇峰街4號, is a stylish coffee cafe and restaurant that offers food and decor different from the standard Taiwanese fare. Better to book ahead as space is limited and it gets busy.",
+  "priceRange": "Moderate",
+  "streetAddress": "4, QiFeng St, Da Zhong Village",
+  "phone": "tel:03-9871015",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-8:00pm, Wed-Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ChingguoCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.822219,121.765946&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.822219,121.765946&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

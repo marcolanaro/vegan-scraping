@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "An Lac Tam",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out, Vietnamese\n                                    ",
+  "description": "Located 1km+ from Da Lat centre market. Serves vegetarian food using fresh vegetables. Offers noodle soups, soft drinks, papaya salad, rice plate with vegetables, tofu, mushroom.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "146 Bui Thi Xuan",
+  "phone": "tel:0633-522133",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.946517,108.440376&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.946517,108.440376&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

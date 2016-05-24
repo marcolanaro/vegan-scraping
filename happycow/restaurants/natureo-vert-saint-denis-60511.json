@@ -1,0 +1,13 @@
+{
+  "title": "NatureO",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "Avenue du Bois vert, RD 306",
+  "postalCode": "77240",
+  "phone": "tel:0164794084",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.565440,2.628097&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.565440,2.628097&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

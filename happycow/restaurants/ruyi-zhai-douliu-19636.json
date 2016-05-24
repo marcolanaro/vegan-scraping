@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ruyi Zhai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Pizza, Buffet, Taiwanese, Buddhist\n                                    ",
+  "description": "Little Buddhist restaurant in Touliu / Douliu. Fills your plate with veggies rather than soy meats. In addition to the usual Taiwanese veggie food, a few unlikely items, such as pizza, are offered. Try the rice and noodle dishes. Busy on the weekends. Chinese name 如意齋, address 斗六市南京路58號. Closed Sunday.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "53 Nanjing Road",
+  "phone": "tel:05-5378449",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.707680,120.562450&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.707680,120.562450&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

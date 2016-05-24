@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Agadir Burger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Western, Fast food, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A burger restaurant but does offer labeled veggie items, \"vv\" for vegan and \"v\" for vegetarian. Vegan suitable include a mushroom burger, small salad, green beans, roasted eggplant, kale salad, and a sorbet.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sderot David Ben Gurion 2",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/agadirburger",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.261075,34.799286&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.261075,34.799286&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

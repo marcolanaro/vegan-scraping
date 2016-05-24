@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hard Rock Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. International chain restaurant offering conventional foodstuff but does have a vegetarian menu list with burgers, wraps, and salads. Upscale interior.",
+  "priceRange": "Expensive",
+  "streetAddress": "Jl Pantai, Kuta ",
+  "postalCode": "80361",
+  "phone": "tel:361755661",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.722045,115.170019&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.722045,115.170019&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

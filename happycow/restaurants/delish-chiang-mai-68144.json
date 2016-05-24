@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Delish",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Thai, Western, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee house and cafe in the Old City, offering cakes and food with some ovo-lacto vegetarian choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "25/8 Ratvithi Rd",
+  "phone": "tel:52086797",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/DelishKafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.790503,98.990856&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.790503,98.990856&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

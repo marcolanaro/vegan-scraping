@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kochkiste",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, European, Austrian\n                                    ",
+  "description": "Small vegetarian bistro with kitchen to watch the cook during cooking. Serving healthy vegetarian and vegan wholefood. Vegan food is clearly labeled on the weekly menu. The whole product range is certified organic by the Bio Austria Garantie certification system.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hauptstraße 30",
+  "postalCode": "2340",
+  "phone": "tel:069918421020",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.086551,16.291292&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.086551,16.291292&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

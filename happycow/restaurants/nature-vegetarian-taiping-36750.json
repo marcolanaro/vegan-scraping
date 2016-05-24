@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nature Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Indian, Thai, Fast food, Malaysian\n                                    ",
+  "description": "大自然素食 is a stall in food court; B21. Serves economic rice (plain white rice plus choice from a small selection of ready-made toppings), or can order various fried rice or noodle, noodle soup.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Stall B21, Pusat Penjaja",
+  "postalCode": "34000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Thu 4:30pm-9:30pm, Sat-Sun 4:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.850177,100.743590&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.850177,100.743590&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jhong Xing Su Shih",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Buffet, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "A small lunch & dinner buffet spread. Food is brought out prior to 10:30 so only a couple dishes may be hot. Brown rice available. Pay by weight. Note that the faux meats might contain dairy/whey. This area is loaded with small veggie places. Explore south further down Zhongmei St and the side alleys.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "320, ZhongMei Street",
+  "phone": "tel:04-23058579",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.149906,120.660267&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.149906,120.660267&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

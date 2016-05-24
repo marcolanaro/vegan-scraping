@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Prego Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Fast food, Delivery, Take-out, Israeli, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Pizzeria, offers vegan pizza made with vegan cheese and other choices including Yemenite ziva, a dough filled with vegan cheese and mushrooms and olives. There's also a selection of salads and Yemenite dishes that come with an egg that you can request without.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 HaShunit ",
+  "phone": "tel:09-9505022",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-10:30pm, Fri 11:00am-3:00pm, Sat 8:30pm-11:00pm, Sun 11:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pizzaprego",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.163683,34.797691&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.163683,34.797691&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

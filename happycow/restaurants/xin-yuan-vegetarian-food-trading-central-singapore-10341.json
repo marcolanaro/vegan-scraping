@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xin Yuan Vegetarian Food Trading",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Buddhist health food store.",
+  "streetAddress": "190 Middle Rd, #01-25, Fortune Centre",
+  "postalCode": "188979",
+  "phone": "tel:6338-3456",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:30am-7:00pm, 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300180,103.852000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300180,103.852000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

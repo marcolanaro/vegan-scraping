@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Citron",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Salad bar, Beer/Wine, Take-out, French\n                                    ",
+  "description": "Billed as a higher-end fast casual restaurant, this is a Parisian style salad bar, located 1-minute walk from Gaienmae station in Minami Aoyama at 東京都港区南青山2-27-21. Vegan options marked on the menu. Set menus including salad with soup, bread or salad with soup and main. Desserts and wine available. English menu and English/French speaking staff. Opened July 2015.",
+  "streetAddress": "2-27-21 Minami Aoyama, Minato-ku",
+  "phone": "tel:03-64472556",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-11:00pm, Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/citron.aoyama",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.669035,139.716285&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.669035,139.716285&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

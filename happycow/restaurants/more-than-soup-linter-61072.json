@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "More than soup",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Carries dairy-free products (as well as products free from other allergens). Also offers vegan cereals, snack bars, quinoa-based products, egg-free pasta and much more.",
+  "streetAddress": "Dellenbosweg 2",
+  "postalCode": "3350",
+  "phone": "tel:+32-497402593",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/morethansoupmarket",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.841510,5.036610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.841510,5.036610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

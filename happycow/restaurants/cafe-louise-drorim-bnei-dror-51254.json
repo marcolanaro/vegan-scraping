@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Louise - Drorim",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Beer/Wine, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe is behind the Drorim Shopping Mall. Vegan items are marked and include a vegan breakfast, mushroom-tofu paella, \"skinny pasta,\" salads, and more. Quieter inside. Crowded on Friday and Saturday mornings, so get there early. Reservations accepted from 1pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "Drorim Shopping Mall, Dror Junction",
+  "phone": "tel:09-9741023",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-12:00am, Sat 9:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafelouisehaifa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.262521,34.894667&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.262521,34.894667&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

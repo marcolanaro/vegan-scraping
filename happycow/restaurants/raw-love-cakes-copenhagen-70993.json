@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Raw Love Cakes",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Produces raw-vegan cakes and accepts orders for special occasion cakes as well raw food meals. Its cakes are sold at select markets & cafes in town including at Bontaniq restaurant.",
+  "streetAddress": "Frederiksborggade 26",
+  "postalCode": "1360",
+  "phone": "tel:26842672",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/rawlovecakes",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.684379,12.570203&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.684379,12.570203&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

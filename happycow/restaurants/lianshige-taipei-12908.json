@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "LianShiGe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Taiwanese, Gourmet\n                                    ",
+  "description": "Name in Chinese is 蓮池閣. Basement location. Descending the staircase into this place is like entering a hidden paradise. Large, all-you-can eat veggie buffet featuring elegant and creative dishes, drinks, desserts. Very popular place especially for larger groups. All-you-can-eat around NT$400 per person.",
+  "priceRange": "Moderate",
+  "streetAddress": "153, Sec. 4, Xinyi Rd",
+  "phone": "tel:02-2703-5612",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.992720,121.458550&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.992720,121.458550&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

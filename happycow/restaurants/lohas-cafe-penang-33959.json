@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lohas Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Asian Fusion\n                                    ",
+  "description": "Vegetarian cafe serves Chinese, Thai, Japanese, Vietnamese and Korean cuisines. Has vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "5, Jalan Pekaka Unit 5, Nibong Tebal",
+  "postalCode": "14300",
+  "phone": "tel:05-7173886/,%20011-26407838",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/lohasveggiecafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.139069,100.491580&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.139069,100.491580&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

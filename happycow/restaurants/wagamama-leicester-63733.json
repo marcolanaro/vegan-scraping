@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wagamama",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Japanese, Beer/Wine, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. International franchise chain inspired by Japanese food. Vegetarian items are marked with a V and some can be made vegan, but likely has only 1 fryer for meat & veg.",
+  "priceRange": "Moderate",
+  "streetAddress": "6 Highcross Lane",
+  "postalCode": "LE1 4SD",
+  "phone": "tel:01162530046",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-11:00pm, Sat 11:30am-11:00pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.636090,-1.138618&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.636090,-1.138618&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Like Lotus Hot Pot",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Taiwanese\n                                    ",
+  "description": "若荷蔬食火鍋, at 台北市大安區敦化南路一段160巷58號1樓, is a hot pot buffet operating since 2011. Offers 6 soup bases, a wide variety of fresh vegetables and faux meats. Nice set up. A 10 minute walk from Zhongxiao Fuxing station exit 4, from exit 4, walk along Daan Rd until you see Cosmed at Dunhua South Rd then turn right, you'll see it on the right side.",
+  "priceRange": "Moderate",
+  "streetAddress": "58, Sec. 1, Alley 160, Dunhua South Rd, Daan District",
+  "phone": "tel:02-27520838",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-2:30pm, 5:00pm-10:00pm, Sat-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/likelotusvegan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.043578,121.547224&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.043578,121.547224&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

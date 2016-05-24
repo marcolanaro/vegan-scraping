@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ohn-Bar Guesthouse",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Guesthouse in the Moshav Amirim all-vegetarian village, on the hills of Upper Galilee, facing the sea of Galilee.",
+  "streetAddress": "Mitzpe Kineret 10",
+  "postalCode": "2011500",
+  "phone": "tel:+972-46989803",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.940893,35.441984&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.940893,35.441984&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

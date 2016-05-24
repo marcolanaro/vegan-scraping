@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cok Cai Yen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Malaysian\n                                    ",
+  "description": "琢齋園素食 serves a wide selection of rice,  noodle, and vegetable dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8-1, Jalan Abdul Rahman",
+  "postalCode": "84000",
+  "phone": "tel:06-9516085/,%200126027780",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-3:00pm, Mon-Sun 6:00pm-8:00pm, Sun 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.037111,102.562696&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.037111,102.562696&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

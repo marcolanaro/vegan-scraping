@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Black Sheep",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Take-out, British, English\n                                    ",
+  "description": "Food cafe serving house-made vegetarian, vegan, and gluten-free breakfast, cakes, tapas, and desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "61 Gloucester Rd",
+  "postalCode": "BS7 8AD",
+  "phone": "tel:01179446826",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 12:00pm-8:00pm, Fri-Sat 12:00pm-9:00pm, Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.471553,-2.592496&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.471553,-2.592496&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Zest",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Beer/Wine, European, German\n                                    ",
+  "description": "The menu is mostly vegan apart from cheese (marked) and cow milk in drinks. Each dish has a translation into English. Offers bi-monthly changing menu which consists of: soup and salad, starters, mains, and dessert. Sample items might be curry soup, fried tofu strips and oyster mushroom, veggie loaf, rosemary potatoes, vegan ice cream. Creative hot (non-alcoholic) punch and cocktail as well as an extensive wine list. Hip, modern decor. Reservation required for weekends. Direction: From Liepzig central train station take 11 train heading south for 15 minutes, the train will turn down Bornaische Strasse, get off at Pfeffingerstrasse, and continue on Bornaische Strasse for 2 blocks.",
+  "priceRange": "Expensive",
+  "streetAddress": "Bornaische Strasse 54 (Sachsen)",
+  "postalCode": "04277",
+  "phone": "tel:03412319126",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.306980,12.380270&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.306980,12.380270&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

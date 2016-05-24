@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Organic Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Take-out, British, English\n                                    ",
+  "description": "Small shop and take-away deli service with tables upstairs and outside, located off Low Pavement, in the town center. The deli salads differ from day to day. Shop stocks fresh produce, chilled & frozen products, alternative magazines, and sells home products like ecological toiletries & detergents. Previously named Organic Heaven. Jun 2015 owner reported removed meat from menu, now it's all-veg.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4 Theatre Yard",
+  "postalCode": "S4O 1PF",
+  "phone": "tel:01246-224666",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.234880,-1.427390&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.234880,-1.427390&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

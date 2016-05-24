@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lucky Fort",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Sri Lankan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small family run restaurant offering only one thing: a smorgasbord of 10 curries and rice, of which one is a fish dish which can easily not be served. The remaining are vegan and vegetarian.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "7 Parawa Street, Galle Fort",
+  "postalCode": "80000",
+  "phone": "tel:+94-0912242922",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.026917,80.216045&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.026917,80.216045&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

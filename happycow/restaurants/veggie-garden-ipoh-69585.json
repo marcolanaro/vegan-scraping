@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veggie Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Take-out\n                                    ",
+  "description": "素乐园 is vegetarian restaurant serving dishes like curry, tofu and mushroom, noodles and rice, some of which is vegan. ",
+  "priceRange": "Moderate",
+  "streetAddress": "32 Jalan Medan Ipoh 4, Bandar Baru Medan, 31400 Ipoh, Perak",
+  "postalCode": "31400",
+  "phone": "tel:05-5451028",
+  "venueHours": "\n                                                                                                        Mon 11:00am-10:00pm, Wed-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/素乐园-Veggie-Garden-735685146487180/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.617686,101.120096&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.617686,101.120096&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

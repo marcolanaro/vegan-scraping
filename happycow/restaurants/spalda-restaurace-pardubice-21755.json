@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Spalda Restaurace",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Czech\n                                    ",
+  "description": "Natural food restaurant and shop. Vegan and Vegetarian macrobiotic restaurant. Most meals are prepared using organic ingredients. Choose from 3 meals and 1 soup, at least one is vegan. Veganska / vegetarianska restaurace na makrobiotickych principech.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Trida Miru 64",
+  "postalCode": "53002",
+  "phone": "tel:+420463351435",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:30am-3:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.036804,15.774108&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.036804,15.774108&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

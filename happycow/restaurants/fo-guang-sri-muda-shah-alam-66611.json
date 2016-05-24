@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fo Guang Sri Muda",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malay\n                                    ",
+  "description": "佛光 2 元素食 Buddhist veggie eatery.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "34, Axis Industrial Park, Jalan Sepadu B 25/B, Seksyen 25",
+  "postalCode": "40400",
+  "phone": "tel:010-3676935",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.025126,101.542978&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.025126,101.542978&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

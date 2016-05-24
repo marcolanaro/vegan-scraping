@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Singh is King",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Western, Fast food, Take-out, English\n                                    ",
+  "description": "Vegetarian Indian Punjabi food, plus burgers, chips, pizza, pasta and jacket potatoes. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "207 Green Lane Rd",
+  "postalCode": "LE5 4PD",
+  "phone": "tel:01162767576",
+  "venueHours": "\n                                                                                                        Mon 2:00pm-11:00pm, Tue-Sat 11:00am-11:00pm, Sun 2:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/singhiskingfastfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.636559,-1.097272&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.636559,-1.097272&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

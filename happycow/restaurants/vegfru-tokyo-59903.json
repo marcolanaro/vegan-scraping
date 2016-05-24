@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegfru",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Juice & smoothie bar and lunch cafe. Lunch is usually salad or soup, with smoothie and bread. Makes frozen pureed banana desserts and smoothies with soy milk. Reported has chicken soup (Dec 2015). Short walk from Jimbocho station.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-22-5, Kandajimbocho 1-Chome, Chiyoda-ku",
+  "postalCode": "101-0051",
+  "phone": "tel:03-55774512",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.696953,139.759681&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.696953,139.759681&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

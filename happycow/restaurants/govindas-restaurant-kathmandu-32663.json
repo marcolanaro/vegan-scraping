@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Govinda's Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Western, Buffet, Bakery, Hare Krishna\n                                    ",
+  "description": "Located on the grounds of Iskcon temple. Offers thali, pizza, veggie burger, eggless baked goods. Vegans to inquire about dairy use. Causal, covered patio seating.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ward 2, Budhanilkantha",
+  "phone": "tel:+977-14373790",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.700000,85.333333&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.700000,85.333333&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

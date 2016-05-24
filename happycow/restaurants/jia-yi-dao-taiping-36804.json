@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jia Yi Dao",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Salad bar, Malaysian\n                                    ",
+  "description": "Spacious restaurant. Menu is mostly Chinese dishes along with a few local dishes. A buffet is also available from 10:30am-2:30pm and includes a small fruit and salad bar.",
+  "priceRange": "Moderate",
+  "streetAddress": "9, Jalan Lee Siew Aun",
+  "postalCode": "34000",
+  "phone": "tel:05-805-9999",
+  "venueHours": "\n                                                                                                        Mon 10:30am-3:00pm, 5:30pm-10:00pm, Wed-Sun 10:30am-3:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.848786,100.744693&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.848786,100.744693&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Lo Yeti",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe with a library. Has vegan cakes, coffee, fairtrade tea, vegetarian and vegan sandwiches, fresh squeezed juice, and shake.",
+  "priceRange": "Moderate",
+  "streetAddress": "via Perugia 4",
+  "postalCode": "00176",
+  "phone": "tel:06-7025633",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.889890,12.525210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.889890,12.525210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

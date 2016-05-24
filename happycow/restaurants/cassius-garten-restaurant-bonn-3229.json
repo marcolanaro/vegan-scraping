@@ -1,0 +1,16 @@
+{
+  "title": "Cassius Garten",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Buffet, Fast food, Salad bar, Juice bar, Take-out, European, German\n                                    ",
+  "description": "Self serve buffet-style dining with breakfast, salads, warm dishes, fresh juices, desserts. Located directly across from the main train station. Lunch begins at 11am.",
+  "priceRange": "Moderate",
+  "streetAddress": "Maximilianstrasse 28 d",
+  "phone": "tel:+49-228652429",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.732950,7.097570&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.732950,7.097570&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

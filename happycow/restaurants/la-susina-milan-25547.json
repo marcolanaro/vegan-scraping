@@ -1,0 +1,20 @@
+{
+  "title": "La Susina",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Juice bar, Take-out\n                                    ",
+  "description": "Easy atmosphere, music, pouffes, and cakes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Giuseppe Lagrange, 15",
+  "postalCode": "20136",
+  "phone": "tel:+39-237641897",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/La-Susina/29587164900",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.448839,9.177649&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.448839,9.177649&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

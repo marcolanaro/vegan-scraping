@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zest",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Fast food, Juice bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The meat offered is fish and poultry, no red meat. A healthier food concept with food made in-house daily with many organic produce whenever possible. Many vegetarian choices. Quick service, open space with view of kitchen.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Food Court, Ibn Battuta Mall",
+  "phone": "tel:+971-04-3685460",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.046337,55.118151&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.046337,55.118151&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Marumo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Western, Beer/Wine, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small pizza bakery cafe located next to Zao ski resort. The owner, Mos, changes the menu depending on what's on hand. He knows what \"vegan\" means and will make vegan pizza for you. Other vegan choices are bread, soup, and warm soy beverages. A place to relax after enjoying snow and hot springs.",
+  "priceRange": "Moderate",
+  "streetAddress": "Zao Onsen, 955-10",
+  "postalCode": "990-2301",
+  "phone": "tel:09-4860-2438",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.163395,140.391948&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.163395,140.391948&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

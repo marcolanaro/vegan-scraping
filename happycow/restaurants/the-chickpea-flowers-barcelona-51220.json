@@ -1,0 +1,16 @@
+{
+  "title": "The Chickpea Flowers",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "A group of vegans catering house dinners with an artistic theme. Info: www.eatwith.com/#!/host/7446",
+  "streetAddress": "local area",
+  "postalCode": "08012",
+  "phone": "tel:+34-722390978",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.403137,2.159450&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.403137,2.159450&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

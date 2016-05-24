@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Christopher's Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, International, Juice bar, Beer/Wine, Delivery, Take-out, Bakery, Middle Eastern\n                                    ",
+  "description": "A local home-style vegetarian cafe with a good vibe and energy. Has several vegan options. Offers daily morning and lunch specials, drink specials during Happy Hour from 6pm-9pm, as well as freshly baked pastries and desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Beit Eshel 13, Jaffa",
+  "postalCode": "67066",
+  "phone": "tel:03-726-0820",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:30am-10:00pm, Fri 7:30am-4:00pm, Sat 11:00am-5:00pm, Sun 7:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.053451,34.757202&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.053451,34.757202&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

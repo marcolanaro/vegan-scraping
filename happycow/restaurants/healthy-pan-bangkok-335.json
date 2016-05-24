@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Healthy Pan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Juice bar, Take-out\n                                    ",
+  "description": "Vegan restaurant next to Bangkok Rubber Company, opened summer 2013 after some months closure. Serves Thai and Chinese vegetarian dishes using soy mockmeats; has desserts. Cozy, modern, and air-conditioned.",
+  "priceRange": "Moderate",
+  "streetAddress": "611/175 Soi Watchannai, Thanon Charoen Rat Road",
+  "phone": "tel:662-6898881",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Healthy-Pan/125451944281794",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.726352,100.499867&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.726352,100.499867&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

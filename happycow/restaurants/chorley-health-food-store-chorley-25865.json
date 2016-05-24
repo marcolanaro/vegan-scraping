@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chorley Health Food Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small but well stocked health food store that stock products such as Frys frozen foods, Scheeze, flavoured tofu and various other vegan foodstuffs although the selection does vary dependent on stock and which day of the week you go. The staff are friendly and will order other products in if there are particular things you would like.",
+  "streetAddress": "18 New Market St",
+  "postalCode": "PR7 1DB",
+  "phone": "tel:01257-277341",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.653674,-2.630415&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.653674,-2.630415&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

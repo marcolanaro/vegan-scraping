@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Caffe Dolce",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Juice bar, Asian\n                                    ",
+  "description": "Serving vegetarian food and drinks. Offers meat substitutes like burgers and patties are house-made and veg.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mezzanine Level, 848 Banawe St",
+  "postalCode": "1114",
+  "phone": "tel:+63916-7372399",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Caffe-Dolce/220324864671879",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.637185,121.001240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.637185,121.001240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

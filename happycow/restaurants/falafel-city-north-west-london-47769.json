@@ -1,0 +1,18 @@
+{
+  "title": "Falafel City",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International, Organic, Thai, Western, Fast food, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "Serves 2 different types of falafels - classic and sweet potato - with plenty of veggies and fresh sauces. Vegan sauces are labeled, as are sauces for nut allergies.",
+  "priceRange": "Moderate",
+  "streetAddress": "255 Finchley Rd, The O2 Centre, Level 2",
+  "postalCode": "NW36LU",
+  "phone": "tel:0203-490-3232",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/falafelcity",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.547944,-0.181416&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.547944,-0.181416&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Eveils",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Organic, Take-out\n                                    ",
+  "description": "Vegetarian restaurant serving lunch. Vegans please inquire as to menu items or dishes that can be made vegan. ",
+  "priceRange": "Moderate",
+  "streetAddress": "9 rue Jules Ledin",
+  "postalCode": "42000",
+  "phone": "tel:04-77334228",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.443216,4.382386&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.443216,4.382386&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

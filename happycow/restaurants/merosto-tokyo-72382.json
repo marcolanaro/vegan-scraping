@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Merosto",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Dining bar in Shinjuku District at 東京都新宿区新宿3-8-9平生ビルディングB1 -- take exit C5 of the metro Shinjukusanchome station. Serves mainly Indian food and has a separate vegan menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3-8-9, Hirasei building B1F, Shinjuku",
+  "phone": "tel:03-62732935",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.690619,139.706694&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.690619,139.706694&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

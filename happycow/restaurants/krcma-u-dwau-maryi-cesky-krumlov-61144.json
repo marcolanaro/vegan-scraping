@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Krcma U dwau Maryi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Czech, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An old traditional Czech tavern/restaurant by the river Vltava. Menu show many vegetarian dishes, including an Old Bohemian vegetarian feast for up to 8 persons - comes with puffed barley, buckwheat, millet, potato cake, dumpling, potatoe, salad.\r\n\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "Parkán č. p. 104",
+  "phone": "tel:+420-380717228",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/UDwauMaryi/timeline?ref=page_internal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.811431,14.315740&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.811431,14.315740&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Stern",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe bar attached to a small cinema (City Kino) where you could watch international films with original soundtrack and German subtitles. Offers a few vegetarian and sometimes a vegan choices. Has soy milk for coffee.",
+  "priceRange": "Moderate",
+  "streetAddress": "Am Graben 30",
+  "postalCode": "4020",
+  "phone": "tel:+43-732797887",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:00pm-12:00pm, Fri-Sat 5:00pm-1:00am, Sun 5:00pm-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.304904,14.289032&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.304904,14.289032&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,14 @@
+{
+  "title": "Shiang Yun",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Asian\n                                    ",
+  "description": "A 100% vegetarian/vegan Asian style restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3, Allee Madame-de-Montespan",
+  "phone": "tel:+33171406692",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 12:00pm-5:00pm, Sat-Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.837830,2.727294&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.837830,2.727294&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

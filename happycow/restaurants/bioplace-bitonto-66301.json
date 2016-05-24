@@ -1,0 +1,13 @@
+{
+  "title": "Bioplace",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food shop with a large selection of food items.",
+  "streetAddress": "Via IV Novembre, 45",
+  "postalCode": "70032",
+  "phone": "tel:+39-0806985109",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:30am-1:00pm, Mon-Wed 5:00pm-9:00pm, Fri-Sat 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.111618,16.696486&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.111618,16.696486&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

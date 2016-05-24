@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Canyon Cafe and Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Fast food, Salad bar, Juice bar, Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small restaurant with many vegetarian and vegan choices including salad and juice bars.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl Teuku Umar 8, Bukittinggi",
+  "phone": "tel:75221652",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-0.305556,100.369167&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-0.305556,100.369167&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

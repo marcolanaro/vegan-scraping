@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Luxury Soap Shop",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Labels the ingredients, and many soaps are vegan, organic, handmade. Also sells fluoride free toothpaste as well as soy candles and herbal remedies.",
+  "streetAddress": "13 Bircherley Green",
+  "postalCode": "SG14 1BN",
+  "phone": "tel:01992538564",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:30am-5:30pm, Sat 8:00am-6:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/The-Luxury-Soap-Shop/550244388342921",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.797386,-0.077192&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.797386,-0.077192&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

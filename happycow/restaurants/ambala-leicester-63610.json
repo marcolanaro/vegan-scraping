@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ambala",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Delivery, Take-out\n                                    ",
+  "description": "Vegetarian Indian sweets, chaat snacks, tea and coffee. Order by 1pm for next day delivery.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "22 Melton Rd",
+  "postalCode": "LE4 5EA",
+  "phone": "tel:01162668431",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/AmbalaFoodsUK",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.651822,-1.120908&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.651822,-1.120908&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

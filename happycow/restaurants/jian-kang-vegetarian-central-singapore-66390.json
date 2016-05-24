@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jian Kang Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out\n                                    ",
+  "description": "健康素食 serves a variety of dry and soup hand-made noodles with vegan options. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 85 Redhill Lane unit 01-88",
+  "postalCode": "150085",
+  "phone": "tel:9176-0485",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-9:00pm, Sat-Sun 8:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.287280,103.818189&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.287280,103.818189&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

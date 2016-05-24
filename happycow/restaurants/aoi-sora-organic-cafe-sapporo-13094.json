@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aoi Sora Organic Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Organic, Beer/Wine\n                                    ",
+  "description": "Organic restaurant offering plate lunches at around Y1000 each, including a quiche plate and a millet-fish plate. Also sweets. Staff speaks English. Directions: Look for the sign with the picture of blue sky and \"Bio Organic Cafe.\" Please confirm open hours and inform HappyCow.",
+  "priceRange": "Moderate",
+  "streetAddress": "Chuo Ward, Minami 1 Jonishi, 22-1-7",
+  "postalCode": "064-0801",
+  "phone": "tel:011-623-3887",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-6:00pm, Fri-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.055954,141.324260&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.055954,141.324260&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

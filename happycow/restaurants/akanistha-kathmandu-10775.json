@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Akanistha",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, International\n                                    ",
+  "description": "Free tea at all time. This is a branch of Kopan Monastery. A Buddhist Meditation centre and a guest house. There is a library, a video room, and bookshop. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Thamel",
+  "phone": "tel:977-1-4700895",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 6:00pm-7:00pm, Mon-Sun 8:00am-9:00am, Wed 6:00pm-7:00pm, Fri 6:00pm-7:00pm, Sat 2:00pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.705800,85.315700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.705800,85.315700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

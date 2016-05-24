@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bangkok Farmers' Market Community Shop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Sells produce and products from the farmer market vendors and producers.",
+  "streetAddress": "982/22 Sukhumvit Rd, Prakanong, Ground Floor",
+  "postalCode": "10110",
+  "phone": "tel:+66-0983694363",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/bkkfmshop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.718620,100.585446&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.718620,100.585446&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

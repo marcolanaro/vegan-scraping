@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BMS Organic Centre - II",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food 有机食物. No cooked food at this location. Name in Chinese: 思 源 有 機 中 心.",
+  "streetAddress": "44-1, Jln USJ 9",
+  "postalCode": "47620",
+  "phone": "tel:03-80241476",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.057610,101.603553&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.057610,101.603553&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

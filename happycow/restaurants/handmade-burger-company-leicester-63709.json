@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Handmade Burger Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Burger chain restaurant. Offers 7 vegetarian burgers, of which 4 are vegan but double check to be sure.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Highcross, Highcross Lane",
+  "postalCode": "LE1 4SD",
+  "phone": "tel:01162425875",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-10:30pm, Fri 11:30am-11:00pm, Sat 11:00am-11:00pm, Sun 11:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Handmade-Burger-Company-38032702689/timeline/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.636348,-1.138491&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.636348,-1.138491&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

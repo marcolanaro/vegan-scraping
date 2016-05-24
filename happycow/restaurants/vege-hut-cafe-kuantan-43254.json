@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Hut Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Juice bar, Take-out\n                                    ",
+  "description": "A vegan cafe with a variety of dishes. Offers free cooking classes at times. Previously located at Jalan Haji Ahmad, Lot 903, Apr 2016.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Semambu Badminton Courts",
+  "postalCode": "25300",
+  "phone": "tel:+60169217731",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-3:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.840720,103.332110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.840720,103.332110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

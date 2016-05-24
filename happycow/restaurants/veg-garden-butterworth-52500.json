@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veg Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "素園 veggie restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6551, Jalan Raja Uda",
+  "postalCode": "12300",
+  "phone": "tel:019-4185511",
+  "venueHours": "\n                                                                                                        Mon-Tue 7:00am-9:00pm, Thu-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.423114,100.381676&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.423114,100.381676&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

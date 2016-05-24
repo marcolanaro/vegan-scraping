@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pei Ying Su Shi Guan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "沛瀅素食館, at 臺北市吉林路199巷26號之1, serves vegetarian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "26, Unit 1, Lane 199, Jilin Rd",
+  "phone": "tel:02-25431673",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.059902,121.531664&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.059902,121.531664&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Maran Vegan",
+  "tags": [
+    "Health Food Store",
+    "Vegan"
+  ],
+  "description": "Vegan market with a takeaway counter/bistro inside, opened July 2013. Stocks a complete vegan range of products from fresh vegetables and fruits to faux meat and vegan cheese to frozen foods, pet food, cosmetics, cleaning products, and books.",
+  "streetAddress": "Stumpergasse 57",
+  "postalCode": "1060",
+  "phone": "tel:+43-15954900",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-7:30pm, Sat 8:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/maranvegan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.195328,16.342799&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.195328,16.342799&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

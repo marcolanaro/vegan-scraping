@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Balarama",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out\n                                    ",
+  "description": "Indian Hare Krishna vegetarian restaurant. Offers Indian sweets, snacks, and food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Orlicka 9, Praha",
+  "postalCode": "Prague 3-Zizkov",
+  "phone": "tel:222-947-365",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.078721,14.454875&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.078721,14.454875&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

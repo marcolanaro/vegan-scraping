@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Foffano's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian restaurant. Offers a separate list of the vegetarian/vegan choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "3-5 Bakehouse Hill",
+  "postalCode": "DL1 5QA",
+  "phone": "tel:01325-242086",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-2:30pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Foffanos/112680487650",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.524597,-1.554138&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.524597,-1.554138&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

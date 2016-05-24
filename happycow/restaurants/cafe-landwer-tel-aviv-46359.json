@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Landwer - Ibn Gavirol",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. In early-2016 the entire chain of Landwer cafes added even more vegan items to its menu. Options include breakfast, sandwiches, main dishes, and more. This branch is open 24/7. Casual atmosphere. This branch is wheelchair accessible only to the outdoor seating area.",
+  "priceRange": "Moderate",
+  "streetAddress": "70 Ibn Gavirol Street",
+  "phone": "tel:036964924",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/landwer1919",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.080438,34.781372&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.080438,34.781372&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

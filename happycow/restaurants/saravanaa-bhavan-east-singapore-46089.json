@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saravana Bhavan - East",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "International franchise vegetarian restaurant specializing in South Indian cuisine. This outlet is food court style.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "01 Changi Business Park Crescent, 01-18, Plaza 08",
+  "postalCode": "486025",
+  "phone": "tel:67867573",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/saravanaabhavan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.333017,103.965452&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.333017,103.965452&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Big Joe Falafel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Pizza, Fast food, Take-out, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small place making falafel, pizza, and sandwiches. Has a falafel with hummus either in a dürüm wrap or on a plate.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Am Graben 28",
+  "postalCode": "4020",
+  "phone": "tel:+43-6606862525",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 3:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Big-Joe-Falafel/123315041081896",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.304958,14.289184&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.304958,14.289184&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

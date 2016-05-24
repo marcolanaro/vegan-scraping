@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Water Drop Teahouse",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, International, Japanese, Asian\n                                    ",
+  "description": "A quaint eating place for vegetarians with vegan options. Uses no MSG. Restaurant not yet fully open, so call in advance.",
+  "priceRange": "Moderate",
+  "streetAddress": "656 Pablo Ocampo Sr Malate",
+  "phone": "tel:02-523-4909",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.563127,120.996255&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.563127,120.996255&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

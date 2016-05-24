@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loungers - Modelo Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Nationwide chain cafe-bar offering a separate vegan menu - ask for it.",
+  "priceRange": "Moderate",
+  "streetAddress": "143/145 Church Road",
+  "postalCode": "BN3 2AE",
+  "phone": "tel:01273-749559",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.831562,-0.197224&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.831562,-0.197224&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

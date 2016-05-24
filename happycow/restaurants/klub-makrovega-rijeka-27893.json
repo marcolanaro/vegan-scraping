@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Klub Makrovega",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Macrobiotic, Western, Take-out\n                                    ",
+  "description": "The health food restaurant Makrovega is located in the city center, in a cozy environment on the first floor. Most dishes are vegan and macrobiotic, there is usually a daily menu with a variety of dishes such as soups, lasagna, pizza, pasta, vegetables, cereal, legume, cakes, and crepes. The main courses are for 23HRK. Main dishes, besides vegetables, often contain tofu, tempeh or seitan. Note: closed in the periods Dec 20 to Jan 10 and Aug 7 to Aug 20.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Matije Gupca 7",
+  "postalCode": "51000",
+  "phone": "tel:+38551321145",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.325170,14.445016&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.325170,14.445016&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

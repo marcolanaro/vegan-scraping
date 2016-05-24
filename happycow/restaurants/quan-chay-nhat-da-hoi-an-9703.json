@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Quan Chay Nhat Da",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Take-out, Vietnamese, Buddhist\n                                    ",
+  "description": "Nhat Da makes mockmeats and bamboo dishes, mostly daily buffet. Go when busy, morning and early lunch. Free green tea. Uses MSG. Note that the place next door (to the left) is owned by the same people who will give you the food if the front of Nhat Da is closed. Directions: Located west of the town center. Take Hai Ba Trung (D Nhi Trung) away from the river and turn left onto Phan Chu Trinh (also written as Phan Chau Trinh). Number 98 is further west, past Nhi Trung.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "98 Phan Chu Trinh",
+  "phone": "tel:0905441446/,%200903535143",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.878522,108.324240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.878522,108.324240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

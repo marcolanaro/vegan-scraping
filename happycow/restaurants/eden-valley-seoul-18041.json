@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eden Valley",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Buffet, Korean\n                                    ",
+  "description": "Restaurant and health food shop. All-you-can-eat buffet at lunch and dinner. Features brown rice, whole wheat bread, mock meats, tofu with mushroom, salad bar, spaghetti, glass noodle, buckwheat noodle, brown rice cake, various side dishes. Uses many organic ingredients from its own farm in Wonju, Gangwon-do. Directions: Subway Bundang Line off at Ori station, from Exit 2, turn right and walk 200m to Ori three-way junction, turn left at Nak Saeng Nong Hyup Bank, walk 100m to WA BAR (beer bar), the entrance is to the left, Eden Valley is on the second floor. Or Bus 303, 370, 1005-2, 9000, 9407: off at Sungwoo Star Us Office-tel (across street from Eden Valley). 60, 102, 116, 116-1, 116-3, 230, 300, 310, 380, 520, 700-2, 720-2, 810, 820, 1001, 1005-1, 1116, 1303, 1500-3, 3500, 5500-1, 7007-1, 8100, 9001, Airport Limousine Bus: off at Hanaro Mart (Agro-Fisheries market). 230, 9401, 9403, 9408, 9409, 9414: off at Ori Station (Dong Il High Vill).",
+  "priceRange": "Moderate",
+  "streetAddress": "187-4 Gumi-dong, Bundang-gu, Seongnam-si, Gyeonggi-do",
+  "postalCode": "463-870",
+  "phone": "tel:82-317119201",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-2:30pm, 5:30pm-8:00pm, Sun 11:30am-2:30pm, 5:30pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.338382,127.110583&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.338382,127.110583&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

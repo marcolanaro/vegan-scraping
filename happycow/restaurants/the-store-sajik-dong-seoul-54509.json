@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Store Sajik-dong",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian\n                                    ",
+  "description": "Serves only vegetarian and vegan Tibetan and Indian style curries and dosa, chai and teas including soy milk options. Some dishes contain dairy, check with staff first. Name in Korean: 사직동 그가게.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-7 Sajik-dong, Jongno-gu",
+  "phone": "tel:070-40456331",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.577040,126.967803&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.577040,126.967803&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

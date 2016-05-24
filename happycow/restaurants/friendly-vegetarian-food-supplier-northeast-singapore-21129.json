@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Friendly Vegetarian Food Supplier",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Operating as a vegetarian food retailer since 1988.",
+  "streetAddress": "Blk 421 Ang Mo Kio Avenue 10, 01-1165",
+  "postalCode": "560421",
+  "phone": "tel:64566607",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.365115,103.852997&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.365115,103.852997&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

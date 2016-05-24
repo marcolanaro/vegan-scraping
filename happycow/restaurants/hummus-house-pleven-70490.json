@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hummus House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, European, Middle Eastern\n                                    ",
+  "description": "Serves only vegetarian and vegan dishes in a cozy setting. Offers a large selection of main courses and desserts. English menu and staff. Generally very helpful and happy to help. Wi-Fi. Restroom very clean. Name: Хуммус Хаус.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bul Hristo Botev 48",
+  "phone": "tel:00359877670170",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Hummus-House-588717697861762",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.411097,24.626354&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.411097,24.626354&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

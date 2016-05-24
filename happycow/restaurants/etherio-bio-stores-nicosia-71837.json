@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Etherio Bio Stores",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "The first chain of fully organic shops in Cyprus, with more than 8000 products, including plenty of vegan items. Has multiple locations in Nicosia and Limassol.",
+  "streetAddress": "Armenias 67, Acropoli",
+  "postalCode": "2006 ",
+  "phone": "tel:22518166",
+  "venueHours": "\n                                                                                                        Mon-Tue 9:00am-6:30pm, Wed 9:00am-3:00pm, Thu-Fri 9:00am-6:30pm, Sat 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/EtherioBioStores",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.152760,33.367701&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.152760,33.367701&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

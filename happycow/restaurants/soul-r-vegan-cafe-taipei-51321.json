@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soul R. Vegan Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Western\n                                    ",
+  "description": "Vegan restaurant opened in summer 2014 at 台北市忠孝東路三段217巷1弄6號. Cooks Italian and western food like pasta, risotto, burger, and waffles. No garlic or onion used. Took over the space of the now defunct Loving hut; different ownership.",
+  "priceRange": "Expensive",
+  "streetAddress": "6, Alley 1, Lane 217, Sec. 3, Zhongxiao East Road, Da’an District",
+  "postalCode": "106",
+  "phone": "tel:02-27711365",
+  "venueHours": "\n                                                                                                        Mon-Wed 2:30pm-9:00pm, Thu-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/soulrvegancafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.041873,121.538620&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.041873,121.538620&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

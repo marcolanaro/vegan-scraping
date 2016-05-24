@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ching Sin",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai, Take-out\n                                    ",
+  "description": "Typical of Thai Chinese style vegetarian places. Food in trays that you can point to. No brown rice. Operates 2 shops a couple of minutes apart by vehicle or 10 minute walk. Please send exact geocode to happycow.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "69 / 26 - 29 Saeng Athit",
+  "phone": "tel:0831915687/,%200835375848",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.003783,100.467722&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.003783,100.467722&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

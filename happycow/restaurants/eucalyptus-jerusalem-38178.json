@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eucalyptus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Beer/Wine, Middle Eastern, Kosher, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Kosher traditional restaurant. Has vegetarian and vegan food. No dairy used.",
+  "priceRange": "Expensive",
+  "streetAddress": "14 Hativat Yerushalyiim",
+  "postalCode": "094117",
+  "phone": "tel:+972-2-6244331",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-12:00am, Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Restaurant.Jerusalem",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.773557,35.226806&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.773557,35.226806&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

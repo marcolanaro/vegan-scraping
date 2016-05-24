@@ -1,0 +1,18 @@
+{
+  "title": "Da Vinci",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Pizza, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian restaurant. Will provide a vegan menu with one day advance reservation. Can make vegan pizza with nooch, tofu cutlet, pasta dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Herner Str. 330",
+  "postalCode": "45659",
+  "phone": "tel:02361372410",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.586810,7.209990&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.586810,7.209990&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

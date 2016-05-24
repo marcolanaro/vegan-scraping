@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Orion Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International, Organic, Thai, Western, Juice bar\n                                    ",
+  "description": "Set in a quiet bay, this vegetarian cafe is located inside Orion Healing Center. Offers pre- and post- detox food, including vegan, raw food, superfoods, sattvic-yogic food prepared according to Ayurveda, Japanese and Thai cuisines. Uses organic as much as possible from its own garden or local markets. For cooking, the kitchen uses house-made ghee or rice bran oi. Has raw food options and raw desserts.",
+  "priceRange": "Expensive",
+  "streetAddress": "15/2 Moo 8, Sri Thanu, Srithanu Bay",
+  "postalCode": "84280",
+  "phone": "tel:66890480020",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/OrionRetreatCentre",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.751649,99.965978&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.751649,99.965978&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

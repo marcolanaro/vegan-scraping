@@ -1,0 +1,15 @@
+{
+  "title": "Grass",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, European, Fusion, Middle Eastern, Polish\n                                    ",
+  "description": "Small vegetarian cafe on one of the main streets of the city. Offers a good choice of clearly labeled vegan food. Serves a selection of soups, pierogis (dumplings) and falafel-based plates, among others.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ulica Weteranow Wojny 2",
+  "phone": "tel:735701707",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-8:00pm, Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/vegegrass",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.293583,19.955513&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.293583,19.955513&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Lakeland Living",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Guesthouse that serves vegetarian meals. Two cats and a chihuahua also live here.",
+  "streetAddress": "23 Wordsworth Terrace Windmill Lane",
+  "postalCode": "CA13 9AH",
+  "phone": "tel:07765675530",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.661757,-3.358321&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.661757,-3.358321&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

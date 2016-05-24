@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Farmers Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Hackney Farmers Market. Saturdays 9am-5pm. The market offers a varied selection of goods including organic & conventional veggies, organic fair-trade coffee, organic breads and pastries, snack foods, and health drinks. Find Gujurati Rasoi Indian food stall here.",
+  "streetAddress": "Broadway Market, Hackney",
+  "postalCode": "E8 4PH",
+  "phone": "tel:07709-311869",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.536710,-0.061780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.536710,-0.061780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

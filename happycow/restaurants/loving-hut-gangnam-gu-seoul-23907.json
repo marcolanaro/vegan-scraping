@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Gangnam-gu",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Asian, Korean\n                                    ",
+  "description": "Part of international chain of vegan restaurants opened by followers of Supreme Master Ching Hai, an advocate for veg living. Each location is individual family operated. This one, located at 서울 강남구 개포동 1218-16, serves vegan food, coffee and tea, non-alcoholic beverages, cake, and more. Veg shop attached. Dec 2015 reported still operating.",
+  "priceRange": "Moderate",
+  "streetAddress": "Seoul, Gangnam-gu, Gaepo-dong 1218-16",
+  "phone": "tel:02-5762158",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.476871,127.049430&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.476871,127.049430&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

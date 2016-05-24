@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Allora - Ben Gurion",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian restaurant offers a separate vegan menu which includes salads, pasta, pizza, risotto, and others.",
+  "priceRange": "Moderate",
+  "streetAddress": "39 Ben Gurion Blvd",
+  "phone": "tel:03-5221123",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-12:00am, Fri-Sat 10:00am-12:00am, Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Allora.Rest",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.084644,34.773731&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.084644,34.773731&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,13 @@
+{
+  "title": "Farmers Market - Acton High Street",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Local and seasonal vegetables, fruits, food, and more.",
+  "streetAddress": "Public square on Acton High Street",
+  "postalCode": "W3 9DJ",
+  "phone": "tel:020-7833-0338",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.507740,-0.273050&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.507740,-0.273050&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

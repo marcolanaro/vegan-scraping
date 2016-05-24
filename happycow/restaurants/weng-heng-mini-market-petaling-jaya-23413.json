@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Weng Heng Mini Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food items. 有机食物.",
+  "streetAddress": "15, SS22, Jln 11 Damansara Jaya",
+  "postalCode": "47400",
+  "phone": "tel:03-7728-0936",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.127611,101.622764&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.127611,101.622764&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

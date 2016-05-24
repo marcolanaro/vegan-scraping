@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tuwi",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Western\n                                    ",
+  "description": "Cultural centre also offering vegan food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Peter-Jordan-Strasse 76",
+  "postalCode": "1190",
+  "phone": "tel:+43-1476542008",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.237234,16.335032&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.237234,16.335032&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

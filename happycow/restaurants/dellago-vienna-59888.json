@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dellago",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Italian, Organic, Buffet, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian restaurant with nice, modern set-up. Can ask to use vegan cheese instead of dairy cheese. Has vegan cake and wine. On Tuesday, all-you-can eat brunch buffet includes vegan pancakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Payergasse 10",
+  "postalCode": "1160",
+  "phone": "tel:+43-19574795",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-12:00am, Fri 8:00am-2:00am, Sat 9:00am-2:00am, Sun 9:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/dellago.yppenplatz",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.214068,16.336604&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.214068,16.336604&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

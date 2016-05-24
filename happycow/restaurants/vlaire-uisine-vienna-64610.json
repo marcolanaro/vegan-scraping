@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vlaire Uisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Beer/Wine, Take-out, Asian, Fusion\n                                    ",
+  "description": "Asian fusion vegetarian and vegan cuisine restaurant, est. May 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Otto Bauer Gasse 25",
+  "postalCode": "1060",
+  "phone": "tel:+43-1-8904041",
+  "venueHours": "\n                                                                                                        Mon 11:30am-3:00pm, 5:30pm-11:00pm, Wed-Sun 11:30am-3:00pm, 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/vlaire.uisine",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.196983,16.347740&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.196983,16.347740&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

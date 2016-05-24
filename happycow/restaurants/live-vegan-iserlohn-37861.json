@@ -1,0 +1,15 @@
+{
+  "title": "Live Vegan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Organic, Salad bar, Beer/Wine, Delivery\n                                    ",
+  "description": "A modern vegan and fairfood cafe serving fair trade coffee specialties with an international menu of vegan dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rahmenstrasse 10",
+  "postalCode": "53638",
+  "phone": "tel:+49-23-71-955-88-79",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Fri 6:30am-6:30pm, Sat 11:00am-6:30pm, Sun 2:00pm-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.373880,7.691057&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.373880,7.691057&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

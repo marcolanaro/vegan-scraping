@@ -1,0 +1,18 @@
+{
+  "title": "La Chayote",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Organic, Western, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An all-organic restaurant offers plenty of vegan and vegetarian dishes. Uses local produce. Uses no chemicals.",
+  "priceRange": "Moderate",
+  "streetAddress": "9 rue de l'Espagne",
+  "postalCode": "64700",
+  "phone": "tel:05-59256745",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.488649,-1.477892&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.488649,-1.477892&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

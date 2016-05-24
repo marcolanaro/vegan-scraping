@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Akasha Home Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Macrobiotic, Organic, Western, Asian\n                                    ",
+  "description": "A small restaurant on the road into Srithanu offering mostly organic  and macrobiotic food including salads, soups, pasta, rice dishes, and desserts. Honey used in some dishes. No refine sugar. Also has a small shop selling health food products. Formerly called Macrobiotic World. New ownership as of Jan 2015. All food is vegan but offers yogurt on request.",
+  "priceRange": "Moderate",
+  "streetAddress": "Moo 8 Sritanu, Sri Thanu Vilage",
+  "postalCode": "84280",
+  "phone": "tel:897854801",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.761116,99.966318&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.761116,99.966318&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sagar - Covent Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, Beer/Wine\n                                    ",
+  "description": "This small vegetarian South Indian restaurant offers a vegan menu. Serves nut-free, wheat-free and onion & garlic-free dishes. Try the early dining offer of around £6-7 for papadam and pickle, raitha, 2 curries, rice, bread and dessert.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "31 Catherine St, Covent Garden",
+  "postalCode": "WC2B 5JS",
+  "phone": "tel:0207836%206377",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-11:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.512728,-0.120730&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.512728,-0.120730&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sriyani",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Juice bar, Take-out, Bakery, Sri Lankan\n                                    ",
+  "description": "South Indian and Sri Lankan food and eggless bakery items. Menu include rice curry, quick eats like vada and bonda, chapati with curry, biryani, dosai, and real fruit juices.",
+  "priceRange": "Moderate",
+  "streetAddress": "131 Second Cross Street, Colombo 11",
+  "postalCode": "01100",
+  "phone": "tel:2326289",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.936981,79.852012&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.936981,79.852012&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bakersfield - Hyundai",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery concession stand in the department store. Offers many labeled vegan breads, from wholemeal and rye loaves to baguettes, fruit breads, nut breads, ciabattas and foccacia.",
+  "streetAddress": "Hyundai Department Store, Level B1, 83 Sinchon-ro, Seodaemun-gu",
+  "phone": "tel:02-5643310",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Bakersfield/1445780489026764",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.555986,126.935706&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.555986,126.935706&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

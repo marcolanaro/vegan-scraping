@@ -1,0 +1,13 @@
+{
+  "title": "Biomonde Biodome",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "36 rue des Landes",
+  "postalCode": "68220",
+  "phone": "tel:0389676329",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 2:00pm-7:00pm, Tue-Thu 9:00am-12:30pm, Wed-Thu 2:00pm-6:30pm, Fri 9:00am-7:30pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.560672,7.539222&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.560672,7.539222&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

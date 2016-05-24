@@ -1,4 +1,11 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Azure Taiwan",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "A veg-friendly homestay/bed and breakfast in the countryside (峨眉鄉), accessible by train and then taxi or bus. Offers the experience of  rustic countryside lifestyle and simple, healthy food along with traditional Chinese tea ceremony. Nearby is the famous Maitreya garden with the giant Buddha statue. Owner speaks Mandarin and English.",
+  "streetAddress": "Zhuoliao village, near Emei township",
+  "phone": "tel:+886-37-603-831",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.686952,121.014404&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.686952,121.014404&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

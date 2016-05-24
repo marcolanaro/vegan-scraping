@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Raw Tribe",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Raw food catering service only; its living food cafe at Blagardsgade 2a had shut down per report May 2013.",
+  "streetAddress": "local area",
+  "phone": "tel:45-20646424",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/The-Raw-Tribe/163659376989",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.680839,12.566964&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.680839,12.566964&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

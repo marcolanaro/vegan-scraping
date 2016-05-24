@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aenon Health Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Juice bar, Asian\n                                    ",
+  "description": "A 100% vegan/vegetarian restaurant. Serves healthy food, reasonable price, clean, nice ambience and good service.",
+  "priceRange": "Moderate",
+  "streetAddress": "No 1, Jalan 4/93, Taman Miharja",
+  "postalCode": "55200",
+  "phone": "tel:0392010972",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-9:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/aenon.health.kitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.121891,101.720200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.121891,101.720200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

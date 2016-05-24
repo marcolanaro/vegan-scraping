@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nature Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "Simple food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lot 20B, Blk D, 1st floor, Old Slipway Sandakan, Jalan Pryer, Sabah",
+  "phone": "tel:011-25222021",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.840276,118.120436&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.840276,118.120436&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

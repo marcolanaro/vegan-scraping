@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hareruya Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Organic, Take-out, Fusion\n                                    ",
+  "description": "A vegetarian restaurant with vegan options. Ingredients are fresh and organic. Friendly staff. Nice atmosphere. Located in an older part of town near the city market.",
+  "priceRange": "Expensive",
+  "streetAddress": " Matsudo Shinden, 24-3-17",
+  "postalCode": "270-2241",
+  "phone": "tel:047-3629159",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 10:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/hareruyacafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.778445,139.914029&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.778445,139.914029&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

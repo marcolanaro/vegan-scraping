@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rohe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Buffet, Taiwanese\n                                    ",
+  "description": "All-you-can-eat vegan-friendly veggie hotpot restaurant. Choose your soup based from either spicy, pumpkin, Chinese medicine, sea vegetable, or Italian tomato. Offers largely whole vegetables like taro root, sweet potato, okra, cabbage, greens, and fresh shitake mushroom plus tofu in various forms and things made with cognac jelly; no garlic or onion. If you are gluten intolerant the spicy (mala), Italian, and sea vegetable soups do not contain soy sauce or thickeners or dairy. There's a large bar to create your own dipping sauce. There's also a cooked food bar which includes fake sashimi made from cognac jelly, stewed daikon, and tofu. Drinks and ice cream (dairy) are all included in the price.",
+  "priceRange": "Moderate",
+  "streetAddress": "58, Lane 160, Tunhua South Road",
+  "phone": "tel:02-27520838",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.043495,121.546621&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.043495,121.546621&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

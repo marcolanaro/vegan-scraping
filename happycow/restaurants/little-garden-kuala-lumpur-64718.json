@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Little Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Malaysian\n                                    ",
+  "description": "Est. 2014 a small vegetarian restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "62-1, Plaza Usahawan Genting Klang, Jalan Danau Niaga 1, Taman Danau Kota Setapak",
+  "phone": "tel:03-41312793",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-7:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Little-Garden-vegetarian-restaurant-288635191164767",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.202818,101.717554&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.202818,101.717554&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jheel Guest House Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Indian\n                                    ",
+  "description": "A roof-top hotel restaurant located on Lal Ghat side of Lake Pichola directly on Lake and behind Jagdish Temple, in Udaipur, Rajasthan. View of Taj Lake Palace Hotel, Lake Pichhola, historic walking bridge as well as an atmosphere typical of Udaipur's lakeside area. Serves ovo lacto vegetarian meals. Dishes with egg are labeled. Staff speak English.",
+  "priceRange": "Moderate",
+  "streetAddress": "52/56 Gangour Ghad",
+  "postalCode": "313 001",
+  "phone": "tel:+91-294-2421352",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.580795,73.681906&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.580795,73.681906&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Holland and Barrett",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "UK health food market chain. Large location, stocks vitamins and supplements as well as snacks and other foods.",
+  "streetAddress": "102 Market St",
+  "postalCode": "M1 1PB",
+  "phone": "tel:+44-1618195561",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/hollandandbarrett",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.482221,-2.238456&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.482221,-2.238456&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

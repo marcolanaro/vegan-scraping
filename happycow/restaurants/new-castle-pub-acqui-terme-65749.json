@@ -1,0 +1,17 @@
+{
+  "title": "New Castle Pub",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. English pub with a labeled vegan burger (called \"veggie\") and some salads. Offers local beers. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Cassarogna, 64",
+  "phone": "tel:+39-3498026021",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:30pm-2:00am, Wed-Sun 7:30pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.668968,8.459376&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.668968,8.459376&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

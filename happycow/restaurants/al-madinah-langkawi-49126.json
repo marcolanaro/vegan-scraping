@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Al-Madinah",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out, Middle Eastern, Pakistani, Arabic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Arabic, Pakistani, North Indian cuisine with some vegetarian choices - ask about dairy use. Formerly Ali Baba Tandoor; same owner.",
+  "priceRange": "Moderate",
+  "streetAddress": "front of Casa De Mar Hotel, Jalan Pantai Cenang",
+  "postalCode": "07000",
+  "phone": "tel:017-4962780",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.296539,99.723066&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.296539,99.723066&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

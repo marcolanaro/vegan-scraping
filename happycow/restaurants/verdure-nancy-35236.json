@@ -1,0 +1,14 @@
+{
+  "title": "Verdure",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Salad bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan choices which include salads, soups and bagel sandwiches. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15, Rue Raugraff",
+  "phone": "tel:03-83-22-70-67",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.690002,6.181601&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.690002,6.181601&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

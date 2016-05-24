@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mae Sot",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Buffet, Take-out, Burmese\n                                    ",
+  "description": "May be known as Yota and Youta. Small, Thai-Burmese restaurant in downtown Mae Sot. Food is Mahayana-Buddhist vegan though owners are not. Offers changing daily dishes which are on display and ready for take-away, or order from the menu. Menu is in Thai and Burmese. Has 6 tables for seating. Get there early for specialty options before they are sold out. Directions: coming from Prasatwiti Road, turn left onto Siriphanit Road, and it's the 2nd soi on the left, 50 meters down.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sriphanit Road, Soi 2",
+  "postalCode": "63110",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.712555,98.569851&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.712555,98.569851&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

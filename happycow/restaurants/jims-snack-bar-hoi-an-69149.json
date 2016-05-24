@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jim's Snack Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Burger and sandwich shop catering to tourists. Reported has a few vegan choices. Couple of tables for eating here.",
+  "priceRange": "Moderate",
+  "streetAddress": "60D Tran Cao Van",
+  "phone": "tel:84-962945514",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Jims-snackbar-1730590147162171",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.881214,108.326778&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.881214,108.326778&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

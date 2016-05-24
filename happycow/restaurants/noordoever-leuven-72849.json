@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Noordoever",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Buffet, Beer/Wine, Take-out, European\n                                    ",
+  "description": "A vegetarian organic buffet pay-per-gram style restaurant. Uses local ingredients. Has vegan options. Buffet items include soup, hot & cold dishes, desserts and plenty of drinks. Does not accept cash; only credit cards.",
+  "priceRange": "Moderate",
+  "streetAddress": "Vaartkom 17a",
+  "postalCode": "3000",
+  "phone": "tel:003216290470",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Noordoever",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.887731,4.702249&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.887731,4.702249&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

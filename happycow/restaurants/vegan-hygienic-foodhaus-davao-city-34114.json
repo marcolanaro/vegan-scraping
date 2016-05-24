@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Hygienic Foodhaus",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Pizza, Organic, Juice bar, Filipino\n                                    ",
+  "description": "Vegan restaurant serving pizza, fresh fruit juice, and more. Sells some health products like health teas, bread, flaxseeds. Relocated again in 2016 to Ecoland; hours updated by owner May 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ecoland",
+  "postalCode": "8000",
+  "phone": "tel:9255011996",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-8:00pm, Fri 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/vhygienicfoodhaus",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.053584,125.598591&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.053584,125.598591&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

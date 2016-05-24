@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sehat Alami",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Chinese, Delivery, Take-out, Balinese\n                                    ",
+  "description": "Bali veggie restaurant. Non smoking. Has Wi-Fi internet.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl. Raya Blahbatuh 75 Gianuar",
+  "phone": "tel:9958752",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VegetarianSehatAlami",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.544190,115.325500&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.544190,115.325500&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,19 @@
+{
+  "title": "Zen House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Beer/Wine, Take-out, Asian, Vietnamese\n                                    ",
+  "description": "Vegetarian cuisine using fresh vegetables and soy products. Has vegan food but they're not marked explicitly.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kantstr 71",
+  "postalCode": "10627",
+  "phone": "tel:03037305498",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.506985,13.300154&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.506985,13.300154&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

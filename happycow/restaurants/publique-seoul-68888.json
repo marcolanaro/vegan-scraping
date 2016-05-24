@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Publique - Gwangheungchang",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Makes French style fermented bread. Has vegan bread options. Uses organic bread flour (wheat, rye, whole wheat) to create healthier desserts and breads.",
+  "streetAddress": "Gusu-dong 68-29, B1, Mapo-gu",
+  "phone": "tel:02-7026919",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/publiqueseoul",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.545132,126.932352&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.545132,126.932352&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

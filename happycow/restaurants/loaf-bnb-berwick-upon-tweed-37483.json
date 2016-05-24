@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loaf BnB",
+  "tags": [
+    "Veg Hotel/BnB",
+    "Vegan"
+  ],
+  "description": "Vegan B&B in the countryside a short drive outside Berwick.",
+  "streetAddress": "Mount Pleasant Cottage",
+  "postalCode": "TD15 2XQ",
+  "phone": "tel:01289-308751",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Loaf-vegan-bb/269548603179693",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.750490,-2.073670&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.750490,-2.073670&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

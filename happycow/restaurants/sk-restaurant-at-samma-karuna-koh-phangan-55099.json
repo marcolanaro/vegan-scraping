@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "SK Restaurant at Samma Karuna",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Raw\n                                    ",
+  "description": "Small vegetarian cafe at the yoga center offering vegan soups, salads and mains like raw pad thai, hummus, stir fry, and fresh spring rolls. Some items like their burgers contain eggs.",
+  "priceRange": "Moderate",
+  "streetAddress": "21/1 M.8 Baan SriThanu Sri Thanu",
+  "postalCode": "84280",
+  "phone": "tel:0066-95-034-0010",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/sammakaruna",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.757842,99.967555&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.757842,99.967555&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

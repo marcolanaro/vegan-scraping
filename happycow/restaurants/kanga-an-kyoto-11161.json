@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kanga An",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Shojinryori\n                                    ",
+  "description": "Temple setting, Shojin Ryori style food, but a special style which is Fucha Ryori. Two days advance booking for party of 2 minimum is required. Address in Japanese: 京都府京都市北区小山堀地町38-16 or 閑臥庵 (please let HappyCow know)",
+  "priceRange": "Expensive",
+  "streetAddress": "278 Karasuma dori, Kita-ku, Kuramaguchi",
+  "phone": "tel:075-2562480",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-3:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.046310,135.744870&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.046310,135.744870&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mamma Mia's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional Italian food and pizza. Marks the vegetarian items (dairy) and reported began catering to vegan diners in late 2014 - ask for the vegan menu. Has a printed allergen info about all dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "46 Pudding Chare",
+  "postalCode": "NE1 1UE",
+  "phone": "tel:0191-2327193",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-2:00pm, 5:00pm-10:00pm, Sat 2:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.970700,-1.614087&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.970700,-1.614087&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "New Green Pasture Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Organic, Asian, Singaporean\n                                    ",
+  "description": "Offers a wide range of healthy, Asian focused meals including noodles in herbal soup, sushi roll (stuffed with alfalfa, beetroot, and vegetables), bibimbap. Also selling health food products from organic noodles to grains, vinegars, and others.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "190 Middle Rd, #04-22, Fortune Centre",
+  "postalCode": "188979",
+  "phone": "tel:63368755",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300180,103.852000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300180,103.852000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

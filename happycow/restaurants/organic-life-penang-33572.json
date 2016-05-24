@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Organic Life",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Carries fresh organic vegetables, organic foods, organic and natural supplements, vegetarian foods, organic and natural beverages, natural soap, natural dishwashing powder and cleaner, natural royal jelly and enzymes and more. ",
+  "streetAddress": "492A-G-5 Jalan Air Hitam, Georgetown",
+  "postalCode": "11400",
+  "phone": "tel:04-8287015",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Organic-Life/153410718049045",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.404609,100.289768&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.404609,100.289768&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

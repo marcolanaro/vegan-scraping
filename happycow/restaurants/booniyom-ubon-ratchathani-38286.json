@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Booniyom",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Thai, Buffet, Juice bar, Take-out\n                                    ",
+  "description": "At the corner of Srinarong and Thepyothi, a vegetarian place offering a large buffet. There is also a store for food, hygiene products and herbal medicine. Owned by a cooperative which offers organically grown produce delivery.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "corner of Thepyotee and Sreenarong Rd, Muang District",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 6:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.237223,104.856421&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.237223,104.856421&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

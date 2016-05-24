@@ -1,0 +1,16 @@
+{
+  "title": "Bob's Juice Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "An American juice bar in Paris. Juices, smoothies, soup, salad, sandwich, muffins, coffee, wheatgrass juice, organic options, and supplements for juices like spirulina. Has one long communal table for seating, and a bench.",
+  "priceRange": "Moderate",
+  "streetAddress": "15, rue Lucien Sampaix",
+  "postalCode": "75010",
+  "phone": "tel:0682637274",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Bobs-Juice-Bar/28014229087",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.871840,2.360570&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.871840,2.360570&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

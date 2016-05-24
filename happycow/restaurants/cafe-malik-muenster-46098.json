@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Malik",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual pub/bar with an extensive vegan menu with such items as several in-house-made cakes, wafers, hot drinks made with soy, soups, salads and hot dishes always available. Management is well-informed and committed to offer vegan dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Schlossplatz 44",
+  "postalCode": "48143",
+  "phone": "tel:0251-44210",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.963080,7.617948&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.963080,7.617948&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

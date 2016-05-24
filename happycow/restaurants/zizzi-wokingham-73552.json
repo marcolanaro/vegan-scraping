@@ -1,0 +1,17 @@
+{
+  "title": "Zizzi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian chain restaurant with a separate vegan menu offering starters like vegan bruschetta and garlic bread, pasta and pizza with vegan mozzarella, and a few desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "11 Broad St",
+  "postalCode": "RG40 1AU",
+  "phone": "tel:01189797044",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-11:00pm, Fri-Sat 11:30am-11:30pm, Sun 11:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.411017,-0.834504&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.411017,-0.834504&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

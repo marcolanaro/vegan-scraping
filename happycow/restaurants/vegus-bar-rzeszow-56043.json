@@ -1,0 +1,18 @@
+{
+  "title": "Vegus Bar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out, Polish\n                                    ",
+  "description": "Vegan restaurant with gluten free-options, opened Feb 2015. On the menu are soups, burgers, main dishes, cakes and desserts, fresh juices and coffee with soy milk.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jagiellonska 37",
+  "postalCode": "35-030",
+  "phone": "tel:17-78696-66",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-7:00pm, Sat-Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/vegusbar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.033347,21.995676&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.033347,21.995676&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

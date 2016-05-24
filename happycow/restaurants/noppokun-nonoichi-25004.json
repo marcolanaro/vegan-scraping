@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Noppokun",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Japanese, Macrobiotic\n                                    ",
+  "description": "Health food store with a cafe serving vegan lunch on the 2nd floor, at 石川郡野々市町本町2-1-24. Offers sample food on display with little colored balls below them, so for each food item you want place the little ball in the basket. Usually has a curry dish and several sides and soups. Note that the store on the first floor is not entirely vegan but does sell some difficult to find goods like textured soy protein and vegan instant ramen. Directions: from Kanazawa station take bus 15, 40, or 41 to the Nonoichi Chuo stop, walk back in the direction the bus came from and turn right at the big statue, after five minutes you should see the store on your right, it has a green sign that says \"のっぽくん\".",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2 Chome-1-24 Honmachi",
+  "postalCode": "94112",
+  "phone": "tel:076-2460210",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.532736,136.618931&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.532736,136.618931&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

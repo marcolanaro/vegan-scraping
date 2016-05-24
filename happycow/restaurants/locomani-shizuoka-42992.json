@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Locomani",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Previous reported as vegan but per Mar 2014 message, the green curry contains shrimp paste... please be sure to verify when ordering. Offers vegan meals including Vietnamese and Indonesia style dishes and has vegan cakes and pies for dessert.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shizuoka City",
+  "phone": "tel:054-260-6622",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.976709,138.388276&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.976709,138.388276&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

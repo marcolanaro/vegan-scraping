@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Damasca One",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Juice bar, Take-out, Middle Eastern, Syrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Syrian cuisine restaurant with some of the usual Mediterrean/Mid East dishes being veg/vegan suitable (like hummus, falafel, starter salads) but not labeled, so ask the staff for assistance. 2 floors of seating.",
+  "priceRange": "Moderate",
+  "streetAddress": "Souq Wakif",
+  "phone": "tel:+974-44759088",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.286765,51.532381&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.286765,51.532381&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

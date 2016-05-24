@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gasthaus Kappl",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Beer/Wine, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A large Austrian restaurant with plenty of vegan dishes. In 2015 a separate full page of vegan items was added that salads, main dishes and desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "Im Ort 11",
+  "postalCode": "3353",
+  "phone": "tel:+43-074768212",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Kappl-Moststrassenrast/180113085457583",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.029377,14.708063&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.029377,14.708063&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

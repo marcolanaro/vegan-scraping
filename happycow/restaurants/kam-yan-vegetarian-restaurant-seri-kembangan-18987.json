@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kam Yan Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Buffet\n                                    ",
+  "description": "South City shopping mall outside the second row of shophouses. Hours: 8am-8pm. Name in Chinese: 感恩素食館. Chinese Directions: 南城購物中心外面的第二排店屋. 自助素餐、中餐﹐早上有素點心。初一、十五有時會有貴人贊助素食﹐可以免費享用自助素餐.",
+  "priceRange": "Moderate",
+  "streetAddress": "6-1, Jalan SP2/4, Taman Serdang Perdana",
+  "postalCode": "43300",
+  "phone": "tel:03-8994-2298",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.030300,101.708960&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.030300,101.708960&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mikyna",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine\n                                    ",
+  "description": "This vegetarian bistro and cafe opened Jan 2015 near Ulice 5. kvetna tram stop. Offers daily menu with soup and 2 main dishes (at least 1 gluten-free). Raw, vegan, and gluten-free cakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "5. Kvetna 62",
+  "postalCode": "46001",
+  "phone": "tel:+420-482710746",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/mikynapoint",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.771781,15.063576&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.771781,15.063576&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

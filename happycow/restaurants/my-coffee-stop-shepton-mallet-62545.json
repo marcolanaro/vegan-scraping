@@ -1,0 +1,19 @@
+{
+  "title": "My Coffee Stop",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Organic, Raw, Western, Take-out, Bakery, British\n                                    ",
+  "description": "Coffee, health food, and community cinema. A unique find in Shepton Mallet since 2013, with a \"home from home\" atmosphere and free Wi-Fi. Everything is vegetarians. Offers vegan ice cream cake, vegan brownies, and a daily special vegan dish. You could also get a hot chocolate made with almond milk and vegan marshmallows. A small retail section sells books, and the ingredients you need to recreate some of the recipes at home.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "34 High St",
+  "postalCode": "BA4 5AS",
+  "phone": "tel:07941317280",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/mycoffeestopsheptonmallet",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.189621,-2.547381&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.189621,-2.547381&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

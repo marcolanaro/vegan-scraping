@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Olive",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Buffet, Juice bar, Take-out, Egyptian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A cozy coffee shop with vegan choices, including super boost smoothies and falafel. Vegans please inquire about other choices for you.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "192 Southgate Rd",
+  "postalCode": "N1 3HU",
+  "phone": "tel:02079237900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/cafeolive192",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.545753,-0.083662&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.545753,-0.083662&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

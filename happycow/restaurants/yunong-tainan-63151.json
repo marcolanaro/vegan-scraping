@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yunong",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Buffet, Taiwanese\n                                    ",
+  "description": "All-you-can-eat vegetarian buffet restaurant. Features a large spread in a well-lit, pleasant space.",
+  "priceRange": "Moderate",
+  "streetAddress": "457, Jiadong Rd",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 11:00am-2:30pm, Thu-Sun 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.164526,120.182153&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.164526,120.182153&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

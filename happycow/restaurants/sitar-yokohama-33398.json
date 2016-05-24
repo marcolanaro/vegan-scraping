@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sitar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. North Indian restaurant located within walking distance of Chinatown. While the menus is meat-heavy, the owner speaks English and understands the vegan diet. Vegan choices include aloo gobi, chana masala and vegetable curry, all served with rice or rotis. The vegetarian set can be made vegan - be sure to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "B1 Lokumal Building, 74-6 Yamashita-cho, Naka ku",
+  "postalCode": "231-0023",
+  "phone": "tel:045-641-1496",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00am-9:00am, 11:30am-2:00pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.444847,139.645178&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.444847,139.645178&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

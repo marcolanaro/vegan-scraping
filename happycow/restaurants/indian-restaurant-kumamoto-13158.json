@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Indian Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small Indian restaurant operated by a friendly couple who speak some English. Offers a vegetarian option for the set meal each day. Directions: Take tram 2 or 3 to 味噌天神前 Misotenjinmae, walk southeast 200 yards to a major junction including a petrol station, take a sharp left so you are now walking north, continue for 400 yards, and on your left will be the restaurant. Japanese address 熊本県熊本市大江5-12-11-1.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Misotenjinmae, 5-12-11-1",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.798430,130.724200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.798430,130.724200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Biohofke",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic farm store, sells fresh vegetables & fruits from local farmers along with fresh bread and a variety of fresh and packaged grocery products. Has vegan items like vegan drinks, cheese, burgers, sweet treats.",
+  "streetAddress": "Kleine Beerstraat 1",
+  "postalCode": "2018",
+  "phone": "tel:0499237935",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Biohofke",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.207890,4.427074&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.207890,4.427074&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

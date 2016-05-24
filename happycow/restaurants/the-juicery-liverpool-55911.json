@@ -1,0 +1,16 @@
+{
+  "title": "The Juicery",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juices, smoothies, and shots. Local delivery available.",
+  "streetAddress": "Unit 5, Horton House, Exchange flags",
+  "postalCode": "L2 3YL",
+  "phone": "tel:01512367637",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-3:00pm, Sat 9:00am-12:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/thejuiceryliverpool",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.407466,-2.991798&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.407466,-2.991798&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

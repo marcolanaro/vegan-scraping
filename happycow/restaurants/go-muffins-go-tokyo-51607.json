@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Go Muffins Go",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Tokyo-based vegan baker opened its storefront here in early-2016. Specialty is NY-style vegan muffins.",
+  "streetAddress": "4-2-3 Ogawa Bldg 2F  Momoi, Suginami-ku",
+  "postalCode": "167-0034",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/gomuffinsgo2013",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.713739,139.613029&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.713739,139.613029&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

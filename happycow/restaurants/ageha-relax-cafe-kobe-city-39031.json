@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ageha Relax Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Japanese, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu items containing dairy and eggs are marked as such, in Japanese (no English menu). Around 4 set dinner meals can be made vegan. Some desserts are vegan. Couch with armchair, table and chair seating in a warm atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Chuo Ku, Nakayamate Dori 2-4-8",
+  "postalCode": "650-0004",
+  "phone": "tel:0783212780",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ageha.torroad",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.694212,135.188344&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.694212,135.188344&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

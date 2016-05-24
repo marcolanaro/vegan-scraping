@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Uu Dam Chay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Vietnamese\n                                    ",
+  "description": "Vegetarian restaurant not far from Hoan Kiem lake. On the menu are dishes like fresh or deep fried spring rolls, macadamia pineapple fried rice, hotpots, soups. Prices are slightly higher than other veg places. Menu is in Vietnamese only.",
+  "priceRange": "Expensive",
+  "streetAddress": "34 Hang Bai",
+  "phone": "tel:0981349898",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Uudamchay",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.022506,105.852513&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.022506,105.852513&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

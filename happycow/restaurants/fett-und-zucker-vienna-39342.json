@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fett und Zucker",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Bakery, European, Austrian\n                                    ",
+  "description": "Little bakery cafe offering a range of cakes including a few vegan ones; savory snacks like lentil salad and bean-strudel; and daily specials. Has soy milk for coffee and tea.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hollandstrasse 16",
+  "postalCode": "1020",
+  "phone": "tel:+43-69911660092",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 1:00pm-9:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/fettundzucker",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.216301,16.377562&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.216301,16.377562&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

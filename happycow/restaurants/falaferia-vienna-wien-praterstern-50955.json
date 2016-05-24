@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Falaferia - Wien Praterstern",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Juice bar, Take-out, Middle Eastern\n                                    ",
+  "description": "In addition to falafels, offers Belgian fries, hot dogs, and juices. Most items are vegan. Located inside the Prater Stern train station, at the point where the tunnels leading to the subway lines U1 and U2 and the stairs to the ground level meet.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Wien Praterstern",
+  "postalCode": "1020",
+  "phone": "tel:01-2123714",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-12:00am, Fri-Sat 9:00am-6:00pm, Sun 9:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.218925,16.390989&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.218925,16.390989&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

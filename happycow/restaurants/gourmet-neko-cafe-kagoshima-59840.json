@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gourmet Neko Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, French\n                                    ",
+  "description": "French style cat cafe in Tenmonkan, opened 2015. Serves vegan French sweets and savories like quiche. Owner is French and speaks English. Cats on the premises At 鹿児島県鹿児島市, 東千石町10−2, 第２やまさんビル４階.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Higashisengoku-cho 10-2, Dai 2 Yamasan Biru 4F",
+  "phone": "tel:0992950226",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/gurumeneko",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.590897,130.553501&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.590897,130.553501&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

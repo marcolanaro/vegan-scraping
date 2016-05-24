@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khanam",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Small vegan bakery located 5 minutes from Nishi-Ogikubo station on the JR Chuo line. Sells a variety of muffins, scones, cakes and cookies. The place is quite popular, so it sells out fast on the weekends. \r\nAddress in Japanese: 東京都杉並区松庵３−３８−２０. A second branch with eat-in space called Trim, located 10 minutes away.",
+  "streetAddress": "Tokyo, Suginami-ku, Shoan 3-38-20",
+  "phone": "tel:+81-359301837",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 12:00pm-7:00pm, Sat-Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Khanam/295706277225326",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.702639,139.599283&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.702639,139.599283&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

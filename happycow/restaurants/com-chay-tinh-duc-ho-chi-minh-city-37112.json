@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Com Chay Tinh Duc",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Vietnamese\n                                    ",
+  "description": "As of early 2013, vegan restaurant offers two kinds of noodles to choose from; will possibly add more. Dinner choose from buffet, hotspot and noodles. Interior is clean and tidy. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "129 Da Nam Street, P3, District 8",
+  "phone": "tel:01683750149",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.748884,106.685429&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.748884,106.685429&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

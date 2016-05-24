@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Universe.Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Western, Fast food, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "宇宙客, at 米類工作室 110台北市信義區, opened Feb 2016 inside City Hall MRT station by exit 4. It's a quick service counter that offers vegan raw food dishes, raw cakes, and juices. A few seats for eating-in.",
+  "priceRange": "Moderate",
+  "streetAddress": "Taipei City Hall MRT station",
+  "phone": "tel:0960213088",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/UNIVERSECAFE-1084149871617442",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.041261,121.567168&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.041261,121.567168&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

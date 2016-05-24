@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Capricci",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Italian desserts and gelato shop offering at least 2 or 3 vegan flavors of gelato. Seating upstairs.",
+  "streetAddress": "Al Forousiya Road, 3120",
+  "phone": "tel:9744887539",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.290331,51.439639&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.290331,51.439639&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

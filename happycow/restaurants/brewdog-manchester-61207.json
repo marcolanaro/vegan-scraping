@@ -1,0 +1,18 @@
+{
+  "title": "BrewDog",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Trendy, chain craft beer bar and restaurant where many of the beer offered is suitable for vegans. Menu has a seitan burger.",
+  "priceRange": "Moderate",
+  "streetAddress": "35 Peter St",
+  "postalCode": "M2 5BG ",
+  "phone": "tel:+44-1618321922",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-1:00am, Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Brewdog-Bar-Manchester",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.478255,-2.247325&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.478255,-2.247325&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

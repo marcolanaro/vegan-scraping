@@ -1,4 +1,21 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "House Twenty8",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Indian, Organic, Mediterranean, Juice bar, Take-out, Asian, British, European, French, Middle Eastern, Spanish\n                                    ",
+  "description": "A family run vegan and vegetarian cafe, coffee house, juice and smoothie bar and food pantry. Uses all-organic ingredients on the breakfast and lunch menu based on season and with daily specials. Menu includes many gluten-free, refined sugar free and dairy free options. Has a community vibe in the heart of a busy little village in Hampshire and frequent venue for evening events. Lovely rustic interior with plenty of seating and outdoor garden decking under wooden gazebo.",
+  "priceRange": "Moderate",
+  "streetAddress": "Reading Rd, Sherfield On Loddon",
+  "postalCode": "RG27 0ex",
+  "phone": "tel:01256882210",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-5:30pm, Sat 8:30am-5:30pm, Sun 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/HouseTwenty8",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.317165,-1.025317&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.317165,-1.025317&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thuyen Vien Com Chay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Vietnamese\n                                    ",
+  "description": "Large restaurant with tables on 2 floors. Extensive and elaborate menu: rice with mockmeats, spring rolls, dumplings, noodles, steamed stuffed breads (ban bao chay), sticky rice dishes, cakes, and cookies. Also sells vegetarian grocery items for take away. Has another branch in district 11. Direction: From Phan Dang Luu & Nguyen Van Dau intersection, turn to Nguyen Van Dau street, restaurant is 50 meters on left side.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "13 Nguyen Van Dau, P.5, District Phu Nhuan",
+  "phone": "tel:8-432643/,%208433050",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.758000,106.653400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.758000,106.653400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

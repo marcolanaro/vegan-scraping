@@ -1,0 +1,15 @@
+{
+  "title": "Vegana",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Middle Eastern, Anatolian, Turkish\n                                    ",
+  "description": "All meals are available in a vegetarian version, many as a vegan version as well.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Königstraße 41",
+  "postalCode": "23552",
+  "phone": "tel:+49-45138948509",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.868008,10.688318&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.868008,10.688318&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

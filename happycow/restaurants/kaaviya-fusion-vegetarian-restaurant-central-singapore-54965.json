@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kaaviya Fusion Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian\n                                    ",
+  "description": "A posh/elegant vegetarian restaurant with vegan options. On the menu are a wide spread of Indian breads like dosai, maan, idly, prata. Dishes include fried tofu, aloo gobi, mock mutton masala and North and South Indian thali set.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "21 Chander Rd, Little India",
+  "postalCode": "219533",
+  "phone": "tel:62970590",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.307912,103.851125&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.307912,103.851125&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

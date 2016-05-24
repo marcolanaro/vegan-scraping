@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Ferme du Bois-le-Comte",
+  "tags": [
+    "Veg Hotel/BnB",
+    "Vegan"
+  ],
+  "description": "Century-old farm that was transformed into a guesthouse and group residential centre. All vegan.",
+  "streetAddress": "Bois-le-Comte 1",
+  "postalCode": "6823",
+  "phone": "tel:+32-61329920",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/boislecomte",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.638098,5.375122&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.638098,5.375122&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

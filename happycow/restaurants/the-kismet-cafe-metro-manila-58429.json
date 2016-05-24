@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Kismet Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Take-out\n                                    ",
+  "description": "California-style cafe and wellness supply store located at street level in Makati. Colorfully witty Ottoman-period-inspired wall murals and 1960's style decor plus Wi-Fi create an informal, relaxed atmosphere. Serves organic coffee, sandwiches with whole wheat bread--pressed, sealed, and toasted in a ''jaffle' press. Many organic ingredients used. ",
+  "priceRange": "Moderate",
+  "streetAddress": "5022 P. Burgos St, Barangay Poblacion, Makati City",
+  "postalCode": "1210",
+  "phone": "tel:+639177991036",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/kismet108",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.563726,121.030351&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.563726,121.030351&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

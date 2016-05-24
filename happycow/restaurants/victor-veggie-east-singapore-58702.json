@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Victor Veggie",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out\n                                    ",
+  "description": "味特素食 specialty is yong tau foo. Also on the menu are otah, satay, burger, sotong rings, and others.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 79A, Circuit Rd, Circuit Road Food Centre, Unit 01-92",
+  "postalCode": "371079",
+  "phone": "tel:85110498",
+  "venueHours": "\n                                                                                                        Mon-Sat 2:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.325265,103.884873&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.325265,103.884873&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Food for Thought",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health foods, supplements, herbs, skin care, natural cosmetics, organic wines & spirits, and more.",
+  "streetAddress": "2-6, Haydon Place, Guildford, Surrey",
+  "postalCode": "GU1 4LL",
+  "phone": "tel:01483-533841",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.237000,-0.572800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.237000,-0.572800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

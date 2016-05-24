@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kong Ai Vegetarian Centrum",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Asian, Fusion, Filipino\n                                    ",
+  "description": "Asian fusion vegetarian cuisine without garlic or onion. Food is all vegan. The only non-vegan item is ice cream. Also sells vegetarian frozen food including faux ham, nuggets, patties, plus dry goods including vegetarian oyster sauce, TVP, Meat Magic, vegetarian seasonings.",
+  "priceRange": "Moderate",
+  "streetAddress": "57 Gempesaw St",
+  "postalCode": "8000",
+  "phone": "tel:+63-0822255894",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/kongaivegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.074968,125.620573&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.074968,125.620573&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

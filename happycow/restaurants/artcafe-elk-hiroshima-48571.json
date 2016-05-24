@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Art Elk Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Japanese, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little cafe on the 2nd floor offering food and drinks as well hosts international language and friendship events. Air-conditioned with view of the shopping streets below. Advertises a 'vegetarian tourists welcome' sign. Has 4 items on its vegetarian menu, written in both English and Japanese. Vegans specify and staff will assist.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-7-23 Naka-hara bld 2F, Hiroshima, Naka-ku Otemachi",
+  "postalCode": "730-0051",
+  "phone": "tel:082-2474443",
+  "venueHours": "\n                                                                                                        Mon-Tue 9:00am-9:00pm, Wed 9:00am-6:30pm, Thu-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ELKcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.394115,132.455064&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.394115,132.455064&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

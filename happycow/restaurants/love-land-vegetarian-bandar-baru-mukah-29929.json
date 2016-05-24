@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Love Land Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "The cafe is located on a row of food stalls along the street. Vegetarian Chinese cuisine served with vegan options. Try the fried rice and wet fried noodles.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Stall 22, Medan Ria Food Court, Setia Raja Blvd",
+  "postalCode": "96400",
+  "phone": "tel:+601110531505",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-2:00pm, Mon-Thu 5:30pm-8:00pm, Sun 5:30pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Loveland-Vegetarian-Food-614504648688452l",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.894099,112.093137&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.894099,112.093137&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

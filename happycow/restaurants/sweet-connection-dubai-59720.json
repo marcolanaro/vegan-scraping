@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sweet Connection",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Fully gluten-free bakery kitchen and cafe.",
+  "priceRange": "Moderate",
+  "streetAddress": "Dubai Investment Park, Green Community, Mayfair Building, Shop 6",
+  "phone": "tel:+971-508763351",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-5:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Sweet-Connection-The-Gluten-Free-kitchen/212051742218269",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.204849,55.270783&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.204849,55.270783&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

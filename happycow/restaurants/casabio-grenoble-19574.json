@@ -1,0 +1,13 @@
+{
+  "title": "Casabio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food store with emphasis on products from local farmers. Some fair trade products.",
+  "streetAddress": "32, rue Nicolas Chorier",
+  "postalCode": "38000",
+  "phone": "tel:04-76488232?",
+  "venueHours": "\n                                                                                                        Mon 3:00pm-7:00pm, Tue-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.185190,5.710780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.185190,5.710780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

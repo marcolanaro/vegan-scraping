@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bioobchod.cz",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Vegetarian shop with multiple outlets offering a wide range of products from chilled food and vegan faux meats and cheese to fresh pressed juices, baking products, natural cosmetics, eco cleansing products, and more.",
+  "streetAddress": "Náměstí ČSA 21",
+  "postalCode": "551 01",
+  "phone": "tel:+420-734790662",
+  "venueHours": "\n                                                                                                        Mon-Tue 9:00am-5:00pm, Wed 9:00am-6:00pm, Thu-Fri 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.355308,15.918853&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.355308,15.918853&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

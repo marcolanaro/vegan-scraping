@@ -1,0 +1,18 @@
+{
+  "title": "Home Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Beer/Wine, Catering, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Western style food with international influence. Has separate vegan, vegetarian, and gluten-free menus.",
+  "priceRange": "Moderate",
+  "streetAddress": "22 Wellington Place",
+  "postalCode": "BT1 6GE",
+  "phone": "tel:+44-2890234946",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-9:30pm, Fri-Sat 12:00pm-4:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/homepopup",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.597053,-5.932849&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.597053,-5.932849&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

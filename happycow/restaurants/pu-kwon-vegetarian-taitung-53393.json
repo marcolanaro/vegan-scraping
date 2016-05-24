@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pu Kwon Vegetarian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Taiwanese\n                                    ",
+  "description": "普光斎, at 新生路623號, is a nice atmosphere vegetarian restaurant that serves hot pot or get the set meals with mock meat, rice, and sides. Has fried rice.",
+  "priceRange": "Moderate",
+  "streetAddress": "623 Xinsheng Rd",
+  "postalCode": "950",
+  "phone": "tel:0928325500",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.762462,121.136994&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.762462,121.136994&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

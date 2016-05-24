@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tuba",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Chain candy and dessert shop, also sells dried fruits, nuts, and tea.",
+  "streetAddress": "Kbrs ehitleri Caddesi 1 Alsancak Konak",
+  "phone": "tel:02324634093",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/tugbakuruyemis",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.435060,27.142524&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.435060,27.142524&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nana's Green Tea",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Japanese, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of chain matcha cafe offering green tea and matcha drinks, plus light food and sweets. Vegans could get the sweet red bean soup, mochi, and onigiri - see the English menu on its website. Located at the Paseo shopping inside the JR Tower in Sapporo Station, at 北海道札幌市北区北6条西2丁目.",
+  "priceRange": "Moderate",
+  "streetAddress": "Paseo shopping, inside JR Tower in Sapporo Station",
+  "postalCode": "060-0806",
+  "phone": "tel:011-2135459",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.091448,141.340464&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.091448,141.340464&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

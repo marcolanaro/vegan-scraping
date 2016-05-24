@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Guptaji Ki Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Fast food, Take-out\n                                    ",
+  "description": "Vegetarian restaurant serving Indian thali set meals, as much as you can eat.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "122/11 Soi Sompprasongruam",
+  "phone": "tel:0868949628/,%200868947442",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/guptajikikitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.753930,100.539380&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.753930,100.539380&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

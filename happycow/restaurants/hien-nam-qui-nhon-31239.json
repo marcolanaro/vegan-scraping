@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hien Nam",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Fast food, Take-out, Vietnamese\n                                    ",
+  "description": "Typical Vietnamese veg restaurant. Has vegan options. Com dia, 15,000d. Attached to Hien Nam Temple. Located at end of shopping mall, next to Hien Nam Pagoda. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3AB Tran Thi Ky",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.768527,109.219849&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.768527,109.219849&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

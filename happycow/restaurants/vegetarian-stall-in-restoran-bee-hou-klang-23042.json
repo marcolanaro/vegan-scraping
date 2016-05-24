@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Stall in Restoran Bee Hou",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "美好茶餐室 Chinese vegetarian restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2, Lebuh Pulau Pinang 1",
+  "postalCode": "41050",
+  "phone": "tel:016-3555688/,%2003-33443051",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.058868,101.450757&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.058868,101.450757&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

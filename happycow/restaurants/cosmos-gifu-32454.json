@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cosmos",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Name in Japanese is コスモス. It's a small, vegan-friendly store near Meitetsu Gifu Station in downtown Gifu City. Offers organic vegetables and fruits, cooking ingredients, snacks, hard-to-find in Japan vegan suitable foods like bread, chocolate, and sauces; as well as household and beauty products. The owner and staff speak a little English.",
+  "streetAddress": "Nagazumi 2-8",
+  "postalCode": "500-8175",
+  "phone": "tel:058-262-0390",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-6:00pm, Sat 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.423298,136.760654&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.423298,136.760654&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

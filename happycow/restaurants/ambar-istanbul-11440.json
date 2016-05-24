@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ambar",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic product shop in Taksim area, open Mon-Sat. Stocks organic fresh vegetable and fruits, grains, dried fruits, nuts, tofu, soya milk, miso, wakame, kombu, organic olive and olive oil, bread, gluten-free, aromatherapy oils, bio cosmetics and cleaning products, spices, herbs. Directions: When walking on the Istiklal street in Taksim, after the street turns slightly left at the Galatasaray high school, keep walking on Istiklal and take the 4th right (Kallavi street), you will see the shop a few meters to the right.",
+  "streetAddress": "Kallavi Sokak 6",
+  "phone": "tel:0212-2929272",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.032274,28.976215&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.032274,28.976215&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

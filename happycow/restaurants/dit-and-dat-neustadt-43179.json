@@ -1,0 +1,13 @@
+{
+  "title": "Dit and Dat",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A 100% organic store with fresh vegetables and fruits, bakery with vegan options, groceries, meat alternatives and natural cosmetics.",
+  "streetAddress": "Am Markt 12",
+  "postalCode": "23730",
+  "phone": "tel:04561-17190",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-6:30pm, Sat 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.107890,10.813680&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.107890,10.813680&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

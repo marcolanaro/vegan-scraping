@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pizzeria IL Sole",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. General Italian restaurant with a range of non-pizza vegetarian options, all labelled 'verdura.' Has vegan options. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Gstattengasse 15",
+  "postalCode": "A-5020",
+  "phone": "tel:0662-843284",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.801004,13.038985&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.801004,13.038985&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

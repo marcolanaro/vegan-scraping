@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "RM2",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Fast food\n                                    ",
+  "description": "Food at RM2 per serving; Chinese economic rice and noodles. Non-air con. Name in Chinese: 缘香苑素食馆.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "7，Jalan Indah 2/7, Taman Indah",
+  "postalCode": "43200",
+  "phone": "tel:+6017-685-9639",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.989034,101.792089&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.989034,101.792089&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

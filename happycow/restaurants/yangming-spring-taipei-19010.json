@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yangming Spring - Yangming Shan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Organic, Taiwanese, Gourmet\n                                    ",
+  "description": "This place is in a beautiful Zen garden like setting, right in Yangmingshan, the mountain above Taipei city. Serves set menus. Food is mostly organic, displayed carefully, and each course is explained by the waiter. Name 陽明春天蔬 (陽明山店), address 台北市士林區菁山路119之1號.",
+  "priceRange": "Expensive",
+  "streetAddress": "119-1, Chingshan Road",
+  "phone": "tel:02-2862-0178",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-3:00pm, 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.144160,121.559320&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.144160,121.559320&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

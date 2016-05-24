@@ -1,0 +1,19 @@
+{
+  "title": "Ristorante Pizzeria Bei Toni",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Italian, Mediterranean, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan and vegetarian starters, salads, pasta and pizza. Cozy place situated at the Rhine River enclosed by ancient walls. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Rheinallee 47",
+  "postalCode": "56154",
+  "phone": "tel:+49-6742-898975",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 5:30pm-10:30pm, Wed-Fri 5:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Pizza.Toni.Boppard",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.232997,7.586314&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.232997,7.586314&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

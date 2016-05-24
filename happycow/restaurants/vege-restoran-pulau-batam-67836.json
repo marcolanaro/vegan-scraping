@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Restoran",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Thai, Asian, Indonesian \n                                    ",
+  "description": "A large vegetarian restaurant serving Ikan bakar madu, mushrooms with kailan vegetables, fried rice, tom yam soup, noodles and tofu. Has plenty of vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Marina Park Blok U No 03-04, Batam, Riau, Indonesia",
+  "phone": "tel:+62-778450327",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/vegerestoran",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.136709,104.007325&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.136709,104.007325&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

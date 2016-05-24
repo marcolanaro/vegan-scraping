@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ampher Jai Station",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Beer/Wine\n                                    ",
+  "description": "Find food and tourist info, and music open mic. Please verify if this place if pure veg or not and let happycow know!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rot Fai Soi 1",
+  "postalCode": "86000",
+  "phone": "tel:66854998784",
+  "venueHours": "\n                                                                                                        Mon-Sun 5:30pm-1:30am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.502835,99.176142&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.502835,99.176142&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Art of Raw at The Garden Zadar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Western\n                                    ",
+  "description": "Open during high season only -- must check ahead before you go. Sister restaurant to the Art of Raw in Zagreb, this one is at The Garden Zadar. A bar menu, includes local beers. The main menu is divided into savory and sweet with snacks such as kale chips and banana crepes, as well as more substantial ones such as stuffed champignon, spaghetti with courgettes and dill. Also serves desserts. Season opens May 20th 2016. Closed in bad weather.",
+  "priceRange": "Moderate",
+  "streetAddress": "Liburnska obala 6",
+  "postalCode": "23000",
+  "phone": "tel:023250631",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-1:30am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/TheGardenZadar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.118263,15.223658&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.118263,15.223658&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bangkok Farmers' Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Connects non-gmo, organic, and pesticide free producers with consumers. See website for dates and times.",
+  "streetAddress": "Gateway Ekamai",
+  "phone": "tel:0922571106",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/bkkfm",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.718620,100.585446&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.718620,100.585446&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

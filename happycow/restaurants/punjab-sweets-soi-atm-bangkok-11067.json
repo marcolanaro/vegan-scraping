@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Punjab Sweets - Soi ATM",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "Small vegetarian Indian restaurant, basic decor. Serves dosa, puri, samosa, namkeen, Indian sweets, chai, and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "311-1A Soi ATM",
+  "phone": "tel:02-2226541",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.743750,100.501380&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.743750,100.501380&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

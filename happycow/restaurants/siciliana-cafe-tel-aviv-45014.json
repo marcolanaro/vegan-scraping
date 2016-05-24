@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Siciliana Cafe",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Ice cream shop/cafe offers many vegan ice cream flavors made from soy milk as well as many vegan sorbet flavors. Indoor and outdoor seating. Wi-fi.",
+  "streetAddress": "63 Ibn Gvirol Street",
+  "phone": "tel:03-696-2458",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.079007,34.781266&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.079007,34.781266&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Topi Inn",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, International, Western, Juice bar, Take-out, Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu is very extensive and has several sections split into vegetarian and non-vegetarian. Indonesian, pizza, pasta, complete meal salads, baguette, and breakfast dishes. Juices and smoothies.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl Silayukti 99, Padangbai",
+  "postalCode": "80872",
+  "phone": "tel:+62-36341424",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Topi-Inn/423545947735372?sk=timeline&ref=page_internal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.529898,115.507411&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.529898,115.507411&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

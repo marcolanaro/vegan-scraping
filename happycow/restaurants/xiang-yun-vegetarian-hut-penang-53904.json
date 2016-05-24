@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xiang Yun Vegetarian Hut - Bayan Point",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Chinese, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "香雲素食坊 has a few branches. This one serves a variety of dishes, from set meal and western food to dessert. Also open if 1st or 15th of month fall on Tuesday.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "17-G-31, Medan Kampung Relau, MK12 Bayan Point, Bayan Lepas",
+  "postalCode": "11900",
+  "phone": "tel:6016-4426936/,%206016-4446936",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-10:00pm, Wed-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.333135,100.294066&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.333135,100.294066&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

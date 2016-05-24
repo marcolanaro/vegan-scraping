@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dos Tacos",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, Take-out, Mexican, Fusion, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Korean-style Mexican food. Could build your own burrito. Located at 서울시 서초구 서초동 1303-35 강남 채영 데시앙루브 104호.",
+  "priceRange": "Moderate",
+  "streetAddress": "Seocho-Dong, Seocho-gu, 1303-35 Gangnam Chae-young de Xiang Rube 104, Gangnam-gu",
+  "phone": "tel:+82-25935904",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/dostacoskorea",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.499907,127.037393&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.499907,127.037393&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Filistin Lokantasi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small ethnic eatery serving Middle Eastern style food. Offers hummus, falafel, falafel wraps, chickpea salad, fattoush and other vegan items. At least half of the menu appears to be vegan. Please note that items marked etli and tavuk contain meat. Has inexpensive menu deals.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Iskender Pasa Mah Kitasi, Cad No 32 Fatih",
+  "postalCode": "34091",
+  "phone": "tel:+90-532-668-4940",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/filistinlokantasi",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.016242,28.950896&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.016242,28.950896&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

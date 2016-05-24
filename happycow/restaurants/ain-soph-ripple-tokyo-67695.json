@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ain Soph.Ripple",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Fast food, Beer/Wine, Take-out, Fusion\n                                    ",
+  "description": "The fourth Ain Soph, this one opened Dec 2015 and is more casual, cafe style. Location is in Kabukicho/Shinjuku near Seibu Shinjuku station North exit. Serves plant-based cuisine with veggie burgers, burritos, salad bowls, and even French toast.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shinjuku-ku Kabuki-cho 2-46-8 Nissho Building 1F",
+  "postalCode": "160-0021",
+  "phone": "tel:0363803205",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/AIN-SOPHripple-アインソフ-リプル-歌舞伎町店-1296520207085305",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.697761,139.700643&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.697761,139.700643&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

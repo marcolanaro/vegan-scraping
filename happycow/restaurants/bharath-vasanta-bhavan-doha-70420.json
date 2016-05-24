@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bharath Vasanta Bhavan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Delivery, Take-out\n                                    ",
+  "description": "Vegetarian Indian restaurant serving South Indian and North Indian cuisines.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Al Ghanim, Near Crazy Signal, Old Airport Rd",
+  "phone": "tel:%2044432211",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-3:00pm, 6:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.276726,51.538893&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.276726,51.538893&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

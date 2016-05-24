@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yasaiya Mei",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Teishoku, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This upmarket casual restaurant specializes in vegetable dishes and showcases fresh vegetables from various areas of Japan. Photos of the growers along with maps of farm locations are displayed on its walls. Prices moderate for lunch, more expensive for dinner. Many of the a la carte sides are vegetable-based, such as simply-cooked fresh vegetables and salads. Dinner is set menus with 2 or so being vegetarian and could be made vegan when requested. Example dish is vegetable tempura on rice and barley with pickled vegetable side, fresh tomato side, and tororo (mountain yam grinded into a foamy paste). Has English menu, but do specify if you are veg/vegan as some food photos might not accurately represent if a dish contains fish/meat or not. The shabu-shabu is not veg. Directions: Nankai main line Namba station south exit 2-minute walk or subway Midosuji line Namba station exit. r.gnavi.co.jp/k462250/lang/en",
+  "priceRange": "Expensive",
+  "streetAddress": "Namba Parks, 2-10-70 Nambanaka Naniwa-ku",
+  "postalCode": "556-0011",
+  "phone": "tel:+81666362240",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.659786,135.499091&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.659786,135.499091&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

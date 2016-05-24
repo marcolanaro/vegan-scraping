@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Schnurrke",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American\n                                    ",
+  "description": "Coffee house offering breakfast, vegetarian and vegan sandwiches and a variety of refreshing drinks as well as coffee and tea. Soy milk available for an additional charge.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ritterstrasse 27",
+  "postalCode": "50668",
+  "phone": "tel:022184617980",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.947200,6.952039&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.947200,6.952039&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

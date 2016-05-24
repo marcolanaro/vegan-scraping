@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sam Poh Vegetarian House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet\n                                    ",
+  "description": "Chinese vegetarian food restaurant owned by Ampang Sam Poh Thong Buddhist temple. There is an extensive buffet with over 20 options, including many veggie dishes, mushrooms, soy meats, tofu skin and soy bean roll. Both white and brown rice are available. You will be charged according to what you put on your plate. All food is vegan, no eggs are used, but there is dairy in some drinks. Directions: From the train station, walk down Jalan Ampang for 5 minutes on the right hand side, stay on the right at the V intersection and go down Jalan Ampang Besar, then turn left at the second laneway, and second right at Jalan Wawasan 4/6.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "51 Jalan Wawasan 4/6, Bandar Baru Ampang",
+  "postalCode": "6800",
+  "phone": "tel:0173689818",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-4:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.146161,101.763714&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.146161,101.763714&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

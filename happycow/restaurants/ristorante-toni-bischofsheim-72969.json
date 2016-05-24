@@ -1,0 +1,16 @@
+{
+  "title": "Ristorante Toni",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A modern Italian restaurant with a summer terrace and a separate vegan menu which includes pizza, pasta dishes, salads, wine and much more. Reopened May 3, 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kasteler Strasse, 16",
+  "postalCode": "65474",
+  "phone": "tel:+496144-3386033",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-2:30pm, 5:30pm-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Ristorante.Toni",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.992582,8.347800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.992582,8.347800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

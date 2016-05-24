@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Apprivoiser Whole Food Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Organic, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic whole food cafe on Kyoto’s Kawarmachi St, est. 2013. Offers Japanese-style breakfast, lunch sets, hot sandwiches, granola, and more. Vegan sweets include a nut tart. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "716, Uematsu-cho, Simogyo-ku",
+  "phone": "tel:075-3516251",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/cafeapprivoiser",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.998498,135.767214&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.998498,135.767214&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

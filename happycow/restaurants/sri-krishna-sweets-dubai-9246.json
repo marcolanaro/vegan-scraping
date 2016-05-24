@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sri Krishna Sweets",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Fast food, Take-out\n                                    ",
+  "description": "Specializes in Indian sweets (Mysore Pa of Sri Krishna Sweets fame). Please call restaurant for directions, or see map. Located opposite of Karama GPO. Exact GPS coordinates are Lat - 25.245298; Long - 55.307316.",
+  "priceRange": "Moderate",
+  "streetAddress": "D 81 - Za'abeel Road (see comments)",
+  "postalCode": "122771",
+  "phone": "tel:+9714-3973132",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-3:00pm, 6:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.245239,55.307372&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.245239,55.307372&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

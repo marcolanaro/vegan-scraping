@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "High Limit - International Hotel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. At the International Hotel's pool-side restaurant, you could get a vegan risotto dish. Dishes are marked with containing allergens, and all dishes that contain dairy are marked as such.",
+  "priceRange": "Expensive",
+  "streetAddress": "Golden Sands Resort, Front Beach Alley",
+  "postalCode": "9007",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.283603,28.043180&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.283603,28.043180&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

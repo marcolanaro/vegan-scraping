@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soy & Vegetable Once A Week",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Take-out\n                                    ",
+  "description": "Vege soy meat lunch box cafe.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-2-1 Shinsakae, Nakaku",
+  "postalCode": "460-0004",
+  "phone": "tel:052-2657158",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.169695,136.910910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.169695,136.910910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

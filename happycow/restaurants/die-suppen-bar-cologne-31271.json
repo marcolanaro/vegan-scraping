@@ -1,0 +1,15 @@
+{
+  "title": "Die Suppen Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee and lunch bar serving soup, salad, and hot meals. Mostly vegetarian, with vegan options clearly marked.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Komodienstrasse 99",
+  "postalCode": "50667 Koeln",
+  "phone": "tel:0221-9139964",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.941388,6.951981&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.941388,6.951981&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Le Cafe Velo",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine, Take-out\n                                    ",
+  "description": "A vegetarian pub/cafe/bike shop with vegan options. All food is freshly made-in-house.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "59 rue Nicolas Chorier",
+  "postalCode": "38100",
+  "phone": "tel:0984152325",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-2:30pm, Wed-Fri 5:30pm-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cafevelogrenoble",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.184442,5.710045&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.184442,5.710045&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

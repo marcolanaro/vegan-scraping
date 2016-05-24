@@ -1,0 +1,13 @@
+{
+  "title": "La Vie Claire",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "7 place Bouvet",
+  "postalCode": "35400",
+  "phone": "tel:0299817109",
+  "venueHours": "\n                                                                                                        Mon-Fri 3:00pm-7:30pm, Tue 9:00am-12:30pm, Wed-Thu 9:30am-12:30pm, Fri 9:00am-12:30pm, Sat 9:30am-12:30pm, 3:00pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.637049,-2.016999&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.637049,-2.016999&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

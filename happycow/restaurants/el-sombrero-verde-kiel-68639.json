@@ -1,0 +1,19 @@
+{
+  "title": "El Sombrero Verde",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Take-out, Mexican, Tex-Mex\n                                    ",
+  "description": "An all vegetarian restaurant with several vegan options, plus most other dishes can be ordered vegan. Also serves breakfast.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kleiner Kuhberg 12",
+  "postalCode": "24103",
+  "phone": "tel:+49-43198289963",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-12:00am, Fri-Sat 11:00am-1:00am, Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sombreroverdekiel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.321231,10.132081&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.321231,10.132081&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

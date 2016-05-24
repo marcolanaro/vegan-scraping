@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Vietnamese\n                                    ",
+  "description": "Part of international chain of vegan restaurants inspired by Supreme Master Ching Hai, an advocate for veg living. Each location is individual family owned and operated. Serves all vegan food, non-alcoholic beverages, and vegan desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "128 An Duong Vuong",
+  "phone": "tel:+84543626861",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-1:00pm, 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/nhahangthuanchayphivan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.450260,107.605229&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.450260,107.605229&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

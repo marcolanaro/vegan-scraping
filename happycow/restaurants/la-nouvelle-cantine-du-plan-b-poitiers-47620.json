@@ -1,0 +1,20 @@
+{
+  "title": "La Nouvelle Cantine du Plan B",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Beer/Wine, French\n                                    ",
+  "description": "Restaurant serving seasonal, organic food cafeteria style. Ambiance is casual.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "30-32 Boulevard du Grand Cerf",
+  "postalCode": "86000",
+  "phone": "tel:0634016314",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/LaCantineDuPlanB",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.586426,0.338143&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.586426,0.338143&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bioplanet",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic supermarket stocking a wide range of products, from food to personal care products. Note that its attached restaurant had shut in 2015.",
+  "streetAddress": "Drongensesteenweg 134",
+  "postalCode": "9000",
+  "phone": "tel:09-2170458",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.056390,3.696780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.056390,3.696780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

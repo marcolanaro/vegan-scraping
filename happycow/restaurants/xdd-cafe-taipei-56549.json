@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "XDD Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Chinese, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Wi-fi, board games and coffee shop. Reported to no longer be 100% veg, Oct 2015.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "185 Jinzhou St, Zhongshan District",
+  "phone": "tel:02-25233808",
+  "venueHours": "\n                                                                                                        Mon-Fri 3:00pm-11:00pm, Sat-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/XDDcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.060438,121.531099&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.060438,121.531099&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

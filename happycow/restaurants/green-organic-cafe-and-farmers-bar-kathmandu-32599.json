@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Organic Cafe and Farmers Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, International, Organic, Western, Juice bar, Beer/Wine, Nepalese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A slow food restaurant located in Thamel, Kathmandu. Offers organic food and beverage and sells fresh, seasonal vegetable directly from the owner's farm.",
+  "priceRange": "Expensive",
+  "streetAddress": "Chaksibari Marg",
+  "phone": "tel:9843044205",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.713945,85.310168&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.713945,85.310168&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

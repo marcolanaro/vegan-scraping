@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Garobee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Korean\n                                    ",
+  "description": "A vegetarian and vegan buffet with an all-you-can-eat buffet that costs around 15,000 won (price as of Dec 2013). Serves a wide range of entrees, soups, salads, side dishes and beverages. Located behind the Lotte Mart. Name: 가로비. Street Address: 전주시 완산구 서신동 968-6 코뎀빌딩 2 층.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jeonju Wansangu Kodem Seosindong, Bldg 968-6",
+  "phone": "tel:063-272-3399",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.835120,127.121315&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.835120,127.121315&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

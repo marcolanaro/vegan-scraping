@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kibutz Harduf",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Hungarian\n                                    ",
+  "description": "Woman chef owns and operates vegetarian cafe serving Hungarian recipes with vegan options. Located in a village in nature.",
+  "priceRange": "Moderate",
+  "streetAddress": "Harduf Area ",
+  "postalCode": "17930",
+  "phone": "tel:04-9059229",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/profile.php?id=100003250322598",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.763528,35.148893&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.763528,35.148893&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

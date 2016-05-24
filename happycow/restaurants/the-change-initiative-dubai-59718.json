@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Change Initiative",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "An eco (green) store that sells products which reduce human impact on the environment and promotes sustainable development. Stocks organic food products, eco-friendly cleaning products, baby clothes and products. In a multi-faceted community space of 50,000 square feet comprising retail, café, bakery, offices, event facilities, as well as a sensory education centre for babies and toddlers. ",
+  "streetAddress": "Sheikh Zayed Rd",
+  "postalCode": "114706",
+  "phone": "tel:800824",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TheChangeInitiative",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.062718,55.130761&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.062718,55.130761&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

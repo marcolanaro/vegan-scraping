@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hollerei",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Organic, Western, Mediterranean\n                                    ",
+  "description": "Vegetarian restaurant with a small garden. Offers Asian-inspired as well Mediterranean food with starters like falafel and pita, main dishes like lasagna, noodle and curry, plus soups and salads. For dessert there's tiramisu and creme brule.",
+  "priceRange": "Expensive",
+  "streetAddress": "Hollergasse 9, Wien",
+  "postalCode": "1150",
+  "phone": "tel:+43-18923356",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-11:00pm, Sun 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Hollerei/152407764778039",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.186920,16.324910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.186920,16.324910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

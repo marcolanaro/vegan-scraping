@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Todambopsang",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Korean , Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Specializes in traditional vegetable side dishes for lunch and dinner. Dishes are cheap and many are vegan. From Sadang station, exit 10, walk straight, take the 5th left and the next right.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dongjakdaero15gil 15, Dongjak-gu",
+  "phone": "tel:02-5860163",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.482151,126.980759&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.482151,126.980759&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

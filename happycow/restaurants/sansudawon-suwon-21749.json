@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sansudawon",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Korean\n                                    ",
+  "description": "Open since 2007, Sansudawon is a traditional cafe. May have only a couple vegan choices. The owner, who speaks a little English, also offers cooking classes, yoga classes, and traditional tea ceremony classes. An oasis for vegetarians in Suwon, if a little more expensive than your usual Korean style restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "1008-12 Yeongtong-dong, Yeongtong-gu",
+  "phone": "tel:031-2382208",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/suniyoga",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.254482,127.072806&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.254482,127.072806&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Raan Tang Lieng Soon",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Thai, Buffet, Take-out\n                                    ",
+  "description": "Buffet style vegetarian restaurant offering changing variety of Chinese and Thai food dishes. Its space opens towards the street. Thai language only. NOTE: please send exact map coordinates to happycow.",
+  "priceRange": "Moderate",
+  "streetAddress": "93-95 Juem Jom Phol Rd",
+  "postalCode": "20110",
+  "phone": "tel:038321810",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.166425,100.924029&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.166425,100.924029&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

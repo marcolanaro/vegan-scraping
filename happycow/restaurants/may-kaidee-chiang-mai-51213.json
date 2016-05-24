@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "May Kaidee - Chiang Mai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Western, Buffet, Take-out\n                                    ",
+  "description": "Vegetarian Thai cuisine eatery. Offers also a few western style food options. Sunday buffet service. Other locations in Bangkok. Cooking school has regular hours. Moved from Tambon Changclan Mar 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "129/4 Chang Moi Kao Rd, Tombol Chang Moi, Amper Muang",
+  "postalCode": "50300",
+  "phone": "tel:+66-927788594",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/MayKaidee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.789700,98.994300&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.789700,98.994300&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

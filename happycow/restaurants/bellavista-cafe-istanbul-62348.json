@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BellaVista Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Middle Eastern, Turkish\n                                    ",
+  "description": "Small 100% vegetarian cafe attached to a hostel. Vegan options available. Has breakfast, dish of the day and various traditional Turkish dishes such as gozleme, manti and more for a modest price.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Turan Caddesi No 50, Bulbul Mahallesi",
+  "phone": "tel:+90-2123619255",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BellaVistanbul",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.038382,28.981438&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.038382,28.981438&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

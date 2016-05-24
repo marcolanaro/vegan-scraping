@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rulo Ezberbozan Lezzetler",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Buffet, Fast food, Salad bar, Take-out, Middle Eastern, Turkish\n                                    ",
+  "description": "A sandwich and wrap shop with a buffet that offers Turkish dishes and salads made of vegetables and legumes. Choose what you'd like in your wrap--including chickpeas, eggplant, bean, wheat and lentil salads, cig kofte, baked potatoes, chips, carrot, and red cabbage salads with hummus and muhammara. Lunch starts 12pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Caferaga Mahallesi Nailbey Sokak, Unit 15, Kadikoy",
+  "phone": "tel:902164493366",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/RuloLezzetler",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.988444,29.027860&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.988444,29.027860&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

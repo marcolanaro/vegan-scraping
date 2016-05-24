@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "You G Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, American, Chinese, Indian, Italian, Organic, Thai, Western, Take-out, Asian, Catering, Fusion\n                                    ",
+  "description": "良食坊 serves a variety of dishes including spaghetti, burgers, nasi rendang, pumpkin penne, noodles and rice set. Has vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "48 Jalan TTDI Grove 1/1, Taman TTDI Grove",
+  "postalCode": "43000",
+  "phone": "tel:03-87406306",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 10:00am-10:00pm, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/yougcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.996674,101.813370&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.996674,101.813370&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

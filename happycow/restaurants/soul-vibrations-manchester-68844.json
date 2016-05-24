@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soul Vibrations",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Caribbean vegan catering and delivery. To launch a food trailer in Feb 2016 - check its webpage for locations & times.",
+  "streetAddress": "Bridgewater Way",
+  "postalCode": "M15 4EY",
+  "phone": "tel:07843949957",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/soulvibrationsuk",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.469803,-2.264357&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.469803,-2.264357&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

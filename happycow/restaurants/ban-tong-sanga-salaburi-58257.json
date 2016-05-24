@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ban Tong Sanga",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Take-out\n                                    ",
+  "description": "Basic vegan shop on the side of the highway.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "66/2 Moo 5 Tap Kang, Kaeng Khoy District",
+  "postalCode": "18260",
+  "phone": "tel:0817807178",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.623613,101.100343&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.623613,101.100343&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

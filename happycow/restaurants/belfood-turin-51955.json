@@ -1,0 +1,19 @@
+{
+  "title": "Belfood",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Buffet, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A deli with home-style cooked food including a good choice of vegan dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Belfiore, 15",
+  "postalCode": "10125",
+  "phone": "tel:+39-0110602683",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:30pm-3:00pm, Tue-Sat 7:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/belfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.057257,7.679656&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.057257,7.679656&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

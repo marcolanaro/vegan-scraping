@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "National Taiwan University Food Court",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "Buffet-style food stall in one of the National Taiwan University food courts. Open to the public. You pay into the basket on the right, then select rice or noodles and 3 dishes from the buffet. Staff speaks a little English. Hard to find but look out for a big \"vegetarian\" written among pictures on the wall.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1st Student Activity Center, Da’an District",
+  "postalCode": "106",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.018274,121.540177&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.018274,121.540177&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

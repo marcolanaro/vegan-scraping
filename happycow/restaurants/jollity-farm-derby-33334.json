@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jollity Farm",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Offering naturally grown fresh vegetable and fruit. Located next to \"Green.\"",
+  "streetAddress": "City Road, Chester Green",
+  "postalCode": "DE1 3RR",
+  "phone": "tel:01283-730303",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Jollity-Farm/351868508210614",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.932621,-1.473659&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.932621,-1.473659&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

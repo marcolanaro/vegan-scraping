@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Galata Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Buffet, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves fresh and seasonal made-in-house traditional Turkish food. Offers a separate vegetarian menu, of which some are vegan, vegan, clearly labeled and plentiful. Helpful staff (nut allergies, vegan items). Serves breakfast, lunch, and dinner. Menu changes daily. Vegan items include mixed mezze, lentils, eggplant, cauliflower, dessert.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Tatar Beyi Sk 9, Beyoglu",
+  "phone": "tel:0212-2522022",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/galatakitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.025774,28.975290&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.025774,28.975290&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

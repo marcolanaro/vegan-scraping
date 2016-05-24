@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veg Food Stall",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Fast food, Take-out\n                                    ",
+  "description": "This jay (vegan) food stall is in a small lane between Phahonyothin Rd (where the BTS line is) and Ari 1. The little lane starts right at the BTS station. The stand has cold and warm savory dishes, mostly pre-packed for takeaway, but you can also eat there at a little table. Also has fresh spring rolls and banana in coconut milk as dessert. The stall closes when the food is gone, so it's better to come earlier, before 3pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1231 Phahonyothin Rd",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.780358,100.544322&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.780358,100.544322&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

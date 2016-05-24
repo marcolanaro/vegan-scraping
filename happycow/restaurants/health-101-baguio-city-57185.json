@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Health 101",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, International, Organic, Western, Take-out\n                                    ",
+  "description": "Vegetarian restaurant in La Trinidad. Affiliated with Health 100 in Baguio.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Gladiola Building, Benguet State University, La Trinidad",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Health-101/140079236141507",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.450000,120.566667&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.450000,120.566667&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

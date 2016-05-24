@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Villaggio No 8",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Italian, Beer/Wine\n                                    ",
+  "description": "A 100% vegan/vegetarian pizzeria and bar. In addition to pizza, serves burgers and other dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Pfarrplatz 8",
+  "postalCode": "3500 ",
+  "phone": "tel:+43-273285461",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 5:30pm-2:00am, Wed-Sat 5:30pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/villaggio8",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.412169,15.599512&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.412169,15.599512&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

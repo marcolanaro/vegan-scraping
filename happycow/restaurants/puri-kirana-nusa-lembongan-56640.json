@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Puri Kirana",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Uses tofu and tempeh in a few dishes including tempeh steak & burger. Staff understand requests for no eggs, cheese, mayo. Directions: take the main street (JL Jungut Batu) north, go past the street that leads to Blue Corner Dive, and the eatery will be on the left with a list-up sign easily visible if going at night.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "JL Jungut Batu",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.678583,115.455586&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.678583,115.455586&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

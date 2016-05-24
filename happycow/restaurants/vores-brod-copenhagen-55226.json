@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vores Brod",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Organic bakery with some vegan choices; please ask staff. Has a vegan sandwich consisting of hummus, avocado, artichoke, salad, tomato and chipotle dressing.",
+  "streetAddress": "Toftegardsplads 6",
+  "postalCode": "2500",
+  "phone": "tel:41402500",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Voresbroed",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.662437,12.517690&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.662437,12.517690&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

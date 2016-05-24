@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Grasmere Gingerbread",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "The gingerbread is vegan.",
+  "streetAddress": "Church Cottage Stile",
+  "postalCode": "LA22 9SW",
+  "phone": "tel:015394-35428",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Grasmere-Gingerbread/187402384629757",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.457948,-3.023618&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.457948,-3.023618&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

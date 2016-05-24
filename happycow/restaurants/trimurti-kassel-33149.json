@@ -1,0 +1,17 @@
+{
+  "title": "Trimurti",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "Vegetarian Indian restaurant, owned by Veggie Hindu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Wilhelmshöher Allee 61",
+  "phone": "tel:7668866",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 12:30pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.311771,9.477327&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.311771,9.477327&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

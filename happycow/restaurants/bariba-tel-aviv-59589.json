@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bariba",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Mediterranean, Juice bar, Israeli, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Located at Tel Aviv Port in the Way of Life House which offers massages and sells vitamins, this place specializes in healthy eating, using wholewheat flour, little oil and sugar, and quality ingredients. Has a separate vegan menu which includes dishes like beet carpaccio, quinoa and roasted pumpkin, tofu steak. For dessert fruit salads and sorbet.",
+  "priceRange": "Moderate",
+  "streetAddress": "Beit Derech Haim, Tel Aviv Port",
+  "phone": "tel:03-6025026",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-10:00pm, Fri 8:30am-3:00pm, Sun 9:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.096483,34.773274&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.096483,34.773274&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

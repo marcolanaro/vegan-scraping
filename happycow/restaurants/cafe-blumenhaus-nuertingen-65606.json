@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Blumenhaus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Mediterranean, Fast food, Juice bar, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small, Arabic-inspired eatery with take-away coffee, salad, fresh juices, tea, and especially falafel. Ask for assistance and owner will point out what veg/vegan items there are.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Steinenbergstrasse  15",
+  "postalCode": "72622",
+  "phone": "tel:07022216247",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.629039,9.339996&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.629039,9.339996&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

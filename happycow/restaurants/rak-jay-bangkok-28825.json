@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rak Jay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Buddhist\n                                    ",
+  "description": "Small Buddhist Thai restaurant near Soi Pridi Banomyong 39. With small selection of food about 6 dishes,  45 baht for rice and 2 ladles of food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1021 Sukhumvit 71 Rd",
+  "phone": "tel:02-381-1176",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.731985,100.597064&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.731985,100.597064&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

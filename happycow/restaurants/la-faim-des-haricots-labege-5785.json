@@ -1,0 +1,15 @@
+{
+  "title": "La Faim des Haricots",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Buffet, Salad bar, Take-out, French\n                                    ",
+  "description": "All-you-can-eat salad buffet. Many dishes contain egg and/or dairy - vegans to ask.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "251 Route de Baziege la Lauragaise, Place du Lauragais",
+  "postalCode": "31670",
+  "phone": "tel:05-61738390",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.549386,1.511003&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.549386,1.511003&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

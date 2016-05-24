@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Greg",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, International, Fast food, Salad bar, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Branch of Cafe Greg chain inside a shopping mall. Has a separate vegan menu with salads like the summer salad and legume salad, a few Asian-influenced dishes like stir-fries and curry, a big breakfast, plus shakshouka made with antipasti vegetables.\r\n\r\n\r\n\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "Paamoney ha Shalom 19, Queen Sheba Mall",
+  "postalCode": "88000",
+  "phone": "tel:086370304",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.557669,34.951925&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.557669,34.951925&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

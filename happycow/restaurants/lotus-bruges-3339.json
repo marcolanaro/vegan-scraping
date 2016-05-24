@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lotus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Predominantly non-veg restaurant offering some vegetarian options. Vegans need to make special requests.",
+  "priceRange": "Moderate",
+  "streetAddress": "Wapenmakersstraat 5, Brugge",
+  "phone": "tel:+32-0-50-331078",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.209810,3.226650&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.209810,3.226650&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

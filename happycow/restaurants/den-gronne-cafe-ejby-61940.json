@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Den Gronne Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Organic, Take-out, European, Danish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The Green Cafe has a few vegan food items like pie, hummus. Cake and coffee available. Garden by Køge River.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Vestergade 3C",
+  "postalCode": "4600 Køge",
+  "phone": "tel:56676070",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/detgroennehus",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.666428,12.391163&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.666428,12.391163&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

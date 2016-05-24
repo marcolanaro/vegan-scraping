@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mod's Cafe at the Thirsty Scholar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Beer/Wine, Take-out, Jamaican\n                                    ",
+  "description": "Vegetarian and vegan pub grub. They also have a selection of organic ciders and beers and vegan wine. Classic British pub grub and world food from ciabatta toasties to Jamaican curry and Tex Mex. Previously located at the Seven Oaks. Mod is  at the Lass O' Gowrie, Charles Street, Manchester, M1 for meat free Monday until 8pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "50 New Wakefield Street",
+  "postalCode": "M1 5NP",
+  "phone": "tel:0161-236-6071",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-4:00pm, Sat-Sun 1:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Mods-VeggieVegan-Cafe-at-the-Thirsty-Scholar/123542554368406",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.473630,-2.242625&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.473630,-2.242625&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

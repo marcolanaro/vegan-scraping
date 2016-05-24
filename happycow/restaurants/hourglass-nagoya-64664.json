@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hourglass",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Fast food, Bakery\n                                    ",
+  "description": "Vegan food and coffee lounge opened Sept 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kamimaedu 2-1-10, Naka-ku, Gion Bldg 2F",
+  "postalCode": "460-0013",
+  "phone": "tel:050-52744519",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-9:00pm, Fri-Sat 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/hourglassxvx",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.156691,136.906340&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.156691,136.906340&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ru Yin Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Western, Delivery, Take-out, Catering\n                                    ",
+  "description": "Vegetarian restaurant offers economic rice in the morning and a la carte in the evening. Has vegan options.\r\n\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blok 5-G-8, Jalan Van Praagh, Desa Green",
+  "postalCode": "11600",
+  "phone": "tel:01119197979",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-3:00pm, 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/RuYinVegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.397747,100.311527&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.397747,100.311527&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

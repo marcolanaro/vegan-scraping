@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Om Ganeza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Nepalese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Nepali restaurant offering several vegetarian dishes, including veggie curry, samosas, dal, naan, chapati. Owners speak Japanese and some English. The portions are large. Accessible on foot from the Garo train station and is in the center of this hot spring resort town.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mori 1030-1",
+  "postalCode": "509-2202",
+  "phone": "tel:08038058526",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.805984,137.239588&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.805984,137.239588&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "London",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Take-out\n                                    ",
+  "description": "Big sign in the window says vegetarian food. Menu is all in Russian and staff speaks little English, but if you say veganska they will let you know what you can eat. Average meal costs $5-6 US. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Praspyekt Nyezalyezhnastsi 18",
+  "phone": "tel:+375-17-289-1529",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.899464,27.557229&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.899464,27.557229&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

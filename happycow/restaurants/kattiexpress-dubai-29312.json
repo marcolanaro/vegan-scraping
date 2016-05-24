@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "KattiExpress",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little takeaway place that offers rolls (like wraps), and many are vegetarian. For vegans there is one roll with soy-\"meat.\" price is approx. 10 Dirham (2 euro or 3 dollar) per roll.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2 B Street, Al Karama",
+  "phone": "tel:043582733",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Katti-Express-Dubai/177755632241548",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.249199,55.302000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.249199,55.302000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

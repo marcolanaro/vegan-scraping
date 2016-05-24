@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ton-Phon - The Phyll",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Fast food, Take-out\n                                    ",
+  "description": "Local veggie restaurant previously at Sukhumvit 50 and moved into the lower foodcourt of The Phyll mall in 2015. Lots of Thai dishes as well packaged, ready-to eat / take home food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "10260, 2/3 Soi Sukhumvit 54, Bang Chak, Phra Khanong",
+  "phone": "tel:%200851526987,%200902656924",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Ton-Phon/322113044486807",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.702690,100.601971&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.702690,100.601971&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hui Xing Veggie House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Take-out\n                                    ",
+  "description": "會心私房菜 opened May 2015 offers a mix of Asian and western meals.",
+  "priceRange": "Moderate",
+  "streetAddress": "6, Lorong Bukit Kulim 1/1, Taman Bukit Kulim",
+  "postalCode": "09000",
+  "phone": "tel:013-4156789/,%20014-3062448",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-2:00pm, 5:30pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/%E6%9C%83%E5%BF%83%E7%A7%81%E6%88%BF%E8%8F%9C-Hui-Xing-Veggie-House/835125386565076",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.372288,100.537201&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.372288,100.537201&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

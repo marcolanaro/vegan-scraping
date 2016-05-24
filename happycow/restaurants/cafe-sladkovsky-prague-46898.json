@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Sladkovsky",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Beer/Wine, Czech, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cozy old-style cafe/bar with some vegan items. Last food order taken at 9:45pm. The whole cafe is a smoking area.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sevastopolska 17",
+  "postalCode": "11000",
+  "phone": "tel:+420-776-772-478",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-1:00am, Sat 5:00pm-1:00am, Sun 11:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.071010,14.448870&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.071010,14.448870&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

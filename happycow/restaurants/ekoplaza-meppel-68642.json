@@ -1,0 +1,14 @@
+{
+  "title": "EkoPlaza",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A chain of health food shops throughout the Netherlands that offers grains, nuts, biscuits and sweets plus wide range of juices, cereals, vegetables and fruits.",
+  "streetAddress": "Woldstraat 62",
+  "postalCode": "7941",
+  "phone": "tel:0522-242664",
+  "venueHours": "\n                                                                                                        Mon 10:00am-6:00pm, Tue-Thu 8:30am-6:00pm, Fri 8:30am-9:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/EkoPlaza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.698299,6.193818&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.698299,6.193818&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

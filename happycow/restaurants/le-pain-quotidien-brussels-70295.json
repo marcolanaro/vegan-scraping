@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Le Pain Quotidien - Louise",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Mediterranean, Take-out, Bakery, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Belgian-based international restaurant chain featuring fresh artisan bakery and communal table. Each section of the menu includes at least one vegan option, labeled on the menu (e.g. rice milk porridge for breakfast, cashew cheese, vegan brunch). Bakery stays open 30 minutes later than the restaurant. Located in Avenue Louise, one of the main shopping area in Brussels.",
+  "priceRange": "Moderate",
+  "streetAddress": "Avenue Louise 124",
+  "phone": "tel:26464983",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat 8:00am-6:00pm, Sun 8:00am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.830677,4.360955&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.830677,4.360955&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

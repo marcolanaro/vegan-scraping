@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Urtehuset Lyngby",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food shop with a few outlets in greater Copenhagen. Stocks a wide range of products within foods, dietary supplements, and body care. Has vegan fake meat and vegan cheese, large selection of dry goods such as beans, lentils, and flour.",
+  "streetAddress": "Lyngby Hovedgade 55",
+  "postalCode": "2800",
+  "phone": "tel:+45-45885353",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-6:00pm, Fri 9:30am-7:00pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.768932,12.505618&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.768932,12.505618&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

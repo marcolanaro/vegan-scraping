@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mayway Coffee House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "美味咖啡屋. Serves rice, noodles, burgers, mock fish and chips, and thunder rice. Limited space.",
+  "priceRange": "Moderate",
+  "streetAddress": "Block B-G-09, Lebuh Nangka 2, Taman Desa Damai",
+  "postalCode": "14000",
+  "phone": "tel:016-4856219",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:00am-3:00pm, 6:00pm-9:00pm, Fri-Sun 11:00am-3:00pm, 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.364109,100.443018&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.364109,100.443018&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

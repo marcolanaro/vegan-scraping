@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Karma Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Thai, Western\n                                    ",
+  "description": "Launched Apr 2016 this place serves a mix of western and Thai food, from burgers and falafel in pita to green curry. Vegan items are labeled.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "27/2 Moon Muang Soi 9, Siriphum Rd",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Karma-Kitchen-473499186184593",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.793867,98.991881&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.793867,98.991881&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

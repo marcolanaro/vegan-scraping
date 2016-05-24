@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chapel Arts Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Beer/Wine, Take-out, Bakery, British, English, European\n                                    ",
+  "description": "Makes food and cakes including: continental mixed platters, flatbreads, salads, soups, large range of hot and cold drinks, local beer and wine. Has gluten free cakes but does use dairy and/or egg. The cafe is also used as a gallery space for local artists to exhibit their work.",
+  "priceRange": "Moderate",
+  "streetAddress": "St James's Memorial Hall, Lower Borough Walls",
+  "postalCode": "BA1 1QR",
+  "phone": "tel:+44-1225920256",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Chapel-Arts-Cafe/321829204594578",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.379697,-2.360410&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.379697,-2.360410&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

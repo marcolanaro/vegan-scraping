@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jhula Italian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International, Italian\n                                    ",
+  "description": "Restaurant is next to the internet cafe. Casual setting with TV but no decor. Menu features Italian such as pizza, pasta, lasagna, as well as Indian food. Pizza is made upon order so may take up to 40 minutes. Vegans can request no cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "Laxman Jhula village",
+  "phone": "tel:0135433211/983762732",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.081160,78.288830&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.081160,78.288830&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

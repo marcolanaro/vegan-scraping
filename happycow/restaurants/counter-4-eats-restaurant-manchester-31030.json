@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Counter 4 - Eats Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Fast food, English\n                                    ",
+  "description": "The counter service offers stir frys, fried rice, and a choice of daily specials which might include sweet potato and spinach curry, chickpea tagine with couscous, vegan cheese and spinach pie.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "University Place, Oxford Road",
+  "postalCode": "M13",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.466764,-2.233705&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.466764,-2.233705&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

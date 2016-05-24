@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "California Tortilla",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain Mexican fast food restaurant. California/Tex Mex style burritos, quesadilla, tacos, and salads come with choice of substituting meat for black beans or just veggies, and vegans should request no cheese, sour cream. One burrito is vegan (no meato burrito). Order comes with a side of tortilla chips. Its wall of flame has 75 hot sauces to try and sample. Casual and western setting with a kids play area.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "C-Ring Road, Ramada Junction",
+  "phone": "tel:974-44344144",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:00am-12:00am, Thu 11:00am-1:00am, Fri 1:00pm-1:00am, Sat-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CaliforniaTortillaQatar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.280976,51.506831&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.280976,51.506831&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gajbica",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Raw, Mediterranean, Fast food, Salad bar, Juice bar, Take-out, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan choices, plus others that can possibly be made vegan; please inquire. Menu items are soups, salads, juices & smoothies, raw cakes, breakfast, coffee, natural teas and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "Vlaska 7",
+  "postalCode": "10000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/Gajbicahr",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.813590,15.979529&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.813590,15.979529&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fresh Freaks",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Salad bar, Czech, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fully gluten-free bistro close to park Luzanky. Offers soups, filled wraps, burgers, salads, dessert, and a daily menu. For the veggie burger and veggie items ask to omit cheese for vegan. Irish cider Magners and British Fullers on tap.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lidická 46",
+  "phone": "tel:+420-739079222",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/FreshFreaksBistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.203819,16.607018&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.203819,16.607018&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Porcja",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Bakery, European, Polish\n                                    ",
+  "description": "Menu became all-vegetarian over time. Offers a variety of main course meals in addition to soups, salads, drinks, and cakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Roosevelta 7",
+  "postalCode": "90-056",
+  "phone": "tel:885222885",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-9:00pm, Sat 11:00am-9:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/porcja.superfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.760735,19.460278&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.760735,19.460278&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

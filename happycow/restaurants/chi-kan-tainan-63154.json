@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chi Kan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Fusion, Taiwanese\n                                    ",
+  "description": "赤崁璽樓, at 台南市中西區西門路二段372巷10號, is an upscale vegetarian cuisine restaurant set in a reburished traditional house. Offers Taiwanese-Italian dishes.",
+  "priceRange": "Expensive",
+  "streetAddress": "10, Sec. 2, alley 372, Ximen Rd, West Central District",
+  "phone": "tel:06-2245179",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-2:30pm, 5:00pm-9:00pm, Sat-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/赤崁璽樓/836238249780107",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.998096,120.200952&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.998096,120.200952&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

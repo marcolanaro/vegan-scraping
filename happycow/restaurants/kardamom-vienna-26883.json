@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kardamom",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Persian, Iranian\n                                    ",
+  "description": "Persisch Vegetarische Spezialitäten. Offers Persian food with daily specials. Some dishes could be made vegan upon request. Moved from Fleischmarkt and changed name from Cafe Treff.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Schwedenplatz 3-4",
+  "postalCode": "1010",
+  "phone": "tel:43-699-11929658",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/KardamomRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.211236,16.378883&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.211236,16.378883&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

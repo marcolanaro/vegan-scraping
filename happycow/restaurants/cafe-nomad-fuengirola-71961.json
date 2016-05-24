@@ -1,0 +1,20 @@
+{
+  "title": "Cafe Nomad",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, Take-out, European, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafeteria and ice cream parlor on the seafront offering healthier food.Has plan milks for drinks (soya, rice, oat, almond and hazelnut); vegan ice cream; bircher muesli; smoothies; veggie burgers; salads; and sandwiches with filling such as hummus, smashed avocado, tomato and garlic paste.",
+  "priceRange": "Moderate",
+  "streetAddress": "Paseo Maritimo Fuengirola Rey de España 3",
+  "postalCode": "29650",
+  "phone": "tel:657959001",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafenomadfuengirola",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.551970,-4.613742&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.551970,-4.613742&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

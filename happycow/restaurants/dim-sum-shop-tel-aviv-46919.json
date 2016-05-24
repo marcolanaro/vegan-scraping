@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dim Sum Shop",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Fast food, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Dim sum is made without oil or frying or preservatives. Has several types of vegetable dim sum. Small with a few tables. Also sells frozen dim sum and steamer baskets to take home.",
+  "priceRange": "Moderate",
+  "streetAddress": "61 Ibn Gavirol Street",
+  "phone": "tel:03-527-8989",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-12:00am, Fri 9:00am-4:00pm, Sat 7:00pm-12:00am, Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/דים-סאם-שופ-Dim-Sum-Shop/303093529819602",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.078668,34.781235&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.078668,34.781235&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thai and Sushi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Thai, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Sushi and Thai food restaurant. Could ask to use tofu instead of meat in many dishes. Staff understand that oyster and fish sauce are not veg.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Fredriks alle 146",
+  "postalCode": "8000",
+  "phone": "tel:+45-86170905",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.146865,10.194626&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.146865,10.194626&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

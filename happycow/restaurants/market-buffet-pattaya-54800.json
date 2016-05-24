@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Market Buffet",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Buffet, Salad bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A very large buffet spread features a variety of fresh veggies and fruits, and an area with fresh ingredients and crushing bowl for making your own spice combinations. Eat raw or cook veggies in a boiling pot at your table. All-you-can-eat. Frequented by locals, the restaurant name is in Thai only. Directions: it's off of #2 road go east on Soi 4 Pattayasaisong, when the road forks, keep left, and the restaurant is on the right just past Family Mart, look for the high white peaked top. All tables are out in the open, or under roof tops.",
+  "priceRange": "Moderate",
+  "streetAddress": "Phatthayasaisong 4, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri",
+  "postalCode": "20150",
+  "phone": "tel:038413861",
+  "venueHours": "\n                                                                                                        Mon-Sun 5:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.941336,100.890821&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.941336,100.890821&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

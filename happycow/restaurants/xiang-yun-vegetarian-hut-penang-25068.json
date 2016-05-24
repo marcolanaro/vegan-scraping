@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xiang Yun Vegetarian Hut - Sungai Nibong",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "香雲素食坊 is located inside food court opposite Kayu Nasi Kandar restaurant, which is behind Vistana Hotel. Open if 1st or 15th fall on Wednesday or Thursday. Variety of noodle soups plus nasi lemak, yam rice, oily rice, chee cheong fun, cake, bread sushi, sandwiches, nyonya kuih, laksa, pao, and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "29-X, Kompleks Lebuh Nipah, Sungai Nibong, Bayan Lepas",
+  "postalCode": "11900",
+  "phone": "tel:6016-4426936/,%206016-4446936",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 6:30am-1:30pm, Fri-Sun 6:30am-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.338051,100.294046&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.338051,100.294046&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

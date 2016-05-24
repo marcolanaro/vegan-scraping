@@ -1,4 +1,11 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mats Lejonklev- Eco Chef",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Makes organic plant-based food that will enhance your health and make eating an extraordinary experience.",
+  "streetAddress": "Greater London",
+  "phone": "tel:+44-0-7749908669",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.502438,-0.127373&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.502438,-0.127373&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

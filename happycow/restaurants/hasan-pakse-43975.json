@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hasan",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. In Thaluang Vilage near the crossing Road 13, this is an Indian food restaurant that opened in 2012. Menu includes around 20 vegetarian choices, a few of which are vegan - ask. Has Wi-Fi. Owner has many years experience in cooking for Indian restaurants in Laos, Malaysia, and Thailand. Lao food is also on offer but maybe not veg ones.",
+  "priceRange": "Moderate",
+  "streetAddress": "Tha Luang, Road 24",
+  "phone": "tel:0309962409",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.122052,105.801886&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.122052,105.801886&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

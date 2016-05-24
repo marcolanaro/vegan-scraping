@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Food and Company",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic market stocking products from health food to fresh vegetables and baby food.",
+  "streetAddress": "3-14-15 Takaban, Meguro-ku",
+  "postalCode": "152-0004",
+  "phone": "tel:03-63034216",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/FOODandCOMPANY",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.630078,139.683784&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.630078,139.683784&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

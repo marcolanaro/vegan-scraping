@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Fat Frog",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Organic, Western, Juice bar, Beer/Wine, Malaysian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu offers a wide range of healthier and vegetarian-friendly dishes, with soups, salads, pasta, and curry. There is also a daily specials board with the day's quiche, salad, and cake. The atmosphere changes through the day, with a casual feel through the breakfast and lunch hours then turning to chilled bali-esque sunset tunes setting the tone for cocktails and beers on the terrace before nightfall and soft uplighting makes dinner a more intimate affair.",
+  "priceRange": "Moderate",
+  "streetAddress": "99 East Estate, Jalan Padang Matsirat, Mk Ulu Melaka",
+  "postalCode": "07000",
+  "phone": "tel:49551153",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 10:30am-2:30pm, 6:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/thefatfroglangkawi",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.323098,99.788238&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.323098,99.788238&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

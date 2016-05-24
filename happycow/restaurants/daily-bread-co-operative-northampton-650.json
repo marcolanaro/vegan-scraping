@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Daily Bread Co-operative",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Workers co-operative warehouse that is open to the public. Focus is on wholefoods.",
+  "streetAddress": "The Old Laundry, Bedford Road",
+  "postalCode": "NN4 7AD",
+  "phone": "tel:01604-621531",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.232450,-0.873070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.232450,-0.873070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

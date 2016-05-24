@@ -1,0 +1,18 @@
+{
+  "title": "The Larder",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Take-out\n                                    ",
+  "description": "A vegetarian kitchen in the heart of Globe Town serving unique creations prepared daily. Also serving coffee, pastries and cakes, including vegan, dairy-free and gluten-free offerings. Also is a store. Enclosed courtyard garden.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "241-245 Globe Rd, Bethnal Green",
+  "postalCode": "E2 0JD",
+  "phone": "tel:020-34901404",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 9:00am-5:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.528329,-0.051321&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.528329,-0.051321&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Teru Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Organic, Beer/Wine\n                                    ",
+  "description": "Small macrobiotic cafe near Warabi city hall. Warabi station (JR) is situated 30 minutes away from Tokyo station by Keihin-Tohoku line. From the west side of Warabi station walk 30 minutes. Take bus or taxi.",
+  "priceRange": "Moderate",
+  "streetAddress": "2-9-22 Kitamachi",
+  "phone": "tel:080-70331957",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-6:00pm, Fri 11:00am-9:00pm, Sat 11:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.826634,139.677367&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.826634,139.677367&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

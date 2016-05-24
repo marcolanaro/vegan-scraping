@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Sante",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Organic, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. All food and sweets are vegan with the exception of bonito broth used in miso soup sometimes (it can be made vegan on request). Small cafe located 15 minutes from Yurigaoka station (on the Odakyu line). Serves lunch plate, pasta plate and curry (all 1000yen), except on Sundays and holidays when they serve brunch. Is closed the third Wednesday of every month. Address in Japanese:  神奈川県川崎市麻生区百合丘3-24-25",
+  "priceRange": "Moderate",
+  "streetAddress": "Kawasaki, Asao-ku, Yurigaoka 3-24-25",
+  "phone": "tel:0445438418",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-6:00pm, Fri 12:00pm-10:00pm, Sat 11:00am-6:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cafesanteopen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.601317,139.517018&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.601317,139.517018&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

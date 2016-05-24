@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Helvetia",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Buffet, Take-out, Middle Eastern, Turkish, Arabic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers platters that come with several dishes from its buffet. Menu changes daily and includes vegan dishes, soups, and sides like zucchini fritters and stewed veggies. Open kitchen, laid-back atmosphere, free Wi-Fi. Near Istiklal Caddesi.",
+  "priceRange": "Moderate",
+  "streetAddress": "General Yazgan Sok 8, Beyoglu",
+  "phone": "tel:+90-2122458780",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.028961,28.974025&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.028961,28.974025&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

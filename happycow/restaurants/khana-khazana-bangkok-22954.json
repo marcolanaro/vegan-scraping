@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khana Khazana",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian\n                                    ",
+  "description": "Offers Indian cuisine from various regions of India: Gujarati, Jain South, North, and Punjabi. Dairy is used in many dishes. Near BTS Nana and Robinsons.",
+  "priceRange": "Expensive",
+  "streetAddress": "153 Sukhumvit Soi 11/1",
+  "phone": "tel:66-22552289",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/khanakhazanabangkok.vegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.740097,100.556585&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.740097,100.556585&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

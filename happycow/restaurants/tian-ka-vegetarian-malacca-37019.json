@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tian Ka Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese\n                                    ",
+  "description": "Vegetarian Chinese food restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "250E Jalan Semabok",
+  "postalCode": "75050",
+  "phone": "tel:0169078370",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.193731,102.266417&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.193731,102.266417&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

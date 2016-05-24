@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "My Healthy Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Pizza, Chinese, Western, Asian, Malaysian\n                                    ",
+  "description": "私房菜 healthy vegetarian restaurant, est. Jan 2014. Uses brown rice and makes fresh tofu. Avoids mock meats, instead focuses on fresh fruit and vegetables. Upon request, egg can be excluded. On two floors, including a section with zashiki-style table and seating. Directions: 15-minute walk from express bus terminal - exit at Lihua hotel, turn left, cross road & walk on Lorong 7G until roundabout, continue straight as road becomes Jalan Sena, at end turn left onto driveway \"Lorong 20A2\" that leads to shops, turn right, then left, and it's the third shop.  Directions: From town centre, take the Sibujaya bus located opposite the Express Boat Passenger Terminal to the Delta Mall stop - restaurant is diagonally across the road.",
+  "priceRange": "Moderate",
+  "streetAddress": "10, Ground & First Floor, Lorong Pedada 20A",
+  "phone": "tel:016-8974955",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 10:00am-3:30pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/%E7%A7%81%E6%88%BF%E8%8F%9C-My-Healthy-Cuisine/1445215545701962",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.310759,111.847064&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.310759,111.847064&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

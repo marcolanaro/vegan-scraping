@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vi Modtes Gennem Ruden",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Cafe and coffee shop that has soy and oat milks for coffee, bread with jam and pastries from Naturbageriet; vegans be aware honey is used in some. A local hangout with ecologically sustainable products. Hosts music events almost every Friday and Saturday.",
+  "streetAddress": "Heimdalsgade 6",
+  "postalCode": "2200",
+  "phone": "tel:0045-50-28-40-40",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Vimodtesgennemruden",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.699971,12.541292&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.699971,12.541292&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

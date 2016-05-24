@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tot en Pita",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves falafel, sabih, hummus, shakshuka, and salads with vegan choices. All dish served in pita-bread or plate and all is available for take-away. Pita bread made-in-house. Has a children's corner and a changing room for babies.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Av de Sant Antoni 20",
+  "phone": "tel:00376838123",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TOTenPITA",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.545472,1.514905&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.545472,1.514905&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

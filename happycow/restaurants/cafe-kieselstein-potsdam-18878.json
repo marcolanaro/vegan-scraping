@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Kieselstein",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Beer/Wine, Take-out, German\n                                    ",
+  "description": "Close to Park Sanssouci, this is a resource for healthy veggie food, in a colourful and peaceful environment. Art exhibitions. Vegan options available (some on request).",
+  "priceRange": "Moderate",
+  "streetAddress": "Hegelallee 23",
+  "postalCode": "14467",
+  "phone": "tel:0331-6012377",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.401910,13.048560&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.401910,13.048560&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

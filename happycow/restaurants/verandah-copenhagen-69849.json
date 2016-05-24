@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Verandah",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A fine dining restaurant, with a river view, is located on the ground floor of The Standard and opened early 2016. Has a vegetarian tasting menu, of which a couple dishes are vegan and others could possibly be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Havnegade 44",
+  "postalCode": "1058",
+  "phone": "tel:+45-89880090",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-2:30pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/Verandah",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.677875,12.591857&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.677875,12.591857&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

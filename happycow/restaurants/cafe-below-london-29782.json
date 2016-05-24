@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Below",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Formerly all vegetarian but no longer Nov 2011. Located in the heart of the city and has a separate coffee/tea bar. Resides in the crypt of an old church that was rebuilt after the great fire of London in 1666. Well presented food. Offers a hot main dish each day, plus soups, desserts, and large salads. The prices are reduced for take away orders and if you dine-in at off-peak hours. Breakfast until 11:30 each day.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Cheapside, St. Mary-le-Bow Church",
+  "postalCode": "EC2V 6AU",
+  "phone": "tel:020-73290789",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/group.php?gid=178472587057",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.513974,-0.093626&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.513974,-0.093626&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

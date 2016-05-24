@@ -1,0 +1,13 @@
+{
+  "title": "Der Marktladen",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic market stocking a wide range of fruits, vegetables, cosmetics, plus vegan products such as nutritional yeast, soybean flour, and other essentials. Has outdoor seating for eating.",
+  "streetAddress": "Europaplatz 2",
+  "postalCode": "72072",
+  "phone": "tel:+49707152582",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-7:00pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.516743,9.058307&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.516743,9.058307&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

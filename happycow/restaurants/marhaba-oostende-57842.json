@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Marhaba",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Moroccan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. With few vegan/vegetarian choices in the city, you can get a generously sized vegetable couscous in this comfortable and friendly Moroccan restaurant. Also offers a small selection of vegetarian starters, including at least one that is vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Schippersstraat 36",
+  "postalCode": "8400",
+  "phone": "tel:+32-59500850",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-9:00pm, Tue 6:00pm-9:00pm, Thu-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Marhaba-Oostende/266317260056354",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.233238,2.920746&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.233238,2.920746&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

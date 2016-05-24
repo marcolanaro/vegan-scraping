@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Trattoria Haba ",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Bakery, European, French, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Browse the selections on display, read the menu, and then inform the staff you are vegan and ask for recommendations. Unique setting with a hidden backyard garden.",
+  "priceRange": "Moderate",
+  "streetAddress": "119 Yafo St",
+  "phone": "tel:02-6233379",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-11:30pm, Sun 7:00am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TrattoriaHaba",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.785736,35.212526&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.785736,35.212526&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

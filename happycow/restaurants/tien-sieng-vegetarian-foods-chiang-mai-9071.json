@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tien Sieng Vegetarian Foods",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Taiwanese\n                                    ",
+  "description": "Chinese Name：天香斋料. Shop selling pre-made vegan food with a few items that might contain egg - ask. Also sells some vegetarian food supplies like dried TVP and packaged cooking products.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "54-56 Phra Pok Klao Road, Phra Singh",
+  "postalCode": "50200",
+  "phone": "tel:053-206056",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.782267,98.988885&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.782267,98.988885&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

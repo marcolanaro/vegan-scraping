@@ -1,0 +1,17 @@
+{
+  "title": "Coffee Fellows",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Take-out, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. German coffee bar franchise. Offers bagels, bread, and soymilk for coffee. Marks the vegan items. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Willy-Brandt-Platz 7",
+  "postalCode": "04109",
+  "phone": "tel:34130865500",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:30pm, Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.344405,12.381869&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.344405,12.381869&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

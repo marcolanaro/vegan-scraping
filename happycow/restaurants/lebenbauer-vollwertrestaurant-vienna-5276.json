@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lebenbauer",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, European, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarian except for fish. Nice service and ambiance. Reported still operating as of Dec 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Teinfaltstraße 3",
+  "postalCode": "1010 Wien",
+  "phone": "tel:01-5335556",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-3:00pm, 5:30pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.211750,16.363656&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.211750,16.363656&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

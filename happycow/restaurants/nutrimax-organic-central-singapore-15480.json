@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nutrimax Organic",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "无毒之家 is a small shop selling both western and Asian products, including vitamins, organic snacks, drinks, dry things. No fresh produce/refrigerated food.",
+  "streetAddress": "390 Victoria St Unit 02-30, Golden Landmark",
+  "postalCode": "188061",
+  "phone": "tel:62922991",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/nutrimaxorganic",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.301877,103.858068&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.301877,103.858068&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

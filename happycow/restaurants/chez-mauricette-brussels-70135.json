@@ -1,0 +1,17 @@
+{
+  "title": "Chez Mauricette",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Take-out, European, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Trendy breakfast and lunch place offering a pay by weight buffet (about 80% vegan) and salads (vegan by default, adding meat costs extra). The staff is used to vegan requests.",
+  "priceRange": "Moderate",
+  "streetAddress": "170 Rue Belliard",
+  "phone": "tel:22304046",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.840336,4.378787&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.840336,4.378787&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Asian Cafe Garuda",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. On the 6th floor of the Forus shopping mall, at 堀川新町3-1 (金沢フォーラス 6F), this place offers a mix of Asian cuisines: Thai, Vietnamese, Indonesian, Cambodian.",
+  "priceRange": "Moderate",
+  "streetAddress": "Forus shopping mall, Kanazawa",
+  "phone": "tel:+81762653541",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-10:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.579151,136.649604&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.579151,136.649604&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

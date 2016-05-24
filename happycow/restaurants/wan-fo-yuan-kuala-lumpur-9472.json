@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wan Fo Yuan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buddhist\n                                    ",
+  "description": "Simple Chinese Buddhist vegetarian restaurant established since the 1980s. Located behind the central police station, perpendicular road to the Hotel Mandarin Pacific. Offers a pictorial menu and a la carte rice and noodle dishes. Signage above the door is small, so look for it.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8, Jalan Panggong",
+  "postalCode": "50000",
+  "phone": "tel:03-20780952",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.141826,101.697101&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.141826,101.697101&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

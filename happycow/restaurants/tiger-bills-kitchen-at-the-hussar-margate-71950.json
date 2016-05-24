@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tiger Bills Kitchen at The Hussar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Western, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located inside The Hussar Hotel. Thai dishes are available with vegetables instead of meat/fish, plus there are several separate vegetarian choices; vegans please inquire. Aside from the Thai dishes, offers a full vegetarian menu which is available 6 days a week. On Thursday runs a special two-for-one on all main courses; again, vegans please inquire.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "219 Canterbury Rd",
+  "postalCode": "CT9 5JP",
+  "phone": "tel:01843-831732",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-2:30pm, 6:00pm-9:00pm, Sun 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/TheHussar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.379606,1.354145&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.379606,1.354145&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

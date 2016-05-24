@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kaodaeng - Kaeng Rawn",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Fast food, Take-out\n                                    ",
+  "description": "Spicy Thai food. Better to arrive when food has just been prepared. Difficult to find because the soi has no name. From Phra Sumen Road, take the soi just beside the Kasikorn Bank.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "239/5 Soi Kasikorn Bank",
+  "phone": "tel:662-2826338",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.761450,100.499920&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.761450,100.499920&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

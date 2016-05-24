@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Co Quy",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Vietnamese\n                                    ",
+  "description": "Nestled within the sprawling 2-square block Tuy Hoa Market (Chợ Tuy HoÃ ) is a small group of food stalls. To find it, from the main market entrance on Trần Hưng Đạo walk north as directly as you can for about 50 meters. Cô Quy (Aunt Quy) is on the right. She serves simple, traditional fare from among a small buffet display.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Tran Hung Dao Street",
+  "phone": "tel:01244440350",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.087483,109.308386&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.087483,109.308386&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

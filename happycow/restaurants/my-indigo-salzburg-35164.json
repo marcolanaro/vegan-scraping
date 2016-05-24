@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "My Indigo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Japanese, Thai, Take-out, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Asian fusion restaurant chain offering mixed cuisines with mainly curries, stir-fries, and sushi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rudolfskai 8",
+  "postalCode": "5020",
+  "phone": "tel:662843480",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.800224,13.045361&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.800224,13.045361&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

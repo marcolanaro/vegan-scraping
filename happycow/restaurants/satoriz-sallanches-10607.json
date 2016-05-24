@@ -1,0 +1,15 @@
+{
+  "title": "Satoriz",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store chain. Sallanches is a main town you pass through on your way to the Portes du Soleil (Morzine, Avoriaz), Chamonix, Megeve, Flaine etc.",
+  "streetAddress": "1894, Avenue de Genève, Haute Savoie",
+  "postalCode": "74700",
+  "phone": "tel:0450584829",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.954010,6.629790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.954010,6.629790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "PP 99 Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Italian, Western, Take-out, Bakery\n                                    ",
+  "description": "Veggie cafe at 台北市大安區和平東路二段175巷7號. Serves burgers, fries, sandwiches, pasta, and cakes. Call for hours and let happycow know!",
+  "priceRange": "Moderate",
+  "streetAddress": "7, 175, Sec 2, Heping East Rd, Daan District",
+  "phone": "tel:02-23250499",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.025851,121.541843&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.025851,121.541843&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

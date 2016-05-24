@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veg Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Take-out\n                                    ",
+  "description": "Simple, traditional Thai jay (\"vegan\") restaurant. Offers a selection of pre-cooked meals, some with mock meats made from mushroom or soy protein. Meals come with brown rice. Directions: a bit hard to locate. Walk 100 meters west away from Petchkasem Rd into Soi 70, take the second small lane to right until you find another alley crossing your way in parallel to Soi 70, turn right and after 10 meters you reach the restaurant - it's marked with yellow flags with red letters on them.\r\nOpen from early morning until sold out in the afternoon.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Soi 70 Petchkasem Road",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.572923,99.954262&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.572923,99.954262&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

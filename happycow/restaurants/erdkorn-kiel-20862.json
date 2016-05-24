@@ -1,0 +1,13 @@
+{
+  "title": "Erdkorn",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large health food store with vegan and vegetarian products.",
+  "streetAddress": "Hopfenstraße 63, Querpassage",
+  "postalCode": "24103",
+  "phone": "tel:0431-8001392",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-8:00pm, Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.322684,10.135860&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.322684,10.135860&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

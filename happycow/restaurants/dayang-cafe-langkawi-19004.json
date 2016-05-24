@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dayang Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves vegan food as well, useful for vegetarian travelers in Langkawi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Berjaya Resort & Spa, Pantai Kok",
+  "postalCode": "07000",
+  "phone": "tel:04-9591888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.367026,99.667057&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.367026,99.667057&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

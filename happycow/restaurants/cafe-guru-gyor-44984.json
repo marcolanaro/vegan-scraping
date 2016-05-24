@@ -1,0 +1,14 @@
+{
+  "title": "Cafe Guru",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Organic, Western, Buffet, Delivery, Take-out, Hungarian\n                                    ",
+  "description": "This vegetarian cafe replaced the previous vegetarian restaurant, Napraforgo Etelba. Casual setting, features a buffet area.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kisfaludy utca 39",
+  "phone": "tel:328560",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.687736,17.635718&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.687736,17.635718&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

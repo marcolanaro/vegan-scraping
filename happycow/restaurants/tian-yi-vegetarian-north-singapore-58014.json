@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tian Yi Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "Local vegetarian hawker food vendor offering breakfast and lunch.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 527, Ang Mo Kio Ave 10, Cheng San Food Centre, 01-143",
+  "postalCode": "560527",
+  "phone": "tel:9616-3119",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 6:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.372710,103.854454&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.372710,103.854454&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

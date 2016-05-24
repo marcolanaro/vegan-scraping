@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lekker GEC",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Organic, Western, Take-out\n                                    ",
+  "description": "Vegan restaurant. Self-service by weight - your plate goes on the scale; you take what you like as much as you like and pay for just that. Has shakes and ice cream. Also information centre for ecology. Day meals served 12-2:30pm and 6-8:30pm. Closes last two weeks of July month.",
+  "priceRange": "Moderate",
+  "streetAddress": "Maria-Hendrikaplein 5-6",
+  "postalCode": "B-9000 Gent",
+  "phone": "tel:09-2428750",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-9:00pm, Sun 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.036850,3.711990&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.036850,3.711990&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

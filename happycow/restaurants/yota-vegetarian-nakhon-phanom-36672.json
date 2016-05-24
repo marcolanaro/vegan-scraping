@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yota Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai, Buffet\n                                    ",
+  "description": "The owner is a Thai woman who's been vegetarian her whole life. Each day she cooks a selection of 6 or so main dishes which include spicy curries and stir-fry veggies plus sides like fried tofu and vegan sausage. Directions: Wigh your back facing the Mekong, walk down Nittayo Rd and turn right down Bamrung Muang Rd, the restaurant is a few houses down on your right, look for big yellow banners.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bamrung Muang Road 261",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.399200,104.787200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.399200,104.787200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

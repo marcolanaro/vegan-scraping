@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Youta",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Fast food, Take-out\n                                    ",
+  "description": "Veggie eatery located 600m before the Myanmar border, in an alley east of the main road. Speaks Thai only. Offers an assortment of 3 or 4 different ready-made vegetables and mock-meat dishes (just point out which one you want to eat there or take away). Also sell a few prepackaged food items such as TVP, dry noodles, canned mock-meats and more. Outside banner advertise Youta products.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Tessaban Road 16",
+  "phone": "tel:08-92013210",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.431635,99.885932&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.431635,99.885932&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

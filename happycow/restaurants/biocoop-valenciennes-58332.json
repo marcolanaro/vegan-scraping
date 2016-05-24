@@ -1,0 +1,13 @@
+{
+  "title": "Biocoop Valenciennes",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "22 rue Ernest Macarez",
+  "postalCode": "59300",
+  "phone": "tel:0961461800",
+  "venueHours": "\n                                                                                                        Mon-Thu 2:30pm-7:00pm, Tue-Thu 9:30am-12:30pm, Fri-Sat 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.370142,3.533687&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.370142,3.533687&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shang Hai",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Similar name to Da Shang Hai but is a different restaurant. While menu is meat-heavy Chinese food, there are some vegan suitable dishes - just ask. Located on a pedestrian street very close to the central square.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rr. Murat Toptani",
+  "phone": "tel:04257012",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.326000,19.816000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.326000,19.816000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

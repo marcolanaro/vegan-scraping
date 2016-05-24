@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shirain",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Kosher, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop, gallery, and aromatherapy treatment center in the museum courtyard, near Rehovot. The cafe serves dairy vegetarian food and fish. The gallery sells arts and handcrafts made by local artists from the neighboring towns. The aromatherapy center sells products such as aromatic oils, creams and shampoos. Old Israel country style.",
+  "priceRange": "Moderate",
+  "streetAddress": "Dov Shamir Street 4",
+  "postalCode": "76804",
+  "phone": "tel:972-8-9348302",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.853683,34.838595&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.853683,34.838595&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

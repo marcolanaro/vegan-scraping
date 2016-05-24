@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut Bangna",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Delivery, Take-out, Vietnamese\n                                    ",
+  "description": "Established late 2011 by a Vietnamese mother and daughter team and at this locations since Jan 2012. Changed its name from Be Veg Go Green in late 2013. Simple vegan food place opposite green building serving Vietnamese and Thai food. Location is a five minute walk across the pedestrian bridge from Central Bangna (which is far from the Bangna sky-train station), 100 meters from the main road on the right.  Parking in front. Map marker location confirmed Oct 2014.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bangna Trad Road Soi 32",
+  "postalCode": "10260",
+  "phone": "tel:0900153023",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Loving-Hut-Thailand/351363248229276",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.666087,100.631878&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.666087,100.631878&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,14 @@
+{
+  "title": "La Cirasella",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Sant'alfio vegetarian agriturismo, can cater to vegans.",
+  "streetAddress": "Via Trisciala 13",
+  "postalCode": "95010",
+  "phone": "tel:+39095968000",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.353879,12.968076&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.353879,12.968076&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

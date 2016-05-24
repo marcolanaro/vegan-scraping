@@ -1,0 +1,14 @@
+{
+  "title": "Beautiful Green",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Russian\n                                    ",
+  "description": "Vegetarian cafe offering soups, pasta, vegetable dishes, breakfast food, and weekday lunch specials. English spoken and English menu. Will make a dish vegan upon request when possible.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Mokhovaya Ulitsa, 41",
+  "phone": "tel:7-812-2735118",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-11:00pm, Sat-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.939234,30.344438&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.939234,30.344438&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

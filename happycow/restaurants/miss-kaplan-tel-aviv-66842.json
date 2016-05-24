@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Miss Kaplan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Middle Eastern, Israeli\n                                    ",
+  "description": "Vegan gourmet restaurant opened in December 2015 by Israeli chefs Ori Shavit and Shirel Berger, who collaborated on the menu.  Located in the historic Sarona complex, Miss Kaplan offers unique dishes based on local seasonal produce. Intimate atmosphere. Reservations recommended. Those in wheelchairs or who cannot climb one flight of stairs can be seated in the lovely garden (please make sure to notify the restaurant in advance).",
+  "priceRange": "Expensive",
+  "streetAddress": "18 Kaplan St",
+  "phone": "tel:03-6979015",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00pm-11:30pm, Fri-Sat 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.073313,34.785632&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.073313,34.785632&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

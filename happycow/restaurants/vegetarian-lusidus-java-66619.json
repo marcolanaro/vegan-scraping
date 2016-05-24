@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Lusidus",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Asian, Indonesian\n                                    ",
+  "description": "Simple place with several tables for dining in. Offers lots of choices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Pertokoan Babarsari 21, Yogyakarta",
+  "phone": "tel:02744332575",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 8:00am-4:00pm, Tue-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/vegetarianyogyakarta",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-7.773262,110.411122&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-7.773262,110.411122&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

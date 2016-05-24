@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hao Ji Hot Pot",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Taiwanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Taiwanese hot pot restaurant, all-you-can-eat. Offers a pure veg hot pot choice - request \"chuen su\" or say \"wo chi su.\" Comes with an array of veggies to add to your pot.",
+  "priceRange": "Moderate",
+  "streetAddress": "286, Zhonghua 4th Road, Qianjin District",
+  "postalCode": "801",
+  "phone": "tel:07-2826386",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.621368,120.298741&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.621368,120.298741&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

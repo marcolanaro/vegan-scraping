@@ -1,0 +1,16 @@
+{
+  "title": "Desayuneria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Bakery, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Health shop and day cafe. Offering breakfast, sandwiches, plant milks, juices and makes vegan cakes. Labels vegan items. Uses ecological products and local produce.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Pascual Junquera 13",
+  "phone": "tel:639749947",
+  "venueHours": "\n                                                                                                        Mon 9:00am-2:00pm, 5:00pm-8:30pm, Wed-Sun 9:00am-2:00pm, 5:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.276234,-6.086043&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.276234,-6.086043&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

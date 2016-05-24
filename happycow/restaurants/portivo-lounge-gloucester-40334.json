@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Portivo Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Mediterranean, Beer/Wine, British, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Nationwide chain gastro pub offering a separate vegan menu - ask for it. This one offers a selection of international cuisine including tapas & Middle Eastern, all-day breakfast, panini with butter beans, beetroot and quinoa salad, halloomi with wild rice & apricots, falafel veggie burger, and others.",
+  "priceRange": "Moderate",
+  "streetAddress": "Unit 106-107, Gloucester Quays Designer Outlet",
+  "postalCode": "GL1 5SH",
+  "phone": "tel:01452-300881",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Portivo-Lounge/384871408280335",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.860834,-2.252563&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.860834,-2.252563&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

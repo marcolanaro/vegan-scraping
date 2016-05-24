@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khaing Shwe Wha Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Asian, Burmese\n                                    ",
+  "description": "A small vegetarian restaurant that serves a wide range of mostly Burmese and some fusion dishes. Owner speaks English. Located in the same street as Moon vegetarian restaurant (Moon is at the end, Khaing Shwe Wha at the beginning of the small street).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Old Bagan, Anada Pagoda North Gate",
+  "phone": "tel:09-402512622",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.174359,94.867365&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.174359,94.867365&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

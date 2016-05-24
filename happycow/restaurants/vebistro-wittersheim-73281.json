@@ -1,0 +1,19 @@
+{
+  "title": "VeBistro",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Organic, Beer/Wine, Catering, European, German\n                                    ",
+  "description": "An all-vegan bistro in the villa Lochfeld is located in the middle of the nature reserve Bliesgau. Serves changing regional cuisine with an international touch like wild herbs salad with falafel, currywurst, dibbelabbes, chili sin carne and cakes. Everything is made-in-house and is almost exclusively prepared using fresh, regional ingredients. Gluten-free possible. Also special events like hikes, vegan wine tasting, dinner evenings and brunch. You should make a reservation for special events.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Zum Lochfeld",
+  "postalCode": "66399",
+  "phone": "tel:+49-015170017156",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 3:00pm-8:00pm, Sun 2:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VeBistro-das-vegane-Bistro-in-Haus-Lochfeld-780451848650017",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.180873,7.149783&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.180873,7.149783&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

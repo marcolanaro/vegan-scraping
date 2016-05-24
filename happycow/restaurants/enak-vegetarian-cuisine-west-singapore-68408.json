@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Enak Vegetarian Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "Located at Stall 9 of Healthy Kopitiam Food Court. Serves mock ham porridge, fish ball noodle, popiah, herbal mee sua, lontong, mutton soup and more. Has vegan options; please inquire.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Jurong East Street 21, Tower B Ng Teck Fong General Hospital, Unit 02-01 Singapore",
+  "postalCode": "609606",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.333522,103.744965&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.333522,103.744965&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

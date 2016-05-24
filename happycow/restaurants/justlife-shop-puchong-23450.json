@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "JustLife Shop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and vegetarian market stocks packaged dried organic products in addition to fresh organic vegetables.",
+  "streetAddress": "35-01, GF Jln Kenari 19A, Bandar Puchong Jaya",
+  "postalCode": "47100",
+  "phone": "tel:03-8076-9795",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/justlifeshop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.045338,101.623294&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.045338,101.623294&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ukishima Garden",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Organic, Beer/Wine, European, Fusion\n                                    ",
+  "description": "Vegan shojin cuisine restaurant in traditional machiya-style house close to the Nishiki market, opened Apr 2016. Its flagship location is in Okinawa. Contemporary vegan-meets-Shojin cuisine using organic local vegetables & millets, prepared condiments (vinegar, miso, and soy sauce). Menu ranges from Japanese Shojin, Italian, French to Oriental. Selection of wine and sake.",
+  "priceRange": "Moderate",
+  "streetAddress": "543 Asakura-cho, Nakagyo-ku",
+  "postalCode": "604-8074",
+  "phone": "tel:0757548333",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:00pm, 6:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/UkishimaGarden",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.007726,135.765077&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.007726,135.765077&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

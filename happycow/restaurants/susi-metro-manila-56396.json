@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "SUSI",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out, Bakery, European, Fusion\n                                    ",
+  "description": "SUSI, which means \"key,\" is a gluten-free vegan restaurant that opened in Feb 2015. The space comprises a sunroom, upstairs dining area, and a small retail section. Offers gluten-free bread and pastries as well.",
+  "priceRange": "Expensive",
+  "streetAddress": "Forbes Town Road, Burgos Circle, BGC, Taguig",
+  "postalCode": "1634",
+  "phone": "tel:+6328337874",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/susiphilippines",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.551772,121.044139&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.551772,121.044139&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

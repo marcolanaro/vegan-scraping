@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nataraj - Chuo-ku",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian\n                                    ",
+  "description": "Vegetarian Indian food. Address in Japanese: 東京都中央区銀座6-9-4. Offers a special vegan dinner every Monday (for Meat free Mondays) in all of its branches and also offers a savings of 10% discount if you make a reservation for the dinner.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ginza Kosaka bldg 7-9F, 6-9-4 Ginza, Chuo-ku",
+  "phone": "tel:03-55371515",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.670200,139.763610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.670200,139.763610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

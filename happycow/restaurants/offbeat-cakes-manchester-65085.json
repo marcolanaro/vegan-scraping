@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Offbeat Cakes",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Makes custom vegan gluten-free cakes.",
+  "streetAddress": "Stockport",
+  "phone": "tel:07766411030",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Offbeat-Cakes-813066302122447",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.410632,-2.157533&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.410632,-2.157533&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

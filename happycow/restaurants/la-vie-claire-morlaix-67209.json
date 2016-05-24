@@ -1,0 +1,13 @@
+{
+  "title": "La Vie Claire",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "7 rue de l'Aiguillon",
+  "postalCode": "29600",
+  "phone": "tel:0298880059",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:00am-12:00pm, Tue-Sat 2:00pm-7:00pm, Sat 9:00am-12:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.577719,-3.828024&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.577719,-3.828024&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

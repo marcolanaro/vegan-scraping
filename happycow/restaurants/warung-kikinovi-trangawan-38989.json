@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Warung KikiNovi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Fast food, Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A warung on Gili T that provides vegetarian and vegan choices. Kikinovi, the owner, makes a different variety of Indonesian veggie dishes everyday. Located in the middle of the central market near the boat harbor, alongside other food vendors. During the day Kikinovi is open in one of the stores on the far wall of the market area facing the boat harbor. Expect to pay 15,000-20,000 IDR for a nasi campur.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Central Night Market, main street",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.348292,116.038433&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.348292,116.038433&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

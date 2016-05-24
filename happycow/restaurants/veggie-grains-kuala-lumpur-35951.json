@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veggie Grains",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Take-out\n                                    ",
+  "description": "Vegetarian restaurant's specialties are ja jiang noodle, asam laksa and more. Has vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15 Jalan Medan Putra 3/62D, Kepong Baru",
+  "postalCode": "52200",
+  "phone": "tel:+60362620903",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-9:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VeggieGrains",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.193607,101.625102&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.193607,101.625102&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

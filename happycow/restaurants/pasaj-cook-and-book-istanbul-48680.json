@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pasaj Cook and Book",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Salad bar, Take-out, Turkish, Arabic\n                                    ",
+  "description": "A vegetarian restaurant with plenty of vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sair Latifi Sokak, No 2/a, Kadikoy",
+  "phone": "tel:0216-4144400",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-10:00pm, Sun 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.984569,29.027507&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.984569,29.027507&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

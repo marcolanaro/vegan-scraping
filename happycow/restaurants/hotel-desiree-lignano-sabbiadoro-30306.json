@@ -1,0 +1,18 @@
+{
+  "title": "Hotel Desiree",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Western, Buffet, Salad bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hotel restaurant, will serve vegan dishes upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Aquileia, 47",
+  "postalCode": "33054",
+  "phone": "tel:+39043171415",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.688710,13.143201&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.688710,13.143201&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

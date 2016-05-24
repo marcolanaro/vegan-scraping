@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "J Khaohom",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Fast food, Take-out\n                                    ",
+  "description": "Typical Thai veggie restaurant partly outdoor with fans, next to Tanommitr market in a big area of apartment houses opposite building 14. Noodle soups and rice dishes, pre-cooked dishes that you can take away.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bang Khen District, North Bangkok",
+  "postalCode": "10220",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/j.khaohom",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.855803,100.643096&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.855803,100.643096&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

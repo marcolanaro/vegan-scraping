@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Det Gronne Hjorne",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Well stocked vegetarian health food shop offering a wide range of items including refrigerated food: veggiemeats, patés and \"cold cuts,\" tofu, plant milks, flour, grains, bread, dry pasta, natural cleaning products, body care, supplements, herbs, books, essential oils.",
+  "streetAddress": "Torvet 2",
+  "postalCode": "5700",
+  "phone": "tel:+4562216821",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-5:30pm, Sat 9:30am-1:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.059571,10.610271&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.059571,10.610271&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

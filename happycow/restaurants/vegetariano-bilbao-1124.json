@@ -1,0 +1,14 @@
+{
+  "title": "Vegetariano",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        International, Fusion, Spanish\n                                    ",
+  "description": "Simple place, offers weekday lunch.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Gipuzkoa 7, Deusto",
+  "phone": "tel:4473711",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 1:00pm-3:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.269680,-2.948910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.269680,-2.948910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

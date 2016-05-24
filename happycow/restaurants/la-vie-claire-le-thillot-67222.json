@@ -1,0 +1,13 @@
+{
+  "title": "La Vie Claire",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "38 rue Charles de Gaulle",
+  "postalCode": "88160",
+  "phone": "tel:0329258813",
+  "venueHours": "\n                                                                                                        Mon 2:30pm-7:00pm, Tue-Sat 9:00am-12:30pm, 2:30pm-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.878440,6.766084&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.878440,6.766084&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

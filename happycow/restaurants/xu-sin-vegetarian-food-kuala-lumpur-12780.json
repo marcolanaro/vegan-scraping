@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xu Sin Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Delivery, Take-out, Catering\n                                    ",
+  "description": "Offers many types of vegetarian hawker-style dishes: rice, noodle, a la carte dish. Opening 7am-6pm. Directions: Located along Jalan Cheras towards Kajang direction, just before Cheras Leisure Mall.",
+  "priceRange": "Moderate",
+  "streetAddress": "32-G, Pusat Penjaja Desa Aman, Taman Desa Aman",
+  "postalCode": "56100",
+  "phone": "tel:012-6295409",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.096490,101.741680&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.096490,101.741680&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Word of Mouth",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, English, British, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Informal cafe offering a range of gluten-free, wheat-free, dairy-free choices. Plenty of space and is dog friendly. Regularly changing specials.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "19-20 Vine St",
+  "postalCode": "WR11 4RL",
+  "phone": "tel:01386422259",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/wordofmouthcafeevesham",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.091620,-1.948416&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.091620,-1.948416&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

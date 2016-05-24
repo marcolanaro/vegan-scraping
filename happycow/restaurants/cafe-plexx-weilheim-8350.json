@@ -1,0 +1,16 @@
+{
+  "title": "Cafe Plexx",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Organic, European\n                                    ",
+  "description": "Offers daily changing lunch special. Non-smoking.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kreuzgasse 5",
+  "postalCode": "82362",
+  "phone": "tel:08819278120",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Cafeplexx",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.839240,11.140820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.839240,11.140820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

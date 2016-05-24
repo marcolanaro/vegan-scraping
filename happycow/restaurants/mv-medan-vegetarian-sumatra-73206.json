@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MV Medan Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Buffet, Asian, Indonesian\n                                    ",
+  "description": "Vegetarian buffet offering a selection of dishes with rice: some mock meats, spring rolls, samosas, and tofu. Could also order Indonesian and Thai dishes from the menu on the board. Has fans and aircon.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl. Airlangga 23 A-25, Petisah Tengah, Medan",
+  "phone": "tel:61415570",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.588032,98.668310&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.588032,98.668310&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

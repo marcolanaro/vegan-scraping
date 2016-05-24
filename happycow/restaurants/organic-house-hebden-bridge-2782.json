@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Organic House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Juice bar, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic shop and cafe. Coffees include soya milk options. Formerly all vegetarian but no longer as of August 2008.",
+  "priceRange": "Moderate",
+  "streetAddress": "Market Street, Hebden Bridge",
+  "phone": "tel:01422-843429",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.741370,-2.015840&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.741370,-2.015840&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

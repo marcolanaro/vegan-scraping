@@ -1,0 +1,19 @@
+{
+  "title": "Thenga Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Indian, Fast food, Take-out, Bakery, British, Catering, English, Fusion\n                                    ",
+  "description": "Vegetarian cafe in Kings Cross offering Indian flavors with a different vegetarian dish each day plus a variety of cakes, including vegan ones.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "120 Cromer St",
+  "postalCode": "WC1H 8BS",
+  "phone": "tel:02038179919",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 8:00am-5:30pm, Fri 8:00am-5:00pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/thengacafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.527522,-0.124516&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.527522,-0.124516&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

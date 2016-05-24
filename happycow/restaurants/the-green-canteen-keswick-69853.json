@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Green Canteen - Mobile Van",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Mediterranean, Fast food, Mexican, Catering, Take-out only\n                                    ",
+  "description": "Vendor at Ambleside market on Wednesdays selling falafel pita and salad box, bean chilli and guacamole with bread or on nachos, a veggie burger of the day, and normally a special of the day like soup, dhal, or tacos. The core menu is vegan (as is the cake) with occasional dairy. Check its webpage for other event dates & catering info.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4 Standish St",
+  "postalCode": "CA12 5LS",
+  "phone": "tel:07817823085",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/kathskitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.601236,-3.136033&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.601236,-3.136033&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

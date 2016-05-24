@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ren Ci Global Village",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "Mission is to encourage people to eat vegetarian.  Name in Chinese is 仁慈地球村",
+  "priceRange": "Inexpensive",
+  "streetAddress": "57 Tmn Kristal, Kawasan Perusahaan Mergong 2",
+  "postalCode": "05150",
+  "phone": "tel:+60124897331",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ASRenciGlobalVillage",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.138787,100.355125&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.138787,100.355125&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Raj Rasoi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian\n                                    ",
+  "description": "All vegetarian South Indian restaurant opened in 2011, and maybe the only vegetarian in Pakistan as of June 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shop# 2, Marine Pride, Block 7, Main Clifton Road, Next to Meezan Bank and Sohni Sweets",
+  "phone": "tel:9221-32060531",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:30pm-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/rajrasoipakistan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.829899,67.033883&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.829899,67.033883&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

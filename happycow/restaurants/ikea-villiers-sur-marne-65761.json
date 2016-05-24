@@ -1,0 +1,17 @@
+{
+  "title": "Ikea",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, European, Swedish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Ikea started putting more emphasis on sustainable food and even put advertisements for the vegan food to the general public. Here you can choose, for instance, an organic lentil salad as a starter, a vegan main dish including vegetable balls, vegetables and bulgur. There is also a grocery store at the ground floor where you can buy the same frozen vegetable balls and many other food from Sweden.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "35 rue Jean Jaurès",
+  "postalCode": "94350",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-6:00pm, Sat-Sun 10:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.828431,2.529629&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.828431,2.529629&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

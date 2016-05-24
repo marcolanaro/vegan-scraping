@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Landbageriet - Naturbageriet",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "A small bakery that makes both traditional as well a few vegan baked goods like banana muffin, marzipan cookies, and cake. Uses honey in products so specify. Formerly known as Naturbageriet.",
+  "streetAddress": "Frederiksborggade 29",
+  "postalCode": "1360",
+  "phone": "tel:25146415",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:30am-6:00pm, Sat-Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.685092,12.568018&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.685092,12.568018&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Go Organic",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Good selection of fresh organic produce. Lots of other organic goods, such as oil, seasonings, nuts, etc.",
+  "streetAddress": "7J Marble Arch, Solok Moulmein, Pulau Tikus, Georgetown",
+  "postalCode": "10350",
+  "phone": "tel:04-229-4226",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.429044,100.312689&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.429044,100.312689&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

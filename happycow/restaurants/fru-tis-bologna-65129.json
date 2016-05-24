@@ -1,0 +1,17 @@
+{
+  "title": "Fru-Tis",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Mediterranean, Salad bar, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Juice bar offering salads, hot daily soups, fresh vegetables and fruit juices, teas and herbal infusions.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Oberdan 24/h",
+  "postalCode": "40126",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.497067,11.346009&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.497067,11.346009&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

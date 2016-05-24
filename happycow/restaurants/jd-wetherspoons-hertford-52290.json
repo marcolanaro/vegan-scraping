@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "JD Wetherspoons",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain restaurant offering cheap, pub grub type of food. Many vegetarian items as well a few vegan suitable ones like the freedom salad, and on Thursday a spinach, chickpea, sweet potato curry which is vegan when ask to omit/replace naan bread (contains dairy).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 The Wash",
+  "postalCode": "SG14 1PS",
+  "phone": "tel:01992-517430",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.796005,-0.079118&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.796005,-0.079118&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

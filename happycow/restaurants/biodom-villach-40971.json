@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Biodom Laggner OG",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small health food store providing an assortiment of fresh fruits, legume, and bakery products.",
+  "streetAddress": "Widmanngasse 31",
+  "postalCode": "9500",
+  "phone": "tel:+43-424222463",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.613747,13.844662&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.613747,13.844662&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

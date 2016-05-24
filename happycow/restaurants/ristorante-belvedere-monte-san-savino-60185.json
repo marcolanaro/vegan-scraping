@@ -1,0 +1,16 @@
+{
+  "title": "Ristorante Belvedere",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers Italian dishes with vegan labelled on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Loc. Bano 226",
+  "postalCode": "52048",
+  "phone": "tel:+39-0575844262",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ristorantebelvedere.belvedere",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.331525,11.692287&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.331525,11.692287&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

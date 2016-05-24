@@ -1,0 +1,18 @@
+{
+  "title": "Black Sheep",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out, Bakery, European\n                                    ",
+  "description": "Cafe-deli on the border between Kreuzberg and Alt-Treptow. Selling specialty coffee from The Barn Roastery served with different plant milk options. It's also the home of Berlin Kombucha Society, so alongside cakes, salads, and soups it sells a range of fermented food to takeaway such as sauerkraut and kimchi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bouche Str 15",
+  "postalCode": "10961",
+  "phone": "tel:015739325751",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-6:00pm, Sat 9:00am-5:00pm, Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.491420,13.449420&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.491420,13.449420&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

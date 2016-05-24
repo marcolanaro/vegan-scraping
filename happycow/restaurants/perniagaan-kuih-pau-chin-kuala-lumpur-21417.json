@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Perniagaan Kuih Pau Chin",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Sells vegetarian food and cooking supplies. Vegetarian buns with veggies, faux meats, and curry.",
+  "streetAddress": "21 lockup stall Jalan Besar, Ampang",
+  "postalCode": "68000",
+  "phone": "tel:0192180899",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.158800,101.757446&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.158800,101.757446&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

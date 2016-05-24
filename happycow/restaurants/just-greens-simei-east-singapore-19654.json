@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Just Greens - Simei",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Fast food, Take-out\n                                    ",
+  "description": "Chinese name 绿清清素食. Offers vegetarian dishes made with tofu, vegetable, and various mock meats. Several other outlets in Singapore.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 248, Simei St 3",
+  "phone": "tel:67845206",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.343697,103.953610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.343697,103.953610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

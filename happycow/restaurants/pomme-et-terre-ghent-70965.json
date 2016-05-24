@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pomme et Terre",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located on a cozy street you will find different sweet potato dishes with a variety of vegetables as toppings.  As of March 17, 2016, is vegetarian and vegan and takeaway only, but within two weeks, you can also dine-in for dinner. In addition, on March 26, 2016, they will be adding meat to the menu so vegans please go and support the vegan dishes. Take-away packaging is 100% biodegradable.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Serpentstraat 28",
+  "phone": "tel:+32486-292972",
+  "venueHours": "\n                                                                                                        Mon 11:30am-8:00pm, Wed-Thu 11:30am-8:00pm, Fri-Sat 11:30am-10:00pm, Sun 2:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/PommeetTerre",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.056216,3.725894&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.056216,3.725894&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

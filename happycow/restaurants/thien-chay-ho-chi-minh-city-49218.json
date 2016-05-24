@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thien Chay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Vietnamese\n                                    ",
+  "description": "This vegetarian restaurant is part of the fund raising project of HCM Thien Nguyen Charity Group members. Has Wi-Fi. Opened Apr 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "82 Tran Quang Khai",
+  "phone": "tel:+848-62911982",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-2:30pm, 4:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/nhahangthienchay",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.792307,106.693382&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.792307,106.693382&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

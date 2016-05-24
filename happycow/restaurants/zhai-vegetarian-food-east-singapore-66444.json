@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zhai Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "Economic rice and bee hoon. Located in Bedok Interchange Hawker Centre.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 207 New Upper Changi Road Stall unit 01-45, Bedok Interchange Food Centre",
+  "postalCode": "460207 ",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 5:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.325122,103.930571&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.325122,103.930571&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

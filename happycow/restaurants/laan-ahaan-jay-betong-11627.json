@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Laan Ahaan Jay",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Buffet, Fast food\n                                    ",
+  "description": "Vegetarian food. Look for Chinese symbol \"jay\" in yellow at front of shop.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "27 Chayachawalit Road, Betong, Yala",
+  "postalCode": "95110",
+  "phone": "tel:0872865489",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.767280,101.071500&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.767280,101.071500&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafeteria Pantai Hospital",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "Fully air-conditioned vegan cafeteria located in the outpatient clinic. Serves ready made economic rice and fried noodles. Also has a hot steam table offering snacks and dim sim. Buns and refreshments also available. Made to order items available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Persiaran Cempaka, Bandar Aman Jaya",
+  "postalCode": "08000",
+  "phone": "tel:04-442-8899/6850",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-5:30pm, Sat 9:00am-12:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.672744,100.513144&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.672744,100.513144&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

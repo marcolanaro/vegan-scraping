@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Samrup Jay",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai\n                                    ",
+  "description": "Small restaurant with a sign at the front that reads \"Pure Vegetarian Vegan.\" Menu is in Thai and in English; some English spoken. Previously located on Si Samphet Road and named Ahan Jay Si Samphet. Location is opposite Ayutthaya Business Administration Technical College on U-Thong Road, near U-Thong Soi 25 which is signposted; there is also a red and yellow Youta Vegetarian Food sign at the front as well as the little triangular yellow and red flags signifying vegetarian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "16/14 Moo 1 Wasukri",
+  "postalCode": "13000",
+  "phone": "tel:085-9922733",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.357301,100.548849&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.357301,100.548849&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Big Apple",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Juice bar/cafe serves a large selection of juices and sandwiches (made with made-in-house wheat-free/yeast-free bread). There is one vegan sandwich on menu, but the staff will happily custom make something for you with ingredients such as hummus, avocado and many other veggies.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Fiolstaede 18, DK",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat 9:00am-6:00pm, Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.681762,12.572248&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.681762,12.572248&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

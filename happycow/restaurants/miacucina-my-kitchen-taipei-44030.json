@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MiaCucina - My Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Western, Take-out\n                                    ",
+  "description": "Western/Italian cuisine place that often busy and somewhat loud. Menu is in both Chinese and English. Uses dairy and egg but has a few vegan suitable items as well. A 2-minute walk from Zhishan MRT station. Chinese address 台北市士林区德行西路48號. Has other locations.",
+  "priceRange": "Moderate",
+  "streetAddress": "48, West De Xing Road, Shilin District",
+  "phone": "tel:02-88663658",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/MiaCucina-My-Kitchen/259529090829207",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.104628,121.523133&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.104628,121.523133&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sufood",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Fusion\n                                    ",
+  "description": "Part of a chain of vegetarian restaurants serving fusion cuisine that's more upscale. Offers set meals by number of courses. Will substitute sauces and other items on request to create vegan dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "2F, 106 Guangming 1st Rd, Zhubei City",
+  "phone": "tel:03-657-1611",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sufood.com.tw",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.803946,120.964687&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.803946,120.964687&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chicken J's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Take-out, Filipino, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Despite the name Chicken J's is one of the eateries you could get a vegan munggo or pinakbet. Menu changes and sometimes offers other vegan soups and other choices like banana heart salad (puso) and papaya salad.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dumaguete-Bacong Road / Hibbard Avenue",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.309116,123.307591&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.309116,123.307591&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

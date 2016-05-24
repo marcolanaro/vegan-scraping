@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hot Potato Shop",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, English, Take-out only\n                                    ",
+  "description": "Vegetarian jacket potato take-away.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "102 Belgrave Rd",
+  "postalCode": "LE4 5AT",
+  "phone": "tel:01162680100",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-7:00pm, Fri-Sat 11:30am-8:00pm, Sun 2:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Melton-Hot-Potato-Shop/160126200669069?sk=wall",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.648190,-1.124023&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.648190,-1.124023&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Quay Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Malaysian\n                                    ",
+  "description": "Serves mostly vegan food. Items with eggs are clearly marked on menu.  Bright, clean space. Self-service. Diners need to return all utensils as well as cutlery after the meal to the kiosk set up at the corner of the cafe.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Church Street, Ghaut",
+  "postalCode": "10300",
+  "phone": "tel:012-403%206659",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/quaycafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.417888,100.341203&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.417888,100.341203&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

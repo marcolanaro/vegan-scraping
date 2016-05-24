@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Happy Happy Vegetarian",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Vegetarian food delivery and catering.",
+  "streetAddress": "165, Jalan Taman Bukit Desa Utama",
+  "postalCode": "52100",
+  "phone": "tel:0193319197",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/thebestvegetarianfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.213742,101.618640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.213742,101.618640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

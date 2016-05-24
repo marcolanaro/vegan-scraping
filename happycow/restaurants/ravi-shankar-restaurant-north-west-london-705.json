@@ -1,0 +1,15 @@
+{
+  "title": "Ravi Shankar Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet\n                                    ",
+  "description": "Inexpensive buffet Indian dishes. 1 minute from Euston and Euston Squares stations.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "133-135 Drummond St",
+  "postalCode": "NW1 2HL",
+  "phone": "tel:020-73886458",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.527540,-0.136640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.527540,-0.136640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

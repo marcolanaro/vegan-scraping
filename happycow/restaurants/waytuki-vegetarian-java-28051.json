@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Waytuki Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food, Delivery, Take-out, Indo-Chinese\n                                    ",
+  "description": "Serves South and North Indian vegetarian cuisine. Comfortable atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl Pintu Air Raya 28, Jakarta",
+  "phone": "tel:021-3814146",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.165853,106.831746&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.165853,106.831746&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

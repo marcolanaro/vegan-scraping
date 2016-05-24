@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Omar Cafe and Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Beer/Wine, Middle Eastern, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan choices including mezze, salad, pasta, and the lentil soup. Vegans to inquire. Located in a tourist section next to the Cistern and near the Blue Mosque, the Hagia Sophia, and Cathedral Barri Gothic.",
+  "priceRange": "Moderate",
+  "streetAddress": "Alemdar Mahallesi Seftali, Sokak Unit 8, Sultanahmet",
+  "postalCode": "34410",
+  "phone": "tel:0212-5139021",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.008418,28.977622&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.008418,28.977622&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

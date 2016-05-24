@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Silver Cross Pub",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A traditional English pub in the heart of London, near Trafalgar Square and other notable sites. Possibly offering the only vegetarian fish and chips option in the city. Note: the vege-fish contains egg. Changing menu might include other vegetarian choices but no vegan ones (per Nov 2013 report).",
+  "priceRange": "Moderate",
+  "streetAddress": "33 Whitehall",
+  "postalCode": "SW1A 2BX",
+  "phone": "tel:02079308350",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-11:00pm, Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.506564,-0.127230&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.506564,-0.127230&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

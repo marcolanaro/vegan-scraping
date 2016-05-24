@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Inner Fire",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Authentic Indian food restaurant. Will accommodate vegans, and has vegan beers on tap. A good selection of sides, all served as main portion if requested, breads and rice. Offers free delivery and discounts on pick-up.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "367, Fishponds Road",
+  "postalCode": "BS5 6RD",
+  "phone": "tel:0117-9657999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.474051,-2.547633&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.474051,-2.547633&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dam 2",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Juice bar, Vietnamese, Buddhist\n                                    ",
+  "description": "Vegan cafe serving typical Buddhist fare with a selection of mock meats and vegetable dishes, including rice plate and spring rolls. A selection of juice. Could order a variety of noodles off the blackboard menu that is in both Vietnamese and English. It's near the eastern end of Ly Thuong Kiet, and the sign is a bit hard to spot.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "118 Ly Thuong Kiet",
+  "phone": "tel:0934-972055",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.881436,108.337255&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.881436,108.337255&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

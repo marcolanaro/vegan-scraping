@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Honest to Goodness",
+  "tags": [
+    "Health Food Store",
+    "Vegan"
+  ],
+  "description": "All-vegan health food shop, sister to the shop in Hoylake.",
+  "streetAddress": "57 Telegraph Road",
+  "postalCode": "CH60 0AD",
+  "phone": "tel:0151-3423996",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.328007,-3.097537&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.328007,-3.097537&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

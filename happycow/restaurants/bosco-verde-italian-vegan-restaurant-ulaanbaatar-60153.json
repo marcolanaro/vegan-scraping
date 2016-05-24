@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bosco Verde Italian Vegan Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Beer/Wine, Mongolian\n                                    ",
+  "description": "Serves Italian vegan food in addition to traditional Mongolian meals. Can accommodate parties.",
+  "priceRange": "Moderate",
+  "streetAddress": "east side of State Circus",
+  "phone": "tel:976-99092015/,%2070117715",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-9:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Bosco-Verde-Italian-vegan-restaurant/593626987353664",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.912049,106.907262&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.912049,106.907262&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

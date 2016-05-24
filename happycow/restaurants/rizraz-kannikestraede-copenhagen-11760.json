@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "RizRaz - Kannikestraede",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Buffet, Beer/Wine, European, Danish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Busy restaurant offering an all-you-can eat vegetarian buffet for lunch and dinner everyday. The veggie buffet includes a large variety of cold salad dishes and hot main dishes, both vegetarian and vegan. Also has an la carte menu which is not veg. Modern and spacious interior. Location is near university library, short walk from Norreport metro station, city centre.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kannikestraede 19, Kobenhavn",
+  "postalCode": "1169",
+  "phone": "tel:33323345",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.680180,12.574090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.680180,12.574090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

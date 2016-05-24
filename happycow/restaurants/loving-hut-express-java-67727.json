@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut Express - Jakarta",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Chinese, Western, Fast food, Take-out, Indonesian\n                                    ",
+  "description": "Part of international chain of vegan restaurants opened by followers of Supreme Master Ching Hai, an advocate for veg living. Each location is individual family owned and operated. Serves vegan food, coffee, non-alcoholic beverages, and desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl. Bedugul 5B no.7, Jakarta Barat",
+  "phone": "tel:021-5406060",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Loving-Hut-Indonesia/116705241678599",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.147519,106.708722&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.147519,106.708722&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

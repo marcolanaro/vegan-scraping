@@ -1,0 +1,20 @@
+{
+  "title": "Festuk Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean\n                                    ",
+  "description": "Restaurant cafe serving made-in-house daily menu from Tue-Sun suitable for vegans and vegetarians. Sandwiches, tapas, snacks. Dinners served on Fri. and Sat. From Sun-Thur dinners upon request only. Custom menus for groups. Celiac menu. Children's corner. Permanent exhibition of paintings.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "c/ Forn, 22",
+  "postalCode": "08140",
+  "phone": "tel:931718973",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 10:00am-9:00pm, Fri-Sat 10:00am-12:00am, Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/festukcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.632844,2.162628&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.632844,2.162628&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

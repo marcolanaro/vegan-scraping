@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kong Tiak",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "Veggie Chinese food restaurant. Serves curry fried rice, sweet and sour eggplant and mushroom \"chicharon\" to name a few.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "27 Macopa Street, Quezon City",
+  "phone": "tel:7427762/,%207321917",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-3:00pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.632545,121.002517&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.632545,121.002517&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

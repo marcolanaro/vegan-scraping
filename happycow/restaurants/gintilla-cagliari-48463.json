@@ -1,0 +1,20 @@
+{
+  "title": "Gintilla",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Organic, Buffet, Beer/Wine\n                                    ",
+  "description": "Natural food restaurant situated in the city center since 2014. Offers lunch buffet and dinner a la carte, using mostly organic and locally sourced ingredients. The menu is traditional Italian with many vegan and raw options. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Corso Vittorio Emanuele II, 210",
+  "postalCode": "09123",
+  "phone": "tel:070680665",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:30pm-2:30pm, 8:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gintilla",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.219122,9.109600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.219122,9.109600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

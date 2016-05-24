@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fellinis",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, English, Wine\n                                    ",
+  "description": "A modern 'Vegeterranean' restaurant, featuring seasonal vegetarian food with a Mediterranean slant. Same owners as Zeffirellis. Booking advised. Cinema above restaurant screens arthouse and niche film productions.",
+  "priceRange": "Moderate",
+  "streetAddress": "Church Street, Ambleside",
+  "postalCode": "LA22 0BD",
+  "phone": "tel:015394-33845",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.430480,-2.963540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.430480,-2.963540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

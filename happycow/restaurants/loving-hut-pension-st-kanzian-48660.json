@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut Pension",
+  "tags": [
+    "Veg Hotel/BnB",
+    "Vegan"
+  ],
+  "description": "Inn/pension and vegan restaurant, open May to October. Guests are offered daily vegan buffet breakfast.",
+  "streetAddress": "Am See XII 7/7a, Sankt Kanzian",
+  "postalCode": "9122",
+  "phone": "tel:+43-423940150",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.609714,14.589961&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.609714,14.589961&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

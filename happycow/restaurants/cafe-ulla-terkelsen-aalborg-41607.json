@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Ulla Terkelsen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe and bar. Offers vegetarian food at brunch on weekends which includes hummus with veggies and a salad with hummus and feta.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kastetvej 36",
+  "postalCode": "9000",
+  "phone": "tel:+45-98158000",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:00am-12:00am, Thu-Sat 11:00am-3:00am, Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/CafeUlla",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.053469,9.905207&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.053469,9.905207&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

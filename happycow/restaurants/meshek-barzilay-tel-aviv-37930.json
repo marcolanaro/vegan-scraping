@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Meshek Barzilay",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, International, Organic, Beer/Wine, Israeli\n                                    ",
+  "description": "Vegetarian turned vegan in 2015 (with the exception of eggs as an option). Mostly organic restaurant in Neve Tzedek neighborhood. Gluten-free items are marked. Menu in Hebrew and English. Sit in the darker bar area, the light main room, or at the back patio. Try the big vegan breakfast, one of the organic salads, lasagna, Indian thali, or strawberry crumble dessert. On Friday afternoons a jazz ensemble performs. Note its other location at Yarkonim had shut down.",
+  "priceRange": "Moderate",
+  "streetAddress": "6 Ahad Haam St, Neve Tsedek",
+  "phone": "tel:03-5166329",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-12:00am, Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/meshekbarzilay",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.063263,34.768348&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.063263,34.768348&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

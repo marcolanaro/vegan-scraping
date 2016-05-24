@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Creek - DunNan Store",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Taiwanese\n                                    ",
+  "description": "A branch of 蔬河, at 安區敦化南路一段245號 B1. Food shop at B1 of Eslite (DunNan store) where you can get soya-mixed meat (vegan).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "245, B1, Sec. 1, Dunhua South Rd, Da’an District",
+  "phone": "tel:02-27755977x611",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.039063,121.549244&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.039063,121.549244&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

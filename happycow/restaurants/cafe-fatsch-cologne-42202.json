@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Fatsch",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Bakery\n                                    ",
+  "description": "Vegan cafe run by a small collective. Has a menu of the day with quiches, gnocchi, soup, burgers, and cakes. Serves coffee, tea, cakes and soup.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Josephskirchstrasse 25",
+  "postalCode": "51103",
+  "phone": "tel:0221-98861494",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 1:00pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/CafeFatsch",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.939449,7.003550&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.939449,7.003550&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

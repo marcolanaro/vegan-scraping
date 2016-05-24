@@ -1,0 +1,17 @@
+{
+  "title": "Avocado",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "Vegetarian restaurant since Mar 2011. Menu includes entrees, sandwiches, smoothies, juices, house-made bread and cake. Holiday hours vary so check ahead.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nikis 30",
+  "postalCode": "105 57",
+  "phone": "tel:30-2103237878",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-11:00pm, Sat 11:00am-11:00pm, Sun 12:00pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.973985,23.732896&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.973985,23.732896&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

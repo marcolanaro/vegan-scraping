@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Buffet, Take-out\n                                    ",
+  "description": "Spicy, traditional Thai fare. Similar set up to Hong Ming around the corner: rice (not brown, bit of red mixed with white) and variety of buffet/bain marie dishes served on rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Thanon Luangpho, Krabi Town",
+  "postalCode": "81000",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.078619,98.917815&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.078619,98.917815&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

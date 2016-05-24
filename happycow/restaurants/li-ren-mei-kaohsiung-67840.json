@@ -1,7 +1,7 @@
 {
-  "tags": [],
-  "listingFeatures": []
-}  "Vegetarian Restaurant"
+  "title": "Li Ren Mei",
+  "tags": [
+    "Vegetarian Restaurant"
   ],
   "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Take-out, Taiwanese\n                                    ",
   "description": "里仁美蔬食 serves a variety of cuisines, from bibimbap, hot pot and spaghetti to healthy soup and Taiwanese snacks. Menu shows if food contains egg or milk.",
@@ -9,7 +9,7 @@
   "streetAddress": "777, B1, Bo'ai 2nd Rd, Zuoying District",
   "postalCode": "813",
   "phone": "tel:075559922",
-  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri 11:00am-10:30pm, Sat-Sun 10:30am-10:30pm\n                                                ",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri 11:00am-10:30pm, Sat-Sun 10:30am-10:30pm\n                                                ",
   "listingFeatures": [
     "Wheelchair accessible"
   ],

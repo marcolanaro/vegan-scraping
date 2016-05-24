@@ -1,0 +1,17 @@
+{
+  "title": "Galileo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small, family run restaurant that offers labelled vegan choices. On Thursday it offers a value special dish with 3 vegetarian/vegan courses.",
+  "priceRange": "Moderate",
+  "streetAddress": "Piazza Carlo Zinelli, 2",
+  "postalCode": "37057",
+  "phone": "tel:+39-0458751158",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:30am-3:00pm, Mon-Sat 6:00pm-12:00am, Sat 12:30pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.381486,11.041175&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.381486,11.041175&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Dean and David",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. German chain of restaurants with emphasis on fresh and simple food. Offers cold-pressed juices, salads, soups, smoothies, sandwiches.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Marktplatz 4, Wurzburger Marktplatz",
+  "postalCode": "97070",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-10:00pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.794425,9.929847&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.794425,9.929847&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tom and Serg",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Take-out, Australian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast and brunch cafe in Al Quoz. Vegetarian choices on the menu are items like fruit salad, granola, shakshouka, french toast, spiced quinoa with silken tofu, avocado toast, veggie sanga, salads, and a cauliflower risotto. Keeps almond milk for drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "15A St, Al Quoz Industrial 1",
+  "phone": "tel:+971-564746812",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-3:00pm, 7:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tomandserg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.123010,55.227452&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.123010,55.227452&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

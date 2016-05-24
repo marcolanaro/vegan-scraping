@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cheng Ho Tea House - Little Nyonya Tea House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "Teahouse serving food. Nyonya baba museum upstairs.",
+  "priceRange": "Moderate",
+  "streetAddress": "17 Jalan Tulang Besi",
+  "postalCode": "75200",
+  "phone": "tel:0195110749",
+  "venueHours": "\n                                                                                                        Mon 9:00am-9:00pm, Wed-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ChengHoTeaHouse",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.195789,102.248465&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.195789,102.248465&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

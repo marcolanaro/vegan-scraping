@@ -1,0 +1,19 @@
+{
+  "title": "Le P'tit Libanais",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Take-out, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Makes Lebanese food using fresh ingredients and has items like falafel wrap with salad, vegan-suitable mezze such as lentils and grape vine leaves filled with rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2 rue de Bouffay",
+  "postalCode": "44000",
+  "phone": "tel:+33240891436",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.214924,-1.553810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.214924,-1.553810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

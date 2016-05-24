@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bread Gap - Nerudova",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Take away sandwich and salad shop. Many sandwiches and salads in a refrigerated display. All of them have listed ingredients with at least one vegan choice available. Plant milk option for coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Nerudova 208/8",
+  "postalCode": "118 00",
+  "phone": "tel:773097003",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/breadgapnerudova",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.088701,14.401505&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.088701,14.401505&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Pizzeria L'Origan",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This pizza restaurant offers on Thursday a \"veggie jeudi menu\" set menu. Has soft soya cheese as substitute for mozzarella on pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "4 Rue Cadeot",
+  "postalCode": "32100",
+  "phone": "tel:0562682484",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.956319,0.373131&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.956319,0.373131&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

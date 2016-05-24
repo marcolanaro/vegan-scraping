@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Madhuban",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurant. Vegetarian dishes are marked on the menu and several of them can be requested vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Templstraße 2",
+  "phone": "tel:0512589157",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30pm-10:00pm, Mon-Fri 11:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.261394,11.393213&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.261394,11.393213&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

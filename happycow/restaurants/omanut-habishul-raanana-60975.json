@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Omanut HaBishul - Food Booth",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Table at the weekly Friday food market selling patties made from lentils, mushrooms, and sweet potatoes, etc; plus other items like gluten-free flour-less quiche and various side dishes. Be sure to mention if you want vegan only.",
+  "streetAddress": "Renenim Mall, Ha Ta'asiya St",
+  "phone": "tel:052-4811131",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Fri 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/%D7%90%D7%9E%D7%A0%D7%95%D7%AA-%D7%94%D7%91%D7%99%D7%A9%D7%95%D7%9C/100935106712429",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.184781,34.871326&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.184781,34.871326&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

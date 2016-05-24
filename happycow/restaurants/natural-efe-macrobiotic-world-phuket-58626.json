@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natural Efe Macrobiotic World",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Macrobiotic, Raw, Western, Juice bar\n                                    ",
+  "description": "Health food kitchen using natural and organic produce, no refined sugar/products. Offers breakfast food, coffee, tea, juices, plant milk.",
+  "priceRange": "Moderate",
+  "streetAddress": "14/93-94 Moo1 Nai Harn, Rawai",
+  "postalCode": "83130",
+  "phone": "tel:0897854801",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.781811,98.313938&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.781811,98.313938&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

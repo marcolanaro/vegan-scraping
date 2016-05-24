@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Kaiserbau",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Place to sit out in the summer. Non-veg menu but could get vegan ice cream - the flavors marked with a red spoon. Toppings are not vegan though.",
+  "priceRange": "Moderate",
+  "streetAddress": "Marienplatz 12",
+  "postalCode": "70178",
+  "phone": "tel:07116338383",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.764751,9.168503&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.764751,9.168503&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Uncle Van",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small restaurant in the city centre with a tick-what-you-want menu plus other dishes. Food is freshly prepared in a wok. Choose rice or noodles; has tofu; all sauces are vegan suitable.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lederergasse 1",
+  "phone": "tel:662873925",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:30am-10:00pm, Sat-Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/unclevan.fan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.802232,13.044298&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.802232,13.044298&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,20 @@
+{
+  "title": "Baristaz Coffee Heroes",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop and cafe. Has soy milk for drinks. Food menu includes vegan choices like a walnut chili wrap, a vegan tuna foccacia, vegan cookie and brownie.",
+  "priceRange": "Moderate",
+  "streetAddress": "Adolf-Kolping-Straße 2",
+  "postalCode": "56068",
+  "phone": "tel:+49-61316699630",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-7:30pm, Sat 9:00am-6:30pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/baristaz.coffeeheroes",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.000938,8.267779&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.000938,8.267779&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

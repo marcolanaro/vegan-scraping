@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Burger Fuel - Sowah Square",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise burger joint from New Zealand. Menu includes veggie patties that are cooked separately. The ingredients range from sweet potato, chickpea, mushroom, and basil to pumpkin, cashew nut, ginger and seeds. Toppings such as plum, peanut, and aioli sauces plus avocado, relish, and salad greens.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "The Galleria at Sowah Square, Food Court, Level 1, Al Maryah Island",
+  "phone": "tel:02-6738779",
+  "venueHours": "\n                                                                                                        Mon-Wed 10:30am-11:00pm, Thu-Fri 10:30am-12:00am, Sat-Sun 10:30am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/burgerfueluae",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.498895,54.388402&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.498895,54.388402&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

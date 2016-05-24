@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hamakom Shel Ronen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Mediterranean\n                                    ",
+  "description": "The place has no written menu but the waitress will always be happy to tell you about the different hummus options, the malawah and the jahnun.\r\nEverything is vegan unless you ask for an egg as a side dish.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ashtori Hafarhi 16",
+  "phone": "tel:03-5463463",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.090065,34.780247&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.090065,34.780247&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

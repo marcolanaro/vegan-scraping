@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Village Veg Food Center",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Malaysian\n                                    ",
+  "description": "Veggie food. Call for directions.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lot 5583",
+  "phone": "tel:+60145758028",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.336826,113.993196&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.336826,113.993196&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,16 @@
+{
+  "title": "Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Mediterranean, Beer/Wine, Delivery, Take-out\n                                    ",
+  "description": "Vegetarian food made with all organic products. Seasonal and daily changing menu. Specialties are vegetables pies, risotto, and curry. Also offers apple pies, crumbles, and chocolate cakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "38, rue de Verneuil",
+  "phone": "tel:0142612861",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.858017,2.329152&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.858017,2.329152&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

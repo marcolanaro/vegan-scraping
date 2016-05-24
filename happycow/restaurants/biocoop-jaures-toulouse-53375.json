@@ -1,0 +1,13 @@
+{
+  "title": "Biocoop Jaures",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "32 allée Jean Jaures",
+  "postalCode": "31000",
+  "phone": "tel:0562579025",
+  "venueHours": "\n                                                                                                        Mon 2:00pm-8:00pm, Tue-Sat 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.606146,1.450061&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.606146,1.450061&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

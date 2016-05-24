@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ping Feng - The Taste Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Western, Buffet, Take-out, Catering\n                                    ",
+  "description": "萍逢养生蔬食料理 is located on the 3rd floor in a casual, modern design space.",
+  "priceRange": "Moderate",
+  "streetAddress": "35-3, Lorong Tiara 1A, Bandar Baru Klang",
+  "postalCode": "41150",
+  "phone": "tel:03-33624003",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:30am-8:30pm, Fri-Sun 11:30am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/thetastevegetariancafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.063840,101.469060&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.063840,101.469060&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

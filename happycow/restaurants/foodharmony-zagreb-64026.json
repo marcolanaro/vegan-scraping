@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Food.Harmony",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Take-out, Catering, European, Croatian, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Previously 100% vegetarian. Offers take away meals, and sells produce. Minimum order prices apply.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Paromlinska 11",
+  "phone": "tel:915740865",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/food.harmony.hr",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.802924,15.978421&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.802924,15.978421&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

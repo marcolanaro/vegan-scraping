@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sagar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out\n                                    ",
+  "description": "Serves Indian vegetarian food: thali, sweets, and snacks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Block 10",
+  "postalCode": "965",
+  "phone": "tel:25653201",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Sagar-restaurant-406653972830281",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.344520,48.080843&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.344520,48.080843&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

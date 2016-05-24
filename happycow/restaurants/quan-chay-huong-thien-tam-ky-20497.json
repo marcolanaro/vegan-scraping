@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Quan Chay Huong Thien",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Fast food, Take-out, Vietnamese\n                                    ",
+  "description": "Typical Vietnamese vegetarian restaurant. Located on the main road through town, don't take the bypass from highway 1A.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "324 Phan Chu Trinh",
+  "phone": "tel:0510-852933",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.564760,108.495003&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.564760,108.495003&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

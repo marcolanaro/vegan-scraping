@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Legumium",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Catering\n                                    ",
+  "description": "A cozy small (2 tables) vegetarian bistro serves many vegan options. Menu consists of a variety of daily soups, a healthy salad or a daily special. Also available are packed lunches. All food is made-in-house using fresh regional and sustainable ingredients. Eco-friendly. You can pick up pre-ordered food during regular business hours or by appointment.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bahnstrasse 6a",
+  "postalCode": "2351",
+  "phone": "tel:00432236222322",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.087853,16.311921&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.087853,16.311921&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

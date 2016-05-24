@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chong Hui Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Taiwanese\n                                    ",
+  "description": "崇慧素食 translates roughly to \"worship wisdom vegetarian food.\" It's a low-key cafeteria-style eatery that opens to the street with communal seating. Offers meal plates with your choice of 4 sides, a protein, and soup. The four sides include white or multigrain rice and a variety of simply-cooked vegetables. Top that with your choice of gluten or faux meat patty. Note that the faux meat used is not vegan (dairy). Soup is self-served.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "54 Anju St, Da'an District",
+  "phone": "tel:27398323",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.020213,121.553890&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.020213,121.553890&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

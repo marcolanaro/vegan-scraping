@@ -1,0 +1,15 @@
+{
+  "title": "The View Deli",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Fast food, British, English\n                                    ",
+  "description": "Deli in Sheffield University Student Union offering vegetarian dishes including deli sandwiches and salads with range of vegan options, alongside hot and cold drinks, all with views over the city.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Level 4, University of Sheffield Students' Union, Western Bank",
+  "postalCode": "S10 2TG",
+  "phone": "tel:01142228500",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.380605,-1.487652&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.380605,-1.487652&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

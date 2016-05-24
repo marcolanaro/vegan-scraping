@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Voltaire",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Juice bar\n                                    ",
+  "description": "Cool small scale vegetarian place. Ask for vegan, sugar free, gluten free, or any diet you might have. Has vegan options including cake.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Stoofstraat 6",
+  "postalCode": "5211ER",
+  "phone": "tel:073-613-9672",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-6:00pm, Tue-Wed 9:00am-6:00pm, Thu 9:00am-9:00pm, Fri-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/pages/Voltaire/159619150788165",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.687995,5.301619&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.687995,5.301619&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

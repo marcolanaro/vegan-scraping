@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eight Immortals Vegetarian - Pioneer Mall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Fast food, Take-out\n                                    ",
+  "description": "Vegetarian food stall offering rice, bee hoon, noodles with a variety of vegetables and mock meats. Has a la carte menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 638A Jurong West Street 61, Pioneer Mall",
+  "postalCode": "641638",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.341689,103.696817&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.341689,103.696817&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

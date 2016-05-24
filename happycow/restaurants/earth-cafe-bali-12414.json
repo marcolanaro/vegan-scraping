@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Earth Cafe & Market - Jalan Laksamana",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Delivery, Take-out, Indonesian\n                                    ",
+  "description": "Est. 2006 this vegetarian cafe is part of the Down to Earth company, and is located in the same location as the Earth Market. Offers health food and beverages. Sample items might be buckwheat pancakes, caffeine-free mocha java with soymilk, vegan cookies and brownies, fresh orange juice, Mediterranean platter with hummus and tahini, whole grain pita bread,smoothies, pumpkin soup, veggie burgers, whole grain pasta with seitan meatballs. Uses filtered water.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jalan Laksamana 99, Seminyak, Kabupaten Badung",
+  "postalCode": "80361",
+  "phone": "tel:0361732805",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/earthcafebali",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.683856,115.161487&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.683856,115.161487&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ching Sun Ku Natural Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Very small shop selling dried grains, beans, flax seeds, loose teas, vinegar, and other dried foods. Chinese address 宜蘭市康樂路112號, name 青山谷自然食品店, info 位於宜蘭市場內,店內有提供各種穀類,蜂膠,十穀米,麥苗粉,蘋果醋....等.種類繁多.",
+  "streetAddress": "112, KungLe Road",
+  "phone": "tel:03-935-2174",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.756230,121.754220&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.756230,121.754220&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

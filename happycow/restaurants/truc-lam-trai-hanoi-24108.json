@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Truc Lam Trai",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Vietnamese\n                                    ",
+  "description": "Located on a small street between Tran Xuan Soan and Hoa Ma. Creative menu. English menu and English spoken. Small but tastefully decorated and comfortable restaurant with traditional Vietnam culture decoration, Buddhism library and free book and CD, zen and meditation instruction, free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "39 Le Ngoc Han, Hai Ba Trung District",
+  "phone": "tel:04-6278-1848",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.015977,105.855331&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.015977,105.855331&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

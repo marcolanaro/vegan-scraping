@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe des Cafes",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located in Tunali, Ankara and opens at 9am. The menu in English and Turkish includes salads, pizza, and pasta, and fresh juices. Smoking is permitted. Has Wi-Fi access. Brunch on Sunday.",
+  "priceRange": "Moderate",
+  "streetAddress": "Tunali Hilmi Caddesi 83/A, Kavaklidere",
+  "postalCode": "06544",
+  "phone": "tel:+90-312-4280176",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.715270,32.360640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.715270,32.360640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

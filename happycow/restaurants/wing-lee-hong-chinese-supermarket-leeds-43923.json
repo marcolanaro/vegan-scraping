@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wing Lee Hong Chinese Supermarket",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Large Chinese supermarket in central Leeds. Stock a variety of soy products including many types of tofu, tempeh, tofu jerky, deep fried tofu, tinned mock meats, plus a huge range of cooking ingredients from around Asia.",
+  "streetAddress": "117-119 Vicar Lane",
+  "postalCode": "LS1 7PJ",
+  "phone": "tel:01132430500",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.799873,-1.540054&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.799873,-1.540054&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Long Shan Ge Vegetarian Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "Reported to happy cow to be a vegan restaurant even though the name implies it's vegetarian. If anyone can offer information as to whether it's vegan or not, please contact happy cow - thanks!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "9 Jalan Timah Hitam",
+  "postalCode": "83000",
+  "phone": "tel:07-4315110",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.861465,102.937981&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.861465,102.937981&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

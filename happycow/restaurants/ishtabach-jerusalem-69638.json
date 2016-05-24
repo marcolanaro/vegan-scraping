@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "IshTabach",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Beer/Wine, Middle Eastern, Syrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Syrian Taboun restaurant with bar opened early 2016. Menu has one vegan choice besides the salads that are served with the meal. Limited menu. Not touristy. Located one block from light rail stop for Mahane Yehuda on Yaffo Road.\r\n\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Ha Shikma Street, Mahane Yehuda",
+  "phone": "tel:02-6232997",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.785177,35.211554&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.785177,35.211554&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

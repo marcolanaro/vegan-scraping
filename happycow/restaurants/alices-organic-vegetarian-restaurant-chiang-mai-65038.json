@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Alice's Organic Vegetarian Restaurant ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Organic, Raw, Western, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "Specializes in raw vegan food and dessert. Offers wheatgrass, kombucha, sprout and ginger shots. No-vegan items used are egg white and honey. Has air conditioning, Wi-Fi. Bar opens til midnight.",
+  "priceRange": "Moderate",
+  "streetAddress": "74/1 Loi Kroh Rd",
+  "postalCode": "50100",
+  "phone": "tel:053279487",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.783941,98.997297&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.783941,98.997297&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

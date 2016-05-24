@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ozfair",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Beer/Wine, Delivery, Take-out\n                                    ",
+  "description": "Ozfair is a friendly and original place. Conscious of fairtrade and ecology. Milk and eggs are used in some dishes. Also sells food and non food items and the shop is open for longer hours.  ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "avenue jean volders 9",
+  "postalCode": "1060",
+  "phone": "tel:+325346700",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.832370,4.343025&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.832370,4.343025&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

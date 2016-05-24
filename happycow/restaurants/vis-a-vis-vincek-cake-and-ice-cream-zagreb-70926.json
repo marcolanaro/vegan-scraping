@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vis a Vis, Vincek, Cake and Ice Cream",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Patisserie selling raw cakes, organic cakes, cookies and biscuits, ice cream, and sorbet with vegan options. Located on a quiet side street off main road of central Zagreb, 2 minutes from main square Ban Jelacic.",
+  "streetAddress": "2. Tomiceva",
+  "postalCode": "100000",
+  "phone": "tel:014831551",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/SlasticarnicaVincek",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.813457,15.973144&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.813457,15.973144&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

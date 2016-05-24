@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hoa Sen - Lotus Vegetarian Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Take-out, Asian, Vietnamese\n                                    ",
+  "description": "The second Com Chay Hoa Sen in Hanoi. Large, finer dining space. Offers a range of vegetable and gluten based dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "54 Phung Hung, Hoan Kiem District",
+  "postalCode": "84",
+  "phone": "tel:942668484",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-10:00pm, Sat 7:30am-11:00pm, Sun 7:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/lotusvegetariancuisine205dc",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.029004,105.844504&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.029004,105.844504&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

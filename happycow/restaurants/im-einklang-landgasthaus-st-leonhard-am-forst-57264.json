@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Im Einklang Landgasthaus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, European, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has labeled vegan dishes. Every 2nd Thursday there is a special vegan 3-course meal and drinks. Also offers vegan candle light dinners. Most of the products are locally sourced.",
+  "priceRange": "Expensive",
+  "streetAddress": "Großweichselbach 3",
+  "postalCode": "3243",
+  "phone": "tel:+43-6804444705",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 5:00pm-10:00pm, Sat-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "fb": "http://www.facebook.com/pages/Landgasthaus-Im-Einklang/528349877269761",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.173377,15.291852&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.173377,15.291852&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

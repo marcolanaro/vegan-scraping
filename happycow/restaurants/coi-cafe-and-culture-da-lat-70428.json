@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "COI Cafe & Culture",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Coffee and internet cafe with garden area. Could get drinks without dairy. Hosts weekly movies nights.",
+  "streetAddress": "8 Ho Tung Mau",
+  "postalCode": "670000",
+  "phone": "tel:1687668225",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/coicafedalat",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.937279,108.445186&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.937279,108.445186&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

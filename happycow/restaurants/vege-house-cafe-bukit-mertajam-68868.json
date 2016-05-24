@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege House Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "古香素食休闲屋.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1605, Mukim 17, Jalan Kulim",
+  "postalCode": "14000",
+  "phone": "tel:012-4908891",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Vege-House-Cafe-%E5%8F%A4%E9%A6%99%E7%B4%A0%E9%A3%9F%E4%BC%91%E9%97%B2%E5%B1%8B-1227014140648215/?fref=photo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.341713,100.503875&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.341713,100.503875&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

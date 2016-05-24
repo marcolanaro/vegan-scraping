@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Hygienic Foodhaus 1",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Salad bar, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "Vegan restaurant, reopened fall-2015. This location is located at the back of NCCC HB1. Wi-Fi capable up to 5 links only.",
+  "priceRange": "Moderate",
+  "streetAddress": "Quimpo Boulevard",
+  "postalCode": "8000",
+  "phone": "tel:082-2978763",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.051120,125.588652&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.051120,125.588652&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

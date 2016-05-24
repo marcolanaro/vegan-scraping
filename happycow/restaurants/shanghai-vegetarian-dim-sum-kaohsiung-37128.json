@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shanghai Vegetarian Dim Sum",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "The restaurant is divided into two sections, one for hot pot with a conveyor belt selection of vegetables and fake meat; the other dining area is where you could order from an extensive menu that includes dim sum and desserts (only in Chinese, with food photos). The menu-selection area has large round tables, as well as smaller ones. Ice cream served is made with cow milk.",
+  "priceRange": "Moderate",
+  "streetAddress": "228 Jiuru 2nd Road",
+  "phone": "tel:07-3232745-7",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.640824,120.309571&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.640824,120.309571&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ereenzu Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Indonesian\n                                    ",
+  "description": "一人一素 is a Chinese restaurant. It serves rice, noodles and vegetable dishes. On the menu are tong kui soup, sambal petai jamur, kimchi soup, empal oseng-oseng, and hotplate tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ruko Nagoya Citywalk North Walk D, Dantai Dasar 8-11 Batam",
+  "phone": "tel:0778426923",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.144039,104.008123&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.144039,104.008123&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

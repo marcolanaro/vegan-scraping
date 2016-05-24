@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wild Zucchinis Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Salad bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Dark cozy bistro with a conservatory and a small patio. Usually busy. Prefers to use local, seasonal and organic produce. Vegan and gluten-free choices clearly marked. Mixture of different cuisines with vegan dishes such as calzone, veggie burger, falafel and potato skins. Large salads come with all savory dishes. Hot chocolate cannot be made vegan, but other drinks can like milkshakes. Also has vegan cakes. Live music.",
+  "priceRange": "Moderate",
+  "streetAddress": "17 Station St",
+  "postalCode": "CA139QW",
+  "phone": "tel:01900-823446",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/wildzucchinisbistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.663012,-3.364251&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.663012,-3.364251&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

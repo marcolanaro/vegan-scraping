@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "HotCakes",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, International, Western, Asian, Bakery\n                                    ",
+  "description": "Eggless bakery and cafe, at this location since Aug 2014. Serves food like veggie burgers with fries, pizza, rojak penang, salad, plus many cakes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "190 Middle Rd Fortune Centre No.01-33",
+  "postalCode": "188979",
+  "phone": "tel:97826835",
+  "venueHours": "\n                                                                                                        Mon 11:30am-8:30pm, Wed-Sun 11:30am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/HotCakesConfectionery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300367,103.852355&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300367,103.852355&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

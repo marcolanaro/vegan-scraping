@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shuiwen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Taiwanese\n                                    ",
+  "description": "水問蔬食園 is the first vegetarian sushi train (conveyor belt concept) restaurant in Taiwan. Plates are color-coded so guest know which are vegan (green plate), which are ovo-veg (yellow), and which are lacto-veg (white).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "B1, 275, Songjiang Rd, Zhongshan District",
+  "phone": "tel:02-25151615",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:30am-2:00pm, 5:00pm-8:00pm, Sat-Sun 11:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/水問蔬食園全台灣第一家迴轉蔬食餐廳/347106822076439",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.059987,121.533451&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.059987,121.533451&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

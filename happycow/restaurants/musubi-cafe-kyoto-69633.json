@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Musubi Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. 西京区嵐山西一川町1-8 is located a few minutes walk from Togetsukyo bridge, against the backdrop of Mt. Arashiyama. It's convenient for those using the Arashiyama Hankyu station, which is around the corner. Offers healthy Japanese lunch set plates and sweets, as well as a dinner menu. There is a local vegetable-based lunch set as well as a curry, a pasta and a taco rice set, all of which are vegan. The dinner set allows you to choose a main dish from a list, on which there are vegan options. The miso soup is vegan. There is an English menu, and the staff understand what \"vegan ryori\" is. Serves breakfast, lunch, and dinner. From 3-5pm it's cafe only. Las orders 7pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kyoto",
+  "phone": "tel:075-8624195",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 10:30am-8:00pm, Wed-Sun 10:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.011349,135.679798&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.011349,135.679798&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

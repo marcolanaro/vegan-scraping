@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Infial",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Western, Mediterranean, Beer/Wine, Middle Eastern\n                                    ",
+  "description": "Collectively-run anarchist venue in Taksim area, established 2015 summer and reported is operating as of Nov 2015. Houses a free shop, small library, a symbolic stage, small bar and seating area. The bar serves alcoholic drinks on selected days; tea and coffee with soy milk everyday. Hosts film screenings, vegan Sunday brunch, workshops, plenaries and solidarity parties of some local anti-authoritarian groups. Events are announced on its blog. One will not find sufficient food options here everyday but it serves some kind of vegan hot dish at every workshop.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Turan Caddesi 36/A, Tarlabasi, Beyoglu",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 2:30pm-10:30pm, Sat-Sun 1:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.038211,28.981931&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.038211,28.981931&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

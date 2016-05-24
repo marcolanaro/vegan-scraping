@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Fourchette",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Beer/Wine, French\n                                    ",
+  "description": "Located in the Karasuma-Oike area near Kyoto International Manga Museum, this restaurant serves entirely vegan French dishes using organic vegetables wherever possible. Offers 3 different priced sets (starts from approx. Y4410 up to Y7350). Note that group dining must order the same course option.",
+  "priceRange": "Expensive",
+  "streetAddress": "1F Sumioka Building, 460 Kinbuki-cho, Oshikouji-dori, Ryogaemachi Nishiiru",
+  "postalCode": "604-0846",
+  "phone": "tel:075-213-3693",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.012322,135.758751&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.012322,135.758751&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

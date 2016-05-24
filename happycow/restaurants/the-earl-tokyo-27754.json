@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Earl",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Makes western-style sandwiches, with several being vegetarian and possibly could be made vegan by elimination of cheese/mayonnaise and substituting bread with a tortilla wrap. All sandwiches come with veggies such as fresh romaine and arugula lettuce, red onions, kabocha pumpkin, or sweet potato. Soup on most days don not contain animal products. Has soy-based soft serve in a cone (no animal products). Last order taken 1 hour before closing.",
+  "priceRange": "Moderate",
+  "streetAddress": "2-21-2 Akasaka, Minato-ku",
+  "postalCode": "107-0052",
+  "phone": "tel:03-35050312",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:00am-6:00pm, Sat-Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.669094,139.738328&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.669094,139.738328&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tatreez",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Beer/Wine, Palestinian, Levantine\n                                    ",
+  "description": "Restaurant opened 2013 serving Levantine food including mana'eesh bread topped with vegetables, za'atar or cheese, makdos (aubergines stuffed with walnut and chili) and fool (Palestinian hummus) served with bread straight from the stone oven. Most of the food is vegan, and dairy products are clearly labelled. Atmospheric and spacious, with live music nights and exhibitions celebrating Palestinian culture.",
+  "priceRange": "Moderate",
+  "streetAddress": "188 Stoke Newington High St",
+  "postalCode": "N16 7JD",
+  "phone": "tel:020-8616-5434",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/tatreezcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.562038,-0.073412&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.562038,-0.073412&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

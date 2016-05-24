@@ -1,0 +1,13 @@
+{
+  "title": "La Vie Saine",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store chain.",
+  "streetAddress": "31 rue Caizergues de Pradines",
+  "postalCode": "34000",
+  "phone": "tel:0467587154",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.606594,3.875052&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.606594,3.875052&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

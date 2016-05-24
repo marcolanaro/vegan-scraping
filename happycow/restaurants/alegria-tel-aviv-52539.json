@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Alegria",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Mediterranean, Israeli\n                                    ",
+  "description": "Vegetarian specialty food shop expanded to include a cafe in 2016. Menu offers daily specials, a burger, salads, and various vegan cheese sandwiches. Shop sells a variety of vegan cheeses such as cashew-cheddar, macadamia-dried tomato; prepared cakes and sweets some of which are raw; breads, spreads, olive oil, granola, and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "165 Ibn Gavirol St",
+  "phone": "tel:03-6136964",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-8:00pm, Fri 8:00am-3:00pm, Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/alegriatlv",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.092413,34.783098&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.092413,34.783098&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

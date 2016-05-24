@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MBG Fruit Shop - The Curve",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Shop selling whole fresh fruits plus fruit juices and fruit ready-to-eat packed in small packets.",
+  "streetAddress": "K-G6-W, Ground Floor, The Curve Mall, Mutiara Damansara",
+  "postalCode": "47810",
+  "phone": "tel:+60-16-2259602",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/mbgfruit",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.157281,101.610145&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.157281,101.610145&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

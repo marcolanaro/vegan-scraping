@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chaba Cafe and Gallery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Western-run cafe and gallery. Offers paninis, toast with peanut butter, salads, juices. Raw bars in the fridge area of the shop. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "along the main street",
+  "phone": "tel:0878870625",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Chaba-Café-and-Gallery/481886365211171",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.127089,98.621026&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.127089,98.621026&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

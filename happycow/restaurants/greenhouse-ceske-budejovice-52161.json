@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "GreenHouse",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Buffet, Fast food, Salad bar, Juice bar, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan choices. Non-smoking. Wi-fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Biskupska 3/130",
+  "postalCode": "370 01",
+  "phone": "tel:+420-387311802",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.973567,14.473312&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.973567,14.473312&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

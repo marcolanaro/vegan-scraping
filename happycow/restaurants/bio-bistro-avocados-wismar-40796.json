@@ -1,0 +1,15 @@
+{
+  "title": "Bio-Bistro Avocados",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic\n                                    ",
+  "description": "Small organic vegetarian cafe with plenty of choices for vegans.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hinter dem Chor 1",
+  "postalCode": "23966",
+  "phone": "tel:+493841-303333",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.895362,11.466545&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.895362,11.466545&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

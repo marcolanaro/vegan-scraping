@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MG's Cafe - Hartamas",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Asian\n                                    ",
+  "description": "Western style vegetarian cafe.  西式餐點﹐營養麵包﹐中式酥餅﹐各式蛋糕﹐彌月配套.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "38, Ground Floor, Jalan 27/70A, Desa Sri Hartamas",
+  "postalCode": "50480",
+  "phone": "tel:603-23003118",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.162624,101.649691&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.162624,101.649691&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

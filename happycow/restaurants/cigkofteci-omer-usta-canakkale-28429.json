@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cigkofteci Omer Usta",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Middle Eastern, Turkish\n                                    ",
+  "description": "Chain restaurant. Serves only cig kofte which is vegan. Just one item on the menu isn't vegan, a drink made from dairy. Located in the center of Canakkale, close to the historical Aynali Carsı.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Fevzi Pasa Mah Carsı Cd 94",
+  "phone": "tel:2862175066",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.154311,26.413083&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.154311,26.413083&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

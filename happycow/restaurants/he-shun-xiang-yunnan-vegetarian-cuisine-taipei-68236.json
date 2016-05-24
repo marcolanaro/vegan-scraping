@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "He Shun Xiang Yunnan Vegetarian Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "和順鄉雲南特色素食料理, at 台北市信義區基隆路一段147巷5弄46號, serves Yunnan style vegetarian food. Nearest MRT TaipeiCityHall exit 1.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "46, 147 alley, Sec. 1, Keelung Rd",
+  "phone": "tel:02-2767016",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-2:00pm, 5:00pm-9:00pm, Thu-Fri 5:00pm-9:00pm, Thu-Sun 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.042946,121.566439&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.042946,121.566439&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

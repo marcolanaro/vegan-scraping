@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yasaiyamei",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers vegetable shabu shabu, tofu with wasabi leaves, asssorted raw vegetables with dip, aloe vera sahimi. Name in Japanese: やさい家めい.",
+  "priceRange": "Moderate",
+  "streetAddress": "Minato-ku, Roppongi 6-10-1, Roppongi Hills, Mori Tower, West Walk, 5F",
+  "postalCode": "106-0032",
+  "phone": "tel:03-5775-2960",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/yasaiyamei",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.660556,139.729167&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.660556,139.729167&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

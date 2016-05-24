@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yuan Tong",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Western, Buffet, Taiwanese\n                                    ",
+  "description": "Many choices made to order vegetarian food as well as pay by weight buffet. Has Western style breakfast. Address in Chinese 台北市士林區大東路158號.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "158, Dadong Road",
+  "phone": "tel:02-2881-4969",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.092450,121.525370&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.092450,121.525370&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Kaffe Dada",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, German\n                                    ",
+  "description": "Vegetarian restaurant offering dishes made from tofu and seitan, weekly changing specials. Bar atmosphere in the evening, also serving long drinks and cocktails.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rote-Lowen-Str 11",
+  "postalCode": "93047",
+  "phone": "tel:+49-94156993489",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-12:00am, Fri-Sat 12:00pm-1:00am, Sun 2:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/kAffedAdA",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.020300,12.089300&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.020300,12.089300&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

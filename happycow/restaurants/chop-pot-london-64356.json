@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chop Pot",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Juice bar, Take-out, Ghanian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Ghanaian fast food cafe where you can taste before you buy. Vegan choices are clearly marked. Two of the main meals are vegan and there is at least one vegan soup and vegan snacks and juice.",
+  "priceRange": "Moderate",
+  "streetAddress": "27 Liverpool St",
+  "postalCode": "EC2M 7PN",
+  "phone": "tel:020-36381313",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-8:00pm, Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ChopPot",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.517792,-0.084087&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.517792,-0.084087&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

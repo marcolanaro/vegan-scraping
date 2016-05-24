@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Sushi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Japanese, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small sushi place with seating on the second floor. Has marked vegan choices on the menu, which include tofu, avocado, edamame, tofu 'n' nuts, tofu with spicy sauce, smoked tofu, and shitake mushroom. No Mastercards.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Gronnegade 28",
+  "phone": "tel:33118899",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Green-Sushi/156130941081691",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.681219,12.583182&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.681219,12.583182&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ginger Vegetarian Community Center",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "A vegetarian community organization. Hosts events from time to time.",
+  "streetAddress": "Balfour 8",
+  "postalCode": "92 102",
+  "phone": "tel:0265665737",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/gingercenter",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.773201,35.217055&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.773201,35.217055&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

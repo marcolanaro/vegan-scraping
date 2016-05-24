@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Naturhaus Lehnwieser",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "A guesthouse with an organic kitchen that offers all-vegetarian breakfast buffet and evening meals. Location is at an altitude of 1.150 m, in the Dachstein-Tauern region, 90km from Salzburg.",
+  "streetAddress": "Vorberg 20",
+  "postalCode": "8972",
+  "phone": "tel:+43368781576",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.397232,13.627151&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.397232,13.627151&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

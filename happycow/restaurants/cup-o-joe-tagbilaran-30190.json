@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cup O' Joe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located inside BQ Mall. Has lacto vegetarian pizza which can be made without cheese by request; lots of vegetable toppings. Also serves coffee.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bohol Quality Mall, CPG Avenue",
+  "postalCode": "6300",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.641920,123.854980&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.641920,123.854980&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

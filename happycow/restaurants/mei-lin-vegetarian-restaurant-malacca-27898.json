@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mei Lin Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese\n                                    ",
+  "description": "One of the largest Chinese vegetarian restaurants in Malacca. The spacious dining space is matched with an equally expansive menu. The premise is air-conditioned. Breaks from 3-6pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "98-100A, Taman Melaka Raya 25",
+  "postalCode": "75200",
+  "phone": "tel:606-2827423",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.185714,102.252440&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.185714,102.252440&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

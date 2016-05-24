@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jyoti",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Take-out\n                                    ",
+  "description": "Small Indian food restaurant open since Apr 2015. The main dish is thali comprising a selection of stews and dips, a piece of chapati, rice, and a dessert. Served in either a vegan or a vegetarian version. Other options vary and may change on a daily basis. Previously located at HeHaluts 70, Sep 2015. Opened at this location in Oct 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Derekh HaAtzmaut 72",
+  "phone": "tel:054-2088077",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-5:00pm, Tue-Thu 12:00pm-10:00pm, Fri 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Jyoti.rest",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.818595,34.999995&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.818595,34.999995&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

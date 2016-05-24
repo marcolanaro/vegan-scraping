@@ -1,0 +1,19 @@
+{
+  "title": "Aalto Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, European, Icelandic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Seasonal menu with a vegan course of the day and a pumpkin burger.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sturlgata 5",
+  "postalCode": "101",
+  "phone": "tel:5510200",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:30am-5:00pm, Thu-Sat 11:30am-9:30pm, Sun 11:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/aaltobistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=64.138269,-21.950652&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C64.138269,-21.950652&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

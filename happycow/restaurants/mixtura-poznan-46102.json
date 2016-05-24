@@ -1,0 +1,19 @@
+{
+  "title": "miXtura",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American\n                                    ",
+  "description": "Mostly vegan burger bar and coffee shop in an alleyway between F. Ratajczaka and Piekary. Only dairy products are milk for drinks and cheese as an option on burgers. Alternative atmosphere. Friendly, English spoken.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ul Piekary 17",
+  "postalCode": "60-615",
+  "phone": "tel:792-693-822/,%20509-617-063",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-9:00pm, Wed-Fri 12:00pm-9:00pm, Sat-Sun 1:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/mixtura.vege",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.404592,16.927086&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.404592,16.927086&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

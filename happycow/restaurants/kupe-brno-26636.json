@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kupe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Beer/Wine, Middle Eastern\n                                    ",
+  "description": "A small, Middle Eastern vegetarian food restaurant. Accepts stravenky (Gastro Pass meal vouchers).",
+  "priceRange": "Moderate",
+  "streetAddress": "Veveri 34",
+  "phone": "tel:+420-515544362",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-10:00pm, Wed-Fri 11:00am-11:00pm, Sat 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Kupé/196727933683499",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.200910,16.600352&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.200910,16.600352&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

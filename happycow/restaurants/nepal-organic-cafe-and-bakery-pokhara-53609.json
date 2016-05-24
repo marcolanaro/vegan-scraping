@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nepal Organic Cafe and Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, International, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A coffee house/bakery serves a variety of dishes from around the world including Italian, Chinese and Japanese.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lakeside",
+  "phone": "tel:9856032754",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.213100,83.957137&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.213100,83.957137&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

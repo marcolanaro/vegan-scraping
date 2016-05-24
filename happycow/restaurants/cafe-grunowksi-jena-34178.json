@@ -1,0 +1,16 @@
+{
+  "title": "Cafe Grunowksi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Beer/Wine, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An alternative pub and restaurant located close to Schiller's former house in the centre of Jena. It has a large garden in which you can eat and drink, and an extensive menu. The vegan options are not listed explicitly, so ask. Live music sometimes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Schillergässchen 5",
+  "phone": "tel:+49-03641-446620",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-11:00pm, Sat-Sun 2:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.924500,11.582940&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.924500,11.582940&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

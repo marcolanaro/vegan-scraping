@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fo Xin Vegetarian=",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Singaporean\n                                    ",
+  "description": "佛心素食 is a veg stall in Bendemeer food centre which is located just outside Boon Keng MRT station exit B.  On the menu are many tze char items like hokkien mee, crispy noodle, mee rebus, and soup noodle.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 29 Bendemeer Road Food Centre, Unit 01-75",
+  "postalCode": "330029 ",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.319155,103.862906&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.319155,103.862906&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

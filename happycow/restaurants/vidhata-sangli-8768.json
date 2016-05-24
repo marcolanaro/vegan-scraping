@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vidhata",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Indian, International, Fast food, Juice bar\n                                    ",
+  "description": "Menu includes masala dosa, mexican vegetarian pasta, curd rice, and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "Prerna complex, Kupwad Road, Vishrambag Chouk, Maharastra",
+  "postalCode": "416415",
+  "phone": "tel:0233-6524077",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.854380,74.564170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.854380,74.564170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

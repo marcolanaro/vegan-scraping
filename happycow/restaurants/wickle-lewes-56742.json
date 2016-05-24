@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wickle",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, British, English\n                                    ",
+  "description": "A mini department store selling gifts, clothes, and kids things. In the back of the store is a tearoom offering veggie sandwiches, salads, and cakes (has vegan). Large range of teas served in bone China cups.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "24 High St",
+  "postalCode": "BN7  2LU",
+  "phone": "tel:01273-487969",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-6:00pm, Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Wickle/150752584944620",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.873590,0.012325&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.873590,0.012325&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

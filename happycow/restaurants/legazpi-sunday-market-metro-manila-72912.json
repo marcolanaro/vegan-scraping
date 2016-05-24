@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Legazpi Sunday Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Over 50+ vendors sell fresh produce, prepared food, juices, groceries, clothing, and more. Has vendors that sell exclusively vegan food as well, such as vegan meals, ice cream, snack foods, vegan cheese.",
+  "streetAddress": "Legazpi St & Salcedo St, Legazpi Village",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/groups/legazpi.sundaymarket",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.555075,121.016250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.555075,121.016250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

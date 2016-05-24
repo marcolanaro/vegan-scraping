@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nice Rice",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Asian\n                                    ",
+  "description": "Small Oriental restaurant in the 6th district of Vienna near Neubaugasse metro. Some meals are vegan or can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mariahilferstraße 45",
+  "postalCode": "1060",
+  "phone": "tel:+43-01-5862839",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/nice-rice-Café-mit-vegetarischen-Speisen/236186970215",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.199980,16.354800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.199980,16.354800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

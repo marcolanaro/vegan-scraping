@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lombardia",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Healthfood store opened since 1972. Now also operating a veggie friendly snackbar deli and juice bar in the front of the store.",
+  "streetAddress": "Lombardenvest 78, Antwerp",
+  "phone": "tel:+32-3-2336819",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/lombardia.antwerp",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.217310,4.404009&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.217310,4.404009&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gandhi's Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Malaysian, Indo-Chinese\n                                    ",
+  "description": "Malaysian and Indian food with some Chinese dishes. No egg, garlic, or onion.",
+  "priceRange": "Moderate",
+  "streetAddress": "Scott Sentral Service, Ste 3A/05, Ground Floor, 28 Jalan Scott, Brickfields",
+  "postalCode": "50470",
+  "phone": "tel:0322733190",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-1:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Gandhis-Vegetarian-Restaurant-228968530504442",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.134380,101.692020&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.134380,101.692020&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

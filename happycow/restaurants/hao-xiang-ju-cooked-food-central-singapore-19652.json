@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hao Xiang Ju Cooked Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "Vegetarian stall in Chinatown Complex serving mixed vegetable crisps, fried bee hoon mee (noodles), luo hon chai (vegetarian plate), spicy beancurd roll, seaweed roll, vegetarian chicken, and more. Name in Chinese  好香居熟食.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 335 Smith Street, Stall 142, 2F Chinatown Silk House Complex",
+  "postalCode": "050335",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.281836,103.843350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.281836,103.843350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Red Velvet Cupcakery",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Cupcake bakery at Katara cultural village. Each day there is usually one vegan cupcake option. Seating is on cupcake-like cushions.",
+  "streetAddress": "Katara Building 24",
+  "phone": "tel:974-44080700",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/RedVelvetDoha",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.361011,51.526234&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.361011,51.526234&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

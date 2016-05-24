@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Stall at New Beauty Century ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "圓融素食小炒在美丽新世纪美食中心.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "20A, Jalan 1/21",
+  "postalCode": "46000",
+  "phone": "tel:016-6287429",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.085617,101.646125&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.085617,101.646125&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

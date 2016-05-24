@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jayonbyolgok",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Buffet, Salad bar, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Buffet and salad bar at 그랜드마트 6층, 노고산동 57-1. Many vegetable side dishes suitable for vegans, including blanched greens, battered fried vegetables and pickles. A separate bibimbap station is entirely vegan (three different varieties of boiled rice with various vegetable toppings and seaweed). Drinks include cinnamon apple punch.",
+  "priceRange": "Expensive",
+  "streetAddress": "Seoul",
+  "phone": "tel:023388054",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/naturekitchen11",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.555002,126.935977&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.555002,126.935977&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

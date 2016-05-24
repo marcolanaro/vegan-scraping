@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Byal Hua",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Korean\n                                    ",
+  "description": "Set in a traditional Korean home front of Je-il 4cha apartments is this 별화 vegetarian restaurant. Menu of just a few set meals at around W10,000 each, of which some are vegan or can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "802-6 Yongding Dong",
+  "phone": "tel:0638328938",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.964350,126.972765&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.964350,126.972765&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

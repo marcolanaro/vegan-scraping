@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Organic Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Certified organic supermarket with several locations in Dubai. Sells fresh organic and bio-dynamic food, supplements, skincare, cosmetics, baby items, and household cleaning products. 2014 reported no more cafe at this outlet.",
+  "streetAddress": "Khalifa City 'A'",
+  "postalCode": "54115",
+  "phone": "tel:+971-25571406",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-8:00pm, Fri 3:00pm-8:00pm, Sat-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/organicfoodsandcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.429167,54.618333&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.429167,54.618333&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

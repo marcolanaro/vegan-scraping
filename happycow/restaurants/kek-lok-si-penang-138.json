@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kek Lok Si",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out, Malaysian\n                                    ",
+  "description": "Vegan food restaurant at Kek Lok Si Temple, reported still open Apr 2014. Has air conditioning. If the 1st and 15th of Chinese lunar calendar is on Monday, then shop is closed on Tuesday.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kek Lok Si, Air Itam",
+  "postalCode": "11500",
+  "phone": "tel:04-8288142",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.399860,100.273443&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.399860,100.273443&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

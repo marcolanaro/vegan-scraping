@@ -1,0 +1,19 @@
+{
+  "title": "Fegefeuer",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Beer/Wine, Take-out, Medieval, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A medieval themed restaurant offers some vegan dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Von-Kluck-Str 15",
+  "postalCode": "48151",
+  "phone": "tel:+492515389638",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 6:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.955300,7.624660&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.955300,7.624660&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

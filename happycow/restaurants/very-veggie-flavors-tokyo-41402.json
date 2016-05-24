@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Very Veggie Flavors",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Smoothie and juice bar counter offering a large menu with many non-dairy varieties, some made with tofu; soy milk on request. Uses fresh fruits and vegetables. Has English menu. Several stool seats.",
+  "streetAddress": "2-4-1 Marunouchi, Marunouchi Building B1, Chiyoda-ku",
+  "postalCode": "100-6390",
+  "phone": "tel:03-32405788",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.681183,139.763770&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.681183,139.763770&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khanh Ly Vegetarian Food",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Vietnamese\n                                    ",
+  "description": "Local eatery making rice and noodle soup and uses fake meats. Own by the followers of Supreme Master Ching Hai and frequented by locals. Offers typical Vietnamese cuisine. Lot of different vegan meat like veg chicken. One plate with rice and vegan meat is approx 30.000 Dong, a soft drink 15.000. No English spoken. It's near to the Buddy Ice Cream cafe, just follow the street.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "35, Nguyen Trai",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.217953,103.959643&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.217953,103.959643&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "bio&bio - Radnicka",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic market with locations throughout Croatia and has an online shop. Offers a wide selection of certified organic products: vegetarian and vegan food, nutritional supplements, natural cosmetics, books, and more.",
+  "streetAddress": "Radnicka 49",
+  "phone": "tel:016539901",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-10:00pm, Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/biobio.hr",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.803086,16.001759&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.803086,16.001759&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "AKL",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Beer/Wine, Take-out, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lebanese menu with vegan choices listed on the menu: falafel, hummus, muhammara, tahini, salads and vegetable spreads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Pontstrasse 1-3",
+  "phone": "tel:+49241-46864844",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.776793,6.083218&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.776793,6.083218&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

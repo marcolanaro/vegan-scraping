@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xiang Ji",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Take-out, Asian, Taiwanese, Singaporean\n                                    ",
+  "description": "Restoran Sayur-Sayuran 香积素食 relocated here from previously being a stall at Plaza Sentosa. Emphasis is on mock meats but also serves vegetables. Offers a mixed of Asian cuisines, from breakfast and brunch to buffet and sandwiches.",
+  "priceRange": "Moderate",
+  "streetAddress": "32 Jalan Sutera, Taman Sentosa",
+  "postalCode": "80150",
+  "phone": "tel:+60-12-728%206262,%2007-3322262",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.493532,103.774941&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.493532,103.774941&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

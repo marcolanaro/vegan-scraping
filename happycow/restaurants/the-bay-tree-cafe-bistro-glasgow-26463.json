@@ -1,0 +1,18 @@
+{
+  "title": "The Bay Tree Cafe Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Take-out, Middle Eastern, BYOB, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegetarian and vegan foods. Serves breakfast, lunch and dinner. Relaxing atmosphere. 10% discount for students and online booking.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "403 Great Western Rd",
+  "postalCode": "G4 9HY",
+  "phone": "tel:01413345898",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-10:00pm, Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.874127,-4.277902&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.874127,-4.277902&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

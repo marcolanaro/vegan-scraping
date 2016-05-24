@@ -1,0 +1,17 @@
+{
+  "title": "Hafa Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Buffet, Beer/Wine, Moroccan, African, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Moroccan-style cafeteria, offers a mostly vegan menu. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Sant'Agostino, 23/c",
+  "phone": "tel:0114367091",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:30pm-1:30am, Fri 5:30pm-2:00am, Sat 4:00pm-3:00am, Sun 4:00pm-1:30am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.075424,7.680483&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.075424,7.680483&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

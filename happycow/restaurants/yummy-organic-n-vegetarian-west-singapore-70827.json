@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yummy Organic N Vegetarian ",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "芽米有机与素食 is organic and vegetarian retail store. ",
+  "streetAddress": "Blk 623 Choa Chu Kang St 62 #01-216A",
+  "postalCode": "680623",
+  "phone": "tel:68771097",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/YummyOrganicNVegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.398340,103.747402&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.398340,103.747402&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

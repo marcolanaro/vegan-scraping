@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Krull’s Vegetarian Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        American, Mediterranean, Fast food, Take-out, Mexican, British\n                                    ",
+  "description": "A small 100% vegan/vegetarian cafe that serves fresh made-in-house food. Mainly a take away, offers cakes, pasties, quiches, soups, wraps and more. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "196 Tile Hill Ln",
+  "postalCode": "CV4 9DE",
+  "phone": "tel:024-76850202",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.404001,-1.555446&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.404001,-1.555446&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Botaniq",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Juice bar, Take-out, European, Danish\n                                    ",
+  "description": "Casual-nice restaurant featuring an open bar in the center of its dining room. Serves quick vegan meals like soups, one sandwich, salad plate comprising your choice of salads plus hummus. Has smoothies and desserts, including raw cakes from Raw Loves Cakes. No longer serving alcohol. Re-opened Oct 2014 rebranding from Firefly Garden (more upscale).",
+  "priceRange": "Expensive",
+  "streetAddress": "Frederiksborggade 26",
+  "postalCode": "1360",
+  "phone": "tel:33363330",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/botaniqdk",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.683843,12.570661&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.683843,12.570661&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MoMo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Take-out, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee, tea, and sandwich shop with breakfast menu and a veggie and a hummus sandwich. Small seating area inside. Located in Cihangir area 10 minute walk from Taksim square.",
+  "priceRange": "Moderate",
+  "streetAddress": "Akarsu Yokuşu Sk. 43/A",
+  "postalCode": "34433 Beyo?lu",
+  "phone": "tel:+90-2122454474",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/ISTANBUL-MOMO/268041626542050",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.030971,28.982706&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.030971,28.982706&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

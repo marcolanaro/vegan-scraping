@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Camp Forest",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Indian, Italian, Thai, Spanish\n                                    ",
+  "description": "Chinese vegetarian restaurant. Chinese name: 甘味林蔬食园. 素食中、西、意餐，中餐推薦韩国虾面、日式板麵、瓦煲素骨茶；甜点推薦巧克力喷泉.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lot 13848, Jalan 53, Taman Desa Jaya Kepong",
+  "postalCode": "52100",
+  "phone": "tel:60162296-949",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 5:30pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.214680,101.631830&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.214680,101.631830&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

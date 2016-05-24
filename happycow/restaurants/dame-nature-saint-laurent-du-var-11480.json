@@ -1,0 +1,18 @@
+{
+  "title": "Dame Nature",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Beer/Wine, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Seaside restaurant. Has tofu and salad - vegans to specify.",
+  "priceRange": "Expensive",
+  "streetAddress": "167 Promenade des Flots Bleus, Atoll Beach",
+  "postalCode": "06700",
+  "phone": "tel:+33-0492271545",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 7:30pm-9:30pm, Mon-Thu 12:00pm-2:00pm, Wed-Thu 7:30pm-10:00pm, Fri-Sat 7:30pm-10:30pm, Fri-Sun 12:00pm-2:30pm, Sun 7:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.657740,7.188360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.657740,7.188360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

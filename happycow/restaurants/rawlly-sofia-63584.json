@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rawlly",
+  "tags": [
+    "Health Food Store",
+    "Vegan"
+  ],
+  "description": "Shop and raw dessert bar. Sells a small selection of raw ingredients (like nut butters, coconut oil, dried fruit). Offers raw treats, fresh fruit and vegetable drinks.",
+  "streetAddress": "Ulitsa Biser 16",
+  "postalCode": "1421",
+  "phone": "tel:+359-899935991",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Rawlly-676528332451019",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.681720,23.322430&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.681720,23.322430&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

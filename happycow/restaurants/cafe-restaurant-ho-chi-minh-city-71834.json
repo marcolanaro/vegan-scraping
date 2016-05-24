@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe-Restaurant Ho Chi Minh City",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Beer/Wine, Take-out, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A grand cafe, with a relaxed atmosphere, aptly named after its location. Serves a healthy mix of authentic world wide classics and contemporary Continental cuisine with a forward-thinking flair. An open kitchen creates a theatrical dining experience. Vegan and vegetarian dishes are marked with the same green dot, so vegans please inquire. Located across from Ben Thanh Market.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "171 Calmette, 1st Floor",
+  "postalCode": "700000",
+  "phone": "tel:08-62881717",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/crhcmc",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.769593,106.697803&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.769593,106.697803&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yar Pyi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Burmese\n                                    ",
+  "description": "An indoor and outdoor veggie cafe in the tourist area of Old Bagan. right next to Moon Restaurant (similar menu). Run by a local family, very limited English. Specialties include pumpkin soup and bean curry.",
+  "priceRange": "Moderate",
+  "streetAddress": "north of Ananda temple, Old Bagan",
+  "phone": "tel:259051436",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.172817,94.867713&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.172817,94.867713&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

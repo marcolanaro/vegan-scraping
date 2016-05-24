@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nha Hang Tung Bach",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Clean and well-ordered, this place is conscientiously run by a local couple who prepare daily fresh ingredients on the premises. Offers a diverse selection of food for a small-town restaurant, has a richer breakfast pho with more toppings (including tofu) than most restaurants in town. Plenty for vegetarians as well.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "QL 34, Yen Phu",
+  "phone": "tel:+84-0942742913",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.740700,105.322660&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.740700,105.322660&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

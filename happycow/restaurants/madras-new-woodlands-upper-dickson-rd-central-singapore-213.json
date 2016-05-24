@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Madras New Woodlands",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Take-out\n                                    ",
+  "description": "Part of international group of restaurant and hotels. Family run, authentic Indian food and atmosphere. Daily specials. Food is made quickly.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12/14 Upper Dickson Rd",
+  "postalCode": "207474",
+  "phone": "tel:98357605/,%2062971594",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.306393,103.852370&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.306393,103.852370&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

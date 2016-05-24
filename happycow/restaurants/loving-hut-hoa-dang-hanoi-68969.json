@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut Hoa Dang",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Italian, Organic, Western, Vietnamese\n                                    ",
+  "description": "Opened Jan 2016 this Loving Hut restaurant features an upscale and brightly lit dining room and is situated on the corner of a big building where a set of stairs lead you to the front entrance. Features an extensive all-vegan menu, and uses some imported ingredients like vegan cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "33A Ba Trieu, Hoan Kiem",
+  "phone": "tel:902919587",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/nhahangchayhoadang",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.023016,105.850879&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.023016,105.850879&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

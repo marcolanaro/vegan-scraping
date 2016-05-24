@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kuang Cheng Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Take-out, Taiwanese\n                                    ",
+  "description": "Soups and noodle shop on National Taiwan University campus. Offers also a small buffet, priced by weight. Directions: From Gongguan station, take exit 2, turn left on NTU campus, turn left again in the first small alley you see, at the end of the alley, there will be a building on your left with other restaurants, it's in there.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "National Taiwan University",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.014973,121.534951&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.014973,121.534951&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

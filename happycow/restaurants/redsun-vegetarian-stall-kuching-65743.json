@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "RedSun Vegetarian Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "description": "樂善素食 is a food stall at the community market.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "MBKS Stutong Community Market, 1st Floor, FB48, Jalan Setia Raja, Tabuan Dusun",
+  "postalCode": "93350",
+  "phone": "tel:014-5966999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-12:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.521204,110.372586&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.521204,110.372586&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

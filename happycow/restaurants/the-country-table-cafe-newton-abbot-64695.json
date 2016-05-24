@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Country Table Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Take-out, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local British cafe serving breakfast, lunch, and afternoon tea with a modern outlook on food. Food is ordered from the counter and then brought to your table. Offers a variety of vegetarian and gluten free options, or items that can be made so and marked accordingly. Vegans could get the vegetable chilli and jacket potato, sandwich, baguette, toastie, baps and panini choosing vegan fillings (hummus, peppers, ratatouille, vegetable chilli, mushroom, and baked beans). Be sure to request for soya spread. Has soy milk for drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12 Bank St",
+  "postalCode": "TQ12 2JW",
+  "phone": "tel:01626202120",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheCountryTableCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.530130,-3.612147&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.530130,-3.612147&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

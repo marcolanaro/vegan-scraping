@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tin Nghia",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan\n                                    ",
+  "description": "Small vegetarian restaurant established 1925. No onions or garlic used. Has English menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "9 Tran Hung Dao St, District 1",
+  "phone": "tel:8-212538",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-1:00pm, 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.758000,106.653400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.758000,106.653400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

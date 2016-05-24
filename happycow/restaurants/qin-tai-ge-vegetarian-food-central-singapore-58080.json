@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Qin Tai Ge Vegetarian Food ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out\n                                    ",
+  "description": "庆泰阁素食 is a veg stall located inside Amoy Food Centre. Offers Hong Kong style vegetarian dishes to go with white/brown rice or bee hoon/noodles.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "7 Maxwell Rd, Amoy Food Centre , Stall 01-10",
+  "postalCode": "069111 ",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.279715,103.846678&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.279715,103.846678&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

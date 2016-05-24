@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nha Hang Chay Van Hanh",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Vietnamese\n                                    ",
+  "description": "Restaurant near Institute of Bhuddist Studies (Học viện Phật giáo) on Minh Mang st. Has 2 dining areas, one with Japanese-style low tables which is outdoors under a roof, and the other one which is indoors. The website is in Vietnamese but there are photos.",
+  "priceRange": "Moderate",
+  "streetAddress": "103 Minh Mang",
+  "phone": "tel:0935844087",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.425671,107.579809&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.425671,107.579809&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

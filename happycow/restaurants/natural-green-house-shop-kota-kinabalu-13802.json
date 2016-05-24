@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natural Green House Shop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Shop sells a variety of organic products including grains, beans, organic sugar and salt, vinegar, olive oil, grape seed oil, beverages, and more. Also has a food court inside.",
+  "streetAddress": "Lot 10, Block C, Ground Floor, City Mall",
+  "phone": "tel:088-484705/6",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.972670,116.070500&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.972670,116.070500&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

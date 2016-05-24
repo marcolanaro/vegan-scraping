@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Good Food Vegetarian",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Delivers vegetarian and vegan lunch. Weekly menu is posted on its facebook.",
+  "streetAddress": "Cubao, Quezon City",
+  "phone": "tel:0932-7662206",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Good-Food-Vegetarian/1547050948904233",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.617290,121.059309&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.617290,121.059309&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

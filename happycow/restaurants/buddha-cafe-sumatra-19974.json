@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Buddha Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Take-out, Indonesian\n                                    ",
+  "description": "Surprising find on Lake Toba, 10-15 minutes north of Tuk Tuk on the main road going towards Simanindo. The property, called \"Sumatera Borobudur\" is worth seeing in its own right, located right on the lake and filled with gardens and Buddhist statues - a rarity in this part of Indonesia. Handmade tempeh and mockmeats, soup specials every day, vegan versions of Indonesian specialties, homemade vegan coconut ice cream. Worth the trip and also easy to plan with a visit to Simanindo or the hot springs in Panguguran.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Central Tolping, Lakeside, 50 meters before Vanesha Guest House",
+  "phone": "tel:0813-769-42477",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.706062,98.810389&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.706062,98.810389&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

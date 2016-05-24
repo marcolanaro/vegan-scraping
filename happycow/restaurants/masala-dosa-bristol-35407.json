@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Masala Dosa",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Sri Lankan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small, basic cafe offering authentic South Indian and Sri Lankan food. Many items vegan suitable - just ask.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "406 Stapleton Road",
+  "postalCode": "BS5 6NQ UK",
+  "phone": "tel:01179512199",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.469377,-2.565808&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.469377,-2.565808&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

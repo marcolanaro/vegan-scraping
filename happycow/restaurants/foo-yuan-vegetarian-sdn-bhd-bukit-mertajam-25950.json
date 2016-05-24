@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Foo Yuan Vegetarian Sdn Bhd",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Chinese name is 福源国际企业有限公司. Manufacturer of veg product(food). Call ahead to see if it's open to the open, and let HappyCow know - thanks1!",
+  "streetAddress": "9, Jalan Industri Cherok To'kun, Kawasan Industri Cherok",
+  "postalCode": "14000",
+  "phone": "tel:04-5518162",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.353762,100.474426&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.353762,100.474426&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

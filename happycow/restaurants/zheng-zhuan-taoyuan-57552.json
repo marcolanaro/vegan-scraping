@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zheng Zhuan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "正饌素食點心, at 桃園市龜山區復興一路137號, offers traditional food including noodles and soups plus dumplings, rice dumplings, steamed buns, eight treasures rice pudding, and soy-bean milk.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "137, Fuxing 1st Rd",
+  "phone": "tel:03-3961988",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.059010,121.366886&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.059010,121.366886&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kay's Healthy Living Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Asian, Malaysian\n                                    ",
+  "description": "Serving organic vegetarian food without added MSG, artificial ingredients, egg, white salt or sugar. Choose from a range of rice, noodle, and tofu dishes as well as salads, sandwiches. and burgers. Sells organic health food products.",
+  "priceRange": "Moderate",
+  "streetAddress": "32, Lorong Teras Jaya 9, Kawasan Perniagaan Teras Jaya",
+  "postalCode": "13400",
+  "phone": "tel:012-4011129/,%20016-5551129",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Kays-Healthy-Living-Cafe/432461723439291",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.433800,100.389292&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.433800,100.389292&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

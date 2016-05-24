@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "SinSinTei",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Japanese, Organic\n                                    ",
+  "description": "Serves vegan Buddhist cuisine (Sho-jin Ryori) and is also a tea house. Offers vegan dishes and excludes five acrid and strong-smelling vegetables (Go-kun) including garlic. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "2-1-2 Sanmon-cho, Chikusa-ku",
+  "postalCode": "464-0064",
+  "phone": "tel:052-7520311",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:00pm, 5:00pm-8:00pm, Sat 11:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.168573,136.952530&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.168573,136.952530&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

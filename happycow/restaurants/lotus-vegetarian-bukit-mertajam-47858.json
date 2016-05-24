@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lotus Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Fast food, Delivery, Take-out\n                                    ",
+  "description": "莲慈素食 Vegetarian stall in a wet market. Selling various type of noodle soups and porridge.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kota Permai Pasar Awam",
+  "phone": "tel:016-5556240/,%20016-4441223",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:00am-12:00pm, Wed-Sun 7:00am-12:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.341830,100.458505&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.341830,100.458505&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

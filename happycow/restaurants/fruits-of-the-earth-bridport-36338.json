@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fruits of the Earth",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A wholefood shop operating since 1986. Provides a range of mainly unprocessed food with some organic and local food. Has bulk grains, cereals, teas, nuts, and seeds; gluten-free, dairy-free and sugar-free food; supplements and herbal remedies; eco-friendly cleaning products with refills; organic wine, beer, and other alcohol.",
+  "streetAddress": "2A Victoria Grove, Town Centre",
+  "postalCode": "DT6 3AA",
+  "phone": "tel:01308-425827",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.734398,-2.759565&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.734398,-2.759565&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

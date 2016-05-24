@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Garden Kafe at The Yoga Barn",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Raw, Western, Buffet, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe tucked away from the main street. Offers choices in vegetarian, vegan, and raw food. Has smoothies, fresh juices, raw desserts, and a menu for detox and Ayurvedic rejuvenation. Rice field view dining overlooking the terraced lawn and amphitheater of The Yoga Barn. Free Wi-Fi and newspaper.",
+  "priceRange": "Expensive",
+  "streetAddress": "Jalan Raya Pengosekan, Ubud",
+  "postalCode": "80571",
+  "phone": "tel:+62361971236",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/theyogabarn",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.524129,115.265334&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.524129,115.265334&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

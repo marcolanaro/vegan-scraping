@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Graceful Sweets",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "Vegan macrobiotic sweets shop specializes in candy, yet also carries cakes, scones, cookies (and other desserts). A take-out place only; no dine in. Located in Graceful Sweets cooking school near Jiyugaoka station. Popular place sells out quickly on weekends.",
+  "streetAddress": "Setagaya-ku, Okuzawa 5-26-2, Jiyugaoka",
+  "postalCode": "158-0083",
+  "phone": "tel:03-6459-5517",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:00am-6:30pm, Thu-Sun 11:00am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/gracefulsweets",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.606358,139.669683&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.606358,139.669683&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

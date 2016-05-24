@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Karma Kafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, Western, Fusion\n                                    ",
+  "description": "Bali-styled restaurant serving all vegan food dishes with the exception of egg option at Sunday brunch and a couple desserts using honey. Makes raw pies and raw chocolates. Est. since early-2015.",
+  "priceRange": "Expensive",
+  "streetAddress": "20/18 Moo 8, Srithanu",
+  "postalCode": "84280",
+  "phone": "tel:0915938343",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/karmakafethailand",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.755856,99.965614&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.755856,99.965614&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

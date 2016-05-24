@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Choy Ma's Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "Vegetarian restaurant located in Green Bamboo organic shop in the heart of the city. Try the steamboat that comes with 6 sauces. Also serves various noodle dishes. On the 1st and 15th day of each month offers additional food such as yong tau fu, chicken rice, andherbal tea dish with rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "36 A Jalan Desa Bakti, Faber Plaza, Taman Desa",
+  "postalCode": "58100",
+  "phone": "tel:0126371798",
+  "venueHours": "\n                                                                                                        Mon-Sun 3:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.106590,101.678316&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.106590,101.678316&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

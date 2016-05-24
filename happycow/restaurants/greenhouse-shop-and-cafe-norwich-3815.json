@@ -1,0 +1,17 @@
+{
+  "title": "Greenhouse Shop and Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Beer/Wine\n                                    ",
+  "description": "Part of the Norwich environmental centre, with an attached shop selling food, books, clothing, and household items. Vegetarian cafe sells cakes, tea, breads, etc. throughout the day, with soups and other main dishes only available around lunchtime. Cafe uses mostly organic ingredients. Most workers are volunteers.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "42-46 Bethel Street",
+  "postalCode": "NR2 1NR",
+  "phone": "tel:+44-0-1603-631007",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.628280,1.289580&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.628280,1.289580&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

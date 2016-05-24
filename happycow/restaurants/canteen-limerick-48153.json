@@ -1,0 +1,18 @@
+{
+  "title": "Canteen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Some vegetarian and vegan choices. Also has gluten free items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "20 Mallow St",
+  "phone": "tel:085-2153212",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/CanteenLimerick",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.660417,-8.631153&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.660417,-8.631153&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

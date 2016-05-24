@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Indian Tandoori",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small Indian food restaurant with dishes from different regions of India. Has vegetarian starters and vegetarian main dishes. Dairy is used so vegans should ask.",
+  "priceRange": "Expensive",
+  "streetAddress": "Oude Gentweg 11",
+  "postalCode": "8000",
+  "phone": "tel:050345826",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 12:00pm-2:30pm, 6:00pm-11:00pm, Wed-Sun 12:00pm-2:30pm, 6:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.202818,3.226358&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.202818,3.226358&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

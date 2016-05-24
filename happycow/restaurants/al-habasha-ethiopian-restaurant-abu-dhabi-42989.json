@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Al Habasha Ethiopian",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ethiopian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Ethiopian food includes vegan suitable dishes like spiced vegetables, legumes, and potatoes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Abu Dhabi Intersection 74, Zone 1, Nadishia 28",
+  "phone": "tel:02-6444826",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-2:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.491298,54.382846&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.491298,54.382846&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

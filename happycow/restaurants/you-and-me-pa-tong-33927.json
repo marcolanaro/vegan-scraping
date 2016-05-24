@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "You and Me",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a dedicated vegetarian section in the back of menu. Features mostly Thai vegetarian dishes with some vegan options. Try the tom yum noodle soup. Ask for no oyster sauce on the stir fried veggie dishes and replace with soy sauce. Beachfront location.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rat Uthit 200 Pi 2",
+  "postalCode": "83150",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.887835,98.296473&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.887835,98.296473&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,19 @@
+{
+  "title": "Garaz Food & Wine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Beer/Wine, Take-out, European, Polish\n                                    ",
+  "description": "Specializes in vegetarian soups and biological/biodynamic wine.",
+  "priceRange": "Moderate",
+  "streetAddress": "Józefitów 8",
+  "postalCode": "30-039",
+  "phone": "tel:662608158",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-10:00pm, Sat 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/GarazFoodWine",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.071033,19.924119&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.071033,19.924119&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

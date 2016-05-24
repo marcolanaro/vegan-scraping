@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yi Xin Fo Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Catering\n                                    ",
+  "description": "一心佛素食餐厅 serves rice, noodle, and vegetable dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "721 Jalan Teo Kang Sui",
+  "postalCode": "82000",
+  "phone": "tel:076876843",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.487142,103.391050&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.487142,103.391050&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

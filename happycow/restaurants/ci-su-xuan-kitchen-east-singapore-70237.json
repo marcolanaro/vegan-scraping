@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ci Su Xuan Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "Located in Vimalakirti Buddhist Centre 靜名佛學社. Serves rice and noodles to go along with vegetarian dishes. Buy a meal coupon from the reception counter. On Sunday, it is free, give whatever you wish.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "20 Lorong 27A, Geylang",
+  "postalCode": "388112",
+  "phone": "tel:67485132",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 5:00pm-7:30pm, Sun 11:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.314883,103.884962&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.314883,103.884962&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

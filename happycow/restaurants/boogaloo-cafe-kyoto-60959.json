@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Boogaloo Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, International, Japanese, Buffet, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This outlet is near Kyoto University at Hyakumanben, at 京都市左京区吉田泉殿町4-13. Offers a variety of alcohol and food items. Lunch special comes with bread and includes 2 vegetarian sets: salad and green pasta. Note that some bread contain meat, so ask. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hyakumanben, near Kyoto University",
+  "phone": "tel:%20075-2754457",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.029010,135.778078&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.029010,135.778078&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

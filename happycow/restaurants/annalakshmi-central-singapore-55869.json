@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Annalakshmi - Central Square",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet\n                                    ",
+  "description": "Annalakshmi is an Indian vegetarian restaurant founded in Singapore in 1986. The food is cooked and served by volunteers. The traditional Indian vegetarian cuisine is simply presented in a buffet spread and there is no fixed price for the food. The guests pay any amount as he/she wishes. The concept is \"Eat What You Want, Give What You Feel, We Believe in You, We Trust You.\" Nearest MRT station: Clarke Quay (Exit B) or Chinatown (Exit E).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "20 Havelock Rd 01-04 Central Square",
+  "postalCode": "059765",
+  "phone": "tel:63399993",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-3:00pm, Tue-Sun 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Annalakshmi.sg/timeline?ref=page_internal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.288177,103.843233&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.288177,103.843233&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

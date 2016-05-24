@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Klub Architektu",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, European, Czech, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cellar restaurant located in the basement. Meat menu with a vegetarian section that includes vegetarian burritos and salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "Betlemske namesti 256/5",
+  "postalCode": "11000",
+  "phone": "tel:224-401214",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.084330,14.417730&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.084330,14.417730&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

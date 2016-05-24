@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mikuna",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Western, Danish\n                                    ",
+  "description": "Opened early 2014, a small take-away vegan cafe. Has many gluten free options. Has a large focus on sustainability and ecology with all packaging produced co2 neutral and biodegradable.",
+  "priceRange": "Moderate",
+  "streetAddress": "Frederiks Alle 96",
+  "postalCode": "8000",
+  "phone": "tel:28147545",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/aarhusmikuna",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.148467,10.196807&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.148467,10.196807&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

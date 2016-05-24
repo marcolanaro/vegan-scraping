@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Les Jardin de Bangkok",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Finer dining setup Thai food restaurant with several vegetable-based dishes. Specify and ask about fish and shrimp paste.",
+  "priceRange": "Expensive",
+  "streetAddress": "Avenue du Monument 4",
+  "postalCode": "6900",
+  "phone": "tel:084433310",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/lesjardinsdebangkok",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.225015,5.343321&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.225015,5.343321&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

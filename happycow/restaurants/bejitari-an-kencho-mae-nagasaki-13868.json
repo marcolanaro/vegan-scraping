@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bejitari-an - Kencho-Mae",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Nagasaki natural and organic food store. Handmade bento meals sets available. Open 10.30-17.30. Address in Japanese: 長崎市樺島町8-5.",
+  "streetAddress": "Kabashima-machi 8-5",
+  "postalCode": "850-0034",
+  "phone": "tel:095-824-5155",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.746120,129.873700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.746120,129.873700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

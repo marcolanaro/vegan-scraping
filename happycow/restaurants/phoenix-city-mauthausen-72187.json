@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Phoenix City",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese restaurant with some labeled vegetarian dishes of which around 5 are vegan. Could also ask the staff to cook you an other dish in a vegan way, e.g. with tofu instead of meat.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kaplanstraße 3",
+  "postalCode": "4310",
+  "phone": "tel:72382180",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-2:30pm, Tue-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.243262,14.549059&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.243262,14.549059&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

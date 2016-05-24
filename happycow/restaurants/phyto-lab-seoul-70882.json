@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Phyto Lab",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Beer/Wine, Korean\n                                    ",
+  "description": "Vegan cafe in the creative collective space Project Hada at 서울특별시 마포구 상수동 343-4, near Sangsu station exit 3, look for Project Hada flag on the outside. Open 2 days only.",
+  "priceRange": "Moderate",
+  "streetAddress": "Project Hada",
+  "postalCode": "121829",
+  "phone": "tel:70-8875-6565",
+  "venueHours": "\n                                                                                                        Mon 7:00pm-10:00pm, Sat 7:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gomsal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.545904,126.923072&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.545904,126.923072&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

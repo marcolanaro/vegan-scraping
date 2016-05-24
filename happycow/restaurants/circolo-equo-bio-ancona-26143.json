@@ -1,0 +1,17 @@
+{
+  "title": "Circolo Equo Bio",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Italian, Organic\n                                    ",
+  "description": "Vegetarian restaurant offering a mixture of ethnic dishes. Has a few vegan choice, best to call ahead.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Vallemiano 39",
+  "postalCode": "60125",
+  "phone": "tel:+39-347-6614594",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.607232,13.513279&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.607232,13.513279&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

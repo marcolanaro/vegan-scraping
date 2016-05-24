@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Piece of Cake - King George",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery near Dizengoff Center mall in the center of town. Makes cookies, cakes, breads, rolls, doughnuts (during Hanukkah season), desserts. Many vegan choices.",
+  "streetAddress": "46 King George St",
+  "phone": "tel:076-5411600",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:30am-9:00pm, Fri 7:30am-5:00pm, Sun 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Piece.of.Cake.il",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.072743,34.774571&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.072743,34.774571&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

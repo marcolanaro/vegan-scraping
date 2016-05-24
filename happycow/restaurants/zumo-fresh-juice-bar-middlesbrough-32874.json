@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zumo Fresh Juice Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Part of a juice bar chain offering in-house-made juices, smoothies, and some small snacks like wraps, soups, and fresh fruit. Uses dairy in some items.",
+  "streetAddress": "Cleveland Shopping Centre, Kiosk 2",
+  "postalCode": "TS1 2NR",
+  "phone": "tel:0164-2223703",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/zumobars",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.575967,-1.236026&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.575967,-1.236026&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

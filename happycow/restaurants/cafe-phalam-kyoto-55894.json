@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Phalam",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Organic, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop and cafe near Nijo station. Was originally veg but added meat. Now offers one lentil burger and one vegetable plate. Sells vegan desserts and a small variety of take home sauces and spreads. Lots of papers and books.",
+  "priceRange": "Moderate",
+  "streetAddress": "604-8382 Kyoto Prefecture, Kyoto, Nakagyo Ward, Nishinokyo Hokuseicho, 24",
+  "phone": "tel:075-4964843",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 9:00am-8:00pm, Thu-Fri 9:00am-8:00pm, Sat-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/phalamara",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.011594,135.742901&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.011594,135.742901&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

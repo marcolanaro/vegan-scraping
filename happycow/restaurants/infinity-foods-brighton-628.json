@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Infinity Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "The oldest and largest independent health food store here. An all vegetarian cooperative that stocks organic produce among other things.",
+  "streetAddress": "25 North Rd, Brighton",
+  "postalCode": "BN1 1YA",
+  "phone": "tel:01273-603563",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-6:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.825650,-0.139110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.825650,-0.139110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

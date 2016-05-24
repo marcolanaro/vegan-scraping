@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rumist",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mixed menu with some vegetarian and vegan options. Staff is accommodating to vegans. Also sells carpets.",
+  "priceRange": "Moderate",
+  "streetAddress": "Akbiyik Caddesi, Sultanahmet",
+  "phone": "tel:902124586641",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.005352,28.979959&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.005352,28.979959&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

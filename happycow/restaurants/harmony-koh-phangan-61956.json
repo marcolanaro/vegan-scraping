@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Harmony",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Western, Juice bar, Beer/Wine, Delivery, Take-out\n                                    ",
+  "description": "Serves vegan, vegetarian, and raw vegan food. Has baked goods, raw chocolate, coffee, green smoothie, tea and tea ceremony. Kids playground and Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "9/2 Moo 7",
+  "postalCode": "84280",
+  "phone": "tel:+66-612105820",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.786647,100.007609&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.786647,100.007609&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

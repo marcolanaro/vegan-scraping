@@ -1,0 +1,14 @@
+{
+  "title": "Pronto Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Italian, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Take-away pizza parlor with a good choice of vegan pizzas, clearly labelled on menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Nicolao Sottile, 24",
+  "phone": "tel:+390321626504",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-2:00pm, 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.449041,8.610024&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.449041,8.610024&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

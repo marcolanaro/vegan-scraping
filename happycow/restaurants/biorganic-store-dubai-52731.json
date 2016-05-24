@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BiOrganic Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A bio organic eco-friendly store and cafe; clean and well-organized. Offers a large selection of organic, vegan products and cafe menu items. Delivery available.",
+  "streetAddress": "I-Rise Towers",
+  "phone": "tel:04-4433535",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BiorganicStore",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.096667,55.181111&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.096667,55.181111&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

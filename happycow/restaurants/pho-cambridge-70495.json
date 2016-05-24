@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pho",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vietnamese restaurant with clearly labeled vegetarian dishes, all of which are either vegan or can be made vegan, including noodle soups, spring rolls, fresh rolls, and bun (vermicelli noodles). Does not accept reservations so is difficult to get seats during lunch or dinner times.",
+  "priceRange": "Moderate",
+  "streetAddress": "1 Wheeler St",
+  "postalCode": "CBQ 3QB",
+  "phone": "tel:01223350436",
+  "venueHours": "\n                                                                                                        Mon-Wed 12:00pm-10:00pm, Thu 12:00pm-10:30pm, Fri-Sat 12:00pm-11:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/PhoRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.204292,0.119375&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.204292,0.119375&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

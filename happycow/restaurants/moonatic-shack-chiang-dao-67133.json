@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Moonatic Shack",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai bar and kitchen with some foreign visitors. Owner speaks English and will cook something vegan upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "142 Moo 5 Baan Tam",
+  "phone": "tel:0933034650",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/Moonatic-shack-1630911717131010",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.368209,98.964852&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.368209,98.964852&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

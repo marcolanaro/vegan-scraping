@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Private Lodge Cafe and Diner",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Western\n                                    ",
+  "description": "On the 2nd floor without signage, so look for it. Modern natural zen setting, bright with natural sun-roof lighting during the daytime. Kitchen shuts one hour before closing. Serves vegan food. Hosts yoga, cooking, and classes. Address in Japanese: 上林町3-33 2F.",
+  "priceRange": "Moderate",
+  "streetAddress": "3-33 Kamibayashimachi Chuou-ku Kumamoto",
+  "phone": "tel:096-3233551",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/privatelodge",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.808164,130.711974&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.808164,130.711974&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

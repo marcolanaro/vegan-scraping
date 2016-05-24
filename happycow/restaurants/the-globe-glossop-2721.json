@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Globe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan\n                                    ",
+  "description": "A pub with a vegan restaurant. Bar snacks available. Also a live music and comedy venue. NOTE: Not all the beer is vegan, the beer made on the premises uses isinglass according to happycow member report (Nov 2013)",
+  "priceRange": "Inexpensive",
+  "streetAddress": "144 High St West, Glossop, Derbyshire",
+  "postalCode": "SK13 8HJ",
+  "phone": "tel:01457%20852417",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 5:00pm-9:30pm, Wed-Sat 5:00pm-9:30pm, Sun 1:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TheGlobeGlossop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.443450,-1.957960&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.443450,-1.957960&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

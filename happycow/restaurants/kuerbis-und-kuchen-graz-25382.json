@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kuerbis und Kuchen",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Vegetarian catering service. Its health food store and snack bar at Neutorgasse 55 had shut down in late-2014.",
+  "streetAddress": "local area",
+  "postalCode": "8010",
+  "phone": "tel:0316-831030",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.066978,15.438281&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.066978,15.438281&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

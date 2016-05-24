@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Farmers Market - Islington",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Thursdays and Fridays 11am-5pm. Popular street market with emphasis on organic & veggy. Featuring organic cider and tapas from De La Tierra, vegetarian Indian food from Gujararti Rasoi, cakes from Sugarloaf Mountain, plus fruit and veggies, and more. Carnevale restaurant is also located here.",
+  "streetAddress": "Whitecross Street, Islington",
+  "postalCode": "EC1Y 8JP",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.522990,-0.092890&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.522990,-0.092890&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

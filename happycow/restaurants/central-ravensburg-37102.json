@@ -1,0 +1,17 @@
+{
+  "title": "Central",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe, bar, restaurant providing a separate vegan menu section with list of around 6 meals and 1 dessert.",
+  "priceRange": "Moderate",
+  "streetAddress": "Marienplatz 48",
+  "postalCode": "88212",
+  "phone": "tel:+49-75132533",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.783173,9.613949&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.783173,9.613949&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

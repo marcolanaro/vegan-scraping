@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cocum",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A Keralan restaurant with several vegetarian options (marked on menu), some of which are also vegan (not marked on menu - please ask staff). Vegan items include masala dosa and some of the vegetable curries. Card payments accepted if over £10.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "71 Castle St",
+  "postalCode": "CB3 0AH",
+  "phone": "tel:01223-312569",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-2:30pm, 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.212792,0.112606&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.212792,0.112606&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

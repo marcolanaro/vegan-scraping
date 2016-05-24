@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Moshimo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Japanese food. Vegan choices are clearly marked on the menu and includes dessert options, dumplings, miso soup, and vegan duck. Menu changes seasonally. Previously named Moshi Moshi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Opticon, Bartholomew Square",
+  "postalCode": "BN1 1JS",
+  "phone": "tel:01273-719195",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/moshi-moshi/73995007498",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.820888,-0.140523&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.820888,-0.140523&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

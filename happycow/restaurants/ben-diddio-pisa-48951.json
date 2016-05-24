@@ -1,0 +1,17 @@
+{
+  "title": "Ben D'Iddio",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Organic, Raw, Beer/Wine, Take-out\n                                    ",
+  "description": "Vegetarian restaurant serving Southern Italian food. Belongs to the Vegetagliano Natural Supremacy. Makes food in-house including seitan, roast vegetables, pizza and panini. A 5-minute walk from tower of Pisa.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Angelo Galli Tassi 12",
+  "phone": "tel:050555111",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.721583,10.396086&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.721583,10.396086&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

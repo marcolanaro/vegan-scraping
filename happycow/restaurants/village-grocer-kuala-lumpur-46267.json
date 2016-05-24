@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Village Grocer",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of chain of supermarkets with many western food as well as biogradeable cleaning products. This location, as of March 2014, added an abundance of vegan food products such as protein substitutes, cheese, soy yogurt, milks and others. Fresh fruits and veggies, along with a large selection of international organic products are also available.",
+  "streetAddress": "Jalan Telawi 1, Bangsar Village",
+  "postalCode": "59100",
+  "phone": "tel:03-2282-1808",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.129132,101.670482&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.129132,101.670482&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

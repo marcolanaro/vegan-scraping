@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Moksh - The Happy Forest Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Indian, Italian, Raw, Juice bar\n                                    ",
+  "description": "A vegetarian cafe serves a variety of coffee, tea, juices and smoothies and a large array of dishes, of which most are soul food and some are vegan. Also a live music venue.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Laxman Jhula",
+  "postalCode": "249302",
+  "phone": "tel:09999919492/,%2009999643846",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/cafemoksh",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.299326,74.123996&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.299326,74.123996&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

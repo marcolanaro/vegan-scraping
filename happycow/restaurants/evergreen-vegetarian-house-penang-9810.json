@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Evergreen Vegetarian House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Buffet, Asian, Malaysian\n                                    ",
+  "description": "Very large buffet with over 30 dishes of various veggie curries, fried noodle, dumplings, mock-meats, tofu, steam-stuffed bread, noodle soups, and few prepackaged items. No garlic and onion. Self-service and pay for food by weight/size of plate. Near One Stop shopping mall of Pulau Tikus, east of Jalan Burma.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "39-A Cantonment Road, Georgetown",
+  "postalCode": "10250",
+  "phone": "tel:017-588-7788/,%20604-2103900",
+  "venueHours": "\n                                                                                                        Mon-Tue 7:00am-9:00pm, Thu-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.432303,100.312171&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.432303,100.312171&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

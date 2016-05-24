@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "NomNom Vegan Bakery",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Open Jun 13, 2015. Little bakery making all-vegan baked good from cupcakes and cakes to macaroons, and brownies.",
+  "streetAddress": "Lilienbrunngasse 5",
+  "postalCode": "1020",
+  "phone": "tel:06606697544",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 12:00pm-7:00pm, Sat 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/nomnomveganbakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.213775,16.377604&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.213775,16.377604&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

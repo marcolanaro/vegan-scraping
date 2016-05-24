@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "See Stuble",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Salad bar, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a vegan brunch, green smoothies and a variety of juices. Uses local fresh produce. You can also call owner Carolin to let her know you are vegan or vegetarian so she could prepare something not on the menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sage 96",
+  "postalCode": "6733",
+  "phone": "tel:+4369910973307",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.255139,9.914932&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.255139,9.914932&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

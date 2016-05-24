@@ -1,0 +1,18 @@
+{
+  "title": "The Plant Cafe-Deli",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, British, English\n                                    ",
+  "description": "Features a course menu using local and organic ingredients. Available for private dinner parties. Bring your own wine.",
+  "priceRange": "Moderate",
+  "streetAddress": "1 Cathedral Yard, Devon",
+  "postalCode": "EX1 1HJ",
+  "phone": "tel:01392-428144",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/theplantcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.722500,-3.531890&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.722500,-3.531890&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

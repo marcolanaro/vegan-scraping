@@ -1,0 +1,18 @@
+{
+  "title": "Hortus",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Organic, Western, European\n                                    ",
+  "description": "Vegetarian restaurant with a relaxed yet stylish atmosphere, opened Mar 2015 in a trendy area of Den Haag. Uses natural ingredients.",
+  "priceRange": "Expensive",
+  "streetAddress": "Anna Paulownaplein 3",
+  "postalCode": "2518 BK",
+  "phone": "tel:+31-614547933",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 8:00am-10:00pm, Fri-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/Vegetarisch.Restaurant.Den.Haag",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.084720,4.299363&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.084720,4.299363&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

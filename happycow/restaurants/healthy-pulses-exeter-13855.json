@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Healthy Pulses",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food shop selling vitamins, supplements, gluten-free food, and more. July 2014 reported still open - call ahead to check.",
+  "streetAddress": "174 Sidwell Street",
+  "postalCode": "EX4 6RH",
+  "phone": "tel:01392-250552",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.725740,-3.526350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.725740,-3.526350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

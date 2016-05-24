@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hachinoki",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Near Kita Kamakura station, this restaurant has temple style Shojin-ryori, traditional Japanese Buddhist vegetarian food. Address in Japanese: 神奈川県鎌倉市山ノ内350. See website for other locations in Kamakura.",
+  "priceRange": "Expensive",
+  "streetAddress": "Yamanouchi 350",
+  "postalCode": "247-0062",
+  "phone": "tel:0467-23-3722",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.334910,139.547410&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.334910,139.547410&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

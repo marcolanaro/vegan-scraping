@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veganz",
+  "tags": [
+    "Health Food Store",
+    "Vegan"
+  ],
+  "description": "Part of the Veganz supermarket chain from Berlin, this shop opened in Jun 2014 and offers exclusively vegan products, from fresh fruit and vegetables to sweets, toiletries, cosmetics, prepared foods, to meat- and dairy- alternatives. There is also a bistro Vresh2Go inside.",
+  "streetAddress": "Margaretenstraße 44",
+  "postalCode": "1040",
+  "phone": "tel:+43-6645228831",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/VeganzAustria",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.195070,16.362986&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.195070,16.362986&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

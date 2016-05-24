@@ -1,0 +1,17 @@
+{
+  "title": "Bahnhofstube",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cozy, family-run restaurant in a very small Brandenburger village. Has a marinated tofu steak with rice and vegetable. Staff is knowledgeable about food ingredients. Wi-fi access.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Am Bahnhof 13",
+  "postalCode": "16515",
+  "phone": "tel:033397647437",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.732590,13.403370&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.732590,13.403370&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eat a Pitta - Kiosk",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Middle Eastern, Take-out only\n                                    ",
+  "description": "Falafel vendor in shopping parade. Offering falafel, hummus, and salads. Note the tahini sauce contains dairy and egg.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kiosk 3B, Broadmead",
+  "postalCode": "BS13EA",
+  "phone": "tel:+44-7825659525",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-6:00pm, Sat 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/eata.pitta?fref=ts ",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.457488,-2.589904&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.457488,-2.589904&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Le Pain Quotidien",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of international restaurant chain featuring fresh artisan bakery and communal table. Has a few labeled vegan suitable dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Havermarkt 12",
+  "postalCode": "3500",
+  "phone": "tel:+32-11222662",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-7:00pm, Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.929193,5.335838&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.929193,5.335838&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

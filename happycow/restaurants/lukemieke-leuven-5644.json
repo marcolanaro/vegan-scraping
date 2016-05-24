@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lukemieke",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Take-out, European, Belgian\n                                    ",
+  "description": "Serves two dishes each day plus a wide range of desserts, and water is complimentary. Garden seating in summer. Popular with students. Try the chocolate cake. Sources fresh produce from nearby farm market.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Vlamingenstraat 55",
+  "phone": "tel:+32-016229705",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.874850,4.702810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.874850,4.702810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mone",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic, Beer/Wine\n                                    ",
+  "description": "Coffee, drinks, food, and art in a peaceful setting. Address in Japanese: 〒166-0013　東京都杉並区堀ノ内2−38−11. Confirmed open July 2013. Previously located on Kouenji-Minami.",
+  "priceRange": "Moderate",
+  "streetAddress": "Suginami-ku, Horinouchi 2-38-11",
+  "phone": "tel:03-6325-0486",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 5:00pm-11:00pm, Wed-Thu 12:00pm-8:00pm, Fri 5:00pm-11:00pm, Sat-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.689064,139.648704&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.689064,139.648704&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

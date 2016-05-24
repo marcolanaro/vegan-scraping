@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "EXKi - Liege Mediacite",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Health food concept international chain. Grab n go sandwiches and salads with ingredients listed. Uses some organic produce.",
+  "priceRange": "Moderate",
+  "streetAddress": "7 boulevard Raymond Poincaré",
+  "postalCode": "4020",
+  "phone": "tel:043441039",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-8:00pm, Fri 8:00am-9:00pm, Sat 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.631736,5.579682&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.631736,5.579682&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

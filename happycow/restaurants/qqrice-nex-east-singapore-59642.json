@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "QQrice - NEX",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Japanese, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise fast service shop selling whole grain rice rolls with different fillings including beans, mock meats, mushroom, and vegetables.",
+  "priceRange": "Moderate",
+  "streetAddress": "23 Serangoon Central, B2-48B, Nex",
+  "postalCode": "556083",
+  "phone": "tel:6484-3368",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/qqrice.sg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.350447,103.872374&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.350447,103.872374&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

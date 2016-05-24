@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Doa Sen Vang",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Delivery, Take-out, Vietnamese\n                                    ",
+  "description": "Food is vegan. English menu. Wi-fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "154 Bac Hai St, Phuong 6 Quan Tan Binh",
+  "phone": "tel:0903846727/,%2062923570",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-2:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.779248,106.657498&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.779248,106.657498&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

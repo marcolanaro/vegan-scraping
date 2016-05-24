@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sinbad's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Halal restaurant outside exit 3 of Itaewon station. Middle Eastern food menu that's meat-heavy (bewarned) but with some vegan suitable dishes. No longer offering Ethiopioan menu, Jan 2016. Confirmed open, Apr 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "127-12 Itaewon dong, Yongsan gu",
+  "phone": "tel:02-77920069",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Sinbads-kitchen-330160560503730",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.534187,126.994175&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.534187,126.994175&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

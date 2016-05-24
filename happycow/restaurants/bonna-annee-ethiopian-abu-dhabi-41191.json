@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bonna Annee Ethiopian Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ethiopian, African, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Meat-based but you will find spiced vegetables, potatoes, lentils, and bean dishes as in most Ethiopian restaurants.",
+  "priceRange": "Moderate",
+  "streetAddress": "Tourist Club area",
+  "phone": "tel:971-24912128",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.497312,54.375415&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.497312,54.375415&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

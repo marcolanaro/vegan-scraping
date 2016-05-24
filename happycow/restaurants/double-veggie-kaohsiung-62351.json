@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Double Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Asian, Fusion\n                                    ",
+  "description": "A 100% vegetarian restaurant with vegan options; vegans please inquire. Another branch in Hualien. ",
+  "priceRange": "Expensive",
+  "streetAddress": "No 134, Zhongzheng 1st Rd, Lingya District, Kaohsiung City, 802",
+  "phone": "tel:+886-79723569",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/doubleveggie",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.628318,120.331296&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.628318,120.331296&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

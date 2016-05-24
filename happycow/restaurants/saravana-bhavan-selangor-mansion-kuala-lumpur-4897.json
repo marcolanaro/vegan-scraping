@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saravana Bhavan - Selangor Mansion",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food\n                                    ",
+  "description": "Part of a international franchise of vegetarian Indian restaurants. Specializes in South Indian cuisine. No egg.",
+  "priceRange": "Moderate",
+  "streetAddress": "1007, Jalan Masjid India, Selangor Mansion",
+  "postalCode": "50100",
+  "phone": "tel:603-26916217",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.152703,101.697240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.152703,101.697240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

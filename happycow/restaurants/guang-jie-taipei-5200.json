@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Guang Jie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        French, Taiwanese\n                                    ",
+  "description": "Franco-vegetarian food. A bit of a hole in the wall. Good coffee. Address in Chinese: 台北市大安區仁愛路4 段345 巷2 弄11.",
+  "priceRange": "Moderate",
+  "streetAddress": "11, Alley 2, Lane 345, Sec. 4, RenAi Road, Da-an District",
+  "phone": "tel:2773-8529",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.038570,121.553500&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.038570,121.553500&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

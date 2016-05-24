@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Leafy Green",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Vegan delivery service launched in early-2015. Menu changes - see webpage.",
+  "streetAddress": "n/a",
+  "phone": "tel:07910-765649",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/leafygreencuisine",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.466495,-2.595427&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.466495,-2.595427&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

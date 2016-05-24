@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Su Su Fong",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "Healthy food based on vegetables.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "148, Souchang Rd, Sanmin District",
+  "phone": "tel:07-3817158",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-2:00pm, 5:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.627278,120.301435&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.627278,120.301435&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

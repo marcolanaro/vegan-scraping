@@ -1,0 +1,18 @@
+{
+  "title": "Hotel Acler",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hotel restaurant serving vegan menus upon request. Mostly organic, locally sourced ingredients. Reported will turn fully vegan sometime in 2015 - let happycow know then!",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Monsignor Domenico Caproni, 36",
+  "postalCode": "38056",
+  "phone": "tel:+39-0461706167",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.013424,11.302365&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.013424,11.302365&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

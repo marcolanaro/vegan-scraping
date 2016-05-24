@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "RizRaz - Kompagnistraede",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Buffet, Beer/Wine, European, Danish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Busy restaurant in the city centre offering an all-you-can eat vegetarian buffet for lunch and dinner everyday. The veggie buffet includes a large variety of cold salad dishes and hot main dishes, both vegetarian and vegan. Also has an la carte menu which is not veg. Dine inside in the warmly lit rooms or outside on the sidewalk.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kompagnistraede 20",
+  "postalCode": "1208",
+  "phone": "tel:33150575",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.677030,12.575250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.677030,12.575250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

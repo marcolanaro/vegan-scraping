@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ma Shu Cai Yan - Food Stall",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "麻糬菜燕, at 台北市雙城街夜市, is a vendor that sells fresh mochi and agar jelly.",
+  "streetAddress": "Shuangcheng Street market",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.064299,121.524331&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.064299,121.524331&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

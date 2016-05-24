@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Naturalis",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Fast food, Juice bar, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic coffee house with choice of six burgers, a variety of coffees and more. Was pure but reportedly added meat to menu since Mar 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "9 Chapel Market",
+  "postalCode": "N1 9EZ",
+  "phone": "tel:02033028226",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/naturaliscoffeehouse",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.533505,-0.110218&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.533505,-0.110218&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

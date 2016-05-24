@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "All The Best",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Fast food, Delivery, Take-out\n                                    ",
+  "description": "万德林素食館 is an air conditioned vegetarian restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "11, Ground Floor, Lorong Pahlawan 7G",
+  "postalCode": "96000",
+  "phone": "tel:084-218680/,%20016-8885190",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:30am-2:00pm, 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.306636,111.849636&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.306636,111.849636&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

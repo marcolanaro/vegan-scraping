@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Hydro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Beer/Wine, British, English, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A social enterprise tea room & restaurant belonging to fundamentalcharity.org which provides employment and training opportunities for those in-need. Guests are provided with menus that offer vegetarian, vegan and gluten-free options. Try their vegan breakfast, or vegan ice cream. Staff is helpful and will assist with vegan requests. Has soya milk for drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "75 Spring Garden",
+  "postalCode": "SK17 6BP",
+  "phone": "tel:01298-79065",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-5:00pm, Sun 10:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.259346,-1.909088&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.259346,-1.909088&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

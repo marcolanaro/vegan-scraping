@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rosmarine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small pizza place that offers a vegan soy cheese for pizzas and other dishes. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Linkoln 19",
+  "phone": "tel:035400241",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.066414,34.782841&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.066414,34.782841&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

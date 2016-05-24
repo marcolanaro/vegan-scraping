@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Danish Vegetarian Society",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "Non-profit organization since 1896. Aids Danish vegetarians and vegetarian visitors to Denmark with specific information needs.",
+  "streetAddress": "Gribskovvej 21, 2.th",
+  "postalCode": "DK-2100",
+  "phone": "tel:45-40586418",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.716161,12.547807&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.716161,12.547807&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

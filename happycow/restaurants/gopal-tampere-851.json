@@ -1,0 +1,14 @@
+{
+  "title": "Gopal",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto\n                                    ",
+  "description": "The food is all vegan almost every day, but there is still some butter etc. so the restaurant is not 100% vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ilmarinkatu 16",
+  "phone": "tel:03-212467",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=61.501010,23.781630&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C61.501010,23.781630&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

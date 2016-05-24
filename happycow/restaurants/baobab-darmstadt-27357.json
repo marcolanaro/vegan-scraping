@@ -1,0 +1,16 @@
+{
+  "title": "Baobab",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, African, Eritrean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An African cuisine restaurant located near the center of Darmstadt. Half of the options are vegetarian/vegan; vegans can choose from salads, hummus, chickpeas, beans, potatoes, spinach and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Wenckstr 1",
+  "phone": "tel:+49-0-6151-981-46-03",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 6:00pm-12:00am, Thu-Sat 6:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.879820,8.659090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.879820,8.659090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

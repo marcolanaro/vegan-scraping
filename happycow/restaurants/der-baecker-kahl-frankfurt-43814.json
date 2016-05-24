@@ -1,0 +1,13 @@
+{
+  "title": "Der Baecker Kahl",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Family-owned bakery offering a wide range of bread, bread rolls, pastry and cake, including vegan stollen.",
+  "streetAddress": "Friedberger Anlage 14",
+  "postalCode": "60316",
+  "phone": "tel:069439876",
+  "venueHours": "\n                                                                                                        Mon-Fri 5:00am-6:00pm, Sat 5:30am-1:00pm, Sun 6:00am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.116284,8.694927&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.116284,8.694927&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Beit Yosef Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Kosher, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Dairy vegetarian kosher restaurant - the meat served is fish. Specializes in a breakfast menu of whole-grain breads, salads, juices, spreads; uses dairy and eggs but vegans could get a combination of the salads, hummus, tahini spread and bread. View of surrounding mountainside through the arched windows.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "83 Jerusalem Street",
+  "postalCode": "13201",
+  "phone": "tel:972542472321",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-11:00pm, Fri 8:00am-2:00pm, Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.966010,35.494843&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.966010,35.494843&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

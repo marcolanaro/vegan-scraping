@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Mbriki",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Delivery, Take-out, Greek, Cypriot, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Greek Cypriot cuisine. Vegan choices in salads, sandwiches, vegan cakes (by Vegan Cakery), has Linda McCartney sausages and soya milk for drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "10 Carts Lane",
+  "postalCode": "LE1 5FL",
+  "phone": "tel:01162536213",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-4:00pm, Sat 8:30am-5:00pm, Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Cafe-Mbriki-21779210709",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.635260,-1.136265&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.635260,-1.136265&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

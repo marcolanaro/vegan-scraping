@@ -1,0 +1,17 @@
+{
+  "title": "Tassajara",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine\n                                    ",
+  "description": "Hamburg vegetarian restaurant and cafe.  Formerly Goldene Oase restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "Eppendorfer Landstr 4",
+  "phone": "tel:040-483801",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.585370,9.982150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.585370,9.982150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yogi Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, Western, Juice bar, Take-out\n                                    ",
+  "description": "Cafe and juice bar serving vegan and raw food, est. Apr 2015. Has falafel, hummus and pita, guacamole; could create your own salad. Vegan except for bee product. Hosts workshops. NOTE: map is incorrect -- please send exact / correct map coordinates to happycow!",
+  "priceRange": "Moderate",
+  "streetAddress": "The Warf Samui, Buphut",
+  "phone": "tel:0625724226",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/yogicafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.560412,100.027154&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.560412,100.027154&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

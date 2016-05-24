@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mangolds",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Buffet, Salad bar, Take-out, Austrian\n                                    ",
+  "description": "Buffet style counter with selection of daily changing hot dishes, selection of about 40 salads. Limited vegan options. All dishes ingredients labeled, but in German only. There is a separate café counter in the seating area but none of the cakes are vegan. Products without lactose and gluten are available. 30% discount on food after 17.00. Non-smoking. 2 minutes walk from Kunsthaus.",
+  "priceRange": "Moderate",
+  "streetAddress": "Griessgasse 11, Steiermark",
+  "postalCode": "8020",
+  "phone": "tel:+43-316-718002",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-7:00pm, Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.069903,15.434365&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.069903,15.434365&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

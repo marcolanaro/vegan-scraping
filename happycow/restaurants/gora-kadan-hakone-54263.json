@@ -1,4 +1,11 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gora Kadan",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Traditional ryokan in Hakone that offers a luxurious resort-type experience. Meals are kaiseki, a traditional style of Japanese cuisine served as a series of small dishes that feature regional specialties and seasonal delicacies. Not normally veg but special dietary requirements can be noted during booking and pre-arranged by email.",
+  "streetAddress": "1300 Gora, Ashigarashimo District, Kanagawa",
+  "phone": "tel:+81-460823331",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.247292,139.044482&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.247292,139.044482&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Brownice Italian Bistro",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Italian, Organic, Take-out\n                                    ",
+  "description": "Offers a comprehensive selection of vegan, authentic Italian food. On the menu are items like pasta, pizza, risotto, and desserts like cheesecake and different flavors of ice cream.",
+  "priceRange": "Moderate",
+  "streetAddress": "53 East Coast Rd",
+  "postalCode": "428771",
+  "phone": "tel:6348-2295",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-10:00pm, Fri-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/browniceitalian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.305038,103.903342&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.305038,103.903342&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

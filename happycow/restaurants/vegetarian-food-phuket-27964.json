@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Food",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Fast food, Take-out\n                                    ",
+  "description": "A relaxing place offering vegan vegetarian food, no alcohol. There is a noodle cart in front serving noodle soup and dry noodle. Inside is a buffet with around 8 different dishes each day (example: grilled \"fish\", massaman curry, red curry, stir fried vegetable). For 25B, you can get a bowl of noodle or a plate includes two vegetable dishes and rice. Extras available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Thanon Pranbarami, Patong",
+  "phone": "tel:66-77-01081643",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.902533,98.308647&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.902533,98.308647&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

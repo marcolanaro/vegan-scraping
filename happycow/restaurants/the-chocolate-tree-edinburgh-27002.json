@@ -1,0 +1,15 @@
+{
+  "title": "The Chocolate Tree",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Artisan chocolatier with an attached cafe that also makes dairy-free vegan cakes, hot chocolate, and sorbet suitable for vegans. Soya milk, coffee, and loose leaf teas. Relaxed atmosphere with free Wi-Fi.",
+  "streetAddress": "123 Bruntsfield Place",
+  "postalCode": "EH10 4EQ",
+  "phone": "tel:44-0131-2283144",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:00pm, Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.935092,-3.210148&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.935092,-3.210148&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

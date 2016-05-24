@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shan Hai Zhuan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Buffet, Taiwanese\n                                    ",
+  "description": "山海傳, at 中山區樂群二路198號, is named after Chinese mythology The Class of Mountains and Seas character and is decorated accordingly to this theme. Its main offering is Taiwanese style shabu-shabu. A moving train brings out dishes and dishes of fresh vegetables and tofu that you cooked in a simmering pot of broth in front of you. For broth you have 10 different choices. Also offers fried rice and pizza made by an expat chef. Free Wi-Fi access. Staff speak English.",
+  "priceRange": "Moderate",
+  "streetAddress": "198, Lequn 2nd Rd",
+  "postalCode": "10462",
+  "phone": "tel:0285023597",
+  "venueHours": "\n                                                                                                        Mon 11:30am-3:00pm, 5:30pm-10:00pm, Wed-Fri 11:30am-3:00pm, 5:30pm-10:00pm, Sat-Sun 11:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/山海傳蔬食迴轉火鍋/283821445081432",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.080154,121.556844&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.080154,121.556844&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

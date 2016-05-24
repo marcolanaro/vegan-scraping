@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thien Duyen Ben Thanh",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Western, Take-out, Vietnamese\n                                    ",
+  "description": "Vegetarian food restaurant with extensive menu in both English and Vietnamese. Some international menu items. Food is made to order. In 2012 it moved from 174 Calmette, District 1. Wi-Fi and power outlets available.",
+  "priceRange": "Moderate",
+  "streetAddress": "159 Calmette, Nguyen Thai Binh Ward District 1",
+  "phone": "tel:39147453",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.769251,106.698183&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.769251,106.698183&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

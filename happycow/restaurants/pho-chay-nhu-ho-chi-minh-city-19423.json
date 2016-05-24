@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pho Chay Nhu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Vietnamese\n                                    ",
+  "description": "Vietnamese pho noodle dish is the house signature. Also serves rice dishes and a few others displayed at the counter. All vegan except for yogurt.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "54 Truong Quyen St, Ward 6, District 3",
+  "phone": "tel:38206195",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.786700,106.692530&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.786700,106.692530&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

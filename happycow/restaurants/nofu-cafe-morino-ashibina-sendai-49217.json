@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nofu Cafe Morino Ashibina",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Japanese, Organic\n                                    ",
+  "description": "Family owned in converted house with seating on tatami or chairs. Vegan versions of traditional Japanese dishes as well as internationally inspired items. Uses organic produce grown in the south of Japan. A bit out of the way, see website for directions.",
+  "priceRange": "Moderate",
+  "streetAddress": "1 Kirigasakiyashiki Sanezawa Aza, Izumi-ku",
+  "phone": "tel:080-18146811",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sat 11:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/morinoashibina",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.337252,140.822749&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.337252,140.822749&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

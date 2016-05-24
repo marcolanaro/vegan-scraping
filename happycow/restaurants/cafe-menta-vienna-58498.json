@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Menta",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Beer/Wine, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mediterranean cafe and bar. Offers some labeled veg dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Radetzkyplatz 4",
+  "postalCode": "1030",
+  "phone": "tel:+4319668423",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Cafe-Menta/142472619252497",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.211125,16.390140&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.211125,16.390140&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

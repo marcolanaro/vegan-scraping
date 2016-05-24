@@ -1,0 +1,12 @@
+{
+  "title": "Pan di Zucchero",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery with some vegan pastries and sweets.",
+  "streetAddress": "Via Torino, 62",
+  "phone": "tel:3474207597",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 9:00am-12:30pm, 4:00pm-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.244900,7.573610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.244900,7.573610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

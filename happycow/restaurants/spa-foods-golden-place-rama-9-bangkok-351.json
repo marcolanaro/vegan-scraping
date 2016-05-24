@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Spa Foods - Golden Place Rama 9",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Thai, Juice bar\n                                    ",
+  "description": "Part of Spa Foods vegetarian restaurants in Bangkok. Restaurant is rather hidden behind Golden Place. Decorated in a 1970's atmosphere. Offers a unique selection of mockmeats made from textured soy protein. Prices moderate to expensive. Please confirm map marker location and let HappyCow know.",
+  "priceRange": "Moderate",
+  "streetAddress": "181 Pradit Manutham Rd, Wang Tonglang",
+  "postalCode": "10310",
+  "phone": "tel:02-9346530",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.830970,100.629423&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.830970,100.629423&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

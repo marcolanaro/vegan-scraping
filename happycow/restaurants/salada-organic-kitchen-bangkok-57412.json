@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Salada Organic Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Thai, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Focus is on using organic vegetables. Offers marked vegan dishes like tofu satay, classic Thai dishes with vegetables, fried rice and vegetable curry, salads. In the Bon Marche community mall on ground floor.",
+  "priceRange": "Moderate",
+  "streetAddress": "105/1 Soi 1, Thetsaban Songkhro Rd, Bon Marche Market, room E103",
+  "postalCode": "10900",
+  "phone": "tel:0802219490",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/SaladaOrganicKitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.839215,100.551075&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.839215,100.551075&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

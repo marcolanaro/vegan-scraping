@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saute Singapore",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Western, Take-out, Asian, Catering\n                                    ",
+  "description": "素特 opened Apr 2016 serving spaghetti, burger, pasta, pizza, chicken rice, baked curry rendang rice, and nasi lemak. No garlic or onion. Last order 8:15pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "470 North Bridge Rd Bugis Cube #02-08",
+  "postalCode": "188735",
+  "phone": "tel:90075507",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/saute.sg",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.298131,103.855631&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.298131,103.855631&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Moonfood",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Take-out, All Raw\n                                    ",
+  "description": "Spacious, self-service raw vegan cafe located near the central station, royal palace, and park; nearest metro stop is Parc. Offers salads and wraps. Food is organic and gluten free.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rue des Colonies 58",
+  "postalCode": "1000",
+  "phone": "tel:+32-23034332",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Moonfood/621607477969937",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.847219,4.361376&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.847219,4.361376&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,19 @@
+{
+  "title": "The Tickethall",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Take-out, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. May have only a few vegan options. Billed as a \"vegetarian and seafood\" restaurant. Located at Douglas Steam Railway Station.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Douglas Railway Station, North Quay",
+  "postalCode": "IM15AB",
+  "phone": "tel:01624-627888",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-6:00pm, Fri-Sat 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.166997,-4.482106&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.166997,-4.482106&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

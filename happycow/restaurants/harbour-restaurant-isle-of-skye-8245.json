@@ -1,0 +1,17 @@
+{
+  "title": "Harbour Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Each night's 3-course menu usually has choice of 2 veg starter and 1 veg main course option. Reservations may be required.",
+  "priceRange": "Expensive",
+  "streetAddress": "Broadford",
+  "postalCode": "IV49 9AE",
+  "phone": "tel:01471-822687",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.363040,-6.218580&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.363040,-6.218580&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

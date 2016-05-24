@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chez Nico",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Beer/Wine, European\n                                    ",
+  "description": "Fine dining with mostly vegan haute cuisine.",
+  "priceRange": "Expensive",
+  "streetAddress": "Maria Theresien Str. 49",
+  "postalCode": "6020",
+  "phone": "tel:+43-6504510624",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:30pm-10:00pm, Tue-Fri 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.263889,11.394992&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.263889,11.394992&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

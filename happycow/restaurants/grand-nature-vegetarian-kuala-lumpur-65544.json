@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Grand Nature Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Catering\n                                    ",
+  "description": "一派自然綠色餐館 is located on the ground floor of Wisma Manjalara. On the menu are dishes like braised dong bo meat, vegetarian pomfret fish, and deep fried prawn.",
+  "priceRange": "Expensive",
+  "streetAddress": "16 Jalan 7A/62A, Wisma Manjalara, Bandar Manjalara",
+  "postalCode": "52200",
+  "phone": "tel:03-62723788",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 5:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Grand-Nature-Vegetarian-Restaurant/188110471234921?ref=br_tf",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.195348,101.633195&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.195348,101.633195&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Abo Shariha",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Owner is from Jordan. Could get hummus and falafel sandwich with salad as well as foul and falafel with salad. Or order individual dishes to share - each comes with pita and salad.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Souq Waqif",
+  "phone": "tel:4480747",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.286765,51.532381&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.286765,51.532381&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

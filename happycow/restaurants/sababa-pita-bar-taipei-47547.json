@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sababa Pita Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. One of few Middle Eastern style food eateries in Taipei. Marks the veg choices on the menu. Falafel, pita, small salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "17, Lane 283, Sec. 3, Roosevelt Road",
+  "phone": "tel:02-23638009",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Sababa-Pita-Bar-%E6%B2%99%E5%B7%B4%E5%B7%B4%E4%B8%AD%E6%9D%B1%E7%BE%8E%E9%A3%9F/158831327516052",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.019298,121.531633&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.019298,121.531633&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

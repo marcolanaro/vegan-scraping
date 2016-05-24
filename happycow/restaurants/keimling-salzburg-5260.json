@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Keimling",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Salad bar, European, Austrian\n                                    ",
+  "description": "Vegetarian cafe offering a salad buffet from 9am and warm meals from 11:30am. Dishes changes daily. Sells some packaged health food and organic products like teas, grains, bread, and noodle.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Loiger Strasse 89, Wals-Siezenheim",
+  "postalCode": "5071",
+  "phone": "tel:+43-662-853675",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.791671,12.991744&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.791671,12.991744&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

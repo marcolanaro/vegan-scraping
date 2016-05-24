@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Qing Shan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Delivery, Take-out, Taiwanese\n                                    ",
+  "description": "青山素食館 is a small veggie restaurant with a few tables. No English sign. Makes noodles, rice, soup noodles, soup, and various sides. Delivers for order over NT300.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "157, Sec. 2, Heping East Road",
+  "phone": "tel:27043579",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-2:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.025357,121.541400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.025357,121.541400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Marie Min",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Myanmar\n                                    ",
+  "description": "In the city center. Closed during low season, but the owner is here anyway - it is good to pay visit so that she knows that there is interest. Look for the sign outside the restaurant that says, \"Treat animals kindly by not eating them.\"",
+  "priceRange": "Inexpensive",
+  "streetAddress": "27th Street",
+  "phone": "tel:092006813",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.980758,96.092852&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.980758,96.092852&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

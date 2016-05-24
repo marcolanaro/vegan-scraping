@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Clover 8",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Indian, Thai, Fast food, Delivery, Take-out, Asian\n                                    ",
+  "description": "Vegan cafe offering a wide variety of Thai, Indian, local as well western dishes. On the menu Indian curry, dosa, dim sum, spaghetti, chicken rice, Thai desserts, and such. Like the Xin Man Yuan, Clover 8 is in Miao Yi chain of eateries.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "77 High Street 01-04, High Street Plaza",
+  "postalCode": "179433",
+  "phone": "tel:63340302",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.290591,103.849449&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.290591,103.849449&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Country Life - Melantrichova",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Fast food, Juice bar, Take-out, Czech\n                                    ",
+  "description": "Casual veggie food restaurant behind the Country Life health food shop, alley off Old Square, just south of Astronomical Clock. Restaurant is buffet style and offers fast food items including greens, salads, juices, hot main dishes, veggie burgers, and desserts. Choose what you want and pay for food by weight. Large space inside with many natural wooden tables for seating, or sit outside in the courtyard. July 2013 reported vegetarian.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Melantrichova 15, Praha 1, Czechia",
+  "phone": "tel:+420-224-213366",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:30am-7:00pm, Fri 10:30am-6:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/countrylife.cz",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.085820,14.420720&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.085820,14.420720&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

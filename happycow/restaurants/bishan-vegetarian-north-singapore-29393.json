@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bishan Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "Vegetarian stall in open-air food court with vegan options of noodles, lor mee, mixed vege rice, bee hoon, yam cake, chee cheong fun, biriyani, vegetables, and mock meats. Also operates a cafe at Heartland Mall Kovan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bishan Bus Interchange Food Court Level 2, Bishan",
+  "postalCode": "579837",
+  "phone": "tel:90618000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.350700,103.849425&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.350700,103.849425&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

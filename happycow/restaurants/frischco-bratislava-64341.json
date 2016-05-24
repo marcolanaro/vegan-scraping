@@ -1,0 +1,18 @@
+{
+  "title": "Frischco",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Fast food, Salad bar, Take-out, Middle Eastern\n                                    ",
+  "description": "Salad, falafel, and hummus bar, est. Oct 2015 at Vysoka 22 and moved here Jan 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mýtna 1",
+  "postalCode": "81755",
+  "phone": "tel:0917875339",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/frischco",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.153858,17.114603&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.153858,17.114603&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

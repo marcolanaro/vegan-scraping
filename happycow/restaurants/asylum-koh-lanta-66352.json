@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Asylum",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Thai, Western, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Open in high season Nov-March only. Budget rooms, yoga, massage, bar and restaurant on Klong Dao beach. Has a fusion vegetarian menu with several vegan itwems. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Klong Dao Beach",
+  "phone": "tel:0848405733",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/asylum.lanta",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.595866,99.040880&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.595866,99.040880&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Frituur Veggie Eetboetiek Royal",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Makes french fries (chips), sandwiches with vegetables, vegetarian meatball, eggplant cakes, vegan spaghetti, soups, organic veggie burgers including sunflowerburger, hazelnutburger, risottoburger. Has vegan mayonaise. Veggie snacks are fried separately from meats.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Langestraat 181 A, Brugge",
+  "postalCode": "8000",
+  "phone": "tel:+32-50684184",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 11:30am-1:30pm, Wed-Thu 5:30pm-9:30pm, Fri-Sat 5:30pm-11:00pm, Sun 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.212516,3.239231&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.212516,3.239231&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

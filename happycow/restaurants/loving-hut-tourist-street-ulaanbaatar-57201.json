@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Tourist Street",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Chinese, Indian, European, Mongolian\n                                    ",
+  "description": "Part of international chain of vegan restaurants opened by followers of Supreme Master Ching Hai, an advocate for vegetarian living. Each location is individual family owned and operated. Serves food, coffee, non-alcoholic beverages, and more. Located downtown on tourist street; 7 min walk from Government Palace and one block over from Luna Blanca.\r\n\r\n \r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Bldg 40, Juulchin Street 7, Baga Toiruu 12",
+  "phone": "tel:976-99986646/,%20976-11321396",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-8:00pm, Sat 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.919676,106.910036&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.919676,106.910036&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

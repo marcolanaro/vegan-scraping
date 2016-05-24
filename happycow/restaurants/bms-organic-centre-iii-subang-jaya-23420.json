@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BMS Organic Centre - III",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food  有机食物. No cooked food at this location. Name in Chinese: 思 源 有 機 中 心.",
+  "streetAddress": "95, Ground Floor, Jln SS 19/6",
+  "postalCode": "47500",
+  "phone": "tel:03-56352184",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:30am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.065524,101.576925&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.065524,101.576925&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

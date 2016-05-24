@@ -1,0 +1,18 @@
+{
+  "title": "La Fonte",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Macrobiotic, Organic, Beer/Wine\n                                    ",
+  "description": "Traditional restaurant located on an ancient farm, surrounded by olives and grapes. Serves vegan and organic food with seitan, bread, and cakes. Ingredients are produced locally, in season and organic. Operating since 1992.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Lucignano 15",
+  "postalCode": "FI 50025",
+  "phone": "tel:+39-0571-609514",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 7:30pm-11:30pm, Sun 12:30pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "fb": "http://www.facebook.com/lafonte.ristorantevegan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.634134,11.121472&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.634134,11.121472&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tandoor Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. As of Feb 2013, is the only restaurant in town that serves vegetarian food with some vegan ones. Uses no fish stock. ",
+  "priceRange": "Moderate",
+  "streetAddress": "1-76 Palace Kumagaya, Saitama Prefecture",
+  "phone": "tel:048-527-1601",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Indian-Restaurant-Tandoor-Kitchen-/359027687459090",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.146982,139.386592&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.146982,139.386592&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,19 @@
+{
+  "title": "Amarillo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tex-mex food, burger, salad. Several vegetarian items, one vegan, and two that can be altered to vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hallituskatu 5",
+  "postalCode": "50100",
+  "phone": "tel:%20+358-152062125",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-10:30pm, Fri-Sat 11:00am-1:00am, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Amarillo-Mikkeli",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=61.688406,27.273472&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C61.688406,27.273472&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

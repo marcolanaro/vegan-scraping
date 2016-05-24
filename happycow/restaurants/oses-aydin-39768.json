@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Oses",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, South East Anatolian\n                                    ",
+  "description": "Part of chain selling vegan cigkofte only. The only non-vegan item is a vegetarian drink called ayran which is made of milk. Located in a very touristy area. Owner will gladly show you ingredient list.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Camikebir Inonu Bulvari, 51/1/1-D, Kusadasi",
+  "phone": "tel:0256-612-22-02",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/osesonadoyumolmaz",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.858487,27.261041&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.858487,27.261041&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,19 @@
+{
+  "title": "Kafe Kafka",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, Buffet, Salad bar, Beer/Wine, Bakery, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A coffee shop with a laid-back atmosphere. Farms own vegetables during the autumn and serves them in a salad bar. Every morning from 11am-4pm an all-you-can-eat buffet is available. One side of the menu is green week and at times features vegan burgers, raw cakes. Other vegan choices are vegetar lasagna, vegetar quiche, salads and smoothies.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sandgata 5b",
+  "postalCode": "8005",
+  "phone": "tel:+4793406003",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 2:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/kafekafka",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=67.282944,14.377276&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C67.282944,14.377276&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

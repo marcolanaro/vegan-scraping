@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "New Century Organic",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "新世纪自然贸易 sells vegetables, fruits, and organic products.",
+  "streetAddress": "Block 428 Jurong West Avenue 1, Unit 01-254",
+  "postalCode": "640428",
+  "phone": "tel:65659858",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/NewCenturyOrganic",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.351626,103.725558&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.351626,103.725558&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

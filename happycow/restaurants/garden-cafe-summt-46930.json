@@ -1,0 +1,18 @@
+{
+  "title": "Garden Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cozy family-run garden cafe with ice cream and tarte flambee. Fruit ice cream, including banana ice cream with hazelnut topping, is vegan, as well as other vegan choices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Liebenwalder Strasse 68, Muhlenbecker Land",
+  "postalCode": "16567",
+  "phone": "tel:033056/81508",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 1:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.693096,13.366622&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.693096,13.366622&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

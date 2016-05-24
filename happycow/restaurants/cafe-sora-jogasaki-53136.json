@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Sora",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Organic, Juice bar\n                                    ",
+  "description": "A 100% vegan, bio and natural food cafe housed in a quaint and homey building surrounded by trees. Serves macrobiotic vegan food, organic juices, herbal tea and fresh roasted coffee. Dishes are mostly Japanese style and include soy meat and fu (full menu on cafe website). Made-in-house sweets, postcards and wooden kitchenware are also available for purchase. Cafe is a 10 minute walk from Jogasaki-Kaigan Station (Izu Kyuko Line) in Shizuoko Prefecture. Open for lunch from 12-2pm. Address in Japanese: 静岡県 伊東市富戸908-69.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shizuoka Ito Futo 908-69, Jogasaki",
+  "phone": "tel:0557-517870",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/izu.cafesora",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.884371,139.114918&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.884371,139.114918&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

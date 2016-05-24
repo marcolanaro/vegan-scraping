@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rui Xiang Vegetarian",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Name 瑞香素食. Veggie stall in Transit Corner.",
+  "streetAddress": "11A, Lorong Maju",
+  "postalCode": "14000",
+  "phone": "tel:012-5639784",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-1:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.351982,100.468902&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.351982,100.468902&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

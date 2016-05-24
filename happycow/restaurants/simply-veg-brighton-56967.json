@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Simply Veg",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, Fast food, Delivery, Take-out\n                                    ",
+  "description": "A vegetarian Indian take away only restaurant. Has a variety of clearly marked vegan options such as curries and starters. Bus route 1 or 1A stop at Portslade Health Centre.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "23 St Michaels Rd, Portslade",
+  "postalCode": "BN41 1LR",
+  "phone": "tel:01273-236474",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/simplyvegalwayson",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.831925,-0.215808&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.831925,-0.215808&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

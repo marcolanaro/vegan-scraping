@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "O-Jamur",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Indonesian\n                                    ",
+  "description": "Urban farming country style setting restaurant with bamboo, mushroom farm house, and compost hut. Opened in May 2013. Offers an extensive menu with many faux meat dishes and fresh mushroom dishes including mushroom skewers.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl. BJ. Katamso Janti 270, Surabaya",
+  "postalCode": "69051",
+  "phone": "tel:+62-31-88251888",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-2:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/OJamur",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-7.349388,112.747916&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-7.349388,112.747916&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

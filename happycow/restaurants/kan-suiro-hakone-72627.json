@@ -1,4 +1,11 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kan Suiro",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Traditional Japanese ryokan (guesthouse), located a 5minute walk from the Tonosowa station on the Hakone Tozan line (the switchback train).  Rooms are use tatami mats for flooring, and futons for bedding, and include access to traditional Japanese baths (both indoor and outdoor). Overnight bookings typically include both a traditional Japanese multi-course dinner and breakfast. Willing to prepare vegan meals with at least 48 hours notice. English is only spoken by reception staff.  If booking by e-mail, copy and paste the following Japanese text to indicate vegan meal requirements: 私は肉とシーフードと卵と乳製品を食べません, 私は魚のだしを食べません.",
+  "streetAddress": "250-0315 Kanagawa Prefecture, Ashigarashimo District, Hakone, Tonosawa, 88",
+  "phone": "tel:460855511",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.232769,139.093347&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.232769,139.093347&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Melting Wok",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indonesian, Balinese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This Balinese restaurant is owned by a French ex-pat. There are only three items on the menu: a rice dish, a noodle dish, and a daily special. Both of the two regular dishes are available vegan (tofu or tempeh). The daily special is generally not veg.",
+  "priceRange": "Moderate",
+  "streetAddress": "13 Jl. Gootama, Ubud",
+  "phone": "tel:082-153-666087",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.509437,115.264148&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.509437,115.264148&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

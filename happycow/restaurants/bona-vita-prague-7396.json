@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bona Vita",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Italian, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Predominantly non-veg restaurant for tourists with a section of menu for vegetarian dishes using various soy-based mockmeats in salads and sandwiches. Cheese is used in most dishes. Large space with nice interior decorated in tall bamboo and palm tree art. Open 11.00-23.00. Directions: If facing the St. Wenceslas Statue, the restaurant is in a shopping center on the left hand side, about 400 meters before you reach the statue.",
+  "priceRange": "Moderate",
+  "streetAddress": "Pasaz Jalta, Vaclavske Namesti 43, Praha 1, Czechia",
+  "phone": "tel:+420-224-214565",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.082430,14.415780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.082430,14.415780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

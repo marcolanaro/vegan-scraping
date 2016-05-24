@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "FatCat",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Thai, Western, Take-out, Bakery, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small restaurant with a shop. Offers many vegan food choices as well gluten-free, including sweets and healthy drink. Grows its own organic vegetables onsite. The shop sells products from the organic garden. Hosts mud oven workshop. NOTE: Please send correct / exact map coordinates to happycow!",
+  "priceRange": "Moderate",
+  "streetAddress": "18 m.1 T. Mae Hee",
+  "postalCode": "58130",
+  "phone": "tel:6689244247",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:30am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/FatCat/1484657631748094",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.358790,98.439666&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.358790,98.439666&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

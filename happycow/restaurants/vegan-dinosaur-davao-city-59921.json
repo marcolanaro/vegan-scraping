@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Dinosaur",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Take-out, Bakery\n                                    ",
+  "description": "Grab-n-go shop offering vegan salads and desserts. Moved to Values School Building in 2016; previously at Red Lion Dormitel on Bacaca St. NOTE: please send correct / exact map coordinates to happycow!",
+  "priceRange": "Moderate",
+  "streetAddress": "Door A, Values School Building, Ruby St, Marfori Heights",
+  "postalCode": "8000",
+  "phone": "tel:082-3000106",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.069055,125.601694&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.069055,125.601694&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

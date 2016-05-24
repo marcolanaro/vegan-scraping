@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Upcafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Macrobiotic, Organic, Mediterranean, Salad bar, Juice bar, Beer/Wine, Take-out, Croatian\n                                    ",
+  "description": "Deli-style veggie cafe opened in 2011 by the owners of Makro Vega. Offers prepared savory dishes as well sweets displayed in cases. Uses seasonal and mostly organic ingredients. Location is outside of the city centre.",
+  "priceRange": "Moderate",
+  "streetAddress": "Domovinskog Rata 29a",
+  "postalCode": "21000",
+  "phone": "tel:+385-21386662",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-9:00pm, Sat-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.516765,16.445634&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.516765,16.445634&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

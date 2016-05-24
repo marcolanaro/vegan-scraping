@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Joy Vegetarian Restoran",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese\n                                    ",
+  "description": "Chinese name 怡心素食餐館. Veggie food.",
+  "priceRange": "Moderate",
+  "streetAddress": "89, Jalan Kenari 20, Bandar Puchong Jaya",
+  "postalCode": "47100",
+  "phone": "tel:603-80757391",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 10:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.044674,101.622169&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.044674,101.622169&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

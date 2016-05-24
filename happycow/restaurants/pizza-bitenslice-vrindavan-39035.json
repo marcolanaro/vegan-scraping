@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pizza Bitenslice",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Fast food, Take-out\n                                    ",
+  "description": "Satvik food that's lacto-vegetarian, established spring 2013.",
+  "priceRange": "Moderate",
+  "streetAddress": "1-A Bon Maharaj Market",
+  "postalCode": "281121",
+  "phone": "tel:9219401815",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Pizzabitenslice-Vrindavan/531987746823775",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.580580,77.700607&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.580580,77.700607&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

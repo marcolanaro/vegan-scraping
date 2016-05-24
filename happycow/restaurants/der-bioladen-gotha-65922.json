@@ -1,0 +1,13 @@
+{
+  "title": "Der Bioladen Gotha",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small organic health food store with a range of plant milk, mock meat, soy yogurt, nut butter, chocolate, natural cosmetics and fresh fruits and vegetables.",
+  "streetAddress": "Kantstrasse 16",
+  "postalCode": "99867",
+  "phone": "tel:03621-223358",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:30pm, Sat 8:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.948288,10.688259&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.948288,10.688259&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

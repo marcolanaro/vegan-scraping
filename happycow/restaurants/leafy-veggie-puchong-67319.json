@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Leafy Veggie",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "Veggie restaurant.",
+  "priceRange": "Moderate",
+  "streetAddress": "31G Jalan Puteri 5/20, Bandar Puteri Puchong",
+  "postalCode": "47100",
+  "phone": "tel:0380621777",
+  "venueHours": "\n                                                                                                        Mon-Tue 10:30am-3:30pm, 6:00pm-9:30pm, Thu-Sun 10:30am-3:30pm, 6:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.015133,101.617857&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.015133,101.617857&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

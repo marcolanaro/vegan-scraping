@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tanaka  Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Fast food, Take-out\n                                    ",
+  "description": "田中素食 food court stall is in the shopping centre near Giant Supermart. Serves affordable, vegetarian food with economic rice and daily specials. Local favorites are roasted pork rice and chicken rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 445, Fajar Road, Fajar Shopping Centre",
+  "postalCode": "670445",
+  "phone": "tel:90015798",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 6:00am-1:00pm, Tue-Sun 6:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/TanakaVegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.383802,103.770558&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.383802,103.770558&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

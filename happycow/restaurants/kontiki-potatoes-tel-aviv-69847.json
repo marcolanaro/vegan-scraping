@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kontiki Potatoes",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Western, Take-out\n                                    ",
+  "description": "Serves all-vegan food including jacket potatoes with a variety of fillings including mozzarella cheese, almond, cashew and tofu sauces, sliced sausage, spicy beans, green onion and others. Also on the menu are pizzas and soups. Pies (whole or pieces), chocolate balls, frozen sausages and more are available to take home. Slowly adds other items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dizengoff 50, Dizengoff Center",
+  "phone": "tel:077-4020901",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-9:30pm, Fri 11:30am-4:30pm, Sun 11:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Kontiki-potatoes-vegan-shop-1093292980683089",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.075354,34.775283&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.075354,34.775283&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

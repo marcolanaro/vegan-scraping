@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sokoni",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "An Indian spice and herb store which also stocks other food such as ready made vegetarian and vegan curries, popadums, breads, sauces and a selection of frozen food. The owners are vegetarian and willing to help with any requests.",
+  "streetAddress": "20 Blvd Knyaginya Maria Luiza",
+  "phone": "tel:052699229",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.204665,27.910543&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.204665,27.910543&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

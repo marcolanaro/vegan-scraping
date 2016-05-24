@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ngoc Dinh",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Vietnamese\n                                    ",
+  "description": "Small street cafe (com chay) featuring different dishes and pho. Staff will bring you bun (soup) if you don't know what to order. Food is pre made and you walk in the line to order (point at) what you want. Kitchen creates a plate for you. Food is all vegan but sells yogurt to drink. Note: Please send happycow know the exact map coordinates!",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Đường Nguyễn Văn Trỗi",
+  "phone": "tel:0984209155",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.356125,107.078216&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.356125,107.078216&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

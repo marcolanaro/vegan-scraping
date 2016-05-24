@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Antiochland Cafe and Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a separate vegetarian menu, which includes at least one dish that is vegan, plus other dishes can be made vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Alemdar Mah Kazim Ismail Gurkan Cad, Cagaloglu",
+  "postalCode": "34110",
+  "phone": "tel:02125113134",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/AntakyaDiyar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.010510,28.975378&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.010510,28.975378&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

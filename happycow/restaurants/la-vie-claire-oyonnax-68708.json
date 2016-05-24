@@ -1,0 +1,14 @@
+{
+  "title": "La Vie Claire",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "21 cours de Verdun",
+  "postalCode": "01100",
+  "phone": "tel:0474737763",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:30am-12:30pm, 2:00pm-7:00pm, Fri-Sat 8:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Lavieclaire",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.267397,5.656483&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.267397,5.656483&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

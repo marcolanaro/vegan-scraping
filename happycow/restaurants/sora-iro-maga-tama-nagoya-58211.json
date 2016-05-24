@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sora Iro Maga Tama",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe serving vegan lunch and sweets with one meat/fish choice. Need a reservation if after 7pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3-16-21 Shinsakae, Naka-ku",
+  "postalCode": "460-0007",
+  "phone": "tel:052-2516949",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-2:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.167366,136.926355&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.167366,136.926355&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

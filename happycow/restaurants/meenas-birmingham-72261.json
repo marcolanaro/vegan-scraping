@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Meena's",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Indian, Fast food, Delivery, Take-out, Asian, British, Catering, English, French, Middle Eastern\n                                    ",
+  "description": "A vegetarian takeaway specializing in Indian food, but also offers a wide variety of dishes including a whole separate vegan menu offering a huge selection of vegan dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1500 Stratford Rd, Hall Green",
+  "phone": "tel:01217331777",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/meenastakeaway",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.421977,-1.835617&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.421977,-1.835617&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

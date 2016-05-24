@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pizza Empress by Mr Slice",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Western, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizza place with vegan choices or pizza that can be made vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Road 2717, Building 1048, Block 327, Adliya",
+  "phone": "tel:+973-17742299",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-12:00am, Fri 3:00pm-12:00am, Sat-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.214885,50.588058&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.214885,50.588058&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

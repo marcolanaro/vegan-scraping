@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Earth and Stars",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. British pub offering, as of Mar 2016, around 5 vegan choices and 3 vegan desserts. Reported current chef is vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "46 Windsor St",
+  "postalCode": "BN1 1RJ",
+  "phone": "tel:01273722879",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-12:00am, Fri-Sat 12:00pm-1:00am, Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/earthandstarsbrighton",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.824821,-0.142132&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.824821,-0.142132&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

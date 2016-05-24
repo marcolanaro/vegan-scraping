@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Heureuse Vie",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic, Raw, Juice bar\n                                    ",
+  "description": "Vegan cafe in Sapporo. Has vegan burger and small plates, raw food and cakes, herbal drinks, coffee, and smoothies. Directions: take Tozai line to Maruyama Koen stop, exit 5. The cafe is located at on the 5th floor of the Heartland Maruyama building.",
+  "priceRange": "Moderate",
+  "streetAddress": "Odori Nishi 25-chome, 1-2 Heartland Maruyama, Building 5F",
+  "phone": "tel:011-2138678",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.056132,141.319461&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.056132,141.319461&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

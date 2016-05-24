@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Red Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Take-out\n                                    ",
+  "description": "Specialty is 2 foot long pan mee (noodle).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "A-11, Jalan Rawang Mutiara 2, Mutiara Business Centre",
+  "postalCode": "48000",
+  "phone": "tel:+6016-9856578",
+  "venueHours": "\n                                                                                                        Mon 9:30am-3:00pm, 5:30pm-9:30pm, Wed-Sun 9:30am-3:00pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/redvegetarianrestaurant/timeline",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.328569,101.579342&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.328569,101.579342&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

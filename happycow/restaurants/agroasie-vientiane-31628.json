@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Agroasie",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small health food store located next to Vat Chanh, close to Fa Ngum Quay. Has vegan items.",
+  "streetAddress": "101 Chao Anou Road",
+  "phone": "tel:856-22-543-76",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.964813,102.602520&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.964813,102.602520&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

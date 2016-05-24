@@ -1,0 +1,18 @@
+{
+  "title": "Riverside Garden Centre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, English\n                                    ",
+  "description": "Casual cafe with a kids' play area. Simple vegetarian food menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Clift House Road, Southville, Bristol, UK",
+  "postalCode": "BS3 1RX",
+  "phone": "tel:0800-0375796",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-4:30pm, Sun 10:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.444250,-2.619330&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.444250,-2.619330&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

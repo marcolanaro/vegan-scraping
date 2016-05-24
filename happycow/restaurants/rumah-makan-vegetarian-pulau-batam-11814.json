@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rumah Makan Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Buffet, Fast food, Take-out, Indonesian\n                                    ",
+  "description": "Veggie restaurant specializing in tempeh.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Komp. Bumi Indah Block 3, no. 19, Nagoya",
+  "phone": "tel:0778-456668",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.084330,104.026490&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.084330,104.026490&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

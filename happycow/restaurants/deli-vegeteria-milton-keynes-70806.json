@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Deli Vegeteria",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Makes vegetarian and vegan food for sale online for delivery or pick-up by arrangement, at events, and at farmers markets. See its webpage details.",
+  "streetAddress": "Milton Keynes area",
+  "phone": "tel:7968592865",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Deli-Vegeteria-140945846097431",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.039782,-0.712021&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.039782,-0.712021&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

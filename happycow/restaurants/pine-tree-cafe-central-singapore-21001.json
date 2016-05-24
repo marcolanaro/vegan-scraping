@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pine Tree Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Singaporean\n                                    ",
+  "description": "Name in Chinese: 长春素. A very popular café located on the 2nd floor of Fortune centre which houses at least 10 other vegetarian eateries. \r\nThis cafe serves a variety of local Chinese food like clay-pot chicken nugget rice, chicken cutlet noodle, sardine curry puff, Yong Tau Foo, Thunder Rice, Nasi Lemak etc. \r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "190 Middle Rd, #02-13/09, Fortune Centre",
+  "postalCode": "188979",
+  "phone": "tel:98154940",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300300,103.852252&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300300,103.852252&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

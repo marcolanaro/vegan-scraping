@@ -1,0 +1,17 @@
+{
+  "title": "Bleibergs",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Take-out, Bakery, Catering, Kosher, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe and takeaway offering ovo-lacto vegetarian food except for 1 or 2 Jewish fish dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nurnberger Strasse 45A",
+  "postalCode": "10789",
+  "phone": "tel:030-21913624",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-8:00pm, Fri 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.500190,13.336550&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.500190,13.336550&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mr. Su Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "精致素食 veggie food.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "27, Jalan Maharajalela",
+  "postalCode": "34000",
+  "phone": "tel:016-5075471",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-9:00pm, Thu-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.850422,100.744723&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.850422,100.744723&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nang Aharn Jay",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai\n                                    ",
+  "description": "20+ years old restaurant located in a very small soi/alley - look for stickers advertising vegetarian products on the wall. Around 25-35 baht each for curries, noodles, and food to order.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "111/6-7 Pahurat St. Wang Burapa",
+  "phone": "tel:081-3417908/,%204057658",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.744540,100.499830&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.744540,100.499830&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Indira",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, Beer/Wine, Delivery, Take-out, Pakistani, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a separate page on the menu for vegetarians and vegans, however, vegan items are not marked, so it is advised that you ask. The waiters are very knowledgeable about what is and is not vegan. Also there are a few items that are not on the veg menu that are vegan like the samosa and vegetable pakora appetizers. Atmosphere is dark and intimate. Has discounted business lunches.",
+  "priceRange": "Moderate",
+  "streetAddress": "4 Shaul HaMelech",
+  "phone": "tel:03-6954437",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/IndiraTlv",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.075526,34.782579&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.075526,34.782579&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

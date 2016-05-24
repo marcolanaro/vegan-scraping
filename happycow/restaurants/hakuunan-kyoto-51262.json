@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hakuunan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese\n                                    ",
+  "description": "Traditional Japanese buddhist zen cuisine (shojin ryori). Affiliated with and located opposite the Manpukiji temple and set in a picturesque zen garden. Serves set course meals in the fuccha ryori style.",
+  "priceRange": "Expensive",
+  "streetAddress": "Nishiura-30 Gokasho, Uji",
+  "postalCode": "611-0011",
+  "phone": "tel:0774-320700",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 9:00am-5:00pm, Fri-Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.913522,135.804786&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.913522,135.804786&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

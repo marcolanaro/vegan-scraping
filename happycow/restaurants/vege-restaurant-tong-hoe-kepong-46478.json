@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vege Restaurant Tong Hoe  ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Japanese, Opens Tue if on 1st or 15th of lunar calendar.\n                                    ",
+  "description": "东和素食馆 Asian vegetarian restaurant. Offers a variety of sushi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jalan Ambong Kiri 2",
+  "phone": "tel:+60-172644669",
+  "venueHours": "\n                                                                                                        Mon 11:30am-9:30pm, Wed-Sun 11:30am-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.209660,101.648095&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.209660,101.648095&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

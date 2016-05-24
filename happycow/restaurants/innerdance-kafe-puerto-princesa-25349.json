@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Innerdance Kafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Macrobiotic, Organic, Raw, Western\n                                    ",
+  "description": "Inside Bahay Kalipay Retreat Center which is situated in a fruit forest 15 minutes away from the city proper. Go as early as 7:30am for breakfast bowl of fruits with coconut milk with local honey (vegans beware) dashed with carob or chocolate powder, or have a green smoothie snack, or dine in after joining a yoga class.",
+  "priceRange": "Moderate",
+  "streetAddress": "38E Hagedorn Rd Extension, San Pedro",
+  "postalCode": "5300",
+  "phone": "tel:09081391139",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/people/Bahay-Kalipay/100000581874843",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.967216,118.785510&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.967216,118.785510&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

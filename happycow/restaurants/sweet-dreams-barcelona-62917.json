@@ -1,0 +1,16 @@
+{
+  "title": "Sweet Dreams",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery offers gluten-free bagels and cakes. Usually 1 vegan cake option. Has non-dairy milk for coffee. ",
+  "streetAddress": "Carrer Regomir 4 bis",
+  "postalCode": "08002",
+  "phone": "tel:671430107",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/bcnsweetdreams",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.381506,2.178978&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.381506,2.178978&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

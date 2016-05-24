@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Baan Suan Pak",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Retail and wholesale food store selling a variety of fresh organic and chemical-free fruits and vegetables, has black and white organic tahini, plus a small restaurant with four tables. Owner speaks English and can prepare dishes for vegetarians and vegans upon request. Fresh aloe vera and other juices are bottled in the store. Fresh wheatgrass juice offered. Moved here Aug 2015.",
+  "streetAddress": "49/7 Soi Muban Wang Sing Kham",
+  "phone": "tel:053-233317",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:30am-5:30pm, Sun 9:30am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.809180,99.000840&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.809180,99.000840&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

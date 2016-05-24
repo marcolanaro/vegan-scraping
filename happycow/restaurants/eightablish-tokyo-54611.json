@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "8ablish Cafe - Eightablish",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Western, Bakery\n                                    ",
+  "description": "Vegan cafe est. Nov 2014 by the owners of Purecafe. Offers a variety of fresh baked goods like bread, muffins, and pies; plus prepared sandwiches and hand-poured coffee. Staff speaks English. Short walk from Gakugeidaigaku station.",
+  "streetAddress": "1-7-11 1F Takaban, Meguro",
+  "postalCode": "1520004",
+  "phone": "tel:+81367533316",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.626298,139.688600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.626298,139.688600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

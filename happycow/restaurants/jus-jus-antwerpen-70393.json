@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jus Jus",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Juice bar, Take-out\n                                    ",
+  "description": "Juice shop offering cold pressed juices and also light vegan food and snacks and soup(s).",
+  "priceRange": "Moderate",
+  "streetAddress": "Verschansingstraat 46",
+  "postalCode": "2000",
+  "phone": "tel:468192260",
+  "venueHours": "\n                                                                                                        Mon-Tue 8:30am-6:00pm, Wed 8:30am-12:00pm, Thu-Fri 8:30am-6:00pm, Sun 8:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/JusJusBE",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.208288,4.390106&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.208288,4.390106&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Honest Treat ",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Raw vegan cake vendor. Its cakes are sold at the La Juiceria shop in KL.",
+  "streetAddress": "Sri Hartamas",
+  "postalCode": "50480",
+  "phone": "tel:183681288",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/thehonesttreat",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.157545,101.650636&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.157545,101.650636&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

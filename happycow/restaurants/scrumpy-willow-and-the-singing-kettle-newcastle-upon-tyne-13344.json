@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Scrumpy Willow and the Singing Kettle",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Organic, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Locally sourced and fair trade food in a relaxed atmosphere, art work on the walls. Has vegetarian and vegan dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "69, Clayton Street",
+  "phone": "tel:0191-2212323",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 10:00am-6:00pm, Thu-Sat 10:00am-10:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/scrumpywillow",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.971800,-1.616920&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.971800,-1.616920&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

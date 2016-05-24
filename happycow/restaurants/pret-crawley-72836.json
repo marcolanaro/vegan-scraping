@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pret",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Mediterranean, Juice bar, Take-out, Bakery, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. International chain of coffee and food cafes. Offers extensive veggie items including breakfast bowls (such as acai bowl), vegetable soups, wraps, and salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "26 The Marletts",
+  "postalCode": "RH10 1ES",
+  "phone": "tel:01293228929",
+  "venueHours": "\n                                                                                                        Mon-Wed 7:30am-6:00pm, Thu 7:30am-7:00pm, Fri 7:30am-6:00pm, Sat 8:00am-7:00pm, Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.114860,-0.186809&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.114860,-0.186809&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

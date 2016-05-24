@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Siao Su Hung",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese\n                                    ",
+  "description": "Shanghai style Chinese vegetarian cuisine. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "2, 1F, Ln 105, Sec. 3, Beixin Rd, Xindian District",
+  "postalCode": "231",
+  "phone": "tel:02-29100549",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/小蔬杭-上海風蔬食飲茶/166223203543507",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.982591,121.540986&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.982591,121.540986&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

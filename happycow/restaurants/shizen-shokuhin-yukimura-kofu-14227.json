@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shizen Shokuhin Yukimura",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large market selling a wide range of food products. Directions: Located on route 52 across from the Art Gallery and next to the vegan-friendly Suriya Indian Restaurant. Address in Japanese: 山梨県甲府市貢川1-3-18.",
+  "streetAddress": "貢川 1-3-18",
+  "phone": "tel:055-222-1872",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.661440,138.540210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.661440,138.540210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

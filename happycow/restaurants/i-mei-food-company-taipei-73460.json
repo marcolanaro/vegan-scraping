@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "I-Mei Food Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Taiwanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. One of the only eateries at Taipei Taoyuan International Airport (TPE) that has vegan choices, although somewhat limited. Has an English menu and some staff members can speak English. Located in the departure area on the 4th floor of Terminal 2.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Taoyuan Airport",
+  "phone": "tel:03-2754586",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.074716,121.230670&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.074716,121.230670&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yaal Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, Beer/Wine, Delivery, Take-out, South Indian, Sri Lankan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Stylish place that is fully licenced. Has many vegan dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "404 Barking Road, Barking",
+  "postalCode": "E6 2SA",
+  "phone": "tel:02084716744",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.533703,0.061105&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.533703,0.061105&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

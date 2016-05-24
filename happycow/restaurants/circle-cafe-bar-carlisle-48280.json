@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Circle Cafe Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Housed in the historic Old Courts area in city center, menu has many vegetarian choices (marked on menu) and several dishes can also be adapted to be vegan. When possible sources locally. Welcoming atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "5-10 Lowther Arcade",
+  "postalCode": "CA3 8LX",
+  "phone": "tel:01228-599939",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CircleCarlisle",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.892634,-2.933727&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.892634,-2.933727&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

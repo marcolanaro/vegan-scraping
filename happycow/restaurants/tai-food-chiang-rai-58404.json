@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tai Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai, Take-out\n                                    ",
+  "description": "Small place making to-order vegan dishes as well ones with egg. The owner speaks limited English. Situated 100m past the Tessaban 3 School. Options include mock meats, rice, rice noodles, soups, and vegetables.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "123/11 Baan Sansalee, Srisaimoon",
+  "phone": "tel:0855496553",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.892403,99.839242&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.892403,99.839242&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

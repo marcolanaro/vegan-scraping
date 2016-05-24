@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ci Xuan Enterprise ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Catering\n                                    ",
+  "description": "慈轩素食馆 serves bak kut teh, fried rice, laksa, wanton noodle.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "65G, Jalan Rahmat 1, Taman Malim Jaya",
+  "postalCode": "75250",
+  "phone": "tel:014-3218230",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:30am-2:00pm, Sun 6:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.239087,102.232139&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.239087,102.232139&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

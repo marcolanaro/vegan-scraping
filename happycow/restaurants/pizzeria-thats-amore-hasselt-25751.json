@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pizzeria That's Amore",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Around one-half of the menu consists of lacto-vegetarian pizzas.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lombaardstraat 14/2",
+  "postalCode": "3500",
+  "phone": "tel:+3211762941",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-10:00pm, Thu 11:00am-10:00pm, Fri-Sat 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pizzeriathatsamore",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.930733,5.336670&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.930733,5.336670&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

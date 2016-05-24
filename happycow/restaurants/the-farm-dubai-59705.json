@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Farm",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Western, Juice bar, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. In the heart of Al Barari, surrounded by landscaped lakes, waterways, and botanical gardens, this restaurant offers several vegetarian choices. Vegans consider calling ahead to ask for customization. Breakfast served til 11:30am includes a gluten-free bread and pancakes, tofu scramble; lunch til 3:30pm and dinner from 6pm is salads, panini, soups, pasta, Thai dishes. There is also afternoon tea with sandwiches.",
+  "priceRange": "Expensive",
+  "streetAddress": "Al Barari Villas, Emirates Rd",
+  "phone": "tel:043925660",
+  "venueHours": "\n                                                                                                        Mon 9:00am-9:00pm, Tue-Sun 7:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/farmdubai",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.062877,55.281025&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.062877,55.281025&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

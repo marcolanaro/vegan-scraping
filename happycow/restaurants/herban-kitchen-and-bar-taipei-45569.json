@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Herban Kitchen and Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Beer/Wine, Fusion\n                                    ",
+  "description": "Opened Feb 2014, this place offers vegetarian food along with drinks like single malt scotch whiskey, specialty beer, wine, and coffee. The entrance is a bit back from the street - look for the sign.",
+  "priceRange": "Moderate",
+  "streetAddress": "27, Sec. 4, Lane 101, Zhongxiao East Rd",
+  "postalCode": "106",
+  "phone": "tel:02-87737033",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-11:00pm, Sat-Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/herban.taipei",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.042858,121.548290&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.042858,121.548290&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

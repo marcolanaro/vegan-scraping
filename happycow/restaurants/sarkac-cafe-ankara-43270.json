@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sarkac Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Middle Eastern, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Calm atmosphere and music with free Wi-Fi. Organizes free film screenings and meetings. Offers plenty of vegan suitable choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bayindir 2 Sokak 62/B Kizilay",
+  "phone": "tel:+90-3124174100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SarkacCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.917962,32.859171&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.917962,32.859171&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

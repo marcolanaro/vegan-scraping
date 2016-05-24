@@ -1,0 +1,15 @@
+{
+  "title": "Aquarius",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Beer/Wine\n                                    ",
+  "description": "Small veggie restaurant. Food is mostly lacto-vegetarian with dairy, and limited to no vegan options. Has organic beer and wine.",
+  "priceRange": "Moderate",
+  "streetAddress": "40 Rue de Gergovie",
+  "postalCode": "75014",
+  "phone": "tel:0145413688",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-2:00pm, 7:00pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.833520,2.315630&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.833520,2.315630&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

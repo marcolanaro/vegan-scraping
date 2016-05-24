@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "L.C. Vegetarian Food and Organic",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Organic, Take-out\n                                    ",
+  "description": "Vegetarian Chinese food eatery. Uses organic produce.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "652 A, Jln Delima 5, Taman Bukit Melaka, Bukit Beruang",
+  "postalCode": "75450",
+  "phone": "tel:06-2320563/,%20016-6122663",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.245351,102.274907&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.245351,102.274907&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "LOVR",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Love Organic Vegan Raw catering service. Check its webpage for ordering and event dates.",
+  "streetAddress": "London",
+  "postalCode": "E5 0LS",
+  "phone": "tel:n/a",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.538460,0.018274&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.538460,0.018274&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

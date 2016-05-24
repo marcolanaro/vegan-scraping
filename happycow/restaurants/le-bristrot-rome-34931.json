@@ -1,0 +1,14 @@
+{
+  "title": "Le Bistrot",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian\n                                    ",
+  "description": "Vegetarian Italian restaurants. Vegan dishes are clearly signed on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "via delle Sette Chiese, 160",
+  "phone": "tel:06-5128991/,%20338-2686540",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:30pm-11:00pm, Mon-Fri 12:30pm-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.860051,12.494798&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.860051,12.494798&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

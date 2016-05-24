@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Evah Dining Macrobiotic - JR Hakata station",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Fast food, Take-out only\n                                    ",
+  "description": "Vegan lunch stand inside of JR Hakata station since fall-2015 after closing its sit-down cafe at 1 Chome-10-14 Daimyo, Chuo-ku.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "JR Hakata station 1-1 Chuogai, Chuoku, Hakatashi",
+  "postalCode": "812-0012",
+  "phone": "tel:092-4832262",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.590241,130.421222&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.590241,130.421222&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

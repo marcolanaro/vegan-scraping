@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Saravana Bhavan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out\n                                    ",
+  "description": "Part of an international franchise specializing in South Indian vegetarian food. Extensive menu with snacks like dosa, idli, upma. No egg used.",
+  "priceRange": "Moderate",
+  "streetAddress": "7, Jalan Sultan 52/2",
+  "postalCode": "46200",
+  "phone": "tel:+603-79541755",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:30am-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.100052,101.643754&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.100052,101.643754&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

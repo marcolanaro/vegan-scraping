@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hwa Jin Vegetarian Family Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Take-out\n                                    ",
+  "description": "華津素食 is located at 200m away from Bukit Gombak MRT train station. Serves economic rice and Chinese tze char (a la carte) dishes including toufu seaweed soup, lemon chicken, mee goreng, hor fun, and mee siam. For lunch these are the daily specials.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 359 Bukit Batok St 31, #01-393",
+  "postalCode": "650359",
+  "phone": "tel:96964921",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.361341,103.751200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.361341,103.751200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

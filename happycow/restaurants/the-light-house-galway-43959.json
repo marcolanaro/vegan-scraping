@@ -1,0 +1,18 @@
+{
+  "title": "The Light House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Bakery, Irish\n                                    ",
+  "description": "Small tea room serving tea and coffee, fresh baked goods, and a small menu of vegetarian lunches (from 12pm).",
+  "priceRange": "Moderate",
+  "streetAddress": "8 Abbeygate Street Upper",
+  "phone": "tel:0879213003",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-6:00pm, Sun 12:30pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/The.Light.House.Tea.Room",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.273395,-9.052384&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.273395,-9.052384&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

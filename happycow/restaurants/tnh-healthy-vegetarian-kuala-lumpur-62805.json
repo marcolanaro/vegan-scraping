@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "TNH Healthy Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "心灵之素 vegetarian food with menu offering vermicelli soup, pan mee soup, lor mee, veg chicken rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "73 Ground Floor, Jln Seri Utara 1, Sri Utara",
+  "postalCode": "68100",
+  "phone": "tel:62412910",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-10:00pm, Thu-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.226790,101.670740&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.226790,101.670740&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

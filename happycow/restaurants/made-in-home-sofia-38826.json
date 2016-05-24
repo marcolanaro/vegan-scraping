@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Made In Home",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fantastic artsy atmosphere with beautiful and delicious dishes. Fresh made pasta dishes, and raw salads available. Many vegetarian selections to choose from and a couple vegan dishes as well. Very cool and eclectic surroundings with a nice terrace as well.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Angel Kanchev 30A",
+  "phone": "tel:+359876884014",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/MADE-IN-HOME/351358010611",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.689720,23.321724&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.689720,23.321724&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

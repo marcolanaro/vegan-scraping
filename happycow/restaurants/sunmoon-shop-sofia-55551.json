@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sunmoon Shop - InkeTinke",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health store offering natural, organic, and health foods. Find beans, lentils, quinoa, rice, buckwheat, couscous, nuts, seeds and wheat, rye; organic fruits and vegetables from local farms; cosmetics; books; and fresh baked breads.",
+  "streetAddress": "Yuri Venelin St. 1",
+  "postalCode": "1000",
+  "phone": "tel:+359-899923378",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/slunceluna",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.690423,23.329249&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.690423,23.329249&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

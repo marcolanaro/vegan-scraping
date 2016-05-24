@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cosy Vege",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Indian, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "Serves vegetarian Indian and Chinese cuisine with many vegan options. Dishes include South Indian thali, North Indian thali, many North Indian specialties from the tandoori oven and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "272 Stanley Road",
+  "postalCode": "0094",
+  "phone": "tel:0094212227100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Cosy-Hotel-Restaurant/152925968180129",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.668162,80.017082&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.668162,80.017082&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

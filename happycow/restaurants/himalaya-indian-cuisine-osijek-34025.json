@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Himalaya Indian Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Vegetarian Indian cuisine restaurant. Serves samosas, pakoras, koftas and more. Vegans can eat all salty preparations and frashly made juices. English spoken and on menu. Indian atmosphere and near natural garden.",
+  "priceRange": "Moderate",
+  "streetAddress": "I Tijardovica 1a, Donji Grad",
+  "postalCode": "31000",
+  "phone": "tel:00385919716438",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Himalaya-indijska-zdrava-hrana/208861265805100",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.554962,18.695514&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.554962,18.695514&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

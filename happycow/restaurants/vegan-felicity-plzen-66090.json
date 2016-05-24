@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Felicity",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "A 100% vegan concept store consists of a health food shop, gift shop and clothing store. Carries food, cosmetics, food supplements, home accessories, bijouterie, books and more. Has a notice board with information about veganism, animals that need help or are looking for a new home.",
+  "streetAddress": "Havlickova 699/10",
+  "postalCode": "30100",
+  "phone": "tel:+420725838480",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/veganfelicity",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.742565,13.372983&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.742565,13.372983&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

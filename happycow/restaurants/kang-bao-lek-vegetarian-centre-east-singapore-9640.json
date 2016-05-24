@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kang Bao Lek Vegetarian Centre",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "康宝乐 sells organic food and vegetables, wheat grass, alfalfa, fresh, fruit, drinks, and more.",
+  "streetAddress": "Blk 406 #01-25, Tampines St 41",
+  "postalCode": "520406",
+  "phone": "tel:67879311",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.357800,103.945659&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.357800,103.945659&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

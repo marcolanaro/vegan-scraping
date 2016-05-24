@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eat a Pitta - St Nicholas Market",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Middle Eastern, Take-out only\n                                    ",
+  "description": "Falafel vendor in St Nick's Market. Note the tahini sauce contains dairy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "58 Corn St",
+  "postalCode": "BS1 1JG",
+  "phone": "tel:+44-1179224014",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-4:00pm, Sat 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/eata.pitta",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.453812,-2.594776&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.453812,-2.594776&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

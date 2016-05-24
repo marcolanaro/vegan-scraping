@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "TIAN Bistro am Spittelberg",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, European, Fusion, Vegetarian\n                                    ",
+  "description": "Opened 2015, its 2nd location serving vegetarian and vegan cuisine. Casual urban atmosphere. Highlights are the two sidewalk cafes and the roofed conservatory of the bistro.",
+  "priceRange": "Moderate",
+  "streetAddress": "Schrankgasse 4",
+  "postalCode": "1070 Vienna",
+  "phone": "tel:15269491",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-11:00pm, Fri-Sat 9:00am-1:00am, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tianbistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.203014,16.354782&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.203014,16.354782&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fu Tien Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Japanese\n                                    ",
+  "description": "Vegetarian Chinese food. Vegetarian sushi, vege tuna sushi and futomaki also available.  Confirmed open June 2012.",
+  "priceRange": "Moderate",
+  "streetAddress": "34, Jalan Medan 18, Medan Ipoh Bistari",
+  "postalCode": "31400",
+  "phone": "tel:6055499098",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.645000,101.997070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.645000,101.997070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

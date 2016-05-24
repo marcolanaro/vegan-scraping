@@ -1,0 +1,13 @@
+{
+  "title": "Vita Plaza",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Salo's only health food store. Carries an abundance of vegan products.",
+  "streetAddress": "Vilhonkatu 8",
+  "postalCode": "24100",
+  "phone": "tel:+3582731%205242",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-8:00pm, Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=60.386362,23.124375&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C60.386362,23.124375&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

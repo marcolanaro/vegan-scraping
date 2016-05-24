@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Boston Tea Party",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Coffee/Tea, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves teas, fair trade coffees, sandwiches; soymilk available for coffee drinks. Non-smoking. Indoor and al fresco seating.",
+  "priceRange": "Moderate",
+  "streetAddress": "19 Kingsmead Square",
+  "postalCode": "BA1 2AE",
+  "phone": "tel:01225-313901",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-7:30pm, Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BTPCafes",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.381420,-2.363290&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.381420,-2.363290&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

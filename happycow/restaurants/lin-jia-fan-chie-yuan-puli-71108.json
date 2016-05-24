@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lin Jia Fan Chie Yuan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Chinese, Western, Fusion, Taiwanese\n                                    ",
+  "description": "林家蕃茄園 serves hot pots, steam boat, set meals, pizza, spaghetti, and rice.",
+  "priceRange": "Moderate",
+  "streetAddress": "950 Nanhuan Rd",
+  "phone": "tel:04-92915101",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.966714,120.948704&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.966714,120.948704&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

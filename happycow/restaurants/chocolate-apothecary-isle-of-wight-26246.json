@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chocolate Apothecary",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A coffee shop that also sells chocolate. For vegans, try the soy latte and the Florentines.",
+  "streetAddress": "4 Esplanade, Ryde",
+  "postalCode": "PO33 2DY",
+  "phone": "tel:01983-718292",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.732713,-1.160641&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.732713,-1.160641&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan House",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Take-out\n                                    ",
+  "description": "Food is cook to order. To get there walk from the post office (cross Pracha Niyomrd - Benchamarachuthis Rd) into the Benchamarachuthis Rd towards the bridge, after 100m is a big Chinese temple, take first road left towards the river (Khwang Rd, no sign), at about halfway on the right is the restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Khwang Rd 17",
+  "phone": "tel:123456789",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.609780,102.114385&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.609780,102.114385&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

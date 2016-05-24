@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thatch",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Several veg options, and one of the meals on the menu is always vegan. Just let the kitchen know that you are vegan, and they can make something up for you which might not be on the menu. Not much else in this area as of July 2011.",
+  "priceRange": "Moderate",
+  "streetAddress": "The Thatch, Croyde",
+  "postalCode": "EX33 1LZ",
+  "phone": "tel:01271890349",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.130779,-4.224184&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.130779,-4.224184&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

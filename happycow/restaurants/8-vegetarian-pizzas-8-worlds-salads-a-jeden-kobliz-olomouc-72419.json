@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": " 8 vegetarian pizzas 8 world's salads a jeden kobliz",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Take-out only\n                                    ",
+  "description": "Est. 2016 a vegetarian pizza and salad shop that also offers vegan cheese. Order from the window/counter.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ztracena 38",
+  "phone": "tel:775064751",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/VeggiePizzas",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.595238,17.254378&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.595238,17.254378&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

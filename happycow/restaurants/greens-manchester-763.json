@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Greens",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, British, English\n                                    ",
+  "description": "Mostly ovo-lacto vegetarian cuisine - vegans need to ask. Crowded space. Reservations recommended.",
+  "priceRange": "Expensive",
+  "streetAddress": "43 Lapwing Lane, West Didsbury",
+  "postalCode": "M20 2NT",
+  "phone": "tel:0161-434-4259",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 12:00pm-2:30pm, 5:30pm-10:30pm, Sun 12:30pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/greens-restaurant/272457634070",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.427090,-2.239430&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.427090,-2.239430&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

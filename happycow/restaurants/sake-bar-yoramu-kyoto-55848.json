@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sake Bar Yoramu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Japanese, Beer/Wine\n                                    ",
+  "description": "A bar for drinking sake and not a place to eat a full meal. The Israeli owner, Yoram, is knowledgeable about sake and has been serving it out of this tiny bar (seats up to 9) for many years. In addition to the sake, Yoram serves very small plates. He is a vegetarian so you'll see cheese on the menu, but the vegan dishes include Japanese staples like shishito peppers, tofu, and lotus root.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nijo-dori",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 6:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.013628,135.761666&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.013628,135.761666&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

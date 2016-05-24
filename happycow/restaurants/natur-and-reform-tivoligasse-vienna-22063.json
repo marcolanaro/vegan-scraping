@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natur and Reform - Tivoligasse",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natur & Reform is a chain store. Has organic produce & grocery.",
+  "streetAddress": "Tivoligasse 2",
+  "postalCode": "1120",
+  "phone": "tel:+43-01-8152749",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-6:30pm, Sat 8:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.180282,16.329465&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.180282,16.329465&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

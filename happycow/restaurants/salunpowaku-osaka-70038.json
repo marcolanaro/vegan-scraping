@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Salunpowaku",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic\n                                    ",
+  "description": "An all-vegan cafe located around the corner from the Minoh station, close to Minoh Park. All food is custom-made and prepared using local organic produce when possible. Serves at least three main options for lunch and various desserts and drinks. Closed on Wednesdays in order to change the exhibitions in the upstairs gallery (Mikali Gallery that can be visited while waiting for your order). Next door is a big shop full of interesting organic merchandise such as linen clothing. One parking space is available. May not accept card payments.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Osaka-fu, Mino-shi, Mino 6-2-18, Minoh",
+  "postalCode": "562-0001",
+  "phone": "tel:+81-727648200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:00am-6:00pm, Thu-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/salunpowaku",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.834354,135.469088&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.834354,135.469088&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

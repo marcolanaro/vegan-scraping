@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jina Kava",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Juice bar, Beer/Wine, Czech\n                                    ",
+  "description": "Vegetarian restaurant serves daily menu of soup, main dish, salad. Has vegan options. Also offering sandwiches, paninis, sweets, coffee, cocktails, beer/wine and soft drinks. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "U Kasaren 192",
+  "postalCode": "26601",
+  "phone": "tel:+420311612428",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-2:00pm, Tue-Fri 11:00am-10:00pm, Sat 3:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.967109,14.070547&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.967109,14.070547&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

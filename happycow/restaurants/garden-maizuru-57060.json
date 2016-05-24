@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Garden",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe and hair salon located near JR Nishi-Maizuru station, at 京都府舞鶴市円満寺132. Offers wood-fired pizza, salad, spaghetti, coffee. Owner can make something vegan upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "132 Enmanji, Maizurushi",
+  "postalCode": "624-0854",
+  "phone": "tel:0773-761072",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.442842,135.328745&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.442842,135.328745&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

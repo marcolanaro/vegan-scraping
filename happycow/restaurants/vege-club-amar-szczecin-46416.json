@@ -1,0 +1,18 @@
+{
+  "title": "Vege Club Amar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Polish\n                                    ",
+  "description": "Vegan restaurant offers a daily soup and a second dish.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Pl Odrodzenia",
+  "postalCode": "70-465",
+  "phone": "tel:607-225-108",
+  "venueHours": "\n                                                                                                        Mon-Sun 1:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/vegeclubamar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.432722,14.543857&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.432722,14.543857&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

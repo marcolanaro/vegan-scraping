@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Au Lac - Dong Da",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Take-out, Vietnamese\n                                    ",
+  "description": "Inexpensive vegetarian restaurant in Hanoi. Van Chuong is actually a broad alley running between Ton Duc Thang to the west and Kham Thien to the south. Serves brown rice as a staple. Bare bones, no frills operation; not a place to linger over a meal but food is tasty enough. Staff speak some English.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "277 Ngo Van Chuong, Dong Da District",
+  "phone": "tel:04-3518%202497,%200902234188",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.022352,105.835381&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.022352,105.835381&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

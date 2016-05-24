@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Holland and Barrett",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "UK health food chain. Offers a wide variety of food products as well vitamins and supplements. Has soy products.",
+  "streetAddress": "90, East Mall, Stratford Centre, London",
+  "postalCode": "E15 1XQ",
+  "phone": "tel:020-85360467",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.541810,0.000620&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.541810,0.000620&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

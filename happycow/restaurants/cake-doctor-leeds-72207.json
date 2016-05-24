@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cake Doctor",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Catering and a mobile van. Offers raw cheesecake, vegan treats, tea and coffee.",
+  "streetAddress": "Leeds area",
+  "postalCode": "LS1 5AT",
+  "phone": "tel:07792012648",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cakedoctoruk",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.818756,-1.524717&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.818756,-1.524717&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

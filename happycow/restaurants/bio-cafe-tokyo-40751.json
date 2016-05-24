@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bio Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Organic, Bakery, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. French bakery with a cafe in the back that offers mostly organic food with a number of vegetarian and vegan choices. Lunch menu served until 3pm, cafe menu until 6pm, dinner menu until closing. Organic coffee and tea, fresh juices. Relaxed atmosphere, has English menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Udagawacho 16-14, Patio 1F, Shibuya",
+  "phone": "tel:03-5428-3322",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.661405,139.698928&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.661405,139.698928&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

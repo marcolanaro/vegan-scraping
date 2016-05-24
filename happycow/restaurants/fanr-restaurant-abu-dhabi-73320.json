@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fanr Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, Mediterranean, Delivery, Take-out, European, Fusion, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegans can order from a separate vegan menu; please ask for it.",
+  "priceRange": "Moderate",
+  "streetAddress": "Manarat Al Saadiyat Art Exhibition Center, Saadiyat Island",
+  "phone": "tel:+971-26575888",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/fanrrestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.534509,54.418679&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.534509,54.418679&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

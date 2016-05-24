@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Country Life Mattersdorferhof",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Health and lifestyle education center nestled in a quiet forest clearing in the heart of Carinthia. Has a mini vegan shop on the premises.",
+  "streetAddress": "Mattersdorf 10",
+  "postalCode": "9872",
+  "phone": "tel:+43-427723370",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.712733,14.154862&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.712733,14.154862&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

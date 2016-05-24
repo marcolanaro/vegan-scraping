@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Food For Friends",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Beer/Wine, Catering, English\n                                    ",
+  "description": "Established in 1981, this vegetarian restaurant uses organic ingredients whenever possible and offers both lacto-vegetarian (dairy) as well as some vegan options. Non-smoking.",
+  "priceRange": "Moderate",
+  "streetAddress": "17 Prince Albert St, The Lanes, Brighton",
+  "phone": "tel:01273-202310",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Food-for-Friends/156950382748",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.821430,-0.141130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.821430,-0.141130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

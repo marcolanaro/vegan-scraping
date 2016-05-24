@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sasaya Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Organic, Asian\n                                    ",
+  "description": "Pleasant atmosphere cafe and shop inside the Yokokawa Park. Serves vegan food; the only non-vegan item is honey. Menu has tempeh cutlets in curry, sandwich, or with brown rice. Uses organic vegetables. Order and pay first. Located a 15-minute walk from JR Sobu line Kinshicho station north exit, or Hanzomon line Oshiage station B2 exit, or Toei Asakusa line Honjo Azumabashi station A2 exit.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Yokokawa 1-1-10, Sumida-ku",
+  "postalCode": "130-0003",
+  "phone": "tel:0336236341",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 8:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.703709,139.808458&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.703709,139.808458&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

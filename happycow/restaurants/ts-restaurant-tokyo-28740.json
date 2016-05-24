@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "T's Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Japanese, Western, Fusion\n                                    ",
+  "description": "Located in the trendy Jiyugaoka district, this vegan restaurant serves a fusion of Japanese & western vegan cuisines, from its signature ramen dishes to pizza and risotto. Menu shows photos of the dishes. Also sells a range of vegan products. Apr 2016 updated menu no longer using honey.",
+  "priceRange": "Moderate",
+  "streetAddress": "LUZ Jiyugaoka Building 1F, Tokyo, Meguro-ku, Jiyugaoka",
+  "postalCode": "152-0035",
+  "phone": "tel:03-37170831",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tsrestaurant25",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.608316,139.668125&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.608316,139.668125&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

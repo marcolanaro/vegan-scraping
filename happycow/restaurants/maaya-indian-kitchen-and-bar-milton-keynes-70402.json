@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Maaya Indian Kitchen and Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Modern Indian restaurant and bar in the Milton Keynes \"Hub.\" Menu has a vegetarian section with a few vegan items (not labeled so ask). No vegan dessert.",
+  "priceRange": "Moderate",
+  "streetAddress": "The Hub, 2 Rillaton Walk",
+  "postalCode": "MK9 2FZ",
+  "phone": "tel:1908242665",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-11:00pm, Fri-Sat 12:00pm-1:00am, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/MaayaMiltonKeynes",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.037416,-0.762396&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.037416,-0.762396&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

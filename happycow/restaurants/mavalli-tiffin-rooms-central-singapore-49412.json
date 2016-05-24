@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MTR 1924",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian\n                                    ",
+  "description": "Also known as Mavalli Tiffin Rooms, with locations in Bangalore, Singapore and Dubai. Small vegetarian restaurant serving breakfast idli, dosa, uppittu and kesari baath, and coffee. Sits opposite Sri Srinivasa Perumal temple.",
+  "priceRange": "Moderate",
+  "streetAddress": "438 Serangoon Road",
+  "postalCode": "218133",
+  "phone": "tel:62965800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 8:30am-3:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.313007,103.856381&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.313007,103.856381&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

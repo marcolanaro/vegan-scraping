@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a few veggie and raw food options, smoothies, juices, Wi-Fi access. Casual relaxing atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl. Hanuman 44b",
+  "phone": "tel:0361-970992",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.513297,115.264170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.513297,115.264170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Green Note",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Beer/Wine, English\n                                    ",
+  "description": "Cafe bar offering vegetarian food in a relaxed atmosphere. Also offers organic lager and cocktails and live music some nights. Reservations may be required.",
+  "priceRange": "Moderate",
+  "streetAddress": "106 Parkway, Camden Town, London, UK",
+  "postalCode": "NW1 7AN",
+  "phone": "tel:020-74859899",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 7:00pm-11:00pm, Fri-Sat 7:00pm-12:00am, Sun 1:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.537213,-0.145877&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.537213,-0.145877&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

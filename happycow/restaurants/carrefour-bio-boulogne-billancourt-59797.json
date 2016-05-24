@@ -1,0 +1,14 @@
+{
+  "title": "Carrefour Bio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A branch of Carrefour supermarkets. Specializing in organic produce, including fresh vegetables and some vegan foods.",
+  "streetAddress": "46 rue des Peupliers",
+  "postalCode": "92100",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-9:00pm, Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/carrefour.bio",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.834673,2.254568&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.834673,2.254568&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

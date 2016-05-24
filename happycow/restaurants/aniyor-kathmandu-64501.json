@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aniyor Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International, Buffet, Take-out, Catering, Nepalese, Indo-Chinese\n                                    ",
+  "description": "Vegetarian restaurant in Kathmandu at Durbar Marga since Aug 2015. Serves Nepali, Indian, and Continental dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Durbarmarg",
+  "phone": "tel:+977-9818887658",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/aniyorvegresturant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.713304,85.318679&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.713304,85.318679&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Irohado",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Fast food, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Take away counter in the Midori department store (the sub-store called Oraho, 2F), part of the shopping malls in Nagano central train station. Sells oyaki, Nagano's specialty dumplings made of buckwheat and filled with many types of vegetables. Many are vegan suitable.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Nagano train station ",
+  "phone": "tel:0262562033",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.648550,138.194243&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.648550,138.194243&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

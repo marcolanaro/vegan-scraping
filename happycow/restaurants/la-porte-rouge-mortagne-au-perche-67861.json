@@ -1,0 +1,19 @@
+{
+  "title": "La Porte Rouge",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Fusion\n                                    ",
+  "description": "A vegetarian restaurant located in owners' home which is also a B & B. Vegans please inquire.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3 Rue du Mail",
+  "postalCode": "61400",
+  "phone": "tel:0033233253995",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.522651,0.549462&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.522651,0.549462&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

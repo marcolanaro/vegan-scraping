@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hong Sun - Raum Boon",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Take-out\n                                    ",
+  "description": "Vegan restaurant serving Thai cuisine til 5pm. No added MSG and uses oil sparingly. Name became Hong Sun in 2014. Located 3km south of Phuket town, just passed the \"Park Tesco Lotus.\"",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Chao Fah Tawan Tok, Chalong",
+  "postalCode": "83000",
+  "phone": "tel:+66819360955",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.844844,98.334275&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.844844,98.334275&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

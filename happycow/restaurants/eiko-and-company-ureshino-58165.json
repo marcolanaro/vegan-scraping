@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eiko and Company",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Japanese, Organic, Take-out\n                                    ",
+  "description": "Eiko & Company is a little coffee shop on the main street in Ureshino, across the street from the Champion Pachinko Parlor. Serve coffee and makes vegan sweets like brownies, cookies, and muffins. Offers a vegan lunch plate.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2320-11 Yunota Oaza Shimojuku",
+  "postalCode": "843-0301",
+  "phone": "tel:080-83757563",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/eikoandcompany",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.094474,129.979240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.094474,129.979240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

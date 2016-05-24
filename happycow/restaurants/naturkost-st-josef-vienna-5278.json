@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Naturkost St. Josef",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo\n                                    ",
+  "description": "Self service restaurant connected to a natural food store. Daily special includes one vegan option. Family friendly and pet friendly environment.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mondscheingasse 10",
+  "postalCode": "1070 Wien",
+  "phone": "tel:+43-01-5266818",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-7:00pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.201308,16.350793&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.201308,16.350793&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

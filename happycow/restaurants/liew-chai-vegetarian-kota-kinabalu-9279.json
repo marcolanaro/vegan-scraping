@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Liew Chai Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo\n                                    ",
+  "description": "Located in a food court. Note that some meals contain eggs.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Centre Point, Centre Point, Lot S24 Basement, Sabah",
+  "postalCode": "88000",
+  "phone": "tel:012-8337768/,%20%20012-8037768",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.978382,116.071916&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.978382,116.071916&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

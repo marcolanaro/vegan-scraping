@@ -1,0 +1,15 @@
+{
+  "title": "Chocolate Company",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Only the dark chocolate is vegan. Serves hot chocolate in a special way: the chocolate you choose comes on a wooden spoon, then order your milk of choice, and put your spoon in it.",
+  "streetAddress": "Ursulinerstrasse 11",
+  "postalCode": "52062",
+  "phone": "tel:0049-24-14410933",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-8:00pm, Sun 11:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.774732,6.085873&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.774732,6.085873&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

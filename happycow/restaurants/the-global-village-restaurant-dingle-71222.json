@@ -1,0 +1,16 @@
+{
+  "title": "The Global Village Restaurant ",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, European, Irish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale dinner service. Meat-centered but has a few vegan items though not marked - ask your server.",
+  "priceRange": "Expensive",
+  "streetAddress": "Upper Main St",
+  "phone": "tel:0669152335",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.142250,-10.269256&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.142250,-10.269256&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

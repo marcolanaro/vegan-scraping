@@ -1,0 +1,12 @@
+{
+  "title": "Vega BIO",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Health food store stocking organic and all-vegetarian foods.",
+  "streetAddress": "Grosslingova 20",
+  "phone": "tel:+421-252967832",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat 7:00am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.144210,17.117127&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.144210,17.117127&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

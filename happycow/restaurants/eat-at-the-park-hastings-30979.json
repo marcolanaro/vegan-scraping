@@ -1,0 +1,19 @@
+{
+  "title": "Eat at The Park",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Western, Fast food, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe located within Alexandra Park. Has vegetarian and vegan choices including paninis with hummus, sandwiches, and salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Alexandra Park",
+  "postalCode": "TN34 1HA",
+  "phone": "tel:01424432434",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.864849,0.577441&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.864849,0.577441&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

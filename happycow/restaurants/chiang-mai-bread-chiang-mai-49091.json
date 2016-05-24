@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chiang Mai Bread",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Home-based natural and vegan bakery. Delivers locally or arrange for pick-up. Also makes hummus, peanut butter, salsa, and salads. Began service since 2013.",
+  "streetAddress": "495/6 Lamphun Road T. Wat Gate A.Muang, Charoenmueng",
+  "phone": "tel:0899549931",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cmbread",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.763974,99.007381&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.763974,99.007381&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

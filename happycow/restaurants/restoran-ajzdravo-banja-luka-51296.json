@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Restoran Aj'Zdravo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Juice bar, Take-out, Bosnian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options avialable. Health food restaurant close to the main square. Was originally all-veg but no longer as of Jan 2016, but keeps a few vegan dishes. Has salads and extensive range of juices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Vidovdanska Br 6",
+  "phone": "tel:7603603000",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Restoran-AjZdravo/635784839851098",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.774600,17.191352&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.774600,17.191352&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

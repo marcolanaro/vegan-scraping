@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Manastirska Magernitza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Bulgarian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This is one of the oldest traditional restaurants in Sofia with a very big traditional menu. As of Feb 2015, the restaurant is also offering a vegan and raw food menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "67 Khan Asparouh St.",
+  "postalCode": "1000",
+  "phone": "tel:02-980-38-83/,%200899-94-94-00",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Манастирска-Магерница-Manastirska-Magernitsa/173923146034553",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.689338,23.324581&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.689338,23.324581&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

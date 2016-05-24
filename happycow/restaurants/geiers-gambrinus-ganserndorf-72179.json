@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Geiers Gambrinus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Catering, European, German, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Uses regional and seasonal ingredients. Has a cafe area. There is a separate vegan menu with a soups, starters, main courses, and desserts - ask for it. At lunch during the week til 2:30pm one of the 2 meals is vegan and comes with soup.",
+  "priceRange": "Moderate",
+  "streetAddress": "Hans-Kudlichgasse 28",
+  "postalCode": "2230",
+  "phone": "tel:22828971",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-11:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Restaurant-Cafe-Geiers-Gambrinus-295478830570999",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.338904,16.718228&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.338904,16.718228&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

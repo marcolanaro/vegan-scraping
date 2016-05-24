@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yuan Xiang Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Buffet\n                                    ",
+  "description": "Part of a chain of vegetarian restaurants which offers many vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 27 Bendemeer Road, Unit 01-659",
+  "postalCode": "330027",
+  "phone": "tel:63443239/,%2090093957,%2098786705",
+  "venueHours": "\n                                                                                                        Mon-Sun 5:00am-10:30pm, 9:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.318858,103.862831&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.318858,103.862831&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

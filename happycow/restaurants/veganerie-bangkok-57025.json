@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veganerie Bakery - EmQuartier",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Second location of this vegan bakery, opened Mar 2015 inside EmQuartier District shopping center, on the G floor, one of the stands outside the supermarket. The counter offers a varied range of freshly baked vegan pastries and sweets.",
+  "streetAddress": "637 Sukhumvit Rd, EmQuartier District, M floor, Khlong Tan Nuea, Watthana",
+  "postalCode": "10110",
+  "phone": "tel:08-13902396",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/VeganBakeryBangkok",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.731021,100.569267&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.731021,100.569267&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

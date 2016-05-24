@@ -1,0 +1,18 @@
+{
+  "title": "Paprika",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Beer/Wine, Spanish\n                                    ",
+  "description": "This restaurant became vegetarian in Mar 2011 then all vegan Apr 2013. Offers some macrobiotic and raw food, made by an experienced chef. Supports organic and local products. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Cuesta de Abarqueros, 3",
+  "postalCode": "18010",
+  "phone": "tel:958804785",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 1:00pm-4:00pm, 8:00pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.182004,-3.599123&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.182004,-3.599123&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

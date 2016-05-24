@@ -1,0 +1,16 @@
+{
+  "title": "Le Pois Tout Vert Biocoop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic shop selling various local and organic produce.",
+  "streetAddress": "20 rue Bonneuil Matours",
+  "postalCode": "86000",
+  "phone": "tel:0549011896",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:30am-7:30pm, Sat 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.585993,0.366597&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.585993,0.366597&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

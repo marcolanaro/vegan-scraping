@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "MASK Ethnic Fun",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Beer/Wine, Turkish\n                                    ",
+  "description": "A gastropub/restaurant serving all-vegan food. Has live music; Fridays is jazz, Saturday, Sunday and Wednesday is world music.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Barbaros Mh Imaret Sk No 27, Oldtown, Kaleici",
+  "phone": "tel:+90-5073634823",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 3:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/maskethnicfun",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.886352,30.707406&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.886352,30.707406&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

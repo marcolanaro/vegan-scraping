@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Baan Jai Dee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Thai, Western\n                                    ",
+  "description": "Restaurant also offering accommodation. Sits just above the beach, on a quiet street. Small menu, vegan except for (optional) cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "69/3 Ao Nai Wok Beach Moo 4",
+  "postalCode": "84280",
+  "phone": "tel:+66-77377752",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/houseofgoodheart",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.714850,99.983338&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.714850,99.983338&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

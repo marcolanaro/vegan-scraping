@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Season Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Malaysian\n                                    ",
+  "description": " 四季苑素食之家 veggie place.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-G-21, Lengkok Nipah, Taman Lip Sin",
+  "postalCode": "11900",
+  "phone": "tel:010-5361283/,%20010-7928966",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:00am-2:00pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.342115,100.293810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.342115,100.293810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

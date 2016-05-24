@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Genesis",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, International, Organic, Take-out, Asian\n                                    ",
+  "description": "Vegetarian restaurant under different ownership from the Genesis that was at 1 Lorong Telok. Nearest mrt station - Farrer Park.",
+  "priceRange": "Moderate",
+  "streetAddress": "115 Owen Rd",
+  "postalCode": "049014",
+  "phone": "tel:64387118",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-9:00pm, Fri 9:30am-3:00pm, Sun 9:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/genesisvegan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.313780,103.852911&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.313780,103.852911&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

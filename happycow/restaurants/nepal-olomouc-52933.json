@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nepal",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Nepalese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. On the menu are curries and Himalayan food with several vegetarian choices. 2016 moved here out of the Crack Irish Pub Mlýnská 4.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dolní Náměstí 25/40",
+  "phone": "tel:585208428",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.592107,17.252081&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.592107,17.252081&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

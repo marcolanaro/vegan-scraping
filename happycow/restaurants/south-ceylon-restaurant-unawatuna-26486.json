@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "South Ceylon Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, International, Organic, Western, Juice bar\n                                    ",
+  "description": "Serving Sri Lankan and South Indian meals as well as international dishes. Bakes its own brown bread and cakes. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Yaddehimulla Road",
+  "phone": "tel:0779526824",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.016667,80.250000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.016667,80.250000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

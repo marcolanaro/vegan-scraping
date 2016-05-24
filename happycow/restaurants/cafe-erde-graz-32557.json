@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Erde",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Beer/Wine, European, Austrian\n                                    ",
+  "description": "Vegan cafe restaurant operating since Jun 2012. Cozy atmosphere with free Wi-Fi. The daytime menu changes everyday, and a la carte starts at 6pm, Mon-Fri. On Saturday the menu is also a la carte the whole day. Sunday, breakfast only.",
+  "priceRange": "Moderate",
+  "streetAddress": "Andreas-Hofer-Platz 3",
+  "postalCode": "8010",
+  "phone": "tel:+43-316820413",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-10:00pm, Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/CafeErde",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.069541,15.435847&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.069541,15.435847&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

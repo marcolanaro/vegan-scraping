@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Moody Baker",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Artisan bakery co-operative. Makes several vegetarian pasties. Call ahead to pre-order vegan ones.",
+  "streetAddress": "Front Street",
+  "postalCode": "CA9 3SF",
+  "phone": "tel:01434-382003",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.811619,-2.438239&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.811619,-2.438239&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

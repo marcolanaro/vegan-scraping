@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Xoho",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Juice bar, Beer/Wine, Take-out, Bakery, Israeli, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Vegetarian except for a couple fish meat item. Cafe offering breakfast and baked goods, burritos and salads, juices and coffee drinks. The breads and baked goods, spread, pesto, and jam are all made in-house. Vegan dishes are marked with a leaf and include items like chickpea & sprout toast, burrito, and tofu bahn-mi sandwich. Stocks soy and almond milk for coffee (w/extra charge). Healthy drinks menu include a green shake with coconut milk, tahini, mint, and kale.",
+  "priceRange": "Moderate",
+  "streetAddress": "17 Gordon Street",
+  "postalCode": "6343801",
+  "phone": "tel:+972722495497",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:30am-11:00pm, Fri 7:30am-4:00pm, Sun 7:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeXoho",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.082272,34.771234&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.082272,34.771234&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

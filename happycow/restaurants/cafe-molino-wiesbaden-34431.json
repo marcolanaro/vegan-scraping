@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Molino",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers many coffee varieties with soy milk, vegan cakes, soup, in-house-made lemonades and smoothies.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Schwalbacher Strasse 3",
+  "postalCode": "65185",
+  "phone": "tel:+49-0611-97173905",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-7:30pm, Sat 10:00am-7:30pm, Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.078060,8.237050&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.078060,8.237050&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

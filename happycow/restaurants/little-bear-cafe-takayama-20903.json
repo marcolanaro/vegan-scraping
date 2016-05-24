@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Little Bear Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western\n                                    ",
+  "description": "On same street near the Hida Folk Museum at 岐阜県高山市西之一色町3-829-4. The Teddy Bear Ecology Museum runs a vegetarian cafe in the building next door. Offers salad wraps, a raw porridge dish, pizza, has soy milk for coffee. 2014 reported no longer has pizza on menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "The Teddy Bear Ecology Museum",
+  "postalCode": "94112",
+  "phone": "tel:0577-372525",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.134914,137.239036&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.134914,137.239036&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

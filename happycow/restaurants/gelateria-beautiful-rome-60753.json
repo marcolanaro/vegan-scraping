@@ -1,0 +1,13 @@
+{
+  "title": "Gelateria Beautiful",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A gelato shop offering a large selection of flavors. Also gelato cakes, cassata siciliana, granita, and more. Many items are vegan, and those that aren't are clearly labeled.",
+  "streetAddress": "Via Tarquinio Prisco 50",
+  "postalCode": "00181",
+  "phone": "tel:+39-3275406912",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-10:30pm, Fri-Sat 12:00pm-11:00pm, Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.877221,12.523884&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.877221,12.523884&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

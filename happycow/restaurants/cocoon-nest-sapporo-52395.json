@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cocoon Nest",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic, Beer/Wine\n                                    ",
+  "description": "Vegan cafe and gallery, established 2014. Uses organic ingredients. Kitchen stops 8pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "2-1-2,Miyagaoka,chip-ku",
+  "postalCode": "064-0959",
+  "phone": "tel:011-6145588",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.057825,141.311369&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.057825,141.311369&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

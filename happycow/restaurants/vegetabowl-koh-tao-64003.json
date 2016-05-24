@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "VegetaBowl",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Take-out, Asian, Fusion\n                                    ",
+  "description": "Near Asia Divers, this is a western style restaurant serving healthy bowls, shakes, and soft drinks made in-house. Opened Sept 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "18/30 Nay Pon Rd, Sairee",
+  "postalCode": "84360",
+  "phone": "tel:66846977249",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/vegetabowl",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.099769,99.832081&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.099769,99.832081&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

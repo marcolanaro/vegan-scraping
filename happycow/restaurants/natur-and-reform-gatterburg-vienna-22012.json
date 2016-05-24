@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Natur and Reform - Gatterburg",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of a chain health food shop. Fresh organic bread, soy yogurt, mock meat, cosmetics and more.",
+  "streetAddress": "Gatterburggasse 25",
+  "postalCode": "1190 Wien",
+  "phone": "tel:+43-013187200",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-6:00pm, Sat 8:30am-12:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.239063,16.354350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.239063,16.354350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

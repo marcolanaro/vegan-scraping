@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Stall at Koufu Woodlands Mart",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "Chinese-style vegetarian stall in a neighborhood food court with vegan options. Opens before 8am. Serves a wide variety of food, including a vegetables such as okra, long bean, bittergourd, curry veg which are served with vermicelli, noodles and more. A la carte dishes like udon, hor fun and mee goreng are available later in the day.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 768 Woodlands Ave 6, No 01-30/31",
+  "postalCode": "730768",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.446081,103.798043&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.446081,103.798043&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

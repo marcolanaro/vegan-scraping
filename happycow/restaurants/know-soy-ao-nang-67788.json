@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Know Soy",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegetarian menu items, which could possibly be vegan or could be made vegan, plus all items on the menu can be made vegetarian. Try the plain rice with fried garlic on top or the the sticky rice with mango with fried peanuts. Very accommodating. Clean and trendy decor.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4201 Road Ao Nang, Moo 2, Highway No 4201 Road, Ao Nang, Krabi Town",
+  "postalCode": "81000",
+  "phone": "tel:+66-811524784",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/Khow-Soy-Restaurant/267881433378206",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.057491,98.838477&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.057491,98.838477&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bock Garden Meatless Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Take-out, Asian, Catering, Malaysian\n                                    ",
+  "description": "Chinese dishes and soup, salad, Japanese cuisine, western food, set meal. Previously located on Lorong Selamat, Georgetown; confirmed open June 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "24, Kedah Road",
+  "postalCode": "10050",
+  "phone": "tel:012-4822334/,%20012-4822634",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:30am-9:00pm, Sat-Sun 10:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.419417,100.329120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.419417,100.329120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

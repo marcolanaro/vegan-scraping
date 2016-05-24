@@ -1,0 +1,17 @@
+{
+  "title": "Sonny",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food, Take-out, Middle Eastern\n                                    ",
+  "description": "Falafel, humus, salads, fries. Uses a special liquid vegetable deep frying fat. Everything made fresh by Sonny, the owner and chef.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Eerste van der Helststraat 43",
+  "postalCode": "1073 AC",
+  "phone": "tel:020-6767612",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.355276,4.893218&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.355276,4.893218&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ro-rum Boon Ar-harn-jay",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Juice bar\n                                    ",
+  "description": "As of March 2011, this is the only vegetarian restaurant in Phang-nga Thailand. Caters to locals and tourists. All food is in a display case and you make your selection at the counter. Part of the proceeds go to a local Buddhist temple. There is an English language sign above the doorway. Easily spotted from the street. Five minutes walk south along the main street from the bus station. gps spot: n8.4604 e98.5315",
+  "priceRange": "Moderate",
+  "streetAddress": "Phetkasem Road",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.655776,98.396494&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.655776,98.396494&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

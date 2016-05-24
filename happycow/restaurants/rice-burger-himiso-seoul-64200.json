@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rice Burger Himiso",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Take-out\n                                    ",
+  "description": "Serves brown rice burgers on buns from brown rice; also fries. Let your server know if you want vegan sauce. Mar 2016 re-opened here after move from 29, Nonhyeon-ro 10-gil, Gangnam-gu. Directions: Go to Eungam station Line 6 Exit 2; turn back and walk 100 meters until you find it on the right side.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Eunpyeong-gu, Eunpyeong-ro 55",
+  "phone": "tel:02-63391846",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.598852,126.913974&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.598852,126.913974&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

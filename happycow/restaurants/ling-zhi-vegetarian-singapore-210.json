@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ling Zhi Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "Large space with modern decor. Last order 30 minutes before closing.",
+  "priceRange": "Expensive",
+  "streetAddress": "541 Orchard Rd, 05-01  Liat Towers",
+  "postalCode": "238875",
+  "phone": "tel:67343788",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.305170,103.830790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.305170,103.830790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

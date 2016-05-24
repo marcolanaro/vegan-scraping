@@ -1,0 +1,17 @@
+{
+  "title": "The Pirate Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, European, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Harborside bar offers some vegan and vegetarian choices for lunch including bean soup, broccoli soup, lentil soup, spanakoriso (spinach and rice), briam (mixed roasted vegetables), served bread; vegans please inquire. Arts, entertainment, nightlife.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Port of Hydra Island",
+  "phone": "tel:+30-2298052711",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-3:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.328789,23.471657&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.328789,23.471657&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

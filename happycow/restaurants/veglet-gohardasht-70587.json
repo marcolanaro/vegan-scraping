@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veglet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Fast food, Middle Eastern, Iranian, Persian\n                                    ",
+  "description": "Vegetarian fast food and store located on the main street of the town. Veggie burgers, falafel, sandwiches, soups, samosas, and various other foods are offered. Vegans please be sure to specify that you do not want eggs or dairy products.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Main Street",
+  "phone": "tel:98-2634437405",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.860211,50.979339&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.860211,50.979339&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

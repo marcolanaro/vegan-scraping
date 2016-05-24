@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sin Wei Tong - Viva Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Take-out, Malaysian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Also known as Sin Wei Tong Cafe and also Sin Mei Cafe. Has a dedicated vegetarian stall selling Chinese & Malay rice, noodle and laksa dishes, herbal teas. Some dishes have egg but can request without. Located in Jln Green Hill budget accommodation area.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Leboh Temple, Sarawak",
+  "postalCode": "93250",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:00am-3:00pm, Sat-Sun 6:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.556790,110.348465&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.556790,110.348465&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

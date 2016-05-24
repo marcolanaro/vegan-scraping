@@ -1,0 +1,15 @@
+{
+  "title": "Czarny Kos",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, European, Fusion, Polish\n                                    ",
+  "description": "Boarding house and restaurant. Sample menu items might include beetroot carpaccio, grilled and smoked tempeh, soybean schnitzel, sweet caviar chia.",
+  "priceRange": "Moderate",
+  "streetAddress": "Letniskowa 10",
+  "phone": "tel:586818106",
+  "venueHours": "\n                                                                                                        Mon-Sun 1:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/czarny.kos",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.339800,18.319500&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.339800,18.319500&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

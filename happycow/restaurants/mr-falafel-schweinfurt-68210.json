@@ -1,0 +1,16 @@
+{
+  "title": "Mr Falafel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Mediterranean, Turkish\n                                    ",
+  "description": "A vegetarian restaurant serving falafel, koefte, hummus, salads and more. Has plenty of vegan options.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Schrammstr 6",
+  "postalCode": "97421",
+  "phone": "tel:+49-15789670845",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Mr.FalafelSW",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.041143,10.226447&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.041143,10.226447&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

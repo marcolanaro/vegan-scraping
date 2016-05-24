@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tahini Hummus",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Mediterranean, Take-out, Middle Eastern, Israeli\n                                    ",
+  "description": "Name is in Hebrew signage only, which translates to \"tahini hummus.\" Casual place serving falafel, pita, hummus, and salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Nisim Bacher 23",
+  "phone": "tel:025367222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/החומוס-של-טחינה/246295875412875",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.783624,35.210513&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.783624,35.210513&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

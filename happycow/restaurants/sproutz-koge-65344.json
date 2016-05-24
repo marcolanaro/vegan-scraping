@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sproutz",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Juice bar, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe's menu has 2 vegan sandwiches and several vegan salads with sprouts and organic ingredients. Also offers freshly squeezed organic juices and coffee.",
+  "priceRange": "Moderate",
+  "streetAddress": "Vestergade 16",
+  "postalCode": "4600 ",
+  "phone": "tel:+45-53611234",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sproutzcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.457207,12.178970&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.457207,12.178970&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

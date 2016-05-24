@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Qiu",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "秋竹林素食馆 opened in Aug 2015. Serves rice, noodle, and vegetable dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "9 Jalann Mutiara 1/5, Taman Mutitara Mas",
+  "postalCode": "81300",
+  "phone": "tel:019-7342873",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/秋竹林素食馆-Vegetarian-Qiu-1615184422079806",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.515216,103.632113&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.515216,103.632113&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

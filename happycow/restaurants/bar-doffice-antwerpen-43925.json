@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bar d'office Antwerpen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Buffet, Salad bar, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An eatery with co-working facilities and a veggie buffet, freshly made ​​with seasonal vegetables and more. Has vegan options. Original ingredients and combinations for an affordable price. Located on a 5 minute stroll from Antwerp Central Station, next to the design center. Also takeaway and pickup point for bio vegetables (www.jullienne.be). Room for workshops, presentations or groups.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Dambruggestraat 29",
+  "postalCode": "2060",
+  "phone": "tel:03-227-37-31",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/bardoffice.antwerpen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.219573,4.423438&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.219573,4.423438&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

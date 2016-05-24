@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Clear Head - Lehka Hlava",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Western, Juice bar, Take-out, Wine\n                                    ",
+  "description": "Contemporary vegetarian cuisine restaurant located near Stare Mesto metro stop. Features tapas and specials, salads and pasta, desserts and fresh juices. Has English menu, and vegan items are marked. No eggs used. Interior is unique with each room decorated in a different theme: a small colorful contemporary room, a warm orange room with fish tank, and a blue heaven room decorated with stars. Reservation recommended. No smoking. From 3:30-5pm a smaller menu is offered. Directions: From Charles Bridge (Karlova mostu) walk south for 2 blocks along Krizovnicka to K Svetle and then turn left onto Borsov, a quiet alley off of K Svetle. Restaurant is immediately on left side in a soft peach color building.",
+  "priceRange": "Moderate",
+  "streetAddress": "Borsov 2, Praha 1",
+  "phone": "tel:+420-222-220665",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-11:30pm, Sat-Sun 12:00pm-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.084092,14.414511&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.084092,14.414511&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

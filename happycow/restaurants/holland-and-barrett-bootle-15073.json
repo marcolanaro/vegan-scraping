@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Holland and Barrett",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of chain of health food grocery stores. Vitamins, nuts, seeds, grains, chilled and frozen  vegetarian and vegan food, soya, rice and dairy milk, snacks, and more.",
+  "streetAddress": "10 The Palatine, Strand Shopping Centre, Bootle, Merseyside",
+  "postalCode": "L20 4SN",
+  "phone": "tel:0151-9229157",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.451710,-2.987070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.451710,-2.987070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lamp Asian Medicinal Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Japanese, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. In Kitamachi area near Nara Women's University, the restaurant's owner studied Chinese medicinal cuisines. Many of the appetizers are veg and has a meatless North Indian chickpea curry. No alcohol.",
+  "priceRange": "Moderate",
+  "streetAddress": "Horencho, 1232",
+  "postalCode": "630-8113",
+  "phone": "tel:0742-271027",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-5:00pm, Wed-Sun 11:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.692086,135.827942&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.692086,135.827942&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

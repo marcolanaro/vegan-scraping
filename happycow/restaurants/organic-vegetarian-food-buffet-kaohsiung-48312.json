@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Organic Vegetarian Food Buffet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Salad bar, Taiwanese\n                                    ",
+  "description": "Address 高雄市三民區裕誠路66號. Dine-in, all-you-can-eat buffet chain with locations throughout Kaohsiung. Make fresh bread, vegetable pancakes, has a raw salad bar. A health food store is downstairs.",
+  "priceRange": "Moderate",
+  "streetAddress": "66, Yucheng Road, Sanmin District",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.663945,120.314341&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.663945,120.314341&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

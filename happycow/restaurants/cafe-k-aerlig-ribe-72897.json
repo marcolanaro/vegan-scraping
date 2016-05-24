@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe K-aerlig",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, European\n                                    ",
+  "description": "A vegetarian cafe, with vegan and gluten free options on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Sonderportsgade 5",
+  "postalCode": "6760",
+  "phone": "tel:71992119",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 11:00am-5:00pm, Fri 11:00am-8:00pm, Sat 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Cafe-K-%C3%A6rlig-1686990278225595",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.327507,8.762160&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.327507,8.762160&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bayit 77",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Bakery, Israeli\n                                    ",
+  "description": "Whole wheat bakery and cafe located in the vegetarian village of Amirim. Family shop with everything handmade by family members. Specialize in freshly baked whole wheat goods with no additives. Also homemade jam, hummus, peanut butter, and light meals. Vegan meals include soup of the day, salad, hummus, zaatar or rosemary focaccia, spinach borekas. Thursday is pizza night. Also on the premises a health food shop and a crafts gallery. Casual atmosphere. Child friendly. Has free Wi-Fi. English speaking owner. Wheelchair accessibility to the bakery and cafe but not to the bathroom.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mizpe Menahem, Galilee",
+  "phone": "tel:04-6980984",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:30am-6:00pm, Thu 8:30am-9:00pm, Fri-Sun 8:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.938242,35.451733&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.938242,35.451733&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

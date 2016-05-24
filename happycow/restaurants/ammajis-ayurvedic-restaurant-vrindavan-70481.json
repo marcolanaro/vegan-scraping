@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ammaji's Ayurvedic Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Chinese, Indian, International, Italian, Organic, Western, Mediterranean, Delivery, Take-out, Asian, Bakery, European, German, Ayurvedic\n                                    ",
+  "description": "Serves a wide range of organic culinary delights, from Indian Thali to snacks from around the world, Italian pizza and pasta to German bread and sandwiches, from made-in-house ice cream to coffee, tea and cake. Has vegan options; please inquire.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ram Nagar, Parikrama Marg",
+  "postalCode": "281121",
+  "phone": "tel:00919997710000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/ammajis",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.566535,77.693125&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.566535,77.693125&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

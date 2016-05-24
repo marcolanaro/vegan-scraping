@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tischlein Deck Dich",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Take-out\n                                    ",
+  "description": "Small vegetarian place with focus on soups. In addition, owner sells cookbooks and kitchen tools. Mon-Thur all dishes are vegetarian and on Friday all dishes are vegan. Previously located Kaiserfeldgasse.",
+  "priceRange": "Moderate",
+  "streetAddress": "Schmiedgasse 23a",
+  "postalCode": "8010",
+  "phone": "tel:+43-650-6465655",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/tischlein",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.068650,15.439856&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.068650,15.439856&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "P.F. Chang's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. International chain restaurant offering Chinese and Asian dishes. Menu includes vegetarian dishes which are vegan suitable. Fancy, modern decor (much more upscale than the US branches).",
+  "priceRange": "Moderate",
+  "streetAddress": "World Trade Center Mall 2nd Floor",
+  "phone": "tel:+96126120888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PFChangsMiddleEast",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.466667,54.366667&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.466667,54.366667&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

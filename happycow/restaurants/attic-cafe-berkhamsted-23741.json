@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Attic Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This cafe, is on the top floor of a five-storey antiques and interiors shop. The style is very country-kitchen'ish with lots of natural light blasting in through the many large windows giving it a feeling of comfort and warmth. They cater to vegan and gluten/wheat free lifestyles. They use fair trade coffee and seasonal as much as possible. In addition to the regular menu, there is a menu board that changes every week.",
+  "priceRange": "Moderate",
+  "streetAddress": "134 High St",
+  "postalCode": "HP4 3AT",
+  "phone": "tel:01442-878713",
+  "venueHours": "\n                                                                                                        Mon-Tue 9:30am-4:30pm, Thu-Fri 9:30am-4:30pm, Sat 9:30am-5:00pm, Sun 11:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.762630,-0.571227&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.762630,-0.571227&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

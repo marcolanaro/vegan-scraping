@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nong Khai Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hotel restaurant with bar and cocktail menu. Offers also a vegetarian menu with several mock meats like veg chicken larb and veg friend chicken with cashew. Each dish in the range of 90-180 baht.",
+  "priceRange": "Expensive",
+  "streetAddress": "1049 Haisoke Road",
+  "phone": "tel:+66-42411568",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=17.878280,102.741264&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C17.878280,102.741264&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

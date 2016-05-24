@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "bepositive",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Salad bar, Juice bar, Beer/Wine, Take-out, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. All veg except for fish. Self-service buffet (mostly vegetarian) eatery and health food shop. Offers salad bar, soups, quiches, sandwiches, desserts, fruit and vegetable juices, cold and hot drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Place Jourdan 26",
+  "postalCode": "1040",
+  "phone": "tel:+32-2-2318001",
+  "venueHours": "\n                                                                                                        Mon 12:30pm-8:00pm, Tue-Wed 10:00am-8:00pm, Sat 10:00am-6:00pm, Sun 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.837092,4.381818&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.837092,4.381818&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sanchon",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Korean\n                                    ",
+  "description": "Features panchan (side dishes), soups, vegetable dishes, and traditional music & dance. Started by a former monk. Directions: right in the heart of the Insadong area.  It is about mid way between the two ends of Insadong Street.  In Aug 2010, Sanchon had a type of \"health food store\" right on Insadong - and the sign said temple food.  To get to the restaurant, follow the little alley right next to the health food store all the way back.",
+  "priceRange": "Expensive",
+  "streetAddress": "Insa-Dong",
+  "phone": "tel:02-735-0315",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.573670,126.986180&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.573670,126.986180&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,15 @@
+{
+  "title": "Grand Appetit",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Macrobiotic, Organic, Western, Beer/Wine, Asian\n                                    ",
+  "description": "Paris vegan bistro attached to an organic supermarket. Serves soups, veggie sushi, vegetable platters, tart, and other vegan food.",
+  "priceRange": "Moderate",
+  "streetAddress": "9 Rue la Cerisaie",
+  "postalCode": "75004",
+  "phone": "tel:0140270495",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-9:00pm, Fri 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.852150,2.366390&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.852150,2.366390&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Guwan Im",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Take-out\n                                    ",
+  "description": "A local Thai food vegan place offering a buffet selection. Located near YMCA at Nong Hoi intersection. Bagged up food to take home is often available 1-2 hours after closing time.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lamphun Road, Nong Hoi",
+  "phone": "tel:053140483",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.758375,99.004883&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.758375,99.004883&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

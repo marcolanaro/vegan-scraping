@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Spring",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Buffet, Taiwanese\n                                    ",
+  "description": "All-you-can-eat buffet for lunch, afternoon tea/meal, and dinner. Large spread includes hot and cold food, salad bar, made-to-order soup noodles, desserts, tea and coffee, and more. Egg and dairy items are labeled (in Chinese). Chinese name 春天素食, address 台中市西屯區大墩十七街88號2樓.",
+  "priceRange": "Moderate",
+  "streetAddress": "2F, 88, Sec. 17, Datun 17th Street, Xituin District",
+  "phone": "tel:04-23280956",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.155746,120.648156&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.155746,120.648156&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

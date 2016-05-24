@@ -1,0 +1,12 @@
+{
+  "title": "GreenBakeryee",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery and juice bar that offers some vegan choices: bread, pastries, cookies.",
+  "streetAddress": "Maakri 19/21",
+  "phone": "tel:+372-5522337",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-6:30pm, Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.433153,24.759409&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.433153,24.759409&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

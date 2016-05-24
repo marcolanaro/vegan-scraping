@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "CookDaily",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Fast food, Beer/Wine, Take-out\n                                    ",
+  "description": "Vegan food in East London. Concise menu with a selection of bowls.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Bethnal Green Rd, Unit 55",
+  "postalCode": "E1 6GY",
+  "phone": "tel:07498563168",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-6:00pm, Tue-Thu 12:00pm-9:00pm, Fri 12:00pm-9:30pm, Sat 12:30pm-9:00pm, Sun 12:30pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.523512,-0.076454&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.523512,-0.076454&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

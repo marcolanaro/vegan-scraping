@@ -1,0 +1,15 @@
+{
+  "title": "Camp Biche",
+  "tags": [
+    "Veg Hotel/BnB",
+    "Vegan"
+  ],
+  "description": "A luxury vegan boot camp located in the medieval hilltop village of Lauzerte.",
+  "streetAddress": "rue de la Mairie",
+  "postalCode": "8211",
+  "phone": "tel:0675751066",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.256829,1.137768&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.256829,1.137768&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

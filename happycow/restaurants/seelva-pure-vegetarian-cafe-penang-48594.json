@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Seelva Pure Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Take-out, Catering\n                                    ",
+  "description": "Pure vegetarian food stall serves Indian and local delights containing no onions, garlic and egg. Has vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "85 Kompleks Batu Lanchang, Lebuh Raya Batu Lanchang",
+  "postalCode": "11600",
+  "phone": "tel:0164536351/,%200164516673",
+  "venueHours": "\n                                                                                                        Mon-Tue 3:00pm-10:30pm, Thu-Sun 3:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/seelvacafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.389670,100.305942&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.389670,100.305942&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

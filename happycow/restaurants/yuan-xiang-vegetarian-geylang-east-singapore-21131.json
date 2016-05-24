@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yuan Xiang Vegetarian - Geylang",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Singaporean\n                                    ",
+  "description": "Chinese vegetarian cuisine, local food, Hong Kong dim sum. Extensive menu at reasonable prices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "134 Changi Road, Lorong 104 Geylang",
+  "postalCode": "419720",
+  "phone": "tel:63443239",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:30am-3:00pm, 5:00pm-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.316862,103.901498&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.316862,103.901498&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

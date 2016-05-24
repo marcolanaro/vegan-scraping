@@ -1,0 +1,14 @@
+{
+  "title": "Kamille",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store with a coffee bar that serves lunch soup and sandwiches. Bread should be vegan but do specify no butter. Could get veggie sandwich.",
+  "streetAddress": "Rådhusplassen 2",
+  "postalCode": "1430",
+  "phone": "tel:64940800",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/kamille.helsekost.kaffebar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.664260,10.792182&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.664260,10.792182&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

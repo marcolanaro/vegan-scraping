@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sweet and Peace",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese\n                                    ",
+  "description": "Relaxed cafe with hand-made wooden tables seating. Serves all vegan food, drinks, and desserts. Address in Japanese: 茂原市東茂原１１－８７",
+  "priceRange": "Moderate",
+  "streetAddress": "11-87 Higashimobara Mobara",
+  "phone": "tel:+81-475-22-7914",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.416308,140.317897&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.416308,140.317897&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,14 @@
+{
+  "title": "Naturalia",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store chain.",
+  "streetAddress": "1 rue de l'Expansion",
+  "postalCode": "67210",
+  "phone": "tel:0388956760",
+  "venueHours": "\n                                                                                                        Mon 2:00pm-7:00pm, Tue-Thu 9:00am-12:30pm, 2:30pm-7:00pm, Fri 9:00am-7:00pm, Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Naturaliamagasinsbio",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.456023,7.493248&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.456023,7.493248&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

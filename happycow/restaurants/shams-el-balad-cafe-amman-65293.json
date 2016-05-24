@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shams El Balad Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Mediterranean, Juice bar, Middle Eastern, Jordanian\n                                    ",
+  "description": "Farm-to-table concept eatery and grocery store with a vintage feel and large terrace overlooking the Citadel. Has menu in English and free Wi-Fi. Hosts exhibitions from local artists.",
+  "priceRange": "Moderate",
+  "streetAddress": "69 Mu'Ath Bin Jabal St",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/shamselbaladcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.950862,35.927295&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.950862,35.927295&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

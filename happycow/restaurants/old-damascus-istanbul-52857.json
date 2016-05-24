@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Old Damascus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Middle Eastern, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Falafel and hummus restaurant. Try the falafel wrap. In the morning the kitchen makes fried eggs. Reported uses canned fish products in some items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kalyoncu Kullugu Caddesi 75, Beyoglu",
+  "phone": "tel:05349610451",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.038036,28.976607&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.038036,28.976607&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

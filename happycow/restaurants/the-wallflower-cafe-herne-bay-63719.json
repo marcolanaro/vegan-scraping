@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Wallflower Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Take-out, British, English\n                                    ",
+  "description": "Little cafe tucked at the back of a shopping arcade. Menu became all vegetarian in Jan 2016. Dishes such as falafel plate, vegan platter, vegan brekkie, cake, soup and salad.",
+  "priceRange": "Moderate",
+  "streetAddress": "116 High St",
+  "postalCode": "CT6 5JY",
+  "phone": "tel:01227740392",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/The-Wallflower-Cafe-247922172895",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.371171,1.127184&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.371171,1.127184&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

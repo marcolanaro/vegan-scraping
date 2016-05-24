@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hinano",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Buffet, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain buffet restaurant, this one is at 北海道札幌市中央区北4条西2丁目1番地, on the 10th floor of the Touku department store by Sapporo station; can be accessed by the station's exit 13 or 14. Specializing in local Hokkaido food with many vegan alternatives as well healthier natural food. All-you-can-eat include drinks. Foods that include allergens (dairy, egg, soy, gluten) are marked in Japanese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Touku Department Store 10F",
+  "postalCode": "060-0004",
+  "phone": "tel:011-212-2375",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.066042,141.352818&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.066042,141.352818&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

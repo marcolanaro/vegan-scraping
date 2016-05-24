@@ -1,0 +1,17 @@
+{
+  "title": "Herzensraum",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Organic, Take-out, Ayurvedic\n                                    ",
+  "description": "Every Wednesday offers a vegan or vegetarian organic Ayurvedic lunch.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bahnhofstrasse 3",
+  "postalCode": "87509",
+  "phone": "tel:08323/9559079",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.559690,10.218220&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.559690,10.218220&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

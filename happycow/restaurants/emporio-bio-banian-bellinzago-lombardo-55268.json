@@ -1,0 +1,13 @@
+{
+  "title": "Emporio Bio Banian",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Organic food store stocking only products suitable for vegetarians and vegans. Located inside the shopping mall La Corte Lombarda.",
+  "streetAddress": "Strada Padana Superiore nr. 154",
+  "postalCode": "20060",
+  "phone": "tel:02-86876000",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-9:00pm, Fri 9:00am-10:00pm, Sat-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.545753,9.454148&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.545753,9.454148&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

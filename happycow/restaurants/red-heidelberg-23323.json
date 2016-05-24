@@ -1,0 +1,19 @@
+{
+  "title": "Red",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Western, Buffet, Juice bar, Take-out\n                                    ",
+  "description": "Red - Die grüne Küche roughly translates to \"Red - The green kitchen/table.\" It's a mix of bar, take-away, buffet, and gourmet restaurant. Everyday there is a main dish for approx. 7€ and a colorful buffet. Waiters don't bring the food to the tables. Also offers pastry and freshly pressed juices. Vegan and allergy friendly options. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Poststrasse 42",
+  "postalCode": "69115",
+  "phone": "tel:+49-62219145206",
+  "venueHours": "\n                                                                                                        Mon 11:30am-8:00pm, Tue-Sat 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.407710,8.687810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.407710,8.687810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

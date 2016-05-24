@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Au Lac",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Vietnamese\n                                    ",
+  "description": "Still named Au Lac but became a franchise of Loving Hut. Serves an extensive menu of rice and noodle dishes with fresh veggies and mock meats, and soups. Moved from 60 Nguyen Du in 2014.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "113/14 Nguyen Du",
+  "phone": "tel:0511-3887929",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-3:00pm, 4:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.078862,108.222048&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.078862,108.222048&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

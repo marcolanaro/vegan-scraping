@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "SuperVeg Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Asian, Fusion\n                                    ",
+  "description": "Casual, modern style cafe serving a mix of Asian as well western dishes. On the menu are noodle and rice dishes, burgers, wraps, spaghetti, and more. Est. 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "3-36 G, Jln Puteri 4/8, Bandar Puteri ",
+  "postalCode": "47100",
+  "phone": "tel:0199499099",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-3:00pm, 5:00pm-9:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/supervegcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.017005,101.613376&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.017005,101.613376&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

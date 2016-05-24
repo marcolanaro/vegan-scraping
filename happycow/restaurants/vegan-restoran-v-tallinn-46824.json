@@ -1,0 +1,15 @@
+{
+  "title": "Vegan Restoran V",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Juice bar\n                                    ",
+  "description": "A small and cozy vegan restaurant in the Old Town of Tallinn. Menu has gluten free and raw options, fresh smoothies, juices and cakes of the day. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rataskaevu 12",
+  "phone": "tel:+372-6269087",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-11:00pm, Fri-Sat 12:00pm-12:00am, Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/veganrestoran",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.437081,24.742785&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.437081,24.742785&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

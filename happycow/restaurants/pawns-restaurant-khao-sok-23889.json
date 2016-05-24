@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pawn's Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The only place in Khao Sok for truly vegan options. If you are visiting Khao Sok National Park, Pawn's is on the left side of the road leading up to the park entrance, across from Morning Mist Resort. Pawn understands that vegetarian means no egg and no fish/oyster sauce and has a clearly labeled menu for vegan-friendly items. She also makes fruit juices and shakes and can accommodate varying tastes in spiciness. Please send HappyCow the correct map location.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Khao Sok main road",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=8.894793,98.542285&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C8.894793,98.542285&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Taam Hachaim - Taste of Life",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Organic, Raw, Western, Take-out, Israeli\n                                    ",
+  "description": "Vegan restaurant run by Hebrew Israelite community since 1984. Once a small vegan deli, since 2009 it is a restaurant with air-conditioned seating. Located on Ben Yehuda St in the center of town, it offers food that is vegan, organic, low sodium, and made daily. Extensive menu of hot dishes such as lasagna, tofu and mock meats; also soups, salads, raw dishes, veggie burgers, sandwiches, pizza, and vegan ice cream. On Tuesdays from 12pm it hosts a \"Food market\" on the premises where food is sold off the menu at reduced prices for takeout or eat-in. Live blues and jazz entertainment Thursday evenings from 8pm (reservations recommended). Check its website for updates about monthly vegan cooking classes conducted in English.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ben Yehuda St 43",
+  "phone": "tel:03-5168906",
+  "venueHours": "\n                                                                                                        Mon-Wed 10:00am-9:00pm, Thu 10:00am-12:00am, Fri 10:00am-2:00pm, Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.077888,34.768537&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.077888,34.768537&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

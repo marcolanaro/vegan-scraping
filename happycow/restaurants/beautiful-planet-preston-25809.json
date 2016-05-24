@@ -1,0 +1,17 @@
+{
+  "title": "Beautiful Planet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic\n                                    ",
+  "description": "Not-for-profit, volunteer-run environmental information and social centre. Sells hot tea/coffee, some vegan cakes, and vegan sandwiches. Free Wi-Fi with hot drink purchase. Used as a group meeting space in the evenings and Sundays.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "69 Friargate",
+  "postalCode": "PR1 2ED",
+  "phone": "tel:07914221259",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.761457,-2.705267&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.761457,-2.705267&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

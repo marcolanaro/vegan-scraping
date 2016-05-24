@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Stoka's Kitchen Catering",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Caters vegetarian and vegan food to Metro Manila customers.",
+  "streetAddress": "San Juan del Monte",
+  "postalCode": "1500",
+  "phone": "tel:+639063708749",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/stokaskitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.604302,121.026057&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.604302,121.026057&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

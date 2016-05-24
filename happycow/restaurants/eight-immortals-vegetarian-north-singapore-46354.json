@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eight Immortals Vegetarian - Toa Payoh",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Fast food, Take-out\n                                    ",
+  "description": "Food stall inside Koufu Food Court at HDB Hub which is next to Toa Payoh bus interchange and MRT station. Serves rice, bee hoon, noodles with a variety of vegetables and mock meats.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "500 Lorong 6 Toa Payoh, 02-30 HDB Hub",
+  "postalCode": "310500",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.333256,103.847343&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.333256,103.847343&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

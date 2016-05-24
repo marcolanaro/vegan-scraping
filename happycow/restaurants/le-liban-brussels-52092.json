@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Le Liban",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Fast food, Take-out, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A snack/restaurant offers a whole glass counter with vegetarian dishes, of which some are vegan. Choose from salads, falafel, roasted eggplant with tomato and persil, beans, hummus and more. Staff understands veganism and will guide you through to insure all your food is vegan. The menu has a vegetarian dishes section, of which some are vegan. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Chaussee de Boondael 322",
+  "postalCode": "1050",
+  "phone": "tel:0032474541959",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.818562,4.384434&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.818562,4.384434&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

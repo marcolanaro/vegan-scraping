@@ -1,0 +1,15 @@
+{
+  "title": "Le Bar at Thym",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, French\n                                    ",
+  "description": "Bar@thym offers organic vegetarian food. Call one day before for booking.",
+  "priceRange": "Moderate",
+  "streetAddress": "22 Place Monge",
+  "postalCode": "73000",
+  "phone": "tel:0479709640",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sat 7:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.563404,5.921851&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.563404,5.921851&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

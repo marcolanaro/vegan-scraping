@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wellness Recipe Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg-options available. A cafe located inside a health food store. Uses organic ingredients. Has a vegetarian menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "K-5-1, Bay Avenue, Lorong Bayan Indah 2, Bayan Lepas",
+  "postalCode": "11900",
+  "phone": "tel:+604-6464505",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/WellnessConceptMalaysia",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.336870,100.307461&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.336870,100.307461&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Youta Vegetarian Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai, Fast food, Take-out\n                                    ",
+  "description": "Look for bright yellow sign YOUTA. There's a stall near railroad and a stall near Soi 70. Youta is a chain of food stalls serving veggie food from vegetable curries and imitation fish red curry to fresh corn fritters and bananas & sticky rice cooked in a banana leaf on the charcoal bbq. Previous locations at Soi 88 and Soi 6 have both shut.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Soi 70",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.572458,99.953887&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.572458,99.953887&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

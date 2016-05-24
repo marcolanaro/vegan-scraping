@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xin Yi Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out\n                                    ",
+  "description": "欣意斋素食 is a stall in Hao Kou Wei Coffeeshop. Serves economic rice, vermicelli and noodle, of which some are vegan or can be made vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 442 Jurong West Ave 1 Unit 01-758 ",
+  "phone": "tel:9712-9268",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:00am-11:30am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/xinyiveg/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.351499,103.719341&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.351499,103.719341&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

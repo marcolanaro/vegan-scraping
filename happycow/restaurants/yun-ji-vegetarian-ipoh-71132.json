@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Yun Ji Vegetarian ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "云集斋馆 is serves Chinese rice, noodles, and vegetable dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "36 Jalan Dass, Kampung Jawa",
+  "postalCode": "31350",
+  "phone": "tel:052530491",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-2:30pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.599635,101.081800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.599635,101.081800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

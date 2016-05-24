@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shisha B'May",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This bar-restaurant offers a few vegan items marked on the menu. On Sunday nights, there is a separate vegan menu with dishes such as vegan pizza and shawarma with mushrooms. Casual atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "13 Ben Ami St",
+  "phone": "tel:072-2410551",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/6inmay",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.078311,34.773558&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.078311,34.773558&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

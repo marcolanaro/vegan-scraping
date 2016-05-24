@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Luna's Mama Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Fast food, Delivery, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Near ALBA and facing L'Architecte, this restaurant is frequented by students and local office employees. Features a recycled and environmental design. Aims to offer fresh and healthy meals with vegan choices in salads, veggie burger, melanzane Sandwich, and a pasta Siciliana - be sure to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "Texas Street, Sin el Fil",
+  "phone": "tel:78934284",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/lunasmamakitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.877969,35.539954&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.877969,35.539954&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

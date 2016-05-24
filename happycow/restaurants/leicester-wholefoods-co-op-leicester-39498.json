@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Leicester Wholefoods Co-op",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Provides organic, natural, and wholefood produce.",
+  "streetAddress": "3 Freehold St",
+  "postalCode": "LE1 2LX",
+  "phone": "tel:+44-1162512525",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:30am-6:00pm, Fri 9:30am-7:00pm, Sat 9:30am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/LeicesterWholefoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.641069,-1.117500&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.641069,-1.117500&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

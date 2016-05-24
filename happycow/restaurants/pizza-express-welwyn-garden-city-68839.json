@@ -1,0 +1,18 @@
+{
+  "title": "Pizza Express",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain pizzeria restaurant. Willing to cater to vegetarians and vegans. Could make cheese-less pizza or add vegan cheese if you bring it.",
+  "priceRange": "Moderate",
+  "streetAddress": "40 Howardsgate",
+  "postalCode": "AL8 6BJ",
+  "phone": "tel:01707334231",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:30am-10:00pm, Thu-Sat 11:30am-10:30pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/pizzaexpress",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.801192,-0.206565&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.801192,-0.206565&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

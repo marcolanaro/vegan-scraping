@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Annam Gourmet Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Market selling imported items (like Veggys). Has organic vegetable, organic soy product (Bjorg brand), soy milk, rice milk, nuts, grains, spices, olives, legumes, vegan sorbet, egg replacer, nutritional yeast, gluten free products, Seventh Generation products. Not all veg. See website for other locations in HCMC.",
+  "streetAddress": "SB2-1 My Khanh 4, Ng Duc Canh, Tan Phong Ward, District 7",
+  "phone": "tel:+84-85-4123263",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.759180,106.662498&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.759180,106.662498&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

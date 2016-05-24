@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tamana Shokudo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Macrobiotic, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. たまな食堂, at 東京都港区南青山3-8-27, is a pescatarian restaurant that serves vegan and organic food and fish. Around 3 items on the a la carte menu are non-vegetarian; everything else including all the set meals are vegan. Also has a small grocery section, and holds cooking classes. Located in a quiet corner of Omotesando.",
+  "priceRange": "Expensive",
+  "streetAddress": "3 Chome-8-27 Minamiaoyama, Minato-ku",
+  "postalCode": "107-0062",
+  "phone": "tel:03-57753673",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:30pm, 6:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.671255,139.723612&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.671255,139.723612&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

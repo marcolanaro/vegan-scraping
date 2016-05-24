@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Earth Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Fast food, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Take-out counter inside a small natural foods and eco-friendly products shop. Sells freshly-made vegan lunches for take away. Grocery items include fresh fruits and vegetables, nuts, and grains as well items like cleaning products and housewares. Short walk from a large natural food supermarket that's across the bridge on the same street.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "north side of Marutamachi-dori, east of Kawabachi-dori",
+  "phone": "tel:075-771-1830",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-7:00pm, Sat 10:00am-6:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.017711,135.772621&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.017711,135.772621&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

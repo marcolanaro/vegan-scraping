@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fortunate Coffee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Take-out\n                                    ",
+  "description": "Coffee shop and cafe serving vegan food and cakes, est. 2014. Also sells DMG Bright Time Universal Family clocks and watches that are meant to convey inner peace & bring unification to the cosmic life. ",
+  "priceRange": "Moderate",
+  "streetAddress": "H-G-3A, Plaza Riverwalk",
+  "postalCode": "51200",
+  "phone": "tel:03-40400305",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 10:00am-7:00pm, Wed-Sat 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/fortunatecoffeemy",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.179165,101.683254&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.179165,101.683254&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

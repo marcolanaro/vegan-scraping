@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jack's Bean",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Mediterranean, Take-out, Middle Eastern\n                                    ",
+  "description": "Middle Eastern food restaurant, opened in 2012 and moved here in 2015. Offers falafel wraps, salads, hummus, chickpea soup, and other vegetarian food.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mapo-gu seokyo-dong 327-23",
+  "phone": "tel:82-2-3334849",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/JACKS-BEAN/475858189121577",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.555159,126.929338&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.555159,126.929338&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jin You Yuan - Healthy Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "今友缘素食坊 vegetarian stall serves mee hoon kuey and noodles.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "166 Jalan Besar 02-35 Berseh Food Centre, Jalan Besar",
+  "postalCode": "208877",
+  "phone": "tel:97428513",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-8:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.307247,103.856620&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.307247,103.856620&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

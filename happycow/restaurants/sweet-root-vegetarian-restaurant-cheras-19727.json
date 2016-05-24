@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sweet Root Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Malaysian\n                                    ",
+  "description": "菜根香素食館 serves rice, noodle, and vegetable dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "38A, Jalan Temenggung 17/9, Bdr Mahkota Cheras, Kajang, Selangor Darul Ehsan",
+  "postalCode": "43200",
+  "phone": "tel:012-5266489",
+  "venueHours": "\n                                                                                                        Mon-Tue 10:00am-3:00pm, 5:30pm-10:00pm, Thu-Sun 10:00am-3:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.052916,101.787971&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.052916,101.787971&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

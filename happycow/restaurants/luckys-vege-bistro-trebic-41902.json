@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lucky's Vege Bistro",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Beer/Wine\n                                    ",
+  "description": "Located in historic UNESCO restored Jewish ghetto. Server-run buffet with plenty of vegan options. Expect limited seating. The place is tough to find amidst the maze of streets, but best to use a GPS, park the car and then find by walking.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Tiche Namesti 5/3",
+  "postalCode": "67401",
+  "phone": "tel:774-141-481",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/LuckysVegeBistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.217153,15.876775&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.217153,15.876775&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

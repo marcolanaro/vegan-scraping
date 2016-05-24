@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kechara Oasis",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Delivery, Take-out, Southeast Asian, Malay, Banquet\n                                    ",
+  "description": "A luxurious space that can accommodate 600 persons and includes 5 VIP rooms with karaoke facility, lounge and a tatami area; able to cater to special events. Kechara Oasis provides food that's good for the body, mind and spirit and also generate stores of merits by contributing its proceeds to a social responsible community program. Has dim sum in addition to a la carte menu.",
+  "priceRange": "Expensive",
+  "streetAddress": "85, Jalan Loke Yew, Wilayah Persekutuan",
+  "postalCode": "55200",
+  "phone": "tel:+603-92841818",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Kechara-Oasis-New-Age-Vegetarian-Restaurant/215106775542",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.123011,101.719129&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.123011,101.719129&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

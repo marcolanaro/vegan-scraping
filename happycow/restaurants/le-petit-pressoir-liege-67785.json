@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Le Petit Pressoir",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Juice bar, Take-out, Catering\n                                    ",
+  "description": "A juice/smoothie bar that also serves meals, including brunch. Juices and smoothies are made with fresh fruit and vegetables that are local, seasonal, organic and fair trade. Opened Oct 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rue Neuvice",
+  "postalCode": "4000",
+  "phone": "tel:04-87423948",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/lepetitpressoir",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.643807,5.514053&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.643807,5.514053&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

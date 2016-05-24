@@ -1,0 +1,16 @@
+{
+  "title": "Buddha Restorans",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Beer/Wine, Catering, European, Latvian\n                                    ",
+  "description": "A trendy, fine dining vegetarian restaurant with a bar. Its sit-out terrace offers view of Freedom Monument and Latvian National Opera House. Order from a main menu, a breakfast menu, dinner menu, and seasonal dishes. Live DJ from 7-11pm.",
+  "priceRange": "Expensive",
+  "streetAddress": "Raina Bulvaris 15",
+  "phone": "tel:+371-26642255",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.951347,24.115080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.951347,24.115080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

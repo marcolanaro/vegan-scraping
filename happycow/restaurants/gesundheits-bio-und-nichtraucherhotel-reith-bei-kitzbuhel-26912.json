@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gesundheits: Bio-und Nichtraucherhotel ",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Vegetarian health foods, everything organic, vegan meals optional.",
+  "streetAddress": "Bichlach 41",
+  "postalCode": "6370",
+  "phone": "tel:+43-0535665242",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.477602,12.348353&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.477602,12.348353&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

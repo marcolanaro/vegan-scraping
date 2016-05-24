@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "DM",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Drugstore chain throughout Bosnia. This one stocks a range of veggie and vegan specialty foods, mostly from Italian and German brands. Find soya milk, vegan biscuits, pates, cereal bars, and other types of food.",
+  "streetAddress": "Grbavička 40",
+  "postalCode": "71000",
+  "phone": "tel:033719225",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.851029,18.395610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.851029,18.395610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

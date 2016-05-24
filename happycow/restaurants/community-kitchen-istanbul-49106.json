@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Community Kitchen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Middle Eastern, Turkish\n                                    ",
+  "description": "Jan 2015 re-opened here after move from Luleci Hendek Caddesi 27, Tophane. Offers vegan food with dishes like iskender and balls, Bosnian cevapi kofte, vegan lasagna and vegan baklava, seasonal menu with Turkish rice, stuffed peppers and eggplant, olive oil cold plates, plus smoothies and cookies. Sunday is wild mushroom day. Apr 2015 no longer offers a buffet.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kumbaracı Yokuşu 57/ A, Beyoğlu",
+  "postalCode": "34000",
+  "phone": "tel:0-5385032736",
+  "venueHours": "\n                                                                                                        Mon 12:00pm-11:00pm, Wed-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Community-Kitchen/664151753675076",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.028735,28.976342&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.028735,28.976342&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "TIAN Bistro Kunsthaus",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Organic, Beer/Wine, European, Fusion, Viennese, Austrian\n                                    ",
+  "description": "Vegetarian bistro, opened 2013 in the Kunsthaus Wien. You don't need a ticket for the Kunsthaus to get to the bistro. The atmosphere is Hundertwasser with the typical black and white tiles and uneven floor. The interior is light and green thanks to the large glass roof and the abundance of plants. Serves Viennese cuisine with a modern twist. Dishes that are vegan or can be made vegan are labeled. Smoking permitted outside.",
+  "priceRange": "Moderate",
+  "streetAddress": "Weißgerberlände 14",
+  "postalCode": "1030",
+  "phone": "tel:1890951020",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tianbistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.211096,16.393192&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.211096,16.393192&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zi Ran Yuan - Delicate Store",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Take-out, Taiwanese\n                                    ",
+  "description": "自然緣素養生蔬食專賣店, at 田中鎮中州路一段58號, is a veggie eatery just outside the Tianzhong train station. Serves traditional Taiwanese food. In Chinese only, but vegan items are labelled as are dishes which contain milk. Sells a few grocery items. Rests between 2-5pm. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "58, Zhongzhou Rd",
+  "phone": "tel:04-8748376",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.858411,120.590421&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.858411,120.590421&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

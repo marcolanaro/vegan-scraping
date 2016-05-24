@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegelicia",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Buffet, Taiwanese\n                                    ",
+  "description": "綠蔬, at 台北市羅斯福路3段283巷21號1樓, was established originally in spring 2013 and re-opened again in early-2015. It's a buffet style vegetarian restaurant near the university. Some items, particularly desserts, contain egg and/or dairy so ask if you're vegan. Sells takeaway snacks, vegetable buns, and sauces. Has afternoon tea. The owners' mission is to promote vegetarianism through good food.",
+  "priceRange": "Moderate",
+  "streetAddress": "21, Sec. 3, Lane 283, Luo Tse Fu Rd",
+  "phone": "tel:02-23635689",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/vegelicia89",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.019847,121.531773&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.019847,121.531773&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

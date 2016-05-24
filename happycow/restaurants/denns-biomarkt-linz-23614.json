@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "denn's Biomarkt -  Kaisergasse",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large supermarket belonging to the German denn's chain. Lot of vegan products, and has a daily menu, too. Relocated from Untere Donaulände 36.",
+  "streetAddress": "Kaisergasse 17",
+  "postalCode": "4020",
+  "phone": "tel:+43-732774055",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-7:00pm, Sat 8:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.307976,14.294182&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.307976,14.294182&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

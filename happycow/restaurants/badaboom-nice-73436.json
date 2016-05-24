@@ -1,0 +1,20 @@
+{
+  "title": "Badaboom",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Juice bar, Take-out\n                                    ",
+  "description": "Vegan cafe and juice bar, est. May 2016. Serves cold pressed juices, sandwiches with organic bread, salads, housemade kombucha and jun tea, vegan cheese platter, baked as well raw treats. Communal table seating. Hosts healthy lifestyle events.",
+  "priceRange": "Moderate",
+  "streetAddress": "11 rue Francois Guisol",
+  "postalCode": "06300",
+  "phone": "tel:671482514",
+  "venueHours": "\n                                                                                                        Mon-Tue 10:00am-7:00pm, Thu-Fri 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Badaboombistrot",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.700201,7.284359&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.700201,7.284359&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

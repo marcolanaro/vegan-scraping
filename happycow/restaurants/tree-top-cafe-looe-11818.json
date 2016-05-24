@@ -1,0 +1,17 @@
+{
+  "title": "Tree-Top Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Organic, English\n                                    ",
+  "description": "Vegetarian cafe just outside the The Monkey Sanctuary. Uses fresh produce from local farm. Menu includes pizza made fresh to order, veggie sandwiches and filled baguettes, soup, veggie bangers and mash, and cakes. Simple set up. There is a separate ice cream parlour which sells Roskilly's Cornish organic ice cream and a wheelchair accessible seating area.",
+  "priceRange": "Moderate",
+  "streetAddress": "The Monkey Sanctuary, St Martins",
+  "postalCode": "PL13 1NZ",
+  "phone": "tel:01503-262532",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-4:30pm, Sun 11:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.367240,-4.420620&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.367240,-4.420620&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

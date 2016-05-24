@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Gusto Taco",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American-run taco and burrito eatery. Has tofu as filling and can get your order without cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "146-6 Sangsu-dong, Mapo-gu",
+  "phone": "tel:02-3388226",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gusto.taco",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.548101,126.922781&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.548101,126.922781&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

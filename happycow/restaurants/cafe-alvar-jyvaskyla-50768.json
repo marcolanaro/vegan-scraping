@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Alvar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Inside the Alvar Aalto museum - free access to the museum is on Fridays. Menu has a tofu salad and a pasta that's vegan, plus usually one vegan cake. Has soy milk for coffee, which is complimentary with meal. The risotto can be made vegan upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "Alvar Aallon katu 7",
+  "postalCode": "40600",
+  "phone": "tel:0142667112",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-6:00pm, Sat-Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=62.233380,25.731530&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C62.233380,25.731530&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Baan Keaw",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai\n                                    ",
+  "description": "Small vegan restaurant located right on the main highway passing Lang Suan. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "332/11 M4 T. Wang Tako",
+  "phone": "tel:077545052",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.980981,99.067669&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.980981,99.067669&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

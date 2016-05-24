@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kamakura 24sekki",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Japanese, Take-out, Bakery\n                                    ",
+  "description": "Small vegan bakery and cafe, located a 20-minute walk from Kamakura station (bus is also available). Lunch options are sandwich set and soup set. All bread is made with made-in-house natural leaven.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kamakura-shi, Tokiwa 923-8",
+  "postalCode": "248-0022",
+  "phone": "tel:0467-81-5004",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/kamakura-24sekki/328461163835086",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.321631,139.534316&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.321631,139.534316&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

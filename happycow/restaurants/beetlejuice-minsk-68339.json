@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Beetlejuice",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Art cafe in the centre of Minsk. Half of the menu is vegan -- from sandwiches and burgers to hot plates and desserts. The atmosphere is indie and psychedelic rock playing from the jukebox. Non smoking inside.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kalinina, 7",
+  "phone": "tel:+375291408000",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-12:00am, Fri-Sat 12:00pm-2:00am, Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafebeetlejuice",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.925783,27.606288&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.925783,27.606288&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

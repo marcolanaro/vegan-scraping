@@ -1,0 +1,19 @@
+{
+  "title": "EssKultur Bio Bistro and Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Mediterranean, Beer/Wine, Take-out, Fusion\n                                    ",
+  "description": "Serves organic international vegetarian specialties. Often offers dishes with tofu and seitan. Soya milk option for coffee drinks. Relaxed atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Gradebergstr. 2",
+  "postalCode": "88662",
+  "phone": "tel:+49-75519474411",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 5:30pm-10:00pm, Sat-Sun 12:30pm-2:30pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.766631,9.162290&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.766631,9.162290&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

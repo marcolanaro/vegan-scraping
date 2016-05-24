@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Greg",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Middle Eastern, Kosher, Israeli, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Branch of Cafe Greg chain inside a big shopping mall in the Ra'anana Industrial Zone. There is a separate vegan menu with salads like the summer salad and legume salad, a few Asian-influenced dishes like stir-fries and curry, a big breakfast, plus shakshouka made with antipasti vegetables.",
+  "priceRange": "Moderate",
+  "streetAddress": "Renanim Shopping Mall, Ra'anana Industrial Zone, HaTa'asiya St",
+  "phone": "tel:09-7480889",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-11:00pm, Fri 8:00am-2:00pm, Sat 8:30pm-11:00pm, Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.197110,34.878289&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.197110,34.878289&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

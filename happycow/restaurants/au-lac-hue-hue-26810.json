@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Au Lac - Hue",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Vegetarian food store that sells TVP, okara, dry noodles, canned vegetables mock meats, frozen products, cookies and many more items. Is related to the Au Lac in Ho Chi Minh City.",
+  "streetAddress": "71 Chi Lang",
+  "phone": "tel:054-3571556",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.477428,107.589632&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.477428,107.589632&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

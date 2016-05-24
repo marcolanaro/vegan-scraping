@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Warung Sopa",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Western, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has some veggie choices like raw desserts and Japanese themed dishes such as gyoza. Plenty of tea and juice. Set off a busy main road behind a garden with bamboo finishes, near the corner of Jl. Raya Pengosekan on Jl. Raya Nyuh Kuning heading south out of Ubud.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jl. Raya Nyuh Kuning, Ubud",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.525876,115.262869&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.525876,115.262869&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,13 @@
+{
+  "title": "Sapore di Pane",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "A traditional bakery that also offers many vegan suitable baked goods including bread, sweet focaccia, focaccia with herbs, and pizza without cheese.",
+  "streetAddress": "Corso Cento Cannoni 17",
+  "postalCode": "15121",
+  "phone": "tel:+39-131-261276",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-1:00pm, 5:00pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.908972,8.615150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.908972,8.615150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

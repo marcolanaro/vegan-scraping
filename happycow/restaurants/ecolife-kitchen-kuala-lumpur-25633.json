@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "EcoLife Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Organic, Delivery, Take-out, Catering\n                                    ",
+  "description": "In 2015 this place, off Jalan Yew in  Fraser Business Park, replaced the previous Green Green Organic Kitchen. Menu is all vegetarian. Space is simple and modern.",
+  "priceRange": "Moderate",
+  "streetAddress": "40-4, Jalan Metro Pudu",
+  "postalCode": "55100",
+  "phone": "tel:03-92210133",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:30am-9:00pm, Thu-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Eco-Life-Kitchen-%E5%9C%92%E5%91%B3%E9%A3%9F%E5%9D%8A-625332800933830",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.129305,101.713284&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.129305,101.713284&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

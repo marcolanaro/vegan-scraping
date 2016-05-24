@@ -1,0 +1,18 @@
+{
+  "title": "Flower Burger",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Fast food, Take-out\n                                    ",
+  "description": "Vegan fast food restaurant est. 2015. Serves burgers in a modern day hippie vibe atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Viale Vittorio Veneto 10",
+  "postalCode": "20124",
+  "phone": "tel:02-39628381",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:30pm-3:30pm, 7:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/flowerburger2015",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.476023,9.202723&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.476023,9.202723&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

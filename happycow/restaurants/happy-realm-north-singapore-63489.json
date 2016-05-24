@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Happy Realm",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Malaysian\n                                    ",
+  "description": "新素食林 is a vegetarian food stall inside Broadway Food Centre, operated by the chef from the now closed Happy Realm restaurant that was inside Pearl Centre. Serves a variety of dishes, noodles, and rice. Open Monday if it is new or full moon.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 147 Potong Pasir Ave 1 Unit 01-93",
+  "postalCode": "059812",
+  "phone": "tel:91834983",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.331817,103.867955&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.331817,103.867955&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

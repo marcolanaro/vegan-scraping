@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Miao Yuan Zhai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "妙緣齋館 is a Chinese veggie restaurant near Tesco. Has air conditioning. Kitchen rests in the afternoon between lunch and dinner service.",
+  "priceRange": "Moderate",
+  "streetAddress": "43-00-01, Lorong Batu Nilam 1E",
+  "phone": "tel:03-33245034/,%20016-3144359",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.007867,101.437357&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.007867,101.437357&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

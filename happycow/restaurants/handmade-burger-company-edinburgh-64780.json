@@ -1,0 +1,17 @@
+{
+  "title": "Handmade Burger Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain burger restaurant. Meat-heavy menu but does have a labeled veggie section with 7 burgers of which 4 are vegan suitable.",
+  "priceRange": "Moderate",
+  "streetAddress": "LE3A Second Floor, Ocean Terminal",
+  "postalCode": "EH6 6JJ",
+  "phone": "tel:01315618253",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-10:00pm, Sat 11:00am-10:30pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.980059,-3.179668&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.980059,-3.179668&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

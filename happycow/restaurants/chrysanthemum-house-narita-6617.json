@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chrysanthemum House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Very little English spoken but if you can manage to relate your vegetarian request, staff will happily oblige.  Ask for udon noodle soup with veggies or veggie tempura on top -- say no fish sauce. Address in Japanese: 千葉県成田市仲町385.",
+  "priceRange": "Moderate",
+  "streetAddress": "286-00272 Shinsando St 385",
+  "phone": "tel:0476-22-0236",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.783430,140.316820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.783430,140.316820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

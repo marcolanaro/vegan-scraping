@@ -1,0 +1,12 @@
+{
+  "title": "Basic Bio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large organic foods store.",
+  "streetAddress": "Kettwiger Straße 64",
+  "phone": "tel:0201-82-17-30-0",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.330440,6.966130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.330440,6.966130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

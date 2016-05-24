@@ -1,0 +1,14 @@
+{
+  "title": "City Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Salad bar, Slovakian\n                                    ",
+  "description": "Lacto-vegetarian cafe offering a daily changing menu (no English menu) served from a main counter. Location is on the main shopping street just outside old city next to McDonalds, upstairs on the 1st floor of the City Center.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Obchodna 58",
+  "phone": "tel:02-52731381",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.148390,17.111990&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.148390,17.111990&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

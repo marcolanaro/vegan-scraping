@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hector Garcias",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, Mexican, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican food, tapas, and cocktails bar. Has a few vegan possible items, such as the vegetable chimichangas and fajitas minus the cheese and sour cream - ask for guacamole instead. Try the chips and sweet potato wedges. Busy at night and weekends.",
+  "priceRange": "Moderate",
+  "streetAddress": "91-93 High St",
+  "postalCode": "ST5 1PS",
+  "phone": "tel:01782610985",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:30pm-11:00pm, Tue-Thu 10:30am-3:00pm, Fri-Sat 10:30am-1:00am, Sun 5:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/hectorsnewcastle",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.009814,-2.225439&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.009814,-2.225439&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

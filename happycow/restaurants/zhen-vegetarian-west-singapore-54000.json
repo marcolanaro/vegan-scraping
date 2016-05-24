@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zhen Vegetarian - Food Stall",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out\n                                    ",
+  "description": "镇斋素食 serves cooked various vegan food from economic rice and bee hoon, to curry puff and spring rolls, from kway chap and gu lou yok to vege chicken drumstick rice and Peking duck rice. Mr. Tan operates the stall at Jurong East hawker centre while Mrs. Tan operates the stall at Yung Shen Food Court (with air-con). No egg, milk, or garlick/onion family plants( 植物五辛： 蔥、蒜、韭、蕎及興渠).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Blk 347 Jurong East Avenue 1, #01-195",
+  "postalCode": "600347",
+  "phone": "tel:91239054",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:30am-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.345236,103.731466&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.345236,103.731466&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

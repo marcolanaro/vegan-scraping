@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sufood",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Western\n                                    ",
+  "description": "High-end vegetarian cuisine chain with locations in Taiwan. Modern, upscale decor. Features a set menu for around NT$400. You choose from one of few main entrees, plus you get appetizer, bread, soup, salad, dessert, and drink. You can only order it as part of a set menu. Some dishes use eggs and dairy; server will point out which dishes are suitable for you. Chinese name is 舒果新米蘭蔬食, address 台中市台中港路一段1號2樓.",
+  "priceRange": "Moderate",
+  "streetAddress": "2F, 1, Sec. 1, Taichung Port Road, West District",
+  "phone": "tel:04-2206-1106",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/sufood.co",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.147576,120.673614&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.147576,120.673614&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

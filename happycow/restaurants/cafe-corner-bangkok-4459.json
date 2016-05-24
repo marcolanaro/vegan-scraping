@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Corner",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Thai, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Flip flops back and forth from being all veg. As of Sept 2011 started offering meat again in addition to same veg menu. Breakfast all day includes freshly baked baguettes, an extensive vegetarian and vegan menu, juices, teas, and coffee. Dine inside (non air-con) or out on the green terrace. Directions: at the end of Soi 2, turn left, restaurant is on the left.",
+  "priceRange": "Moderate",
+  "streetAddress": "Samsen Road, Soi 2",
+  "phone": "tel:081-3424755/,%20081-5844933",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.762740,100.499720&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.762740,100.499720&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

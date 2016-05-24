@@ -1,0 +1,12 @@
+{
+  "title": "Veggie Bro",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Order online for delivery of vegan food products within the city. Check its webpage for other catering events.",
+  "streetAddress": "1 Bolshaya Moskovskaya",
+  "phone": "tel:+79101786662",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=56.127092,40.397672&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C56.127092,40.397672&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tierra Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Juice bar, Beer/Wine, Bakery, Catering, French, Spanish, African\n                                    ",
+  "description": "Cafe/restaurant located in the town's cultural quarter. Warm, rustic feel inside, while outside is a sunny stream-side terrace. Brunch-lunch means freshly prepared dishes, coffee, juices and in-house-made cakes and pastries. Dinner means a weekly changing menu and twists on classics.",
+  "priceRange": "Moderate",
+  "streetAddress": "1A Coombe Street",
+  "postalCode": "DT7 3PY",
+  "phone": "tel:01297-445189",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/vegetarianreadymeals",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.725332,-2.933084&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.725332,-2.933084&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

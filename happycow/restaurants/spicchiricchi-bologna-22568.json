@@ -1,0 +1,15 @@
+{
+  "title": "Spicchiricchi",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Organic, Western, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "Organic vegetarian take away with a few seats inside. Salads, fresh juices and smoothies, herbal teas, hot soups, vegetarian desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Galliera 22/B",
+  "postalCode": "40121",
+  "phone": "tel:051273987",
+  "venueHours": "\n                                                                                                        Mon-Wed 12:00pm-5:00pm, Fri-Sat 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.499381,11.342498&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.499381,11.342498&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

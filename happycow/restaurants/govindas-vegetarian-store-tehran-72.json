@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Govinda's Vegetarian Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Convenient store for lacto-vegetarians. Stocks a wide range of products. Previously named Ananda's Health Food Store. House-made veggie options available, tofu, TVP, gluten, veggie rolls, teas, spices, etc.",
+  "streetAddress": "34 S Ekhtiyariyeh",
+  "phone": "tel:+98-21-2584621",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-11:00pm, Sat-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.778931,51.464348&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.778931,51.464348&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

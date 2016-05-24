@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Cafe - Yehuda Maccabee",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Western, Beer/Wine, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Somewhat upscale coffee cafe chain with multiple locations, and all have marked vegan and vegetarian items on its menu. Some of the vegan items are \"without the meat\" or \"without the cheese\" but in these cases it charges less for the vegan version. There is one vegan breakfast, as well as vegan sandwiches, salads, and pasta dishes. Atmosphere here is subdued and quiet. Menu available in English, free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "61 Yehuda Maccabee",
+  "phone": "tel:03-6295352",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.093867,34.791288&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.093867,34.791288&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

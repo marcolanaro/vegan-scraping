@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Jing Ping Thai",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Thai, Taiwanese\n                                    ",
+  "description": "京品泰味, at 台北市中正區仁愛路二段7號, is a trendy vegetarian Thai restaurant that gives a twist to traditional Chinese cuisine with Thai herbs. Thai cuisine and desserts, too. Uses mock meats.",
+  "priceRange": "Expensive",
+  "streetAddress": "7, Sec. 2, RenAi Rd, Zhongzheng District",
+  "postalCode": "100",
+  "phone": "tel:02-23224954",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-2:00pm, 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.038405,121.525826&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.038405,121.525826&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

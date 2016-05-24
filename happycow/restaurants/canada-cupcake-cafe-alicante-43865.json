@@ -1,0 +1,15 @@
+{
+  "title": "Canada Cupcake Cafe",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Coffee shop offering cupcakes, bagels, and drinks. Has vegan options and soymilk for coffee drinks.",
+  "streetAddress": "c/ San Francisco 64",
+  "postalCode": "03001",
+  "phone": "tel:965207330",
+  "venueHours": "\n                                                                                                        Mon-Sun 4:00pm-9:00pm, Mon-Sat 10:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.343568,-0.487396&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.343568,-0.487396&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

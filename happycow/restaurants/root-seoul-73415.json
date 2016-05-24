@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "ROOT",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Salad bar, Beer/Wine, Take-out, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers salad bowls, sandwiches, and fresh drinks. Has tofu, avocado, beans, and other vegetables. Menu is flexible and will substitute.",
+  "priceRange": "Moderate",
+  "streetAddress": "741-19 Hannam-dong, Yongsan-gu, 2F",
+  "phone": "tel:02-7979505",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.537311,126.999946&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.537311,126.999946&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

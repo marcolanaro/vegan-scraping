@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Sanctuary Thailand",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Resort, health spa, and wellness centre.",
+  "streetAddress": "Haad Tien Beach",
+  "phone": "tel:+66-12713614",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/sanctuarythailand",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.690613,100.073776&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.690613,100.073776&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

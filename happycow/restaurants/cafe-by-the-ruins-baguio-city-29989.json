@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe by the Ruins",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Beer/Wine, Filipino, Asian Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Uses natural and local ingredients in season.",
+  "priceRange": "Expensive",
+  "streetAddress": "23 Shuntug Street",
+  "postalCode": "2600",
+  "phone": "tel:6374-4424010",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Cafe-By-The-Ruins/38813861009",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.413470,120.592120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.413470,120.592120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

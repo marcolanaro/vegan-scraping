@@ -1,0 +1,19 @@
+{
+  "title": "Tel-Aviv Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Mediterranean, Take-out, Middle Eastern, Kosher, Israeli\n                                    ",
+  "description": "Est. 2010 as vegetarian then turned all-vegan in 2016. Bistro offering Mediterranean and Israeli cuisines. Bright interior with modern decor. Food is sugar-free with gluten-free options. Sample items might be breakfast sets with apricot butter, ras el hanout chutney, tempeh camembert, soy shwarma, tofu kofta kebab, and hummus.",
+  "priceRange": "Moderate",
+  "streetAddress": "Poznanska 11",
+  "postalCode": "00-650",
+  "phone": "tel:226211128",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-2:00am, Sat-Sun 9:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tel.aviv.cafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.224629,21.011827&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.224629,21.011827&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

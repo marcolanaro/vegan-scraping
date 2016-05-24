@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bioobchod",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Stocks health and organic food including vegan and dairy substitutes, cruelty free cosmetic, and home cleaning products. ",
+  "streetAddress": "Kobližná 24",
+  "postalCode": "60200",
+  "phone": "tel:733598058",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-8:00pm, Sat 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.195226,16.612382&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.195226,16.612382&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

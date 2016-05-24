@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pachinger'Stodl",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Beer/Wine, Austrian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A family-run restaurant uses local products and offers vegan dishes. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Brunnengasse 45, St Georgen",
+  "postalCode": "7000",
+  "phone": "tel:02682-64790",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 4:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.852368,16.553034&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.852368,16.553034&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

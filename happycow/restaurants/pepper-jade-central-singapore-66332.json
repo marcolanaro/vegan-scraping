@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pepper Jade",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Delivery, Take-out, Catering\n                                    ",
+  "description": "Opened Nov 2015 this place serves Thai food with dishes like tom yum soup, green curry, lemon chicken, papaya salad.",
+  "priceRange": "Moderate",
+  "streetAddress": "94 Bencoolen St, Sunshine Plaza, Unit 01-18/19/20",
+  "postalCode": "189652",
+  "phone": "tel:63377050/,%2097692533",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-3:00pm, Sat-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300233,103.850952&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300233,103.850952&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Knees to Chin",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Fast food, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a range of Vietnamese rice paper rolls prepared with fresh products. A few vegan options (tofu or sweet potato rice rolls, as well as peanut rice and sweets).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rue de Livourne 125",
+  "postalCode": "1000",
+  "phone": "tel:26441811",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/kneestochin",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.826513,4.362311&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.826513,4.362311&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

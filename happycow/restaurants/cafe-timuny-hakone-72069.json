@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Timuny",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe on two floors, situated across from the station. Has English menu with photos available - be sure to look at photos since some items come with meat even though the description suggests otherwise. You'll be able to get a vegetarian toast set or salad, but nothing completely vegan. Last order 6:30pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "250-0311 Kanagawa Prefecture, Ashigarashimo District 706-32",
+  "phone": "tel:0460857810",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 10:00am-7:00pm, Thu-Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.232821,139.103738&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.232821,139.103738&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

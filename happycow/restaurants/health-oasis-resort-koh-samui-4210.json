@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Health Oasis Resort",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Very vegetarian-friendly restaurant offers fresh foods, juices, spring rolls, and more. Please send HappyCow the correct map marker location.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bang Po Beach, NW Coast",
+  "phone": "tel:077420124",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Health-Oasis-Resort/154346567929158",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.578162,99.939982&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.578162,99.939982&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

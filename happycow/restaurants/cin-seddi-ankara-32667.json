@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cin Seddi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu has a small veggie section with a few vegan options. Also veggie options in the other sections of menu are marked with a green V. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Hosdere Cad 176/B, Cankaya",
+  "phone": "tel:0312-442-9353",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.885810,32.849002&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.885810,32.849002&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

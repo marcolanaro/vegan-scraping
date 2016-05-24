@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Iydea Vegetarian Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Fast food, Take-out, British, English\n                                    ",
+  "description": "Brighton veggie cafe with counter service. Its original cafe. Offers a variety of food including vegan cakes. Vegan lunch on Sunday.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "17 Kensington Gardens, North Laine",
+  "postalCode": "BN1 4AL",
+  "phone": "tel:01273-667992",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-5:30pm, Sun 11:00am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Iydea/130698363025",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.826780,-0.138480&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.826780,-0.138480&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

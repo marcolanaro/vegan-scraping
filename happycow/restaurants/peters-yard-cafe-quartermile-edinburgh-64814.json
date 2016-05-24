@@ -1,0 +1,19 @@
+{
+  "title": "Peter's Yard Cafe Quartermile",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Beer/Wine, Bakery, European, Swedish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Swedish-style bakery cafe offering brunch and lunch food, cakes, coffee and tea. Usually has a vegan sandwich and a vegan dessert (like pecan pie). Has non-dairy milk for coffee and smoothies.",
+  "priceRange": "Moderate",
+  "streetAddress": "Quartermile, 27 Simpson Loan",
+  "postalCode": "EH3 9GG",
+  "phone": "tel:01312285876",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-6:00pm, Sat-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.943658,-3.191744&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.943658,-3.191744&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

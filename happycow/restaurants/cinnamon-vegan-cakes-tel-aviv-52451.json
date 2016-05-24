@@ -1,4 +1,11 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cinnamon Vegan Cakes",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "No storefront. Vegan baking service providing cakes for the weekend. Offers cinnamon-nut, halva, carrot, chocolate, and banana cakes; these are made with 50% whole wheat flour. Order by phone, text message, or email (cinnamon.vegancakes@gmail.com) by Wednesday afternoon, then pick up on Thursday or Friday afternoon.",
+  "streetAddress": "Gan Ha'Ir area",
+  "phone": "tel:052-2976121",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.082018,34.779508&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.082018,34.779508&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

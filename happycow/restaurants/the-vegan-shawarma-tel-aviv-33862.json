@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "HaShwarma HaTivonit - The Vegan Shwarma",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Pizza, Fast food, Take-out, Middle Eastern, Israeli\n                                    ",
+  "description": "Vegan fast food restaurant, since 2012; previously known as The Vegetarian Shwarma. Offers seitan schnitzel and tofu, shawarma, pizza, burgers and fries, and other fast food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "King George 81",
+  "phone": "tel:03-52488821",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/vegshawarma.tlv",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.075949,34.776630&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.075949,34.776630&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Her San",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Buffet, Fast food, Take-out\n                                    ",
+  "description": "Jay vegan restaurant near Chinese temple. Choose from many ready-made dishes on their buffet. No garlic or onion used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "207 Ranong Road",
+  "phone": "tel:076-256611",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.883584,98.384056&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.883584,98.384056&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

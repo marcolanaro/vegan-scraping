@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Com Chay Co Lai",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Buffet, Take-out, Vietnamese\n                                    ",
+  "description": "Traditional buffet of vegetables and mock meats augmented by small menu. Very plain setting, no English spoken.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "44B Nguyen Thai Hoc",
+  "phone": "tel:057-3823268",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.091015,109.304566&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.091015,109.304566&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pure Koh Lanta",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Juice bar, Take-out, Bakery, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Western style health food cafe, opened Nov 2015 in Klong Nin opposite the pharmacy. Uses whole ingredients and has cold-pressed juice, raw and vegan sweets.",
+  "priceRange": "Moderate",
+  "streetAddress": "52/2 Moo 6 Klong Nin Beach",
+  "postalCode": "81150",
+  "phone": "tel:0926010474",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-5:00pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/purekohlanta",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.544797,99.047533&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.544797,99.047533&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

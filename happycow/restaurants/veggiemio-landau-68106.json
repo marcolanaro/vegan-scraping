@@ -1,0 +1,14 @@
+{
+  "title": "VeggieMio",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Small market providing all-vegan food supplies from tofu and faux meat to nutritional yeast and snack foods.",
+  "streetAddress": "Marktstr. 104",
+  "postalCode": "76829",
+  "phone": "tel:63412979441",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.195590,8.112030&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.195590,8.112030&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

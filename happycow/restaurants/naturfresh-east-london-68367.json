@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "NaturFresh",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Raw, Salad bar, Juice bar, Catering\n                                    ",
+  "description": "An all-vegan cafe serving raw food, including main courses, desserts, super smoothies and more. Has gluten free items. Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "504 Roman Rd",
+  "postalCode": "E3 5LU",
+  "phone": "tel:00447588321712",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat-Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Naturfresh",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.532261,-0.032524&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.532261,-0.032524&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

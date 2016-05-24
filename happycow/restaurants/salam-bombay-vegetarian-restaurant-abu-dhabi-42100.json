@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Salam Bombay Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Delivery, Take-out\n                                    ",
+  "description": "Indian vegetarian restaurant with plenty of vegan options. Serves vada pav, pav bhaji, maharaja thali and fried ice cream, among others.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Electra Street",
+  "phone": "tel:02-6777076",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.486311,54.363828&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.486311,54.363828&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

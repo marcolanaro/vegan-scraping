@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shitoya Coffee Room ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western\n                                    ",
+  "description": "思图雅咖啡屋 coffee house.",
+  "priceRange": "Moderate",
+  "streetAddress": "19 Jalan KBS 3, Taman Kota Syahbandar, Melaka",
+  "postalCode": "75200",
+  "phone": "tel:06-2880833/,%20012-6628989",
+  "venueHours": "\n                                                                                                        Mon-Sat 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.193129,102.237427&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.193129,102.237427&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nishta",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Beer/Wine, Take-out, Croatian\n                                    ",
+  "description": "Veggie restaurant with another location in Dubrovnik; this one opened in Jan 2014. Most of the dishes are vegan and labelled as such. An interesting take on traditional and ethnic dishes, gluten free and raw options, selection of drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Masarykova 11/1",
+  "phone": "tel:01-8897444",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/NishtaZagreb",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.810783,15.972994&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.810783,15.972994&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

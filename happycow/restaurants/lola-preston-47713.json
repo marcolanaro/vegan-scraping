@@ -1,0 +1,19 @@
+{
+  "title": "Lola",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Take-out, African, Egyptian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan choices such as hummus, falafel, baba ghanoush, and baked mesaka'a which contains only vegetables and tomato sauce. Baked zucchini, baked okra, and curries can be made vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "119 London Rd",
+  "postalCode": "PR1 4BA",
+  "phone": "tel:01772460815",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:30am-11:00pm, Sat-Sun 3:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Lolacoffeerestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.757923,-2.683723&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.757923,-2.683723&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

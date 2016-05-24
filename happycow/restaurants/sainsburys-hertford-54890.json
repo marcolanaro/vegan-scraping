@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sainsburys",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Stocks a wide array of vegan products including chocolate, plant milk, tofu, faux meat and cheese. Has a massive selection of fruit and vegetable.",
+  "streetAddress": "Hartham Lane",
+  "postalCode": "SG14 1RD",
+  "phone": "tel:01992901300",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-10:00pm, Sun 10:30am-4:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.797882,-0.080785&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.797882,-0.080785&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

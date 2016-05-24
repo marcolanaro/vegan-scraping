@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "ABE-DO",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Juice bar, Beer/Wine, Take-out, Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Family-friendly waroeng enroute to Botanical Garden. Has an art gallery and small shop for local products, and caters to all dietary requirements. Any dish can be made vegan by request.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl Tirta Tawar 43, Ubud",
+  "phone": "tel:006281338021855",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.488812,115.269901&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.488812,115.269901&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

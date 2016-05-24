@@ -1,0 +1,18 @@
+{
+  "title": "Veganerie",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Raw, Juice bar, Take-out\n                                    ",
+  "description": "A 100% vegan restaurant/cafe serves sandwiches, baked potatoes, salads, wraps, soups, bowls, juices, smoothie bowls, coffee, desserts and tea.",
+  "priceRange": "Moderate",
+  "streetAddress": "Ackerstr 129",
+  "postalCode": "40233",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VeganerieDuesseldorf",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.228957,6.804947&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.228957,6.804947&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

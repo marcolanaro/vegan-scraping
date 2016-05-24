@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aylak Yasam Kultur Evi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Italian, Western, Beer/Wine, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a vegetarian/vegan section on menu, with 5 dishes, plus others that can be made vegan. Live music events. Located on the top floor of an apartment building and once you have reached the door, just ring the bell. The cafe, which looks like an actual apartment, consists of an indoor sitting area and a big terrace.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Konur Sok, No 63/13",
+  "postalCode": "06800",
+  "phone": "tel:03124193556",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/aylakyasam",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.919022,32.856004&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.919022,32.856004&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

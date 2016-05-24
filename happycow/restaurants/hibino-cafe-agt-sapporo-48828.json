@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hibino Cafe AGT",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Macrobiotic, Organic, Western, Fusion\n                                    ",
+  "description": "The restaurant is on the 2nd floor above a shop that sells brown rices, veggies, and organic foodstuff. Reported menu became all-veg (Feb 2016). Offers an array of choices, such as bean burgers and curry. Uses local produce and has sugar-free desserts. Last order is 1 hour before closing.",
+  "priceRange": "Moderate",
+  "streetAddress": "South 16 Nishi 4-Chome 1-10, Chuo-ku",
+  "phone": "tel:011-5222714",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-6:00pm, Fri-Sat 11:30am-10:00pm, Sun 11:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.038457,141.355403&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.038457,141.355403&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ajiro",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese\n                                    ",
+  "description": "Shoujin ryori (vegan Japanese Buddhist cuisine) and Japanese seating. At JR Hanazono, or Kyoto bus stop before Myoshin 61,62,63. Address: 京都市右京区寺の前町28-3",
+  "priceRange": "Expensive",
+  "streetAddress": "Ukyo-ku, Kyoto Teranomae-cho, 28-3",
+  "postalCode": "616-8041",
+  "phone": "tel:075-463-0221",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:00am-7:00pm, Thu-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.018677,135.706408&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.018677,135.706408&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

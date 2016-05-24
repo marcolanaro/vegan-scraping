@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tracy Juice Culture - Fortune Centre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Juice bar, Take-out, Asian\n                                    ",
+  "description": "Healthy juices and smoothies bar with several locations in Singapore. Uses fresh fruits and vegetable. A few food items available. Dairy free though honey is used. Owners are dedicated to teaching holistic lifestyle practices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "190 Middle Rd, #01-34, Fortune Centre",
+  "postalCode": "188979",
+  "phone": "tel:6224-0701",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.300405,103.852241&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.300405,103.852241&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

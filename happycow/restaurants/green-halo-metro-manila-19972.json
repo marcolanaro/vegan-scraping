@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Halo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Filipino, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small cafe run by activists who are committed to serving organic, vegan-friendly fare. Also serves fish and chicken. Vegetarian versions of standard Filipino dishes are offered, as well as pasta and veggie burgers. Wait times are long.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shop 11, Cubao Expo Commercial Center, Romulo Street, Araneta Center, Cubao, Quezon City",
+  "phone": "tel:09162317061",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.617290,121.059309&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.617290,121.059309&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

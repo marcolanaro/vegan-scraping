@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Blue Note Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, British, English\n                                    ",
+  "description": "Veggie food from light snacks and cakes to main meals. Vegan burgers. Licensed and non-smoking.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-4 High Street",
+  "postalCode": "BA6 9DU",
+  "phone": "tel:+44-01458-832907",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Open daily - call for hours.\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.147870,-2.715110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.147870,-2.715110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

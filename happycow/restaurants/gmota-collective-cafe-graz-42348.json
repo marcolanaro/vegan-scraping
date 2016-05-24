@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "GMOTA Collective Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Western\n                                    ",
+  "description": "A collectively organized cafe and meeting place. Price is based on what you can afford to donate. Uses mostly regional and seasonal products. Drinks include tea, coffee (has soy milk), and juices. Food is mostly vegan and typically includes cakes, sandwiches with house-made jam, and one vegan meal each day. Inviting community atmosphere. You could use the kitchen if you want to bring your own food. Free Wi-Fi. GMOTA membership is required; it's free to sign-up in the cafe.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Munzgrabenstrasse 57",
+  "postalCode": "8010",
+  "phone": "tel:+43-650-8308809",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/GMOTA-das-Kollektiv-Cafe/496030790419074",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.062608,15.451529&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.062608,15.451529&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

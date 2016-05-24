@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wood Oven Pizza",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "A Vaishnava establishment offering Italian wood oven pizza, plus pasta, lasagna, salad, and fresh juices. Makes its own cheese. New location reported by owner Oct 2012; previously on Prikarma Marg.",
+  "priceRange": "Moderate",
+  "streetAddress": "Harinikunj Chauraha",
+  "phone": "tel:+91-8272864001-3",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.580580,77.700607&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.580580,77.700607&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

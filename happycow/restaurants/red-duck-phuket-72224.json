@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Red Duck",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional Thai food. Has veg menu section with plenty of meals. Reported the owner knows about vegan food and will take time to talk to you.",
+  "priceRange": "Moderate",
+  "streetAddress": "Khoktanod Rd 88/3, Kata Beach",
+  "phone": "tel:848502929",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/Red-Duck-Restaurant-Kata-261413540546822",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.815600,98.300789&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.815600,98.300789&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

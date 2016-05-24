@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dubai Mughal",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Indian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located on the corner of Al Ain Mall near the traffic lights. Many Indian and Indian-Chinese vegetarian dishes on the menu. Vegans need to ask about options. Generous food portions. Parking nearby. Buses 960, 970, 990.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Othman Ibn Affan St",
+  "phone": "tel:03-751-0506",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.221890,55.780098&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.221890,55.780098&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

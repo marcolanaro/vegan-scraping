@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Charlie's Vegetable",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese, Buffet, Salad bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a diverse and plentiful salad bar. Please confirm if there are vegan options and let HappyCow know!",
+  "priceRange": "Moderate",
+  "streetAddress": "2-3-16 Kachi-Machi",
+  "postalCode": "790-0801",
+  "phone": "tel:089-915-6110",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.842443,132.772775&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.842443,132.772775&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

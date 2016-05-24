@@ -1,0 +1,20 @@
+{
+  "title": "Mamalicious",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Bakery, Canadian\n                                    ",
+  "description": "Canadian diner-style restaurant. Food is vegetarian and uses faux sausage and bacon. Offers a large menu with items like BLT bagel, chilli, vegan macaroni and cheese, house-made burgers with sauces and bread. Large selection of baked goods and cakes. Open since 2011.",
+  "priceRange": "Moderate",
+  "streetAddress": "Max-Brauer-Allee 277",
+  "postalCode": "22769",
+  "phone": "tel:+49-4018004382",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 9:00am-6:00pm, Wed 9:00am-7:00pm, Thu 9:00am-10:00pm, Fri 9:00am-7:00pm, Sat 9:00am-10:00pm, Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/supermamalicious",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.563640,9.959355&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.563640,9.959355&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

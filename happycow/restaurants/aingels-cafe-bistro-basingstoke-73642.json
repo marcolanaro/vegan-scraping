@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Aingels Cafe Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Bakery, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local cafe offering a couple of vegan options on the menu which change regularly. Other dishes can be veganized when you ask the owner. Stocks plant milk for drinks and sometimes a vegan cake. Shabby chic decor. Large car park is  adjacent to the cafe.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Winklebury Way",
+  "postalCode": "RG23 8BA",
+  "phone": "tel:01256411876",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:00am-5:00pm, Thu-Fri 8:00am-8:00pm, Sat 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/aingelscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.271771,-1.113167&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.271771,-1.113167&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

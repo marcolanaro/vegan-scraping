@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hanasaka",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Macrobiotic, Organic\n                                    ",
+  "description": "Located in the world heritage Yoshino Mount Range, famous for thousands of cherry blossoms, this restaurant offers macrobiotic/vegan cuisine and some organic products and natural-yeast breads. Needs reservation (if possible, 3 days in advance) EXCEPT tourist season of cherry blossoms (April and May).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2299 Miyasaka Agaru, Yoshinoyama",
+  "phone": "tel:0746-32-1162",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.365110,135.862075&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.365110,135.862075&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

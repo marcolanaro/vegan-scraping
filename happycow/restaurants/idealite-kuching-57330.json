@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Idealite",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Organic, Take-out, Malaysian\n                                    ",
+  "description": "品味舒食 operates multiple outlets. Advertises as a wholesome dining place. No add white sugar, white salt, MSG, synthetic. Uses whole grains, brown sugar, rock salt, fruits and vegetables that have been cleaned in an ozone machine.",
+  "priceRange": "Moderate",
+  "streetAddress": "Lot 2667, Block 10 KCLD, 206, Twin Tower Centre, Jalan Rock",
+  "postalCode": "93250",
+  "phone": "tel:+6018-3637977",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 8:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/media/set/?set=a.711934898823346.1073741833.592749414075229&type=3",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.520780,110.334226&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.520780,110.334226&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

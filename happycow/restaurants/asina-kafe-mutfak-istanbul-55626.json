@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Asina Kafe Mutfak",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Buffet, Take-out, Middle Eastern, Turkish, Arabic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan choices. Menu changes daily. Water is free. Offers platters that come with several dishes from buffet. Previously were in Tesvikiye, but moved here because of urban area design.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bademalti Sokak 27/A Moda Kadikoy",
+  "phone": "tel:+902163367533",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/asinakafemutfak",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.984725,29.026158&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.984725,29.026158&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

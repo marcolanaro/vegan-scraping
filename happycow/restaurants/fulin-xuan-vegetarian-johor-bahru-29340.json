@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fulin Xuan Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Juice bar, Malaysian\n                                    ",
+  "description": "福临轩素食餐厅 has a nice space, waiter service, a la carte menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "54, Jalan Sulam, Taman Sentosa",
+  "postalCode": "80150",
+  "phone": "tel:607-3315319",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-3:00pm, 5:30pm-10:00pm, Sat-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Fulin-Xuan-Vegetarian-Food-Restaurant-福临轩素食餐厅/119222804846806",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.493802,103.766736&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.493802,103.766736&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

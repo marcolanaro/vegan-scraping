@@ -1,0 +1,18 @@
+{
+  "title": "Zyzna",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western\n                                    ",
+  "description": "A cozy 100% vegan bistro in the center of the city. Rotating menu of three mains, soups, quiches, bagels and desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nozownicza 37",
+  "postalCode": "50-147",
+  "phone": "tel:+48-731292663",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 12:00pm-8:00pm, Sat-Sun 1:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/zyznabistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.111794,17.036648&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.111794,17.036648&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

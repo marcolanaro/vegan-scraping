@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fox Hall Vegan B and B",
+  "tags": [
+    "Veg Hotel/BnB",
+    "Vegan"
+  ],
+  "description": "Vegan guesthouse.",
+  "streetAddress": "Prizet Stables, Helsington",
+  "postalCode": "LA8 8AB",
+  "phone": "tel:015395-61241",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Fox-Hall-Vegan-BB/119057748127063",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.296836,-2.755762&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.296836,-2.755762&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

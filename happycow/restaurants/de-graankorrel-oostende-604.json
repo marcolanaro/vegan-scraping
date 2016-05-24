@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "De Graankorrel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Macrobiotic, Beer/Wine, Bakery, European, Dutch\n                                    ",
+  "description": "Offers a daily changing lunch menu in small or large portion; plus soup of the day or miso soup. Desserts are organic and vegan without added sugar. Drinks include organic juices, beer, wine, coffee, tea, or water. Nice setting in a house-like place with fireplace.",
+  "priceRange": "Moderate",
+  "streetAddress": "Edith Cavellstraat 86",
+  "postalCode": "84000",
+  "phone": "tel:+32-59803376",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.222160,2.916400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.222160,2.916400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

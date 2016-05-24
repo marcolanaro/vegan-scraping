@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wherry Hotel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Buffet, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hotel with restaurant that offers a nut roast and has vegan gravy, roast veggies cooked in oil. A option for veggies in this region with little else.",
+  "priceRange": "Moderate",
+  "streetAddress": "Bridge Rd, Oulton Broad",
+  "postalCode": "NR32 3LN",
+  "phone": "tel:01502516845",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-10:00pm, Sat-Sun 7:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.475210,1.710767&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.475210,1.710767&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

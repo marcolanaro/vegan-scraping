@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Asian, Malaysian\n                                    ",
+  "description": "Part of international chain of vegan restaurants opened by followers of Supreme Master Ching Hai, an advocate for vegetarian living. Each location is individual family owned and operated. Serves all vegan food, coffee, non-alcoholic beverages, and more. Rice, noodle, snacks, western food, steam boat set. Has free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "18, Jalan Mas, Taman Mas",
+  "postalCode": "30200",
+  "phone": "tel:+60162388330",
+  "venueHours": "\n                                                                                                        Mon-Tue 11:00am-3:00pm, 5:30pm-10:00pm, Fri 5:30pm-10:00pm, Fri-Sun 11:00am-3:00pm, Sun 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.566348,101.079854&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.566348,101.079854&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

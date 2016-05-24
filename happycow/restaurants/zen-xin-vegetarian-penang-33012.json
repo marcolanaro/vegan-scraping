@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Zen Xin Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Catering, Cantonese, Buddhist\n                                    ",
+  "description": "禅心素食料理, makes Chinese Cantonese dishes, dim sum, and caterings event dinners. On two floors. Jun 2013 reported no longer offering buffet.",
+  "priceRange": "Moderate",
+  "streetAddress": "42, Jalan Nagore",
+  "postalCode": "10050",
+  "phone": "tel:04-2286828/,%20016-4259419",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-3:00pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/zenxinvege",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.421017,100.325845&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.421017,100.325845&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

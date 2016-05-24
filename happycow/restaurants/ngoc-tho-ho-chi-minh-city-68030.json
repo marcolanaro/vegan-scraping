@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ngoc Tho",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a separate menu of vegan/vegetarian dishes which includes different mock meats. Menu is in English. A place one can go with meat-eaters.",
+  "priceRange": "Moderate",
+  "streetAddress": "175/9 Pham Lao St",
+  "phone": "tel:0838360162",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.768600,106.694389&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.768600,106.694389&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

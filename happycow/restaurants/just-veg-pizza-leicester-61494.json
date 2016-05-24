@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Just Veg Pizza",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        American, Pizza, Indian, Italian, Fast food, Take-out\n                                    ",
+  "description": "Fast food take away with Italian, American, British, and Indian food: pizza, burgers, kebabs, wraps, vegan fish & chips.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1 Saxon St",
+  "postalCode": "LE3 0BL",
+  "phone": "tel:01162258897",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.629379,-1.148536&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.629379,-1.148536&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

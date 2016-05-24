@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lotash Seed",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small family-run restaurant in the heart of Bangkok's 'backpacker ghetto.' Has a significant vegetarian menu, and the owner & chef understands the concepts of vegetarian and vegan. No MSG nor animal oil used. Price are 45-60 baht per dish.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Thanon Rambuttri, Banglamphu",
+  "postalCode": "10600",
+  "phone": "tel:02-2827082",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.760520,100.496793&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.760520,100.496793&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

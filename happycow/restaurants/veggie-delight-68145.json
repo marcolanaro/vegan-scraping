@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veggie Delight",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Raw, Fast food, Delivery, Take-out, Asian, Filipino\n                                    ",
+  "description": "A vegetarian and vegan restaurant serving Filipino dishes at affordable prices. Some dishes may include milk and/or egg; vegans please inquire.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "345 Huervana St La Paz",
+  "phone": "tel:+639235303481",
+  "venueHours": "\n                                                                                                        Mon 8:00am-8:00pm, Tue-Thu 8:00pm-8:00pm, Fri 8:00am-4:00pm, Sun 8:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Veggie-Delight/778245152189453",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.709770,122.569561&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.709770,122.569561&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

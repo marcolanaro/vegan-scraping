@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dosa King",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out\n                                    ",
+  "description": "Vegetarian Indian restaurant serving both North and South Indian food. Prices for main dish from 70-200 baht each dish.",
+  "priceRange": "Expensive",
+  "streetAddress": "153/7, Sukhumvit Road, Soi -11/1",
+  "postalCode": "10110",
+  "phone": "tel:+%2066-02-6511700",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.740430,100.556540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.740430,100.556540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

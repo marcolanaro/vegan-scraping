@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Oskar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little cafe, has vegan snacks, soy milk for drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rynek 16",
+  "postalCode": "43-300",
+  "phone": "tel:338169819",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-11:00pm, Fri-Sat 10:00am-12:00am, Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Cafe-Oskar/305651566125461",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.821592,19.042896&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.821592,19.042896&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

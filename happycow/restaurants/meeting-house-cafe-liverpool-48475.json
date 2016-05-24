@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Meeting House Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Take-out, British, English\n                                    ",
+  "description": "Liverpool Quakers teamed with Blackburne House Cafe to open this eatery in late-July 2014. It's situated inside the Liverpool Quaker Meeting House. Offers seasonal food like granola and porridge, soup and fresh bread, sandwiches and paninis, baked potatoes, quiche, and salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "22 School Lane",
+  "postalCode": "L1 3BT",
+  "phone": "tel:0151-7096957",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-2:30pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.404375,-2.982998&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.404375,-2.982998&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

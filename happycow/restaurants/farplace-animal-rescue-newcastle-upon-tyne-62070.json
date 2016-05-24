@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Farplace Animal Rescue",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "Charity shops in the center of Newcastle. The one in Eldon Gardens specializes in the usual bric-a-brac, whereas the Clayton St store sells a large range of vegan snacks and food products.",
+  "streetAddress": "71 Clayton St",
+  "phone": "tel:01912221248",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/farplaceshopnewcastle",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.971575,-1.617079&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.971575,-1.617079&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

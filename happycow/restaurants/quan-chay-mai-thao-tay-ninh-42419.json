@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Quan Chay Mai Thao",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Vietnamese\n                                    ",
+  "description": "Vegetarian basic open air restaurant, with many vegan options, is a popular spot among locals. Since located close to the Cao Dai temple, on the second side street (Ngo 2) off of Dien Bien Phu St, it also caters to temple-goers. Hot pot (lau) is specialty. No menu, so vegans need to ask staff for options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ngo 2, Dien Bien Phu Street",
+  "phone": "tel:0903670799",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.316051,106.086849&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.316051,106.086849&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

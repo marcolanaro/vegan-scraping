@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Al Chile",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Juice bar, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican restaurant offering options for vegetarians, of which some can be prepared vegan when requested. Monday is 'Vegan Monday' with additional vegan items. Beverages include fresh fruit and veggie juices, a rice milk milk-shake, an organic xocolatl traditionally prepared with water. Has a children's corner and book exchange.",
+  "priceRange": "Moderate",
+  "streetAddress": "Gumpendorferstrasse 71",
+  "postalCode": "1060",
+  "phone": "tel:+43-19457698",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-10:00pm, Sat-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/alchile.info",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.194904,16.350911&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.194904,16.350911&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

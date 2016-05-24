@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sinas Galata",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Middle Eastern, Turkish\n                                    ",
+  "description": "Vegetarian place, serves traditional Turkish food with pancakes with spinach, potato, etc. Offers mix plate of lentil balls, stuffed vine leaves, salad, and cheese pastries or individual serving size. Baklava may not be vegan because of margarine used, Nov 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sahkulu Mahallesi Yoruk Cikmazi 1",
+  "postalCode": "34000",
+  "phone": "tel:+905542567960",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/sinasgalata",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.027281,28.974653&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.027281,28.974653&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

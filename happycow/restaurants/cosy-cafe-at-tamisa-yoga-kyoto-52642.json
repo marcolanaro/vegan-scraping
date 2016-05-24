@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cosy Cafe at Tamisa Yoga",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Western, Bakery\n                                    ",
+  "description": "Small vegan cafe and shop on the 2nd floor of the yoga studio Tamisa in central Kyoto, at 京都市中京区天性寺前町532 北原ビル2F. Menu consists of cakes and muffins, coffee drinks, and light meal sets.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Tenshojimaecho, 532−2, Nakagyo Ward",
+  "phone": "tel:075-2120776",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Yoga.studio.TAMISA",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.009190,135.767091&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.009190,135.767091&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

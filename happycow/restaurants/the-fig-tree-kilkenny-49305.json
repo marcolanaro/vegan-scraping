@@ -1,0 +1,17 @@
+{
+  "title": "The Fig Tree",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, British, Irish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers some veggie choices including vegetarian breakfast, soup, lentil & potato cake, a vegan burger, and house salad dressing.",
+  "priceRange": "Moderate",
+  "streetAddress": "20 High Street",
+  "phone": "tel:0567756676",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-5:00pm, Fri-Sat 9:00am-7:00pm, Sun 10:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.651570,-7.253151&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.651570,-7.253151&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

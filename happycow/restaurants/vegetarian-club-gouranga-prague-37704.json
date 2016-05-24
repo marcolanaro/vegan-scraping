@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Club Gouranga - Chlumova",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Buffet, Salad bar, Juice bar, Delivery, Czech\n                                    ",
+  "description": "Serves karma-free food with items like soup, basmati rice, salads, chutney and many more. Buffet with plenty of appetizers, sweets, juices and many are vegan. Has an herbal tea room, a chill-out lounge and free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Chlumova 2, Praha 3",
+  "postalCode": "130 00",
+  "phone": "tel:+420-605-999450",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-8:00pm, Sat 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/vegetarian.club.gouranga",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.084303,14.452861&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.084303,14.452861&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

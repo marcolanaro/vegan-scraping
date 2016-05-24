@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cabungan's Beach Cottage",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fili, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Beach cabin with restaurant service. The owner & cook understands what vegan means. You could get porridge with fresh coconut milk and veggie items such as jackfruit salad and veggie curry with coconut milk.",
+  "priceRange": "Moderate",
+  "streetAddress": "Juan Luna, Port Barton, Palawan",
+  "phone": "tel:%2009196507136",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/cabungancottages",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=10.413534,119.177738&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C10.413534,119.177738&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

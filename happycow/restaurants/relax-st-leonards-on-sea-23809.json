@@ -1,4 +1,20 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Relax",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Take-out, Armenian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Clearly labeled vegetarian & vegan menu options. Daily specials. Separate lunch & dinner menus. Uses seasonal fresh vegetable. Has vegan tapas such as flavored salads, spinach rolled in Armenian bread, bozbash Armenian stew served in a clay pot (potatoes, rice, carrots, courgettes, aubergine & onion), mushroom & spinach or lentil Russian blinis, imam bayeldi, various rice & salad dishes, bakhlava & dessert blinis. Armenian coffee served. Lovely decor and atmosphere. Located on the seafront.",
+  "priceRange": "Moderate",
+  "streetAddress": "18 Marine Court, Leonards-on-sea",
+  "postalCode": "TN38 0DX",
+  "phone": "tel:01424432470",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/caferelax",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.855449,0.545945&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.855449,0.545945&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Vegan Deli",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Western, Juice bar, Bakery, German\n                                    ",
+  "description": "Small vegan deli bar offering snacks, soups, salads, smoothies, juices, and cakes. Uses organic, fair trade ingredients. Originally known as Yam Vegan Deli.",
+  "priceRange": "Moderate",
+  "streetAddress": "Augustenstrasse 5",
+  "postalCode": "80333",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/dasveganedeli",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.145440,11.560423&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.145440,11.560423&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

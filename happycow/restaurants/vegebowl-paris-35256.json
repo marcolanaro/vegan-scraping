@@ -1,0 +1,17 @@
+{
+  "title": "Vegebowl",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Thai, Vietnamese\n                                    ",
+  "description": "Asian vegetarian cuisine with dishes from Thailand, China, Malaysia. Chef is experienced in vegetarian cooking. All dishes can be made vegan and GMO-free upon request. Uses no eggs. Located in the 9th arrondissement, near metro Grands Boulevards (line 8, 9) and metro Cadet (7).",
+  "priceRange": "Moderate",
+  "streetAddress": "3 rue de la Boule Rouge",
+  "postalCode": "75009",
+  "phone": "tel:0142464589",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00pm-11:00pm, Mon-Fri 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.873388,2.344717&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.873388,2.344717&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

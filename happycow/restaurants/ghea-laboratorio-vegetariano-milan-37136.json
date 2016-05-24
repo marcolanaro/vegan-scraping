@@ -1,0 +1,17 @@
+{
+  "title": "GhEA",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Buffet, Juice bar\n                                    ",
+  "description": "Vegetarian and vegan food restaurant. Happy hour Tue-Sat. Food served at the buffet, and from time to time the waiter brings hot dishes from the kitchen.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Valenza 5",
+  "postalCode": "20144",
+  "phone": "tel:+39-258110980",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 12:30pm-2:30pm, Tue-Sun 7:30pm-11:00pm, Sat-Sun 12:30pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.451803,9.169683&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.451803,9.169683&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Melling's Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        British\n                                    ",
+  "description": "A vegetarian restaurant which serves a variety of dishes, some of which are vegan. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "59 King St, Blackburn",
+  "postalCode": "BB7 9SP",
+  "phone": "tel:+441254822960",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/mellingsvegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.821311,-2.406599&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.821311,-2.406599&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

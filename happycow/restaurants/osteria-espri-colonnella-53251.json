@@ -1,0 +1,19 @@
+{
+  "title": "Osteria Espri",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Organic\n                                    ",
+  "description": "Previously served meat, but is now exclusively vegan and vegetarian serving natural organic cuisine using seasonal ingredients.\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Sobborgo 4",
+  "postalCode": "64010",
+  "phone": "tel:+39-0861700013",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 8:00pm-10:30pm, Thu-Sat 8:00pm-10:30pm, Sun 1:00pm-2:30pm, 8:00pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Espri-Vineria-Osteria-Cucina-Naturale/101911903177234",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.872123,13.867205&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.872123,13.867205&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

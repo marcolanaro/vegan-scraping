@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Thien Y",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Fast food, Delivery, Take-out, Vietnamese\n                                    ",
+  "description": "Long time operating vegan cafe, located behind Hung Vuong blvd.",
+  "priceRange": "Moderate",
+  "streetAddress": "Le Thanh Tong, Khom Hoa Binh, Cam Nghia",
+  "phone": "tel:058-3505008",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=11.917114,109.139299&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C11.917114,109.139299&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

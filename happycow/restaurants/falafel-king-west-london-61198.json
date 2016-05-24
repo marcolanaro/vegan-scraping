@@ -1,0 +1,17 @@
+{
+  "title": "Falafel King",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Mediterranean, Fast food, Middle Eastern, Take-out only\n                                    ",
+  "description": "Take-away shop selling falafel and hummus, either in a box or in pita. The salads and sauces are all vegan. Free lemonade while waiting for your order. Opening times vary.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "274 Portobello Rd",
+  "postalCode": "W10 5TE",
+  "phone": "tel:+44-2089642279",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.519256,-0.207577&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.519256,-0.207577&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

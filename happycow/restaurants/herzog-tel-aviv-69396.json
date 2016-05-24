@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Herzog",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Mediterranean, Israeli\n                                    ",
+  "description": "Opened late-Feb 2016 a vegan deli and tapas bar by former the chef/owner of Maavar-Passage.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "48 Ibn Gabirol",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:30pm-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Hertzog-%D7%94%D7%A8%D7%A6%D7%95%D7%92-669239419823508",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.077071,34.781475&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.077071,34.781475&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

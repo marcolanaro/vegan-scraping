@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Freedom Confectionery",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Maker of marshmallow that's gluten-free, vegan, halal, kosher, and suitable for coeliacs.",
+  "streetAddress": "Unit 24, Winders Way, Salford",
+  "postalCode": "M6 6AR",
+  "phone": "tel:441619250933",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/freedomconfectionery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.492742,-2.276257&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.492742,-2.276257&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

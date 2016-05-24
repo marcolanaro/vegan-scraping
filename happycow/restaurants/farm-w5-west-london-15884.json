@@ -1,0 +1,13 @@
+{
+  "title": "Farm W5",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and whole food shop selling fresh, locally sourced produce. Also a coffee shop serving fresh juice, salads, and sandwiches.",
+  "streetAddress": "19 The Green, Ealing",
+  "postalCode": "W5 5DA",
+  "phone": "tel:020-8566-1965",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-7:30pm, Sat 9:00am-7:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.504710,-0.379650&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.504710,-0.379650&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

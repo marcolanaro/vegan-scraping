@@ -1,0 +1,19 @@
+{
+  "title": "What's Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Pizza, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A pizza place/cafe/bar serves traditional napoli style pizza, American squares, sweets and salads. Vegan dough and vegan mozzarella are available. Mon-Thur vegetarian and vegan only. Meat only available on weekends.",
+  "priceRange": "Moderate",
+  "streetAddress": "Immermannstr 18",
+  "postalCode": "40210",
+  "phone": "tel:0700-33333333",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/whatspizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.224393,6.787223&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.224393,6.787223&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

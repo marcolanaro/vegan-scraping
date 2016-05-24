@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kaemon Gakugeidaigaku",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic\n                                    ",
+  "description": "Same owners as Kaemon Asakusa. This one is also opened in 2015, located in Gakugeidaigaku four stations from Shibuya. Serves handmade vegan dishes using fresh vegetables, beans, grains, and nuts.",
+  "priceRange": "Moderate",
+  "streetAddress": "Meguro-ku,Takaban 2-21-4",
+  "phone": "tel:03-57341190",
+  "venueHours": "\n                                                                                                        Mon 11:30am-2:30pm, 6:30pm-10:00pm, Wed-Sun 11:30am-2:30pm, 6:30pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/gohankaemon",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.630386,139.686464&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.630386,139.686464&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

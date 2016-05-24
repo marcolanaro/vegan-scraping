@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bodega 50",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Take-out\n                                    ",
+  "description": "Neighborhood cafe with mostly vegan food including toasties and cakes. Filter coffee and soya milk available. Scandinavian-inspired design, with vintage furniture shop downstairs and a small food shop in the cafe. Relaxed atmosphere, family friendly. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "50 Allen Rd, Stoke Newington",
+  "postalCode": "N16 8RZ",
+  "phone": "tel:020-76833869",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-6:00pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.555304,-0.081760&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.555304,-0.081760&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

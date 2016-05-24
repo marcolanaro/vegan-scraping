@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lovely Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Take-out, Malaysian\n                                    ",
+  "description": "Behind Hock Lee Center and formerly known as Fook Khang. Pay RM5 at the door for your meal. You wash the crockery used after your meals. Air-conditioned. Directions: from cat statue, straight across the roundabout are HSBC offices and Jalan Padaungan, follow this road until it forks, Padungan continues on the right, Jalan Datuk Abang Abdul Rahim (JDAAR) continues on the left. In between the roads is the Kingswood Inn. Continue on JDAAR to the Hock Lee Centre on your left. Fook Khang is in the first block behind Hock Lee Centre, it is two stores wide and has an illuminated sign.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lot 121, 122 Lorong 5, Jalan Datuk Abang Abdul Rahim",
+  "phone": "tel:082-483655",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.553055,110.367945&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.553055,110.367945&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

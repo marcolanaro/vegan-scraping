@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ohisamaya",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Macrobiotic\n                                    ",
+  "description": "2015 re-opens July 7. Vegetarian macrobiotic restaurant. Food is all vegan except for the cheesecake. Menu only in Japanese. Try the tofu and rice set. A small health food store is attached and carries items such as granola, cookies, crackers, soy milk and more. Located 3 blocks south of the station and one small block further west after passing Yoshinoya.",
+  "priceRange": "Moderate",
+  "streetAddress": "4-8-17 Chuo",
+  "phone": "tel:0222248540",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.256619,140.879808&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.256619,140.879808&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

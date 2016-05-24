@@ -1,0 +1,19 @@
+{
+  "title": "Vegie Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Fast food, Salad bar, Take-out\n                                    ",
+  "description": "Opened Oct 2015 a vegetarian salad bar offering salads, bagels, quiches, soups and desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "7 rue Jouffroy d'Abbans",
+  "postalCode": "75017",
+  "phone": "tel:0146221023",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Vegie-Bar-1672507412962923",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.886930,2.312915&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.886930,2.312915&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

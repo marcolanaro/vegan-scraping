@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ginger Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Juice bar, Delivery, Take-out, Asian, Fusion\n                                    ",
+  "description": "Peaceful atmosphere. Offer healthy Asian-fusion style cuisine including Thai dishes, sushi, sandwiches, and salads. Hosts cooking classes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Jahra Street, Al-Muthana Complex, Ground Floor, entrance 4 & 5",
+  "phone": "tel:+965-22495097",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/GingerRestaurantkuwait",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.359940,47.963660&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.359940,47.963660&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

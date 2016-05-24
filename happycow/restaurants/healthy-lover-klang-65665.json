@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Healthy Lover",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "愛健康 serves veggie food.",
+  "priceRange": "Moderate",
+  "streetAddress": "209 Batu 1 1/2, Jalan Meru",
+  "postalCode": "41050",
+  "phone": "tel:03-33623328",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/HealthyLoverKang",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.069190,101.450058&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.069190,101.450058&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tian Tian Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Malaysian\n                                    ",
+  "description": "Veggie food offering changes depending on the day and time of time. Wan tan mee, mee rebus, mee soup are served daily.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "C46 Jalan Tupai",
+  "postalCode": "34000",
+  "phone": "tel:012-5987248",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.850333,100.743141&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.850333,100.743141&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

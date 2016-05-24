@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Khush Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Indian, Buffet, Take-out\n                                    ",
+  "description": "Vegetarian Indian restaurant serving authentic North Indian food, fried rice and roti. 2015 reported relocated from Ground Floor, Block 2330, Century Square.",
+  "priceRange": "Moderate",
+  "streetAddress": "5, Block D, Jalan GC 7, Cyberjaya",
+  "postalCode": "63000",
+  "phone": "tel:603-83251666",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-9:00pm, Sat 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.925378,101.656964&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.925378,101.656964&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

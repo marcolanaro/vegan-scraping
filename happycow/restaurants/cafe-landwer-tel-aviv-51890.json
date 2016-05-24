@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Landwer - Sarona",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe located in a historic 150-year-old building from the Templar period. Has a separate vegan menu section offering around 10 items, including breakfast, salads, mains, and dessert. Soy milk option for coffee.",
+  "priceRange": "Moderate",
+  "streetAddress": "13 Arania Oswaldo",
+  "phone": "tel:03-6244806",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.072392,34.786619&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.072392,34.786619&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

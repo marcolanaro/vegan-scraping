@@ -1,0 +1,18 @@
+{
+  "title": "Mio",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Nice atmosphere, reported offering a few vegan choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Beethovenstrasse 21",
+  "postalCode": "04107",
+  "phone": "tel:03412566722",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.331908,12.366433&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.331908,12.366433&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

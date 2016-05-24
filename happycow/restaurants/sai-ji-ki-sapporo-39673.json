@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sai-Ji-Ki",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Japanese, Buffet, Salad bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers an abundance of vegan dishes, especially salads, cold and hot vegetable dishes. Ask staff what is vegan if unsure. Dessert is included in the buffet price, but drinks (other than water) are extra. Located in the complex of high-rise buildings connected to the Sapporo train station and the Daimaru department store. Large and spacious with views of the city. Also see: http://www.create-restaurants.co.jp/shop/index.php?controller=FrontCrShop&action=shop_show&id=351&page",
+  "priceRange": "Moderate",
+  "streetAddress": "Sapporo Steller Place Center, 6th Floor",
+  "postalCode": "060-0005",
+  "phone": "tel:011-209-5233",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.067919,141.352007&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.067919,141.352007&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

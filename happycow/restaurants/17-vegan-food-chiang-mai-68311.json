@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "17 Vegan Food",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Buffet\n                                    ",
+  "description": "Vegan Thai food restaurant at the end of Tratwong Rd,  just before enter 11 SuperHighway, between Soi 1 and Soi 2. Choose the dishes you'd like to put on your plate.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "21 Tratwong Rd",
+  "postalCode": "5000",
+  "phone": "tel:0909451520",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.805457,99.012303&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.805457,99.012303&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

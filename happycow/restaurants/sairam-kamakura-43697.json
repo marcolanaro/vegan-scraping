@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sairam",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International\n                                    ",
+  "description": "Vegan restaurant located in Kamakura 4 minute walk from Hase station.",
+  "priceRange": "Expensive",
+  "streetAddress": "Sakanoshita 20-11, Kanagawa",
+  "postalCode": "248-0021",
+  "phone": "tel:0467-61-1831",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:00am-6:00pm, Thu-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.309240,139.534146&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.309240,139.534146&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

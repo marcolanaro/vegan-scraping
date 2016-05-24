@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ru Xun Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "茹薰素食 stall sells vegetarian and vegan dishes containing tofu, mock meats, fried or cooked with vegetables, soups, noodles soups, rice. Menu is in Chinese only, but there is a glass box with all the protein you can choose, so it's easy to point to what you want. The family cooks in the porch of their house and inside, in the living room, there are a few tables for the guests. Cheap, clean and with folklore.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "16, Zili Rd, Ji’an Township",
+  "postalCode": "973",
+  "phone": "tel:038463046",
+  "venueHours": "\n                                                                                                        Mon-Tue 3:30pm-10:30pm, Thu-Sun 3:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.986260,121.595713&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.986260,121.595713&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

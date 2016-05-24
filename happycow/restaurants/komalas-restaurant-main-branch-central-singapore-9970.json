@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Komala's Restaurant - Main Branch",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food\n                                    ",
+  "description": "Part of chain fast food style vegetarian Indian restaurants. Busy and authentic Indian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5 and 7, Upper Dickson Rd",
+  "postalCode": "207463",
+  "phone": "tel:62934464",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Komala-Vilas-Vegetarian-Restaurant/105890872647",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.306600,103.852050&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.306600,103.852050&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

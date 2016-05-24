@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Time Vegetarian Garden Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Italian, Organic, Thai, Take-out, Asian\n                                    ",
+  "description": "A vegetarian restaurant (with vegan options) located next to EFL learning center near to the Ping River and to the Wat Gate Khar Rham Temple for which the area is named. Has tables outside in the green courtyard. Try the fruit shakes. The view of a yellow traditional Thai style house gives a nice relaxing feeling.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "86/88 Keawnawarat Road, Soi 2/2",
+  "postalCode": "50000",
+  "phone": "tel:+66842094294",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.787747,98.993128&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.787747,98.993128&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

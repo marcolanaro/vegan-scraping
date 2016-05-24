@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rajmahal Indian Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant located on Jeju Island serves Indian food. No vegan items on menu, but can prepare vegetarian dishes without cream and butter upon request. Please let HappyCow know if veg-options are good enough to continue to list this business. Previously located at Yeondong 272-13, Oct 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "39, Singwang-ro, Jeju-si, Jeju-do",
+  "postalCode": "690/172",
+  "phone": "tel:82-64-749-4924",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.488584,126.489940&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.488584,126.489940&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

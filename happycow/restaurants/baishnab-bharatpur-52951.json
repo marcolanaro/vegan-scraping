@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Baishnab",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Western, Take-out, Nepali\n                                    ",
+  "description": "Nepalese and South Indian food, pizza, sandwiches, and large selection of sweet. On 2 floors, second floor air conditioned. Free filtered tap water.",
+  "priceRange": "Moderate",
+  "streetAddress": "Saheed Chowk-3, Narayangarh, Chitwan",
+  "phone": "tel:+97756525026",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.698891,84.430396&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.698891,84.430396&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

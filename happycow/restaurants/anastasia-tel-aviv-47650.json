@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Anastasia",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Juice bar, Beer/Wine, Middle Eastern, Israeli\n                                    ",
+  "description": "Vegan cafe in the city center. Owners are vegan and offer healthy food. Raw and gluten-free items marked. Several breakfast options plus salads, sandwiches, mains, and many desserts. Makes onsite soy, almond, and rice milk, and there is a little shop selling vegan food.",
+  "priceRange": "Moderate",
+  "streetAddress": "54 Frishman",
+  "phone": "tel:03-5290095",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-11:30pm, Fri 8:00am-5:00pm, Sat 9:00am-11:00pm, Sun 8:00am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafeanastasia",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.079692,34.774812&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.079692,34.774812&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

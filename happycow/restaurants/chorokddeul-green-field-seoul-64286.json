@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chorokddeul - Green Field",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Korean\n                                    ",
+  "description": "Traditional style Korean restaurant with floor seating, at 서울특별시 동대문구 휘경동 276-57. Offers many noodle dishes and stews, lotus-wrapped rice, fritters and sweet rice cake. Sells dried food and grains. Located near Subway line 1, Hoegi station exit 2. From there continue straight, turn right at the next big junction, cross the main road (Mangu-ro), and the restaurant is down the nearest side street (Clover pharmacy is on the corner), it's on the 2nd floor over Sarang Pharmacy.",
+  "priceRange": "Moderate",
+  "streetAddress": "Dondaemun-gu, Huigyeong-dong 276-57",
+  "phone": "tel:02-22437733",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:00pm, Sat 11:00am-3:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.589607,127.062384&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.589607,127.062384&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

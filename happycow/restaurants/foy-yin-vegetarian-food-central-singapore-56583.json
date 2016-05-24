@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Foy Yin Vegetarian Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "佛音素食 is a stall located in the Foodmaster food court on the 2nd floor of The Aperia. Opened Jan 2015. Serves ready-cooked dishes to be eaten with rice or bee hoon. On the menu are fried rice, hor fun, curry  noodles, laksa, local tze char dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "10 Kallang Ave, Aperia Mall",
+  "postalCode": "339510",
+  "phone": "tel:96664593",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.309555,103.864240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.309555,103.864240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

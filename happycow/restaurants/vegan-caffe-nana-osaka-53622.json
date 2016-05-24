@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegan Caffe Nana",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Indian, International, Italian, Japanese, Organic, Thai\n                                    ",
+  "description": "A 100% vegan restaurant opened September 2014. Offers lunch sets; choose from curries, pastas, and rice dishes. Desserts include a banana coconut tart, vegan pancakes with cashew cream, raw ice cream cake, fresh muffins, and more. Food is mostly organic. The space inside is cozy and warm during the winter and a spacious outdoor seating area is available in the summer. Address in Japanese: 大阪府阪南市鳥取三井1516-2.",
+  "priceRange": "Moderate",
+  "streetAddress": "Mitsui Tottori Hannan, Osaka Prefecture 1516-2",
+  "phone": "tel:072-4701151",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.346353,135.234229&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.346353,135.234229&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

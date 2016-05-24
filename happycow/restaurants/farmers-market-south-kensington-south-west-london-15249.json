@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market - South Kensington",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "South Kensington Farmers Market.",
+  "streetAddress": "Bute Street, Kensington",
+  "postalCode": "SW7 3EX",
+  "phone": "tel:020-78330338",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.493300,-0.176000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.493300,-0.176000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

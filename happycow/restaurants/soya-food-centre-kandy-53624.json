@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soya Food Centre",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Fast food, Take-out, Sri Lankan\n                                    ",
+  "description": "A vegetarian/vegan restaurant serving a variety of large wraps and sandwiches, as well as soya ice cream (strawberry, chocolate and vanilla). Has covered area if you want to sit and eat. Not suitable for wheelchairs, as you have to climb steep stairs. Adjacent to YMCA.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "116A Kotugodella Veediya",
+  "phone": "tel:+94-812202016",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.296393,80.634896&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.296393,80.634896&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

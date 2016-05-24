@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chan-Pak",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Thai, Take-out\n                                    ",
+  "description": "A 100% vegan Thai food restaurant that does not use monosodium glutamate, garlic or onions. All food is made-to-order in-house, including noodle soups, stir fried dishes, soups, specialties and more. Also has a small shop of vegan products. Sidewalk level entrance, spacious, partly outside, no high steps. Come by car. Can call for delivery within reasonable distance.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "7/24 M7 Khlong Song, Khlong Luang, Pathum Thani",
+  "postalCode": "12120",
+  "phone": "tel:084-3763696",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-7:00pm, Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ChanPakVeggies",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.065247,100.645869&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.065247,100.645869&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

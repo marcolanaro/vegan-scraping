@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Lake Klopein",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Western, Take-out, Vietnamese\n                                    ",
+  "description": "Vegan restaurant with an inn/pension attached, open May to October only. Part of international chain of vegan restaurants inspired by the visions of Supreme Master Ching Hai, an advocate for veg living. Serves vegan food and non-alcoholic beverages. Has Wi-Fi. The garden is arranged with compassion and beautiful flowers. Non smoking.",
+  "priceRange": "Moderate",
+  "streetAddress": "Am See XII, Haus 7/7a, Sankt Kanzian",
+  "postalCode": "9122",
+  "phone": "tel:+43-42394015",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.609593,14.589269&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.609593,14.589269&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

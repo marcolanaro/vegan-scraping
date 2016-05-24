@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Rainbow Raw Food Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, All Raw\n                                    ",
+  "description": "Tokyo vegan raw food restaurant. Address in Japanese: \r\n東京都渋谷区恵比寿南２丁目３−１１.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Chome-3-11 Ebisuminami",
+  "phone": "tel:03-6412-8689",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.645404,139.707373&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.645404,139.707373&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

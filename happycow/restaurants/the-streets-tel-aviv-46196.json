@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Streets - King George",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Beer/Wine, Take-out, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe with multiple locations. Contemporary atmosphere with free Wi-Fi. Marks the vegetarian/vegan choices on the menu. Has tofu dishes and bulghur patties as well vegetable dishes without meat. Large portions.",
+  "priceRange": "Moderate",
+  "streetAddress": "King George Street 70",
+  "phone": "tel:03-6201070",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.076200,34.776792&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.076200,34.776792&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

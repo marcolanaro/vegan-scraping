@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ginger & Pickles Cafe and Store",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Indian, Japanese, Macrobiotic, Organic, Take-out, Bakery, Catering, Fusion\n                                    ",
+  "description": "A vegetarian cafe with vegan options. Offers a small menu. Serves coffee, sweets, baked goods and more. Try the veggie burger.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2302-9 Minamiyana",
+  "postalCode": "257-0003",
+  "phone": "tel:0463-790552",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 11:00am-7:00pm, Fri-Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.371979,139.269383&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.371979,139.269383&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

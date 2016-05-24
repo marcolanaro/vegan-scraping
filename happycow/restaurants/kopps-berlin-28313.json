@@ -1,0 +1,17 @@
+{
+  "title": "Kopps",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Beer/Wine, German\n                                    ",
+  "description": "Vegan fine dining restaurant established since 2011. Features a menu with 3 dishes per course and a 5 course prix fixe menu. Wine list offers many German wine and some international wine. Open for dinner only, except Sat-Sun where an extensive brunch buffet is offered during the day.",
+  "priceRange": "Moderate",
+  "streetAddress": "Linienstr 94",
+  "postalCode": "10115",
+  "phone": "tel:03043209775",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:00pm-12:00am, Sat-Sun 9:30am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.528790,13.397210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.528790,13.397210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

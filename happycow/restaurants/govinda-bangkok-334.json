@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Govinda",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Western, Beer/Wine\n                                    ",
+  "description": "Upscale Italian restaurant, not affiliated with Hare Krishna. Offers pasta, pizza, and western dishes. Directions: take Skytrain to Phrompong station at the Emporium and Sukhumvit 24, walk 200 meters to Soi 22, enter a courtyard on right 30 meters in. Subway: Exit Sukhumvit station, take exit 2, bear left to Sukhumvit Rd, go left and walk to the pedestrian bridge about 100 meters, cross to other side of Sukhumvit, and proceed to Soi 22 per above.",
+  "priceRange": "Expensive",
+  "streetAddress": "65/66 Sukhumvit Soi 22",
+  "phone": "tel:662-6634970",
+  "venueHours": "\n                                                                                                        Mon 11:30am-3:00pm, 6:00pm-11:30pm, Wed-Sun 11:30am-3:00pm, 6:00pm-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.731200,100.564870&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.731200,100.564870&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

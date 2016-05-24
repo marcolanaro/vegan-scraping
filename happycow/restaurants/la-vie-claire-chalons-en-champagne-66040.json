@@ -1,0 +1,13 @@
+{
+  "title": "La Vie Claire",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic and natural food grocery store.",
+  "streetAddress": "23 place Godart",
+  "postalCode": "51000",
+  "phone": "tel:0326641617",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:00am-12:00pm, 2:30pm-7:00pm, Sat 9:00am-12:30pm, 2:00pm-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.956821,4.363213&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.956821,4.363213&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

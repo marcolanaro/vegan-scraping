@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Veggie Tables",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Thai, Western, Juice bar, Take-out, Laotian\n                                    ",
+  "description": "Vegetarian restaurant serving traditional Lao and Thai dishes with western meals available such as veg burger, falafel, soup, pasta, spaghetti, etc. Dairy is used, vegan to specify. Opposite Nazim and Sabaidee Restaurants.",
+  "priceRange": "Moderate",
+  "streetAddress": "Central Town Road",
+  "phone": "tel:02055049393",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.926047,102.449457&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.926047,102.449457&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

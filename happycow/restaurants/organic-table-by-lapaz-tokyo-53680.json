@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Organic Table by Lapaz",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Organic, Salad bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A comfortable cafe serving a small and simple set menu of mostly vegetarian or vegan items. Has a salad bar, but is not self-serve. Try the vegetable curry. The set menu comes with organic brown rice and a choice of drink.",
+  "priceRange": "Moderate",
+  "streetAddress": "3-38-11 Jingumae, Shibuya-ku, Tokyo",
+  "postalCode": "150-001",
+  "phone": "tel:93-64389624",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.672104,139.712788&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.672104,139.712788&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mojito Bar and Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Large selection of vegetarian food, which can be altered for vegans. Try the four bean vegan chili with rice, veggie curries, pastas. Reservations recommended.",
+  "priceRange": "Moderate",
+  "streetAddress": "Aphrodite St 18",
+  "postalCode": "5296",
+  "phone": "tel:00357-99-098-110",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.028239,34.043713&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.028239,34.043713&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

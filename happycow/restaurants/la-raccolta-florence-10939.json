@@ -1,0 +1,15 @@
+{
+  "title": "La Raccolta",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Macrobiotic, Take-out\n                                    ",
+  "description": "Health food store and restaurant. Menu includes tofu, seitan, and vegetarian items.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Giacomo Leopardi, 2r",
+  "postalCode": "50121",
+  "phone": "tel:+39-055-2479068",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-3:00pm, 7:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.772470,11.270990&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.772470,11.270990&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

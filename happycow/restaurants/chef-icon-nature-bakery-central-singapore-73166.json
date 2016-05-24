@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chef Icon Nature Bakery",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Take-out, Bakery\n                                    ",
+  "description": "Veggie burgers, sandwiches, bread, cookies, and coffee. No added MSG, margarine. No garlic or onion.",
+  "priceRange": "Moderate",
+  "streetAddress": "5 Kampong Bahru Rd",
+  "postalCode": "169341",
+  "phone": "tel:93373900",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cheficon",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.277246,103.836810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.277246,103.836810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

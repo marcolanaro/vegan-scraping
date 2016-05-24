@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "J Wanphen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai\n                                    ",
+  "description": "A local Thai food restaurant with vegan options. Offers a buffet breakfast in the morning. Located close to the Nan River.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "77/7 Mahawong Road, Tambon Naiwiang",
+  "postalCode": "55000",
+  "phone": "tel:0828983997/,%200871871700",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.776517,100.777205&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.776517,100.777205&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

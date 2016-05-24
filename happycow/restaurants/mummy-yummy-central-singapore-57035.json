@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mummy Yummy - Shenton House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Singaporean\n                                    ",
+  "description": "This branch opened Mar 2015. Vegetarian stall offering food at cheap prices with dishes like chicken rice, curry rice, char siew rice, lor mee, and curry puff. Has chrysanthemum and herbal tea. Business is involved in delivering free food to needy families.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3 Shenton Way, 02-09 , Shenton Hous",
+  "postalCode": "068805",
+  "phone": "tel:6222-9244",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.278692,103.849914&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.278692,103.849914&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

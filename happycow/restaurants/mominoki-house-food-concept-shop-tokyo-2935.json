@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mominoki House Food Concept Shop",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Japanese, Macrobiotic, Organic, Beer/Wine, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Reported in 2013 after brief closure. Offers an array of choices from extravagant hemp tofu to a simple bowl of brown rice, electron-charged soy ice cream \"tofu blamagae,\" black sesame tofu-ice with sweet beans, and tofu for dessert. Address in Japanese: 東京都渋谷区神宮前2-18-5. Directions: Harajuku Station, Meiji Street by Jingumae ichomae junction, turn right.",
+  "priceRange": "Expensive",
+  "streetAddress": "Jingumae 2-18-5",
+  "phone": "tel:03-34059144",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.672470,139.709790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.672470,139.709790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Eat More Greens",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Japanese, Western, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Est. in mid-2000s as a vegetarian cafe and bakery, then re-opened Mar 2016 with meat added to the menu. Find pizza bread, salads, sweets, baked goods, and other meals. Located a short walk from Tokyo Metro Nanboku Line Azabu Jyuban station, at 東京都港区麻布十番2-2-5.",
+  "priceRange": "Moderate",
+  "streetAddress": "Patio ST, 106-0045",
+  "phone": "tel:03-37983191",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-11:00pm, Sat-Sun 8:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/at-more-greensイートモアグリーンズ-289782454477987",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.655280,139.735750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.655280,139.735750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

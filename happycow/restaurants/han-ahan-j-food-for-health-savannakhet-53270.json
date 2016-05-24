@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Han Ahan J Food for Health",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Juice bar, Laotian\n                                    ",
+  "description": "Simple restaurant with three rice dishes on a weekday, one dish on the weekend. Starters like rice-paper wrapped spring rolls also available. In the morning (7am-11:30am) noodle soup or sandwich with tofu. Owner family does not speak English, but there should be someone that does. Vegan is understood and can be prepared. Eggs are not used, but butter sometimes is. No written menu, please point at the food you want. Freshly pressed juices. Also sells a good choice of vegetarian and vegan grocery, e.g. vegetarian dried noodle soups.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Thanon Latsavongseuk Road 236/3, Xayaphom",
+  "phone": "tel:020-5740968/,%20020-5962428",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-1:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=16.561266,104.749343&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C16.561266,104.749343&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Insarang",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional Korean vegan food, some temple style. Food takes up to 30-40 minutes to prepare, so reserve ahead to avoid wait. Mostly vegan and vegetarian, but has 3-4 non-veg dishes, and will also serve meat upon request. Last order 8pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "2F, 24, Insadong-gil, Jongno-gu",
+  "phone": "tel:07041622533",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.572942,126.986348&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.572942,126.986348&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

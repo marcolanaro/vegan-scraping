@@ -1,0 +1,18 @@
+{
+  "title": "Bem Me Quero",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Juice bar, Beer/Wine, Take-out, Portuguese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Modern environment, offers international food, vegetarian dishes, desserts, and fresh fruit juices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rua Manuel dos Santos Vaquinhas, 104, loja A",
+  "postalCode": "8135-117",
+  "phone": "tel:+351-289-355905",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.085907,-8.032668&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.085907,-8.032668&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

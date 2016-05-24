@@ -1,0 +1,16 @@
+{
+  "title": "Selly's Vegan Bar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Italian, Beer/Wine\n                                    ",
+  "description": "Opened Jun 2014 this vegan restaurant and bar offers a concise menu with around 8 dishes plus a variety of vegan wine. Try the spaghetti carbonara or the curry with chickpeas. Cozy atmosphere. Kitchen stops 2 hours before closing.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Große Klingergasse 10",
+  "phone": "tel:085171130",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-2:00pm, Fri-Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.575174,13.458572&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.575174,13.458572&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

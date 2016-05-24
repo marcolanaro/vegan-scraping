@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut Express - Food Trailer",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Fast food, Asian, Take-out only\n                                    ",
+  "description": "Vegan food trailer operating at Draakplaats and other locations in Antwerp - check its web for updates. Has organic certification. Serves soup, wraps, gyros, burger, curries, noodles, spaghetti, muffins, tiramisu, waffles, fairtrade sodas and tea.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Draakplaats and other areas",
+  "postalCode": "2018",
+  "phone": "tel:0496384399",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 12:00pm-2:00pm, 4:00pm-8:00pm, Fri 12:00pm-2:00pm, 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/VivaVega-Loving-Hut-Express-210333269031713",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.205669,4.432778&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.205669,4.432778&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Shuffle Pub",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Pizza, Western, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pub bar with an international selection of beers and other alcohol. Offers some vegan dishes prepared using separate cookware: burgers, chili, sloppy joe, shawarma, pizza, nuggets.",
+  "priceRange": "Moderate",
+  "streetAddress": "Florentin 19",
+  "phone": "tel:0528511577",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 6:00pm-3:00am, Fri 9:00pm-4:00am, Sat 2:00pm-3:00am, Sun 6:00pm-3:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Shuffle.Florentin",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.056248,34.769195&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.056248,34.769195&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

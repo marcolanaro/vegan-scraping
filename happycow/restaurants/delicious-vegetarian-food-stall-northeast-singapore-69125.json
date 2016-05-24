@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Delicious Vegetarian Food Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "好味斋 is a stall in Serangoon Garden Market and Food Centre. Serves local favorites like nasi lemak, mee pok, and chicken rice.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "49A Serangoon Garden Way, Unit 01-06",
+  "postalCode": "555945",
+  "phone": "tel:62852989",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.363044,103.866578&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.363044,103.866578&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

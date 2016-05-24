@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tiru German Bakery",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, German, Himalayan, Nepalese\n                                    ",
+  "description": "A vegetarian restaurant/coffee shop/bakery with vegan options. A large menu offers a variety of world cuisines including Indian, Continental, Mexican, Nepalese, Western, Italian and Himalayan. Gluten free bread is available. Try the stir fry. Other items are yogurt with fruit and muesli for breakfast, apple pie, coffee, chocolate chip cookies and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Seshadri Mada Street 179, Chengam Road, Agni Lingam",
+  "postalCode": "606603",
+  "phone": "tel:+918148406661",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/GermanBakeryTiru",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.224540,79.058863&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.224540,79.058863&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

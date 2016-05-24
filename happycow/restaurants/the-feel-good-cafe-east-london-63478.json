@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Feel Good Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Juice bar, Delivery, Take-out, Bakery, Catering\n                                    ",
+  "description": "A 100% vegetarian/vegan restaurant serves made-in-house food using whole foods ingredients with no preservatives. Offers vegetarian breakfast, lunch and light dinner, of which some may be vegan or can be made vegan. Serves sandwiches, porridge, granola, salads, soups, cold pressed juices, smoothies, coffees, vegan raw cakes and others. Has a range of vegan milks. Also has a small deli with unique products from around the world: Teas, jams and chutneys, olive oils, sun-dried tomato marinades, nuts and dried fruits as well as artisan breads from an organic bakery. Dine-in available. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "49 Station Rd, Unit 6, The Village Arcade",
+  "postalCode": "E4 7DA",
+  "phone": "tel:07799965611",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-4:00pm, Sat 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/TheFeelGoodCafeChingford ",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.631163,0.004484&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.631163,0.004484&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Mingxin - Hwang See Jye",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Catering, Malaysian\n                                    ",
+  "description": "明心素食园 serves Chinese food, steamboat buffet, and satay celup.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "84, Jalan Berkat 2, Taman Malim Jaya, Melaka",
+  "postalCode": "75250",
+  "phone": "tel:016-6604513",
+  "venueHours": "\n                                                                                                        Mon 8:00am-8:30pm, Wed-Sun 8:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/mingxin.vege",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.241837,102.235516&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.241837,102.235516&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

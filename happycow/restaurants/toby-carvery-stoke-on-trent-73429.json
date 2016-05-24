@@ -1,0 +1,17 @@
+{
+  "title": "Toby Carvery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Buffet, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain of pub/restaurants - be warned that it's a carvery and is primarily meatstuff, but it's an option to go with non-veg diners. Check about butter use.",
+  "priceRange": "Moderate",
+  "streetAddress": "National Festival Park, Marina Way",
+  "postalCode": "ST1 5PA",
+  "phone": "tel:01782260199",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-11:00pm, Sun 8:00am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.024224,-2.196590&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.024224,-2.196590&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

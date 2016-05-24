@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Soon Tet",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "順得素食館 features claypot vege and bagus tea.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "19, Jalan 14, Desa Jaya Kepong",
+  "postalCode": "52100",
+  "phone": "tel:603-62756564",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.216421,101.628069&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.216421,101.628069&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

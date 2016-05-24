@@ -1,0 +1,17 @@
+{
+  "title": "Bazylia",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Buffet, Juice bar, European, Polish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Modern, 21st century version of the milk cafe, situated in square in the university district. Many vegetable choices, including typical Polish cuisine. Each dish lists ingredients. Pay by weight.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "ul. Kuźnicza 42",
+  "phone": "tel:713752065",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat-Sun 7:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.113630,17.034622&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.113630,17.034622&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

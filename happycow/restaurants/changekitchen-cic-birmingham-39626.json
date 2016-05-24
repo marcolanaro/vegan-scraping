@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "ChangeKitchen CIC",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Vegetarian catering service set up by SIFA Fireside charity. Specializes in healthy vegetarian, vegan, or gluten-free food.",
+  "streetAddress": "Fireside Building, 122 Pershore Street",
+  "postalCode": "B5 6PA",
+  "phone": "tel:0121-2883727",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ChangeKitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.473523,-1.894415&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.473523,-1.894415&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

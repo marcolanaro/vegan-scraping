@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Passenger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Italian, Take-out, Catering, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A cafe and bistro with a complete vegan menu; please ask for it. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Caferaga Mah Moda Cad Halis Efendi Sok 5/A, Kadikoy",
+  "postalCode": "34710 ",
+  "phone": "tel:00902168756432",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Passenger-Cafe-Bistro/1431286883844377",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.987036,29.026063&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.987036,29.026063&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

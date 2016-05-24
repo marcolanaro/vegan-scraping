@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Naturkostpension Haus Leo",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Vegetarian guesthouse in the Salzburg Saalach valley.",
+  "streetAddress": "Wildmoos 181",
+  "postalCode": "5092",
+  "phone": "tel:+43-065887065",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.566910,12.707040&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.566910,12.707040&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

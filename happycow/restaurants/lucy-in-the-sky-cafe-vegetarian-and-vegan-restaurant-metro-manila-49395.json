@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lucy in the Sky Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, International, Western, Take-out, Filipino\n                                    ",
+  "description": "Opened Aug 2014. Serves an international array of cuisines, including Chinese, Indian, Italian, Thai, Japanese, and American.",
+  "priceRange": "Moderate",
+  "streetAddress": "222 Wilson St, Greenhills, San Juan",
+  "postalCode": "1503",
+  "phone": "tel:+63-22189556",
+  "venueHours": "\n                                                                                                        Mon 11:00am-9:00pm, Wed-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/lucyintheskycafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.597319,121.040730&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.597319,121.040730&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Alishan Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Macrobiotic, Juice bar, Beer/Wine\n                                    ",
+  "description": "Organic cafe serves sandwiches, veggieburger, locally grown greens, vegan baked items, and beverages; egg and dairy used in some dishes. English, Chinese, French, Japanese spoken. Outdoor deck seating. Same building with Tengu Natural Foods. Address in Japanese: 埼玉県日高市高麗本郷185ｰ2.",
+  "priceRange": "Moderate",
+  "streetAddress": "185-2 Komahongo, Hidaka-shi, Saitama-ken",
+  "postalCode": "350-1251",
+  "phone": "tel:04-29824823",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-6:00pm, Thu-Fri 11:30am-6:00pm, Sat 11:30am-9:00pm, Sun 11:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/alishan.organiccenter",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.885680,139.308700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.885680,139.308700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

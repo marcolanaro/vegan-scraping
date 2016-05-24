@@ -1,0 +1,14 @@
+{
+  "title": "Greens Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Catering, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A local coffee shop in the St Giles area with a light food menu. Offers several vegan choices including vegan cakes. Uses some organic and fair trade ingredients. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "50 St Giles",
+  "phone": "tel:01865%20316878",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-7:00pm, Sun 8:00am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.757156,-1.260206&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.757156,-1.260206&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

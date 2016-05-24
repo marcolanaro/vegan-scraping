@@ -1,0 +1,13 @@
+{
+  "title": "Pinguin Reformhaus - Konrad",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store with some fresh vegetables and a small bakery inside a pharmacy.",
+  "streetAddress": "Konrad-Adenauer-Straße 1",
+  "postalCode": "23558",
+  "phone": "tel:+49-451-85540",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.866775,10.671800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.866775,10.671800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

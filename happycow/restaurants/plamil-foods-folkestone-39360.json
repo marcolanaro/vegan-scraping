@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Plamil Foods",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Not a shop; if you are in Folkestone area you could place an order online & arrange to collect from the factory. Otherwise they delivers throughout Europe. Pioneer vegan Arthur Ling & now his son Adrian have been promoting veganism since the 1940s. Arthur started soya milk production in 1965, then added chocolate & carob bars in the early 80s, then chocolate spreads & vegan mayonnaise.",
+  "streetAddress": "Bowles Well Gardens",
+  "postalCode": "CT19 6PQ",
+  "phone": "tel:+44-0-1303-850588",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/PlamilFoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.089480,1.190915&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.089480,1.190915&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

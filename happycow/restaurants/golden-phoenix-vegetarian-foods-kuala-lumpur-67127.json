@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Golden Phoenix Vegetarian Foods",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "A street side vegetarian food stand, est. since 2012. Offers homestyle food from soups to dumplings.",
+  "streetAddress": "Intersection of Jalan Kaskas and Taman Cheras",
+  "postalCode": "56100",
+  "phone": "tel:60163355448",
+  "venueHours": "\n                                                                                                        Mon-Fri 4:30pm-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/GoldenPhoenix.Vegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.101455,101.743145&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.101455,101.743145&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

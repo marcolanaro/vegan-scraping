@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Mitanni",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Raw, Buffet, Mediterranean, Beer/Wine, European, Turkish\n                                    ",
+  "description": "A 100% vegetarian/vegan cafe/event venue serves food, fresh cocktails and holds live jazz concerts.",
+  "priceRange": "Moderate",
+  "streetAddress": "Cukurlucesme Sokak, No 6/A Beyoglu",
+  "phone": "tel:+90-5322179287",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafemitanni",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.034383,28.983133&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.034383,28.983133&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

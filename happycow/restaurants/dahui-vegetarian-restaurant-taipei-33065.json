@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "DaHui Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Western, Taiwanese\n                                    ",
+  "description": "大惠素食 re-opened here, at 台北市士林區德行東路109巷102弄7號, in Apr 2015 after move from 2, Alley 3, Ln 74, Dexing E Rd. Offers hot pots with different types of broth, rice and noodle dishes, tofu stew, Western-style pasta, and appetizers. No eggs used, and most items are without dairy. The owner is Taiwanese Buddhist, so none of the five pungent is served in any dish (garlic, onion...).",
+  "priceRange": "Moderate",
+  "streetAddress": "7, Alley 102, Lane 88, Dexing East Rd, Shihlin District",
+  "phone": "tel:02-28386236",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:00pm-9:00pm, Tue-Sat 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/dahui.vegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.110945,121.529241&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.110945,121.529241&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

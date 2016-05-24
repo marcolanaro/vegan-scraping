@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "I Organic Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Organic, Western, Take-out, Catering\n                                    ",
+  "description": "愛有机健康素食 serves organic food with Chinese dishes, claypots, fries, and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "6A, Jalan Bayu Tinggi 2A, Batu Unjur",
+  "postalCode": "41200",
+  "phone": "tel:03-33259624",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/iOrganicCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.011477,101.438365&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.011477,101.438365&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

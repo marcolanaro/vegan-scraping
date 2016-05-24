@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "San Yen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Malaysian\n                                    ",
+  "description": "善緣素食坊 Restoran Sayur-Sayuran. Economic self serve meals.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "17, Jalan Perusahaan 2",
+  "postalCode": "43300",
+  "phone": "tel:0389423784/,%200123297199",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.017080,101.703820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.017080,101.703820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

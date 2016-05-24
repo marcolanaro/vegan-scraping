@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sole Mio",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Thai, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. On Patong beach, this restaurant's menu includes 2 pages of vegetarian items, both Thai and Western. Some dishes can be made vegan if you ask. At sunset, staff will set up more tables on the beach so you can enjoy the view and ocean breeze.",
+  "priceRange": "Moderate",
+  "streetAddress": "Loma Food Center 24",
+  "phone": "tel:0856196686",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/SoleMio.Restaurant.Bar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.897942,98.296437&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.897942,98.296437&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

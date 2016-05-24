@@ -1,0 +1,20 @@
+{
+  "title": "Le Vespe Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers several vegan choices such as house-made granola with fresh fruit and soy or rice milk, tofu scramble with roast potatoes and salad, rice spring rolls with marinated tempeh, steamed kale and shredded beets, sundried tomato sandwich with roasted red peppers and avocado.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Ghibellina 76R",
+  "postalCode": "50125",
+  "phone": "tel:055-388-0062",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-7:00pm, Sat-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/levespecafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.769940,11.263175&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.769940,11.263175&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

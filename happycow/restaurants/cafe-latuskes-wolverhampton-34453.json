@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Latuske's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant serving international cuisine with vegan options like falafel.",
+  "priceRange": "Moderate",
+  "streetAddress": "21 Finchfield Rd W",
+  "postalCode": "WV3 8AY",
+  "phone": "tel:01902-764523",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.580381,-2.171095&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.580381,-2.171095&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

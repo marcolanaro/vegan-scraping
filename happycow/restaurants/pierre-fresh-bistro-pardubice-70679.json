@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Pierre Fresh Bistro",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "Veggie bistro opened Mar 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "Třída Míru 302",
+  "postalCode": "53002",
+  "phone": "tel:774037061",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-6:00pm, Sat-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/fresh.bistro.pardubice",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.037273,15.775854&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.037273,15.775854&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

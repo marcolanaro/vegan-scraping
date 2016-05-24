@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Chalav Udvash - Health Food Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Aims to combine caring and health with good taste. Every item in the store is certified kosher. Large selection of gluten-free products. Sugar-free items including Chalav Udvash's own brand of granola. Free nutritional advice and recipes. Send an e-mail to receive their free monthly e-newsletter to shulamit59@gmail.com. Fresh organic produce every Tuesday afternoon.",
+  "streetAddress": "Kikar Yahalom, Maale Adumim",
+  "postalCode": "98431",
+  "phone": "tel:02-5902044/,%20+972-528",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.777368,35.297957&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.777368,35.297957&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

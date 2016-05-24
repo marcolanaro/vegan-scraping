@@ -1,0 +1,17 @@
+{
+  "title": "Flunch",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Buffet, Salad bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Buffet-style restaurant, has some vegan options (pasta, salad, beans, fruit). Bread is not vegan as it contains dairy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Corso Romania 460",
+  "phone": "tel:+390112625069",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:30pm, 6:00pm-10:00pm, Sat 11:00am-3:00pm, Sun 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.120003,7.714340&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.120003,7.714340&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

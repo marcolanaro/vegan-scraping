@@ -1,0 +1,15 @@
+{
+  "title": "Co-op Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Irish\n                                    ",
+  "description": "Cafe at the Dublin Food Co-op. Indoor seating. Has pizzas and hot food, soups, teas, coffees and cakes. Previously named Freedom Cafe at the Co-Op.",
+  "priceRange": "Moderate",
+  "streetAddress": "12 Newmarket",
+  "postalCode": "Dublin 8",
+  "phone": "tel:087-9614755",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.337852,-6.276691&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.337852,-6.276691&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fa Prathan - Jeh Palem",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Buffet, Take-out\n                                    ",
+  "description": "Rice, noodles, and as many toppings as your plate can hold. Spicy food. No alcohol on premises.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "9 Bangkok Rd",
+  "postalCode": "83000",
+  "phone": "tel:0874178710",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=7.882849,98.387303&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C7.882849,98.387303&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

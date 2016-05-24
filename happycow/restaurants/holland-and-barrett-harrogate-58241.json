@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Holland and Barrett",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "UK healthfood chain store. Stocks vegetarian and vegan food, frozen food, vitamins and nutritional supplements, toiletries, dried pulses, beans and fruits, and more.",
+  "streetAddress": "1A James St",
+  "postalCode": "HG1 1QS",
+  "phone": "tel:01423503469",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.992093,-1.538855&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.992093,-1.538855&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

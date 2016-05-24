@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Stefanos Gronne Hjorne",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Well-stocked health food store. Offers a variety of vegan food: tofu, non-dairy milk, soy yogurt, tofu, dairy free chocolates, vegan faux meats, vegan cheese. Also has natural cleaning products and personal care items; plus canned and dried food, fresh fruit and vegetable.",
+  "streetAddress": "Husumgade 50",
+  "postalCode": "2200",
+  "phone": "tel:53617861",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Stefanos-Grønne-Hjørne/107817812623221",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.694846,12.543475&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.694846,12.543475&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Forky's",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, European\n                                    ",
+  "description": "A 100% vegan bistro with some classical Czech recipes made vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jezuitska 1",
+  "phone": "tel:+420515908665",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/forkysfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.196822,16.609468&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.196822,16.609468&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

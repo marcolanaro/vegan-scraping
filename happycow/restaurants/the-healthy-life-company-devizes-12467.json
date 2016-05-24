@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Healthy Life Company",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural food store selling a wide range of unrefined and organic whole foods including ingredients for cooking, baking, home brewing, items for special diets, yeast-free traditional artisan breads in addition to beauty products, toiletries, and supplements. Next door is The Bistro & Cookery School, a small evening restaurant that offers vegan options on a mainly meat menu, phone 01380-720043, hours Tue-Sat 11am-2pm and 7-late.",
+  "streetAddress": "4 Little Brittox, Devizes, Wiltshire, UK",
+  "postalCode": "SN10 2AT",
+  "phone": "tel:01380-725558",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.352110,-1.994360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.352110,-1.994360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

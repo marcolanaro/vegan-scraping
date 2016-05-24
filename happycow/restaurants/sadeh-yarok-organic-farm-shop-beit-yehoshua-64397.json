@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sadeh Yarok Organic Farm Shop",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Organic farm shop providing fresh organic produce and other items bread and vegan spreads, vegan cheese, tofu, selection of organic legumes and flour (such as chickpea flour), organic grocery items like applesauce, nut and soy milk, cookies, crackers and more. Delivery available.",
+  "streetAddress": "Meshek Stein, Shani St",
+  "phone": "tel:09-8999878",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-6:00pm, Fri 8:00am-3:00pm, Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/sadeyarokorganicfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.263853,34.868680&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.263853,34.868680&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

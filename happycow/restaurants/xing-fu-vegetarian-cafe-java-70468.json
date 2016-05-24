@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Xing Fu Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Western, Fast food, Juice bar, Asian, Fusion, Pontianak food style\n                                    ",
+  "description": "Vegetarian cafe serves Chinese food like noodles, kue cap, kue kia theng and vegetarian chicken rice, some of which are vegan or can be made vegan. Plenty of drinks are available such as Vietnam drip cofee, coffee lattes, green tea lattes and ice kacang.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jl Mangga Dua Dalam No 156E, Jakarta Utara",
+  "phone": "tel:622162307243/,%20082141567757",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-6.121475,106.910403&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-6.121475,106.910403&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

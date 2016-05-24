@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Millet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Japanese, Organic\n                                    ",
+  "description": "Serves a multi course vegan lunch in the light-filed airy ground floor of a rustic renovated farmhouse in a village close to Kyoto, on bus line 34. Menu includes grilled vegetables, tofu, quiche, squash soup, salad, pizza , apple & sweet potato tart, herb tea, coffee. Dining room overlooks the hosts' farmland. Hosts art exhibits, music performances, and workshops on bread baking , herb cultivation, traditional crafts.",
+  "priceRange": "Moderate",
+  "streetAddress": "1118 Shizuichishizuharacho, Sakyo Ward",
+  "postalCode": "601-1121",
+  "phone": "tel:075-7413303",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.111409,135.798756&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.111409,135.798756&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

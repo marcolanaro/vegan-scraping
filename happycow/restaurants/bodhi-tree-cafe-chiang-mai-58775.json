@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bodhi Tree Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Thai, Western, Juice bar\n                                    ",
+  "description": "Spacious restaurant with room for rent, in old town on a quiet side street since early-2015. Serves both Thai style and Western food plus smoothies, juices. Makes its own vegan milk, yogurt, mayonnaise, salad sauces and dips. Directions: Rachadamnoen Rd Soi 4, turn left into Soi 4 looking from Thapae Gate, walk till the very end of the Soi, then turn left. Not to be confused with the defunct Bodhi Zhen.",
+  "priceRange": "Moderate",
+  "streetAddress": "13 Ratchadamnoen Rd Soi 4",
+  "phone": "tel:0857084998",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.786039,98.991455&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.786039,98.991455&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

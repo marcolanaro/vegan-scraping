@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sin Meng Kee Products",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Buffet, Take-out\n                                    ",
+  "description": "明记素食馆斋品供应 vegetarian restaurant serves a variety of different dishes in a self-serve buffet style setting. Different mixes of vegetables, tofu and mock-meat, with rice or fried noodles. Staff looks at your plate and tell you how much it is. Some pre-packaged food items already cooked or to cook at home.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "34, Jalan Dato Onn Jaafar",
+  "postalCode": "30330",
+  "phone": "tel:605-2553076",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=4.596439,101.083060&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C4.596439,101.083060&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Stall - On On Station",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out, Malay\n                                    ",
+  "description": "素食档在月圆美食中心 veggie food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "105-106, Lot 1686-1687, Block 71, Ground Floor, 10th Mile, Kota Padawan",
+  "postalCode": "93250",
+  "phone": "tel:%20010-%209777668",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 6:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.426621,110.326512&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.426621,110.326512&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market - Blackheath",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "A bustling market set in the village of Blackheath. Local and seasonal vegetables, fruits, food, and more.",
+  "streetAddress": "Blackheath Rail Station Car Park, 2 Blackheath Village",
+  "postalCode": "SE3 9LE",
+  "phone": "tel:020-7833-0338",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.466060,0.008940&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.466060,0.008940&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

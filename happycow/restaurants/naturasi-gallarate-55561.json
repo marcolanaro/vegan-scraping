@@ -1,0 +1,13 @@
+{
+  "title": "NaturaSi",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of health food store chain. Stocks some vegetarian and vegan products.",
+  "streetAddress": "Via Raffaello Sanzio 16",
+  "postalCode": "21013",
+  "phone": "tel:0331-798996",
+  "venueHours": "\n                                                                                                        Mon 10:30am-7:30pm, Tue-Fri 9:00am-1:00pm, 3:30pm-7:30pm, Sat 9:00am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.667960,8.795934&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.667960,8.795934&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

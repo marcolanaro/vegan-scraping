@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bodhi-Sage",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malaysian\n                                    ",
+  "description": "Chinese name 普提聖寺. Typical vegetarian eatery operated by a nunnery. Open twice every 1st and 15th of the Chinese lunar calendar only. Reported open to HappyCow Oct 2013, however, may have irregular opening times, please call before you go to confirm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan BPJ 1/1, Bandar Petari Jaya",
+  "postalCode": "08000",
+  "phone": "tel:044257885/,%200125232511",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.649024,100.495130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.649024,100.495130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

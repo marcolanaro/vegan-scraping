@@ -1,0 +1,17 @@
+{
+  "title": "Indian Food",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual Indian restaurant close to the beaches and the city center in Antibes. Has a vegetarian menu section with at least 10 dishes, of which some can be made vegan on request.",
+  "priceRange": "Moderate",
+  "streetAddress": "28, Boulevard Marechal Foch",
+  "postalCode": "06600",
+  "phone": "tel:0489020299",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-2:30pm, 6:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.577719,7.121787&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.577719,7.121787&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

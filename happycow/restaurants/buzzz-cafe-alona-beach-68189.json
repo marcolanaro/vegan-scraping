@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Buzzz Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Organic, Raw, Salad bar, Juice bar, Beer/Wine, Take-out, Asian, Bakery, European, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic cafe with vegetarian options; vegans please inquire. Associated with the Bohol Bee Farm on Panglao Island. Has salads (one with edible flowers), a variety of cooked dishes, baked goods, squash bread and vegetarian chips with different spreads, and coconut-based ice cream with local flavors. Serves a complimentary appetizer. Operates restaurants in Island City Mall and in Galleria Luisa in Tagbilaran.",
+  "priceRange": "Moderate",
+  "streetAddress": "Alona Beach Beachfront, Panglao",
+  "phone": "tel:+63-9173040661",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Thebuzzzcafealona",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=9.548724,123.773614&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C9.548724,123.773614&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

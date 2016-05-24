@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sugar and Spice",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Bakery, English\n                                    ",
+  "description": "Beverley's first vegetarian cafe and coffee shop. Serves a range of paninis, salads, in-house-made soups and hot dishes, with vegan options. Also has a variety of cakes, with at least one vegan and one gluten free each day. Carries Langlands' scones. \t\r\n\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "52 Lairgate",
+  "postalCode": "HU17 8EU",
+  "phone": "tel:01482-872000",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/SugarandSpiceBeverley",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.841663,-0.432232&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.841663,-0.432232&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

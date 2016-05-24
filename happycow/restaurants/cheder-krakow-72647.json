@@ -1,0 +1,17 @@
+{
+  "title": "Cheder",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Middle Eastern, Israeli\n                                    ",
+  "description": "In the Jewish district a community gathering place and cafe. Offers coffee and tea with soymilk option, pita and hummus, Kosher wine.",
+  "priceRange": "Moderate",
+  "streetAddress": "Józefa 36",
+  "phone": "tel:515732226",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cheder.krakow",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.051354,19.947188&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.051354,19.947188&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

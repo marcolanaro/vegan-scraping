@@ -1,0 +1,18 @@
+{
+  "title": "500 Miles Away",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Beer/Wine\n                                    ",
+  "description": "A pet friendly, all day rock bar serving 100% vegan cuisine.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Salaminos 43-45",
+  "phone": "tel:+30210-3413563",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/500milesaway",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.982177,23.716429&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.982177,23.716429&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

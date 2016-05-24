@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Perling JB",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "新山柏林素食 serves Chinese economic rice and noodle dishes among others.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12, Jalan Simbang, Taman Perling",
+  "postalCode": "81200",
+  "phone": "tel:016-7626880",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/PerlingJBVegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.493657,103.678872&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.493657,103.678872&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

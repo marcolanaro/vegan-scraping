@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Green Tiger House",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "A guesthouse. As of Jun 2014 owner reported shutting its onsite vegetarian restaurant; however staying guests are offered a vegetarian breakfast.",
+  "streetAddress": "Sri Phum Rd, Soi 7",
+  "postalCode": "50200",
+  "phone": "tel:0931828188",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/GreenTigerHouse",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.794706,98.984281&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.794706,98.984281&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

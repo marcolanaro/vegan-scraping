@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Stall at Pasar Pagi Simpang Kuala",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Fast food, Take-out\n                                    ",
+  "description": "Veggie food stall within a food court.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Psk Satu, Pekan Simpang Kuala",
+  "postalCode": "05400",
+  "phone": "tel:011-38669781",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-11:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=6.100170,100.365302&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C6.100170,100.365302&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

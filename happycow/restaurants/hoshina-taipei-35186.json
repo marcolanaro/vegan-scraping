@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Hoshina - DaAn",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Japanese\n                                    ",
+  "description": "穗科, at 台北市忠孝東路四段216巷27弄3號, is a noodle house with a few locations. The owner learned udon making from a Japanese master. Menu is vegan friendly. Egg is used in the cold udon, and the menu specifies which items are lacto-veg and ovo-veg. Known for in-house-made udon noodle, both hot and cold. Also serves side dishes and desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "3, Alley 27, Lane 216, Sec. 4, Zhongxiao East Rd, Da-An District",
+  "postalCode": "106",
+  "phone": "tel:02-27783737",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:30am-2:00pm, Mon-Sun 5:30pm-9:00pm, Sat-Sun 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/HoshinaTW",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.039843,121.553292&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.039843,121.553292&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

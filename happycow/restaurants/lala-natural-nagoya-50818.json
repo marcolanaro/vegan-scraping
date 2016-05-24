@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lala Natural",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic, Western, Bakery\n                                    ",
+  "description": "Organic, natural food restaurant advertising \"no milk, no egg, no white sugar.\" The owner previously had worked at a vegan cafe in the UK. Accepts custom order for cakes, too. Rustic interior with wooden furniture. Cafe by day, then after 6 pm is a Spanish bar. On Sunday is brunch and a small vegetable market.",
+  "priceRange": "Moderate",
+  "streetAddress": "209 Mukaida, Narumi-cho, Midori-ku",
+  "postalCode": "458-0831",
+  "phone": "tel:0526230660",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-5:30pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/LalaNaturalOrganicCafedeli",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.181446,136.906398&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.181446,136.906398&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sumi Bio",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Japanese, Organic, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located 3 minutes from Ebisu station. Nice interior with a bar to one side and dining tables to the other. Offers macrobiotic vegan choices including a lunch set and some sweets. Has fresh juices.",
+  "priceRange": "Expensive",
+  "streetAddress": "Shibuya-ku, Ebisu1-22-8 First Place 2F",
+  "phone": "tel:03-64081711",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:30am-3:00pm, 5:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/sumibio2",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.646313,139.713881&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.646313,139.713881&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

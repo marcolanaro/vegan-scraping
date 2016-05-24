@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dolma - Magasin Bio",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Dolma restaurant's vegetarian store moved to the front of the restaurant. Stocks fresh fruits and vegetables, a lot of fresh goods (including tofu, seitan), a selection of teas, and some non food items (CDs, books, essential oils).",
+  "streetAddress": "296, Chaussée d’Ixelles  ",
+  "phone": "tel:026488573",
+  "venueHours": "\n                                                                                                        Mon-Sat 10:00am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.828808,4.370820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.828808,4.370820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

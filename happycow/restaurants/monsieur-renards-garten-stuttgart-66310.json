@@ -1,0 +1,18 @@
+{
+  "title": "Monsieur Renard's Garten",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Take-out, Bakery\n                                    ",
+  "description": "A 100% vegan/vegetarian restaurant serves breakfast, many coffees, tea (organic & fair trade), fresh squeezed juices, lunch, press, sales of own manufactured goods, baked goods.",
+  "priceRange": "Moderate",
+  "streetAddress": "Herdweg 36",
+  "postalCode": "70174",
+  "phone": "tel:01575-5440558",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-5:00pm, Sat 9:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/monsieurRenardsGarten",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.785620,9.166120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.785620,9.166120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

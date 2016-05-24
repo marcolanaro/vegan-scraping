@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ubud Sari Health Resort",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Indonesian\n                                    ",
+  "description": "Quiet, nice restaurant inside A resort. serves soups, salads, sandwiches, healthy drinks, some hot food.",
+  "priceRange": "Expensive",
+  "streetAddress": "35 Jl. Kajeng, Ubud",
+  "phone": "tel:0361-974393",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.491590,115.242270&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.491590,115.242270&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fresh",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, International, Raw, Western, Juice bar, Fusion, Indonesian\n                                    ",
+  "description": "Taksu Spa opened its restaurant in Sept 2015. Serves vegetarian, vegan, and raw food with global inspirations and twists on Balinese classics. Full menu including raw and vegan desserts, as well as herbal jamu tonic drinks, and coffee roasted on the premises.",
+  "priceRange": "Expensive",
+  "streetAddress": "Jl Goutama Selatan, Ubud",
+  "phone": "tel:+62361971490",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TaksuUbudBali",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-8.510946,115.263899&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-8.510946,115.263899&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,17 @@
+{
+  "title": "Pugi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Beer/Wine, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Opened since 1925, a typical Italian bakery/cafe offers two menu items marked specifically 100% vegan: A salad and a tangier (a veggie burger). Understands what vegan means.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Giampaolo Orsini, 65r",
+  "phone": "tel:055-689763",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.763284,11.276179&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.763284,11.276179&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

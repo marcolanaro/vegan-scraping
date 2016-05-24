@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "NC Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Western, Take-out\n                                    ",
+  "description": "念慈健康厨房 is a health food concept restaurant. Does not use white salt/sugar/rice. Its a la carte menu offers rice and noodle dishes, dessert.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "16, Jalan Idaman",
+  "postalCode": "14100",
+  "phone": "tel:04-5026086",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 8:00am-7:30pm, Wed-Sun 8:00am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.266858,100.473452&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.266858,100.473452&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

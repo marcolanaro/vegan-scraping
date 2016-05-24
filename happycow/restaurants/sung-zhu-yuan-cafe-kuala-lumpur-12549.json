@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Sung Zhu Yuan Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Fast food, Take-out, Asian\n                                    ",
+  "description": "Vegetarian cafe featuring extensive international food menu in addition to a selection of beverages.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Bunga Tanjung 6A, Taman Muda",
+  "postalCode": "56100",
+  "phone": "tel:012-2649701",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.121230,101.760784&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.121230,101.760784&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

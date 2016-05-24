@@ -1,4 +1,12 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Brighton Vegetarian Bed and Breakfast",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "B&B in a family home 15-minute walk to the town centre.",
+  "streetAddress": "14 Chatsworth Road",
+  "postalCode": "BN1 5DB",
+  "phone": "tel:01273-556584",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.834903,-0.149809&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.834903,-0.149809&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

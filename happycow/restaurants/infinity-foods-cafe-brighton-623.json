@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Infinity Foods Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Fast food, Take-out, British, English\n                                    ",
+  "description": "Brighton veggie restaurant. Offers changing special. Closed entire Sept month 2014 for refurbishment.",
+  "priceRange": "Moderate",
+  "streetAddress": "50 Gardner St, Brighton",
+  "postalCode": "BN1 1UN",
+  "phone": "tel:01273-670743",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.824710,-0.139670&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.824710,-0.139670&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

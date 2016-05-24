@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Brownice - Sin Ming Centre",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Italian, Take-out\n                                    ",
+  "description": "Vegan ice cream parlor, makes from organic brown rice milk, fruits, and nuts. Also serves pizza and pasta.",
+  "streetAddress": "8 Sin Ming Rd, Sin Ming Centre 01-03",
+  "postalCode": "575628",
+  "phone": "tel:6348-2295",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-10:00pm, Fri-Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BrowniceIceCream",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.353714,103.836023&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.353714,103.836023&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

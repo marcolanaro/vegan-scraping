@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "World Peace Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western\n                                    ",
+  "description": "A vegetarian cafe located at Uma Kadampa Medition Centre. Serves made-in-house food including cakes, hot & cold drinks, vegan soups and more; vegans please inquire about other vegan options. Free meditation classes are available Tue-Thur 12-12:30pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "16 Spencer St",
+  "postalCode": "CA1 1BG",
+  "phone": "tel:01228319344",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/worldpeacecafecarlisle",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.894742,-2.930902&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.894742,-2.930902&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

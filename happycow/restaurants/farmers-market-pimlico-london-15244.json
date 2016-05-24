@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Farmers Market - Pimlico",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Pimlico Road Farmers Market. Large market.",
+  "streetAddress": "Orange Square",
+  "postalCode": "SW1 8NE",
+  "phone": "tel:020-7833-0338",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.490760,-0.150080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.490760,-0.150080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

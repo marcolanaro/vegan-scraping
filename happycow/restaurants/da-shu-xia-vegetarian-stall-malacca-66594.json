@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Da Shu Xia Vegetarian Stall",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Malay\n                                    ",
+  "description": "大树下素食 is nearby Pasar Malam.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Jalan Berlian, Taman Bukit Melaka",
+  "postalCode": "75450",
+  "phone": "tel:06-2329864",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=2.246472,102.270142&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C2.246472,102.270142&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

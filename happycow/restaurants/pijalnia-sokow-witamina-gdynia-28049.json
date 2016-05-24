@@ -1,0 +1,15 @@
+{
+  "title": "Pijalnia Sokow Witamina",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "Vegan juice bar offering a very large variety of fresh fruit and vegetable juices.",
+  "streetAddress": "Abrahama 39",
+  "phone": "tel:+48-508-108-966",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-6:00pm, Sat 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.517896,18.540788&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.517896,18.540788&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

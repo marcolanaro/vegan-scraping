@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Caffe Sala",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A family-run independent coffee house with an extensive array of baked goods, including vegan choices. Serves sandwiches, coffee drinks and much more, some of which are vegan or can be made vegan. Holds live acoustic music nights.",
+  "priceRange": "Moderate",
+  "streetAddress": "5 Eld Ln",
+  "postalCode": "CO1 1LE",
+  "phone": "tel:01206-616919",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-6:00pm, Sun 10:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/caffe.sala",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.887972,0.900698&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.887972,0.900698&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

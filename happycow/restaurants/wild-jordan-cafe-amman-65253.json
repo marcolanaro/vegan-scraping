@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wild Jordan Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Juice bar, Fusion, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. In partnership with the Royal Society of Conservation of Natureza, the menu is based on low fat, low carbohydrate recipes using raw materials extracted from the RSCN’s nature reserves. Wide selection of salads, sandwiches, smoothies, and desserts with a healthy twist. Vegan choices include a vegan heaven brunch (scrambled tofu and grilled veggies) and the quinoa burger. Free Wi-Fi.",
+  "priceRange": "Expensive",
+  "streetAddress": "Jabal Amman, 1st Circle Othman bin Afan Street",
+  "phone": "tel:+96264616523",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Wild-Jordan/134060523314092",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.951062,35.930943&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.951062,35.930943&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

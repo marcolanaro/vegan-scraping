@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "DM",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health store chain. Offers a wide selection of products: bio, vegetarian and vegan food, ecological house produts, nutritional supplements, natural cosmetics, and much more.",
+  "streetAddress": "Petrinjska 6",
+  "postalCode": "10000",
+  "phone": "tel:0800-3658633",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.811767,15.979277&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.811767,15.979277&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

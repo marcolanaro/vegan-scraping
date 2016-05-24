@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Kosk Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Mediterranean, Beer/Wine, Turkish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. One of few restaurants where you can eat other vegan things than just falafel, it's in Sultanahmet. Some vegetarian dishes on the menu of which many are or could be requested vegan. Recommended dishes include veggie-casserole, lentil-soup, grilled veggies plate, and a vegan meze. No vegan dessert.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kadirga Liman Cad. Küçük Ayasofya Mah., Küçük Ayasofya Cami Sok. 12",
+  "phone": "tel:+90-2126384757",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/kosk2restaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.003250,28.972084&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.003250,28.972084&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

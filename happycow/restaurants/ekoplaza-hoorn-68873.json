@@ -1,0 +1,14 @@
+{
+  "title": "EkoPlaza",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A chain of health food shops throughout the Netherlands that offers grains, nuts, biscuits and sweets plus wide range of juices, cereals, vegetables and fruits.",
+  "streetAddress": "Stationsweg 10-15",
+  "postalCode": "1621",
+  "phone": "tel:0229-281999",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-6:30pm, Thu 9:00am-9:00pm, Fri 9:00am-6:30pm, Sat 9:00am-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/EkoPlaza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.645175,5.052106&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.645175,5.052106&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

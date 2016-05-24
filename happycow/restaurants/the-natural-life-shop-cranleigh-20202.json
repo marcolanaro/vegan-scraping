@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Natural Life Shop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food and supplements store. Has vegan and vegetarian supplements, body care products, organic and special dietary foods. Knowledgeable staff. Mail order sevice offered.",
+  "streetAddress": "Tudor House, 190 High Street",
+  "postalCode": "GU6 8RL",
+  "phone": "tel:01483-272742",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/thenaturallifeshop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.143379,-0.496283&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.143379,-0.496283&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

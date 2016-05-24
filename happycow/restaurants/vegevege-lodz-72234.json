@@ -1,0 +1,15 @@
+{
+  "title": "VegeVege",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Online store where you make an order, then arrange for delivery, or schedule pick-up here. No walk-ins.",
+  "streetAddress": "Aleja Pilsudskiego 133d/019",
+  "phone": "tel:609030402",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "fb": "http://www.facebook.com/VEGEVEGEpl",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.762437,19.499865&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.762437,19.499865&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Akakiko",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Japanese, Delivery, Take-out, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain Japanese food shop, this one is on the 3rd floor of the Passage shopping mall. Offers veggie choices which are labeled, including a variety of maki, sushi, salads, noodles, and one vegan dessert (mochi).",
+  "priceRange": "Moderate",
+  "streetAddress": "Landstrasse 17-25",
+  "postalCode": "4020",
+  "phone": "tel:+43-57333170",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.302965,14.289411&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.302965,14.289411&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

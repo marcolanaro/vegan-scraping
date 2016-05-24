@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tengu Natural Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural foods shop offering a wide range of multi-ethnic vegetarian foods and locally grown organic produce. Has nationwide delivery. Call for catalog. Same location as Alishan Cafe. Address in Japanese: 埼玉県日高市高麗本郷185-2.",
+  "streetAddress": "185-2 Komahongo, Hidaka-shi, Saitama-ken",
+  "postalCode": "350-1251",
+  "phone": "tel:04-29824811",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.885680,139.308700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.885680,139.308700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

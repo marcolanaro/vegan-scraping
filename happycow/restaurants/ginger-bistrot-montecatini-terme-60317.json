@@ -1,0 +1,19 @@
+{
+  "title": "Ginger Bistrot",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Italian, Organic, Beer/Wine\n                                    ",
+  "description": "Bistro offering well-presented vegetarian and vegan dishes. Has also a vegan-organic wine list. Relaxing atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Marruota, 59/A",
+  "postalCode": "51016",
+  "phone": "tel:+39-0572770156",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 7:30pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Ginger-Bistrot-Greenfood-Relax-Vegano-Vegetariano/1540376982911368",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.879195,10.768942&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.879195,10.768942&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

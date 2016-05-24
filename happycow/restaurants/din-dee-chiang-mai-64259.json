@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Din Dee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Japanese, Thai\n                                    ",
+  "description": "A little yellow adobe building with blue shutters, housed in front of the Chiang Mai University art department. Menu selection includes club sandwich, chickpea curry with brown rice, soba noodles, zingy Thai salad, muesli, and cake. Juices, tea, coffee with soy options.",
+  "priceRange": "Moderate",
+  "streetAddress": "Nimmanhaemin Rd, Suthep",
+  "postalCode": "50200",
+  "phone": "tel:053289046",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "fb": "http://www.facebook.com/dindee.chiangmai",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=18.791852,98.963833&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C18.791852,98.963833&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

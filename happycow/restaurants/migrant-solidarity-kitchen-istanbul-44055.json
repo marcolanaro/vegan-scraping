@@ -1,4 +1,11 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Migrant Solidarity Kitchen",
+  "tags": [
+    "Veg Organization"
+  ],
+  "description": "Not a restaurant but weekly kitchen aimed toward all migrants but is open to anyone both for cooking and eating. Cooking starts around 3pm and eating takes place around 7pm. Food is free but open to donations. 2016 update - adding meat to offering and no longer pure veg.",
+  "streetAddress": "Sakiz Agaci Caddesi, Hava Hos Sokak, Beyoglu",
+  "phone": "tel:905327268097",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.038191,28.978860&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.038191,28.978860&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

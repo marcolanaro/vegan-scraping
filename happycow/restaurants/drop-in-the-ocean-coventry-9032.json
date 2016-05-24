@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Drop in the Ocean",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Independent health food shop located in Coventry City Arcade. Stocks a variety of natural remedies, organic foods, body care and house hold cleaning products, as well as a variety of foods for people living with diets such as vegan, gluten free, and diabetic.",
+  "streetAddress": "17 City Arcade, Coventry",
+  "postalCode": "CV1 3HX",
+  "phone": "tel:024-76225273",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/DropInTheOceanCoventry",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.406230,-1.514767&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.406230,-1.514767&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

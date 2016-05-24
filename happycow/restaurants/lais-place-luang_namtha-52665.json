@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Lai's Place",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Juice bar, Beer/Wine, Take-out, Asian, Laotian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a wide selection of vegetarian dishes including Lao traditional dishes like larb and jeow with tofu or other non-meat ingredients, typical Asian rice and noodle, to western food like veggie burger, soup, and salad. Small quiet restaurant at the south side of the center of town, just on the main road, on the next block south from Green Discovery Laos.",
+  "priceRange": "Moderate",
+  "streetAddress": "Highway 17A/3A",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.000991,101.409736&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.000991,101.409736&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

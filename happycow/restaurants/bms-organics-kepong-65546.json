@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "BMS Organics",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Organic, Western\n                                    ",
+  "description": "思源 serves a variety of rice and noodle items. Set menu and kids meals available.",
+  "priceRange": "Moderate",
+  "streetAddress": "E-30, Vista Magna, Jln Prima 1, Metro Prima",
+  "postalCode": "52100",
+  "phone": "tel:03-62508164",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.213139,101.642323&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.213139,101.642323&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

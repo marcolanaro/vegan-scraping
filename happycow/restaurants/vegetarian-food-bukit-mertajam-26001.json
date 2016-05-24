@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Food",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "素食. Veg stall selling rice at an opened hall with other stall selling non-veg.",
+  "streetAddress": "Lot 10, Dewan Pasar Awam Kota Permai",
+  "postalCode": "14000",
+  "phone": "tel:012-4396298",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.353762,100.474426&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.353762,100.474426&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

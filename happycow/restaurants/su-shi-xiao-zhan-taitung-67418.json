@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Su Shi Xiao Zhan ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "素食小站, at 開封街615号, specializes in making pizza and ovo-lacto vegetarian food.",
+  "priceRange": "Moderate",
+  "streetAddress": "615 Kaifeng St",
+  "postalCode": "950",
+  "phone": "tel:089342479",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.760813,121.139934&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.760813,121.139934&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

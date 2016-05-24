@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Vegetarian Stall - Ee Lu Fatt Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "素食档在168茶室.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1228-S, Mukim 13, Jalan Paya Terubong, Ayer Itam",
+  "postalCode": "11060",
+  "phone": "tel:018-2888371",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-2:00pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=5.391116,100.275413&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C5.391116,100.275413&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

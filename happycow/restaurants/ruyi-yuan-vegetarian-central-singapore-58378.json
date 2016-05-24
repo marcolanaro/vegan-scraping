@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ruyi Yuan Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "如意园素食 is a stall located in the Teck Kee Wanton Mee coffee shop. Offers white/brown rice or bee hoon/noodles, and eat it with vegetables dishes, spring rolls, vegetables curry, and mock meat.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Block 1 Tanjong Pagar Plaza , Unit 02-04/05",
+  "postalCode": "082001",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-1:30pm, Sat 7:30am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.276263,103.842820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.276263,103.842820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

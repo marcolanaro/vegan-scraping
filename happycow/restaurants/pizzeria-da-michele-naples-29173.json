@@ -1,0 +1,17 @@
+{
+  "title": "Pizzeria da Michele",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Fast food, Beer/Wine, Take-out\n                                    ",
+  "description": "One of this city's three original pizzerias that's 100+ years old. Makes just 2 kinds of pizza: one with cheese and one without -- much like a few other pizza joints around here.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Via Cesare Sersale 1",
+  "postalCode": "80139",
+  "phone": "tel:0815539204",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.850131,14.263105&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.850131,14.263105&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

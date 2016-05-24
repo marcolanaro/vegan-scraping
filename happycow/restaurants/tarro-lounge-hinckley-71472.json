@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Tarro Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Beer/Wine, British, English, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Operated by same company as Loungers & The Cosy Clubs. A separate vegan menu, also loads of veggie choices. free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Unit 5, The Crescent ",
+  "phone": "tel:01455612886",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Tarro-Lounge-942009125864547",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.540411,-1.376528&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.540411,-1.376528&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

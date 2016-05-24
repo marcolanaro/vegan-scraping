@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fou Shi Yuan Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "Local eatery offering buffet as well set menu, seats 30. Food range include dim sum, vegetables, mock meat, Chinese medicinal soups. Look for big green sign outside.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "421 Chenggong Rd, Central West District ",
+  "phone": "tel:062293758",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:30am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=23.000823,120.197334&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C23.000823,120.197334&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

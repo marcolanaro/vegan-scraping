@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Annapurna",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Chinese, Indian, Italian, Western\n                                    ",
+  "description": "Serves North and South Indian and Chinese food such as pizza, burgers and sweets with vegetarian and vegan choices. No Wi-Fi. Located next to the Siddharta Bank at Patan Dhoka.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Patan Dhoka, Lalitpur",
+  "phone": "tel:5005500",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.678018,85.321172&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.678018,85.321172&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Restaurant im alten Speicher",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a small vegetarian section on menu that are also vegan except for one - just ask for no cheese. Also, the Pierre Jean merlot is vegan. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Speicherlinie 44",
+  "postalCode": "24937",
+  "phone": "tel:+4946112018",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.787242,9.434738&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.787242,9.434738&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Huan Xi - Joy Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Take-out, Taiwanese\n                                    ",
+  "description": "歡喜素食, at 桃園市龜山區文化二路34巷14弄2-1號, is a vegetarian stand offering noodles, glutinous rice, soy stew, boiled vegetables, and soup.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2-1, Alley 14, Lane 34, Wunhua 2nd Rd",
+  "postalCode": "33380 ",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.058799,121.364986&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.058799,121.364986&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

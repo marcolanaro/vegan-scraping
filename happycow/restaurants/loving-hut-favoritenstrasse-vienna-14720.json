@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Loving Hut - Favoritenstrasse",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Fast food, Take-out, Asian, Vietnamese\n                                    ",
+  "description": "Formerly Go Veg Diner, now Loving Hut. Part of international chain of vegan restaurants inspired by Supreme Master Ching Hai, an advocate for vegetarian living. Serves all vegan food, coffee, non-alcoholic beverages, and more. Uses organic vegetables and non-GMO products as much as possible, with a particular focus on sourcing ingredients from local producers. Tranquil atmosphere. Non-smoking.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Favoritenstrasse 156, Nahe Reumannplatz",
+  "postalCode": "1100 Wien",
+  "phone": "tel:0699-12659473/,%2012938470",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:30am-3:00pm, 5:00pm-9:00pm, Sat-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.170710,16.379370&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.170710,16.379370&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

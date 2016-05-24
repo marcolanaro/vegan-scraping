@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Nature Vegetarian ",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Singaporean \n                                    ",
+  "description": "自然素食 serves economic rice and local dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "198 Pandan Loop Unit 02-01",
+  "postalCode": "128386",
+  "phone": "tel:68730341",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/natureveg.natureveg?fref=ts",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.311396,103.752457&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.311396,103.752457&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

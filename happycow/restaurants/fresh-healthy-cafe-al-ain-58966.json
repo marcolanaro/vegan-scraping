@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Fresh Healthy Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small food stand opposite the food court on the 1st floor of Bawadi mall. Veggie (a few vegan adaptable) choices include oatmeal, fruit & granola parfaits, soup, panini/wraps, crepes, detox juices, smoothies, organic teas. Agave as sweetener upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "1st Floor, Bawadi Mall, Zayed Bin Sultan St",
+  "phone": "tel:+971-37809870",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.130162,55.802312&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.130162,55.802312&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

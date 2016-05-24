@@ -1,4 +1,17 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Ting Ho",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Fast food, Take-out\n                                    ",
+  "description": "Home style Chinese food, from stir fried noodle to fried pak kor, and rice noodle.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "DG Food Court, Jalan Wawasan 2/23, Puchong",
+  "phone": "tel:0166964813",
+  "venueHours": "\n                                                                                                        Mon-Sun 4:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=3.028177,101.624875&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C3.028177,101.624875&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "LOVE Pacific Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Organic\n                                    ",
+  "description": "Cafe belonging to a fitness club. The 'LOVE' in name stands for local, organic, vegetable, eco-friendly. Does not use dairy, white sugar, or egg. Lunch sets are offered from 11:30am-3pm. Cafe time from 3-8pm where one could get veggie burgers and rice bowls. Directions: take the subway to Fushimi, go out Exit 5 towards Shirakawa Koen, walk alongside the park with it on your right side, turn right at the first street after the stoplight, and the cafe will be on your left side in the second block.",
+  "priceRange": "Moderate",
+  "streetAddress": "3 Chome-23-38 Sakae, Naka-ku",
+  "postalCode": "460-0008",
+  "phone": "tel:052-252-8429",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.164732,136.903748&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.164732,136.903748&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

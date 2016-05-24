@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Die Erbse International",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Indian, International, Organic, Beer/Wine, Take-out\n                                    ",
+  "description": "A small vegan place with a daily menu and some standards lie wraps, in-house-made falafel, middle east sandwich and more. Previously vegetarian, but now 100% vegan, Nov 2014.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Griesplatz 4",
+  "postalCode": "8020",
+  "phone": "tel:0043650-5018156",
+  "venueHours": "\n                                                                                                        Mon-Fri 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/dieerbseinternational",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.065947,15.432002&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.065947,15.432002&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

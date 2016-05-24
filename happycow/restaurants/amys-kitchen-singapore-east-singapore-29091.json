@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Amy's Kitchen Singapore",
+  "tags": [
+    "Veg-Store"
+  ],
+  "description": "Sole distributors of Amy's Kitchen, USA, in Singapore. Product range comprise a variety of frozen ready-to-tat meals and are 100% certified organic, vegetarian, and with some vegan items. Delivery available, see website.",
+  "streetAddress": "Blk 627A Aljunied Road 01-05, Biztech Centre",
+  "postalCode": "389842",
+  "phone": "tel:63366307",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:30am-6:30pm, Sat 8:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Amys-Kitchen-Singapore/243990335650372",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.326058,103.879255&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.326058,103.879255&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

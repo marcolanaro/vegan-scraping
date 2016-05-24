@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Dolma",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Buffet, Fusion\n                                    ",
+  "description": "Restaurant, bar, and health food shop. Daily menu buffet style restaurant with adjoining bar, accessed through the shop. Buffet features mostly ovo-lacto veggie dishes and a few vegan ones. 10 minute walk to Porte de Namur metro on Brussels' Southern side, bus 71.",
+  "priceRange": "Moderate",
+  "streetAddress": "329 Chaussée d'Ixelles, Bruxelles",
+  "postalCode": "1050",
+  "phone": "tel:02-6498981",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-2:00pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "fb": "http://www.facebook.com/pages/Dolma-Restaurant-végétarien-et-magasin-bio/325252093634",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.828760,4.370600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.828760,4.370600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

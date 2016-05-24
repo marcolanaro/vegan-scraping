@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "ASTV Shop",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health store selling many organic products and groceries. There is also a corner with books about health.  ",
+  "streetAddress": "49/1 Phra Athit Rd, Chanasongkram, Pranakorm",
+  "postalCode": "10200",
+  "phone": "tel:026292211",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=13.763696,100.494653&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C13.763696,100.494653&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

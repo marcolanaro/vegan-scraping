@@ -1,4 +1,14 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Komala Vilas - Buffalo Rd Branch",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Indo-Chinese\n                                    ",
+  "description": "A branch of Komala Vilas, offering both North and South Indian cuisine as well as Indian sweets. No MSG is used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12-14 Buffalo Rd, Little India",
+  "phone": "tel:62988770",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=1.306383,103.851184&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C1.306383,103.851184&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

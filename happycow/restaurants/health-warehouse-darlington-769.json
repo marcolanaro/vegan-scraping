@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "The Health Warehouse",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural and health food store stocking a range of veg-friendly foods as well herbal remedies, bodycare products, sports nutrition, and environmentally-friendly home cleaning product. Offers 10% discount with Vegetarian Society card (excludes fresh food). In Oct 2013 it opened an in-store bakery and takeaway vegetarian food counter.",
+  "streetAddress": "15 Post House Wynd, Skinnergate",
+  "postalCode": "DL3 7LU",
+  "phone": "tel:01325468570",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.524990,-1.556520&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.524990,-1.556520&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

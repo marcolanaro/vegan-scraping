@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Riptide",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Fast food, Beer/Wine, Take-out\n                                    ",
+  "description": "Cafe and record store. Free Wi-Fi. Hours in winter change, call ahead.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Handelsweg 11",
+  "postalCode": "38100",
+  "phone": "tel:0531-2254177",
+  "venueHours": "\n                                                                                                        Mon-Wed 12:00pm-11:00pm, Thu-Sat 12:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.263696,10.517578&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.263696,10.517578&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

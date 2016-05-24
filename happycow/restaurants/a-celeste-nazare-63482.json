@@ -1,0 +1,20 @@
+{
+  "title": "A Celeste",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Beer/Wine, Take-out, Portuguese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Typical Portuguese beach restaurant, has vegetarian menu.",
+  "priceRange": "Expensive",
+  "streetAddress": "Avenida da República, 54",
+  "postalCode": "2450-102",
+  "phone": "tel:+351-262551695",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Restaurante-A-Celeste-113081065443109",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.599384,-9.072821&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.599384,-9.072821&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

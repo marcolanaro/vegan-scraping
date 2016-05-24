@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Cafe Greg - Weizmann",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Middle Eastern, Kosher, Israeli, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Chain cafe near the Tel Aviv Museum of Art. Offers a separate vegan menu that includes a full vegan breakfast, frittata made with chickpea flour, salads, sandwiches, Asian style stir fries, and curry. Kosher (Mehadrin).",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Weizmann",
+  "phone": "tel:036094497",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-11:00pm, Fri 8:00am-2:00pm, Sat 7:30pm-11:00pm, Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gregcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.077585,34.788659&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.077585,34.788659&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

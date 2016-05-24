@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Wagamama",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Fast food, Juice bar, Beer/Wine, Take-out, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. International franchise chain inspired by Japanese food. Vegetarian items are marked with a V and some are or can be made vegan. Reported the staff in this kitchen is cognizant about using separate utensils for cooking veg food, but likely has only 1 fryer for meat & veg. Has freshly squeezed juices, edamame, goma wakame salad, yasai gyoza (dumplings), yasai itame (tofu, veg & noodles in a coconut soup).",
+  "priceRange": "Moderate",
+  "streetAddress": "19 Earl St",
+  "postalCode": "ME14 1PL",
+  "phone": "tel:01622753705",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Wagamamas-Maidstone/179962005539227",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.274664,0.521902&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.274664,0.521902&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

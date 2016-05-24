@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Somethin's Brewin' Tea Room",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A quirky tea room which is part of the Sage Gateshead's offshoot venue at Gateshead Old Town Hall. Offers a small range of lunch choices served 12-2pm; at times includes made-in-house vegan pasties. The soup is always vegan but you need to ask for vegan spread for the bun. All cakes are usually vegan and there are lots of cake choices, often including cupcakes. Opening hours may differ on certain weeks, e.g. half term and summer school holidays where their music groups are not meeting so they don't open in the evening, so it's best to call ahead if you want to visit in the evening. Usually only cakes and drinks available after 2.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "West St, Gateshead Old Town Hall",
+  "postalCode": "NE8 1HE",
+  "phone": "tel:0191-4435300",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-8:00pm, Fri 9:00am-6:00pm, Sun 9:00am-12:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Somethins-Brewin/197119203813896",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=54.964305,-1.603996&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C54.964305,-1.603996&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

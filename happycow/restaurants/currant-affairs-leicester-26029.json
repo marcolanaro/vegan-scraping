@@ -1,4 +1,13 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Currant Affairs",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small, well-stocked wholefood shop with take-away food counter. The shop sells a variety of groceries including flour, pasta, nuts, seeds, pulses, jars and canned food. Has a fridge for cold drinks, one for chilled food such as yoghurt (including soya yoghurts), hummous, spreads, tofu, veggie sausages; and a freezer with Frys products, Clives Pies, and other manufacturers of vegetarian foods, a few lollies and ice creams in summer. The takeaway counter has a selection of filled bread rolls with vegan options marked, as well as pasties, samosas, cake and flapjacks, some manufactured on site. Some gluten free options.",
+  "streetAddress": "9a Loseby Lane",
+  "postalCode": "LE1 5DR",
+  "phone": "tel:0116-2510887",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.634641,-1.135836&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.634641,-1.135836&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

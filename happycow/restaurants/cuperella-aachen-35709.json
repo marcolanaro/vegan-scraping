@@ -1,0 +1,17 @@
+{
+  "title": "Cuperella",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "A bake shop that offers one vegan cupcake each day; the flavor of changes weekly.",
+  "streetAddress": "Pontstrasse 40",
+  "postalCode": "52062",
+  "phone": "tel:4924116020789",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Cuperella-Café/210786952376732",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.777750,6.082664&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.777750,6.082664&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

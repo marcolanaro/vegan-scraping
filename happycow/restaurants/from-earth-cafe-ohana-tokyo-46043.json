@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "From Earth Cafe OHANA",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Japanese, Macrobiotic, Organic, Beer/Wine\n                                    ",
+  "description": "Organic vegan cafe near Sangenjaya station (2 stops from Shibuya) at 東京都世田谷区三軒茶屋1-32-6豊栄ビル1F. Has macrobiotic sweets. Also on the premises is a small fair-trade, eco shop. English information available online.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Setagaya-Ku, Tokyo, 1-32-6-1F, Sangenjaya",
+  "phone": "tel:03-54338787",
+  "venueHours": "\n                                                                                                        Mon-Wed 11:00am-11:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/fromEarthCafe.OHANA",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.641909,139.669952&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.641909,139.669952&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

@@ -1,4 +1,19 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Red Kimono",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Japanese, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of chain restaurant. This branch is in the Mall, has  Wi-Fi access, and one menu page specifically for vegetarians. Please confirm if there are vegan options and let HappyCow know!",
+  "priceRange": "Moderate",
+  "streetAddress": "G/f Marquee Mall, Angeles City",
+  "postalCode": "2009",
+  "phone": "tel:045-3040823",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/redkimonorestaurants",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=15.162607,120.609884&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C15.162607,120.609884&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

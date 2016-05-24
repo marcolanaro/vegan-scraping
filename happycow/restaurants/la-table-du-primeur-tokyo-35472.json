@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "La Table du Primeur",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Raw, Western, Juice bar, Fusion\n                                    ",
+  "description": "Raw food cafe at 東京都 港区赤坂3-9-16 松葉ビル B1F near Akasakamitsuke station; est. 2012 previously at 2-20-5 Toshima-ku. Primarily vegan though honey might be used. Offers a 3-course raw food lunch which comes with a main, salad, and dessert plus drink. Hosts food preparation and events.",
+  "priceRange": "Moderate",
+  "streetAddress": "Minato-ku Akasaka 3-9-16 Mitsuba bld. B1F",
+  "postalCode": "1710031",
+  "phone": "tel:03-39831831",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Latableduprimeur",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.677340,139.735960&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.677340,139.735960&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

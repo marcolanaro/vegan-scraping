@@ -1,0 +1,17 @@
+{
+  "title": "De Kleinste Soepwinkel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Take-out, Dutch\n                                    ",
+  "description": "Shop and restaurant. Offers different kinds of organic soup with fresh bread. Samples of vegan professor grunschnabel ice cream. Uses fair trade products.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kleine Overstraat 46d",
+  "postalCode": "7411 JM",
+  "phone": "tel:0031-0-570-616301",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 12:00pm-6:00pm, Thu 11:00am-6:30pm, Fri 11:00am-6:00pm, Sat 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.251986,6.158708&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.251986,6.158708&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

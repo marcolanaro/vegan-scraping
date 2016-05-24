@@ -1,4 +1,18 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Bonsai Sushi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Japanese, Take-out, Asian, Kosher, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Dairy sushi Asian food restaurant. Offers fish but not other meats. For protein the kitchen uses tofu and haloumi.",
+  "priceRange": "Moderate",
+  "streetAddress": "26 Ben Sira",
+  "phone": "tel:057-9418818",
+  "venueHours": "\n                                                                                                        Mon-Thu 12:00pm-12:00am, Sat 6:00pm-12:00am, Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.778425,35.222692&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.778425,35.222692&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

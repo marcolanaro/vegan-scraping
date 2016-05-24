@@ -1,0 +1,15 @@
+{
+  "title": "Peperoni",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Buffet, Juice bar\n                                    ",
+  "description": "Grocery store with a food bar that offers a veggie lunch on its own or with a mixed salad, fruit salad, and a freshly squeezed fruit juice. Food service starts at noon. The daily meal is sometimes vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Wolbeckerstr. 24",
+  "postalCode": "48155",
+  "phone": "tel:0251664020",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 9:00am-8:00pm, Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.958075,7.639103&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.958075,7.639103&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,15 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "Noraneco Kitchen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Western, Take-out\n                                    ",
+  "description": "Small vegan cafe located 5 minutes from Sasatzuka station in Keio line (one stop from Shinjuku), at 東京都渋谷区笹塚3-19-5. Serves three lunch sets and some desserts. No additives or white sugar.",
+  "priceRange": "Moderate",
+  "streetAddress": "Tokyo, Shibuya-ku, Sasatzuka 3-19-5 2F",
+  "phone": "tel:07055800141",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-4:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cafenoranecokitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.677058,139.667303&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.677058,139.667303&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }

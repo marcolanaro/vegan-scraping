@@ -1,0 +1,17 @@
+{
+  "title": "Pizza Hut",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Italian, Buffet, Fast food, Salad bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu offers 2 vegetarian pizzas, can be ordered without cheese. Or create your own. Bases are vegan including pan, thin crust, and gluten free. With your pizza order you get a salad bowl to the salad bar.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Unit 10 Stevenage Leisure Park",
+  "postalCode": "SG1 2AU",
+  "phone": "tel:01438316677",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:30am-10:00pm, Fri-Sat 11:30am-11:00pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.900793,-0.210162&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.900793,-0.210162&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,4 +1,16 @@
 {
-  "tags": [],
-  "listingFeatures": []
+  "title": "VegReca",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Japanese, Organic, Beer/Wine\n                                    ",
+  "description": "Restaurant and bar in Matsuyama City, serving usually two vegetable curries in the evening, a choice of side dishes, and a couple of desserts. Details of the curries are posted on its facebook. The bar serves tap and bottled beers, sake and soft drinks. The space is also a record store and second hand book shop. Hours of opening are irregular - check its web.",
+  "priceRange": "Moderate",
+  "streetAddress": "Tomoe Building 1F, Kitafujiwara cho 14-7",
+  "postalCode": "790-0033",
+  "phone": "tel:089-9042978",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/vegreca",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.835146,132.759719&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.835146,132.759719&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
 }
