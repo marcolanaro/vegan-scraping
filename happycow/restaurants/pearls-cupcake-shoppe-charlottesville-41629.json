@@ -1,0 +1,16 @@
+{
+  "title": "Pearl's Cupcake Shoppe",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "This bakery also offers vegan cupcakes and vegan scones daily, sometimes vegan muffins. Call ahead for the day's flavors. Has soymilk for coffee/tea.",
+  "streetAddress": "711 W Main St",
+  "postalCode": "2253",
+  "phone": "tel:434-293-2253",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Pearls-Cupcake-Shoppe/290391012310",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.031800,-78.490089&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.031800,-78.490089&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

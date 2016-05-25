@@ -1,0 +1,13 @@
+{
+  "title": "Atlantic Superstore",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Has a good size natural foods department that carries a wide selection of vegan products including Totuffi and Tofurky, specialty items like Zen soy and almond puddings, Enjoy Life chocolate and vegan energy bars and cookies. Also a selection of cruelty free cosmetics and cleaning supplies.",
+  "streetAddress": "21 Davidson Dr",
+  "postalCode": "B4V 2P9",
+  "phone": "tel:902-543-1809",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-11:00pm, Sun 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.380038,-64.518252&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.380038,-64.518252&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Sosta Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. European coffee shop serving sandwiches and salads made to order using local produce and breads. Fresh soup daily. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "130 E Davie St",
+  "postalCode": "27601",
+  "phone": "tel:919-833-1006",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.775543,-78.637856&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.775543,-78.637856&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

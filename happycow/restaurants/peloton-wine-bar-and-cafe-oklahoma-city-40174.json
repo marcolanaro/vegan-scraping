@@ -1,0 +1,20 @@
+{
+  "title": "Peloton Wine Bar and Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Organic, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Sandwiches, sharable plates, large and selection of wine and beer. Offers a roasted vegetable panini (vegans need to specify no cheese), plus salads, smoothies and fruit salad. Some beers are locally made and seasonal.",
+  "priceRange": "Moderate",
+  "streetAddress": "900 N Broadway",
+  "postalCode": "73102",
+  "phone": "tel:405-605-0513",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:30am-9:00pm, Fri 7:30am-10:00pm, Sat 8:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pelotonwinebar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.476090,-97.514165&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.476090,-97.514165&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

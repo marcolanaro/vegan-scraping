@@ -1,0 +1,18 @@
+{
+  "title": "Pizzeria Bob",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria in central Borås. Has vegan cheese, vegan gyros-kebab, faux ham and salami. Seitan burgers also available. Some pizza toppings are organic.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Österlånggatan 50",
+  "postalCode": "50337",
+  "phone": "tel:033101215",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.719836,12.941470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.719836,12.941470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

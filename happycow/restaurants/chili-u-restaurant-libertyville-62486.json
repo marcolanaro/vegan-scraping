@@ -1,0 +1,19 @@
+{
+  "title": "Chili U Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, International, Beer/Wine, Take-out, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Eclectic menu with a few vegan choices including a chili with vegan cheese topping, quinoa salad, fried pickles, edamame. ",
+  "priceRange": "Moderate",
+  "streetAddress": "547 N Milwaukee",
+  "postalCode": "60048",
+  "phone": "tel:847-549-3152",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-9:00pm, Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/ChiliU/381466718566838?rf=237170533063798",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.288846,-87.955033&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.288846,-87.955033&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

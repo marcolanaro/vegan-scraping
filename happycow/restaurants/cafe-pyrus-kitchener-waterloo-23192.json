@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Pyrus",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Take-out, Bakery, Canadian\n                                    ",
+  "description": "Locally owned veggie cafe, opened summer 2010. Offers coffee, sandwiches, main entrees, and pastries. Food is vegan except for dairy cheese and milk for drinks. Hosts readings, music nights, and other events. Takes debit cards.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "16 Charles Street West",
+  "postalCode": "N2G 1H2",
+  "phone": "tel:519-954-7705",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-6:30pm, Sat 9:00am-6:00pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/CafePyrus",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.449722,-80.491941&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.449722,-80.491941&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

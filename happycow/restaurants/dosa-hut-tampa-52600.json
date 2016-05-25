@@ -1,0 +1,18 @@
+{
+  "title": "Dosa Hut",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Fast food, Take-out\n                                    ",
+  "description": "Fast food and buffet style place, opened May 2014. South Indian vegetarian menu of primarily dosas and other snack foods.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "10029 W Hillsborough Ave",
+  "postalCode": "33615",
+  "phone": "tel:813-886-4555",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-3:00pm, 5:00pm-9:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/GaramDosaHut",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.003730,-82.597509&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.003730,-82.597509&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

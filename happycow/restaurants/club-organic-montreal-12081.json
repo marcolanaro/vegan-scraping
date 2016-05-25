@@ -1,0 +1,13 @@
+{
+  "title": "Club Organic",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food store has fresh organic fruits and vegetables, frozen food section, large selection of products in bulk staples.",
+  "streetAddress": "4341 rue Frontenac",
+  "postalCode": "H2H 2M4",
+  "phone": "tel:514-523-0223",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:30am-6:00pm, Thu-Fri 9:30am-8:00pm, Sat 9:30am-5:00pm, Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.538190,-73.564920&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.538190,-73.564920&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

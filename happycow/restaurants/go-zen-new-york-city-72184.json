@@ -1,0 +1,18 @@
+{
+  "title": "Go Zen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out, Asian\n                                    ",
+  "description": "Mixed Asian and Chinese food restaurant. Formerly Vegetarian's Paradise 2.",
+  "priceRange": "Moderate",
+  "streetAddress": "144 W 4th  St",
+  "postalCode": "41115",
+  "phone": "tel:212-260-7130",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-10:30pm, Fri-Sat 11:30am-11:30pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gozenfamily",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.731166,-74.000564&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.731166,-74.000564&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

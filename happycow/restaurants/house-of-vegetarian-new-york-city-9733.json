@@ -1,0 +1,17 @@
+{
+  "title": "House of Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "Small place with an extensive menu of soups, appetizers, dumplings, noodle, rice, mock meat, and vegetable dishes. Over 200 items; seemingly all vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "68 Mott St",
+  "postalCode": "10013",
+  "phone": "tel:212-226-6572",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.716190,-73.998050&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.716190,-73.998050&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

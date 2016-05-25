@@ -1,0 +1,17 @@
+{
+  "title": "Sona",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian cuisine. Has some vegetarian dishes. Accommodates vegan requests.",
+  "priceRange": "Expensive",
+  "streetAddress": "2900 Valley Ave",
+  "postalCode": "22601",
+  "phone": "tel:540-662-9299",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-2:30pm, 5:00pm-9:00pm, Wed-Sun 11:30am-2:30pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.149158,-78.188342&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.149158,-78.188342&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

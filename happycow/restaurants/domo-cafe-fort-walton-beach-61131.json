@@ -1,0 +1,18 @@
+{
+  "title": "Domo Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Japanese, Beer/Wine, Asian Fusion, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Sushi/Asian restaurant offers some vegan choices; please inquire. Serves a variety of boba teas.",
+  "priceRange": "Moderate",
+  "streetAddress": "1823 Hurlburt Rd",
+  "postalCode": "32547",
+  "phone": "tel:850-226-6412",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:00pm, Fri-Sat 11:00am-9:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/domocafe850",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.450014,-86.642663&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.450014,-86.642663&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

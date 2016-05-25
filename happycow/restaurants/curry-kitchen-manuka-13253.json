@@ -1,0 +1,15 @@
+{
+  "title": "Curry Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurant. Please send more details about the food to HappyCow - thanks!",
+  "priceRange": "Moderate",
+  "streetAddress": "7 Furneaux Street",
+  "postalCode": "2603",
+  "phone": "tel:02-62394777",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-35.319410,149.132530&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-35.319410,149.132530&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

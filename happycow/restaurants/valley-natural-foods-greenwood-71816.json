@@ -1,0 +1,15 @@
+{
+  "title": "Valley Natural Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Long-established store offering local products as well a variety of natural grocery and products. Has bulk foods.",
+  "streetAddress": "970 Central Ave",
+  "postalCode": "B0P 1N0",
+  "phone": "tel:902-765-2882",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.968008,-64.927636&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.968008,-64.927636&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

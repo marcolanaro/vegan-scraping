@@ -1,0 +1,20 @@
+{
+  "title": "Pizza Plant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Long-established pizzeria. Quirky environment and a busy menu. Known for its pizza pods, and some dishes can be personalized to one's taste. Offer soy-free vegan cheese for pods, pizza, or sandwiches; has faux sausage and chicken, a vegan chili.",
+  "priceRange": "Moderate",
+  "streetAddress": "7770 Transit Rd",
+  "postalCode": "14221",
+  "phone": "tel:716-632-0800/,%20716-625-5566",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Pizza.Plant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.979533,-78.697685&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.979533,-78.697685&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Syster Marmelad",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Beer/Wine, European\n                                    ",
+  "description": "A 100% vegetarian/vegan restaurant highlighting the use of vegetables in unique ways. Uses local ingredients. Serve all food as small plates. ",
+  "priceRange": "Moderate",
+  "streetAddress": "Mariagatan 16",
+  "postalCode": "414 71",
+  "phone": "tel:004631141%2060",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-12:00am, Fri-Sat 11:00am-1:00am, Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/systermarmelad",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.685087,11.918456&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.685087,11.918456&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Fortune Garden",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese food restaurant. Large menu with a vegetarian section that includes mock meat dishes; also offers vegetarian egg rolls and a vegetarian egg drop soup.",
+  "priceRange": "Moderate",
+  "streetAddress": "4245 Belmont Ave",
+  "postalCode": "44505",
+  "phone": "tel:330-759-9166",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat 11:30am-10:00pm, Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.158317,-80.664161&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.158317,-80.664161&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

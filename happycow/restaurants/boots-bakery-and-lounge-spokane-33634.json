@@ -1,0 +1,19 @@
+{
+  "title": "Boots Bakery and Lounge",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Beer/Wine, Bakery\n                                    ",
+  "description": "Coffee shop, cafe, and bakery opened in summer 2012. The savory dishes that are all vegan and gluten-free. Try the carrot cake cupcakes. The only non-vegan item is cow's milk.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "24 W Main St",
+  "postalCode": "99201",
+  "phone": "tel:509-703-7223",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 6:00am-6:00pm, Wed-Sat 6:00am-10:00pm, Sun 6:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/bootsbakerylounge",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.659421,-117.412203&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.659421,-117.412203&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

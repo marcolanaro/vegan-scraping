@@ -1,0 +1,18 @@
+{
+  "title": "Bramoso Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Makes fresh dough daily and offers an in-house made dairy-free \"cheese\" topping made from organic tofu, basil, and spices.",
+  "priceRange": "Moderate",
+  "streetAddress": "6169 Quninpool Rd",
+  "postalCode": "B3L 4P8",
+  "phone": "tel:902-425-2222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-10:00pm, Thu 11:30am-11:00pm, Fri-Sat 11:00am-11:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.646248,-63.594804&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.646248,-63.594804&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

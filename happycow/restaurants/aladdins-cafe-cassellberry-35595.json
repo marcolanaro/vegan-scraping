@@ -1,0 +1,17 @@
+{
+  "title": "Aladdin's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan choices in addition to the typical meat stuff. Food is made-in-house fresh. The veggie platter consists of babaganoush, hummus, pitas, tabouleh, and falafel.",
+  "priceRange": "Moderate",
+  "streetAddress": "1015 Florida 436",
+  "postalCode": "32707",
+  "phone": "tel:407-331-0488",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-9:30pm, Fri-Sat 11:30am-10:30pm, Sun 2:00pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.644248,-81.322338&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.644248,-81.322338&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

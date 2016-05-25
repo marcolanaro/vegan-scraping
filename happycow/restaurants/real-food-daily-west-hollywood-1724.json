@@ -1,0 +1,19 @@
+{
+  "title": "Real Food Daily",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Organic, Juice bar, Take-out\n                                    ",
+  "description": "West Hollywood vegan restaurant serving contemporary vegan-vegetarian cuisine. Weekend brunch. Has other locations in Southern California. Street parking.",
+  "priceRange": "Moderate",
+  "streetAddress": "414 N La Cienega Blvd",
+  "postalCode": "90048",
+  "phone": "tel:310-289-9910",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/RealFoodDaily",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.078610,-118.376710&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.078610,-118.376710&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

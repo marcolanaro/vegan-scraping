@@ -1,0 +1,17 @@
+{
+  "title": "Govinda's Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International, Western, Buffet\n                                    ",
+  "description": "This Hare Krishna restaurant serves an all you can eat vegetarian buffet for around $10.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "25 Le Hunte St",
+  "postalCode": "5084",
+  "phone": "tel:08-8359-5120",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Fri-Sun 5:30pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.862396,138.586599&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.862396,138.586599&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

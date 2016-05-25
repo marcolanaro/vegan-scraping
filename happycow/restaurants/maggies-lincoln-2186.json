@@ -1,0 +1,17 @@
+{
+  "title": "Maggie's",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Take-out\n                                    ",
+  "description": "Lincoln vegetarian cafe with menu featuring of wraps, soups, main entrees, breakfast all day, and vegan baked goods made in-house. Uses all natural, organic, and locally sourced seasonal ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "311 N 8th St",
+  "postalCode": "68508",
+  "phone": "tel:402-477-3959",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.816020,-96.709690&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.816020,-96.709690&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

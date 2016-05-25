@@ -1,0 +1,19 @@
+{
+  "title": "LemonGrass Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Thai, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves classic Asian cuisine. Some dishes are vegan and most can be made vegan. Casual atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "1419 5th Ave",
+  "postalCode": "61265",
+  "phone": "tel:309-797-4100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/LemonGrassCafeQuadCities",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.505989,-90.516872&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.505989,-90.516872&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

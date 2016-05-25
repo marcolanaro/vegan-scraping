@@ -1,0 +1,19 @@
+{
+  "title": "Tastebuds",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Fast food, Salad bar, Take-out\n                                    ",
+  "description": "Serves organic vegetarian food with vegan options (95% vegan). Supports sustainable agriculture, local farmers and green initiatives.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "405 S State St",
+  "postalCode": "95482",
+  "phone": "tel:707-463-2253",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/tastebuds707",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.147729,-123.206659&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.147729,-123.206659&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

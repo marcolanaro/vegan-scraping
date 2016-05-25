@@ -1,0 +1,18 @@
+{
+  "title": "Heaven on Earth Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Take-out, Canadian\n                                    ",
+  "description": "Offers vegan and vegetarian dishes with both cooked as well raw food. Made-to-order juices and smoothies, salads, wraps, sandwiches, pastries, daily soups, organic tea and coffee. Displays artists works which are for sale.",
+  "priceRange": "Moderate",
+  "streetAddress": "853 W Broadway",
+  "phone": "tel:778-379-8335",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-7:00pm, Sun 7:00am-6:00pm, 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.263521,-123.123113&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.263521,-123.123113&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

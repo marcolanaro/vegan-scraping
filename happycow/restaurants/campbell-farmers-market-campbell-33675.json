@@ -1,0 +1,13 @@
+{
+  "title": "Campbell Farmer's Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor market with vendors selling a variety of organic and local fruit and vegetable; food stands selling vegan and raw food; crafts and more.",
+  "streetAddress": "Campbell Ave",
+  "postalCode": "95008",
+  "phone": "tel:510-745-7100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.287053,-121.943582&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.287053,-121.943582&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

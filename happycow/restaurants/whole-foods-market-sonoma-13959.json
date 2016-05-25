@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Has fresh fruits and vegetables including organic produce, deli, vitamins, supplements, personal care products, grocery, and more.",
+  "streetAddress": "201 W Napa St",
+  "postalCode": "95476",
+  "phone": "tel:707-938-8500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.292260,-122.461270&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.292260,-122.461270&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

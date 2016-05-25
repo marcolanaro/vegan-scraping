@@ -1,0 +1,17 @@
+{
+  "title": "Poppycock's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Italian, Mediterranean, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant and bar serving a variety of pastas, salads, and a few vegetarian meals (uses dairy, eggs).",
+  "priceRange": "Expensive",
+  "streetAddress": "128 E Front St",
+  "postalCode": "49684-2509",
+  "phone": "tel:231-941-7632",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Sat 11:00am-11:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.764050,-85.623010&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.764050,-85.623010&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

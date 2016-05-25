@@ -1,0 +1,17 @@
+{
+  "title": "The Monument Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Diner style restaurant with an indoor farmers market attached and a farm out back. Same owner as El Monumento. Food is mostly organic and local with some veggie choices like a veggie burger, vegetable plate, salads. Made from scratch and not canned or processed. Fresh squeezed orange juice.",
+  "priceRange": "Moderate",
+  "streetAddress": "500 S Austin Ave",
+  "postalCode": "78626",
+  "phone": "tel:512-930-9586",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-9:00pm, Thu 7:00am-10:00pm, Sat 7:00am-10:00pm, Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.638755,-97.678491&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.638755,-97.678491&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

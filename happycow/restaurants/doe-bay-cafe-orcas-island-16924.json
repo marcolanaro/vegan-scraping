@@ -1,0 +1,17 @@
+{
+  "title": "Doe Bay Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. \"Farm to table\" restaurant that partners with local farmers to serve only locally grown and organic food. Vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "107 Doe Bay Road Olga",
+  "postalCode": "98279",
+  "phone": "tel:360-376-8059",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.637860,-122.834370&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.637860,-122.834370&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

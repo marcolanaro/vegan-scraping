@@ -1,0 +1,18 @@
+{
+  "title": "Loving Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Chinese, Organic, Raw, Fast food, Take-out, Vietnamese\n                                    ",
+  "description": "Offers Asian meals as well American ones with also a few raw food dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "7605 Cold Water Rd Ste A",
+  "postalCode": "46825",
+  "phone": "tel:260-489-8686",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/lovingcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.149930,-85.136710&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.149930,-85.136710&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

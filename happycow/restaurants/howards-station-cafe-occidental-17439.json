@@ -1,0 +1,18 @@
+{
+  "title": "Howards Station Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A quaint cafe in downtown Occidental featuring an extensive breakfast/lunch menu with a juice bar and bakery.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3611 Main St",
+  "postalCode": "95465",
+  "phone": "tel:707-874-2838",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.406250,-122.947490&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.406250,-122.947490&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

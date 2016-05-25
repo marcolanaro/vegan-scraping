@@ -1,0 +1,19 @@
+{
+  "title": "Tin Man Brewing Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This tavern offers a house-made black bean burger and a portabella mushroom burger -- could ask to combine both patties into one burger. Also a few salads and veggie sides like hummus dip with veggies and pita. Vegans need to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "1430 W Franklin St",
+  "postalCode": "47710",
+  "phone": "tel:812-618-3227",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-12:00am, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tinmanbrewing",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.980028,-87.585323&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.980028,-87.585323&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "BellaCakes",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery and ice cream shop. Offers cakes and confections, soda fountain. Has vegan ice cream and regular vegan treats including carob cupcakes, banana bread, and shortbread cookies. Accepts orders for custom vegan or gluten-free orders.",
+  "streetAddress": "1 High St",
+  "postalCode": "01510",
+  "phone": "tel:978-368-9090",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-7:00pm, Sat 10:00am-7:00pm, Sun 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BellaCakes-169232218935",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.416074,-71.684869&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.416074,-71.684869&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

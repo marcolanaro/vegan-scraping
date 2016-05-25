@@ -1,0 +1,15 @@
+{
+  "title": "Knead Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Reported offers veggie choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "215 5th St E",
+  "postalCode": "59901",
+  "phone": "tel:406-752-8436",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.194357,-114.309296&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.194357,-114.309296&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

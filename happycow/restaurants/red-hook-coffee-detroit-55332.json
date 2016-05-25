@@ -1,0 +1,17 @@
+{
+  "title": "Red Hook Coffee",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Coffee shop in West Village. Serves drip as well pour over coffee drinks. Large selection of pastries, many vegan options. Parking on street and behind apartment building.",
+  "streetAddress": "8025 Agnes St",
+  "postalCode": "48214",
+  "phone": "tel:718-964-3729",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat 8:00am-6:00pm, Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/theredhookdetroit",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.355130,-82.997008&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.355130,-82.997008&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Flavours Indian Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food menu, has veg dishes. Ask about dairy use.",
+  "priceRange": "Moderate",
+  "streetAddress": "27 Wollumbin St",
+  "postalCode": "2484",
+  "phone": "tel:0266726002",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 5:00pm-9:00pm, Wed-Sun 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-28.327661,153.397826&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-28.327661,153.397826&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Choice Juicery",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Take-out\n                                    ",
+  "description": "Juice and food bar offering cold pressed juices plus smoothies, salads, and veggie sushi.",
+  "priceRange": "Moderate",
+  "streetAddress": "437 S Coast Hwy 101 Ste118",
+  "postalCode": "92075",
+  "phone": "tel:858-704-4346",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-6:30pm, Sat-Sun 8:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.986300,-117.270957&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.986300,-117.270957&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

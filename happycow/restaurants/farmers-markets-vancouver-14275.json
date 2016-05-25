@@ -1,0 +1,12 @@
+{
+  "title": "Farmers Markets",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Vancouver Farmers Markets operating in various locations. See website for dates and details.",
+  "streetAddress": "Vancouver areas",
+  "phone": "tel:604-879-3276",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.255844,-123.066037&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.255844,-123.066037&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

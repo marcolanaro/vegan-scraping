@@ -1,0 +1,17 @@
+{
+  "title": "Coffee Corner",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop with a food menu that includes several veggie sandwiches and a few salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "corner of State St and Main St",
+  "postalCode": "05602",
+  "phone": "tel:802-229-9060",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.259890,-72.575360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.259890,-72.575360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

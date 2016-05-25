@@ -1,0 +1,18 @@
+{
+  "title": "Mexican Radio",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Delivery, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Full service NY Mexican restaurant with extensive menu. Choose veggies/tofu/seitan in place of meat. Has vegan cheese and tofu sour cream. Sauces and mole are vegetarian.",
+  "priceRange": "Moderate",
+  "streetAddress": "19 Cleveland Place",
+  "postalCode": "10012",
+  "phone": "tel:212-343-0140",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:30am-10:00pm, Thu-Sat 11:30am-11:00pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.721600,-73.997060&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.721600,-73.997060&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Easy Living Foods",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Take-out, All Raw\n                                    ",
+  "description": "Open Jan 2, 2015. Small cafe juice bar with an rustic, upbeat environment. Offers light food, grab-and-go raw food, juices and smoothies.",
+  "priceRange": "Moderate",
+  "streetAddress": "1559 S Novato Blvd C-2",
+  "postalCode": "94947",
+  "phone": "tel:415-342-2084",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-6:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.099486,-122.571579&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.099486,-122.571579&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

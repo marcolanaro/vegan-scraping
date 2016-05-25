@@ -1,0 +1,18 @@
+{
+  "title": "Chipotle",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fast food chain where you could customize your order (tacos, burritos, bowls) and request no cheese/dairy. Some of its locations offer a soyfrito filling that's made from soy protein. Be sure to ask for plant based protein.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1084 S Gilbert Rd",
+  "postalCode": "85296",
+  "phone": "tel:480-892-8307",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/chipotle",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.329842,-111.790869&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.329842,-111.790869&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

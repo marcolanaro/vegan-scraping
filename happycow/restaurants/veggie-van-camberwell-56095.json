@@ -1,0 +1,18 @@
+{
+  "title": "Veggie Van - Food Trailer",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Fast food, Take-out only\n                                    ",
+  "description": "Food trailer out at Camberwell Sunday Market serving coffee, falafel, veggie burgers, wraps, veggie dogs, wedges and chips. Vegan options for some items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Lot 299-300, Camberwell Sunday Market, Station St",
+  "postalCode": "3124",
+  "phone": "tel:0423639097",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 6:00am-12:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.829867,145.058348&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.829867,145.058348&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

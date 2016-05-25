@@ -1,0 +1,18 @@
+{
+  "title": "Angelo's Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegans can bring your own cheese and the kitchen will put it on your pizza. Arcade games inside. Plenty of seating.",
+  "priceRange": "Moderate",
+  "streetAddress": "46903 N Carolina 12",
+  "postalCode": "27920",
+  "phone": "tel:252-995-6364",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.264763,-75.523757&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.264763,-75.523757&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

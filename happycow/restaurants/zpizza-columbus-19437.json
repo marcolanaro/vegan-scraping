@@ -1,0 +1,17 @@
+{
+  "title": "zpizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise pizzeria offering organic crust and sauce and has Daiya vegan cheese, vegetable toppings. Has gluten-free and whole wheat crusts.",
+  "priceRange": "Moderate",
+  "streetAddress": "945 N High St",
+  "postalCode": "43201",
+  "phone": "tel:614-299-3289",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-12:00am, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.981463,-83.004566&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.981463,-83.004566&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

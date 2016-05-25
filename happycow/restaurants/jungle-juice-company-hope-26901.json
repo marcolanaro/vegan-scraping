@@ -1,0 +1,17 @@
+{
+  "title": "Jungle Juice Company",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Raw, Juice bar, Take-out, Canadian\n                                    ",
+  "description": "Vegan restaurant and juice bar. Offers nutritional smoothies, salads, raw entrees and crackers, beverages, and desserts; also cooked vegan soups and chili. Free Wi-fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "259A Wallace St",
+  "postalCode": "V0X 1L0",
+  "phone": "tel:604-869-3363",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat 9:00am-6:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.379184,-121.442815&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.379184,-121.442815&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

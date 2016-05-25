@@ -1,0 +1,20 @@
+{
+  "title": "Stations Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has many vegan items including organic gourmet soft pretzels, in-house-made soups, specialty salads in a bread bowl, a 3 bean burger, a pocket sandwich and a quesadilla. Cozy quaint environment with Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "563 Main St",
+  "postalCode": "18018",
+  "phone": "tel:610-625-5200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 10:00am-7:00pm, Thu-Sat 10:00am-9:00pm, Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/StationsCafeBethlehemPa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.622051,-75.381969&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.622051,-75.381969&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

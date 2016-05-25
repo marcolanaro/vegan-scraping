@@ -1,0 +1,18 @@
+{
+  "title": "Sagra",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian restaurant on the east side. Has a separate vegan menu - ask for it. Makes its own cashew cheese for vegan dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "1050 E 11th St",
+  "postalCode": "78702",
+  "phone": "tel:512-535-5988",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri 11:00am-10:30pm, Sat 10:30am-10:00pm, Sun 10:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.269372,-97.729094&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.269372,-97.729094&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

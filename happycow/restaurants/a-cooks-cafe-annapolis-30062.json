@@ -1,0 +1,17 @@
+{
+  "title": "A Cook's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available.  The cafe recycles and composts and connects the community with local farms by also offering a CSA program and a cooking school. Menu includes vegetarian sandwiches as well vegan sandwiches (Asian tofu wrap, tempeh, and falafel), plus many different salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "90 Commerce Rd",
+  "postalCode": "21401",
+  "phone": "tel:410-266-1511",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-3:00pm, Sat 8:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.994368,-76.545474&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.994368,-76.545474&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

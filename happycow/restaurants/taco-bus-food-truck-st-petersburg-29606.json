@@ -1,0 +1,17 @@
+{
+  "title": "Taco Bus - Food Truck",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Mexican, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Taco trucks operating at multiple Florida cities. Offers a variety of fillings including tofu, vegan cheese, tempeh, butternut squash and steak strips. Rice, beans, guacamole and salsa are vegan. Vegan items are cooked on the same grill as meat.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2324 Central Ave",
+  "postalCode": "33712",
+  "phone": "tel:727-322-5000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-4:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.770764,-82.665101&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.770764,-82.665101&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

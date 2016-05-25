@@ -1,0 +1,13 @@
+{
+  "title": "Babu's Bakery and Coffeehouse",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Has vegan ice cream.",
+  "streetAddress": "Löwenstr.1",
+  "phone": "tel:0442128745",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-8:00pm, Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/babus.bakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.373070,8.534273&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.373070,8.534273&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

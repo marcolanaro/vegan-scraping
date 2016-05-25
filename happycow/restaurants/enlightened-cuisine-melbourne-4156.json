@@ -1,0 +1,17 @@
+{
+  "title": "Enlightened Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Beer/Wine, Take-out, Asian, Malaysian\n                                    ",
+  "description": "Family-owned vegetarian restaurant with Asian style decor. No onions or garlic used. Parking on Kavanagh Street or Wilson Car Park.",
+  "priceRange": "Moderate",
+  "streetAddress": "113 Queensbridge St, Southbank",
+  "postalCode": "VIC 3006",
+  "phone": "tel:03-96869188",
+  "venueHours": "\n                                                                                                        Mon-Thu 5:30pm-10:00pm, Tue-Thu 11:00am-2:30am, Fri 5:30pm-11:00pm, Fri-Sat 11:00am-2:30pm, Sat 5:30pm-10:30pm, Sun 5:30pm-10:00pm, 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.824843,144.960492&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.824843,144.960492&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

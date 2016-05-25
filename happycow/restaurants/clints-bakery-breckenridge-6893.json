@@ -1,0 +1,15 @@
+{
+  "title": "Clint's Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop and bakery offering beverages, pastries, and sandwiches; soy & rice milk, vegan butter, vegan cream cheese, some vegan pastries available.",
+  "priceRange": "Moderate",
+  "streetAddress": "131 S Main St",
+  "postalCode": "80424",
+  "phone": "tel:970-453-2990",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.480360,-106.045820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.480360,-106.045820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

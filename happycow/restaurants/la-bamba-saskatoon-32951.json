@@ -1,0 +1,17 @@
+{
+  "title": "La Bamba",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. As of June 2012 has two other locations in Winnipeg. Uses no lard in beans. Has vegan options and gluten free options on menu. ",
+  "priceRange": "Moderate",
+  "streetAddress": "1025 Boychuk Dr",
+  "phone": "tel:306-242-2622",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 4:00pm-8:00pm, Fri-Sat 4:00pm-8:30pm, Sun 4:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.116366,-106.575069&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.116366,-106.575069&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Has fresh fruits and vegetables including organic produce, deli food, vitamins, nutritional supplements, personal care products, natural grocery, bakery, and much more.",
+  "streetAddress": "151 Rice Lake Square",
+  "postalCode": "60189",
+  "phone": "tel:630-588-1500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.831036,-88.099428&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.831036,-88.099428&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

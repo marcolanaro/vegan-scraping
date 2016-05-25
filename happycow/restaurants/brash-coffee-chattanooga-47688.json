@@ -1,0 +1,17 @@
+{
+  "title": "Brash Coffee",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Coffee house serving direct traded and hand brewed coffee. Offers pastries including vegan gluten free donuts (call to check). Wi-fi.",
+  "streetAddress": "1110 Market St",
+  "postalCode": "37402",
+  "phone": "tel:423-362-8502",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-4:00pm, Sat-Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BrashCoffee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.042840,-85.308988&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.042840,-85.308988&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Pete's ToGoGo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Build-your-own salads, sandwiches. Has vegan baked goods, and daily soups that are sometimes vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "1801 Hollis St",
+  "phone": "tel:902-431-4646",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/PetesToGoGo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.649301,-63.573368&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.649301,-63.573368&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

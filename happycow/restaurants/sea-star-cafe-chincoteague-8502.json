@@ -1,0 +1,17 @@
+{
+  "title": "Sea Star Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegetarian sandwiches, wraps, hummus, and usually a soup. Vegan items are marked on the menu. Orders are made in the order received, so expect a wait. Previously located on Main St.",
+  "priceRange": "Moderate",
+  "streetAddress": "6429 Maddox Blvd",
+  "postalCode": "23336",
+  "phone": "tel:757-336-5442",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.932472,-75.362718&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.932472,-75.362718&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Decent Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A local pizzeria that has tempeh and Daiya cheese for builiding your own pizza pie. Relaxed atmosphere.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1026 N Monroe St",
+  "postalCode": "32303",
+  "phone": "tel:850-222-6400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/decentpizzaofficialpage",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.453371,-84.281062&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.453371,-84.281062&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

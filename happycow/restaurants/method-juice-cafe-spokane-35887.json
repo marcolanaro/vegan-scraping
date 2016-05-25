@@ -1,0 +1,16 @@
+{
+  "title": "Method Juice Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Take-out\n                                    ",
+  "description": "An organic juice bar that offers fresh juices and smoothies, plus rice bowls and salads. Opened in summer 2012.",
+  "priceRange": "Moderate",
+  "streetAddress": "718 W Riverside Ste 101",
+  "postalCode": "99201",
+  "phone": "tel:509-473-9579",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-4:00pm, Sat 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/MethodJuiceCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.658028,-117.422921&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.658028,-117.422921&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

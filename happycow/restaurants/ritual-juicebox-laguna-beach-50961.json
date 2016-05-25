@@ -1,0 +1,16 @@
+{
+  "title": "Project Juice",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice bar offering organic pressed juices plus smoothies and packaged snacks/foods. Previously named Ritual JuiceBox.",
+  "streetAddress": "1100 S Coast Hwy Ste 110",
+  "postalCode": "92651",
+  "phone": "tel:949-484-0239",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-5:00pm, Sat-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/RitualWellness",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.534092,-117.776711&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.534092,-117.776711&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

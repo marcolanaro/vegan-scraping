@@ -1,0 +1,17 @@
+{
+  "title": "Dosa House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Indian, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Primarily a take-away shop with limited seating. South Indian food cooked and served in a homely fashion. Most of the dishes made with rice and lentils. As of 2015 no longer operates its food stall at Hornsby Organic Markets.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4/100 Pacific Highway",
+  "postalCode": "2077",
+  "phone": "tel:94894797",
+  "venueHours": "\n                                                                                                        Tue-Wed 10:00am-3:00pm, 6:00pm-8:30pm, Fri-Sat 10:00am-3:00pm, 6:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.710240,151.102781&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.710240,151.102781&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "My Vegan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Thai, Delivery, Take-out\n                                    ",
+  "description": "Pasadena vegan restaurant. Causal and quick service. Extensive menu of mostly Thai food in addition to veggie burgers, wraps, pasta, and other American food. Location is in a shopping plaza with parking provided.",
+  "priceRange": "Moderate",
+  "streetAddress": "633 S Arroyo Pkwy Ste 3",
+  "postalCode": "91105",
+  "phone": "tel:626-578-9017",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.134420,-118.147970&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.134420,-118.147970&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

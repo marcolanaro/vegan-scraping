@@ -1,0 +1,18 @@
+{
+  "title": "Bauer's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a vegan menu with around 8 items; it includes tacos, burrito, meatless meatball sub, teriyaki tofu sandwich, pasta, and create-your-own pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "1700 McHenry Ave Ste 66 1/2",
+  "postalCode": "95350",
+  "phone": "tel:209-985-1199",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 5:00pm-10:00pm, Thu 5:00pm-1:00am, Fri-Sat 5:00pm-2:30am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.669407,-120.992072&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.669407,-120.992072&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

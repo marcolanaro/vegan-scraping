@@ -1,0 +1,15 @@
+{
+  "title": "Elevation Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Raw, Juice bar, Take-out\n                                    ",
+  "description": "Cafe attached to yoga studio. Offers fresh juice, smoothies, raw food, raw desserts, gluten free bagel, and other vegetarian and vegan food.",
+  "priceRange": "Moderate",
+  "streetAddress": "74 W Side Rd",
+  "postalCode": "02807",
+  "phone": "tel:401%20466%209642",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.171422,-71.601126&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.171422,-71.601126&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

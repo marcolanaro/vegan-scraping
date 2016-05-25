@@ -1,0 +1,17 @@
+{
+  "title": "Bistro leRoux",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers both vegetarian and gluten free but no vegan choices. The vegetarian ones are TVP and seitan.",
+  "priceRange": "Expensive",
+  "streetAddress": "668 Hwy 149",
+  "postalCode": "12845",
+  "phone": "tel:518-798-2982",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.388758,-73.645561&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.388758,-73.645561&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

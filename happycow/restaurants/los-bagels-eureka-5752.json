@@ -1,0 +1,15 @@
+{
+  "title": "Los Bagels",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe and bakery. Bagels are reportedly vegan suitable - ask. Has smoked tofu, hummus, local organic jams, veggies, guacamole spreads, pastries, fresh juices, soy chai and hot chocolate.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "403 Second St",
+  "postalCode": "95501",
+  "phone": "tel:707-442-8525",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-5:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.804270,-124.167450&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.804270,-124.167450&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

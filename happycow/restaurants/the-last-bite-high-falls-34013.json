@@ -1,0 +1,18 @@
+{
+  "title": "The Last Bite",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has fresh juices and smoothies, a big sandwich menu that meat-based but you could choose to create-your-own. There is a tempeh reuben and a veggie wrap.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "103 Main St",
+  "postalCode": "12440",
+  "phone": "tel:845-687-7779",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat-Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.826873,-74.127963&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.826873,-74.127963&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

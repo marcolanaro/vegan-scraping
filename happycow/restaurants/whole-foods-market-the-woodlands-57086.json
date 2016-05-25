@@ -1,0 +1,16 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural food supermarket chain. Has fresh fruits and vegetables, all the essentials groceries, plus bakery, hot food and salad bars, coffee bar.",
+  "streetAddress": "1925 Hughes Landing Blvd Ste 100",
+  "postalCode": "TX 77380",
+  "phone": "tel:832-246-5600",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/WFMTheWoodlands",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.171862,-95.469151&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.171862,-95.469151&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

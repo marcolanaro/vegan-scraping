@@ -1,0 +1,19 @@
+{
+  "title": "Foodles",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Salad bar, Take-out, Asian, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Large salad bar. Has veggie burger and a couple of veggie sandwiches. Does not label what's vegan but you could ask for vegan. Sometimes has vegetarian soups - ask the owner. Note the Korean dishes are not veg.",
+  "priceRange": "Moderate",
+  "streetAddress": "3140 Kerner Blvd",
+  "postalCode": "94901",
+  "phone": "tel:415-457-5000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.958750,-122.500477&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.958750,-122.500477&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

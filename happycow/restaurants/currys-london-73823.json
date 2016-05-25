@@ -1,0 +1,17 @@
+{
+  "title": "Curry's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food with some vegetarian items and will modify to make vegan upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "118 Wellington Rd S",
+  "postalCode": "N6C 4M8",
+  "phone": "tel:519-645-3226",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.970574,-81.236487&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.970574,-81.236487&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

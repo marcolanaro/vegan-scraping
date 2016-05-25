@@ -1,0 +1,19 @@
+{
+  "title": "Pure Healthy Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Natural food restaurant. Offers veg and gluten-free choices and sells prepared meals in a refrigerated section. Variety of juices and smoothies. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "4223 Research Forest Dr  Ste 350",
+  "postalCode": "77381",
+  "phone": "tel:281-419-3200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:30am-9:00pm, Sun 8:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.182204,-95.485354&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.182204,-95.485354&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

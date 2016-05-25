@@ -1,0 +1,13 @@
+{
+  "title": "The Market Place",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural food store, with a juice bar and prepared foods kitchen.",
+  "streetAddress": "21 Brownstone Way",
+  "postalCode": "07631",
+  "phone": "tel:201-568-1968",
+  "venueHours": "\n                                                                                                        Mon-Sat 6:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.882286,-73.985084&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.882286,-73.985084&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

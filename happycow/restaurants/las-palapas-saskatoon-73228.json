@@ -1,0 +1,18 @@
+{
+  "title": "Las Palapas",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican food place where you could get vegetarian and ask for vegan or gluten-free options.",
+  "priceRange": "Moderate",
+  "streetAddress": "910 Victoria Ave",
+  "postalCode": "S7N0Z6",
+  "phone": "tel:306-244-5556",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.116222,-106.662378&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.116222,-106.662378&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

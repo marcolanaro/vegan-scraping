@@ -1,0 +1,17 @@
+{
+  "title": "Le Panetier",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Bakery, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery and cafe. Has a vegan sandwich, vegan sushi roll, veggie juices, and salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "764 rue St-Jean",
+  "postalCode": "G1R 1P9",
+  "phone": "tel:418-522-3022",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.811073,-71.217758&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.811073,-71.217758&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

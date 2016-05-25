@@ -1,0 +1,19 @@
+{
+  "title": "Apple Annies Bakery Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Take-out, Bakery, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery cafe in a small town in rural Victoria. On the lunch menu is vegan mushroom burger served with chips. Breakfast menu has tofu scramble on toast.",
+  "priceRange": "Moderate",
+  "streetAddress": "31 Templeton St",
+  "postalCode": "3450",
+  "phone": "tel:03-54725311",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 8:00am-4:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/appleanniescastlemaine",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.062830,144.216489&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.062830,144.216489&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "All Star Pizza Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This pizzeria has also a vegan pizza menu with Daiya cheese, or build your own pizza. Note that the pesto is not vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "1238 Cambridge St",
+  "postalCode": "02139",
+  "phone": "tel:617-547-0836",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/AllStarPizzaBar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.373211,-71.098084&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.373211,-71.098084&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

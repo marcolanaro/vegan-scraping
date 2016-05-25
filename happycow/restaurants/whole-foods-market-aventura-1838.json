@@ -1,0 +1,13 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large supermarket chain has Organic Produce, Deli, Juice Bar, Vitamins.",
+  "streetAddress": "21105 Biscayne Blvd",
+  "postalCode": "33180",
+  "phone": "tel:305-933-1543",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.970920,-80.143750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.970920,-80.143750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

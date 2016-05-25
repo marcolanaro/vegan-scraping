@@ -1,0 +1,17 @@
+{
+  "title": "Silver Diner",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a veggie burger.",
+  "priceRange": "Moderate",
+  "streetAddress": "2131 New Jersey 38",
+  "postalCode": "08002",
+  "phone": "tel:856-910-1240",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-12:00am, Fri-Sat 7:00am-1:00am, Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.938750,-75.025041&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.938750,-75.025041&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

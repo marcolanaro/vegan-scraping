@@ -1,0 +1,14 @@
+{
+  "title": "Los Helechos",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo\n                                    ",
+  "description": "Vegetarian restaurant. Serves veggie burgers, pizza, cake leeks, rice and green salad.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Corona de Aragon 21-23",
+  "phone": "tel:976-554971",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 1:00pm-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.642920,-0.895870&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.642920,-0.895870&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

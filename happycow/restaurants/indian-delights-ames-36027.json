@@ -1,0 +1,17 @@
+{
+  "title": "Indian Delights",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food that's primarily meat-based but with several side vegetable dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "127 Dotson Dr",
+  "postalCode": "50024",
+  "phone": "tel:515-292-3419",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-2:00pm, Tue-Sun 5:00pm-9:00pm, Sun 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.022459,-93.671408&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.022459,-93.671408&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Charlie Chow's Dragon Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Buffet, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mongolian grill where you can create your own stir fry with tofu and veggies. Put a green stick in your bowl to have your meal cooked separately in vegetable oil.",
+  "priceRange": "Moderate",
+  "streetAddress": "255 East 400 South",
+  "postalCode": "84111",
+  "phone": "tel:801-328-3663",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.760833,-111.883500&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.760833,-111.883500&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

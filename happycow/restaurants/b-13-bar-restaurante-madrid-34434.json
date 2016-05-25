@@ -1,0 +1,17 @@
+{
+  "title": "B-13 Bar Restaurante",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Western, Fast food, Juice bar, Beer/Wine, Take-out, Bakery, Catering, Spanish\n                                    ",
+  "description": "Vegan bar and restaurant in the city center near Gran Via. Offers meals and snack foods from sandwiches, burgers, and kebabs to pizza, hot dogs, and tapas. Takes orders for custom cakes. Closes during summer for a break so call ahead.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle de la Ballesta 13",
+  "postalCode": "28004",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 1:30pm-4:30pm, Wed-Thu 8:30pm-11:00pm, Fri-Sat 8:30pm-12:00am, Sun 8:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.421924,-3.703419&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.421924,-3.703419&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

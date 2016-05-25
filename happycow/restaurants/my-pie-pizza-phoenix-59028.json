@@ -1,0 +1,20 @@
+{
+  "title": "My Pie Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Build your own pizza concept. Has vegan cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12601 N Tatum Blvd",
+  "postalCode": "85032",
+  "phone": "tel:602-992-2575",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-9:30pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PizzaUrWay",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.600160,-111.978699&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.600160,-111.978699&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

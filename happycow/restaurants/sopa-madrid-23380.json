@@ -1,0 +1,17 @@
+{
+  "title": "Sopa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Macrobiotic, Western, Juice bar, Beer/Wine, Delivery, Take-out\n                                    ",
+  "description": "Wi-fi. Smoke-free. Soup cafe, organic grocery, fashion and jewellery in the same space. Housemade food with the best organic ingredients available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle de Nieremberg, 23",
+  "postalCode": "28002",
+  "phone": "tel:914-131-719",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-9:00pm, Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.448017,-3.672272&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.448017,-3.672272&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

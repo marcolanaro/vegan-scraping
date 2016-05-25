@@ -1,0 +1,19 @@
+{
+  "title": "Zombie Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Western, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An alternative burger restaurant frequented by a young crowd. Offers typical hamburgers but also three vegan meals on the menu. For lunch there's a daily vegan menu comprising two starters and two main courses. No lunch Mondays. Kitchen is open 12:30-16:00, 20:00-00:00.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle del Pez 7",
+  "postalCode": "28004",
+  "phone": "tel:915219678",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 2:00pm-4:00am, Tue-Sun 11:30am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ZombieBarMadrid",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.423226,-3.704748&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.423226,-3.704748&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

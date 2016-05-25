@@ -1,0 +1,16 @@
+{
+  "title": "Cafe Gala",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Typical museum cafe with vegan choices or dishes that can be made vegan. Menu changes frequently.",
+  "priceRange": "Moderate",
+  "streetAddress": "1 Dali Blvd",
+  "postalCode": "33701",
+  "phone": "tel:727-823-3767",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 10:00am-5:30pm, Thu 10:00am-8:00pm, Fri-Sat 10:00am-5:30pm, Sun 12:00pm-5:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/CafeGala5",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.766172,-82.631135&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.766172,-82.631135&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

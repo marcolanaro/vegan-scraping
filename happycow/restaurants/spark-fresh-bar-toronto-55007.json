@@ -1,0 +1,17 @@
+{
+  "title": "Spark Fresh Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Western, Juice bar, Take-out, Fusion\n                                    ",
+  "description": "Established Sept 2014 as Fueled and re-named to Spark in 2015. A casual eatery offering a concise menu of rice boxes, tacos, sandwiches, and salads; with vegan labeled. Beverage bar offers coffee, fresh juice, smoothies.",
+  "priceRange": "Moderate",
+  "streetAddress": "739 Ossington Ave",
+  "phone": "tel:647-849-0078",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat-Sun 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sparkfreshbar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.662313,-79.425758&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.662313,-79.425758&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

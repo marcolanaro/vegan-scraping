@@ -1,0 +1,18 @@
+{
+  "title": "Fudenjuce",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Fast food, Take-out\n                                    ",
+  "description": "Fudenjüce serves fresh juices, smoothies, wraps, salads, rice bowls, vegan soups, tea, organic coffee. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "815 Zion St",
+  "postalCode": "95959",
+  "phone": "tel:530-265-5282",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 10:00am-7:00pm, Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.250050,-121.027590&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.250050,-121.027590&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

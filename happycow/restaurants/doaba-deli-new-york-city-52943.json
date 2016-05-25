@@ -1,0 +1,17 @@
+{
+  "title": "Doaba Deli",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "Punjabi deli originally catering to taxi drivers and is now frequented by college students and other locals. Offers a 4-item platter served with rice or naan with tea. Choose from each day's steamtable of curries/dishes. Bakes several types of Indian bread.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "945 Columbus Ave",
+  "postalCode": "10025",
+  "phone": "tel:212-222-2636",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.799405,-73.962364&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.799405,-73.962364&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

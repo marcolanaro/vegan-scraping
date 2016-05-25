@@ -1,0 +1,19 @@
+{
+  "title": "Choices Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Take-out, Latin\n                                    ",
+  "description": "Another branch of the Miami Choices Cafe. Offers an organic vegan menu with gluten-free options, agave-based soda fountain, and oven baked sweet potato fries. Since Jan 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "2626 Ponce De Leon Blvd",
+  "postalCode": "33133",
+  "phone": "tel:786-600-1975",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-9:00pm, Sat 9:00am-9:00pm, Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/mychoicescafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.747266,-80.258844&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.747266,-80.258844&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

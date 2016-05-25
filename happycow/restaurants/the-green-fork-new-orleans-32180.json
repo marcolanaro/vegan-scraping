@@ -1,0 +1,18 @@
+{
+  "title": "The Green Fork",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Smoothies and juice bar also offering sandwiches, salads, and packages snacks.",
+  "priceRange": "Moderate",
+  "streetAddress": "1400 Prytania St",
+  "postalCode": "70130",
+  "phone": "tel:504-267-7672",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-6:00pm, Fri 7:00am-4:00pm, Sat 7:00am-12:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheGreenFork",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.939019,-90.073586&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.939019,-90.073586&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

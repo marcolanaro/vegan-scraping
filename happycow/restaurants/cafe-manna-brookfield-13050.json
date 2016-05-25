@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Manna",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Beer/Wine, Take-out\n                                    ",
+  "description": "Vegetarian restaurant offering a varied menu including gluten-free options. Sandwiches, full meals, vegan chocolate cake, and more. Café was built from eco-friendly building materials and offers eco-friendly carry-out containers. Uses organic, local, and sustainable farm produce. Uses a reverse osmosis water purification system.",
+  "priceRange": "Moderate",
+  "streetAddress": "3815 N Brookfield Rd",
+  "postalCode": "53045",
+  "phone": "tel:262-790-2340",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.087140,-88.146000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.087140,-88.146000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Tammy's Corner House Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A laid back local cafe on a main street running through Hermosa Beach. Offers weekend brunch. Large menu includes smoothies, scrambles, burritos (can substitute meat sausage with veggie sausage and omit cheese), pancakes (there's a flour-less flax meal), french toast, bagel sandwiches, both sweet and savory crepes, oatmeal topped with fresh fruit, soy and almond milk.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "190 Hermosa Ave",
+  "postalCode": "90254",
+  "phone": "tel:310-372-4712",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:00am-4:00pm, Tue-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.854853,-118.397745&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.854853,-118.397745&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

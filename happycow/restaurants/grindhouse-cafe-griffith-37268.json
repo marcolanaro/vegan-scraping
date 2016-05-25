@@ -1,0 +1,20 @@
+{
+  "title": "Grindhouse Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A coffee shop that offers a vegan sandwich (avocado and tofu) and at least 1 or 2 vegan baked goods (not labeled, so ask).",
+  "priceRange": "Moderate",
+  "streetAddress": "146 N Broad St",
+  "postalCode": "46319",
+  "phone": "tel:219-595-5678",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-9:00pm, Sat 9:00am-7:00pm, Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/GrindhouseCoffee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.524305,-87.427699&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.524305,-87.427699&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

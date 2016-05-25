@@ -1,0 +1,17 @@
+{
+  "title": "Blue Moose Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A cyber cafe that offers coffee drinks, teas, smoothies, and shakes with soymilk possible. Also offers mostly vegetarian light breakfast and lunch, pastries, and bagels. Hosts live music, literary readings, art exhibits. Open daily until late.",
+  "priceRange": "Moderate",
+  "streetAddress": "248 Walnut St",
+  "postalCode": "26505",
+  "phone": "tel:304-292-8999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.629330,-79.954800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.629330,-79.954800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Blackbird Pizzeria",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Pizza, Fast food, Delivery, Take-out\n                                    ",
+  "description": "Philly's all vegan pizzeria. Offers a variety of vegan pizza whole or by the slice, plus sandwiches like Philly cheesesteak, mushroom wrap, salads, and vegan dessert.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "507 S 6th St",
+  "postalCode": "19147",
+  "phone": "tel:215-625-6660",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/blackbirdpizzeria",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.942697,-75.152062&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.942697,-75.152062&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Busy Bee",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An eclectic eatery located in the Central Market House. Whenever possible sources organic. Set menu and daily specials. Vegan and vegetarian menus are listed on website.",
+  "priceRange": "Moderate",
+  "streetAddress": "34 W Philadelphia St",
+  "postalCode": "17401",
+  "phone": "tel:717-825-0866",
+  "venueHours": "\n                                                                                                        Tue 6:00am-2:00pm, Thu 6:00am-2:00pm, Sat 6:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/thebusybee1723",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.963388,-76.729547&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.963388,-76.729547&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

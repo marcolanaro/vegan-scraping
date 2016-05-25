@@ -1,0 +1,18 @@
+{
+  "title": "Patten's on Bridge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Western, Beer/Wine, Australian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A family-run restaurant in a small country town. Has Wi-Fi. Offers soy milk and almond milk as well as vegan cider. Owners knows about veganism and will accommodate most requests.",
+  "priceRange": "Moderate",
+  "streetAddress": "33 Bridge St",
+  "postalCode": "3950",
+  "phone": "tel:56552220",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 9:00am-4:00pm, Fri-Sat 9:00am-9:00pm, Sun 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-38.433639,145.824604&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-38.433639,145.824604&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

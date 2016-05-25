@@ -1,0 +1,19 @@
+{
+  "title": "Gama Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Chinese, Italian, Western, Take-out, Taiwanese\n                                    ",
+  "description": "A vegetarian food and dessert restaurant, at this space since Jan 2015. On the menu are dishes like risotto and pasta, waffles and toast, Taiwanese desserts, and selection of beverages. Uses dairy, so vegans should specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "10813 82Ave",
+  "postalCode": "T6E2B2",
+  "phone": "tel:780-885-5796",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 12:00pm-11:00pm, Fri-Sat 12:00pm-12:00am, Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Gama-Café/201337426544945",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.517780,-113.510026&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.517780,-113.510026&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

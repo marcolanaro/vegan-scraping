@@ -1,0 +1,19 @@
+{
+  "title": "Healthy Planet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Organic, Western, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Serves whole food, with salads, sandwiches, muffins, quiche and fresh fruit bowls.",
+  "priceRange": "Moderate",
+  "streetAddress": "252 St Georges Rd",
+  "postalCode": "3068",
+  "phone": "tel:03-94818406",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-4:00pm, Sat-Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/HealthyPlanetCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.783076,144.984039&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.783076,144.984039&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

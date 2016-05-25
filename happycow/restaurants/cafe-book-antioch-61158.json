@@ -1,0 +1,16 @@
+{
+  "title": "Cafe Book",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small coffee shop café. Has soy milk and a \"vegan vegetable\" option that you can have made into a sandwich, panini, or wrap.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "395 Lake St",
+  "postalCode": "60002",
+  "phone": "tel:847-395-2223",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-5:00pm, Sat 8:00am-5:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/cafebook.antioch",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.477480,-88.096877&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.477480,-88.096877&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Spring Rolls",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Beer/Wine, Delivery, Take-out, Pan Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain of Pan Asian cuisine restaurant with locations in greater Toronto. Has a separate veggies menu with over 10 items including appetizers, salads, and mains.",
+  "priceRange": "Moderate",
+  "streetAddress": "40 Dundas St W",
+  "postalCode": "M5G",
+  "phone": "tel:416-585-2929",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.656339,-79.382401&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.656339,-79.382401&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

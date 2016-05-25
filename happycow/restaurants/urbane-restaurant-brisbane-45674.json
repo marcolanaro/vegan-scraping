@@ -1,0 +1,19 @@
+{
+  "title": "Urbane Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Very expensive, upscale, elegant fine dining restaurant. Offers a 5 and 8 course herbivore menu, which is vegan, and is prepared by a vegan chef.",
+  "priceRange": "Expensive",
+  "streetAddress": "181 Mary St",
+  "postalCode": "4000",
+  "phone": "tel:07-32292271",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/UrbaneRestaurantBrisbane",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.470468,153.029478&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.470468,153.029478&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Mary's Gourmet Diner",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Reported has tofu, tempeh, vegetarian sausage, a veggie burger (patty may be vegan). Whole leaf teas served. Formerly Breakfast of Course and prior to that Mary's Of Course Cafe.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "723 Trade St",
+  "postalCode": "27101",
+  "phone": "tel:336-723-7239",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-3:00pm, Sun 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.103054,-80.246444&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.103054,-80.246444&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

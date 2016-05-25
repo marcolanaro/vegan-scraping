@@ -1,0 +1,15 @@
+{
+  "title": "Blaze Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Assembly line style franchise pizzeria. Could build your own pizza with various veggies, then choose marinara or hot red sauce or white sauce. Has vegan cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5353 Almaden Expressway",
+  "postalCode": "95118",
+  "phone": "tel:408-440-2307",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.251768,-121.877804&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.251768,-121.877804&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Rafy's Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Pizza, Italian, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A family owned and operated New York style pizzeria serving whole pies and slices with clearly marked vegan items. Daiya cheese is available. House salad and pizza dough are vegan. Also has a gluten free dough. Located next to Whole Foods.",
+  "priceRange": "Moderate",
+  "streetAddress": "615 E Washington St",
+  "postalCode": "94952",
+  "phone": "tel:707-559-5735",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 3:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/rafyspizzeria",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.241054,-122.634453&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.241054,-122.634453&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Eastside Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little local sandwich shop with a few locations. Offers a separate vegan menu from its meat & dairy sandwich fare. Has vegan salads, coleslaw, Fieldroast sausage, soy curls, and other sandwich choices. Has vegan bread and condiments; non-vegan bread is clearly marked.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4823 N Lombard",
+  "postalCode": "97203",
+  "phone": "tel:503-247-3354",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-10:00pm, Thu-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/eastside.delicatessen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.580803,-122.718702&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.580803,-122.718702&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

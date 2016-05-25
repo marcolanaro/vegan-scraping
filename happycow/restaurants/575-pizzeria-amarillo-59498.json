@@ -1,0 +1,18 @@
+{
+  "title": "575 Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizza pies can be made vegan or gluten free when requests; has vegan cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "2803 Civic Circle ",
+  "postalCode": "79109",
+  "phone": "tel:806-322-5575",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/575pizzeria",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.191050,-101.868954&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.191050,-101.868954&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

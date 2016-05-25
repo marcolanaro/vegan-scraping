@@ -1,0 +1,18 @@
+{
+  "title": "Call of The Canyon",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves salads and a variety of sandwiches, some of which are vegan or can be made vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "109 N Main St",
+  "postalCode": "43402",
+  "phone": "tel:419-353-2255",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:30pm, Fri 11:00am-9:00pm, Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.375100,-83.650779&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.375100,-83.650779&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

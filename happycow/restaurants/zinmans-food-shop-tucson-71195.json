@@ -1,0 +1,20 @@
+{
+  "title": "Zinman's Food Shop",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Take-out, Asian, Bakery, Catering, European\n                                    ",
+  "description": "Plant-based food shop and bakery, opened Feb 2016. Its menu changes constantly and features various ethnic foods. Breakfast is offered on Saturday mornings. Uses freshly milled grains and fresh seasonal produce. Has fresh vegetables and other produce for sale. Counter service.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "111 W Fourth St",
+  "postalCode": "85705",
+  "phone": "tel:520-777-6882",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-7:00pm, Sat-Sun 7:00am-12:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Zinmans-Food-Shop-960641563964872",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.230094,-110.973636&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.230094,-110.973636&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

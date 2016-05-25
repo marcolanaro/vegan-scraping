@@ -1,0 +1,16 @@
+{
+  "title": "Buzz Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop and cafe in Arts District. Its food menu has a section labeled \"vegetarian and vegan.\" Kitchen stops 1 hour before closing; pastries and coffee til close.",
+  "priceRange": "Moderate",
+  "streetAddress": "905 S Lombard Ave",
+  "postalCode": "60304",
+  "phone": "tel:708-524-2899",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:00am-9:00pm, Sat 7:00am-9:00pm, Sun 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/thebuzzcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.872406,-87.779662&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.872406,-87.779662&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

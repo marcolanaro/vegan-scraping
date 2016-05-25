@@ -1,0 +1,20 @@
+{
+  "title": "Art Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Take-out, Middle Eastern\n                                    ",
+  "description": "Coffee house and vegetarian cafe offering lacto-ovo veggie food and a few vegan options such as Israeli couscous and hummus sandwiches. Has Wi-Fi and rotating artwork displays.",
+  "priceRange": "Moderate",
+  "streetAddress": "65 S Broadway Ave",
+  "postalCode": "10960",
+  "phone": "tel:845-353-4230",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ArtCafeNyack",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.088591,-73.918662&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.088591,-73.918662&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

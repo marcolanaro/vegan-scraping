@@ -1,0 +1,20 @@
+{
+  "title": "Cafe Campesino",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Take-out\n                                    ",
+  "description": "Fair trade coffee company with a little retail shop off the main drag. Began serving food in 2015 and has vegan choices like hummus and oatmeal. Try the Cuban almond latte.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "725 Millard Fuller Blvd",
+  "postalCode": "31709",
+  "phone": "tel:229-924-2468",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-5:30pm, Sat 8:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeCampesino",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.072386,-84.232688&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.072386,-84.232688&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

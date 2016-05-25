@@ -1,0 +1,19 @@
+{
+  "title": "Market Fresh Grille",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Buffet, Salad bar, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Plenty of vegan items in the salad bar, including dressings and veggies. More vegan choices can be found on the menu and others can be made vegan. Located inside Hy-Vee supermarket.",
+  "priceRange": "Moderate",
+  "streetAddress": "8701 Douglas Dr",
+  "postalCode": "50322",
+  "phone": "tel:515-251-5286",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.629340,-93.737959&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.629340,-93.737959&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

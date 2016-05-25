@@ -1,0 +1,17 @@
+{
+  "title": "Ladonia Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Take-out, Mexican\n                                    ",
+  "description": "Food cart serving all vegan comfort food, made from scratch. Specializing in tamales, BLTs, chocolate chip waffles and ginger limeade. Check website for exact locations.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Library Mall",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 11:00am-2:00pm, Sat 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/LadoniaCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.075525,-89.398988&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.075525,-89.398988&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

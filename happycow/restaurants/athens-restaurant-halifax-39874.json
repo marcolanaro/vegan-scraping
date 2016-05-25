@@ -1,0 +1,18 @@
+{
+  "title": "Athens Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Mediterranean, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Greek food menu with some marked vegetarian and vegan choices like falafel, wraps, pasta, and pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "6273 Quinpool Road",
+  "postalCode": "B3L 1A4",
+  "phone": "tel:902-422-1595",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/athensrestauranthalifax",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.645289,-63.598092&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.645289,-63.598092&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

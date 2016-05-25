@@ -1,0 +1,19 @@
+{
+  "title": "Mellow Mushroom",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of hippie themed pizzeria chain with choices for vegans and vegetarians, including tofu, tempeh, and fresh veggie toppings for pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "5425 Bowman Rd",
+  "postalCode": "31210",
+  "phone": "tel:478-254-6789",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-9:00pm, Tue 11:00am-10:00pm, Wed 11:00am-9:00pm, Thu-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/MellowMushroomMacon",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.924928,-83.730826&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.924928,-83.730826&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

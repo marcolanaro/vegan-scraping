@@ -1,0 +1,16 @@
+{
+  "title": "Tarragons Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Salad bar, Juice bar, Beer/Wine, Take-out, Mozambican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan choices include a variety of creative raw salads. Serves breakfast, lunch and dinner.",
+  "priceRange": "Moderate",
+  "streetAddress": "Town Centre, Next to Magenta Moon",
+  "phone": "tel:+258-84-206-1154",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.851977,32.844132&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.851977,32.844132&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

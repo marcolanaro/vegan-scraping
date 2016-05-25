@@ -1,0 +1,20 @@
+{
+  "title": "Jujubeet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Juice bar, Take-out\n                                    ",
+  "description": "Juice bar offering also acai bowls, a daily soup, and prepared salads for grab n go. Vegan except for honey.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "10602 NE 9th PL",
+  "postalCode": "98004",
+  "phone": "tel:425-455-0696",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat 8:00am-6:00pm, Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/jujubeet",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.618647,-122.198608&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.618647,-122.198608&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

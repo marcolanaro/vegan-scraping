@@ -1,0 +1,19 @@
+{
+  "title": "Uncle Jack's Good 2 Go",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves falafel, hummus, and salads made in-house. The only meat is tuna which is kept separately. Menu is dairy free and gluten free except for bread.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1580 Route 35 South",
+  "postalCode": "07712",
+  "phone": "tel:732-695-3871",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-9:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.251317,-74.039316&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.251317,-74.039316&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

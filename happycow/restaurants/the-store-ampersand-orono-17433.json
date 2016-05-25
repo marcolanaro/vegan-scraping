@@ -1,0 +1,15 @@
+{
+  "title": "The Store Ampersand",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural foods store offering organic coffee, wine, as well as baked goods and vegetarian sandwiches.",
+  "streetAddress": "22 Mill St",
+  "postalCode": "04473",
+  "phone": "tel:207-866-4110",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat 8:00am-5:00pm, Sun 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.883380,-68.671640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.883380,-68.671640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

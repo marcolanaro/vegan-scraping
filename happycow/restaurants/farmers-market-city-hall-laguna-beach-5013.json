@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market - City Hall",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Seasonal outdoor market.",
+  "streetAddress": "Lumberyard parking lot at City Hall",
+  "postalCode": "92651",
+  "phone": "tel:714-573-0374",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 8:00am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.545850,-117.781900&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.545850,-117.781900&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

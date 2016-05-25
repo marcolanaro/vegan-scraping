@@ -1,0 +1,13 @@
+{
+  "title": "Sweet Avenue Bake Shop",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Small Rutherford vegan bakery specializing in cupcakes. Carries vegan chocolate bars, cinnamon buns and cake balls in addition to cupcakes.",
+  "streetAddress": "153 Park Ave",
+  "postalCode": "07070",
+  "phone": "tel:201-935-2253",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 10:00am-6:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.825390,-74.109160&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.825390,-74.109160&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

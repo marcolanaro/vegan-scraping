@@ -1,0 +1,19 @@
+{
+  "title": "Zoe's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Mediterranean, Take-out, Catering, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain restaurant offering Mediterranean-influenced food. Has marked vegetarian and vegan choices, including veggie kabobs, hummus and pita, salad, braised white bean, potato salad, roasted vegetable, and fresh fruit. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "14901 Neighborhood Way Ste 100",
+  "postalCode": "22191",
+  "phone": "tel:703-580-4408",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ZoesKitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.630165,-77.288010&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.630165,-77.288010&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

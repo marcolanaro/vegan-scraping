@@ -1,0 +1,16 @@
+{
+  "title": "Tori's Bakeshop",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Take-out, Bakery, Canadian\n                                    ",
+  "description": "Organic vegan bakery offering baked treats with gluten-free available. Espresso drinks are made with soymilk. Savory items include daily soup and savory pizza pockets.",
+  "priceRange": "Moderate",
+  "streetAddress": "2188 Queen St E",
+  "postalCode": "M4E 1E6",
+  "phone": "tel:647-350-6500",
+  "venueHours": "\n                                                                                                        Tue-Fri 7:00am-5:00pm, Sat 8:00am-5:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TorisBakeshop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.672153,-79.290352&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.672153,-79.290352&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

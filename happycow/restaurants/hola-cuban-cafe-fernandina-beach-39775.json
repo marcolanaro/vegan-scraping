@@ -1,0 +1,20 @@
+{
+  "title": "Hola Cuban Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Take-out, Cuban, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Some vegetarian options on the main menu and the side menu as well. Offers a few veg options. ",
+  "priceRange": "Moderate",
+  "streetAddress": "117 Centre St",
+  "postalCode": "32034",
+  "phone": "tel:904-321-0163",
+  "venueHours": "\n                                                                                                        Mon-Tue 12:30am-4:00pm, Wed-Thu 10:30am-9:00pm, Fri-Sat 10:30am-1:00am, Sun 12:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/HolaCubanCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.671591,-81.464006&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.671591,-81.464006&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

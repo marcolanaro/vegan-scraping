@@ -1,0 +1,18 @@
+{
+  "title": "Pete's Wok",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Fast food, Delivery, Take-out, Asian, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Asian fast food style restaurant across from St. Joseph Hospital. Menu is meat-based but kitchen will make a dish vegan when requested.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "537 Waller Ave Ste A",
+  "postalCode": "40503",
+  "phone": "tel:859-255-7383",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-10:00pm, Fri-Sat 11:00am-2:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PetesWok",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.033393,-84.522894&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.033393,-84.522894&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Tasty Harmony",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Juice bar, Mexican\n                                    ",
+  "description": "Vegetarian and vegan food in a relaxed, hippie-vibe atmosphere. Everything is reported to be vegan except for bread (please check). On the menu are dishes like tempeh reuben, jackfruit bbq sandwich, Caesar salad, fried chik'n, gravy.",
+  "priceRange": "Moderate",
+  "streetAddress": "130 S Mason St",
+  "postalCode": "80524",
+  "phone": "tel:970-689-3234",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.586550,-105.078890&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.586550,-105.078890&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

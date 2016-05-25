@@ -1,0 +1,17 @@
+{
+  "title": "Happy Dog",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. 2nd bar restaurant to the one in Gordon Square District. Has a veggie sausage which is Fieldroast brand Italian sausage and is served on an Orlando bun with as many toppings as you can fit, including a vegan chili.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11625 Euclid Ave",
+  "postalCode": "44106",
+  "phone": "tel:216-231-5400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 4:00pm-2:30am, Fri-Sun 11:00am-2:30am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.511203,-81.602501&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.511203,-81.602501&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

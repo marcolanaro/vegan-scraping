@@ -1,0 +1,17 @@
+{
+  "title": "The Greenside Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Western, Juice bar\n                                    ",
+  "description": "Vegan cuisine featuring nut bakes, pasta ribbons, fresh juices, and more. All vegan since 2012. Next door is their store selling vegan products.",
+  "priceRange": "Expensive",
+  "streetAddress": "34 Gleneagles Road, Greenside",
+  "postalCode": "2193",
+  "phone": "tel:011-6463444",
+  "venueHours": "\n                                                                                                        Tue-Thu 8:00am-5:00pm, Fri-Sat 8:00am-9:30pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.146490,28.012020&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.146490,28.012020&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Native Foods Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Fast food, Beer/Wine, Take-out, Fusion\n                                    ",
+  "description": "Chain of vegan restaurant originating from Southern California; this one opened fall 2013. Offers a menu of salads, veggie burgers, rice and noodle bowls, vegan desserts, chai with soymilk, organic coffee, and more. Order at the counter, and food is brought to your table.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "680 S Colorado Blvd",
+  "postalCode": "80246",
+  "phone": "tel:303-758-3440",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/NativeFoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.704359,-104.940595&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.704359,-104.940595&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

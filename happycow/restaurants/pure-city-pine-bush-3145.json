@@ -1,0 +1,17 @@
+{
+  "title": "Pure City",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Asian\n                                    ",
+  "description": "Vegetarian Chinese food. Offers lunch specials and an extensive menu. Brown rice available. No alcohol.",
+  "priceRange": "Moderate",
+  "streetAddress": "100 Main St",
+  "postalCode": "12566",
+  "phone": "tel:845-744-8888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.609560,-74.300780&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.609560,-74.300780&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

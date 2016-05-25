@@ -1,0 +1,20 @@
+{
+  "title": "Linnaea's Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Fast food, Take-out, Bakery\n                                    ",
+  "description": "Coffee shop offering primarily drinks and baked desserts and is frequented by students. Has food during the daytime but runs out by afternoon. Always several vegan baked goods (cookie, scone, muffin) which are baked in its office facility. Soymilk and rice milk available for coffee drinks at extra charge. Coffee is organic. Free Wi-Fi. Live music and events some nights. Artworks diplayed on walls. The garden patio in the back features a water fountain and ample seating.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1110 Garden St",
+  "postalCode": "93401",
+  "phone": "tel:805-541-5888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:30am-11:00pm, Sun 6:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/linnaeas.cafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.279330,-120.663350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.279330,-120.663350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

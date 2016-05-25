@@ -1,0 +1,17 @@
+{
+  "title": "New India Cuisine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Owner is from Goa, India, and uses her family recipes. Has veg choices on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "2304 S Congress",
+  "postalCode": "78704",
+  "phone": "tel:512-445-9727",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.239908,-97.753156&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.239908,-97.753156&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

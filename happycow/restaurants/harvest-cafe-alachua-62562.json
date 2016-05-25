@@ -1,0 +1,15 @@
+{
+  "title": "Harvest Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Take-out, Bakery\n                                    ",
+  "description": "Vegetarian cafe opened Jun 2015 within Harvest market. Offers casual fare like salads, sandwiches, lasagna, and pizza, samosas plus muffins and cupcakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "14521 Main St",
+  "postalCode": "32615",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.788363,-82.495450&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.788363,-82.495450&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

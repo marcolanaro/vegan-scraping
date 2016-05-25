@@ -1,0 +1,15 @@
+{
+  "title": "Chowpatti",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, International, Delivery, Catering\n                                    ",
+  "description": "Veggie restaurant with a large menu featuring vegetarian Indian, American, Mexican, Middle Eastern, and Italian food.",
+  "priceRange": "Moderate",
+  "streetAddress": "1035 S Arlington Heights Rd",
+  "postalCode": "60005",
+  "phone": "tel:847-640-9554",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:30am-3:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.065760,-87.979670&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.065760,-87.979670&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

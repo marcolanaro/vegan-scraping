@@ -1,0 +1,17 @@
+{
+  "title": "Juice NOLA",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Organic, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Juice and smoothie bar also offering salads and a few small plates, acai bowls, and treats.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2381 St. Claud Ave",
+  "postalCode": "70117",
+  "phone": "tel:802-503-5336",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-9:00pm, Fri-Sat 7:00am-11:00pm, Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.969436,-90.052175&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.969436,-90.052175&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

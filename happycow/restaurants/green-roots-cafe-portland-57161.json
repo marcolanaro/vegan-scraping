@@ -1,0 +1,19 @@
+{
+  "title": "Green Roots Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American\n                                    ",
+  "description": "Student-run, vegetarian cafe opened Jan 2015 on the Portland State University campus, in the Smith Memorial Union basement. Menu changes seasonally and features casual fare like pancakes and smoothie, stirfrys and sandwiches. Large space with 20+ tables and a few couches. Has internet access and computer for general use.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1825 SW Broadway, Room 26",
+  "postalCode": "97201",
+  "phone": "tel:503-725-2970",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/greenrootscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.511833,-122.684232&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.511833,-122.684232&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

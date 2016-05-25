@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Yumm - Gateway",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain restaurant with locations in Oregon. Offers sandwiches, salads, wraps, and breakfast items including a vegan huevos rancheros. Their signature dish is the Yumm Bowl with choice of organic brown rice or jasmine rice, and black or red beans, topped with sauce, mild red salsa, black olives, tomatoes, sliced avocado, cilantro, and dairy. Ask them to make your bowl vegan, and they'll substitute cheese and sour cream for extra avocado or cabbage and carrots..",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3340 Gateway St",
+  "postalCode": "97477",
+  "phone": "tel:541-747-9866",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-9:00pm, Sat-Sun 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.081716,-123.043388&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.081716,-123.043388&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

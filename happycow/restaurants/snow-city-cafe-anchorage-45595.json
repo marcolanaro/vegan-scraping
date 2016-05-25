@@ -1,0 +1,18 @@
+{
+  "title": "Snow City Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast and lunch cafe offering a few vegetarian choices and has gluten-free.",
+  "priceRange": "Moderate",
+  "streetAddress": "1034 W 4th Ave",
+  "postalCode": "99501",
+  "phone": "tel:907-272-2489",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-3:00pm, Sat-Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/snowcitycafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=61.218549,-149.902946&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C61.218549,-149.902946&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

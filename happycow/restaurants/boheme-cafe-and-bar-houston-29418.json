@@ -1,0 +1,18 @@
+{
+  "title": "Boheme Cafe and Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Indian, International, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan options include pizzas, hummus plates and salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "307 Fairview St",
+  "postalCode": "77006",
+  "phone": "tel:713-529-1099",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.747997,-95.386029&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.747997,-95.386029&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "East Side Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local soup and sandwich shop with a few outlets. This on is very small. Uses Field Roast brand products for the vegetarian and vegan sandwiches. Has a vegan hot dog.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1438 SW Park Ave",
+  "postalCode": "97201",
+  "phone": "tel:503-243-3354",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri 11:00am-7:00pm, Sat 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.514356,-122.683193&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.514356,-122.683193&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

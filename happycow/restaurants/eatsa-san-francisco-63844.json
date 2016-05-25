@@ -1,0 +1,19 @@
+{
+  "title": "Eatsa",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Fast food, Take-out, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lunch & take away spot for custom quinoa combo bowls, automated ordering. No cash.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "121 Spears St",
+  "postalCode": "94105",
+  "phone": "tel:628-333-9571",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/EatsaRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.791899,-122.392833&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.791899,-122.392833&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The Grateful Bread",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery and bagel shop. Lunch menu includes soups, salads, sandwiches, smoothies, coffee. Free Wi-Fi access.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "7001 35th Ave NE",
+  "postalCode": "98115",
+  "phone": "tel:206-525-3166",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat 7:30am-6:00pm, Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.680030,-122.290410&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.680030,-122.290410&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

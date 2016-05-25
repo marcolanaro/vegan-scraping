@@ -1,0 +1,18 @@
+{
+  "title": "Taste of India",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional style India restaurant. Offers a buffet which includes a variety of vegetarian entrees (ask about vegan).",
+  "priceRange": "Moderate",
+  "streetAddress": "20 E Silver St",
+  "postalCode": "45036",
+  "phone": "tel:513-409-5119",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.435616,-84.207103&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.435616,-84.207103&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

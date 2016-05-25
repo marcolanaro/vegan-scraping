@@ -1,0 +1,18 @@
+{
+  "title": "Tutti Frutti",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Non-veg\n                                    ",
+  "description": "Self serve frozen yoghurt shop with 2 or so labeled vegan flavors that rotate.",
+  "streetAddress": "862-864 Albany Hwy, East Victoria Park",
+  "postalCode": "6101",
+  "phone": "tel:8-93673999",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-31.985124,115.904028&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-31.985124,115.904028&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Pitaria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Mediterranean, Fast food, Take-out, Middle Eastern, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small Greek and Mediterranean eatery in the college area. Order at counter. Has veggies, falafel, hummus, tabouleh, and fava bean pita.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "631 W Tennessee St",
+  "postalCode": "32304",
+  "phone": "tel:850-412-7482",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.444469,-84.292016&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.444469,-84.292016&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

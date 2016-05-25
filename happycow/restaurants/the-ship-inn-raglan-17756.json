@@ -1,0 +1,18 @@
+{
+  "title": "The Ship Inn",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, International, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Old fashioned pub with beams. Has a vegetarian section on menu with four items (nut roast, veg korma, veg lasagne & another).",
+  "priceRange": "Moderate",
+  "streetAddress": "High Street",
+  "postalCode": "NP15 2DY",
+  "phone": "tel:01291-690635",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-11:00pm, Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.764810,-2.852100&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.764810,-2.852100&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

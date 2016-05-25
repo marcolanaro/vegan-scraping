@@ -1,0 +1,16 @@
+{
+  "title": "Helens Sushi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Beer/Wine, Asian, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a few veggie choices but you have to be very specific.",
+  "priceRange": "Moderate",
+  "streetAddress": "Langholmsgatan 13",
+  "phone": "tel:+46-86688022",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.316989,18.033303&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.316989,18.033303&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

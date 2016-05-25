@@ -1,0 +1,18 @@
+{
+  "title": "Buddha-Full",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, Western, Juice bar, Delivery, Take-out, Canadian\n                                    ",
+  "description": "A juice bar that also serves coffee and tea, along with panini sandwiches, muffins, cookies, and raw cheesecake. Laid back atmosphere with art by local artists. Open mic and live music nights. All vegan except for bee products.",
+  "priceRange": "Moderate",
+  "streetAddress": "06 W 1st St Ste 101",
+  "postalCode": "V7M 1A9",
+  "phone": "tel:604-973-0231",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-6:00pm, Sat-Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.312182,-123.079309&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.312182,-123.079309&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

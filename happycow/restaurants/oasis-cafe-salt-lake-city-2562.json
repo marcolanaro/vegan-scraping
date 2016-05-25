@@ -1,0 +1,19 @@
+{
+  "title": "Oasis Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers multiple vegetarian items and marks the ones that can be made vegan. Lunch menu prices are moderate, dinner more expensive. Has a vegan dessert.",
+  "priceRange": "Expensive",
+  "streetAddress": "151 S 500 East",
+  "postalCode": "84102",
+  "phone": "tel:801-322-0404",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 8:00am-9:00pm, Fri-Sat 8:00am-10:00pm, Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Oasis-Cafe/59495464188",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.765720,-111.876470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.765720,-111.876470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

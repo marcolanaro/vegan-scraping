@@ -1,0 +1,16 @@
+{
+  "title": "Jon's Place",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Italian, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. All vegetarian except for fish. It has limited options for vegans, but they do offer a grilled vegetable plate and a Greek salad wrap.",
+  "priceRange": "Moderate",
+  "streetAddress": "22191 Powerline Rd 10B",
+  "phone": "tel:561-338-0008",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri 11:00am-2:00pm, Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.347566,-80.154936&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.347566,-80.154936&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

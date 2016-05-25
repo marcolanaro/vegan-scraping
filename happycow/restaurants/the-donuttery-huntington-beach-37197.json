@@ -1,0 +1,14 @@
+{
+  "title": "The Donuttery",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "A donut shop that's open all hours. Offers a section of vegan cake doughnuts.",
+  "streetAddress": "17420 Beach Blvd",
+  "postalCode": "92647",
+  "phone": "tel:714-847-7000",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/The-Donuttery/192378407448763",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.709397,-117.989000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.709397,-117.989000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

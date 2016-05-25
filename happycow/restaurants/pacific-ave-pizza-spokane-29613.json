@@ -1,0 +1,19 @@
+{
+  "title": "Pacific Ave Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan cheese, vegan pepperoni and sausage. Crusts are also reportedly vegan. Vegan taco meat upon request to make pizza or nachos.",
+  "priceRange": "Moderate",
+  "streetAddress": "2001 W Pacific Ave",
+  "postalCode": "99201",
+  "phone": "tel:509-624-0236",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.655550,-117.441953&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.655550,-117.441953&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

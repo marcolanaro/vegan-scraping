@@ -1,0 +1,20 @@
+{
+  "title": "Twisted  Noodle Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Opened Jan 2015 in Saint Georger and is positioned as being a healthy restaurant. Has a vegetarian menu, vegan desserts. Lots of pasta dishes plus burgers and wraps.",
+  "priceRange": "Moderate",
+  "streetAddress": "20 N Main St",
+  "postalCode": "84770",
+  "phone": "tel:435-628-9889",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:00pm, Fri-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/twistednoodlecafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.108606,-113.582943&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.108606,-113.582943&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

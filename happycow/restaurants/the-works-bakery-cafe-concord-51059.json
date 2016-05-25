@@ -1,0 +1,18 @@
+{
+  "title": "The Works Bakery Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Multiple locations offering New York style bagels plus salads, smoothies, sandwiches. Could request to modify a sandwich to be vegan. Has soy cream cheese for bagels, and stocks soy milk and almond milk for coffee drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "42 N Main St",
+  "postalCode": "03301",
+  "phone": "tel:603-226-1827",
+  "venueHours": "\n                                                                                                        Mon-Sat 6:00am-6:00pm, Sun 6:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/worksbakerycafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.284103,-71.602760&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.284103,-71.602760&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

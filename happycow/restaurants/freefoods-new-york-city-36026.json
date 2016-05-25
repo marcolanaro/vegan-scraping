@@ -1,0 +1,18 @@
+{
+  "title": "FreeFoods",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Organic, Raw, Western, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe and deli making contemporary organic cuisine. Changing menu with usually several salads and a couple soups being vegan suitable. Fair trade coffee.",
+  "priceRange": "Moderate",
+  "streetAddress": "18 W 45 St",
+  "postalCode": "10036",
+  "phone": "tel:212-302-7195",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:30am-8:00pm, Fri 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.755961,-73.980420&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.755961,-73.980420&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

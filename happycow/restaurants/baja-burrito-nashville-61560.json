@@ -1,0 +1,19 @@
+{
+  "title": "Baja Burrito",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local burrito shop with counter service. All beans and rice are vegan, lots of fresh veggies. Has a chorizo con papas made with locally made seitan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "722 Thompson Lane",
+  "postalCode": "37204",
+  "phone": "tel:615-383-2252",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.112539,-86.766022&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.112539,-86.766022&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

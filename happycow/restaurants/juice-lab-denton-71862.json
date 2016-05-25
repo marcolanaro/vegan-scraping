@@ -1,0 +1,16 @@
+{
+  "title": "Juice Lab",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "A family-owned juicery and bakery. Offers fruit and vegetable juices, protein bars.  Takes orders for custom baked goods.",
+  "streetAddress": "508 S Elm St Ste 104",
+  "postalCode": "76201",
+  "phone": "tel:940-218-6461",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/thejuicerydentontx",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.210271,-97.134257&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.210271,-97.134257&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

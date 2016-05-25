@@ -1,0 +1,17 @@
+{
+  "title": "Cypress Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Mediterranean, Beer/Wine, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale Southern American regional-style restaurant in a casual setting. Vegan items include \"the Cypress vegan,\" a chickpea & smoked mushroom turnover with curried coconut sauce; and mango-chile pepper chutney. The eggplant bruschetta is vegetarian but can be modified by request. Additional soup and salad offerings can be requested as vegan. Reservations suggested.",
+  "priceRange": "Expensive",
+  "streetAddress": "320 E Tennessee St",
+  "phone": "tel:850-513-1100",
+  "venueHours": "\n                                                                                                        Mon-Sat 5:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CypressRestaurant/?v=wall&ref=ts",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.444917,-84.278755&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.444917,-84.278755&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

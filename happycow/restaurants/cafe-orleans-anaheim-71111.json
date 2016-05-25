@@ -1,0 +1,15 @@
+{
+  "title": "Disneyland - Cafe Orleans",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegans could get the N’awlins vegetable ragout without cheese, Crescent City salad without meat and cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "1313 S Harbor Blvd",
+  "postalCode": "92802",
+  "phone": "tel:714-781-3463",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.813253,-117.919335&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.813253,-117.919335&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

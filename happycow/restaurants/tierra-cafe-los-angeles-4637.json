@@ -1,0 +1,17 @@
+{
+  "title": "Tierra Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Take-out, Catering\n                                    ",
+  "description": "Downtown Los Angeles vegetarian cafe. Located inside a busy fast food court that is popular with the downtown work crowd. Menu consists of light meals such as breakfast, sandwiches, wraps, organic coffee, elixir tonics and teas. Many options can be made vegan upon request. Counter service. Difficult street parking.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "818 Wilshire Blvd Ste D",
+  "postalCode": "90017",
+  "phone": "tel:213-629-1402",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.049810,-118.258710&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.049810,-118.258710&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

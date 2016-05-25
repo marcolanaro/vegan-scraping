@@ -1,0 +1,19 @@
+{
+  "title": "Veggie House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Take-out, Asian, Catering, Vietnamese\n                                    ",
+  "description": "Vietnamese and Chinese fusion restaurant specializing in veggie food, since Sept 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shop 3/5 Canley Vale Rd",
+  "postalCode": "2166",
+  "phone": "tel:87394504",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-3:00pm, 5:00pm-9:00pm, Wed-Thu 5:00pm-9:00pm, Wed-Sun 11:00am-3:00pm, Fri-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/veggiehouses",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.886901,150.943123&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.886901,150.943123&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

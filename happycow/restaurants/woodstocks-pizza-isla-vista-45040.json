@@ -1,0 +1,19 @@
+{
+  "title": "Woodstock's Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria with multiple locations. Has whole grain crust, gluten-free crust, and Daiya vegan cheese for extra charge. Choice of salads, or build your own. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "928 Embarcadero Del Norte",
+  "postalCode": "93117",
+  "phone": "tel:805-967-6969",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.412404,-119.855301&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.412404,-119.855301&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

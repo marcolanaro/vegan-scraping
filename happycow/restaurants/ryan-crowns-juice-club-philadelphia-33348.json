@@ -1,0 +1,16 @@
+{
+  "title": "Ryan Crown's Juice Club",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Vegan raw juice delivery service.",
+  "streetAddress": "Philly area",
+  "postalCode": "19120",
+  "phone": "tel:215-519-8935",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/rcjuiceclub",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.954710,-75.164359&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.954710,-75.164359&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

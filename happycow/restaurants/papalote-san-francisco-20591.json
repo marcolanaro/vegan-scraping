@@ -1,0 +1,17 @@
+{
+  "title": "Papalote",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small Mexican taqueria with a few vegan choices including soyrizo and tofu mole.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3409 24th St",
+  "postalCode": "94110",
+  "phone": "tel:415-970-8815",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.751940,-122.420943&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.751940,-122.420943&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

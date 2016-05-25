@@ -1,0 +1,18 @@
+{
+  "title": "Ola Juice Bar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Juice bar\n                                    ",
+  "description": "A vegan juice bar/cafe serving juices, blends, smoothies, and shots, as well as make-your-own oatmeal bowls, rice bowls, salads, and wraps. Menu is 100% vegan, 90% gluten-free, 90% organic, 90% raw, using locally grown produce and local business as much as possible. Focus is on athletic nutrition.",
+  "priceRange": "Moderate",
+  "streetAddress": "27 E Kiowa",
+  "postalCode": "80903",
+  "phone": "tel:719-633-3111",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-6:00pm, Sat-Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Ola-Juice-Bar/529063013824531",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.835344,-104.824714&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.835344,-104.824714&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

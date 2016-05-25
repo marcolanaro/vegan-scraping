@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market - Park Plaza",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor market at Park Plaza.",
+  "streetAddress": "500 S C St",
+  "postalCode": "93030",
+  "phone": "tel:805-247-0197",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.197200,-119.181240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.197200,-119.181240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

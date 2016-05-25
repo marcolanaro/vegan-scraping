@@ -1,0 +1,17 @@
+{
+  "title": "My Lil' Cube",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Japanese, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small ramen shop. Offers 4 ramens with vegan option using fresh veggies and different broths. Has scallion pancakes & vegetable tempura for appetizer (though maybe uses shared fryer).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "402 N Meridian ",
+  "postalCode": "98371",
+  "phone": "tel:253-840-2158",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.193980,-122.294064&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.193980,-122.294064&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

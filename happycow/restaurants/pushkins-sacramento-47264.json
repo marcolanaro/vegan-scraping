@@ -1,0 +1,19 @@
+{
+  "title": "Pushkins",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, American, Take-out, Bakery\n                                    ",
+  "description": "Serves meat, veg options available. A dedicated gluten-free bakery that uses egg but not dairy. One could get a vegan sandwich here.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1820 29th St",
+  "postalCode": "95816",
+  "phone": "tel:916-376-7742",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PushkinsBakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.564011,-121.472243&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.564011,-121.472243&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

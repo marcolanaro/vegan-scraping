@@ -1,0 +1,18 @@
+{
+  "title": "Bombay Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food menu that's meat-based but does include a section of vegetable main dishes, which can be cooked vegan upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "1251 Opelika Rd",
+  "postalCode": "36830",
+  "phone": "tel:334-502-5200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.621799,-85.455588&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.621799,-85.455588&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

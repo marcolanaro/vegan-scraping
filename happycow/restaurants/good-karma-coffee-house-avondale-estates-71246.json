@@ -1,0 +1,18 @@
+{
+  "title": "Good Karma Coffee House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Dedicated gluten-free bakery and cafe with a breakfast and lunch menu that includes several items marked as vegan such as tofu scramble, pancakes, French toast, cinnamon buns, and banana bread.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "31 N Avondale Rd, Avondale Estates",
+  "postalCode": "30002",
+  "phone": "tel:404-499-0999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 8:00am-2:00pm, Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.776128,-84.265790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.776128,-84.265790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

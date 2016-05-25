@@ -1,0 +1,19 @@
+{
+  "title": "Dimitris",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Delivery, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Veggie choices include a moussaka, spaghetti, pasta, salads, veggie pita (has feta cheese). No smoking inside.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "349 King Street",
+  "postalCode": "E3B 1E4",
+  "phone": "tel:506-452-8882",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.962530,-66.645130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.962530,-66.645130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

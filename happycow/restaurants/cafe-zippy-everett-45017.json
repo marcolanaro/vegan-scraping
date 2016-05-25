@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Zippy",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Raw, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A community hub kind of place displaying local artwork and hosts events like open mic and game nights. Offers a menu of sandwiches, soups, salads, espresso drinks, and pastries. Has a raw food menu plus a wrap with house-made hummus black bean that's vegan suitable.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2811 Wetmore Ave",
+  "postalCode": "98281",
+  "phone": "tel:425-303-0474",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-10:00pm, Sat 9:00am-10:00pm, Sun 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeZippy",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.980226,-122.206905&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.980226,-122.206905&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

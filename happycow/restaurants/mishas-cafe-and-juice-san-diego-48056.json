@@ -1,0 +1,19 @@
+{
+  "title": "Misha's Cafe and Juice Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe and juice bar situated in the same building as Culture Shock and Bikram Hot Yoga. Offers sandwiches, smoothies, juices. The sandwiches are mostly non-veg but you could get the spring rolls or the veggie sandwich and ask to omit cheese and mayonaise.",
+  "priceRange": "Moderate",
+  "streetAddress": "2110 Hancock St Unit 100",
+  "postalCode": "92110",
+  "phone": "tel:619-795-3488",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.745341,-117.189897&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.745341,-117.189897&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

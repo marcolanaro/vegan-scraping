@@ -1,0 +1,17 @@
+{
+  "title": "Falafel Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has hummus, tabouleh, falafel, and vegetarian soups.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "950 Cobb Pkwy S Ste 100",
+  "postalCode": "30060",
+  "phone": "tel:770-429-8999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.928640,-84.508570&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.928640,-84.508570&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

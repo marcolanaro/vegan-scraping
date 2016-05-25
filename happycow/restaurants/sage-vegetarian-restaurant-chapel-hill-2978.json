@@ -1,0 +1,17 @@
+{
+  "title": "Sage Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Middle Eastern\n                                    ",
+  "description": "Cozy, romantic cafe serving vegetarian cuisine with a Middle Eastern flair. Wrap, sandwiches, soups, organic salad at dinnertime, and more. Lunch prices are moderate, dinner slightly more.",
+  "priceRange": "Moderate",
+  "streetAddress": "1129 Weaver Dairy Rd Unit X",
+  "postalCode": "27514",
+  "phone": "tel:919-968-9266",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:30pm, Mon-Thu 5:00pm-9:00pm, Fri-Sat 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.963930,-79.055430&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.963930,-79.055430&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Nekter Juice Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice bar with multiple locations. Offers made-to-order juices and smoothies plus acai bowls and a small grab-n-go fridge case, including plenty of vegan choices.",
+  "streetAddress": "3900 Bel Aire Plaza",
+  "postalCode": "94558",
+  "phone": "tel:707-346-5333",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/nekterjuicebar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.323953,-122.307533&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.323953,-122.307533&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

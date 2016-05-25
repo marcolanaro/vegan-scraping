@@ -1,0 +1,17 @@
+{
+  "title": "Shayona",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Indian, Western\n                                    ",
+  "description": "Vegetarian food restaurant by the Chino Hills Swaminarayan Temple. Uses dairy but not onion or garlic. Vegans should specify.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15100 Fairfield Ranch Rd",
+  "postalCode": "91709",
+  "phone": "tel:909-614-5000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.977099,-117.696139&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.977099,-117.696139&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

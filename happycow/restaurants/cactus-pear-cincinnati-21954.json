@@ -1,0 +1,18 @@
+{
+  "title": "Cactus Pear",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Take-out, Mexican, Catering, Southwestern American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Southwestern bistro. Offers several lacto-vegetarian items. Has tofu fajita, eggplant fajita, chipotle hummus, and others.",
+  "priceRange": "Moderate",
+  "streetAddress": "3215 Jefferson Ave",
+  "postalCode": "45220",
+  "phone": "tel:513-961-7400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat 5:00pm-11:00pm, Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.138638,-84.512332&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.138638,-84.512332&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

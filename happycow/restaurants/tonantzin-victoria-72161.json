@@ -1,0 +1,16 @@
+{
+  "title": "Tonantzin",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Mexican\n                                    ",
+  "description": "Aztec Mexican-inspired slow food. Offers a changing, single dining option: a 4-course tasting menu. Expect your meal to take 1.5 to 2 hours.",
+  "priceRange": "Moderate",
+  "streetAddress": "1600 Bay St",
+  "phone": "tel:250-884-5313",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 6:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.434338,-123.335971&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.434338,-123.335971&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

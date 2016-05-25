@@ -1,0 +1,19 @@
+{
+  "title": "Harvest Moon Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Western, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lots of salads along with wraps and sandwiches, fresh juice bar and smoothies. Set in a 1950s style service station venue with al fresco garden setting on the circle.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "102 Curtiss Pkwy",
+  "postalCode": "33166",
+  "phone": "tel:305-863-0707",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-5:00pm, Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.821031,-80.282356&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.821031,-80.282356&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

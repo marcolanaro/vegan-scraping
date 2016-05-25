@@ -1,0 +1,17 @@
+{
+  "title": "Yatai Food Cart",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Fast food, Asian, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Healthier street food in downtown. Uses fresh veggies and has tofu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "17th St and California",
+  "postalCode": "80220",
+  "phone": "tel:720-443-1658",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.746134,-104.990981&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.746134,-104.990981&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

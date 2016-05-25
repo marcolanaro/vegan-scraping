@@ -1,0 +1,18 @@
+{
+  "title": "Henry Saw",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Raw, Western, Salad bar, Juice bar, Take-out, Australian\n                                    ",
+  "description": "A small vegetarian cafe serving pies, wraps, salads, sweet treats, smoothies, juices. Tucked away in a little lane so can be hard to find if unfamiliar with the area. Street is also known as Grand Lane.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "117 Barrack St ",
+  "postalCode": "6000",
+  "phone": "tel:0455-139691",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-3:00pm, Sat 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/whatdidhenrysee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-31.953135,115.860703&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-31.953135,115.860703&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

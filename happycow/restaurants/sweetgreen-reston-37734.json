@@ -1,0 +1,19 @@
+{
+  "title": "sweetgreen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Salad bar, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Salad restaurant chain. Could build your own salad; has tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "11935 Democracy Dr",
+  "postalCode": "20190",
+  "phone": "tel:571-203-0082",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sweetgreen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.957876,-77.358350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.957876,-77.358350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Betty's Noodle House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Take-out, Asian Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Asian fusion eatery in downtown Santa Cruz. Offers a menu of salads, appetizers, noodle soups, noodle bowls. Numerous vegetable and tofu dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "920 Pacific Ave Ste 12",
+  "postalCode": "95060",
+  "phone": "tel:831-426-2328",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-3:30pm, 5:00pm-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BettysNoodleHouse",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.970913,-122.024646&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.970913,-122.024646&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

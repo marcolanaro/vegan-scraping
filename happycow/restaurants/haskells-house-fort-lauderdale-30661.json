@@ -1,0 +1,12 @@
+{
+  "title": "Haskell's House",
+  "tags": [
+    "Veg Hotel/BnB"
+  ],
+  "description": "Charming 1930s two bedroom clapboard house enveloped in tropical foliage. Minimum stay requirement.",
+  "streetAddress": "Fort Lauderdale",
+  "postalCode": "33315",
+  "phone": "tel:954-525-4522",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.112995,-80.147373&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.112995,-80.147373&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

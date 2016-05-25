@@ -1,0 +1,14 @@
+{
+  "title": "Bakers Delight",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery with multiple outlets offering numerous savory and sweet vegan items. Products that are vegan suitable are clearly notated on the website. In store a till docket can be requested for each product that lists all of the ingredients as well as \"suitable for vegans\" if that is the case.",
+  "streetAddress": "93 Centre Dandenong Rd",
+  "postalCode": "3172",
+  "phone": "tel:03-95511773",
+  "venueHours": "\n                                                                                                        Mon-Wed 6:30am-7:00pm, Thu 6:30am-8:00pm, Fri-Sun 6:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/bakersdelight",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.983432,145.132724&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.983432,145.132724&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

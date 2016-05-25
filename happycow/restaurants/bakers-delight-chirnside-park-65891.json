@@ -1,0 +1,14 @@
+{
+  "title": "Bakers Delight",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery with multiple outlets, offering numerous savory and sweet vegan items. Products that are vegan suitable are notated on its website. In store a till docket can be requested for each product that lists the ingredients as well as \"suitable for vegans\" if that is the case.",
+  "streetAddress": "Shop 150A, Chirnside Park Shopping Centre, Maroondah Hwy",
+  "postalCode": "3116",
+  "phone": "tel:03-97273233",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 8:00am-6:00pm, Thu-Fri 8:00am-9:00pm, Sat 7:30am-5:30pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/bakersdelight",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.758041,145.312408&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.758041,145.312408&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

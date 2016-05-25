@@ -1,0 +1,19 @@
+{
+  "title": "Kafe Botanika",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located along the Urumea River in the center of Donostia is an eclectic and international cafe. Offers mostly vegetarian dishes and many vegan choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "Paseo Arbol de Gernika 8",
+  "postalCode": "20006",
+  "phone": "tel:943-443475",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-11:00pm, Fri 9:00am-12:00am, Sat 10:00am-12:00am, Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/KafeBotanika",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.318334,-1.981231&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.318334,-1.981231&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Crystal Lake Coffee Shop",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual, quick table-service cafe inside Mammoth Cave National Park. Has 3 veg items on the menu: a vegan portobello mushroom sandwich (burger bun is without dairy/egg), a vegetarian black bean veggie burger (patty contains egg whites), and a vegetable hummus wrap. Specify if you are vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Mammoth Cave National Park",
+  "postalCode": "42259",
+  "phone": "tel:270-758-2225",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.186988,-86.100540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.186988,-86.100540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

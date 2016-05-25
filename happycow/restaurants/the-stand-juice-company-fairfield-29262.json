@@ -1,0 +1,17 @@
+{
+  "title": "The Stand Juice Company",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Raw, Juice bar, Take-out\n                                    ",
+  "description": "Offers juices, smoothies, sandwiches, baked goods, and salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "87 Mill Plain Rd",
+  "postalCode": "06824",
+  "phone": "tel:203-873-0414",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat 8:00am-7:00pm, Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.142283,-73.264150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.142283,-73.264150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

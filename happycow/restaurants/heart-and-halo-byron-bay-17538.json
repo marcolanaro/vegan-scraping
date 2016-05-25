@@ -1,0 +1,19 @@
+{
+  "title": "Heart and Halo",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Fast food, Take-out\n                                    ",
+  "description": "Vegetarian groceries store plus restaurant serving hot and cold dishes, savouries and sweets. No alcohol or smoking.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Shop 4/14 Middleton Street",
+  "postalCode": "2481",
+  "phone": "tel:02-6680-2979",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-28.644131,153.614844&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-28.644131,153.614844&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

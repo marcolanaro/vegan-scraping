@@ -1,0 +1,17 @@
+{
+  "title": "Zia Taqueria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Take-out, Mexican, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican fusion taqueria, with a vegetarian/vegan menu posted right next to the register where one orders.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "521 Haywood Rd",
+  "postalCode": "28806",
+  "phone": "tel:828-575-9393",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.579108,-82.584483&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.579108,-82.584483&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Sweet Life Patisserie",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery offering some vegan desserts - call ahead to check the day's offering.",
+  "streetAddress": "755 Monroe St",
+  "postalCode": "97402",
+  "phone": "tel:541-683-5676",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-11:00pm, Sat-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SweetLifePatisserie",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.051500,-123.105000&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.051500,-123.105000&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "The Finer Diner ",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Mediterranean, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has dhal, bean salad, and falafel.",
+  "priceRange": "Moderate",
+  "streetAddress": "9976 Peggy's Cove Rd",
+  "phone": "tel:902-821-3434",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 11:30am-7:30pm, Sat-Sun 9:00pm-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/TheFinerDinerHackettsCove",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.568752,-63.922738&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.568752,-63.922738&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

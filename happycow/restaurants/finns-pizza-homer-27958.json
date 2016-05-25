@@ -1,0 +1,18 @@
+{
+  "title": "Finn's Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic woodfired pizza and more. Pies are custom made and can request for one without cheese - ask for a clean slicing wheel.",
+  "priceRange": "Moderate",
+  "streetAddress": "Homer Spit Rd",
+  "postalCode": "99603",
+  "phone": "tel:907-235-2878",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.618997,-151.458358&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.618997,-151.458358&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

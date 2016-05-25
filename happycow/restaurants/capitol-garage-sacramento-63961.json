@@ -1,0 +1,19 @@
+{
+  "title": "Capitol Garage",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American diner-like fare but with a few labeled vegan items like lunch tofu tacos and a harvest wrap.",
+  "priceRange": "Moderate",
+  "streetAddress": "1500 K St",
+  "postalCode": "95814",
+  "phone": "tel:916-444-3633",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 6:00am-12:00am, Fri 6:00am-2:00am, Sat-Sun 8:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/capGarage",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.576963,-121.486826&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.576963,-121.486826&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

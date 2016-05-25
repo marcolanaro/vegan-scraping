@@ -1,0 +1,20 @@
+{
+  "title": "E.A.T Marketplace",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Farm-to-table eatery and market. Has vegan choices and a large smoothies menu with wellness shots and superfood add-ons. Sources GMO free.",
+  "priceRange": "Moderate",
+  "streetAddress": "28410 Old Town Front St Ste 112",
+  "postalCode": "92590",
+  "phone": "tel:951-694-3663",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:00am-3:00pm, Tue-Sat 7:00am-9:00pm, Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/EATMarketplace",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.496302,-117.151373&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.496302,-117.151373&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

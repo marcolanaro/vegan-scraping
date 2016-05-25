@@ -1,0 +1,19 @@
+{
+  "title": "Tropical Smoothie Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise chain cafe offering sandwiches, wraps, salads, and smoothies. Items containing chicken can be made with faux chicken.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12164 Fairfax Towne Center",
+  "postalCode": "22033",
+  "phone": "tel:703-272-7007",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-9:00pm, Sat 9:00am-9:00pm, Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tropicalsmoothiecafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.866730,-77.367933&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.866730,-77.367933&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

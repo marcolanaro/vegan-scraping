@@ -1,0 +1,19 @@
+{
+  "title": "Sushi Zushi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain of Japanese restaurants. Upon request will give you a separate vegan menu in the restaurant (not online).",
+  "priceRange": "Moderate",
+  "streetAddress": "3636 McKinney Ave",
+  "postalCode": "75204",
+  "phone": "tel:214-522-7253",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-10:00pm, Thu-Fri 11:00am-11:00pm, Sat 11:30am-11:00pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SushiZushiUSA",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.807132,-96.796222&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.807132,-96.796222&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

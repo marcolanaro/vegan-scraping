@@ -1,0 +1,17 @@
+{
+  "title": "Raw Food Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Buffet, Salad bar\n                                    ",
+  "description": "Serves mainly raw food, including a large raw food buffet at lunch.",
+  "priceRange": "Moderate",
+  "streetAddress": "Osterlanggatan 61",
+  "postalCode": "50337",
+  "phone": "tel:+46-033-120070",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-5:00pm, Sat 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.718589,12.942836&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.718589,12.942836&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

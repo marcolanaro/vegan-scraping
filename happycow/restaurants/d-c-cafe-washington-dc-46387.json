@@ -1,0 +1,18 @@
+{
+  "title": "D C Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Mediterranean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Middle Eastern food in the Dupont Circle area of the city. Has vegan choices including hummus, baba ganoosh, falafel, grape leaves, and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "2035 P St NW, Dupont Crl",
+  "postalCode": "20036",
+  "phone": "tel:202-887-5819",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.909806,-77.046450&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.909806,-77.046450&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

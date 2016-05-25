@@ -1,0 +1,14 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural food supermarket chain.",
+  "streetAddress": "299 SE 3rd Ave",
+  "postalCode": "33131",
+  "phone": "tel:305-995-0600",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/wholefoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.771711,-80.188870&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.771711,-80.188870&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

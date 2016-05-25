@@ -1,0 +1,19 @@
+{
+  "title": "Sweet Tomatoes",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Buffet, Salad bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of buffet-style salad bar chain. Features a large salad bar with additional soups, bread, muffins, breads, pizza, and desserts. Few vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4928 S Power Rd",
+  "postalCode": "85212",
+  "phone": "tel:480-333-0022",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.326745,-111.689755&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.326745,-111.689755&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

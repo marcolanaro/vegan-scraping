@@ -1,0 +1,17 @@
+{
+  "title": "Bird Wing Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Western, Australian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Rustic cafe, bookshop, and art space. Offers gluten-free food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "116 Riverside Dr",
+  "postalCode": "2490",
+  "phone": "tel:66766048",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:30am-4:00pm, Sat-Sun 8:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-28.274929,153.461614&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-28.274929,153.461614&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

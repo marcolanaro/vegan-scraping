@@ -1,0 +1,17 @@
+{
+  "title": "Four Seasons",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Juice bar, Caribbean\n                                    ",
+  "description": "Casual Caribbean restaurant and juice bar with a small health food store. The food is presented in a steamtable where you choose what you'd like. Counter service.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2281 Church Ave",
+  "postalCode": "11226",
+  "phone": "tel:718-693-7996",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-10:00pm, Sat-Sun 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.650440,-73.957540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.650440,-73.957540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

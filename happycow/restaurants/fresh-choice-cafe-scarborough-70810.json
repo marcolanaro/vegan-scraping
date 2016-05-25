@@ -1,0 +1,19 @@
+{
+  "title": "Fresh Choice Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee cafe and deli, est. 2016. Has oil-free vegetable soups; veggie wraps and sandwiches; smoothies. It's part of an office building with its own entrance next to the Home Depot parking lot.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "520 Ellesmere Rd Unit 108",
+  "postalCode": "M1R4E6",
+  "phone": "tel:416-673-9499",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-7:30pm, Sat 8:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/FreshChoiceCafeScarborough",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.763085,-79.295112&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.763085,-79.295112&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

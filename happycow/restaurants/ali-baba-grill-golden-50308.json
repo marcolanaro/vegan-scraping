@@ -1,0 +1,18 @@
+{
+  "title": "Ali Baba Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Middle Eastern, Lebanese, Persian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Persian/Lebanese food restaurant decorated in Arabic decor. A lot of meat on the menu but vegans could get vegetable sides and salads like hummus, baba ghanouj, eggplant dip, falafel, stuffed grape leaves, muhamara, and such. Has a vegetarian plate.",
+  "priceRange": "Moderate",
+  "streetAddress": "109 N Rubey Dr F",
+  "postalCode": "80403",
+  "phone": "tel:303-279-2228",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.766377,-105.232728&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.766377,-105.232728&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Cloud Nine",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Western, Salad bar, Juice bar\n                                    ",
+  "description": "An all-vegan restaurant with a friendly atmosphere and relaxed inside seating. Has gluten free options.",
+  "priceRange": "Moderate",
+  "streetAddress": "58 Angove St",
+  "postalCode": "6006",
+  "phone": "tel:08-61143529",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Cloudninevegan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-31.929415,115.857084&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-31.929415,115.857084&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

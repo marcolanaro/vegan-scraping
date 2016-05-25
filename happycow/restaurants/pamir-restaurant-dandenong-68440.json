@@ -1,0 +1,19 @@
+{
+  "title": "Pamir Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Middle Eastern, Uzbek, Afghan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Uzbek and Afghan cuisine. Has a vegetarian menu and banquet option. Vegetable oil is used to cook all meals and many of the vegetarian meals can be prepared as vegan.",
+  "priceRange": "Expensive",
+  "streetAddress": "195 Lonsdale St",
+  "postalCode": "3175",
+  "phone": "tel:03-97920197",
+  "venueHours": "\n                                                                                                        Tue-Sun 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pamirrestaurants",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.989242,145.214053&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.989242,145.214053&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

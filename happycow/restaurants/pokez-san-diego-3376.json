@@ -1,0 +1,17 @@
+{
+  "title": "Pokez",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Fast food, Take-out, Mexican, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Grungy cafe popular with youngsters. Features an extensive range of Mexican dishes with some vegetarian options including tacos, burritos, tostadas, and breakfast all day. Vegans to specify no dairy, etc. Large portions.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "947 E St",
+  "postalCode": "92101",
+  "phone": "tel:619-702-7160",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.714690,-117.156080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.714690,-117.156080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

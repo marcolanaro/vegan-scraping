@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Karibo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lunch and dinner menu offer a few veggie items like Thai noodle salad, veggie burger (mayo), veggie wrap (feta), and dinner tofu tower. Could ask to make your dish vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "27 N 3rd St",
+  "postalCode": "32034",
+  "phone": "tel:904-277-5269",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.671570,-81.462930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.671570,-81.462930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

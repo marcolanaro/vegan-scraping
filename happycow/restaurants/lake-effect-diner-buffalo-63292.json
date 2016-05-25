@@ -1,0 +1,18 @@
+{
+  "title": "Lake Effect Diner",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. All-American comfort food diner located in a 1952 chrome and neon diner car. Vegan items are clearly marked and include hummus appetizers, a falafel salad, and two wraps. ",
+  "priceRange": "Moderate",
+  "streetAddress": "3165 Main",
+  "postalCode": "14214",
+  "phone": "tel:716-833-1952",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-10:00pm, Fri-Sat 7:00am-12:00am, Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Lake-Effect-Diner-114518308572778/timeline/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.950247,-78.826468&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.950247,-78.826468&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

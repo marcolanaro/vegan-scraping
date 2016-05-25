@@ -1,0 +1,19 @@
+{
+  "title": "Juice Core",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Juice bar, Take-out\n                                    ",
+  "description": "Juice and smoothies bar. Offers organic cold pressed raw juice, grab n go raw food. Almond milk has honey in it.",
+  "priceRange": "Moderate",
+  "streetAddress": "7137 E Stetson Dr Unit 10",
+  "postalCode": "85251",
+  "phone": "tel:602-524-4030",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-6:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Juicecore",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.499453,-111.927174&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.499453,-111.927174&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

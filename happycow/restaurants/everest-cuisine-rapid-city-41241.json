@@ -1,0 +1,20 @@
+{
+  "title": "Everest Cuisine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Delivery, Take-out, Nepalese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Nepali and Indian food menu with some vegetarian dishes. Offers a lunch buffet, and staff can point out the vegan suitable items.",
+  "priceRange": "Moderate",
+  "streetAddress": "2328 W Main St",
+  "postalCode": "57702",
+  "phone": "tel:605-343-4444",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/theeverestcuisine",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.082246,-103.258381&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.082246,-103.258381&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Crazy CupCake Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western\n                                    ",
+  "description": "Bakery and ice cream cafe also offering a weekly, Sunday vegetarian brunch which is also all vegan once a month (check its webpage for updates). Has vegan options. Free Wi-Fi.",
+  "streetAddress": "Bruchstrasse 47",
+  "postalCode": "6003",
+  "phone": "tel:0412405665",
+  "venueHours": "\n                                                                                                        Tue-Sat 8:00am-5:00pm, Sun 9:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/CrazyCupCakeCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.048924,8.301319&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.048924,8.301319&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

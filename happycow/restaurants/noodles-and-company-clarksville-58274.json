@@ -1,0 +1,19 @@
+{
+  "title": "Noodles and Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Take-out, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of quick service noodle chain. You could customize your bowl without meat or cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2702 Wilma Rudolph Blvd",
+  "postalCode": "37040",
+  "phone": "tel:931-551-9556",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/noodlesandcompany",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.583729,-87.297081&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.583729,-87.297081&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

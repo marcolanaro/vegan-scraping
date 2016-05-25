@@ -1,0 +1,16 @@
+{
+  "title": "NV Juice Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice bar upstairs above Title Boxing Club. Has free Wi-Fi.",
+  "streetAddress": "3209 S Broadway Ste 203",
+  "postalCode": "73013",
+  "phone": "tel:405-269-1416",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-4:00pm, Sat 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.624695,-97.487373&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.624695,-97.487373&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

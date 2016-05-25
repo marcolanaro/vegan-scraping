@@ -1,0 +1,14 @@
+{
+  "title": "Govinda's Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International\n                                    ",
+  "description": "Casual veggie food Hare Krishna place. On weekdays there is usually a set menu. All-you-can-eat buffet available every day. Previously located on 200 William St.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "194 William St, Northbridge",
+  "phone": "tel:08-92271684",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-2:30pm, 4:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-31.949519,115.859506&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-31.949519,115.859506&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

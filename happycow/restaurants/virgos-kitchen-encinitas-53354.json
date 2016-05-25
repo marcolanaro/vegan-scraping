@@ -1,0 +1,15 @@
+{
+  "title": "Virgo's Kitchen",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Encinitas-based kitchen offering vegan meals delivery service, since fall-2014.",
+  "streetAddress": "Encinitas Area",
+  "phone": "tel:760-420-8983",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/VirgosKitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.033605,-117.282111&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.033605,-117.282111&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The Grange",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Japanese, Western, Juice bar, Beer/Wine\n                                    ",
+  "description": "Locally sourced and seasonally inspired vegetable restaurant with vegan options. Serves handcrafted cocktails and regional beers.",
+  "priceRange": "Moderate",
+  "streetAddress": "166 Broadway",
+  "postalCode": "02909",
+  "phone": "tel:401-831-0600",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:00am-12:00am, Fri-Sat 10:00am-1:00am, Sun 10:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/The-Grange-Providence/344195922367030",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.821278,-71.422539&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.821278,-71.422539&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

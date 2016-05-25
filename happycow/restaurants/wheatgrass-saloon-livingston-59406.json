@@ -1,0 +1,20 @@
+{
+  "title": "Wheatgrass Saloon",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Raw, Juice bar\n                                    ",
+  "description": "Little juice bar/cafe connected to a book store, operating since 2014. Offers smoothies, bowls, and a daily raw food special. 2 small tables inside.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "120 N Main St",
+  "postalCode": "59047",
+  "phone": "tel:406-333-2330",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/WheatgrassSaloon",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.661974,-110.560654&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.661974,-110.560654&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

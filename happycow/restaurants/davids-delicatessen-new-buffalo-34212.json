@@ -1,0 +1,19 @@
+{
+  "title": "David's Delicatessen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. One-half coffee shop and one-half lunch deli. Unlike traditional American delis, this place offers sandwiches with around 50% the rotating menu items being vegetarian and at least one sandwich is vegan. Has organic non-GMO soy milk for the espresso drinks. Hipster ambiance with free Wi-Fi and a ping pong table in back.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "30 N Whittaker St",
+  "postalCode": "49117",
+  "phone": "tel:269-469-7177",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:30am-6:00pm, Tue 7:30am-2:00pm, Wed-Fri 7:30am-6:00pm, Sat-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/davidsdelicatessen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.794558,-86.744539&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.794558,-86.744539&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Firecreek Coffee Company",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Coffee roaster and shop. Serves organic coffee and has almond milk and coconut milk options.",
+  "streetAddress": "22 E Rte 66",
+  "postalCode": "86001",
+  "phone": "tel:928-774-2266",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.197654,-111.648095&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.197654,-111.648095&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

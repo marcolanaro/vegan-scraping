@@ -1,0 +1,17 @@
+{
+  "title": "Tandoor",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food menu with a selection of vegetarian meals. Vegan suitable include aloo gobhi, aloo chole, chana masala, dal tadka, eggplant bharta, and bhindi masala.",
+  "priceRange": "Moderate",
+  "streetAddress": " 3130 Mapleleaf Dr Ste 112",
+  "postalCode": "40509",
+  "phone": "tel:859-263-5771",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:30pm, Mon-Thu 5:00pm-10:00pm, Fri-Sat 5:00pm-10:30pm, Sat-Sun 12:00pm-3:00pm, Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.005721,-84.427131&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.005721,-84.427131&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

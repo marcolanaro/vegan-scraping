@@ -1,0 +1,19 @@
+{
+  "title": "Cherry Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Deli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Over 15 vegetarian sandwiches can be made vegan by asking for no cheese. A large variety of vegan salads and soups available, all made-in-house.",
+  "priceRange": "Moderate",
+  "streetAddress": "834 Cherry St SE",
+  "postalCode": "49506",
+  "phone": "tel:616-459-6182",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:30am-9:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Cherry-Deli/300876655066",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.959353,-85.648138&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.959353,-85.648138&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Haveli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian cuisine restaurant. Menu labels a vegetarian section as well a vegan one with several dishes. Casual. Dinner buffet is on Tuesday and Sunday only from 5:30pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "9720 Page Ave",
+  "postalCode": "63132",
+  "phone": "tel:314-423-7300",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-2:30pm, Tue-Sun 5:00pm-9:00pm, Sat-Sun 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.688254,-90.374531&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.688254,-90.374531&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large natural foods supermarket chain features fresh produce including organic, vitamins & supplements, personal and household care products, deli, bakery, grocery, and much more.",
+  "streetAddress": "2655 Pacific Coast Hwy",
+  "postalCode": "90505",
+  "phone": "tel:310-257-8700",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/wholefoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.815020,-118.372910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.815020,-118.372910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

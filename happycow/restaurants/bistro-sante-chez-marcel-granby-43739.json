@@ -1,0 +1,19 @@
+{
+  "title": "Bistro Sante Chez Marcel",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Salad bar, Take-out, European, Canadian\n                                    ",
+  "description": "Cafe and deli counter inside Les Fours du Roy health food shop. Offers vegetarian dishes with various side salads, European style desserts, coffee drinks. Has Wi-Fi and seating inside.",
+  "priceRange": "Moderate",
+  "streetAddress": "322 Principale",
+  "postalCode": "J2G2W4",
+  "phone": "tel:450-378-4061",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.401680,-72.730758&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.401680,-72.730758&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

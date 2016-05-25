@@ -1,0 +1,15 @@
+{
+  "title": "Cinnamon Works",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Stand at Pike Place Market that offers a vegan cinnamon roll and a couple vegan cookies in addition to their conventional baked goods.",
+  "streetAddress": "1536 Pike Pl",
+  "postalCode": "98101",
+  "phone": "tel:206-583-0085",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.608839,-122.340661&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.608839,-122.340661&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

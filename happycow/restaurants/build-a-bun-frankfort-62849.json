@@ -1,0 +1,18 @@
+{
+  "title": "Build-A-Bun",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Delivery, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A make-your-own burger and sandwich restaurant with designated vegan choices, and ability to customize your own creation.",
+  "priceRange": "Expensive",
+  "streetAddress": "6 Elwood St",
+  "postalCode": "60423",
+  "phone": "tel:779-324-5589",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-9:00pm, Fri 9:00am-11:00pm, Sat 8:00am-11:00pm, Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Build-A-Bun/216581308401210",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.499159,-87.849888&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.499159,-87.849888&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

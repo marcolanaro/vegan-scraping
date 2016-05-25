@@ -1,0 +1,19 @@
+{
+  "title": "The Dancing Dog",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Juice bar, Take-out, Mexican, Bakery\n                                    ",
+  "description": "Vegan eatery and juicery, opened Oct 2014. The kitchen also bakes onsite. Comfortable space.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "126 W Main St",
+  "postalCode": "61802",
+  "phone": "tel:217-552-1344",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:00am-8:00pm, Sun 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/dancingdogeatery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.112757,-88.208503&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.112757,-88.208503&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

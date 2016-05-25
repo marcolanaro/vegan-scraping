@@ -1,0 +1,18 @@
+{
+  "title": "Wagamama",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Fast food, Beer/Wine, Asian Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. International franchise chain inspired by Japanese food. Vegetarian items are marked with a V and some can be made vegan, but likely has only 1 fryer for meat & veg.",
+  "priceRange": "Moderate",
+  "streetAddress": "Quincy Market",
+  "postalCode": "02109",
+  "phone": "tel:617-742-9242",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-10:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.357614,-71.055790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.357614,-71.055790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

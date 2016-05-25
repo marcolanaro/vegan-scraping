@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Verde",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe atmosphere. Uses fresh ingredients, and has veg choices like tofu tacos, kale salad, lentil soup, yuca fries, veggie gyro. Vegans ask to omit cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "301 Flagler Ave",
+  "postalCode": "32169",
+  "phone": "tel:386-957-3958",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.038190,-80.900475&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.038190,-80.900475&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

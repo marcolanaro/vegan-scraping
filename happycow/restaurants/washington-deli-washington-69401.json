@@ -1,0 +1,17 @@
+{
+  "title": "Washington Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This deli and caterer has a separate vegan menu that includes vegan pizza (using Teese) available daily by the slice, a vegan meatball sub, tofurkey reuben, tofu sandwich, coleslaw, potato salad. Can make vegan sheet cakes for catering orders.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1990 K St NW",
+  "postalCode": "20006",
+  "phone": "tel:202-331-3344",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.901927,-77.044762&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.901927,-77.044762&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Godfather's Burger Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale, trendy lounge playing acid jazz. All burgers can be substituted with vegetarian patties or portobello mushrooms. Most beers are locally crafted as well as California wines. Supports local farmers and locally raised produce.",
+  "priceRange": "Moderate",
+  "streetAddress": "1500 El Camino Real",
+  "postalCode": "94002",
+  "phone": "tel:650-637-9257",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-9:00pm, Tue-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/godfathersburgerlounge",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.516276,-122.271106&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.516276,-122.271106&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

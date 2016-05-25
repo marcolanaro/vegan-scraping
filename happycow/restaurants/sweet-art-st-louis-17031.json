@@ -1,0 +1,15 @@
+{
+  "title": "Sweet Art",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Bakery\n                                    ",
+  "description": "Bakery specializing in cupcakes, cookies, cakes and vegan brownies. The lunch menu is mostly vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "2203 S 39th St",
+  "postalCode": "63110",
+  "phone": "tel:314-771-4278",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:00am-6:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.611720,-90.245900&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.611720,-90.245900&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

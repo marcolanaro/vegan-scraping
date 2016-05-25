@@ -1,0 +1,16 @@
+{
+  "title": "Klara's Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Raw, Western, Take-out\n                                    ",
+  "description": "Health food take away, opened Apr 2015. Offers all-vegetarian soups, salads, wraps, sandwiches, and raw cakes.",
+  "priceRange": "Moderate",
+  "streetAddress": "Universitätstrasse 17",
+  "postalCode": "8006",
+  "phone": "tel:0789204452",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:30am-6:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/klaraskitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.378810,8.547900&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.378810,8.547900&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

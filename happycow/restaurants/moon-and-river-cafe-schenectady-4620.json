@@ -1,0 +1,17 @@
+{
+  "title": "Moon and River Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffeehouse with a menu that's vegetarian friendly. Has tempeh and tofu dishes, sandwiches, and salads. Vegans to specify. Events on many nights.",
+  "priceRange": "Moderate",
+  "streetAddress": "115 S Ferry St",
+  "postalCode": "12305",
+  "phone": "tel:518-382-1938",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.815650,-73.945940&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.815650,-73.945940&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

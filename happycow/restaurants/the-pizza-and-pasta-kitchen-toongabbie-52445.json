@@ -1,0 +1,18 @@
+{
+  "title": "The Pizza and Pasta Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Italian, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Typical neighborhood Italian food and pizzeria. Keeps on hand vegan cheese and faux ham for topping. Has gluten free. Menu online.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shop 5, 4-6 Claudia Rd",
+  "postalCode": "2146",
+  "phone": "tel:02-96366062",
+  "venueHours": "\n                                                                                                        Mon-Thu 4:30pm-9:00pm, Fri-Sat 4:30pm-10:00pm, Sun 4:30pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.794793,150.934398&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.794793,150.934398&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

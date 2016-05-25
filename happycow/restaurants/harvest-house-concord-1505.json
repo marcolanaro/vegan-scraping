@@ -1,0 +1,15 @@
+{
+  "title": "Harvest House",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural food store. Staff is well educated.",
+  "streetAddress": "2395 Monument Blvd",
+  "postalCode": "94520",
+  "phone": "tel:925-676-2305",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-8:00pm, Sat 9:00am-7:00pm, Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.959380,-122.035020&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.959380,-122.035020&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "El Patron",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This Mexican food restaurant and cantina has a lacto vegetarian section and has tofu. Apr 2014 reported no longer offering brown rice. Vegans need to ask to omit dairy, etc.",
+  "priceRange": "Moderate",
+  "streetAddress": "5545 Reseda Blvd",
+  "postalCode": "91356",
+  "phone": "tel:818-643-3033",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-11:00pm, Fri 11:00am-2:00am, Sat 11:00am-12:00am, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ElPatronMexicanRestaurantTarzana",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.171029,-118.536646&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.171029,-118.536646&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Karl's Cuisine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pleasant environment with view of boats passing by. Has some vegetarian as well gluten-free choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "447 W Portage",
+  "postalCode": "49783",
+  "phone": "tel:906-253-1900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Karls-Cuisine-Cafe-Winery/163234720378439",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.501885,-84.353265&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.501885,-84.353265&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

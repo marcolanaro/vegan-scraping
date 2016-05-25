@@ -1,0 +1,18 @@
+{
+  "title": "Atomix Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan items offered include vegan cream cheese, seitan, muffins/bread, soup, chili, sandwiches.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1957 W Chicago Ave",
+  "postalCode": "60622",
+  "phone": "tel:312-733-2701",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-9:00pm, Sat-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Atomix-Coffee-Shop-83455341497",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.895635,-87.676836&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.895635,-87.676836&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

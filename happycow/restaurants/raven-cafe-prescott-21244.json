@@ -1,0 +1,18 @@
+{
+  "title": "Raven Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarian include a veggie burger, mushroom sandwich, falafel pita, taco salad, portebello tostada, while tofu sandwich and paprika fries. Uses vegetables that are grown locally. Movies on Monday nights. Live music.",
+  "priceRange": "Moderate",
+  "streetAddress": "142 N Cortez",
+  "postalCode": "86301",
+  "phone": "tel:928-717-0009",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.543573,-112.469089&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.543573,-112.469089&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

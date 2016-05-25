@@ -1,0 +1,20 @@
+{
+  "title": "Lunchbox Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Delivery, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located in a small drive-through stand, this place is open to accommodate special requests. Sandwiches are sold by the half (palm of the hand sized), and soups are sold in cups. Has a sandwich with avocado, hummus, sprouts, and tomato on your choice of bread; a vegetarian sandwich with cream cheese; and soup of the day is sometimes vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "409 N Ruby",
+  "postalCode": "98926",
+  "phone": "tel:509-933-3332",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Lunchbox-Cafe/153461308142324",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.996061,-120.544598&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.996061,-120.544598&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

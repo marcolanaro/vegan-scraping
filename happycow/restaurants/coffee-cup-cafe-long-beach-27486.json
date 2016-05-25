@@ -1,0 +1,18 @@
+{
+  "title": "Coffee Cup Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Open for breakfast, brunch, and lunch, this diner-vibe cafe offers a breakfast burrito with soyrizo, beans, and rice or potatoes - comes with a variety of salsas. Could request for vegan substitutions.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3734 E 4th St",
+  "postalCode": "90814",
+  "phone": "tel:562-433-3292",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-2:00pm, Sat-Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Coffee-Cup-Cafe/163661484005",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.771554,-118.148359&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.771554,-118.148359&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

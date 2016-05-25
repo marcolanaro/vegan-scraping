@@ -1,0 +1,17 @@
+{
+  "title": "Tea Shrine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Fast food, Take-out\n                                    ",
+  "description": "Vegetarian cafe serving daily lunch special, dim sim, dumplings, spring rolls, sandwiches with mock meats, tea and beverages.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shop 6, 113 Todd Street",
+  "postalCode": "NT 0870",
+  "phone": "tel:61-8-89524339",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-23.703720,133.881150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-23.703720,133.881150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

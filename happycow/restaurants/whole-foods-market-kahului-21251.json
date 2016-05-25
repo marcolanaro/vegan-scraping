@@ -1,0 +1,16 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of chain of natural foods supermarket. Offers natural grocery, vitamins and supplements, juice bar, deli and hot foods, fresh produce including organic, environmentally friendly cleaning and body products, and much more.",
+  "streetAddress": "70 Kaahumanu Ave",
+  "postalCode": "96732",
+  "phone": "tel:808-872-3310",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.890688,-156.469283&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.890688,-156.469283&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

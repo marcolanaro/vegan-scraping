@@ -1,0 +1,19 @@
+{
+  "title": "Roxanne's Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Raw\n                                    ",
+  "description": "Little vegetarian cafe set in the garden courtyard of the Smiling Dog Yoga studio, near downtown San Luis Obispo. Offers a short, changing lunch menu with vegetarian, vegan, and raw dishes: salads, soups, a dessert. Free Wi-Fi. Its owner, Roxanne, took over the cafe in January 2011. Entrance is on Archer St, behind House of Bread.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1227 Archer St",
+  "postalCode": "93401",
+  "phone": "tel:805-549-0878",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm, Sat 10:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.274501,-120.669019&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.274501,-120.669019&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

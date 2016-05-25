@@ -1,0 +1,20 @@
+{
+  "title": "Cafe Reetro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Buffet, Salad bar, Juice bar, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Relaxed and friendly atmosphere. Serves all freshly made-in-house organic food. Always has vegan dishes, including desserts and green smoothies. Holds cooking classes. Open in the evenings on request.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Nygatan 23",
+  "postalCode": "63220",
+  "phone": "tel:016130513",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:00am-5:00pm, Sat 11:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ReetroCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.370495,16.509887&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.370495,16.509887&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

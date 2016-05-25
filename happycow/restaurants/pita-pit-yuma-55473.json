@@ -1,0 +1,19 @@
+{
+  "title": "Pita Pit",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fast food franchise offering pita pocket sandwiches. Fillings include fresh veggies, hummus, a black bean burger, and falafel. Uses dairy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1525 Tuma Palms Pkwy Ste 102",
+  "postalCode": "85364",
+  "phone": "tel:928-783-5712",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 6:00am-10:00pm, Fri-Sat 6:00am-3:00am, Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.699811,-114.601014&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.699811,-114.601014&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

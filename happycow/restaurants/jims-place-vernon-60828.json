@@ -1,0 +1,19 @@
+{
+  "title": "Jim's Place",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Long established pizzeria. Began offering Daiya vegan cheese in 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "1600 32nd St",
+  "postalCode": "V1T 5K5",
+  "phone": "tel:250-549-3700",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-12:00am, Fri-Sat 11:00am-1:00am, Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/jimsplacepizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.253354,-119.274002&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.253354,-119.274002&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

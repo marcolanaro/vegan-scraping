@@ -1,0 +1,19 @@
+{
+  "title": "Funky Pies",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Fast food, Delivery, Take-out, Catering\n                                    ",
+  "description": "Small cafe serving a variety of chunky pies in addition to cupcakes, carrot cake, chocolate cake, and banana bread - all made on the premises. The pie fillings are also available as a \"pie-tato,\" which means the pie filling is served in a jacket potato. Organic fairtrade coffee served with Bonsoy, plus organic juice, tea. Desserts and a selection of processed vegan food items such as soy condensed milk available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Shop 2, 144-148 Glenayr Ave, Bondi Beach",
+  "postalCode": "2026",
+  "phone": "tel:+61-0420415164",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-8:30pm, Sat-Sun 11:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.888410,151.271300&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.888410,151.271300&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

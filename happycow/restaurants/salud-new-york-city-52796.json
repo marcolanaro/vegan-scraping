@@ -1,0 +1,18 @@
+{
+  "title": "Salud",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Organic, Juice bar, Take-out, Latin, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small shop offering a Latin take on organic with light meals, juices, smoothies. Variety of non-dairy milks such as rice, hemp, oat, and soy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "107 Thompson St Frnt B",
+  "postalCode": "10012",
+  "phone": "tel:646-398-8615",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-7:00pm, Sat 10:00am-7:00pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.725957,-74.001789&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.725957,-74.001789&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

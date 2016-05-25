@@ -1,0 +1,18 @@
+{
+  "title": "Golden Teak",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai dishes, some can be requested as vegetarian or vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "1620 S Mildred St Ste B",
+  "postalCode": "98465",
+  "phone": "tel:253-565-1921",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:00am-9:00pm, Sat-Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.245769,-122.526857&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.245769,-122.526857&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

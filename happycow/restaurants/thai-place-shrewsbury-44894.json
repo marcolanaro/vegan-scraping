@@ -1,0 +1,18 @@
+{
+  "title": "Thai Place",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai food restaurant with a few locations. Menu includes a vegetable/vegetarian section. Specify if you are vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "50 Boston Turnpike Rd",
+  "postalCode": "01543",
+  "phone": "tel:508-425-3595",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-9:00pm, Thu-Fri 11:00am-10:00pm, Sat 11:30am-10:00pm, Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.271768,-71.752288&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.271768,-71.752288&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

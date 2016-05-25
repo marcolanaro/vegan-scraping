@@ -1,0 +1,15 @@
+{
+  "title": "The Sweet Spot",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Little bakery with a consistent offering of vegan baked goods. Accepts order for custom cakes, cupcakes, and cake pops.",
+  "streetAddress": "60 Railroad St",
+  "postalCode": "06776",
+  "phone": "tel:860-799-7170",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 8:00am-9:00pm, Fri-Sat 8:00am-10:00pm, Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.577893,-73.413182&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.577893,-73.413182&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

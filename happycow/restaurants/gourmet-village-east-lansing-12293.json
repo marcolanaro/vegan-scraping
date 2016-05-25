@@ -1,0 +1,17 @@
+{
+  "title": "Gourmet Village",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese food near Michigan State University. Meat-based menu but includes several vegetable dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "4790 Hagadorn Rd",
+  "postalCode": "48823",
+  "phone": "tel:517-333-6666",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-9:00pm, Fri-Sat 11:30am-10:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.720750,-84.462110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.720750,-84.462110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

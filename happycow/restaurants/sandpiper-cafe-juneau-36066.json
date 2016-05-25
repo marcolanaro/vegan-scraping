@@ -1,0 +1,17 @@
+{
+  "title": "Sandpiper Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has 2 specifically vegan dishes: vegan pecan french toast and tofu scramble.",
+  "priceRange": "Moderate",
+  "streetAddress": "429 W Willoughby Ave",
+  "postalCode": "99801",
+  "phone": "tel:907-586-3150",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=58.300911,-134.416226&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C58.300911,-134.416226&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

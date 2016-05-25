@@ -1,0 +1,13 @@
+{
+  "title": "The Treehouse",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic food shop providing local produce. Upstairs is a veggie friendly restaurant/cafe.",
+  "streetAddress": "Victoria House, Baker Street",
+  "postalCode": "SY23 2BJ",
+  "phone": "tel:01970-615791",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.415350,-4.083700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.415350,-4.083700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

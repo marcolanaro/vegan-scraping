@@ -1,0 +1,16 @@
+{
+  "title": "Hagabions Kafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Buffet, Swedish\n                                    ",
+  "description": "An outdoor/pub cafe which is part of a cinema. Tram Prinsgatan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Linnégatan 21, Göteborg",
+  "phone": "tel:031-123082",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:00pm-11:00pm, Fri 5:00pm-2:00am, Sat 1:00pm-2:00am, Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.696330,11.951330&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.696330,11.951330&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

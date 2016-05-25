@@ -1,0 +1,19 @@
+{
+  "title": "Honest Tom's Taco Shop",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little place offering a limited menu of tacos and burritos. Could ask to modify vegetarian to vegan, such as omitting dairy in the sweet potato burrito.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "261 S 44th St",
+  "postalCode": "19104",
+  "phone": "tel:215-620-1851",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-9:00pm, Sat 9:00am-9:00pm, Sun 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Honest-Toms-Taco-Shop/88341692048",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.953243,-75.210272&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.953243,-75.210272&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Amudam Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, International, Fast food, Take-out, Asian\n                                    ",
+  "description": "Vegetarian fast food restaurant opened Jun 2015 serving a few variety of ethnic cuisines such as Sri Lankan, South Indian, Chinese, Italian, and Mexican. Try the breakfast burrito or daily lunch special.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "87 N Clinton Ave",
+  "postalCode": "14604",
+  "phone": "tel:585-633-3047",
+  "venueHours": "\n                                                                                                        Mon-Wed 7:00am-5:00pm, Fri 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.158845,-77.607695&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.158845,-77.607695&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

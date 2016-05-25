@@ -1,0 +1,16 @@
+{
+  "title": "Hera Tea Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Tea bar with a variety of loose teas sourced around the world. Limited cafe service with some vegan, organic and gluten free options. Offers tea leaf readings and a variety of spa and alternative healing services. Take-out is available.",
+  "streetAddress": "5502 B 50 St",
+  "postalCode": "T7A1R8",
+  "phone": "tel:780-515-1892",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-3:00pm, Tue-Wed 11:00am-5:00pm, Thu 11:00am-7:00pm, Fri 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.228688,-114.976645&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.228688,-114.976645&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

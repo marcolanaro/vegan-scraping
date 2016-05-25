@@ -1,0 +1,15 @@
+{
+  "title": "Delicious Vegetarian Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Asian\n                                    ",
+  "description": "Winnipeg vegan restaurant serving Chinese food. Relaxed, casual atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "1467 Pembina Hgwy",
+  "postalCode": "R3T 2C5",
+  "phone": "tel:204-477-1530",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.836150,-97.150840&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.836150,-97.150840&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

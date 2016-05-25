@@ -1,0 +1,16 @@
+{
+  "title": "The Nourishing Vegan",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Vegan private chef hosting cooking classes in a home kitchen in Harlem or travel to you. Also offers private supper club dining.",
+  "streetAddress": "W 139th St",
+  "postalCode": "10037",
+  "phone": "tel:678-508-0731",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.816257,-73.937395&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.816257,-73.937395&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

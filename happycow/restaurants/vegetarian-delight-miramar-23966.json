@@ -1,0 +1,17 @@
+{
+  "title": "Vegetarian Delight",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Juice bar, Take-out, Caribbean\n                                    ",
+  "description": "Family-operated place offering a changing menu written on a chalkboard. Some dishes are made with soy products.",
+  "priceRange": "Moderate",
+  "streetAddress": "6060 Miramar Pkwy",
+  "postalCode": "33023",
+  "phone": "tel:954-241-7402",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-9:30pm, Sat 8:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.984487,-80.207628&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.984487,-80.207628&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

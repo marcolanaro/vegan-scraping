@@ -1,0 +1,14 @@
+{
+  "title": "Castro Farmers' Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers' market.",
+  "streetAddress": "Noe Street",
+  "postalCode": "94114",
+  "phone": "tel:925-825-9090",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 4:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/CastroFarmersMarket",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.764285,-122.433096&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.764285,-122.433096&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

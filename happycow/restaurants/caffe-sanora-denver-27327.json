@@ -1,0 +1,18 @@
+{
+  "title": "Caffe Sanora",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop that sometimes makes vegan scones, and there are vegetarian burritos and soups. Baker is open to suggestions. Dog friendly. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "1201 E Colfax Ave",
+  "postalCode": "80218",
+  "phone": "tel:303-860-7511",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:00am-7:00pm, Sat-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.740386,-104.971787&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.740386,-104.971787&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Basil",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai food restaurant with several locations. Offers an extensive list of vegetarian choices and will modify most dishes on request. Food is well-presentation, and the setting is contemporary.",
+  "priceRange": "Moderate",
+  "streetAddress": "460 King St",
+  "postalCode": "29403",
+  "phone": "tel:843-724-3490",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-2:30pm, Mon-Thu 5:00pm-10:30pm, Fri-Sat 5:00pm-11:00pm, Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.789504,-79.938504&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.789504,-79.938504&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

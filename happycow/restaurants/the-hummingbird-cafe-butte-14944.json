@@ -1,0 +1,18 @@
+{
+  "title": "The Hummingbird Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A veggie-friendly cafe that offers vegan choices in sandwiches, salads, soup, baked goods. Has fresh juices and smoothies, soy and almond milk for drinks, vegan mayo. Displays local art on the walls.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "605 W Park",
+  "postalCode": "59701",
+  "phone": "tel:406-723-2044",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-4:00pm, Sat 9:00am-4:00pm, Sun 7:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.012340,-112.544680&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.012340,-112.544680&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

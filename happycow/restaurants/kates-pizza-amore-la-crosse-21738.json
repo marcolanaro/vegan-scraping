@@ -1,0 +1,15 @@
+{
+  "title": "Kate's Pizza Amore",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. You can customize your pizza to be vegetarian or vegan. Soy cheese no longer available. Vegans to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "212 Main St",
+  "postalCode": "54601",
+  "phone": "tel:608-782-6673",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.812916,-91.253436&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.812916,-91.253436&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

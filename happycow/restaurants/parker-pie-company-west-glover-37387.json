@@ -1,0 +1,21 @@
+{
+  "title": "Parker Pie Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan choices are a marinated tempeh sandwich with no cheese and tempeh as a pizza topping. Jay Peak is nearby.",
+  "priceRange": "Moderate",
+  "streetAddress": "161 County Rd",
+  "postalCode": "05875",
+  "phone": "tel:802-525-3366",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ParkerPieCo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.728714,-72.227249&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.728714,-72.227249&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

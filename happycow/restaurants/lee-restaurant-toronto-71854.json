@@ -1,0 +1,17 @@
+{
+  "title": "Lee Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale restaurant offering cocktails and sharing plates. A few vegan options (including its signature slaw), but kitchen is accommodating to making vegan substitutions.",
+  "priceRange": "Expensive",
+  "streetAddress": "601 King St W",
+  "phone": "tel:416-504-7867",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 5:30pm-10:30pm, Thu-Sat 5:30pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.644253,-79.400508&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.644253,-79.400508&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

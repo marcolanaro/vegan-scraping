@@ -1,0 +1,17 @@
+{
+  "title": "The Treehouse Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Beer/Wine, Take-out, Welsh, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic restaurant cafe upstairs from the organic shop serving morning coffee and cake, lunch, and afternoon tea. Has many vegetarian and vegan dishes. Emphasis is on local foods. Caters for evening functions.",
+  "priceRange": "Moderate",
+  "streetAddress": "Victoria House, Baker Street",
+  "postalCode": "SY23 2BJ",
+  "phone": "tel:01970-615791",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.415340,-4.083900&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.415340,-4.083900&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

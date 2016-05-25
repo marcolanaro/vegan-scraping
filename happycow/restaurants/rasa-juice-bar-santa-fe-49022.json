@@ -1,0 +1,19 @@
+{
+  "title": "Rasa Juice Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Raw, Juice bar, Take-out, Ayurvedic\n                                    ",
+  "description": "This vegan (except for honey) cafe adjoins a yoga studio and offers cold pressed juices, vegan, and raw foods made with organic ingredients. Also offers detox programs, Ayurvedic herbs, and consultation. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "815 Early St",
+  "postalCode": "87505",
+  "phone": "tel:505-989-1288",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-5:00pm, Fri 9:00am-7:30pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/RASA-Juice-Bar-Ayurveda/154974477860927",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.677896,-105.952284&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.677896,-105.952284&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

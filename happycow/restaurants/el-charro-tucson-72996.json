@@ -1,0 +1,18 @@
+{
+  "title": "El Charro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu has a vegan section called \"Viva Vegan\" which includes a burrito/bowl, tamales, enchiladas, and tacos all made with veggies, beans, and sauces that are vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "6910 E Sunrise ",
+  "postalCode": "85750",
+  "phone": "tel:520-514-9912",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.307835,-110.844927&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.307835,-110.844927&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

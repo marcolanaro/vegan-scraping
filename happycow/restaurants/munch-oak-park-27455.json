@@ -1,0 +1,15 @@
+{
+  "title": "Munch",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American\n                                    ",
+  "description": "Vegan and vegetarian food restaurant. Offers weekend brunch til 2pm. Has gluten free choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "104 N Marion St",
+  "postalCode": "60302",
+  "phone": "tel:708-848-4226",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-8:00pm, Sat 10:00am-9:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.887820,-87.802430&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.887820,-87.802430&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

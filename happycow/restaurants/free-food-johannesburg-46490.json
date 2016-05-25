@@ -1,0 +1,18 @@
+{
+  "title": "Free Food",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Take-out\n                                    ",
+  "description": "Little vegan restaurant run by long-time chef. Food is soy-free, gluten-free, and without additives or preservatives. The restaurant has a communal table, and the dishes vary regularly. Try the vegan ice cream. Its brand of ready-to-eat meals (wraps, bean burger patties, etc) is sold in supermarkets around South Africa.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Shop 5b Reithmere, Delta Street, Birnam",
+  "postalCode": "2196",
+  "phone": "tel:0878027190",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-5:30pm, Sat 8:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/freefoodjhb",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.129699,28.067861&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.129699,28.067861&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

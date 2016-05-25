@@ -1,0 +1,19 @@
+{
+  "title": "The Veggie Grill",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Fast food, Beer/Wine, Take-out, Catering\n                                    ",
+  "description": "Casual all-vegan cafe chain, this one opened Dec 2014. Offers a variety of veggie burgers and sandwiches, hot plates, salads, sweet potato fries, kids menu, and desserts. Parking on street or behind the establishment.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "200 S Lake Ave",
+  "postalCode": "91107",
+  "phone": "tel:626-535-9561",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/veggiegrill",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.142375,-118.131828&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.142375,-118.131828&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

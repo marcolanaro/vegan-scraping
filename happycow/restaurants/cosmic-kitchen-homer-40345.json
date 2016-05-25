@@ -1,0 +1,19 @@
+{
+  "title": "Cosmic Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual place with quick service. Has several vegetarian choices like lunch gardenburger and falafel sandwich - vegans to specify(no cheese, yogurt, etc.).",
+  "priceRange": "Moderate",
+  "streetAddress": "510 E Pioneer Ave",
+  "postalCode": "99603",
+  "phone": "tel:907-235-6355",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cosmickitchenalaska",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.647580,-151.533054&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.647580,-151.533054&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

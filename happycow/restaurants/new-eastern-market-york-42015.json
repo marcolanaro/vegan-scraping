@@ -1,0 +1,13 @@
+{
+  "title": "New Eastern Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Farmers market in East York. Vendors sell fresh produce as well as prepared foods, like Maggie's booth which sells Greek pastries and salads.",
+  "streetAddress": "201 Memory Ln",
+  "postalCode": "17406",
+  "phone": "tel:717-755-5811",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Fri 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.977887,-76.680451&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.977887,-76.680451&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

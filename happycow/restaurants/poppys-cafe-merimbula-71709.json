@@ -1,0 +1,19 @@
+{
+  "title": "Poppy's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Take-out, Australian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Daytime cafe with courtyard and Wi-Fi. Menu has 2 vegan choices: a breakfast plate and a lunch roast vegetable salad. Has soymilk for coffee & drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shop 15/1 Alice St",
+  "phone": "tel:0264951110",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafepoppy",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-36.888474,149.911262&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-36.888474,149.911262&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

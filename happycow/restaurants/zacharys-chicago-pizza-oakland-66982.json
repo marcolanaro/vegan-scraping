@@ -1,0 +1,19 @@
+{
+  "title": "Zachary's Chicago Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bay area pizzeria with multiple locations. Staff is familiar with what is/isn't vegan. Could get vegan deep dish pizza here.",
+  "priceRange": "Moderate",
+  "streetAddress": "5801 College Ave",
+  "postalCode": "94618",
+  "phone": "tel:510-655-6385",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-10:30pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PizzaZacharys",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.846264,-122.252101&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.846264,-122.252101&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

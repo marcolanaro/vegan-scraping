@@ -1,0 +1,15 @@
+{
+  "title": "Birchwood Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Features local and sustainable food. Has veg options. Popular for breakfast and brunch.",
+  "priceRange": "Moderate",
+  "streetAddress": "3311 E 25th St",
+  "postalCode": "55406",
+  "phone": "tel:612-722-4474",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.957220,-93.223400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.957220,-93.223400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

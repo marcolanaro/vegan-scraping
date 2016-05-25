@@ -1,0 +1,18 @@
+{
+  "title": "Bakers Guild Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Organic, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery and cafe in downtown. Offers a small breakfast menu plus soups, salads, sandwiches, and pizza all featuring its self-produced sprouted grain bread. Vegans could get the sprouted chickpea hummus, black bean burger, sprouted wheat salad, Thai salad with peanut dressing, and usually the soup du jour. Specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "225 Center St",
+  "postalCode": "17815",
+  "phone": "tel:570-784-2271",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:00am-4:00pm, Thu-Fri 8:00am-5:00pm, Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/bakersguildcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.002741,-76.455969&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.002741,-76.455969&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

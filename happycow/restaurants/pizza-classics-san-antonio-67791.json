@@ -1,0 +1,19 @@
+{
+  "title": "Pizza Classics",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers different brands of vegan cheese for vegan pizzas, plus a variety of veggie toppings are available. Gluten free crust is available. Dine in, take-out or delivery.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3440 N St Mary's St",
+  "postalCode": "78215",
+  "phone": "tel:210-225-3355",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:30am-1:30am, Fri-Sat 10:30am-2:30am, Sun 10:30am-1:30am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.456449,-98.479183&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.456449,-98.479183&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

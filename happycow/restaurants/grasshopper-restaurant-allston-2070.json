@@ -1,0 +1,17 @@
+{
+  "title": "Grasshopper Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out, Asian\n                                    ",
+  "description": "Offers an extensive Asian vegetarian food menu which includes vegetables, noodles, tofu, and mockmeat dishes. Has brown rice.",
+  "priceRange": "Moderate",
+  "streetAddress": "1 N Beacon St",
+  "postalCode": "02134",
+  "phone": "tel:617-254-8883",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.353600,-71.137700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.353600,-71.137700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Farmer's Market - Melrose Place",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers' market.",
+  "streetAddress": "Melrose Place",
+  "postalCode": "90069",
+  "phone": "tel:818-591-8161",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Melrose-Place-Farmers-Market/207773972569712",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.083621,-118.374222&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.083621,-118.374222&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

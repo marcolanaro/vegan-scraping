@@ -1,0 +1,15 @@
+{
+  "title": "Greenwich Local Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small natural and organic food store selling locally grown fruits and vegetables and products in addition to vitamins, supplements, and more.",
+  "streetAddress": "88 Main St",
+  "postalCode": "12834",
+  "phone": "tel:518-692-2103",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-7:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.089550,-73.498750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.089550,-73.498750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

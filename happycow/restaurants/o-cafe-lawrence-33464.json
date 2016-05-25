@@ -1,0 +1,18 @@
+{
+  "title": "O Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Take-out, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Authentic Korean cuisine. All vegetarian items can be made vegan upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "1530 W 6th St, Unit E ",
+  "postalCode": "66044",
+  "phone": "tel:785-312-9211",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:30pm, 5:00pm-9:00pm, Sat 11:00am-9:00pm, Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.973449,-95.254002&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.973449,-95.254002&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

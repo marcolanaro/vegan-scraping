@@ -1,0 +1,15 @@
+{
+  "title": "Cosmic Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Indian, Beer/Wine, Pakistani\n                                    ",
+  "description": "Restaurant is adorned with Eastern religious icons and cosmic landscapes both inside and out. Will accommodate vegans upon request. Hosts music, yoga, dance, and poetry events.",
+  "priceRange": "Moderate",
+  "streetAddress": "2912 Oak Lawn Ave",
+  "postalCode": "75219",
+  "phone": "tel:214-521-6157",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:30pm, Fri-Sat 11:00am-11:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.807470,-96.810240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.807470,-96.810240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

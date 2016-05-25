@@ -1,0 +1,17 @@
+{
+  "title": "StreetFood Asia",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Japanese, Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This restaurant, with a modern ambiance, offers a variety of Asian dishes and tapas. All items made to order so if you tell them you are a vegan or vegetarian they will use vegetable broth, tofu and other options. Helpful staff.",
+  "priceRange": "Moderate",
+  "streetAddress": "3422 Central SE",
+  "postalCode": "87106",
+  "phone": "tel:505-260-0088",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.079684,-106.605997&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.079684,-106.605997&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

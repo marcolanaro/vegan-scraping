@@ -1,0 +1,16 @@
+{
+  "title": "Dharma Garden Veggie Deli",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Vietnamese\n                                    ",
+  "description": "Vegetarian Vietnamese cafe offering banh mi, pho, salads, and stir-frys with mockmeat.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3195 Kingsway",
+  "phone": "tel:604-283-8168",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:30am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.235233,-123.037850&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.235233,-123.037850&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Kokila's Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Take-out\n                                    ",
+  "description": "Indian kitchen making roti, chaat, and Gujarati Indian cuisine. Relocated to San Jose Aug 2010 to San Jose; previously in Cupertino.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1427 Branham Ln",
+  "postalCode": "95118",
+  "phone": "tel:408-978-3477",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-2:30pm, 5:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.259085,-121.891065&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.259085,-121.891065&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

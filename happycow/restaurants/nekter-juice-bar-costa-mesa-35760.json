@@ -1,0 +1,14 @@
+{
+  "title": "Nektar Juice Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice bar with multiple locations. Offers made-to-order juices and smoothies plus acai bowls and a small grab-n-go fridge case.",
+  "streetAddress": "474 E 17th St",
+  "postalCode": "92627",
+  "phone": "tel:949-642-4473",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat-Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/nekterjuicebar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.629176,-117.909367&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.629176,-117.909367&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

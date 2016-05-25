@@ -1,0 +1,18 @@
+{
+  "title": "sweetgreen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Salad restaurant. Could build your own salad; has tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "2905 District Ave",
+  "postalCode": "22031",
+  "phone": "tel:703-992-7892",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sweetgreen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.873305,-77.229016&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.873305,-77.229016&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

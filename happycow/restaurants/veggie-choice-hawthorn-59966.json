@@ -1,0 +1,18 @@
+{
+  "title": "Veggie Choice",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Italian, Fast food, Salad bar, Delivery, Take-out\n                                    ",
+  "description": "A vegetarian restaurant serving pizza  and pasta along with chips, wedges, and garlic bread. Has gluten-free and vegan (not labeled) options.  ",
+  "priceRange": "Moderate",
+  "streetAddress": "580 Burwood Rd",
+  "postalCode": "3122",
+  "phone": "tel:03-98196887",
+  "venueHours": "\n                                                                                                        Mon-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.823694,145.044341&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.823694,145.044341&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

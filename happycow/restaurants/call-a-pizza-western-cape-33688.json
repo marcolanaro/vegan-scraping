@@ -1,0 +1,15 @@
+{
+  "title": "Call-A-Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Large pizza menu - ask for tofu instead of cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "57 Regent Rd, Sea Point, Cape Town",
+  "postalCode": "8005",
+  "phone": "tel:021-4340818",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.920155,18.384686&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.920155,18.384686&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Sushi Factory",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers several vegan options and a vegetable combo platter. Complimentary hot tea.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "801 University City Blvd",
+  "postalCode": "24060",
+  "phone": "tel:540-951-2380",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.233740,-80.426150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.233740,-80.426150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

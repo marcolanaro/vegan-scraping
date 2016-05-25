@@ -1,0 +1,18 @@
+{
+  "title": "Canal House Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, International, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This cafe serves fresh food in a charming old stone house from the 1820's. They have a constantly changing menu that offers several vegetarian choices. They serve organic ice cream and organic coffee. The atmosphere is friendly, casual, and outdoor dining is available on the newly constructed patio. Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "1226 W Washington St",
+  "postalCode": "25425",
+  "phone": "tel:304-535-2880",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-9:00pm, Wed-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.325871,-77.748492&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.325871,-77.748492&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Mayuri Indian Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Southern Indian cuisine. Full menu plus lunch buffet. Always a selection of vegetarian items, including vegan. Staff is knowledgeable about vegan needs - just ask.",
+  "priceRange": "Moderate",
+  "streetAddress": "1108 S Magnolia Dr",
+  "postalCode": "32301",
+  "phone": "tel:850-402-9993",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-2:30pm, Mon-Thu 5:30pm-9:30pm, Fri-Sat 5:30pm-10:00pm, Sat-Sun 11:30am-3:00pm, Sun 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.434255,-84.262344&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.434255,-84.262344&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

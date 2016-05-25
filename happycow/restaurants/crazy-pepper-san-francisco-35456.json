@@ -1,0 +1,18 @@
+{
+  "title": "Crazy Pepper",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Delivery, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese food menu that's meat-heavy but has mock meat alternatives as well as some tofu dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2257 San Jose Ave",
+  "postalCode": "94112",
+  "phone": "tel:415-337-1888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.720909,-122.446323&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.720909,-122.446323&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Front Street Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu is plant based unless otherwise noted on the menu. Has gluten free options. Opened in fall 2015 a cafe/juice bar and restaurant. Offers New American cuisine with an international influence. Dining menu begins 8am.",
+  "priceRange": "Moderate",
+  "streetAddress": "1253 N Front St",
+  "postalCode": "19122",
+  "phone": "tel:215-515-3073",
+  "venueHours": "\n                                                                                                        Mon-Thu 6:00am-12:00am, Fri-Sat 6:00am-2:00am, Sun 6:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/frontstcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.970230,-75.135816&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.970230,-75.135816&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

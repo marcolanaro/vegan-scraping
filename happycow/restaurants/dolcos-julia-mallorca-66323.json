@@ -1,0 +1,20 @@
+{
+  "title": "Dolcos Julia",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Fast food, Beer/Wine, Delivery, Take-out, Bakery, Catering, Spanish\n                                    ",
+  "description": "A 100% vegan bakery that also serves pastries, pizza, bread, tea and more. Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Carrer d'alfons el Magnanim, 39",
+  "postalCode": "07004",
+  "phone": "tel:692728903",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-8:00pm, Fri-Sat 9:00am-9:30pm, Sun 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Dulcesjulia",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.587792,2.652912&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.587792,2.652912&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

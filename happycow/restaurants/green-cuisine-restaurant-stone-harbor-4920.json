@@ -1,0 +1,17 @@
+{
+  "title": "Green Cuisine Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Macrobiotic, Organic, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lunch and dinner. Seasonal opening: Mother's Day until mid-Sept and open daily during summer.",
+  "priceRange": "Moderate",
+  "streetAddress": "302 96th St",
+  "postalCode": "08247",
+  "phone": "tel:609-368-1616",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.054690,-74.760590&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.054690,-74.760590&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

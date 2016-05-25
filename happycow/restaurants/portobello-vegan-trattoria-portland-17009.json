@@ -1,0 +1,19 @@
+{
+  "title": "Portobello Vegan Trattoria",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Italian, Organic, Beer/Wine\n                                    ",
+  "description": "Portland Italian restaurant serving all vegan food. Features a seasonal menu. Previously on SE 11th Ave, this location has a larger dining room and a full bar. No takeaways.",
+  "priceRange": "Moderate",
+  "streetAddress": "1125 SE Division St",
+  "postalCode": "97214",
+  "phone": "tel:503-754-5993",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.505125,-122.654038&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.505125,-122.654038&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

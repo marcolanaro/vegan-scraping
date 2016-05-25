@@ -1,0 +1,17 @@
+{
+  "title": "Qui Lu Cru",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Raw, Western\n                                    ",
+  "description": "Raw food restaurant in a quaint atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "1700 1st Ave",
+  "postalCode": "G1G 4C3",
+  "phone": "tel:581-3009278",
+  "venueHours": "\n                                                                                                        Tue-Fri 9:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.829666,-71.237074&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.829666,-71.237074&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

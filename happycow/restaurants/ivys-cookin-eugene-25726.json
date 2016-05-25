@@ -1,0 +1,14 @@
+{
+  "title": "Ivy's Cookin'",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "No store front. Cooks lacto-vegetarian meals for pickup or delivery with advance ordering. Has a veggie baskets delivery service.",
+  "streetAddress": "2135 Hayes St",
+  "postalCode": "97405",
+  "phone": "tel:541-%20485-4200",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.036573,-123.121235&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.036573,-123.121235&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Shouk",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Mediterranean, Take-out, Middle Eastern\n                                    ",
+  "description": "Casual, vegan Mediterranean cuisine eatery. Opened May 2016.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "655 K St NW",
+  "postalCode": "20001",
+  "phone": "tel:202-652-1464",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/shoukfood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.902949,-77.020981&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.902949,-77.020981&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

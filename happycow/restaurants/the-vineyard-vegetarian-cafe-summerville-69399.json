@@ -1,0 +1,15 @@
+{
+  "title": "The Vineyard Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Juice bar, Take-out\n                                    ",
+  "description": "Food is plant-based and dairy-free. Find soups, salads, sandwiches, sides, desserts, plus a juice and smoothie menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "9974 Commerce St",
+  "postalCode": "30747",
+  "phone": "tel:706-857-6087",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.479539,-85.348594&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.479539,-85.348594&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

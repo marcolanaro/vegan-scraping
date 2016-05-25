@@ -1,0 +1,17 @@
+{
+  "title": "Amy's Place",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Mediterranean, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A college-type diner offering some vegan choices like a seitan hummus eggplant wrap, stuffed grape leaves, pastries made in house, vegan mac n cheese, French toast, and a BLT.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3234 Main St",
+  "postalCode": "14214",
+  "phone": "tel:716-832-6666",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.952190,-78.824070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.952190,-78.824070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

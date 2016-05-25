@@ -1,0 +1,19 @@
+{
+  "title": "Prime",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale hotel restaurant that offers a variety of vegan cuisine with a complete menu of appetizers, mains, and desserts.",
+  "priceRange": "Expensive",
+  "streetAddress": "18 St Thomas St",
+  "postalCode": "M5S 3E7",
+  "phone": "tel:416-971-9666",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.668808,-79.390552&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.668808,-79.390552&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

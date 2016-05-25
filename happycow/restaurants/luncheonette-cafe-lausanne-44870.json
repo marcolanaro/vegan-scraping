@@ -1,0 +1,18 @@
+{
+  "title": "Luncheonette Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Organic, Western, Fast food, Juice bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small, zen atmosphere urban garden located on the top floor of Phyto Shop and Spa.. Specialties are salads, grilled wraps, and vegetable soup.Food is made-to-order so you could customize. Beverages include fresh fruit or vegetable juice, smoothies, bubble tea, organic iced tea, lemonade.",
+  "priceRange": "Expensive",
+  "streetAddress": "Rue Grand St Jean, 5, Place Pepinet",
+  "postalCode": "1003",
+  "phone": "tel:41-789125510",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/LuncheonetteCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.521214,6.631633&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.521214,6.631633&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

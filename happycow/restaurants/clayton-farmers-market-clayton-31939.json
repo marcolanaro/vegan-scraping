@@ -1,0 +1,14 @@
+{
+  "title": "Clayton Farmers' Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers' market.",
+  "streetAddress": "Diablo St",
+  "postalCode": "94517",
+  "phone": "tel:925-825-9090",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 8:00am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ClaytonMarket",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.940830,-121.935904&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.940830,-121.935904&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

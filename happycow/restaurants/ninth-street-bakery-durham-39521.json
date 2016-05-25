@@ -1,0 +1,19 @@
+{
+  "title": "Ninth Street Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery cafe. Menu has a vegan sandwich and sometimes offers vegan lunch specials, but no longer offering vegan weekend brunch or vegan dinners.",
+  "priceRange": "Moderate",
+  "streetAddress": "136 E Chapel Hill St",
+  "postalCode": "27701",
+  "phone": "tel:919-688-5606",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-5:00pm, Sat 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Ninthstbakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.996944,-78.903434&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.996944,-78.903434&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

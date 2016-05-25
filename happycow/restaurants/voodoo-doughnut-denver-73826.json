@@ -1,0 +1,16 @@
+{
+  "title": "Voodoo Doughnut",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Small chain of donut shops. Offers unusual flavors, even ones with meat, but also a selection of vegan donuts. Take away only.",
+  "streetAddress": "1520 E Colfax",
+  "postalCode": "80218",
+  "phone": "tel:303-597-3666",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Voodoo-Doughnut-Mile-High",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.739856,-104.969181&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.739856,-104.969181&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

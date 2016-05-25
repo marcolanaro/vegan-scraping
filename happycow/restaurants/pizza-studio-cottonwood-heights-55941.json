@@ -1,0 +1,17 @@
+{
+  "title": "Pizza Studio",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Assembly-line concept pizzeria chain. Choose your base (crusts are vegan except the gluten-free one), sauce, and veggie toppings. Staff then bakes your pizza and delivers it to your table. Has vegan cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "1961 E Fort Union",
+  "postalCode": "84121",
+  "phone": "tel:801-679-3485",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.624319,-111.835165&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.624319,-111.835165&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

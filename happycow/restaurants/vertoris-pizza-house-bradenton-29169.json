@@ -1,0 +1,19 @@
+{
+  "title": "Vertoris Pizza House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Italian, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Regular menu is meat-based but offers also a vegan list with build-your-own pizza alongside starters like bread rolls plus salads, pasta, and a lasagna with vegan cheese. Has gluten-free list as well.",
+  "priceRange": "Moderate",
+  "streetAddress": "6830 14th St W",
+  "postalCode": "34207",
+  "phone": "tel:941-751-0333",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.419155,-82.575533&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.419155,-82.575533&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

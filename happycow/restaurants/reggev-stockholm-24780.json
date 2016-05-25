@@ -1,0 +1,17 @@
+{
+  "title": "Reggev",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small hummus and espresso bar with vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ringvagen 145",
+  "phone": "tel:08-6405801",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-8:00pm, Sat-Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.308961,18.082042&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.308961,18.082042&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

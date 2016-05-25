@@ -1,0 +1,20 @@
+{
+  "title": "gd2go",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Fast food, Juice bar, Take-out, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A fast food eatery and coffee bar. Offers a large variety of veggie choices using fresh produce. No GMOs, white sugar, white flour, or canola.",
+  "priceRange": "Moderate",
+  "streetAddress": "496 Main St E",
+  "postalCode": "P1B 1B5",
+  "phone": "tel:705-223-4246",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-8:30pm, Sat 9:00am-5:00pm, Sun 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/healthyfoodfast",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.305082,-79.459319&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.305082,-79.459319&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

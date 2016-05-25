@@ -1,0 +1,17 @@
+{
+  "title": "Thai Garden",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This Thai restaurant has a vegetarian section on their menu. Vegans ask for no egg whites or fish sauce. Tofu is their only vegan protein offering. \r\n\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Bridge St",
+  "postalCode": "01060",
+  "phone": "tel:413-587-3386",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-10:00pm, Fri-Sat 11:30am-10:30pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.320650,-72.628548&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.320650,-72.628548&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

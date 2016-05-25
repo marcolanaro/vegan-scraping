@@ -1,0 +1,15 @@
+{
+  "title": "Luna Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain Mediterranean cuisine restaurant. Vegans could get hummus, spicy cilantro hummus, falafel wrap, stuffed grape leaves, veggie kabob, couscous salad, sweet potato fries, and multigrain flatbread. Could ask to omit cheese in a salad.",
+  "priceRange": "Moderate",
+  "streetAddress": "2275 Otay Lakes Rd",
+  "postalCode": "91915",
+  "phone": "tel:619-656-5862",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.647969,-116.967152&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.647969,-116.967152&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

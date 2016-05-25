@@ -1,0 +1,18 @@
+{
+  "title": "Pacific Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Take-out, Vietnamese\n                                    ",
+  "description": "A vegetarian Vietnamese restaurant serving mostly vegan food except for egg, such as fried rice which you could order without the egg.",
+  "priceRange": "Moderate",
+  "streetAddress": "18126 E Valley Hwy",
+  "postalCode": "98032",
+  "phone": "tel:425-251-0296",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:00am-8:00pm, Thu-Sat 11:00am-8:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Pacific-Garden-Vegan-Restaurant-1037100232975768",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.439428,-122.220669&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.439428,-122.220669&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

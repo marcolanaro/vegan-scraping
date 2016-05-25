@@ -1,0 +1,13 @@
+{
+  "title": "Echo Hill Country Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Store founded in 1981. Offers selections in vitamins, bulk grains and cereal, spices, baking needs, soy products, some vegan foods, natural soaps and toothpaste, and more.",
+  "streetAddress": "244 Dryville Rd",
+  "postalCode": "19522",
+  "phone": "tel:610-944-7358",
+  "venueHours": "\n                                                                                                        Mon-Wed 8:00am-5:00pm, Thu-Fri 8:00am-7:00pm, Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.464120,-75.786670&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.464120,-75.786670&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Zoe's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Mediterranean, Take-out, Middle Eastern, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain restaurant offering Mediterranean-influenced food. Has some veggie choices, including veggie kabobs, hummus and pita, salad, braised white bean, potato salad, roasted vegetable, and fresh fruit. Vegans to specify.\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "5413 Whittlesey Blvd",
+  "postalCode": "31909",
+  "phone": "tel:706-322-3553",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/zoeskitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.542408,-84.949563&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.542408,-84.949563&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

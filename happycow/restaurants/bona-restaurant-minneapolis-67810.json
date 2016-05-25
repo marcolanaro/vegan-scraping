@@ -1,0 +1,18 @@
+{
+  "title": "Bona Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Asian, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fast service Vietnamese restaurant catering to the college crowd. Menu ranges from common American-Chinese dishes thru traditional Vietnamese dishes. Has tofu and mock duck, a vegetable broth option for pho. Staff understand veg*n concept, though be sure to specify if vegan and say no fish sauce.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "815 Washington Ave SE",
+  "postalCode": "55414",
+  "phone": "tel:612-331-5011",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri 11:00am-10:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.973858,-93.226335&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.973858,-93.226335&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

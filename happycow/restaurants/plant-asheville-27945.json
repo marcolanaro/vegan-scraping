@@ -1,0 +1,19 @@
+{
+  "title": "Plant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Beer/Wine\n                                    ",
+  "description": "All-vegan restaurant in Asheville featuring local, seasonal, and organic scratch-made food from the earth. The multi-cultural menu includes raw, gluten-free, and house-made infused soda, bread, dessert, non-dairy ice cream and cheese. All beer and wine is also vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "165 Merrimon Ave",
+  "postalCode": "28801",
+  "phone": "tel:828-258-7500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:00pm-9:00pm, Fri-Sat 5:00pm-10:00pm, Sun 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Plant/102125983212959",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.604731,-82.552837&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.604731,-82.552837&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

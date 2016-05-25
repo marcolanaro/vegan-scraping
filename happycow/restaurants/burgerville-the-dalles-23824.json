@@ -1,0 +1,20 @@
+{
+  "title": "Burgerville",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pacific Northwest chain, which started in the 1960s, offers vegetarian choices on the menu that can be requested vegan by omitting cheese and mayo. Will work with special diet needs. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "118 W 3rd St",
+  "postalCode": "97058",
+  "phone": "tel:541-298-5753",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-10:00pm, Fri-Sat 7:00am-11:00pm, Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/burgerville",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.601873,-121.185683&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.601873,-121.185683&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

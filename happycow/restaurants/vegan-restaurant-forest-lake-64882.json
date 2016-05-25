@@ -1,0 +1,15 @@
+{
+  "title": "Vegan Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Western, Asian, Vietnamese\n                                    ",
+  "description": "Opened Nov 2015 a restaurant serving vegan Asian and western dishes. Complimentary drinks with your beverage.",
+  "priceRange": "Moderate",
+  "streetAddress": "200 Grand Ave",
+  "phone": "tel:0404456887",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-2:00pm, 5:30pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/VeganRestaurant4078",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.627182,152.967938&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.627182,152.967938&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

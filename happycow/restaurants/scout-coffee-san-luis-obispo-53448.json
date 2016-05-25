@@ -1,0 +1,13 @@
+{
+  "title": "Scout Coffee",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Trendy coffee shop. Has fresh made nut milk and a couple vegan baked goods.",
+  "streetAddress": "1130 Garden St",
+  "postalCode": "93401",
+  "phone": "tel:805-439-2175",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.278988,-120.662929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.278988,-120.662929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

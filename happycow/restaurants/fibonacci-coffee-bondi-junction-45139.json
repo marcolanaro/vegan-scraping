@@ -1,0 +1,19 @@
+{
+  "title": "Fibonacci Coffee",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Take-out, Australian, Kosher, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain coffee cafe, this one is a small station in the mall lobby. Offers kosher-certified food that's vegetarian with fish - pastries, bagels, salads. Has gluten free bread.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "520 Oxford Street",
+  "postalCode": "2022",
+  "phone": "tel:01300884165",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/FibonacciCoffee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.891423,151.251106&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.891423,151.251106&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

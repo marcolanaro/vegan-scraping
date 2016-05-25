@@ -1,0 +1,18 @@
+{
+  "title": "Rise Up Coffee",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A coffee shop with a drive-thru  Moderate pricing, fair trade coffee, organic foods, organic teas and fruit smoothies.",
+  "streetAddress": "529 Riverside Dr",
+  "postalCode": "21801",
+  "phone": "tel:410-219-1150",
+  "venueHours": "\n                                                                                                        Mon-Sat 6:00am-7:00pm, Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/riseupcoffee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.362971,-75.605474&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.362971,-75.605474&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

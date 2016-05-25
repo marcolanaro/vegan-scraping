@@ -1,0 +1,15 @@
+{
+  "title": "Veggie Heaven",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Take-out, Asian\n                                    ",
+  "description": "Vegan Chinese food restaurant. Extensive menu with many mockmeat dishes in addition to vegetable and tofu. Has natural juices and a range of vegan cake and desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "631 Valley Rd",
+  "postalCode": "07042",
+  "phone": "tel:973-783-1088",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.842480,-74.207830&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.842480,-74.207830&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

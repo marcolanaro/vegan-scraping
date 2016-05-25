@@ -1,0 +1,18 @@
+{
+  "title": "The Pony Expresso",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Bakery\n                                    ",
+  "description": "Coffee shop, bakery/cafe and gallery offering vegetarian and vegan options as well as some gluten-free choices. Located in downtown Dolores, CO. They also have a drive-thru.  Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "795 Railroad Ave",
+  "postalCode": "81323",
+  "phone": "tel:719-376-5445",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 6:00am-6:00pm, Thu-Fri 6:00am-6:00pm, Sat 7:00am-6:00pm, Sun 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/theponyexpresso",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.473847,-108.498383&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.473847,-108.498383&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

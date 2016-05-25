@@ -1,0 +1,17 @@
+{
+  "title": "Good Health Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Delivery, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers some vegetarian and vegan items like veggie burger, tofu club sandwich, soy chicken, bento box with tofu. The meats offered are fish and chicken.",
+  "priceRange": "Moderate",
+  "streetAddress": "1435 1st Ave Unit 1",
+  "postalCode": "10021",
+  "phone": "tel:212-517-9898",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.769566,-73.955114&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.769566,-73.955114&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

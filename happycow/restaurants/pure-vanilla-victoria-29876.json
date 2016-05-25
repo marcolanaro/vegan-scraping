@@ -1,0 +1,19 @@
+{
+  "title": "Pure Vanilla",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Take-out, Bakery, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This is a primarily vegetarian (with pescatarian/fish dishes) cafe and bakery. Offers some vegan choices in soups, salads, baked goods.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2590 Cadboro Bay Road",
+  "postalCode": "V8R 5H9",
+  "phone": "tel:250-592-2896",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.437951,-123.313022&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.437951,-123.313022&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Little Saigon",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tiny Vietnamese eatery. Has a vegetarian menu of which most of the items are vegan suitable.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2801 Arctic Ave",
+  "postalCode": "08401",
+  "phone": "tel:609-347-9119",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.356541,-74.447001&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.356541,-74.447001&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

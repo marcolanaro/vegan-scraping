@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Mustache",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan choices including a wrap, chili, scones, and drinks including white russian.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2313 N Milwaukee Ave",
+  "postalCode": "60647",
+  "phone": "tel:773-687-9063",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-2:00am, Sat 8:00am-3:00am, Sun 8:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Cafe-Mustache-121685237842441",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.923364,-87.697749&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.923364,-87.697749&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

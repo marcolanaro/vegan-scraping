@@ -1,0 +1,17 @@
+{
+  "title": "JivamukTea Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Cafe located inside the Jivamukti Yoga School is open to the public. Counter service with seating for over 50.",
+  "priceRange": "Moderate",
+  "streetAddress": "841 Broadway",
+  "postalCode": "10003",
+  "phone": "tel:212-353-0214",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.734740,-73.990880&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.734740,-73.990880&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

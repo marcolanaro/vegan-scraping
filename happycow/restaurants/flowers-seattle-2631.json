@@ -1,0 +1,15 @@
+{
+  "title": "Flowers",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Buffet, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Simple setup, self-serve style. Offers a lunch buffet that is all-vegan and includes dishes like curries, vegan mac n cheese, rice dishes, falafel.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4247 University Way NE",
+  "postalCode": "98105",
+  "phone": "tel:206-633-1903",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.659020,-122.312980&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.659020,-122.312980&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

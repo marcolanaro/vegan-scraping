@@ -1,0 +1,20 @@
+{
+  "title": "Zooza Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Organic, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee bar and health food cafe, opened spring 2014. Offers salads, sandwiches, smoothies, and organic pressed juices. Coffee is organic and fair trade.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3687 E Thousand Oaks Blvd",
+  "postalCode": "91362",
+  "phone": "tel:805-496-9669",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-8:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ZoozaCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.163927,-118.828357&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.163927,-118.828357&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Blaze Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Assembly line style franchise pizzeria. Could build your own wood-fired pizza with various veggies, then choose marinara or hot red sauce or white sauce. Has vegan cheese, at extra charge.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "611 C-9 O'Keefe Ave",
+  "postalCode": "70113",
+  "phone": "tel:504-208-1028",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:30am-10:00pm, Fri 10:30am-11:00pm, Sat-Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/BlazePizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.951066,-90.071532&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.951066,-90.071532&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

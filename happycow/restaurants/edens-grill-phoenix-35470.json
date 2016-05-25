@@ -1,0 +1,17 @@
+{
+  "title": "Eden's Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Beer/Wine, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Meat-based but does have veg choices like hummus, baba ganoush, falafel, house-made veggie patties, dolma, and tabbouleh.",
+  "priceRange": "Moderate",
+  "streetAddress": "13843 N Tatum Blvd",
+  "postalCode": "85032",
+  "phone": "tel:602-996-5149",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.612882,-111.977806&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.612882,-111.977806&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

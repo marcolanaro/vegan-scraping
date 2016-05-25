@@ -1,0 +1,18 @@
+{
+  "title": "Mazza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Beer/Wine, Take-out, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Finer dining with a marked vegan section of menu on website. Full bar. Also another location at 1515 South 1500 East, Salt Lake City.",
+  "priceRange": "Moderate",
+  "streetAddress": "912 E 900 S",
+  "postalCode": "84105",
+  "phone": "tel:801-484-9259",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.749615,-111.864909&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.749615,-111.864909&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

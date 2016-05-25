@@ -1,0 +1,13 @@
+{
+  "title": "Sunnyvale Farmers Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Find RawDaddy Foods here, a living food cuisine vendor(rawdaddyfoods.com).",
+  "streetAddress": "Murphy St and Washington St",
+  "postalCode": "94086",
+  "phone": "tel:510-745-7100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.375580,-122.030470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.375580,-122.030470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

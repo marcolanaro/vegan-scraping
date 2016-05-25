@@ -1,0 +1,17 @@
+{
+  "title": "Chen's Gourmet Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Delivery, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tiny restaurant with only 3 tables offering primarily take-out. Vegi chicken and shrimp is made in-house by the chef who has many years experience making vegi meats.",
+  "priceRange": "Moderate",
+  "streetAddress": "5117 MacArthur Blvd NW",
+  "postalCode": "20016",
+  "phone": "tel:202-364-8313",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-10:30pm, Sat 11:00am-10:00pm, Sun 11:00am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.925541,-77.101517&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.925541,-77.101517&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

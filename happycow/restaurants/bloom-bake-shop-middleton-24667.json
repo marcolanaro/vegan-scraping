@@ -1,0 +1,15 @@
+{
+  "title": "Bloom Bake Shop",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Small organic bakery offering usually 1-3 vegan options a day. Vegan and gluten-free cupcakes baked in separate area from those using dairy and eggs. Uses local and organic ingredients. Has Wi-Fi and seating.",
+  "streetAddress": "1834 Parmenter St",
+  "postalCode": "53562",
+  "phone": "tel:608-628-3398",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.095938,-89.511583&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.095938,-89.511583&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

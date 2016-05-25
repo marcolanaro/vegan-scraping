@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Med",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan choices include falafel, hummus, and a few other Mediterranean salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "420 E 3300 S",
+  "postalCode": "84106",
+  "phone": "tel:801-493-0100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.699520,-111.879530&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.699520,-111.879530&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

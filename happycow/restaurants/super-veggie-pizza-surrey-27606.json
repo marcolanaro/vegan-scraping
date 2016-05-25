@@ -1,0 +1,15 @@
+{
+  "title": "Super Veggie Pizza",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Take-out\n                                    ",
+  "description": "Pizzeria. Stocks Daiya cheese - call ahead to be sure it's in stock.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15299 68 Ave",
+  "postalCode": "V3S 2C1",
+  "phone": "tel:604-591-5533",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 2:00pm-11:00pm, Fri-Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.126376,-122.800935&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.126376,-122.800935&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

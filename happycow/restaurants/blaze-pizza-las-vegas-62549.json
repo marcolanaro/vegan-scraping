@@ -1,0 +1,17 @@
+{
+  "title": "Blaze Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Assembly line style chain pizzeria. Build your own pizza with various veggies, then choose marinara or hot red sauce or white sauce. Has vegan cheese, at extra charge.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6211 N Decatur Blvd",
+  "postalCode": "89130",
+  "phone": "tel:702-685-7709",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.271862,-115.207361&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.271862,-115.207361&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

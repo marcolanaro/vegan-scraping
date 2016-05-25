@@ -1,0 +1,15 @@
+{
+  "title": "7a Foods",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Little shop that sells a few vegan goodies such as chocolate, oatmeal cookies, candy.",
+  "streetAddress": "1045 State Rd",
+  "postalCode": "02568",
+  "phone": "tel:508-693-4636",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-5:00pm, Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.381914,-70.675023&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.381914,-70.675023&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

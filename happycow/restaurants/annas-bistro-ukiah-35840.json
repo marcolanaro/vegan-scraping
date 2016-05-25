@@ -1,0 +1,17 @@
+{
+  "title": "Anna's Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Japanese, Thai, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan Chinese food and sushi available. Has several types of faux meat available in addition to tofu. Staff very accommodating in improvising with the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "765 A S State St",
+  "postalCode": "95482",
+  "phone": "tel:707-462-1098",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.139725,-123.205895&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.139725,-123.205895&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Plant Based Pizza",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Pizza, Delivery, Take-out\n                                    ",
+  "description": "All-vegan pizzeria also serving paninis, burgers, hot dogs plus kid friendly food. Opened Nov 2012.",
+  "priceRange": "Moderate",
+  "streetAddress": "1111-2 Meridian Ave",
+  "postalCode": "95124",
+  "phone": "tel:408-448-8881",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.303628,-121.914219&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.303628,-121.914219&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

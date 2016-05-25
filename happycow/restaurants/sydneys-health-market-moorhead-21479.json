@@ -1,0 +1,13 @@
+{
+  "title": "Sydney's Health Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Quaint store with simple isles and a refrigerated section. Carries gluten-free, wheat-free, vegan, and vegetarian. Has fresh organic produce, nutritional supplements, natural body care, vegan and vegetarian food products. Will take special orders. Staff is well-informed.",
+  "streetAddress": "810 30th Ave S",
+  "postalCode": "56560",
+  "phone": "tel:218-233-3310",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-7:00pm, Sat 9:00am-5:00pm, Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.844042,-96.767694&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.844042,-96.767694&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

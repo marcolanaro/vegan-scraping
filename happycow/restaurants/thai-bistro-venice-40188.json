@@ -1,0 +1,17 @@
+{
+  "title": "Thai Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu includes a \"totally veggie\" section where dishes like curry come with tofu. Vegan suitable appetizers include spring rolls and fried tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "537 E Venice Ave",
+  "postalCode": "34285",
+  "phone": "tel:941-484-0056",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.100123,-82.435889&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.100123,-82.435889&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

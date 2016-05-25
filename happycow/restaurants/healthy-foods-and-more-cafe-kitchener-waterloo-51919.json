@@ -1,0 +1,18 @@
+{
+  "title": "Healthy Foods and More Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Bakery, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery cafe inside the health food store. Offers daily vegan choices from soup and pizza to muffins and desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "75 Bridgeport Rd E Unit 2",
+  "postalCode": "N2J 2K1",
+  "phone": "tel:519-880-0700",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-7:00pm, Thu-Fri 9:00am-8:00pm, Sat 9:00am-6:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.468951,-80.515668&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.468951,-80.515668&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

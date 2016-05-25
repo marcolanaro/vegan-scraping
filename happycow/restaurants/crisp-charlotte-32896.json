@@ -1,0 +1,18 @@
+{
+  "title": "Crisp",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Build your own salad or get pizza with veggies and no cheese. Offers tofu as a protein. Sometimes soup is vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1961 E 7th St",
+  "postalCode": "28204",
+  "phone": "tel:704-333-9515",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.212314,-80.817997&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.212314,-80.817997&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

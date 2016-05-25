@@ -1,0 +1,16 @@
+{
+  "title": "The Soup Stop",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Western, Australian\n                                    ",
+  "description": "Soups, burgers, salad rolls, panini, curries, dals, snacks, cookies and sweets. Also parathas on Mondays, Indian street food on Fridays. Food made in-house is vegetarian and vegan except the dairy creamer for coffee and also bee pollen for smoothies.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4 Barrack St",
+  "postalCode": "7000",
+  "phone": "tel:03-62238882",
+  "venueHours": "\n                                                                                                        Mon-Fri 10:30am-8:30pm, Sat 5:30pm-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/soupstophobart",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-42.887523,147.325041&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-42.887523,147.325041&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

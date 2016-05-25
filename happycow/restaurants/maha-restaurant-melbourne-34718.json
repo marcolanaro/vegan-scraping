@@ -1,0 +1,19 @@
+{
+  "title": "Maha Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A fine dining restaurant that offers separate vegan menu. Also has a degustation menu.",
+  "priceRange": "Expensive",
+  "streetAddress": "21 Bond St",
+  "postalCode": "3000",
+  "phone": "tel:03-9629-5900",
+  "venueHours": "\n                                                                                                        Mon-Fri 12:00pm-3:00pm, Mon-Sun 6:00pm-9:30pm, Sun 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/MahaRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.818129,144.962732&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.818129,144.962732&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

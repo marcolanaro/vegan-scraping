@@ -1,0 +1,13 @@
+{
+  "title": "Santos Health Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "All vegetarian grocery store with a cafe inside.",
+  "streetAddress": "105 Johnson Street, Byron Bay",
+  "postalCode": "2481",
+  "phone": "tel:02-6685-7071",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-6:30pm, Sat 9:30am-5:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-28.643390,153.612220&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-28.643390,153.612220&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

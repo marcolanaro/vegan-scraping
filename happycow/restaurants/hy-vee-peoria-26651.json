@@ -1,0 +1,13 @@
+{
+  "title": "Hy-Vee",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Chain grocery store, open 24 hours. Stocks some organic produce and has a vegan-friendly section with brands like Tofurkey, Daiya, and Amy's.",
+  "streetAddress": "4125 Sheridan Rd Ste 20",
+  "postalCode": "61614",
+  "phone": "tel:309-686-5920",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.738333,-89.605056&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.738333,-89.605056&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

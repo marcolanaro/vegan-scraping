@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Granada",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. New Orleans Spanish restaurant. While the menu is heavy on meat, it includes a long list of vegetarian tapas and offers a veggie paella.",
+  "priceRange": "Moderate",
+  "streetAddress": "1506 S Carrollton Ave",
+  "postalCode": "70118",
+  "phone": "tel:504-865-1612",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-11:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.949660,-90.127347&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.949660,-90.127347&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

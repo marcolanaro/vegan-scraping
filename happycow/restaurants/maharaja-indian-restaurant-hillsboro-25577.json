@@ -1,0 +1,17 @@
+{
+  "title": "Maharaja",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food restaurant with a meat-based menu but does offer over 15 choices in vegetable curries and dishes. Vegans to specify.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "610 SE 10th Ave",
+  "postalCode": "97123",
+  "phone": "tel:503-214-4858",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.516075,-122.973510&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.516075,-122.973510&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

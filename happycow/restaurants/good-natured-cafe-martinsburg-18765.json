@@ -1,0 +1,18 @@
+{
+  "title": "Good Natured Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Take-out\n                                    ",
+  "description": "General store and vegetarian cafe. Serves local and organic food including soups, sandwiches, veggie burgers, quiche, organic baked goods, breakfast all day, and kid's menu. Cafe service is limited on Sunday to soups, salads, vegetable tarts, desserts, and beverages.",
+  "priceRange": "Moderate",
+  "streetAddress": "209 S Raleigh St",
+  "postalCode": "25401",
+  "phone": "tel:304-262-9978",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.457060,-77.968930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.457060,-77.968930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

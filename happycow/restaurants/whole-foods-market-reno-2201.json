@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Has fresh fruits and vegetables including organic produce, deli, vitamins, supplements, personal care products, grocery, and more.",
+  "streetAddress": "6139 S Virginia St",
+  "postalCode": "89502",
+  "phone": "tel:775-852-8023",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 8:00am-9:00pm, Fri-Sat 8:00am-10:00pm, Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.473620,-119.786520&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.473620,-119.786520&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

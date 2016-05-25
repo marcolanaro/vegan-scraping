@@ -1,0 +1,18 @@
+{
+  "title": "The Pudding Shop",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Attached to a restaurant called La Cucina di Ciro which is not veg, but The Pudding Shop is run by a vegan chef, and meat is cooked in a separate kitchen. Menu is primarily vegetarian and vegan with breakfast and lunch food, cakes and desserts including vegan ones. Colorful interior.",
+  "priceRange": "Moderate",
+  "streetAddress": "43, 7th Ave, Parktown North",
+  "phone": "tel:0614443493",
+  "venueHours": "\n                                                                                                        Tue-Sun 8:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.144550,28.029940&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.144550,28.029940&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

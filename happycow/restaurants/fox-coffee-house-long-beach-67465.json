@@ -1,0 +1,18 @@
+{
+  "title": "Fox Coffee House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Delivery\n                                    ",
+  "description": "Vegetarian coffee shop with a number of made-in-house vegan items including chickpea sliders, pot pie, pizza and desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "437 W Willow St",
+  "postalCode": "90806",
+  "phone": "tel:562-912-4200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 6:30am-7:00pm, Thu 6:30am-7:00pm, Fri 6:30am-10:00pm, Sat 8:30am-10:00pm, Sun 8:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/WrigleyFoxCoffeeHouse",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.804450,-118.196698&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.804450,-118.196698&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

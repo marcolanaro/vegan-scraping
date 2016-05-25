@@ -1,0 +1,13 @@
+{
+  "title": "Hy-Vee",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Chain grocery store, open 24 hours. Stocks some organic produce and has a large vegan-friendly section with brands like Tofurkey, Daiya, and Amy's.",
+  "streetAddress": "2115 S Mac Arthur Blvd",
+  "postalCode": "62704",
+  "phone": "tel:217-726-1001",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.775976,-89.669872&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.775976,-89.669872&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

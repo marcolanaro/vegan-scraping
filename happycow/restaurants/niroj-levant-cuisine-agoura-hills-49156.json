@@ -1,0 +1,15 @@
+{
+  "title": "Niroj Levant Cuisine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Mediterranean, Beer/Wine, Middle Eastern, Arabic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mediterranean/Middle Eastern food menu. Marks the vegetarian choices including such as hummus, baba ganoush, dolma, tabbouleh, falafel.",
+  "priceRange": "Moderate",
+  "streetAddress": "30313 Canwood St",
+  "postalCode": "91301",
+  "phone": "tel:818-889-7888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 5:00pm-10:00pm, Fri-Sat 4:00pm-11:30pm, Sun 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.148160,-118.782170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.148160,-118.782170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

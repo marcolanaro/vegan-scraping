@@ -1,0 +1,19 @@
+{
+  "title": "Zoe's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Mediterranean, Take-out, Middle Eastern, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain restaurant offering Mediterranean-influenced food. Has some veggie choices, including veggie kabobs, hummus and pita, salad, braised white bean, potato salad, roasted vegetable, and fresh fruit. Vegans to specify. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "1821 E Victory Dr Ste 107",
+  "postalCode": "31404",
+  "phone": "tel:912-335-1375",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.044234,-81.071958&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.044234,-81.071958&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

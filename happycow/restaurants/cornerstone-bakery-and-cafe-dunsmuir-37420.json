@@ -1,0 +1,20 @@
+{
+  "title": "Cornerstone Bakery and Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast, lunch, and baked goods. Breakfast include a Greek tofu scramble, mexi-xcramble with beans, tortillas, sweet potato pancakes. Lunch include vegetarian sandwiches, salads, pasta, and polenta dishes. Vegans to specify no cheese, etc.",
+  "priceRange": "Moderate",
+  "streetAddress": "5759 Dunsmuir Ave",
+  "postalCode": "96067",
+  "phone": "tel:530-235-4677",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 8:00am-2:00pm, Thu-Sun 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cornerstonedunsmuir",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.211115,-122.272043&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.211115,-122.272043&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

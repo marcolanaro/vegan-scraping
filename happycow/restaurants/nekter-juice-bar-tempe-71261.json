@@ -1,0 +1,16 @@
+{
+  "title": "Nekter Juice Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice bar chain. Offers made-to-order juices and smoothies plus acai bowls and a small grab-n-go fridge case.",
+  "streetAddress": "2000 E Rio Salado Pkwy Ste 1213",
+  "postalCode": "85281",
+  "phone": "tel:480-771-5900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.432808,-111.904875&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.432808,-111.904875&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

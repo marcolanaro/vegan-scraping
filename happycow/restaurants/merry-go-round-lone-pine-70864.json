@@ -1,0 +1,17 @@
+{
+  "title": "Merry Go Round",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Chinese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese and American food restaurant with a large vegetarian section on the menu, featuring tofu dishes. The staff is aware of what is and isn't vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "212 S Main St",
+  "postalCode": "20171",
+  "phone": "tel:760-876-4115",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 4:30pm-8:30pm, Wed-Sun 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.604694,-118.062607&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.604694,-118.062607&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

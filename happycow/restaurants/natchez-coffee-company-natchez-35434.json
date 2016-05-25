@@ -1,0 +1,14 @@
+{
+  "title": "Natchez Coffee Company",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Coffee house with a food menu that's meat and dairy, but it does offer vegan cookies and soymilk for coffee drinks.",
+  "streetAddress": "509 Franklin St",
+  "postalCode": "39120",
+  "phone": "tel:601-304-1415",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-6:00pm, Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/natchezcoffee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.560385,-91.401516&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.560385,-91.401516&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Kona Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale chain restaurant serving Asian and American dishes as well as sushi. Has both dedicated vegan and vegetarian menus.",
+  "priceRange": "Expensive",
+  "streetAddress": "3051 Butterfield Rd",
+  "postalCode": "60523",
+  "phone": "tel:630-515-8395",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/konagrill",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.840870,-87.994557&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.840870,-87.994557&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

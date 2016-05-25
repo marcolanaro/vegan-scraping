@@ -1,0 +1,17 @@
+{
+  "title": "Zoup",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise soup, salad, and sandwich place. Has at least a vegan soup each day, and there's a veggie wrap which you could request no cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6240 E Virginia St",
+  "postalCode": "47715",
+  "phone": "tel:812-477-2664",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-8:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.981972,-87.475465&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.981972,-87.475465&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

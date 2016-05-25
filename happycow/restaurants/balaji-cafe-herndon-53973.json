@@ -1,0 +1,18 @@
+{
+  "title": "Balaji Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "A fast casual vegetarian restaurant specializing in both South and North Indian food.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "298 Sunset Park Dr",
+  "postalCode": "20170",
+  "phone": "tel:703-437-1267/,%20703-437-1268",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.957301,-77.373470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.957301,-77.373470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

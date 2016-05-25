@@ -1,0 +1,20 @@
+{
+  "title": "Nirvana Grille",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fine dining restaurant with a separate vegan menu including small plates, salads, and large plates. Uses seitan in some dishes and as an add-on to any dish.",
+  "priceRange": "Expensive",
+  "streetAddress": "303 Broadway St Ste 101",
+  "postalCode": "92651",
+  "phone": "tel:949-497-0027",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 5:00pm-9:00pm, Fri-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/nirvanagrille",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.544474,-117.783353&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.544474,-117.783353&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

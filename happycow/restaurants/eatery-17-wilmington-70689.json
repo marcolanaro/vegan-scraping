@@ -1,0 +1,17 @@
+{
+  "title": "Eatery 17",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Thai, Take-out, Mexican, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Reported has tofu and occasional vegan specials.",
+  "priceRange": "Moderate",
+  "streetAddress": "2547 S 17th St",
+  "postalCode": "28401",
+  "phone": "tel:910-769-4075",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.195390,-77.920171&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.195390,-77.920171&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

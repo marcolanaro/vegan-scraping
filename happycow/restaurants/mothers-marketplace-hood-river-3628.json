@@ -1,0 +1,14 @@
+{
+  "title": "Mother's Marketplace",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Local market with emphasis on organic foods. Has a vegan-friendly deli offering grab-n-go juices, soups, and veggie burgers.",
+  "streetAddress": "106 Highway 35",
+  "postalCode": "97031",
+  "phone": "tel:541-387-2202",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:00am-7:00pm, Fri-Sat 10:00am-5:00pm, Sun 10:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/MothersMarketPlace",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.708790,-121.511220&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.708790,-121.511220&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

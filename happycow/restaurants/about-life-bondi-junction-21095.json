@@ -1,0 +1,14 @@
+{
+  "title": "About Life",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic supermarket with a full sized café where you can sit and sip on an organic soy chai latte or a free trade coffee. The market stocks a large range of products, including vegan and vegetarian food items as well as raw food (has raw ice cream). Offers a naturopathic dispensary with naturopath on site. Catering service available.",
+  "streetAddress": "31-37 Oxford St",
+  "phone": "tel:02-93897611",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-8:00pm, Sat-Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.890958,151.243788&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.890958,151.243788&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

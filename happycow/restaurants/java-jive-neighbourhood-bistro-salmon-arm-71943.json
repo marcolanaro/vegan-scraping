@@ -1,0 +1,18 @@
+{
+  "title": "Java Jive Neighbourhood Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop offering breakfast and lunch food, fair trade organic coffee. A few food items are labeled vegan. Has almond and soy milk.",
+  "priceRange": "Moderate",
+  "streetAddress": " 190A Trans Canada Hwy Northeast",
+  "phone": "tel:250-832-5300",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:30am-5:00pm, Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/javajivebistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.700610,-119.281929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.700610,-119.281929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

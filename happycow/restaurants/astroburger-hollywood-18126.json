@@ -1,0 +1,18 @@
+{
+  "title": "Astroburger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Fast food, Juice bar, Take-out, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Burgers and fries, and Greek food in an American diner setting. Has a separate vegetarian menu offering burgers with Gardenburger brand soy protein patty, vegan ribs, soy cheese, and non-dairy milk options. Fresh orange and apple juice available. Veg food is cooked on separate grills and woks. Has drive-thru.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5601 Melrose Ave",
+  "postalCode": "90038",
+  "phone": "tel:323-469-1924",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-1:00am, Fri-Sun 9:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.083720,-118.322770&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.083720,-118.322770&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

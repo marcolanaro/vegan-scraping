@@ -1,0 +1,15 @@
+{
+  "title": "Thea Vegetarian Tea Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese, Take-out, Taiwanese\n                                    ",
+  "description": "Vegetarian food and tea. Has bubble tea drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "110 Gawler Pl",
+  "postalCode": "5000",
+  "phone": "tel:08-8232-7988",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm, Fri 5:30pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.925260,138.602250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.925260,138.602250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

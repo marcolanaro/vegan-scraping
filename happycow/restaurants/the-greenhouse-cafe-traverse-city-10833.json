@@ -1,0 +1,19 @@
+{
+  "title": "The Greenhouse Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a portobello mushroom sandwich, grilled veggie sub, and other vegetables; uses dairy and eggs but no fried foods. Makes its own dressings. Can be busy.",
+  "priceRange": "Moderate",
+  "streetAddress": "115 E Front St",
+  "postalCode": "49684",
+  "phone": "tel:231-929-7687",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-3:00pm, Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheGreenHouseCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.764050,-85.623410&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.764050,-85.623410&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "East End Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, International, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers several vegan and gluten free dishes such as blueberry waffles, huevos rancheros and a tabbouleh platter. One vegan soup daily is available. Uses locally made cashew cream cheese, as well as commercially made vegan cheese and vegan butter.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1202 NE 8th Ave",
+  "postalCode": "32601",
+  "phone": "tel:352-378-9870",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:30am-3:00pm, Sun 9:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/East-End-Eatery/64824941501",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.659512,-82.309969&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.659512,-82.309969&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

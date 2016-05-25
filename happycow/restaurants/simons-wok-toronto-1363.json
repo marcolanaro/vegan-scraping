@@ -1,0 +1,15 @@
+{
+  "title": "Simon's Wok",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "Chinese vegetarian food restaurant. Menu such as fried rice, hot pots, and stir frys. Complimentary hot tea.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "797 Gerrard E",
+  "postalCode": "M4M1Y7",
+  "phone": "tel:416-778-9836",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.666840,-79.345610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.666840,-79.345610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

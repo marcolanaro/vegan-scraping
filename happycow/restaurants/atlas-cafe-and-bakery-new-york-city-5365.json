@@ -1,0 +1,17 @@
+{
+  "title": "Atlas Cafe and Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Juice bar, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Veg suitable food items include vegan versions of Moroccan specialties, crepes, sandwiches, and desserts. Try the mockchicken sandwich. Breakfast all day.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "73 Second Ave",
+  "postalCode": "10003",
+  "phone": "tel:212-539-0966",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.726520,-73.989540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.726520,-73.989540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

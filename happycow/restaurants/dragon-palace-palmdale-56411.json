@@ -1,0 +1,19 @@
+{
+  "title": "Dragon Palace",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This Chinese food restaurant offers faux beef, shrimp, and chicken. Accepts requests to make a dish vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "2250 E Palmdale Blvd Ste C",
+  "postalCode": "93550",
+  "phone": "tel:661%20265-9988",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:30am-9:00pm, Fri-Sat 10:30am-10:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/DragonPalaceCa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.579914,-118.088243&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.579914,-118.088243&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

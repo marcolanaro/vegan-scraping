@@ -1,0 +1,17 @@
+{
+  "title": "Shahi Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Salad bar, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan items include dill potatoes, hummus, curried veggies, dolmas, pilafs, salads, falafel, pakora, chickpeas and baba ganouj. Also is an Indo-European grocery store.",
+  "priceRange": "Moderate",
+  "streetAddress": "12410 N Lamar Blvd, North Austin",
+  "postalCode": "78753",
+  "phone": "tel:512-837-8669",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.406702,-97.678829&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.406702,-97.678829&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

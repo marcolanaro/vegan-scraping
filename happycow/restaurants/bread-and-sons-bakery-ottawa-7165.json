@@ -1,0 +1,19 @@
+{
+  "title": "Bread and Sons Bakery",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Organic, Western, Take-out, Bakery, Catering\n                                    ",
+  "description": "Vegetarian bakery and coffee shop. Makes breads and baked goods, date squares, soups, salads, hummus, sandwiches, pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "195 Bank Street",
+  "postalCode": "K2P 1W7",
+  "phone": "tel:613-230-5302",
+  "venueHours": "\n                                                                                                        Mon-Thu 6:30am-6:30pm, Fri 6:30am-8:00pm, Sat 8:30am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Bread-Sons-Bakery/111306055621792",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.417700,-75.698360&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.417700,-75.698360&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Walnut Avenue Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Busy all day breakfast and lunch cafe. Has tofu scramble and soy milk for coffee upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "106 Walnut Ave",
+  "postalCode": "95060",
+  "phone": "tel:831-457-2804",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-3:00pm, Sat-Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/The-Walnut-Avenue-Cafe-111637635539633",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.973665,-122.026546&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.973665,-122.026546&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

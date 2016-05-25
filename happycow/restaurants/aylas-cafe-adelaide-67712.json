@@ -1,0 +1,18 @@
+{
+  "title": "Ayla's Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Western, Juice bar, Take-out\n                                    ",
+  "description": "This vegetarian cafe opened Sept 2015 in the former space of Joy Discover. Offers food all day, from breakfast, coffee, and smoothies to burgers and wraps to lentil pie and curry with rice.",
+  "priceRange": "Moderate",
+  "streetAddress": "13 Bent St",
+  "postalCode": "5000",
+  "phone": "tel:08-82235994",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-8:00pm, Fri-Sat 8:00am-9:30pm, Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/aylascafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.923055,138.607529&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.923055,138.607529&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

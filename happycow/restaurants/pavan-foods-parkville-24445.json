@@ -1,0 +1,17 @@
+{
+  "title": "Pavan Foods",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Buffet, Fast food, Take-out\n                                    ",
+  "description": "A small, nondescript food market with a few tables in the back. Offers food Tue-Sat with lunch buffet as well a small menu. Some dishes contain paneer and ghee, so ask.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8904 Harford Rd",
+  "postalCode": "21234",
+  "phone": "tel:410-663-3201",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 10:00am-5:00pm, Tue-Sat 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.385640,-76.532880&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.385640,-76.532880&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

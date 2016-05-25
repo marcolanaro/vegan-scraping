@@ -1,0 +1,17 @@
+{
+  "title": "Taco Bus - Food Truck",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Mexican, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Taco trucks operating at multiple Florida cities. Offers a variety of fillings including tofu, vegan cheese, tempeh, butternut squash and steak strips. Vegan items are cooked on the same grill as meat. Rice, beans, guacamole and salsa are vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "913 E Hillsborough Ave",
+  "postalCode": "33604",
+  "phone": "tel:813-232-5889",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-4:00am, Thu-Sat 12:00am-12:00am, Sun 11:00am-4:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.995771,-82.450280&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.995771,-82.450280&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

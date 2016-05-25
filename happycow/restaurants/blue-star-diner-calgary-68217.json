@@ -1,0 +1,19 @@
+{
+  "title": "Blue Star Diner",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Beer/Wine, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small diner with a focus on minimizing environmental footprint and sources local, organic produce. Offers 3 veggie burgers (1 is vegan). Gets busy, expect a wait for weekend brunch.",
+  "priceRange": "Moderate",
+  "streetAddress": "809 1 Ave NE",
+  "postalCode": "T2E 0C2",
+  "phone": "tel:403-261-9998",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/bluestardiner",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.053181,-114.044810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.053181,-114.044810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

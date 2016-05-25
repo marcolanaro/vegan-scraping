@@ -1,0 +1,19 @@
+{
+  "title": "Bread and Roses Bakery",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery\n                                    ",
+  "description": "Open seasonally - must call ahead. Bakery, coffee, vegetarian breakfast and lunch food. Uses egg and dairy. Has a few vegan suitable pastries.",
+  "priceRange": "Moderate",
+  "streetAddress": "246 Main St Rte 1",
+  "postalCode": "03907",
+  "phone": "tel:207-646-4227",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/breadandrosesbakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.250736,-70.600111&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.250736,-70.600111&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

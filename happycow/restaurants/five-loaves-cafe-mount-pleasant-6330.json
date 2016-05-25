@@ -1,0 +1,15 @@
+{
+  "title": "Five Loaves Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu denotes which items are vegetarian.",
+  "priceRange": "Moderate",
+  "streetAddress": "1055 Johnnie Dodds Blvd Ste 50",
+  "postalCode": "29464",
+  "phone": "tel:843-849-1043",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.812420,-79.857550&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.812420,-79.857550&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

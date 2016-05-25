@@ -1,0 +1,15 @@
+{
+  "title": "Lotus Tea House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "A tea house inside a Buddhist temple. Try the BBQ noodles.",
+  "priceRange": "Moderate",
+  "streetAddress": "6525 Millcreek Dr, Streetsville",
+  "postalCode": "L5N 7K6",
+  "phone": "tel:905-814-0465",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-4:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.590952,-79.742943&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.590952,-79.742943&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

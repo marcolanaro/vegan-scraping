@@ -1,0 +1,20 @@
+{
+  "title": "Blaze Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Assembly line style franchise pizzeria. Could build your own pizza with various veggies, then choose marinara or hot red sauce or white sauce. Has vegan cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2146 N Federal Hwy",
+  "postalCode": "33431",
+  "phone": "tel:561-923-9353",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BlazePizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.368662,-80.076923&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.368662,-80.076923&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

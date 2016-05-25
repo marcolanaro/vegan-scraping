@@ -1,0 +1,16 @@
+{
+  "title": "Rashmi's Bakery",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Egg-free and nut-free bakery, first of 2 outlets. Offers pastries, cupcakes, desserts, baked goods and cakes, some of which are or can be custom ordered vegan.",
+  "streetAddress": "80 Pertosa Dr Unit 13",
+  "postalCode": "L6X 5E9",
+  "phone": "tel:905-970-0666",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-8:00pm, Sat 11:00am-6:00pm, Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/rashmisbakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.680775,-79.804960&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.680775,-79.804960&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

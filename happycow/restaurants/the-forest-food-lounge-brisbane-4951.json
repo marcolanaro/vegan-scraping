@@ -1,0 +1,16 @@
+{
+  "title": "The Forest Food Lounge",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Western, Beer/Wine, Take-out\n                                    ",
+  "description": "Brisbane vegan restaurant serving simple meals with salads, hot food, desserts, and pie; some gluten-free. Relaxed atmosphere. Vegan except dairy milk for coffee and smoothies.",
+  "priceRange": "Moderate",
+  "streetAddress": "124 Boundary St, West End",
+  "phone": "tel:07-38466181",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.480120,153.012325&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.480120,153.012325&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

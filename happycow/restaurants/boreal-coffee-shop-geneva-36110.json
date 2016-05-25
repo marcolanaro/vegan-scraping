@@ -1,0 +1,19 @@
+{
+  "title": "Boreal Coffee Shop - Stand",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local coffee shop and bakery. Has soy milk for coffee, tea, and hot chocolate. Usually a vegan cake and a quinoa salad.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rue du Stand 60",
+  "postalCode": "1204",
+  "phone": "tel:+41223106960",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BorealCoffeeShop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.203554,6.140929&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.203554,6.140929&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

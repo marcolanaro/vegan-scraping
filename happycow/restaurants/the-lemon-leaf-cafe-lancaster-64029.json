@@ -1,0 +1,19 @@
+{
+  "title": "The Lemon Leaf Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Italian, Mediterranean, Beer/Wine, Delivery, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mediterranean menu encompassing Italian and Greek food. Has vegan choices, ranging from pasta to pizza and salad - ask for the vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "653 W Lancaster Blvd",
+  "postalCode": "93534",
+  "phone": "tel:661-942-6500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-9:00pm, Sat 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/thelemonleaf",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.698249,-118.141249&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.698249,-118.141249&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Burger Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Organic, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. While menu is meat based, it includes a quinoa veggie burger (not vegan) plus fresh organic salads. The quinoa salad can be made vegan by omitting cheese. Order at the counter.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "922 Orange Ave",
+  "postalCode": "92118",
+  "phone": "tel:619-435-6835",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:30am-9:00pm, Sun 10:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.686934,-117.179441&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.686934,-117.179441&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

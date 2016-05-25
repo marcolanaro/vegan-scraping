@@ -1,0 +1,17 @@
+{
+  "title": "Abbie's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fine dining restaurant specializing in wine. Staff under what vegetarian/vegan means, so let them know - or call ahead to request something.",
+  "priceRange": "Expensive",
+  "streetAddress": "778 N Main St",
+  "postalCode": "86326",
+  "phone": "tel:928-634-3300",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.745070,-112.025854&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.745070,-112.025854&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of natural food supermarket chain. This one opened in early-2015 and is huge.",
+  "streetAddress": "214 3rd St",
+  "postalCode": "11215",
+  "phone": "tel:718-907-3622",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/wholefoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.674976,-73.988705&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.674976,-73.988705&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

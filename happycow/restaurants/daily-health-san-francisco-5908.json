@@ -1,0 +1,15 @@
+{
+  "title": "Daily Health",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small shop with a veg food cafe. Offers an assortment of packaged food and snacks, raw food, and nutritional supplements. The cafe in the very back of the store and has a juice bar. Menu includes raw food, veggie burgers, and simple foods; organic juices and wheatgrass shots; all vegan except for bee pollen used.",
+  "streetAddress": "1235 9th Ave",
+  "postalCode": "94122",
+  "phone": "tel:415-681-7675",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-8:00pm, Sat-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.765110,-122.466380&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.765110,-122.466380&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

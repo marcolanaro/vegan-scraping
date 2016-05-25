@@ -1,0 +1,17 @@
+{
+  "title": "Jennifer's Way Bakery",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Little gluten-free bakery that makes vegan baked goods. Try the bread and bagels. Became all-vegan per report Aug 2014.",
+  "streetAddress": "263 E 10th St",
+  "postalCode": "10009",
+  "phone": "tel:646-682-9501",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 10:30am-6:00pm, Thu 10:30am-7:00pm, Fri-Sat 10:30am-8:00pm, Sun 10:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/JennifersWayJE",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.728521,-73.983256&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.728521,-73.983256&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

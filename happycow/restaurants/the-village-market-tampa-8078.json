@@ -1,0 +1,15 @@
+{
+  "title": "The Village Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large natural foods grocery store stocking fresh fruits and vegetables including organic, packaged and frozen foods, vitamins, bulk staples, grocery, and more. Has a veg-friendly deli cafe and juice bar (not 100% veg).",
+  "streetAddress": "3225 S MacDill Ave Ste 123",
+  "postalCode": "33629",
+  "phone": "tel:813-831-6065",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-9:00pm, Sun 10:30am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.995500,-82.492820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.995500,-82.492820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

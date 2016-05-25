@@ -1,0 +1,18 @@
+{
+  "title": "Boulevard Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Salad bar, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Health food cafe making food in-house. Has a salad bar and juices made from fresh produce. Vegans can request substitutions or to omit non-vegan items. The only meat on the menu is smoked salmon.",
+  "priceRange": "Moderate",
+  "streetAddress": "547-C Blvd",
+  "postalCode": "07033",
+  "phone": "tel:609-356-4699",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/organicboulevardbistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.676001,-74.290126&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.676001,-74.290126&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

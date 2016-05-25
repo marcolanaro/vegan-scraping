@@ -1,0 +1,19 @@
+{
+  "title": "Zoe's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Mediterranean, Take-out, Middle Eastern, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of chain restaurant offering Mediterranean-influenced food. Some vegetarian suitable choice, large portions; gluten-free options. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "4400 Roswell Rd Ste 157",
+  "postalCode": "30062",
+  "phone": "tel:770-509-5743",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.984846,-84.422713&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.984846,-84.422713&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Mad Hatters Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small cafe offering soups, sandwiches, paninis, salads, baked goods, and breakfast. Has vegan, gluten-free, vegetarian items; organic coffee and tea. Sells handcrafted gifts. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "420 S Main St",
+  "postalCode": "18810",
+  "phone": "tel:570-731-7183",
+  "venueHours": "\n                                                                                                        Mon-Tue 8:00am-5:00pm, Wed-Thu 8:00am-7:00pm, Fri 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/madhatterscafeandcoop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.955622,-76.517821&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.955622,-76.517821&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

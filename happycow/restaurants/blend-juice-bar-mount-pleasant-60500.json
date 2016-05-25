@@ -1,0 +1,14 @@
+{
+  "title": "Blend Juice Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice and smoothie bar.",
+  "streetAddress": "320E W Coleman Blvd",
+  "postalCode": "29464",
+  "phone": "tel:843-884-6161",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-7:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/blendjuicebar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.797786,-79.888617&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.797786,-79.888617&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

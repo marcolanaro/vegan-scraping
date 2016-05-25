@@ -1,0 +1,18 @@
+{
+  "title": "Salsa's Mexican Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican food, not particularly veg-friendly but you could ask to omit dairy on the few vegetarian items. Not much else for veg food in this area. ",
+  "priceRange": "Moderate",
+  "streetAddress": "108 Mall Rd",
+  "postalCode": "31021",
+  "phone": "tel:4782757540",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.543136,-82.952601&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.543136,-82.952601&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

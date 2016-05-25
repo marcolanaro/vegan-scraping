@@ -1,0 +1,14 @@
+{
+  "title": "Cafe Bon Apetit",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Mediterranean, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little cafe offering coffee, smoothies, wraps, and salads with a few vegetarian items. A salad and the hummus tabouleh wrap are vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1900 Euclid Ave",
+  "phone": "tel:/(216)%20696-8511",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.501146,-81.677431&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.501146,-81.677431&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

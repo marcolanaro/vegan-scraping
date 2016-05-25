@@ -1,0 +1,14 @@
+{
+  "title": "Cafe Gaia",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Take-out, Canadian\n                                    ",
+  "description": "Small, casual vegetarian cafe with hand-painted art decorate the tables and the colorful walls. Menu usually includes a daily soup, salads and sandwiches, a main hot plate, weekly specials, and desserts. No alcohol. NOTE: Their other location at 47A boulevard Montclair shut down in early 2012.",
+  "priceRange": "Moderate",
+  "streetAddress": "103 Frontenac Street",
+  "phone": "tel:819-503-1030",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-8:00pm, Thu-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.429122,-75.715995&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.429122,-75.715995&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

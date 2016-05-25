@@ -1,0 +1,17 @@
+{
+  "title": "Graceful Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Asian\n                                    ",
+  "description": "Mostly vegan food. Specialties include hot pots, a large dim sum menu, and various faux meats.",
+  "priceRange": "Moderate",
+  "streetAddress": "7131 Kennedy Rd Ste 8",
+  "phone": "tel:905-479-8381",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Graceful-Vegetarian-Restaurant/110847325597844",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.829280,-79.307150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.829280,-79.307150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Bangkok Delight",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Buffet, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Typical Thai food menu, non-veg but has vegetable and tofu dishes. Buffet at lunchtime.",
+  "priceRange": "Moderate",
+  "streetAddress": "8825 Centre Park Dr",
+  "postalCode": "21045",
+  "phone": "tel:410-730-0032",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-3:00pm, 5:00pm-9:00pm, Fri-Sat 11:30am-10:00pm, Sun 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.227747,-76.815533&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.227747,-76.815533&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

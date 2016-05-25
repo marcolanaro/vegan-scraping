@@ -1,0 +1,17 @@
+{
+  "title": "8th Wonder Juice Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice bar opened Mar 2015 offering organic cold pressed juices, fresh juices, smoothies, and acai bowls.",
+  "streetAddress": " 370 2nd Ave",
+  "postalCode": "10010",
+  "phone": "tel:646-861-3929",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-9:00pm, Sat-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/8thWonderJuice",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.736815,-73.981469&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.736815,-73.981469&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

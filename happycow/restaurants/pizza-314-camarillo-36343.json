@@ -1,0 +1,18 @@
+{
+  "title": "Pizza 3.14",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Pizza, Fast food, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria located on California State University Channel Islands campus. Offers one vegan pizza and a salad bar. Call for hours.",
+  "priceRange": "Moderate",
+  "streetAddress": "45 Rincon Dr Ste 104",
+  "postalCode": "93012",
+  "phone": "tel:805-437-3674",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.161960,-119.039140&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.161960,-119.039140&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

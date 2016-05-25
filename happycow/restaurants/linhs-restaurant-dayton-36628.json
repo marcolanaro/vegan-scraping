@@ -1,0 +1,15 @@
+{
+  "title": "Linh's Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese and Vietnamese food menu that meat-heavy but also includes some vegetable and tofu dishes. Lunch prices are inexpensive.",
+  "priceRange": "Moderate",
+  "streetAddress": "5532 Airway Rd",
+  "postalCode": "45431",
+  "phone": "tel:937-252-1857",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.771835,-84.114237&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.771835,-84.114237&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

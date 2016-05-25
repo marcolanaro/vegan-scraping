@@ -1,0 +1,20 @@
+{
+  "title": "Square Pub",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Beer/Wine, Mexican, Southwestern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bar & grill. Menu includes a few eg choices such as the portobello mushroom sandwich, a black bean burger, fried avocado taco, guacamole and chips, salad, pasta marinara for kids.",
+  "priceRange": "Moderate",
+  "streetAddress": "115 Sycamore St",
+  "postalCode": "30030",
+  "phone": "tel:404-844-4010",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-2:00am, Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/The-Square-Pub/129650343743469",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.774394,-84.296117&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.774394,-84.296117&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Evolution Food Co.",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Juice bar, Delivery, Take-out, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers grain bowls and salads that can be modified to be vegan; could add tofu or tempeh. Also offers cold-pressed juices, smoothies.",
+  "priceRange": "Moderate",
+  "streetAddress": "12 Market St",
+  "postalCode": "M5E1M6",
+  "phone": "tel:416-214-1234",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.648379,-79.371858&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.648379,-79.371858&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

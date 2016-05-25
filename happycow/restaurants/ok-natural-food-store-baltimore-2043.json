@@ -1,0 +1,15 @@
+{
+  "title": "OK Natural Food Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small store stocking a varied range of products: organic produce, snack foods, prepared foods, bulk herbs, and more.",
+  "streetAddress": "11 W Preston St",
+  "postalCode": "21201",
+  "phone": "tel:410-837-3911",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:30am-8:30pm, Sat 10:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.304490,-76.617070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.304490,-76.617070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

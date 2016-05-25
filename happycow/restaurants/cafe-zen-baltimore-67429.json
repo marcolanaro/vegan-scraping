@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Zen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Delivery, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Many items on the menu are vegan; however, they are not marked as such. The wait staff speaks excellent English and is vegan aware. Peaceful atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "438 E Belvedere Rd ",
+  "postalCode": "21212",
+  "phone": "tel:410-532-0022",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-10:00pm, Wed-Sat 11:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.364295,-76.610589&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.364295,-76.610589&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

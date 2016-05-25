@@ -1,0 +1,18 @@
+{
+  "title": "Earth Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Pizza, Organic, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria offering vegetarian, vegan, and gluten-free choices. Lots of pizzas plus salads and build-your-own sandwich or burger. Has vegan cheese. No microwave or frozen food (besides frozen desserts). Art displayed on walls.",
+  "priceRange": "Moderate",
+  "streetAddress": "40695 Winchester Rd Unit C1",
+  "postalCode": "92591",
+  "phone": "tel:951-506-8888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.528620,-117.155660&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.528620,-117.155660&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

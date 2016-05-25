@@ -1,0 +1,20 @@
+{
+  "title": "Local Urban Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An organic, GMO-free full-service restaurant. Offers marked vegan choices like pancakes, falafel, a black bean burger, and salads. Variety of smoothies and fresh juices. Accommodating to allergy restrictions.",
+  "priceRange": "Moderate",
+  "streetAddress": "1805 Rte 35",
+  "postalCode": "08742",
+  "phone": "tel:848-232-3451",
+  "venueHours": "\n                                                                                                        Mon-Wed 7:00am-4:00pm, Thu-Sat 7:00am-10:00pm, Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/LocalUrbanKitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.078598,-74.043528&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.078598,-74.043528&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Piadineria Rimini",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe and snack bar with several vegan choices including cake and pastries.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Burggraben 25",
+  "postalCode": "9000",
+  "phone": "tel:+41-71-2221300",
+  "venueHours": "\n                                                                                                        Tue-Sat 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.424795,9.379772&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.424795,9.379772&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

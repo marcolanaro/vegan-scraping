@@ -1,0 +1,19 @@
+{
+  "title": "Zanzibar Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Salad bar, Juice bar, Take-out, Moroccan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a number of vegan and vegetarian items including wraps, tofu and lentil burgers, falafel, salad, dip platter,chickpea curry, tofu kebab, eggplant kebab. Freshly squeezed juices and coffee available.",
+  "priceRange": "Moderate",
+  "streetAddress": "1/106 Marine Parade",
+  "postalCode": "2487",
+  "phone": "tel:02-6674-1113",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:00am-4:00pm, Wed-Thu 7:00am-8:00pm, Fri-Sat 7:00am-8:30pm, Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-28.254905,153.575687&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-28.254905,153.575687&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Green Cuisine",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Raw, Western, Buffet, Juice bar, Bakery, Canadian\n                                    ",
+  "description": "Vegan restaurant featuring a daily changing self-serve salad and hot food buffet, dessert bar, and a selection of hearty breads and baked goods made from wholesome sweeteners and organic flour. Food ingredients are listed. Offers fresh juices. Casual atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "5-560 Johnson St",
+  "postalCode": "V8W 3C6",
+  "phone": "tel:250-385-1809",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.427650,-123.368540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.427650,-123.368540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

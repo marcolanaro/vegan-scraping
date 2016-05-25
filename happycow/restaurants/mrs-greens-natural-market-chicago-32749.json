@@ -1,0 +1,15 @@
+{
+  "title": "Mrs. Greens Natural Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of natural market chain. Has a deli and stocks organic produce, natural groceries, nutritional supplements, and more.",
+  "streetAddress": "555 W Webster Ave",
+  "postalCode": "60614",
+  "phone": "tel:773-756-1610",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.921730,-87.643027&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.921730,-87.643027&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

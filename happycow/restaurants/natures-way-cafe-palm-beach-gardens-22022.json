@@ -1,0 +1,17 @@
+{
+  "title": "Nature's Way Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Several locations in Florida. Offers a healthier alternative to typical lunchtime fare: salads, soups, shakes, smoothies, sandwiches and wraps made to order.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "9920 Alt A1A",
+  "postalCode": "33410",
+  "phone": "tel:561-622-0440",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:30am-4:30pm, Sat 11:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.821794,-80.085521&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.821794,-80.085521&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

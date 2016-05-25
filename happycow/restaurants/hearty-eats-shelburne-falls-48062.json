@@ -1,0 +1,19 @@
+{
+  "title": "Hearty Eats",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A gluten free restaurant with all food items being vegan except for fried fish served on Friday and Saturday. Uses local and seasonal ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "24 Bridge St",
+  "postalCode": "01370",
+  "phone": "tel:413-625-6460",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-8:00pm, Wed-Thu 11:00am-8:00pm, Fri-Sat 11:00am-9:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/HeartyEats",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.603633,-72.739320&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.603633,-72.739320&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

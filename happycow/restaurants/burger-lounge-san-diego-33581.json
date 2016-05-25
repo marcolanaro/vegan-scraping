@@ -1,0 +1,18 @@
+{
+  "title": "Burger Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Many locations in Southern California. Has an organic quinoa burger (reported mixture contains dairy Jun 2013), salads, and french fries. Uses local and organic ingredients. Located in the gaslamp area of downtown.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "528 5th Ave",
+  "postalCode": "92101",
+  "phone": "tel:619-955-5727",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:30am-11:00pm, Fri-Sat 10:30am-3:00am, Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.710858,-117.160268&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.710858,-117.160268&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

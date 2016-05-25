@@ -1,0 +1,18 @@
+{
+  "title": "Burritoville",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Organic, Take-out, Mexican\n                                    ",
+  "description": "Montreal vegetarian restaurant. Small shop, small menu. Large burritos come with chips and salsa. Has Interac.",
+  "priceRange": "Moderate",
+  "streetAddress": "2055 Rue. Bishop",
+  "postalCode": "H3G 2E8",
+  "phone": "tel:514-286-2776",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/burritovillemontreal",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.498150,-73.579610&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.498150,-73.579610&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

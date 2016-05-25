@@ -1,0 +1,20 @@
+{
+  "title": "Taco Ocho",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, Take-out, Mexican, Latin, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fast, casual restaurant inspired by classic Latin cuisine. Offers vegetarian menu items, of which some could be made vegan upon request. The decor is minimalistic, centered around a long communal table with an open kitchen, with a vast hand-painted mural of Latin American landmarks reminiscent of a bustling zocalo graces the wall.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "930 E Campbell Unit 109",
+  "postalCode": "75081",
+  "phone": "tel:972-238-8080",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tacoocho",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.974221,-96.708973&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.974221,-96.708973&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

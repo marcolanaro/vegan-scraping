@@ -1,0 +1,15 @@
+{
+  "title": "Cafe One",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small coffee shop atmosphere. Uses organic and non-gmo produce. Several vegan breakfast and lunch possibilities with tofu and tempeh. Sunday is brunch menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "753 N Main St",
+  "postalCode": "95437",
+  "phone": "tel:707-964-3309",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.450035,-123.806145&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.450035,-123.806145&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Elderberries Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Raw, Juice bar, Take-out\n                                    ",
+  "description": "Books and drinks cafe offering a menu of smoothies and juices, light vegan food and raw food. Has salads, sandwiches and wraps with Daiya cheese, raw soups, smoothies with house-made almond mylk or cashew mylk. Vegan except for honey option in drinks. Atmosphere is very casual. Parking on street or in back.",
+  "priceRange": "Moderate",
+  "streetAddress": "7564 W Sunset Blvd",
+  "postalCode": "90046",
+  "phone": "tel:323-851-0700",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.098015,-118.354637&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.098015,-118.354637&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

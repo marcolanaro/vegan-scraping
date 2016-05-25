@@ -1,0 +1,18 @@
+{
+  "title": "Saigon Family Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Thai, Beer/Wine, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers tofu dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "221 E North St",
+  "postalCode": "57701",
+  "phone": "tel:605-348-8523",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.087580,-103.209250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.087580,-103.209250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

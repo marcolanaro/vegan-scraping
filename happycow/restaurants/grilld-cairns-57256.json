@@ -1,0 +1,20 @@
+{
+  "title": "Grill'd",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Western, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain of healthier burger restaurants. Menu shows 3 veggie burgers which are reported cooked separately from the meats: a falafel patty, a mushroom patty, and a vegetable patty. Vegans should specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "77 Esplanade",
+  "postalCode": "4870",
+  "phone": "tel:0740414200",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/GrilldBurgers",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-16.919718,145.777087&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-16.919718,145.777087&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

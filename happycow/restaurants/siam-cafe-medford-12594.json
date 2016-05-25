@@ -1,0 +1,15 @@
+{
+  "title": "Siam Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This Thai food restaurant offers vegetable dishes and could make vegan upon request. Be sure to specify no fish sauce, egg, etc.",
+  "priceRange": "Moderate",
+  "streetAddress": "618 W Main St",
+  "postalCode": "97501",
+  "phone": "tel:541-734-4789",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.323700,-122.878480&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.323700,-122.878480&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

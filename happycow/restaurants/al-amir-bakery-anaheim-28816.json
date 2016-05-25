@@ -1,0 +1,19 @@
+{
+  "title": "Al Amir Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Fast food, Take-out, Bakery, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lebanese pizza place with vege plates, zaater, labneh, spinach, and pies. Vegans can ask to omit cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2281 W Ball Rd",
+  "postalCode": "92804",
+  "phone": "tel:714-535-0973",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 8:00am-9:00pm, Fri-Sat 8:00am-10:00pm, Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.818394,-117.962637&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.818394,-117.962637&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

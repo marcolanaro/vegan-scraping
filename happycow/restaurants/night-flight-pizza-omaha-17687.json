@@ -1,0 +1,18 @@
+{
+  "title": "Night Flight Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria offering soy cheese (at extra charge) plus has soy meats, veggies and sauces, vegan crust, vegan BLT. Relocated from 4636 Dodge St in 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "624 S 72nd St",
+  "postalCode": "68114",
+  "phone": "tel:402-342-4500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 4:00pm-2:30am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.255049,-96.024765&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.255049,-96.024765&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

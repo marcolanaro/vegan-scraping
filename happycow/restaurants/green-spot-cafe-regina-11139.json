@@ -1,0 +1,17 @@
+{
+  "title": "Green Spot Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Take-out, Asian, Bakery, Catering, Canadian\n                                    ",
+  "description": "Moved to this location Aug 2013. Vegetarian cafe and coffee roaster. Offers gluten-free menu, grilled sandwiches, muffins, quiche, pasta salads, soup, and a few dim sum foods.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1821 Hamilton St",
+  "postalCode": "S4P 2B9",
+  "phone": "tel:306-757-7899",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-5:00pm, Sat 8:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.449793,-104.609223&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.449793,-104.609223&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

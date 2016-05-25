@@ -1,0 +1,17 @@
+{
+  "title": "Bangkok Thai Food",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located opposite Thrifty Foods, THE extensive vegetarian menu offers around 32 items and will alter dishes for allergies and special diets (vegan, gluten-free, etc).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "259 Island Hwy E",
+  "phone": "tel:250-248-4860",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:30pm, 5:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.322356,-124.318725&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.322356,-124.318725&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

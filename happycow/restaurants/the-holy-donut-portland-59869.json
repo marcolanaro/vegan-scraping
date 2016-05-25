@@ -1,0 +1,16 @@
+{
+  "title": "The Holy Donut",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Donuts and coffee place with another location at 7 Exchange St, Portland. Has vegan and gluten-free options, changes from day to day.",
+  "streetAddress": "194 Park Ave",
+  "postalCode": "04102",
+  "phone": "tel:207-874-7774",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:30am-4:00pm, Sat 7:30am-3:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/The-Holy-Donut/256219337742023",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.655967,-70.274849&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.655967,-70.274849&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Blue Cat Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Mexican\n                                    ",
+  "description": "Vegan cafe with adoptable cats roaming the dining room, est. since Oct 2015. Serves hot dogs, sammiches, tacos, and coffee drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "95 Navasota St",
+  "postalCode": "78702",
+  "phone": "tel:512-368-3406",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:00am-9:00pm, Fri-Sat 10:00am-10:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/thebluecatcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.258806,-97.730535&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.258806,-97.730535&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

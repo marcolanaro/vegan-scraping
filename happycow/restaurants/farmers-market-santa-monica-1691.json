@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market - downtown",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "The Wednesday's market in downtown Santa Monica is among the largest in the country.",
+  "streetAddress": "Arizona Ave",
+  "postalCode": "90401",
+  "phone": "tel:310-458-8712",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 9:30am-1:30pm, Sat 8:30am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.026960,-118.474320&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.026960,-118.474320&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

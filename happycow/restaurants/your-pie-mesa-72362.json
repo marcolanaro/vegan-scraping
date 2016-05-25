@@ -1,0 +1,16 @@
+{
+  "title": "Your Pie",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria chain. Choose your own toppings. One price for as many toppings as you want. Vegan cheese and gluten free dough available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2015 S Alma School Rd Ste 102",
+  "postalCode": "85210",
+  "phone": "tel:480-217-8349",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/yourpiemesa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.378402,-111.859228&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.378402,-111.859228&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

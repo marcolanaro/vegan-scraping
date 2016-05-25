@@ -1,0 +1,18 @@
+{
+  "title": "Underground Indian Cuisine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Take-out, Indo-Chinese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cuisine inspired by the northwest frontier tradition, tandoori fare, and low on oil called Peshawri cuisine.",
+  "priceRange": "Moderate",
+  "streetAddress": "220 Las Colinas Blvd E Ste 264",
+  "postalCode": "75039",
+  "phone": "tel:469-567-3675",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:30pm, Mon-Thu 5:00pm-10:00pm, Fri-Sat 5:00pm-11:00pm, Sat-Sun 11:30am-3:00pm, Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.866842,-96.939482&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.866842,-96.939482&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

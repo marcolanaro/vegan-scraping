@@ -1,0 +1,18 @@
+{
+  "title": "Veggie Galaxy",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Pizza, Bakery\n                                    ",
+  "description": "Vegetarian diner with an all-vegan bakery. Serves modern takes on the classic American diner food. Makes its own seitan cutlet.",
+  "priceRange": "Moderate",
+  "streetAddress": "450 Massachusetts Ave",
+  "postalCode": "02139",
+  "phone": "tel:617-497-1513",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-10:00pm, Fri-Sat 9:00am-11:00pm, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/VeggieGalaxy",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.363593,-71.100954&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.363593,-71.100954&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Vege Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Fast food, Delivery, Take-out\n                                    ",
+  "description": "Offers a variety of pizzas, plus has Indian food, pasta, coffees and drinks. Uses dairy cheese (rennet-free).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "103-8383 128 A Street",
+  "phone": "tel:604-507-3003",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:00am-11:00pm, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.154990,-122.868010&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.154990,-122.868010&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

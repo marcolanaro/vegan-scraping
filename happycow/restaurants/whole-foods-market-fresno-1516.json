@@ -1,0 +1,16 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Has fresh fruit and vegetable including organic produce, deli, salad and hot food bar, pizza station, vitamins, supplements, personal care products, natural grocery, and much more. Located in an upscale shopping plaza with many other shops.",
+  "streetAddress": "650 W Shaw Ave",
+  "postalCode": "93704",
+  "phone": "tel:559-241-0300",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.808200,-119.804570&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.808200,-119.804570&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

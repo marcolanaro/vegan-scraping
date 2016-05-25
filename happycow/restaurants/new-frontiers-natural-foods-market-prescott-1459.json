@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "New Frontier was acquired by Whole Foods Market in 2014.",
+  "streetAddress": "1112 Iron Springs Rd",
+  "postalCode": "86302",
+  "phone": "tel:928-445-7370",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.567830,-112.494860&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.567830,-112.494860&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

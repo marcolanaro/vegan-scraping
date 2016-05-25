@@ -1,0 +1,20 @@
+{
+  "title": "Otto Ristorante",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale Italian food restaurant located on the waterfront. Will provide a dedicated vegan menu on request. The staff are aware of vegan dietary requirements.",
+  "priceRange": "Expensive",
+  "streetAddress": "Area 8, Woolloomooloo Wharf, 6 Cowper Wharf Rd",
+  "postalCode": "2011",
+  "phone": "tel:+6-%20293687488",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ottoristorantesydney",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.869235,151.220171&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.869235,151.220171&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

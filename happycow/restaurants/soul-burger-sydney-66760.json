@@ -1,0 +1,18 @@
+{
+  "title": "Soul Burger",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Beer/Wine, Delivery, Take-out\n                                    ",
+  "description": "Plant-based burger restaurant featuring vegan burgers that taste more like backyard BBQ style than fast food restaurant style. Offers coconut-based milkshakes, chips that are seasoned with hint of rosemary, and Young Henrys flowing on tap. All-vegan since 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "49 Perouse Rd",
+  "postalCode": "2031",
+  "phone": "tel:02-93987496",
+  "venueHours": "\n                                                                                                        Mon 5:00pm-9:00pm, Mon-Fri 12:00pm-3:30pm, Tue-Fri 5:00pm-10:00pm, Sat 12:00pm-10:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/soulburger001",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.919929,151.242926&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.919929,151.242926&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

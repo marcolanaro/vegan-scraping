@@ -1,0 +1,19 @@
+{
+  "title": "Soy Noodle House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Japanese, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mostly Chinese food. Will accommodate special requests, like tofu substitution and omitting eggs.",
+  "priceRange": "Moderate",
+  "streetAddress": "1032 Broad St",
+  "postalCode": "30901",
+  "phone": "tel:706-364-3116",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.489028,-82.005703&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.489028,-82.005703&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

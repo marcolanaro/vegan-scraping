@@ -1,0 +1,19 @@
+{
+  "title": "My Nature",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Raw, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "A raw food salad bar, juice bar, and grocery market, established since 2013. Features a salad bar, daily lunch specials, fresh juices and smoothies, wild green drinks, and wheatgrass grown in-house. Grocery and market offers supplements and takeout items. This is a seasonal operation, so please check ahead for hours.",
+  "priceRange": "Moderate",
+  "streetAddress": "1301 Atlantic Ave",
+  "postalCode": "21842",
+  "phone": "tel:410-251-1605",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.343289,-75.078571&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.343289,-75.078571&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

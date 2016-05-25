@@ -1,0 +1,19 @@
+{
+  "title": "Kyma",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Beer/Wine, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale Greek restaurant with a separate veg menu - ask for it. Reservations suggested.",
+  "priceRange": "Expensive",
+  "streetAddress": "3085 Piedmont Rd",
+  "postalCode": "30305",
+  "phone": "tel:404-262-0702",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:30pm-10:00pm, Fri-Sat 5:30pm-11:00pm, Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/kymarestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.839857,-84.369019&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.839857,-84.369019&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

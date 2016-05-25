@@ -1,0 +1,20 @@
+{
+  "title": "Montana's Cantina",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Beer/Wine, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A tapas bar/restaurant offers a vegan breakfast plate on the brunch menu and a couple of vegan items on the happy hour menu. Vegetarian tacos and burritos can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "520 S Main St",
+  "postalCode": "80424",
+  "phone": "tel:970-453-1342",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/MontanasCantina",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.476910,-106.044344&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.476910,-106.044344&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

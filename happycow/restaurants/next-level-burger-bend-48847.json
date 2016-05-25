@@ -1,0 +1,19 @@
+{
+  "title": "Next Level Burger",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Plant-based fast food restaurant, opened July 2014. Features vegan burgers, hot dogs, sandwiches, fresh juices, and shakes with organic soymilk. Has kids' menu. Sources organic produce. Order at the counter.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "70 SW Century Dr Ste 120",
+  "postalCode": "97702",
+  "phone": "tel:541-306-6778",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-8:00pm, Sat-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Nextlevelburger",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.050649,-121.330622&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.050649,-121.330622&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Java Burrito",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Build-a-burrito plus fair-trade coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1000 William Hilton Pkwy",
+  "postalCode": "29928",
+  "phone": "tel:843-842-5282",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/javaburritoco",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.159507,-80.754918&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.159507,-80.754918&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

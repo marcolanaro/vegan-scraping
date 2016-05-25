@@ -1,0 +1,18 @@
+{
+  "title": "The Purple Rooster Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small cafe offering breakfast and lunch food. Has veggie options and can make tofu scrambles, toast with vegan butter, BLT sandwich with fake bacon. Check its web for vegan specials.",
+  "priceRange": "Moderate",
+  "streetAddress": "105 South St",
+  "postalCode": "02762",
+  "phone": "tel:508-316-1550",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 8:00am-3:00pm, Thu 8:00am-7:00pm, Fri 8:00am-5:00pm, Sat-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/thepurpleroostercafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.003758,-71.335427&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.003758,-71.335427&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

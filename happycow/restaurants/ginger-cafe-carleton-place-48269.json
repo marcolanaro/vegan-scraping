@@ -1,0 +1,20 @@
+{
+  "title": "Ginger Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Buffet, Juice bar, Take-out, Bakery, Canadian\n                                    ",
+  "description": "Coffee and juice bar and vegetarian buffet, opened May 2014 in the old train station. Buffet is pay-per-weight. Friday is pie day. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "132 Coleman Street",
+  "postalCode": "K7C 4M7",
+  "phone": "tel:613-492-1345",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-4:00pm, Thu-Fri 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gingercafecp",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.136079,-76.134805&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.136079,-76.134805&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

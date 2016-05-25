@@ -1,0 +1,18 @@
+{
+  "title": "Portage Bay Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast and brunch place with a few locations. Offers a vegan hash and banana pancakes (gluten-free).",
+  "priceRange": "Moderate",
+  "streetAddress": "391 Terry Ave N",
+  "postalCode": "98109",
+  "phone": "tel:206-462-6400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.621856,-122.337438&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.621856,-122.337438&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

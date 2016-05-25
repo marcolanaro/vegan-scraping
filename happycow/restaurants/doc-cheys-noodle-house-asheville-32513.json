@@ -1,0 +1,17 @@
+{
+  "title": "Doc Chey's Noodle House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Beer/Wine, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu includes several vegan and vegetarian options, marked with a green leaf. Has tofu and tempeh as options for a protein on most dishes. Several locations.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "37 Biltmore Ave",
+  "postalCode": "28801",
+  "phone": "tel:828-252-8220",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:30am-10:00pm, Thu-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.593351,-82.551466&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.593351,-82.551466&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Island Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Mediterranean, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mediterranean and American food. Has a few vegan choices like grilled vegetables, hummus, tabouli. Also has a juice bar with soy milk and soy protein powder.",
+  "priceRange": "Moderate",
+  "streetAddress": "4024 Bellaire Blvd, Bellaire",
+  "postalCode": "77024",
+  "phone": "tel:713-334-4036",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-9:00pm, Sun 8:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/IslandGrillTX",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.706064,-95.441432&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.706064,-95.441432&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural food supermarket chain featuring fresh fruits and vegetable including organic produce, natural foods and products, vitamins and supplements, grocery, and more.",
+  "streetAddress": "10020 Regency Cir",
+  "postalCode": "68114",
+  "phone": "tel:402-393-1200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-10:00pm, Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.260600,-96.068930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.260600,-96.068930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

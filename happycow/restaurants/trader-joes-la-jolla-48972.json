@@ -1,0 +1,15 @@
+{
+  "title": "Trader Joe's",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of nationwide chain of specialty foods grocery store. Stocking a wide range of foods and grocery, including vegetarian-friendly items.",
+  "streetAddress": "8657 Villa La Jolla Dr",
+  "postalCode": "92037",
+  "phone": "tel:858-546-8629",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.865606,-117.231968&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.865606,-117.231968&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

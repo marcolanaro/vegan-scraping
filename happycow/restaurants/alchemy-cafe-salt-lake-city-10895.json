@@ -1,0 +1,18 @@
+{
+  "title": "Alchemy Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe offering organic coffee and teas, some light food. Live music and poetry some evenings.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "390 E 1700 S",
+  "postalCode": "84115",
+  "phone": "tel:801-322-0735",
+  "venueHours": "\n                                                                                                        Mon 6:30am-7:00pm, Tue 6:30am-9:00pm, Wed-Sat 6:30am-7:00pm, Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Alchemy-Coffee/49981013006",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.733070,-111.879660&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.733070,-111.879660&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

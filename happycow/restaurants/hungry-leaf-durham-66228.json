@@ -1,0 +1,20 @@
+{
+  "title": "Hungry Leaf",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Fast food, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Could make your own salad or wrap.",
+  "priceRange": "Moderate",
+  "streetAddress": "2608 Erwin Rd Ste 132",
+  "postalCode": "27705",
+  "phone": "tel:919-321-8001",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/hungryleaf",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.009268,-78.944814&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.009268,-78.944814&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

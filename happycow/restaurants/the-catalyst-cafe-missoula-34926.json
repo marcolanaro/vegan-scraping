@@ -1,0 +1,19 @@
+{
+  "title": "The Catalyst Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe and espresso bar. Uses local sources whenever possible for produce and breads. Has a few vegan as well gluten-free choices. Breakfast and lunch.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "111 N Higgins Ave",
+  "postalCode": "59802",
+  "phone": "tel:406-541-4622",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-3:00pm, Sat-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Catalyst-Cafe-and-Espresso/114823685232231",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.870682,-113.995521&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.870682,-113.995521&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

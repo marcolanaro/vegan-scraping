@@ -1,0 +1,20 @@
+{
+  "title": "Oscar's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Mexican, Southwest, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican style restaurant serving large portions of dishes, such as southwest salads, tacos, wraps, burgers, etc. Vegan dishes are clearly marked on the menu. Staff is knowledgeable about veganism and the menu items. Has indoor and outdoor seating.",
+  "priceRange": "Moderate",
+  "streetAddress": "948 Zion Park Blvd",
+  "postalCode": "84767",
+  "phone": "tel:435-772-3232",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Oscars-Cafe-Zion-Canyon-Utah/168861163157096",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.188950,-113.000214&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.188950,-113.000214&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

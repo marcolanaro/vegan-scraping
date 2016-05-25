@@ -1,0 +1,14 @@
+{
+  "title": "Porter House",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Beer/Wine\n                                    ",
+  "description": "Toronto's first all vegan pub opened in Dec 2014. Serves food until 11pm with dishes ranging from snack curry fries and beer battered potato dumplings to sanwiches with jackfruit or yuba and a long list of beer.",
+  "priceRange": "Moderate",
+  "streetAddress": "1321 Dundas St W",
+  "phone": "tel:647-346-3000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 5:00pm-2:00am, Wed-Sun 5:00pm-2:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.649390,-79.426296&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.649390,-79.426296&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

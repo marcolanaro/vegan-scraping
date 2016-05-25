@@ -1,0 +1,18 @@
+{
+  "title": "The Health Nut",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Health store with a small food counter and juice bar inside. Offers juices, salads, and sandwiches.",
+  "priceRange": "Moderate",
+  "streetAddress": "625 E 5th St Ste 101",
+  "postalCode": "82801",
+  "phone": "tel:307-673-9355",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-6:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.807132,-106.945200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.807132,-106.945200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

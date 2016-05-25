@@ -1,0 +1,18 @@
+{
+  "title": "Moonshadow Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegetarian choices and indicates vegan and gluten-free possibilities. Sources local and some organic ingredients. Hosts live music and local art. Free wi-fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "110 S Main St",
+  "postalCode": "21520",
+  "phone": "tel:301-750-5094",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri 11:00am-11:00pm, Sat 10:00am-11:00pm, Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/moonshadowcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.628149,-79.320630&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.628149,-79.320630&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

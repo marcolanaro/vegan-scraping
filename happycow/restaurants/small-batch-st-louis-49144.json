@@ -1,0 +1,15 @@
+{
+  "title": "Small Batch",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Italian, Beer/Wine\n                                    ",
+  "description": "Whiskey lounge offering small plates as well mains. Has handmade pasta, fresh baked breads, and several unusual dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "3001 Locust St",
+  "postalCode": "63103",
+  "phone": "tel:314-380-2040",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:00pm-11:00pm, Fri 11:00am-1:00am, Sat 9:00am-1:00am, Sun 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.636093,-90.221836&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.636093,-90.221836&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

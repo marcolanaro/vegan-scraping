@@ -1,0 +1,17 @@
+{
+  "title": "Lilly's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A cozy, cute, colorful cafe offers what the owner calls truly vegan food, such as pho, egg rolls, spring rolls and more. Lower Garden District. ",
+  "priceRange": "Moderate",
+  "streetAddress": "1813 Magazine St",
+  "postalCode": "70130",
+  "phone": "tel:504-599-9999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.932142,-90.073505&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.932142,-90.073505&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

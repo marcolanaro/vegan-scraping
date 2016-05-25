@@ -1,0 +1,15 @@
+{
+  "title": "Market Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual cafe inside City Market. Weekly changing menu includes some vegetarian and vegan items.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "82 S Winooski Ave",
+  "postalCode": "05401",
+  "phone": "tel:802-863-3659",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.478160,-73.210200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.478160,-73.210200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

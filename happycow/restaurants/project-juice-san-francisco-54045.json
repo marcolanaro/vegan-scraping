@@ -1,0 +1,18 @@
+{
+  "title": "Project Juice",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "Juice bar with multiple locations offering organic and mostly raw cold-pressed juices plus smoothies, nut mylks, grab-and-go plant based foods. Since Nov 2014.",
+  "streetAddress": "2259 Polk St",
+  "postalCode": "94109",
+  "phone": "tel:415-857-3869",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-8:00pm, Sat-Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ProjectJuice",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.797487,-122.422135&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.797487,-122.422135&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

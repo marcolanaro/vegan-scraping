@@ -1,0 +1,19 @@
+{
+  "title": "The Bridge Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Juice bar, Delivery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast and brunch, coffee shop. Keeps on hand soymilk and almond milk. Has fresh juices, smoothies.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1117 Elm St",
+  "postalCode": "03101",
+  "phone": "tel:603-647-9991",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-5:00pm, Sat-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/The-Bridge-Cafe-on-Elm/54297239509",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.994114,-71.462717&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.994114,-71.462717&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

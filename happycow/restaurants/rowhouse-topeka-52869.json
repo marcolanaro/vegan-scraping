@@ -1,0 +1,20 @@
+{
+  "title": "RowHouse",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale dining in a 3 story building. Offers weekly changing tasting menu, choices include a salad and a vegetarian main entree.",
+  "priceRange": "Expensive",
+  "streetAddress": "515 SW Van Buren",
+  "postalCode": "66604",
+  "phone": "tel:785-235-1700",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 6:00pm-7:00pm, Thu-Sat 5:30pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/RowHouse-Restaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.053367,-95.676015&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.053367,-95.676015&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Fox's Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria in downtown. Accommodates dietary requests when possible. Has large salads, and fresh vegetable toppings for pizza.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1429 Newcastle St",
+  "postalCode": "31520",
+  "phone": "tel:912-265-4490",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri 11:00am-10:00pm, Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/foxspizzadowntownbrunswick",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.148784,-81.495432&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.148784,-81.495432&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

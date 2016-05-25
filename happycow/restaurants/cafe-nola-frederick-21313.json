@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Nola",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A combination of a coffeehouse, restaurant, and bar located in downtown Frederick. The atmosphere is casual, and the walls feature regularly updated art collections. The menu includes organic and local ingredients with vegetarian options. Try the orange crush made with the orange infused rum, fresh orange juice, and fizzy water. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "4 E Patrick St",
+  "postalCode": "21701",
+  "phone": "tel:301-694-6652",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.414158,-77.410829&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.414158,-77.410829&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The New World Tavern",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, International, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Craft beers on tap, extensive food menu. Veg choices include the tofu lettuce cups, shisito peppers, falafel burger, and soba noodles.",
+  "priceRange": "Moderate",
+  "streetAddress": "56 Main St",
+  "postalCode": "02360",
+  "phone": "tel:508-927-4250",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 3:00pm-12:00am, Sat 11:30am-12:00am, Sun 10:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.956881,-70.665117&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.956881,-70.665117&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

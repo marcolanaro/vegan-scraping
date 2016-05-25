@@ -1,0 +1,14 @@
+{
+  "title": "Mario's Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian restaurant and pizzeria. Has Daiya vegan cheese for pizza. Could order a grilled veggie sub with vegan cheese (note shared grill, though). The minestrone soup is vegan. Garden salad can be ordered with a vegan dressing (olive oil & vinegar, balsamic vinaigrette). Vegan pasta varieties are spaghetti, linguini, fettuccini, penne, and rigatoni. Vegan sauces are tomato, mushroom, aglio & oglio (garlic, olive oil), fradiavolo (hot marinara). Be sure to specify vegan so kitchen doesn't garnish your food.",
+  "priceRange": "Moderate",
+  "streetAddress": "1510 Bay Ave",
+  "phone": "tel:609-398-0490",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:00pm, Fri-Sat 11:00am-9:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.274973,-74.587954&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.274973,-74.587954&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

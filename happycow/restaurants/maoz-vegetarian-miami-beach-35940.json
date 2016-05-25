@@ -1,0 +1,17 @@
+{
+  "title": "Maoz Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Fast food, Take-out, Middle Eastern\n                                    ",
+  "description": "Fast food chain with locations worldwide. Serves falafel sandwiches with different salads and sauces for topping plus fries, soup, and has a vegan rice pudding.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1657 Washington Ave",
+  "postalCode": "33139",
+  "phone": "tel:305-534-6269",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-11:00pm, Fri-Sat 11:00am-12:00am, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.791096,-80.131757&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.791096,-80.131757&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

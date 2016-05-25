@@ -1,0 +1,20 @@
+{
+  "title": "Flying Saucer Pizza Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Pizza, Organic, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria offering 2 labeled vegan pizzas made with Daiya vegan cheese. Has gluten-free. Space-themed murals interior.",
+  "priceRange": "Moderate",
+  "streetAddress": "118 Washington St",
+  "postalCode": "01970",
+  "phone": "tel:978-594-8189",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/FlyingSaucerPizzaCompany",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.521123,-70.895734&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.521123,-70.895734&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

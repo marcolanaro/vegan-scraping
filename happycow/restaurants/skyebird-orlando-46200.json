@@ -1,0 +1,19 @@
+{
+  "title": "Skyebird",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Juice bar, Take-out, All Raw\n                                    ",
+  "description": "Juice bar and kitchen counter at the East End Market, opened since 2013. Offer fresh juices, smoothies, kombucha, and raw living food. All vegan except honey by request.",
+  "priceRange": "Moderate",
+  "streetAddress": "3201 Corinne Dr",
+  "postalCode": "32803",
+  "phone": "tel:407-758-9311",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 8:00am-7:00pm, Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/skyebirdorganic",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.568317,-81.343656&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.568317,-81.343656&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

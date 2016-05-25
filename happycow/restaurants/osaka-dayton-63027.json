@@ -1,0 +1,18 @@
+{
+  "title": "Osaka",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Japanese, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese, sushi, and a buffet with a hibachi grill, located behind the Dayton Mall. Vegan options on all menus.",
+  "priceRange": "Moderate",
+  "streetAddress": "8901 Kingsridge Dr",
+  "postalCode": "45458",
+  "phone": "tel:937-979-1580",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:30am-10:00pm, Sun 11:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.630353,-84.219567&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.630353,-84.219567&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

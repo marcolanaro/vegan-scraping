@@ -1,0 +1,16 @@
+{
+  "title": "Wegmans",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large chain market with a pay-by-weight vegetarian bar and plenty of clearly labeled vegan items. Grocery store side labels vegan products with a V on front of packaging.",
+  "streetAddress": "7830 Wormans Mill Rd",
+  "postalCode": "21701",
+  "phone": "tel:240-575-7300",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.446393,-77.399776&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.446393,-77.399776&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Amalthea Bokcafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza\n                                    ",
+  "description": "Vegetarian restaurant offers vegan options including cheese and tomato toast. Has a large selection of books, patches, pins, stickers and more. Free Wi-fi. Also is an event venue. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kristianstadsgatan 41",
+  "phone": "tel:0044769102710",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 3:00pm-7:00pm, Wed-Thu 3:00pm-7:00pm, Sat 1:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.591195,13.016336&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.591195,13.016336&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

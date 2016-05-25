@@ -1,0 +1,17 @@
+{
+  "title": "Perfect Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Western, Fast food, Delivery, Take-out, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has plenty of vegetarian pizzas that can easily be ordered vegan by asking for vegan cheese (no extra charge). The bases are made with organic plain, wholemeal or gluten free flour. All ingredients are bought locally and fresh every day.",
+  "priceRange": "Moderate",
+  "streetAddress": "2/82 Hyde St",
+  "postalCode": "2454",
+  "phone": "tel:66552022",
+  "venueHours": "\n                                                                                                        Tue-Sun 5:00pm-9:00pm, Fri-Sat 11:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-30.451977,152.896153&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-30.451977,152.896153&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

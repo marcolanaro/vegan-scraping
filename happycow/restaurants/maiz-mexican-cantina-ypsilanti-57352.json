@@ -1,0 +1,20 @@
+{
+  "title": "Maiz Mexican Cantina",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican cantina. Can order most entrees with a potato zucchini hash, and there are a few vegetarian taco options. Cheap taco Tuesdays.",
+  "priceRange": "Moderate",
+  "streetAddress": "36 E Cross St",
+  "postalCode": "48198",
+  "phone": "tel:734-340-6010",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-1:00am, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/MaizMexicanCantina",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.245720,-83.609739&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.245720,-83.609739&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

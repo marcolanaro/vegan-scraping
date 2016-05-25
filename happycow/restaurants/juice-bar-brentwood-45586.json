@@ -1,0 +1,18 @@
+{
+  "title": "The Juice Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice bar using whole fruits and veggies, organic when possible. Has a grab n go case with packages foods. No direct phone for the shop, per owner.",
+  "streetAddress": "128 Pewitt Dr",
+  "postalCode": "37027",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-5:30pm, Sat 8:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ilovejuicebar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.034635,-86.787123&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.034635,-86.787123&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Gumbo Shop",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Creole, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Creole restaurant in the French Quarter that has a daily vegetarian special and a Gumbo Z'Herbes. Usually both are vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "630 St Peter St",
+  "postalCode": "70130",
+  "phone": "tel:504-525-1486",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.957537,-90.064416&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.957537,-90.064416&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

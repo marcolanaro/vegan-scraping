@@ -1,0 +1,17 @@
+{
+  "title": "Yew Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale restaurant has a separate vegan menu for both lunch and dinner, including things like truffle mac and cheese made with daiya cheese, saffron risotto, tacos, coconut pana cotta and more. Located in the Four Seasons Hotel. Please ask if vegan menu is available for brunch.",
+  "priceRange": "Expensive",
+  "streetAddress": "791 W Georgia St",
+  "postalCode": "V6C 2T4",
+  "phone": "tel:604-692-4939",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-2:30pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.283210,-123.118708&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.283210,-123.118708&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

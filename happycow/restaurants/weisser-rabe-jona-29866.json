@@ -1,0 +1,18 @@
+{
+  "title": "Weisser Rabe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Beer/Wine\n                                    ",
+  "description": "Little vegetarian cafe uses local, organic products, very friendly, accommodating vegans - just ask.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Allmeindstrasse 29",
+  "postalCode": "8645",
+  "phone": "tel:079-546-57-30",
+  "venueHours": "\n                                                                                                        Tue-Fri 8:30am-5:00pm, Sat 8:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.232722,8.836776&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.232722,8.836776&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

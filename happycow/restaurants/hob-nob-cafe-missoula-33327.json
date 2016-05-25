@@ -1,0 +1,19 @@
+{
+  "title": "Hob Nob Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small cafe that serves breakfast, brunch, and lunch with ovo-lacto vegetarian choices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "531 S Higgins Ave",
+  "postalCode": "59801",
+  "phone": "tel:406-521-4622",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-4:00pm, Sat-Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/HobNobOnHiggins",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.866303,-113.997472&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.866303,-113.997472&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

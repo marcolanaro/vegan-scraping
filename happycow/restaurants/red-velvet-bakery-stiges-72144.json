@@ -1,0 +1,19 @@
+{
+  "title": "Red Velvet Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Bakery, European, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery and cafe offering a few marked vegan choices and has soy milk.",
+  "priceRange": "Moderate",
+  "streetAddress": "Passeig de la Ribera 8",
+  "postalCode": "08870 Sitges",
+  "phone": "tel:938943903",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:30am-5:00pm, Sat 9:30am-10:00pm, Sun 9:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/RedVelvetSitges",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.235071,1.810234&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.235071,1.810234&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

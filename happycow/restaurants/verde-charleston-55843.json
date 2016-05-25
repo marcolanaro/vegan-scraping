@@ -1,0 +1,18 @@
+{
+  "title": "Verde",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Fast food, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Create your own salad or wrap from selection of ingredients and handmade dressings.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "347 King St",
+  "postalCode": "29401",
+  "phone": "tel:843-579-2884",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/EatatVerde",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.784788,-79.935805&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.784788,-79.935805&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

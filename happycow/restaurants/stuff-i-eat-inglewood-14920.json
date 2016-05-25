@@ -1,0 +1,18 @@
+{
+  "title": "Stuff I Eat",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Take-out, Mexican, Soul Food\n                                    ",
+  "description": "Vegan restaurant located on a town center walking and shopping street. Menu features soul food, sandwiches, tofu and wild rice tacos, burritos, quesadillas, salads, smoothies, desserts, and raw pies. Colorful and spacious, casual dining. Parking on street just outside the restaurant. June 2, 2015 confirmed it's still open.",
+  "priceRange": "Moderate",
+  "streetAddress": "114 N Market St",
+  "postalCode": "90301",
+  "phone": "tel:310-671-0115",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-8:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.963380,-118.351950&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.963380,-118.351950&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Farmers Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Seasonally May through October end at Pomono Square, run by the Chamber of Commerce.",
+  "streetAddress": "1700 Reisterstown Rd",
+  "postalCode": "21208",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 2:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.380308,-76.730651&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.380308,-76.730651&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

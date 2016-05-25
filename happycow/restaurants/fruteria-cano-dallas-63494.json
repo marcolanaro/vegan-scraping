@@ -1,0 +1,15 @@
+{
+  "title": "Fruteria Cano",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Small shop selling cut fresh fruit.",
+  "streetAddress": "800 S Beacon St",
+  "postalCode": "75223",
+  "phone": "tel:214-370-4945",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.796698,-96.750364&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.796698,-96.750364&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

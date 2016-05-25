@@ -1,0 +1,15 @@
+{
+  "title": "Persian Garden Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Middle Eastern, Persian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pleasant atmosphere. Several veg items, a few vegan suitable ones.",
+  "priceRange": "Expensive",
+  "streetAddress": "1335 W Thomas Rd",
+  "postalCode": "85013",
+  "phone": "tel:602-263-1915",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm, Tue-Sat 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.480710,-112.089520&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.480710,-112.089520&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

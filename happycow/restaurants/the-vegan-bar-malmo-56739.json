@@ -1,0 +1,18 @@
+{
+  "title": "The Vegan Bar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Fast food\n                                    ",
+  "description": "Opened in early-2015 a vegan bar/cafe in the city centre. Serves burgers along with salads and chips.",
+  "priceRange": "Moderate",
+  "streetAddress": "Södra Skolgatan 45",
+  "postalCode": "21422",
+  "phone": "tel:040234003",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-11:00pm, Fri 11:00am-1:00am, Sat 12:00pm-1:00am, Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/veganbarmalmo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.592173,13.006554&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.592173,13.006554&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

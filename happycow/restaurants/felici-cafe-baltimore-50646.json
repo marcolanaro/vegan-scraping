@@ -1,0 +1,17 @@
+{
+  "title": "Felici Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Juice bar, Take-out, Caribbean, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Several salads contain nuts, edamame, chickpeas, and tofu; has a marinated vegetable sandwich.  Dressings are labeled vegan. Also smoothie, coffee, and juice bar. Fun atmosphere with bright colors, Wi-Fi. Staff is knowledgeable about what vegan means.",
+  "priceRange": "Moderate",
+  "streetAddress": "1035 Light St",
+  "postalCode": "21230",
+  "phone": "tel:443-388-9692",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:00am-7:00pm, Fri-Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.277525,-76.612169&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.277525,-76.612169&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

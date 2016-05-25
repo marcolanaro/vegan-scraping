@@ -1,0 +1,18 @@
+{
+  "title": "Harper's Burger Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Organic, Beer/Wine, Delivery, Take-out, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual restaurant and bar. Build your own burger with a chickpea patty, with buns or lettuce, or get the veggie stack, veggie hot dog, or vegan sandwich. Also has a quinoa and sprouted rice salad among other veggie choices. Uses some biodegradable packaging materials.",
+  "priceRange": "Moderate",
+  "streetAddress": "93 Princess St",
+  "postalCode": "K7L 1A6",
+  "phone": "tel:613-507-3663",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-9:00pm, Fri-Sat 11:30am-10:00pm, Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.231643,-76.482179&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.231643,-76.482179&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

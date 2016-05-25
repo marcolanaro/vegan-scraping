@@ -1,0 +1,19 @@
+{
+  "title": "Nourish Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Take-out\n                                    ",
+  "description": "Plant-based, organic, whole food cafe opened Feb 2015 in the Richmond District. Uses natural sweeteners and minimal oil. Salads and sandwiches available from 11am.",
+  "priceRange": "Moderate",
+  "streetAddress": "189 6th Ave",
+  "postalCode": "94118",
+  "phone": "tel:415-571-8780",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-7:00pm, Fri 7:00am-3:00pm, Sat-Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/nourishcafesanfran",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.785108,-122.464602&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.785108,-122.464602&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

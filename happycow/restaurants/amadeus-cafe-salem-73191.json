@@ -1,0 +1,20 @@
+{
+  "title": "Amadeus Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, International, Organic, Beer/Wine, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Long standing restaurant with a farm-to-table menu, which as a separate section with vegetarian food including its signature hummus, as well as salads, apps, risottos, vegan torta, ratatouille, seasonal veggie plates. More upscale environment and accommodating to vegans.",
+  "priceRange": "Expensive",
+  "streetAddress": "135 Liberty St NE",
+  "postalCode": "97301",
+  "phone": "tel:503-362-8830",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Amadeus-Restaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.940369,-123.038672&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.940369,-123.038672&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

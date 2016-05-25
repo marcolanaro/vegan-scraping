@@ -1,0 +1,14 @@
+{
+  "title": "Half Baked Company",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "A health-inspired bakery that bakes with half the fat, calories, and sugar. Has vegan and gluten free cakes and other treats.",
+  "streetAddress": "1126 W Burbank Blvd",
+  "postalCode": "91506",
+  "phone": "tel:310-880-8380",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 12:00pm-5:00pm, Tue-Sat 10:00am-5:30pm, Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/halfbakedco",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.183186,-118.324822&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.183186,-118.324822&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

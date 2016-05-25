@@ -1,0 +1,16 @@
+{
+  "title": "Pieology",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Build-your-own pizza franchise pizzeria. Has vegan cheese or go cheeseless; lots of vegetables and multiple sauce choices. A few salads as well. The wheat crust and gluten-free crust are vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1000 Metro Center Blvd",
+  "postalCode": "94404",
+  "phone": "tel:650-212-7571",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pieology",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.560824,-122.274138&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.560824,-122.274138&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

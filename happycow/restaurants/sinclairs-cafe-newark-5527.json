@@ -1,0 +1,15 @@
+{
+  "title": "Sinclair's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast, veggieburgers, salads, sandwiches. Limited or no vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "177 E Main St",
+  "postalCode": "19711",
+  "phone": "tel:302-368-7755",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.683600,-75.746200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.683600,-75.746200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

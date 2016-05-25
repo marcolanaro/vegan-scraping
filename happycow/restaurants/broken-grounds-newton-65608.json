@@ -1,0 +1,15 @@
+{
+  "title": "Broken Grounds",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Take-out, Bakery\n                                    ",
+  "description": "Coffee shop cafe situated one block from Highlands stop on the D-line. Offers veggie wraps, salads, quinoa & brown rice bowls, juices, smoothies, acai bowls, espresso drinks, and pastries.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1182 Walnut St",
+  "postalCode": "02461",
+  "phone": "tel:617-969-3535",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-6:00pm, Sat 8:00am-4:00pm, Sun 8:00am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.321487,-71.205791&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.321487,-71.205791&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

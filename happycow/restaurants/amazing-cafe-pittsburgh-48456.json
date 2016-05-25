@@ -1,0 +1,17 @@
+{
+  "title": "Amazing Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Raw, Juice bar, Take-out\n                                    ",
+  "description": "All vegan except honey (labeled). Menu changes and offers salads, veggie burgers, raw food, smoothies, juices, soup, and dessert. Many gluten free options. Comfortable cafe attached to a yoga studio.",
+  "priceRange": "Moderate",
+  "streetAddress": "1506 E Carson St",
+  "postalCode": "15203",
+  "phone": "tel:412-432-5950",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-8:00pm, Sat-Sun 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.428679,-79.983114&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.428679,-79.983114&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

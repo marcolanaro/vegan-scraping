@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Lili",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Take-out, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The Bejjani family est. this Lebanese cuisine grill in 1991.",
+  "priceRange": "Moderate",
+  "streetAddress": "5757 Westheimer Rd Ste 112",
+  "postalCode": "77057",
+  "phone": "tel:713-952-6969",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Cafe-Lili-Lebanese-Grill-129216447109878",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.737080,-95.480072&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.737080,-95.480072&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

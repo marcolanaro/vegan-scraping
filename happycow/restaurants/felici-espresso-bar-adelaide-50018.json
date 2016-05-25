@@ -1,0 +1,19 @@
+{
+  "title": "Felici Espresso Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Western, Beer/Wine, Take-out, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe serving breakfast and brunch, pizza, some ovo-lacto vegetarian items. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "261 Rundle Street",
+  "postalCode": "5000",
+  "phone": "tel:0882233389",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-7:00pm, Fri-Sat 7:00am-10:00pm, Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.922578,138.608505&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.922578,138.608505&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

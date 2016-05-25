@@ -1,0 +1,17 @@
+{
+  "title": "Five Horses Tavern",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bar and American comfort food restaurant in Davis Square. Vegan could get the white bean hummus starter, bomb-mi (Vietnamese sandwich), a veggie burger patty (specify vegan), tofu curry, the grazing plate, and pizza in vegan version. Note the potato taco are fried in same oil as meat.",
+  "priceRange": "Moderate",
+  "streetAddress": "400 Highland Ave",
+  "postalCode": "02144",
+  "phone": "tel:617-764-1655",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-1:00am, Sat-Sun 10:30am-1:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.395677,-71.120862&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.395677,-71.120862&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Panini's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Dining in a pretty setting, also called Panini's on the Waterfront. Menu is primarily meat and dairy but kitchen will make a salad vegan and could customize a stone-baked pizza as well.",
+  "priceRange": "Moderate",
+  "streetAddress": "926 Bay St",
+  "postalCode": "29902",
+  "phone": "tel:843-379-0300",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PaninisCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.430724,-80.672619&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.430724,-80.672619&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

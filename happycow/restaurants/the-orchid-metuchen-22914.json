@@ -1,0 +1,18 @@
+{
+  "title": "The Orchid",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This Kosher restaurant has extensive vegetarian and vegan options including falafels, Israeli salad, hummus platters, baba ganoush, specialty dinner dishes and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "455 Main St",
+  "postalCode": "08840",
+  "phone": "tel:732-321-9829",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 12:00pm-8:00pm, Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.542865,-74.362282&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.542865,-74.362282&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

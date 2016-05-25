@@ -1,0 +1,18 @@
+{
+  "title": "Seabreeze Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American breakfast and lunch cafe. While most dishes contain dairy, egg, and meat, the kitchen will cater for veg and gluten-free diets. Has a tofu scramble and a tofu curry at breakfast and a mushroom burger at lunch (vegan ask to omit cheese).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "542 Seabright Ave",
+  "postalCode": "95062",
+  "phone": "tel:831-427-9713",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:00am-2:00pm, Sun 7:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.968348,-122.007584&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.968348,-122.007584&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

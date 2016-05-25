@@ -1,0 +1,18 @@
+{
+  "title": "Olive Tree Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mediterranean cuisine with a few vegan possibilities including hummus wrap, falafel wrap, Marrakesh salad, baba ganoush and stuffed grape leaves. Order at the counter and food is brought to the table.",
+  "priceRange": "Moderate",
+  "streetAddress": "2513 53rd Ave",
+  "postalCode": "52722",
+  "phone": "tel:563-332-3444",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:00pm, Fri-Sat 11:00am-9:00pm, Sun 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheOliveTreeCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.573920,-90.497222&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.573920,-90.497222&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

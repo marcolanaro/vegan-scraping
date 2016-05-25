@@ -1,0 +1,16 @@
+{
+  "title": "Get Baked",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Vegetarian bakery offers made-in-house breads, muffins, cookies, cakes and daily dessert specials. Serves organic coffee. Vegan options include cakes, cupcakes, scones, crumb cake, and more. Also serves frittatas and challah rolls. Has gluten free options.",
+  "streetAddress": "25 Central St",
+  "postalCode": "06095",
+  "phone": "tel:860-688-0420",
+  "venueHours": "\n                                                                                                        Mon-Tue 6:00am-2:00pm, Thu-Fri 6:00am-2:00pm, Sat-Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/getbakedct",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.852008,-72.643734&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.852008,-72.643734&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

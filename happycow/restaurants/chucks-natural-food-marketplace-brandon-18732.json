@@ -1,0 +1,16 @@
+{
+  "title": "Chuck's Natural Food Marketplace",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Natural food market.",
+  "streetAddress": "114 N Kings Ave",
+  "postalCode": "33510",
+  "phone": "tel:813-657-2555",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-8:00pm, Sat 9:00am-6:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Chucks-Natural-Food-Market/203973759626675",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.938680,-82.293940&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.938680,-82.293940&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

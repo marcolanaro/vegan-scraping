@@ -1,0 +1,19 @@
+{
+  "title": "Ithaca Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Salad bar, Delivery, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu is meat-heavy but also includes some labeled vegetarian and vegan items. Vegans could get tofutti cream cheese, soy or almond milk, seitan panini, and tofu scramble. A full salad and hot foods bar, fresh baked bread. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "400 Meadow St",
+  "postalCode": "14850",
+  "phone": "tel:607-273-7110",
+  "venueHours": "\n                                                                                                        Mon-Thu 6:00am-8:00pm, Fri-Sat 6:00am-9:00pm, Sun 6:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ithacabakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.442620,-76.508666&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.442620,-76.508666&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Mustache Mike's Italian Ice - Food Truck",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Mobile truck serving non-dairy, kosher, real fruit puree Italian ice. Check its facebook for latest location & time.",
+  "streetAddress": "Orlando",
+  "postalCode": "32803",
+  "phone": "tel:407-490-6827",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/mustachemikesorlando",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.553398,-81.359936&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.553398,-81.359936&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

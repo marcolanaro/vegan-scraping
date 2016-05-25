@@ -1,0 +1,15 @@
+{
+  "title": "My Gyro Turkish Cuisine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has some veg choices like baba banoush, hummus, falafel, stuffed grape leaves.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1030 Stratford Ave",
+  "postalCode": "06615",
+  "phone": "tel:203-873-0831",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.186859,-73.130576&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.186859,-73.130576&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

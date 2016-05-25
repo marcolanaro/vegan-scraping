@@ -1,0 +1,19 @@
+{
+  "title": "Imperial",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Fast food, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Busy Mexican street food restaurant and bar frequented by a younger crowd. Offers faux meat substitutes (Smartdog and tempeh) for the tacos and the specials -- will accommodate when asked.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "22828 Woodward Ave",
+  "postalCode": "48220",
+  "phone": "tel:248-850-8060",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.461040,-83.134298&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.461040,-83.134298&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

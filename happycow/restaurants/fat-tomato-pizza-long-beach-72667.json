@@ -1,0 +1,18 @@
+{
+  "title": "Fat Tomato Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan cheese available for pizzas and salads. Multiple locations.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2130 E Broadway",
+  "postalCode": "90803",
+  "phone": "tel:562-343-2287",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.766622,-118.165122&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.766622,-118.165122&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "La Pomme d'Api",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic shop providing a wide range of vegan products such as seitan, tempeh, tofu, cheese, milk, chocolate and more. Also carries gluten-free products, fresh organic vegetables, pasta, spices, fermented foods, and nutritional supplements.",
+  "streetAddress": "Avenue de la Gare 12",
+  "postalCode": "1870",
+  "phone": "tel:024-471-22-54",
+  "venueHours": "\n                                                                                                        Mon-Fri 1:30pm-6:30pm, Tue-Sat 8:30am-12:00pm, Sat 1:30pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.252839,6.948886&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.252839,6.948886&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

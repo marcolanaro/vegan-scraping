@@ -1,0 +1,18 @@
+{
+  "title": "&pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. DC/Maryland based chain of build-your-own-pizza restaurants. Has vegan cheese, vegan beef crumbles and base. Or pick a pizza from its menu. Vegetarian and vegan items are marked.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11626 Old Georgetown Rd",
+  "postalCode": "20852",
+  "phone": "tel:240-621-7016",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.049596,-77.116585&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.049596,-77.116585&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

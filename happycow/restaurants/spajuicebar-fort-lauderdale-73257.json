@@ -1,0 +1,19 @@
+{
+  "title": "SpaJuiceBar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Organic, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "Organic cold pressed juice bar serving elixirs, herbal boosters, smoothies, acai bowls, pitaya bowls, light food, and desserts. Grab-and-go setup with bar seating and a table. A parking garage is across the street.",
+  "priceRange": "Moderate",
+  "streetAddress": "1217 E Las Olas Blvd",
+  "postalCode": "33301",
+  "phone": "tel:954-769-1806",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/spajuicebar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.119500,-80.130604&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.119500,-80.130604&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

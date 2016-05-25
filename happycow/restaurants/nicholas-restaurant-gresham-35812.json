@@ -1,0 +1,15 @@
+{
+  "title": "Nicholas Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Catering, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lebanese & Middle Eastern cuisine restaurant with also locations in Portland. Lots of the usual meat stuff but also vegan & vegetarian suitable food from hummus and stuffed grape leaves to falafel and vegan lentil soup.",
+  "priceRange": "Moderate",
+  "streetAddress": "323 N Main Ave",
+  "postalCode": "97030",
+  "phone": "tel:xn--503-6663333-sg3f",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.499978,-122.431099&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.499978,-122.431099&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

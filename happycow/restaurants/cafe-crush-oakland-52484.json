@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Crush",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Raw, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Nut-free and mostly vegan, raw, and gluten free menu. The few non-vegetarian items are labeled as such. This cafe is focused on promoting nutrition and is an affordable place to get a veggie-packed sandwich along with a green smoothie.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3943 Piedmont Ave",
+  "postalCode": "94611",
+  "phone": "tel:510-788-4278",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.825439,-122.253955&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.825439,-122.253955&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

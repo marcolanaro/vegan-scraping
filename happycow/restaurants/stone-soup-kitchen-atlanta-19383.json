@@ -1,0 +1,18 @@
+{
+  "title": "Stone Soup Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A breakfast and brunch restaurant with vegan options. Has vegan butter, soy milk, and tofu. Vegans note that the soysage is Morningstar brand and has eggs in it. Quiet outdoor patio seating hidden away from the street available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "584 Woodward Ave",
+  "postalCode": "30312",
+  "phone": "tel:404-524-1222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:30am-3:00pm, Sat-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.745500,-84.368440&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.745500,-84.368440&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

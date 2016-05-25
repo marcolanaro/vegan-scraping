@@ -1,0 +1,15 @@
+{
+  "title": "Lebanese Cuisine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Mediterranean, Take-out, Bakery, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small Lebanese eatery that offers falafel wraps, hummus, tabouli, and other Middle Eastern fare.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "34 Temple St",
+  "postalCode": "04901",
+  "phone": "tel:207-873-7813",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-4:00pm, Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.550652,-69.628983&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.550652,-69.628983&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

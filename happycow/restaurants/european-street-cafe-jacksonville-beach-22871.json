@@ -1,0 +1,17 @@
+{
+  "title": "European Street Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Beer/Wine, Take-out, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Multiple locations serving large selection sandwiches/heros/clubs, plus salads and other mains. Offers some marked vegetarian items and a veg section. Relaxed atmosphere.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "992 Beach Blvd",
+  "postalCode": "32250",
+  "phone": "tel:904-249-3001",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.287776,-81.399280&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.287776,-81.399280&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

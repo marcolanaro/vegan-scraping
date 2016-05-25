@@ -1,0 +1,17 @@
+{
+  "title": "Himalayan Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, Beer/Wine, Take-out, Nepalese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has many vegetarian dishes. Live music Friday nights and bellydancing Saturday nights.",
+  "priceRange": "Moderate",
+  "streetAddress": "1639 S State St",
+  "postalCode": "95482",
+  "phone": "tel:707-467-9900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.124290,-123.204270&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.124290,-123.204270&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

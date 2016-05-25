@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Bliss",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Juice bar, Take-out, All Raw\n                                    ",
+  "description": "Victoria raw food restaurant cafe serving daily lunch specials, juices, superfood smoothies, energy elixirs, and desserts. Vegan except for honey. Counter service and bar stools with tables and chairs.",
+  "priceRange": "Moderate",
+  "streetAddress": "556 Pandora Ave",
+  "postalCode": "V8W 1N7",
+  "phone": "tel:250-590-5733",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.428510,-123.368120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.428510,-123.368120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

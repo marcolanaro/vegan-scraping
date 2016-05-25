@@ -1,0 +1,19 @@
+{
+  "title": "Vegeme",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out, Asian\n                                    ",
+  "description": "Vegetarian restaurant opened Sept 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shop 9, 220 Melbourne St",
+  "postalCode": "4101",
+  "phone": "tel:38462723",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-8:00pm, Fri-Sat 11:00am-9:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/VegeMe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.477151,153.013509&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.477151,153.013509&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

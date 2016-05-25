@@ -1,0 +1,20 @@
+{
+  "title": "Fitness Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Kitchen keeps smoked tofu, vegan cheese, vegan chicken and beef -- which you could ask for in your entree, taco, and other dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "18246 Imperial Hwy",
+  "postalCode": "92886",
+  "phone": "tel:714-993-5421",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/fitnessgrill",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.889688,-117.815633&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.889688,-117.815633&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

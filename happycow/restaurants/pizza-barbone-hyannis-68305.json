@@ -1,0 +1,20 @@
+{
+  "title": "Pizza Barbone",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale pizza restaurant. Makes a cashew cheese, with a few other items able to be requested vegan. Has a gluten free crust for pizza. Seasonally grows its own produce and/or sources locally.",
+  "priceRange": "Expensive",
+  "streetAddress": "390 Main St",
+  "postalCode": "02601",
+  "phone": "tel:508-957-2377",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Pizza-Barbone-113387988701780",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.652678,-70.284191&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.652678,-70.284191&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

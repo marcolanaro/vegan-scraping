@@ -1,0 +1,18 @@
+{
+  "title": "Jasmine Cafe & Lounge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Take-out, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Busy cafe and bar in downtown. Has quiet seating in back. Offer Asian fusion and sushi. Reported you can get veggie sushi, tofu bahn mi, and a tofu stir fry over brown rice plate.",
+  "priceRange": "Moderate",
+  "streetAddress": "109 E College Ave",
+  "postalCode": "32301",
+  "phone": "tel:850-681-6868",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-10:00pm, Fri 11:30am-10:30pm, Sat 12:00pm-10:30pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/JasmineCafeTally",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.440542,-84.281455&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.440542,-84.281455&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

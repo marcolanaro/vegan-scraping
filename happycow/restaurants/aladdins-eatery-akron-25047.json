@@ -1,0 +1,20 @@
+{
+  "title": "Aladdin's Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Mediterranean, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise chain Mediterranean/Middle Eastern food restaurant. Large menu with veg suitable items including hummus, baba, tabouli, falafel, vegetable soup, chili, lentil soup, salads, wraps, mujadara plate, and pita pizzas. An assortment of teas, juices, and smoothies. Sometimes serves locally made vegan cookies.",
+  "priceRange": "Moderate",
+  "streetAddress": "782 W Market St",
+  "postalCode": "44303",
+  "phone": "tel:330-535-0110",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/AladdinsEatery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.096134,-81.542622&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.096134,-81.542622&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

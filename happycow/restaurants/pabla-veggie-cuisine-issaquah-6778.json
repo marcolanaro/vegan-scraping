@@ -1,0 +1,15 @@
+{
+  "title": "Pabla Veggie Cuisine",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Kosher\n                                    ",
+  "description": "100% meat, egg, smoking and alcohol free. Food can also be made without any diary products for vegan. Also a kosher restaurant and has kosher certification from the Va'ad HaRabanim of Seattle.",
+  "priceRange": "Moderate",
+  "streetAddress": "1420 NW Gilman Blvd Ste N3",
+  "postalCode": "98027",
+  "phone": "tel:425-392-4725",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-3:00pm, 5:00pm-10:00pm, Wed-Sun 11:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.545510,-122.060270&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.545510,-122.060270&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

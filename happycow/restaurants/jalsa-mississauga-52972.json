@@ -1,0 +1,18 @@
+{
+  "title": "Jalsa",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Fast food, Take-out, Catering\n                                    ",
+  "description": "Vegetarian Indian fast food eatery. Seats 50. Sample menu items are dosa, grilled sandwich, chaat, paratha, pizza, and vada pav.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2555 Erin Centre Blvd Unit 3 & 4",
+  "postalCode": "L5M5G9",
+  "phone": "tel:905-814-1919",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 12:00pm-9:30pm, Fri-Sat 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/JalsaFastFood",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.562979,-79.710145&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.562979,-79.710145&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

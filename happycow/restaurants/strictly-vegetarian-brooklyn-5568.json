@@ -1,0 +1,17 @@
+{
+  "title": "Strictly Vegetarian",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Take-out, Caribbean, Soul Food\n                                    ",
+  "description": "Basic place with counter service, primarily takeaway with a few seats. Offers a variety of dishes made using vegetables, beans, tofu, and mock meats served over rice or pasta.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2268 Church Ave",
+  "postalCode": "11226",
+  "phone": "tel:718-284-2543",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-9:00pm, Sun 1:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.650440,-73.957720&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.650440,-73.957720&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "July - August only. Outdoor farmers' market.",
+  "streetAddress": "Martin Luther King Jr Blvd",
+  "postalCode": "90262",
+  "phone": "tel:310-885-3751",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.929349,-118.201561&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.929349,-118.201561&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

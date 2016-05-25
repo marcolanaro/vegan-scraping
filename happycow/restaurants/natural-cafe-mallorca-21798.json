@@ -1,0 +1,18 @@
+{
+  "title": "Natural Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Organic, Juice bar, Asian, Fusion, Spanish\n                                    ",
+  "description": "Small cafe operated by a mother and daughter team. Serves organic tea, fresh juices, and a variety of vegetarian and vegan meals. Originally est. in mid-2000s as Q Cute.",
+  "priceRange": "Moderate",
+  "streetAddress": "Plaça Patrons Cristino 5 Port d'Andratx",
+  "postalCode": "07157",
+  "phone": "tel:971671605",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.544439,2.388924&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.544439,2.388924&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

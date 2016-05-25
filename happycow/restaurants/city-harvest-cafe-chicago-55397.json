@@ -1,0 +1,20 @@
+{
+  "title": "City Harvest Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Take-out, All Raw\n                                    ",
+  "description": "Little organic health bar offering cold pressed juices, superfood blends, wheatgrass, elixirs, goji bowls, and a few raw food items. Since May 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "2931 N Broadway",
+  "postalCode": "60657",
+  "phone": "tel:773-360-7226",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 9:00am-6:00pm, Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cityharvestcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.935868,-87.644248&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.935868,-87.644248&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

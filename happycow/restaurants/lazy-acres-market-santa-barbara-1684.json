@@ -1,0 +1,14 @@
+{
+  "title": "Lazy Acres Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A specialty foods market that stocks local and organic produce, vitamins, bulk staples. Has a bakery, deli, juice bar, espresso bar, salad bar. Another location in Long Beach.",
+  "streetAddress": "302 Meigs Rd",
+  "postalCode": "93109",
+  "phone": "tel:805-564-4410",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-11:00pm, Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/LazyAcresMarket",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.399830,-119.722560&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.399830,-119.722560&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

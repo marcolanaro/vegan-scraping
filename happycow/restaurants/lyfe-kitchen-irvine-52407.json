@@ -1,0 +1,18 @@
+{
+  "title": "Lyfe Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, Organic, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Healthier eating concept restaurant with multiple locations. Offers a separate vegan menu with range of choices including flatbreads with vegan cheese, soups, salads, quinoa crunch wrap, Gardein chickn burger, mains like risotto and ravioli, plus desserts. Selection of refreshing beverages made with fruit.",
+  "priceRange": "Moderate",
+  "streetAddress": "407 Spectrum Center Dr",
+  "postalCode": "92618",
+  "phone": "tel:949-727-1252",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 8:00am-9:00pm, Fri-Sat 8:00am-10:00pm, Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.650873,-117.743378&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.650873,-117.743378&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

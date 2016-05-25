@@ -1,0 +1,19 @@
+{
+  "title": "The Bubble",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Indian, Beer/Wine, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bar, burgers and Indian fusion foods. Offers a veggie burger that could be prepared vegan upon request. Simple, trendy atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "Kirchstrasse 38",
+  "postalCode": "3920",
+  "phone": "tel:+41-787987558",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.019140,7.747465&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.019140,7.747465&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

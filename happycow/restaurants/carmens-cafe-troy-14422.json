@@ -1,0 +1,18 @@
+{
+  "title": "Carmen's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Delivery, Take-out, Latin American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Latin food. Has vegetarian hash and veggie slider, plus wine, and sangria blended with organic fruit juices. Specify if you are vegan. Gluten free food on request. entertainment. Has daily specials, Wi-Fi, and entertainment at night.",
+  "priceRange": "Moderate",
+  "streetAddress": "198 First St",
+  "postalCode": "12180",
+  "phone": "tel:518-326-2064",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 11:00am-6:00pm, Fri 11:00am-10:00pm, Sat-Sun 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.723160,-73.694420&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.723160,-73.694420&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

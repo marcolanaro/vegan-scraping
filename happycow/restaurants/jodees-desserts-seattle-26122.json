@@ -1,0 +1,16 @@
+{
+  "title": "Jodee's Desserts",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A organic desserts shop offering gluten and dairy free desserts, fresh fruit smoothies, and french press Stumptown coffee.",
+  "streetAddress": "7214 Woodlawn Ave",
+  "postalCode": "98115",
+  "phone": "tel:206-525-2900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.680954,-122.324969&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.680954,-122.324969&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

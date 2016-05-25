@@ -1,0 +1,15 @@
+{
+  "title": "El Faro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican restaurant offering faux meat and soy cheese as substitute.",
+  "priceRange": "Moderate",
+  "streetAddress": "3936 W 31st St",
+  "postalCode": "60623",
+  "phone": "tel:773-277-1155",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.836830,-87.723140&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.836830,-87.723140&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

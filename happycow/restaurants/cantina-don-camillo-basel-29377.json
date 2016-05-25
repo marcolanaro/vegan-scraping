@@ -1,0 +1,16 @@
+{
+  "title": "Cantina don Camillo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located in the heart of the former Warteck Brewery on the 2nd floor. Serves vegan options for lunch and dinner.",
+  "priceRange": "Moderate",
+  "streetAddress": "Burgweg 7",
+  "phone": "tel:+41-61-693-05-07",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.558137,7.601180&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.558137,7.601180&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

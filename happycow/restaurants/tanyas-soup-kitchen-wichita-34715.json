@@ -1,0 +1,20 @@
+{
+  "title": "Tanya's Soup Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Deli style quick service restaurant. Makes grilled sandwiches and in-house-made soups that change daily. Vegan and gluten free available.",
+  "priceRange": "Moderate",
+  "streetAddress": "1725 E Douglas Ave",
+  "postalCode": "67211",
+  "phone": "tel:316-267-7687",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-3:00pm, Fri-Sat 5:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tanyassoupkitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.685984,-97.316261&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.685984,-97.316261&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

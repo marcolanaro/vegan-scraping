@@ -1,0 +1,20 @@
+{
+  "title": "The Lake View Hotel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Standard upmarket pub offering a wide range food including breakfast, pizza, foccacia, and hot dishes. Some vegetarian choices; uses egg and dairy.",
+  "priceRange": "Expensive",
+  "streetAddress": "22 Wendouree Parade",
+  "postalCode": "3350",
+  "phone": "tel:0353314592",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-12:00am, Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/The-Lake-View-Hotel/162686023745744",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.553874,143.843034&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.553874,143.843034&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

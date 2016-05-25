@@ -1,0 +1,20 @@
+{
+  "title": "Taylor Made Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Ask to make your dish vegan. Website menu does not show the daily changing vegan special, so check facebook.",
+  "priceRange": "Moderate",
+  "streetAddress": "12160 S Shore Blvd Unit 105",
+  "postalCode": "33414",
+  "phone": "tel:561-729-0441",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/taylormadecafewellington",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.649784,-80.238591&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.649784,-80.238591&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

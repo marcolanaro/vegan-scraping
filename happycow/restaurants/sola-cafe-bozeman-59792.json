@@ -1,0 +1,16 @@
+{
+  "title": "Sola Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a few vegan choices. Comfortable cafe setting.",
+  "priceRange": "Moderate",
+  "streetAddress": "290 Kagy Blvd",
+  "phone": "tel:406-922-7652",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.660037,-111.041093&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.660037,-111.041093&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

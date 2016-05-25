@@ -1,0 +1,17 @@
+{
+  "title": "Sticky Rice",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Chinese, Japanese, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a mix of American and Pan-Asian entrees. Lots choices for vegetarians marked, including vegan sushi with spicy mayo.",
+  "priceRange": "Moderate",
+  "streetAddress": "1634 Aliceanna St",
+  "postalCode": "21231",
+  "phone": "tel:443-682-8243",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:30am-10:30pm, Thu-Sat 11:30am-11:00pm, Sun 11:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.283611,-76.593812&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.283611,-76.593812&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

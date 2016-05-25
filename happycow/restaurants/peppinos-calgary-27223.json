@@ -1,0 +1,16 @@
+{
+  "title": "Peppino's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Delivery, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small Italian market/sub shop.  Features a long list of vegetarian (contains dairy) sub options, but none are vegan. Vegans ask for no cheese. Some ingredients include roasted eggplant, artichoke hearts and spiced oils.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1240 Kensington Rd NW",
+  "phone": "tel:403-283-5360",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.052557,-114.091583&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.052557,-114.091583&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

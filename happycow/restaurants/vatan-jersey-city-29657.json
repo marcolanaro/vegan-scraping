@@ -1,0 +1,17 @@
+{
+  "title": "Vatan",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Buffet, Delivery, Take-out\n                                    ",
+  "description": "Vegetarian traditional Indian restaurant with cuisine from the state of Gujarat. Has vegan options. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "839 Newark Ave",
+  "postalCode": "07306",
+  "phone": "tel:201-839-5426",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.735712,-74.066535&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.735712,-74.066535&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

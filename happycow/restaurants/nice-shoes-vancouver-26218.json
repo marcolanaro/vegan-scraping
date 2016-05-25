@@ -1,0 +1,17 @@
+{
+  "title": "Nice Shoes",
+  "tags": [
+    "Veg-Store",
+    "Vegan"
+  ],
+  "description": "A vegan shoe store with a wide selection of eco and worker friendly brands. Offers vegan purses, bags, belts, wallets, guitar straps, handbags, candles, ties, umbrellas, lip balm, shoe polish, and more.",
+  "streetAddress": "3568 Fraser Street",
+  "postalCode": "V5V4C6",
+  "phone": "tel:604-558-3000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-6:00pm, Fri-Sat 11:00am-7:30pm, Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gotniceshoes",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.252871,-123.089976&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.252871,-123.089976&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

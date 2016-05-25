@@ -1,0 +1,18 @@
+{
+  "title": "Tabla",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Beer/Wine, Delivery, Take-out, Indo-Chinese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. As with Indian restaurants, the menu includes a section of around 20 or so vegetarian main dishes. Vegans need to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "5827 Caravan Ct",
+  "postalCode": "32819",
+  "phone": "tel:407-248-9400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-3:00pm, 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.476430,-81.454555&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.476430,-81.454555&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

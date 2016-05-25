@@ -1,0 +1,20 @@
+{
+  "title": "Juice Junkies",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Fast food, Juice bar, Delivery, Take-out\n                                    ",
+  "description": "Juice bar offering bottled organic cold-pressed juices plus cleanse packages, smoothies, grab-n-go salads and prepared foods like veggie sushi and hummus. Vegan except for honey.",
+  "priceRange": "Moderate",
+  "streetAddress": "925 Foch St",
+  "postalCode": "76107",
+  "phone": "tel:817-885-7775",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-6:30pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/juicejunkiestx",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.749627,-97.356132&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.749627,-97.356132&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

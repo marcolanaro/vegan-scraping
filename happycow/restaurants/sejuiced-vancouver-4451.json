@@ -1,0 +1,18 @@
+{
+  "title": "Sejuiced",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, International, Organic, Juice bar, Take-out\n                                    ",
+  "description": "Veggie restaurant offering a large variety of fresh juices; also organic salads, soups, and veggie burgers.",
+  "priceRange": "Moderate",
+  "streetAddress": "1958 W4th Ave",
+  "postalCode": "BC VJ6",
+  "phone": "tel:604-730-9906",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 9:00am-6:00pm, Tue-Sat 9:00am-8:00pm, Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sejuiced",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.268116,-123.149409&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.268116,-123.149409&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Chef Bo's Green Garden Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarian and vegan menu items, including tofu and seitan specialties. Try the seaweed salad.",
+  "priceRange": "Moderate",
+  "streetAddress": "1241 S Rand Rd",
+  "postalCode": "60047",
+  "phone": "tel:847-550-1168",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:30am-9:00pm, Fri-Sat 11:30am-10:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.177509,-88.076199&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.177509,-88.076199&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

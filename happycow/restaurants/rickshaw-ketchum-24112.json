@@ -1,0 +1,18 @@
+{
+  "title": "Rickshaw",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Ethnic street food restaurant makes food to order and uses organic and non gmo products. Dishes can be made vegan such as the dan-dan noodle, sesame baby bok choy with shitake mushroom, green papaya salad, grilled asparagus with chili garlic oil.",
+  "priceRange": "Moderate",
+  "streetAddress": "460 Washington Ave N",
+  "postalCode": "83340",
+  "phone": "tel:208-726-8481",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:30pm-10:00pm, Fri 11:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.680815,-114.366018&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.680815,-114.366018&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

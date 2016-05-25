@@ -1,0 +1,19 @@
+{
+  "title": "Amy's Drive Thru",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Pizza, Western, Fast food, Take-out\n                                    ",
+  "description": "Open July 2015 a vegetarian drive-through going head-to-head with a typical fast food places. Using Amy's Kitchen's own line of products, the menu offers veggie burgers, burritos, macaroni and cheese, pizza, salad, chili, as well as milkshakes and vegan non-dairy shakes. Each menu item can be ordered vegan or gluten-free.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "58 Golf Course Dr",
+  "postalCode": "94928",
+  "phone": "tel:707-781-7535",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.363306,-122.715002&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.363306,-122.715002&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

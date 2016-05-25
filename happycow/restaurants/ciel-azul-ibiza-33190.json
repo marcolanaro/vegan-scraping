@@ -1,0 +1,15 @@
+{
+  "title": "Ciel Azul",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Mediterranean\n                                    ",
+  "description": "Vegetarian restaurant serving panini, pizza, and more. Free Wi-fi and use of pool.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "C/Llevant 7, Santa Eulalia",
+  "postalCode": "07840",
+  "phone": "tel:600481449",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 1:00pm-4:00pm, Sat 1:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.993611,1.570408&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.993611,1.570408&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

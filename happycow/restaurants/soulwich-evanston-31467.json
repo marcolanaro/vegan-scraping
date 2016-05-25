@@ -1,0 +1,19 @@
+{
+  "title": "Soulwich",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Asian sandwiches and more, some of which can be made vegan. Offers Upton's brand seitan on the vegan versions. A few salads are vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "1634 Orrington Ave",
+  "postalCode": "60201",
+  "phone": "tel:847-328-2222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-9:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.047700,-87.681059&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.047700,-87.681059&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

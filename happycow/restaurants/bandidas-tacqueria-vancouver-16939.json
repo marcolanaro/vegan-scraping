@@ -1,0 +1,17 @@
+{
+  "title": "Bandidas Tacqueria",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Mexican\n                                    ",
+  "description": "Mexican cuisine menu with veggie tacos, burritos, nachos, spicy Mexican hot chocolate, and more; brunch daily until 3pm. Large community table seating, has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "2781 Commercial Drive",
+  "postalCode": "V5N 4C5",
+  "phone": "tel:604-568-8224",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-12:00am, Fri-Sat 9:00am-1:00am, Sun 9:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.259646,-123.069836&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.259646,-123.069836&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

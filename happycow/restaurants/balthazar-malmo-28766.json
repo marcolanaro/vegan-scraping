@@ -1,0 +1,17 @@
+{
+  "title": "Balthazar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Beer/Wine, European, Swedish\n                                    ",
+  "description": "Organic restaurant with bar. Serving vegetarian and vegan cuisine in Malmo. Eclectic decor with glow and colored lights.",
+  "priceRange": "Moderate",
+  "streetAddress": "Claesgatan 3",
+  "postalCode": "214 26",
+  "phone": "tel:040-6160203",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 4:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.590768,13.008282&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.590768,13.008282&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

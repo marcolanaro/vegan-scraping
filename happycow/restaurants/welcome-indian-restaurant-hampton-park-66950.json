@@ -1,0 +1,16 @@
+{
+  "title": "Welcome Indian Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurant where staff have knowledge of vegan food. Vegetable oil is used for cooking, all rice dishes are vegan, bread can be made without butter if requested.",
+  "priceRange": "Moderate",
+  "streetAddress": "28 Stuart Ave",
+  "postalCode": "3976",
+  "phone": "tel:03-97994790",
+  "venueHours": "\n                                                                                                        Tue-Sun 11:00am-2:30pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/WelcomeIndianRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-38.033672,145.265460&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-38.033672,145.265460&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

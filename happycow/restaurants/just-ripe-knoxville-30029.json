@@ -1,0 +1,18 @@
+{
+  "title": "Just Ripe",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A neighborhood kind of store. Stocks fresh produce, grab-and-go salads that are vegan. Has smoothie, juice, and coffee bar.",
+  "streetAddress": "513 Union Ave",
+  "postalCode": "37902",
+  "phone": "tel:865-851-9327",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/justripe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.964157,-83.920706&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.964157,-83.920706&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

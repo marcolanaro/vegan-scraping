@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Organic",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Organic, Juice bar, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. All menu items are made-in-house from scratch using only organic ingredients. Menu changes daily based on what is in season and what they receive from their organic farms. Has vegan choices. \r\n\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "113 Truxton Ave",
+  "postalCode": "32548",
+  "phone": "tel:850-585-3645",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.447118,-86.615637&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.447118,-86.615637&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Yeti Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Napalese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Nepali-Indian fusion restaurant with an outside patio deck. Menu has vegetarian dishes that are vegan suitable including the eggplant potato masala and chana pindi. Soups and breads can be made vegan upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "234 E St ",
+  "postalCode": "95901",
+  "phone": "tel:530-747-0123",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.544275,-121.741042&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.544275,-121.741042&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

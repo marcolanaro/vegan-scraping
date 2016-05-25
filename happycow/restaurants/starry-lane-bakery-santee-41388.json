@@ -1,0 +1,14 @@
+{
+  "title": "Starry Lane Bakery",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Allergy free bakery offering vegan, gluten free desserts. Take out only.",
+  "streetAddress": "10769 Woodside Ave Unit 110",
+  "postalCode": "92071",
+  "phone": "tel:619-328-0500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.839585,-116.964537&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.839585,-116.964537&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

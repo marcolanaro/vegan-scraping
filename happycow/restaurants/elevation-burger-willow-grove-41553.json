@@ -1,0 +1,19 @@
+{
+  "title": "Elevation Burger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Organic, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise burger restaurant offering 2 veggie burgers, served on buns or as lettuce wrap. Fries are cooked in olive oil. Vegans should specify.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3945 Welsh Rd",
+  "postalCode": "19090",
+  "phone": "tel:215-659-1008",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ElevationBurger",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.154140,-75.138401&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.154140,-75.138401&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

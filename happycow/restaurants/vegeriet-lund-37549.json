@@ -1,0 +1,14 @@
+{
+  "title": "Vegeriet",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out\n                                    ",
+  "description": "Vegetarian restaurant with a few barseats in the Markethall in center of city. Serves warm and cold dishes, soup, salad, sandwiches and more. Always some vegan dishes on menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "Martenstorget 1, Saluhallen Lund",
+  "phone": "tel:0707-60%2016%2019",
+  "venueHours": "\n                                                                                                        Mon-Wed 10:00am-6:00pm, Thu-Fri 10:00am-7:00pm, Sat 9:30am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.701733,13.195036&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.701733,13.195036&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

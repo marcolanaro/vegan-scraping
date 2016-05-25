@@ -1,0 +1,16 @@
+{
+  "title": "Dimo's Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Wide selection of vegan pizza and vegan food. Previously known as Ian's Pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "3463 N Clark St",
+  "postalCode": "60657",
+  "phone": "tel:773-525-4580",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 5:00pm-1:30am, Thu 5:00pm-2:00am, Fri 5:00pm-3:00am, Sat 12:00pm-4:00am, Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/dimospizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.945218,-87.654676&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.945218,-87.654676&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Blossom Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Juice bar, Take-out, Canadian\n                                    ",
+  "description": "Little cafe with sit-down area. Serves burgers, sandwiches, self-serve soups, plus snacks, and drinks, packaged salads, and juices for sale.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "209 Gilmour St",
+  "postalCode": "K2P0N9",
+  "phone": "tel:613-422-7788",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.416430,-75.689778&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.416430,-75.689778&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

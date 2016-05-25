@@ -1,0 +1,20 @@
+{
+  "title": "Chipotle",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fast food chain where you could customize your order (tacos, burritos, bowls) and request no cheese/dairy. Some of its locations offer a soyfrito filling that's made from soy protein. Be sure to ask for plant based protein.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "13920 City Center Dr Ste 4005",
+  "postalCode": "91709",
+  "phone": "tel:909-548-3721",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/chipotle",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.001499,-117.730652&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.001499,-117.730652&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

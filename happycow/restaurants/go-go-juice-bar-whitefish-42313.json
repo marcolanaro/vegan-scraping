@@ -1,0 +1,18 @@
+{
+  "title": "Go Go Juice Bar",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "A 100% vegan/raw juice bar with a large variety of juices and smoothies. All organic and local ingredients used. Also has limited Greek deli items.",
+  "streetAddress": "701 Spokane Ave",
+  "postalCode": "59937",
+  "phone": "tel:406-862-3744",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/GogoJuiceBar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.405094,-114.335151&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.405094,-114.335151&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

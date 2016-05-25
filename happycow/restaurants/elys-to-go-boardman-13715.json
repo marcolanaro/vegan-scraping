@@ -1,0 +1,18 @@
+{
+  "title": "Ely's To Go",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Fast food, Take-out only\n                                    ",
+  "description": "Tiny takeaway food shop.",
+  "priceRange": "Moderate",
+  "streetAddress": "850 E Western Reserve Ste 7",
+  "postalCode": "44514",
+  "phone": "tel:330-953-3445",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.987920,-80.637240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.987920,-80.637240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

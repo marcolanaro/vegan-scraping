@@ -1,0 +1,17 @@
+{
+  "title": "Beijing Gardens",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese restaurant with an extensive vegetarian section on the menu. Dishes contain vegetarian meat analogs.",
+  "priceRange": "Moderate",
+  "streetAddress": "600 Heritage Dr",
+  "postalCode": "19464",
+  "phone": "tel:610-323-4899",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-10:30pm, Sun 12:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.247473,-75.600191&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.247473,-75.600191&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

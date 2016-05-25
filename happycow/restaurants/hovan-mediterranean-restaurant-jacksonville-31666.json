@@ -1,0 +1,19 @@
+{
+  "title": "Hovan Mediterranean Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers several veg entree options and half of the sides are vegan including hummus, tabbouleh, potatoes and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2005-1 Park St",
+  "postalCode": "32204",
+  "phone": "tel:904-381-9394",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.327652,-81.670548&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.327652,-81.670548&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

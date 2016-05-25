@@ -1,0 +1,17 @@
+{
+  "title": "South Street Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop and cafe offering a menu of coffee and tea, baked goods, soups and sandwiches. A daily soup is vegan as are most bread. Has soy and almond milk for coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "105 South St",
+  "postalCode": "05201",
+  "phone": "tel:802-447-2433",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.878178,-73.197334&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.878178,-73.197334&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

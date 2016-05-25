@@ -1,0 +1,17 @@
+{
+  "title": "Niko's Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Mediterranean, Beer/Wine, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American and Greek food restaurant. Offers a portabello mushroom burger, bean burger, veggie platter with pita bread, veggie kabobs, hummus, and grape leaves.",
+  "priceRange": "Moderate",
+  "streetAddress": "167 S Main St",
+  "postalCode": "24450",
+  "phone": "tel:540-464-9499",
+  "venueHours": "\n                                                                                                        Tue-Thu 7:00am-9:00pm, Fri-Sat 7:00am-10:00pm, Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.783089,-79.444426&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.783089,-79.444426&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

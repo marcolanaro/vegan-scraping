@@ -1,0 +1,17 @@
+{
+  "title": "The Granary",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Ovo, International, Western, Fast food\n                                    ",
+  "description": "Lunch bar in the Carillon City Arcade. Options like potato frittata, vegetable quiche, pumpkin pie, curries.",
+  "priceRange": "Moderate",
+  "streetAddress": "M11, Carillon City, Murray Street Level",
+  "postalCode": "6000",
+  "phone": "tel:0893216996",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-31.952727,115.859137&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-31.952727,115.859137&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

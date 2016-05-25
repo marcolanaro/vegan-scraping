@@ -1,0 +1,15 @@
+{
+  "title": "Dabbawalas",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Delivery service in Basel offering home-cooked vegetarian Indian food by bike.",
+  "streetAddress": "Schillerstrasse",
+  "postalCode": "4053",
+  "phone": "tel:0766388611",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/dabbawalasbasel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.543497,7.596310&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.543497,7.596310&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

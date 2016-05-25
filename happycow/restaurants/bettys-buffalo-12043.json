@@ -1,0 +1,18 @@
+{
+  "title": "Betty's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu includes some vegetarian dishes, has a vegan tofu scramble. Nice dining area. A breakfast and brunch kind of place.",
+  "priceRange": "Moderate",
+  "streetAddress": "370 Virginia St",
+  "postalCode": "14201",
+  "phone": "tel:716-362-0633",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.896710,-78.877930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.896710,-78.877930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

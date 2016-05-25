@@ -1,0 +1,19 @@
+{
+  "title": "The Seed",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Take-out\n                                    ",
+  "description": "A worker-owned co-op. Offers fair trade tea bar with house-made kombucha on tap. Food can be made vegan. Uses local produce. Has Wi-Fi, a radical library, and serves a community space for organizations to gather.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "52 N Queen St",
+  "postalCode": "17603",
+  "phone": "tel:717-945-5787",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 10:00am-4:00pm, Fri-Sat 10:00am-9:00pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/theseedlancaster",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.039220,-76.306070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.039220,-76.306070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

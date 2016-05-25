@@ -1,0 +1,15 @@
+{
+  "title": "Good Karma Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Take-out, Bakery\n                                    ",
+  "description": "Vegan cafe, juice bar, and bakery. Uses local and fair trade and organic products whenever possible.",
+  "priceRange": "Moderate",
+  "streetAddress": "17 E Front St",
+  "postalCode": "07701",
+  "phone": "tel:732-450-8344",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-9:00pm, Sun 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.352418,-74.064692&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.352418,-74.064692&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

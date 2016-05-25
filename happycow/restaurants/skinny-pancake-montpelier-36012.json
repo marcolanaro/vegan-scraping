@@ -1,0 +1,17 @@
+{
+  "title": "Skinny Pancake",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fast and casual crepe eatery. Has also gluten-free and vegan choices. Vegan crepes are made with chickpea batter. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "89 Main St",
+  "postalCode": "05601",
+  "phone": "tel:802-262-cake",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-8:00pm, Fri-Sat 8:00am-9:00pm, Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.260544,-72.574800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.260544,-72.574800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

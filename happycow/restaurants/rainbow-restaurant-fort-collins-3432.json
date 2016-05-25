@@ -1,0 +1,17 @@
+{
+  "title": "Rainbow Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Call for hours.",
+  "priceRange": "Moderate",
+  "streetAddress": "212 W Laurel",
+  "postalCode": "80521",
+  "phone": "tel:970-221-2664",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.577980,-105.079630&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.577980,-105.079630&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

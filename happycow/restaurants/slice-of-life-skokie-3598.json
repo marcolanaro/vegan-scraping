@@ -1,0 +1,17 @@
+{
+  "title": "Slice of Life",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Kosher, Israeli, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. All vegetarian except for fish. Specializes in pizza, pasta, salads, and other vegetarian fare. Near the golf course.",
+  "priceRange": "Moderate",
+  "streetAddress": "4120 W Dempster",
+  "postalCode": "60714",
+  "phone": "tel:847-674-2021",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-9:00pm, Fri 11:30am-2:30pm, Sun 10:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.040730,-87.798960&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.040730,-87.798960&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

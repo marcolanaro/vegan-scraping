@@ -1,0 +1,19 @@
+{
+  "title": "Plumeria",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Thai, Beer/Wine, Take-out\n                                    ",
+  "description": "Vegetarian Thai restaurant. Uses organic vegetables (when available) and organic non-gmo tofu. Most food is vegan and gluten free. Opened in July 2012.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4661 Park Blvd, University Heights",
+  "postalCode": "92116",
+  "phone": "tel:619-269-9989",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.762148,-117.146210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.762148,-117.146210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

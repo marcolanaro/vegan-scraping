@@ -1,0 +1,17 @@
+{
+  "title": "Rasa Sayang",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Asian, Malaysian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Malaysian cuisine restaurant. There are vegetarian specific dishes in the menu and many dishes can have meat replaced by tofu. Roti canai can be served with veggie curry instead of chicken curry - ask.",
+  "priceRange": "Moderate",
+  "streetAddress": "1601 Concord Pike Ste 73",
+  "postalCode": "19803",
+  "phone": "tel:302%20543%205291",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-10:00pm, Fri-Sat 11:30am-10:30pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.780879,-75.543491&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.780879,-75.543491&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

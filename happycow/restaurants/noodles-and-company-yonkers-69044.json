@@ -1,0 +1,20 @@
+{
+  "title": "Noodles and Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Take-out, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of quick service noodle chain. Could customize your dish to be without meat or cheese. Has tofu. This one is at the Cross County Shopping Center.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1060 Mall Walk Ste 5a50",
+  "postalCode": "10704",
+  "phone": "tel:914-709-8690",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-9:00pm, Fri-Sat 9:00am-10:00pm, Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/noodlesandcompany",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.926655,-73.853625&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.926655,-73.853625&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

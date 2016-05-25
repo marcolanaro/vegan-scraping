@@ -1,0 +1,17 @@
+{
+  "title": "Zoco Comidero-Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Mediterranean, Beer/Wine, Fusion, Middle Eastern, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mediterranean cuisine and open-face sandwiches with a few vegan choices, including a vegan platter with vegan cheese, crudites, and crackers. Has cold pressed juice, smoothies, tea infusions.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle Morería 11",
+  "phone": "tel:911722644",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.413025,-3.713444&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.413025,-3.713444&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

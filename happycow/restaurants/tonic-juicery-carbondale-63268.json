@@ -1,0 +1,17 @@
+{
+  "title": "Tonic Juicery",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice bar offering organic cold press juices, smoothies, small bowls and snacks, cleanse packages.",
+  "streetAddress": "320 Main St Unit 102",
+  "postalCode": "81623",
+  "phone": "tel:970-963-1041",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-5:00pm, Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TonicJuicery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.400370,-107.210412&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.400370,-107.210412&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

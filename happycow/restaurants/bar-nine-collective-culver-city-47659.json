@@ -1,0 +1,16 @@
+{
+  "title": "Bar Nine Collective",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "High-end coffee house offering non-dairy milk, vegan baked goods, and a rotating pop-up weekday lunch service. Makes its own cashew-hazelnut milk.",
+  "streetAddress": "3515 Helms Ave",
+  "postalCode": "90232",
+  "phone": "tel:310-837-7815",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.026830,-118.383611&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.026830,-118.383611&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

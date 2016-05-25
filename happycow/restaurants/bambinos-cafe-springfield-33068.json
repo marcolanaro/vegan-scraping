@@ -1,0 +1,20 @@
+{
+  "title": "Bambinos Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Beer/Wine, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian food restaurant located in a 1930s building by the MSU campus. Has vegan choices - ask.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1141 E Delmar",
+  "postalCode": "65807",
+  "phone": "tel:417-862-9999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/bambinoscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.194752,-93.277747&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.194752,-93.277747&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

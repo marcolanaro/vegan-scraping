@@ -1,0 +1,15 @@
+{
+  "title": "Cafe Gratitude",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Raw, Beer/Wine, Take-out\n                                    ",
+  "description": "Part of a collection of restaurants specializing in vegan raw and cooked cuisines. Uses produce from the owners' farm. Everything is vegan except for honey by request.",
+  "priceRange": "Moderate",
+  "streetAddress": "103 Lincoln St",
+  "postalCode": "95060",
+  "phone": "tel:831-427-9583",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.972675,-122.025901&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.972675,-122.025901&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

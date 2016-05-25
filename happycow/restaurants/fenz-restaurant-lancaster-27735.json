@@ -1,0 +1,19 @@
+{
+  "title": "Fenz",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Upscale restaurant and late night bar. Offer a separate menu with veg/vegan choices - you need to ask for it. Prices moderate to high.",
+  "priceRange": "Expensive",
+  "streetAddress": "398 Harrisburg Ave Ste 100",
+  "postalCode": "17603",
+  "phone": "tel:717-735-6999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 4:30pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.047383,-76.313855&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.047383,-76.313855&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

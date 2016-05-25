@@ -1,0 +1,17 @@
+{
+  "title": "Pyramid Restaurant and Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fine dining restaurant in the Fairmont Hotel focusing on local ingredients (including the hotel's rooftop terrace herb and vegetable garden). Lifestyle Cuisine Plus options include separate menu items for gluten-free, macrobiotic, raw and vegan diets.",
+  "priceRange": "Expensive",
+  "streetAddress": "1717 N Akard St",
+  "postalCode": "75201",
+  "phone": "tel:214-720-5249",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-2:30pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.785898,-96.801505&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.785898,-96.801505&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

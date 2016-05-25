@@ -1,0 +1,17 @@
+{
+  "title": "10th Ave Burrito Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican-Californian cuisine restaurant. Offers burritos that can be made with tofu instead of chicken. Could ask to omit cheese and sour cream in a dish.",
+  "priceRange": "Moderate",
+  "streetAddress": "522 Bay Ave",
+  "postalCode": "08742",
+  "phone": "tel:732-892-1800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.090736,-74.051480&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.090736,-74.051480&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

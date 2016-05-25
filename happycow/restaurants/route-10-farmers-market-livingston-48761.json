@@ -1,0 +1,13 @@
+{
+  "title": "Route 10 Farmers Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Year-round market store selling fresh produce, nuts and seeds, breads, tofu, pasta, canned & bottled sauces, plants.",
+  "streetAddress": "577 W Mount Pleasant Ave",
+  "postalCode": "07039",
+  "phone": "tel:973-994-2224",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-8:00pm, Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.797607,-74.352638&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.797607,-74.352638&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

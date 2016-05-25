@@ -1,0 +1,18 @@
+{
+  "title": "Green Eggs Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast, lunch, and brunch with a few locations in Philly. Has vegan choices in french toast, tofu scramble, quinoa porridge, and breakfast burrito. For lunch the California turkey panini, falafel, and veggie burger can be made vegan. Vegans need to specify clearly so kitchen can alter your dish. Use eco-friendly containers.",
+  "priceRange": "Moderate",
+  "streetAddress": "719 N 2nd St",
+  "postalCode": "19123",
+  "phone": "tel:215-922-3447",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/GreenEggsCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.962391,-75.140932&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.962391,-75.140932&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Nectar Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Organic, Juice bar, Take-out\n                                    ",
+  "description": "Coffee shop and juice bar opened in fall 2013. Food menu is all vegan, and includes bagels, gluten-free sausage patties, sandwiches, gluten-free waffles, scrambles, wraps, salads, soups and baked desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1925 NE 42nd Ave Ste E",
+  "postalCode": "97213",
+  "phone": "tel:971-302-6359",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-8:00pm, Sat-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Nectarcoffeebar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.536990,-122.620499&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.536990,-122.620499&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

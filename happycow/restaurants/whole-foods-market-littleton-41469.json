@@ -1,0 +1,16 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Offers fresh produce including organic, deli, vitamins, supplements, care products, grocery, and much more.",
+  "streetAddress": "5155 S Wadsworth Blvd",
+  "postalCode": "80123",
+  "phone": "tel:303-586-5220",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/wholefoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.623419,-105.092219&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.623419,-105.092219&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

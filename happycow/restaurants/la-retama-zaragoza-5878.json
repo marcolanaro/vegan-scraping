@@ -1,0 +1,14 @@
+{
+  "title": "La Retama",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Spanish\n                                    ",
+  "description": "Vegetarian food. Vegan options can be accommodated upon request. Closed for dinner during the month of July.",
+  "priceRange": "Moderate",
+  "streetAddress": "Reconquista, 4",
+  "phone": "tel:976-397910",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 1:00pm-4:00pm, Fri-Sat 8:30pm-11:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.649680,-0.876010&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.649680,-0.876010&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

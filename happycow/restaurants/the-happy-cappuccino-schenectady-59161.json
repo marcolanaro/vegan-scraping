@@ -1,0 +1,16 @@
+{
+  "title": "The Happy Cappuccino",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A cozy, classy coffee shop that offers almond and soy milk at no extra charge. Vegan baked goods are available on Tuesday and Wednesday. Owner is sympathetic to animal rights issues. Has live music and local art. Located near Proctors Theater.",
+  "streetAddress": "185 Jay St",
+  "postalCode": "12305",
+  "phone": "tel:518-377-1092",
+  "venueHours": "\n                                                                                                        Mon-Wed 6:30am-6:00pm, Thu-Fri 6:30am-9:00pm, Sat 9:00am-9:00pm, Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/thehappycappuccino",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.812743,-73.941174&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.812743,-73.941174&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

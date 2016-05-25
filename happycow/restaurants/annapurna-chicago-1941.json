@@ -1,0 +1,16 @@
+{
+  "title": "Annapurna",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food\n                                    ",
+  "description": "Windy City's vegetarian Indian restaurant.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2608 W Devon Ave",
+  "postalCode": "60659",
+  "phone": "tel:773-764-1858",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-9:00pm, Wed-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ ",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.997620,-87.695200&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.997620,-87.695200&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

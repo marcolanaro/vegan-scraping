@@ -1,0 +1,19 @@
+{
+  "title": "Our Daily Bread Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Deli and gluten-free bakery. Offers vegetarian food (veggie burgers, wraps, sandwiches, home fries) and fish (salmon, tuna salad, lox). One daily vegan lunch special, usually a salad, two daily soups. Uses eggs and dairy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "54 Main St",
+  "postalCode": "12037",
+  "phone": "tel:518-392-9852",
+  "venueHours": "\n                                                                                                        Tue-Fri 7:00am-6:00pm, Sat-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ODBeFree",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.363668,-73.595287&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.363668,-73.595287&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

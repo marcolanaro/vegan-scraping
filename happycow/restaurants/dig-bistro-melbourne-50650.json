@@ -1,0 +1,19 @@
+{
+  "title": "D.I.G. Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers several vegetarian and a few vegan choices on the lunch menu (not breakfast): salad bowls, beet burger, veggie burger, hummus and dips. Vegans ask to omit cheese. Beverages include fruit smoothies, made to order juices as well as wheatgrass shots, beer and organic wines.",
+  "priceRange": "Moderate",
+  "streetAddress": "7700 N Wickham Rd",
+  "postalCode": "32940",
+  "phone": "tel:321-254-5001",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-3:00pm, Sat-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.231118,-80.696570&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.231118,-80.696570&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Mark's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Take-out, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan choices, also standard American fare, kid-friendly, popular for Saturday and Sunday brunch.",
+  "priceRange": "Moderate",
+  "streetAddress": "7006 Carroll Ave",
+  "postalCode": "20912",
+  "phone": "tel:301-270-1884",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.974650,-77.012330&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.974650,-77.012330&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

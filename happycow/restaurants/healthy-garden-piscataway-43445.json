@@ -1,0 +1,18 @@
+{
+  "title": "Healthy Garden",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Organic, Salad bar, Juice bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Natural food cafe. Large menu. Has tofu, fresh juices, veggie burger, and many veggie choices. Vegans to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "1372 Centennial Ave",
+  "postalCode": "08854",
+  "phone": "tel:732-529-6444",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-9:00pm, Fri-Sat 9:00am-10:00pm, Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.551856,-74.436084&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.551856,-74.436084&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

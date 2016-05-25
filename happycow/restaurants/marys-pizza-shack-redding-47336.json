@@ -1,0 +1,17 @@
+{
+  "title": "Mary's Pizza Shack",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Fast food, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain pizzeria. This location offers a gluten-free crust which is vegan suitable. The pizza sauce and marinara sauce are without dairy, so you could order a pizza with vegetable toppings and omit cheese. Other vegan possibilities include linguine marinara and the rigatoni arrabbiata - specify no \"spice mix\" (contains parmesan cheese).",
+  "priceRange": "Moderate",
+  "streetAddress": "1177 Shasta St",
+  "postalCode": "96001",
+  "phone": "tel:530-247-1110",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.586903,-122.388742&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.586903,-122.388742&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

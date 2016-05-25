@@ -1,0 +1,20 @@
+{
+  "title": "Malia's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast and lunch food place offering burgers, salads, sandwiches, hummus, falafel, house-made salsa, vegan soups, and wraps.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1800 Baltimore Ave",
+  "postalCode": "21842",
+  "phone": "tel:443-664-2420",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 8:30am-3:00pm, Thu 8:30am-3:00pm, Fri-Sat 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Malias-Cafe/150553918342696",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.347709,-75.077720&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.347709,-75.077720&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

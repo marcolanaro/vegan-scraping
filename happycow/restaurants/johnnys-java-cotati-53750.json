@@ -1,0 +1,19 @@
+{
+  "title": "Johnny's Java",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Simple coffee shop offering some pastries and wraps. Sometimes has a flaxseed raw bar which is vegan and gluten free. Right off Hwy 101, next to Valero gas station.",
+  "priceRange": "Moderate",
+  "streetAddress": "8492 Gravenstein Hwy",
+  "postalCode": "94931",
+  "phone": "tel:707-794-0168",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 4:00am-6:00pm, Sat 6:00am-5:00pm, Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Johnnys-Java/339636243376",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.330932,-122.716048&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.330932,-122.716048&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

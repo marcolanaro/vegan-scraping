@@ -1,0 +1,15 @@
+{
+  "title": "Manny's Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Take-out\n                                    ",
+  "description": "Little Indian cafe offering primarily takeaway with a few seats for eating-in. Selection of Indian curries, bread, snacks and samosa. The owner is a friendly woman.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "188 Corio St",
+  "postalCode": "3630",
+  "phone": "tel:03-58585555",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-36.382075,145.402985&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-36.382075,145.402985&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

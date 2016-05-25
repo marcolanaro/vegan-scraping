@@ -1,0 +1,18 @@
+{
+  "title": "Mohini",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Organic, Catering, Ayurvedic\n                                    ",
+  "description": "Serves one meal each day which consists of several items and a dessert; all organic and vegetarian (uses paneer). Seasonal and regional ingredients. Offers cooking classes as well.",
+  "priceRange": "Moderate",
+  "streetAddress": "Weinbergstrasse 15",
+  "postalCode": "8001",
+  "phone": "tel:0442525211",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.378247,8.544042&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.378247,8.544042&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

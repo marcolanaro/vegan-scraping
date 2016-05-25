@@ -1,0 +1,17 @@
+{
+  "title": "The Moth Coffeehouse",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Bakery\n                                    ",
+  "description": "Opened Oct 2015, a small cafe on the first floor of the Old Mill Building. Offers vegetarian and vegan food like vegetable soup, sandwiches, salad, quiche, mac and cheese. Stocks almond and soy milk for coffee. Uses Daiya vegan cheese as substitution for the grilled cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "42 S Main St",
+  "postalCode": "08501",
+  "phone": "tel:609-208-3900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.176305,-74.586662&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.176305,-74.586662&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

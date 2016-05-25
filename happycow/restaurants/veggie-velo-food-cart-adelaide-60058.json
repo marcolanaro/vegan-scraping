@@ -1,0 +1,17 @@
+{
+  "title": "Veggie Velo Food Cart",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Fast food, Take-out\n                                    ",
+  "description": "A mobile food cart powered by a bicycle, serving 100% vegetarian/vegan burgers, gluten free salads and vegan brownies. Most of the time he is located at 25 Pirie St on Thursday and on Leigh St on Friday and the Market Shed on Sunday. Please check Facebook page for other possible locations.\r\n ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Adelaide Area",
+  "phone": "tel:0479010539",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Fri 11:00am-2:00pm, Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/veggievelo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.926147,138.599447&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.926147,138.599447&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Grove Hill Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Extensive menu with a small vegetarian section of which a couple appears to be vegan: a vegetable curry and a ravioli - ask about what other vegan options are.",
+  "priceRange": "Expensive",
+  "streetAddress": "25 Pleasant Dr",
+  "phone": "tel:440-247-4800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 4:30pm-10:00pm, Fri-Sat 4:30pm-11:00pm, Sun 4:30pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.430572,-81.390949&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.430572,-81.390949&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

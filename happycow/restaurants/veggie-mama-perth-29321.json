@@ -1,0 +1,19 @@
+{
+  "title": "Veggie Mama",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Juice bar, Take-out, Australian\n                                    ",
+  "description": "Vegetarian cafe providing savories like veggie patties, quiche, and filo pastries; plus fresh juices and smoothies, salads, organic tea, and coffee. Gluten-free options. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "5/567 Beaufort St, Mount Lawley",
+  "postalCode": "6050",
+  "phone": "tel:0413753290",
+  "venueHours": "\n                                                                                                        Mon-Tue 8:00am-7:00pm, Wed-Fri 8:00am-9:00pm, Sat-Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Veggie-Mama/220797407976602",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-31.936814,115.870385&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-31.936814,115.870385&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

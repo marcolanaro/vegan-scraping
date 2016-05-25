@@ -1,0 +1,17 @@
+{
+  "title": "Uptown Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, International, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Former hippy joint has become an upscale eatery with vegan options. ",
+  "priceRange": "Moderate",
+  "streetAddress": "102 E Kirkwood Ave ",
+  "postalCode": "47408",
+  "phone": "tel:812-339-0900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-10:00pm, Fri 7:00am-12:00am, Sat 8:00am-12:00am, Sun 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.166516,-86.533363&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.166516,-86.533363&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

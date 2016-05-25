@@ -1,0 +1,17 @@
+{
+  "title": "Upper Crust Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual dining pizzeria. Mostly meat stuff but could get vegan cheese at extra charge; also gluten-free crust.",
+  "priceRange": "Moderate",
+  "streetAddress": "342 Hwy 101 N",
+  "postalCode": "97136",
+  "phone": "tel:503-355-3866",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 4:00pm-9:00pm, Fri-Sat 4:00pm-10:00pm, Sun 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.615707,-123.943147&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.615707,-123.943147&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market - Sunday",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Fresh farm produce, food vendors, and more.",
+  "streetAddress": "California Ave",
+  "postalCode": "94304",
+  "phone": "tel:510-745-7100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 9:00am-1:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.423070,-122.141190&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.423070,-122.141190&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

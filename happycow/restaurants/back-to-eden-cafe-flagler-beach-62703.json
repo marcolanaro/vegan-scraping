@@ -1,0 +1,20 @@
+{
+  "title": "Back to Eden Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Juice bar, Take-out, Caribbean, Catering\n                                    ",
+  "description": "Est. 2014 a relaxed cafe serving vegetarian meals, prepared meals, salads, plus smoothies, fresh juices, coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "210 S Central Ave",
+  "postalCode": "32136",
+  "phone": "tel:386-693-4930",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 8:00am-8:00pm, Wed-Thu 8:00am-5:00pm, Fri-Sat 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/backtoedencafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.479656,-81.127777&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.479656,-81.127777&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

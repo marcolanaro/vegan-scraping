@@ -1,0 +1,13 @@
+{
+  "title": "The Fresh Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Carries fresh organic produce, various whole/sprouted grains, bulk food, many vegan products.",
+  "streetAddress": "100 N Peachtree Pkwy",
+  "postalCode": "30269",
+  "phone": "tel:770-486-2738",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-9:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.410336,-84.568168&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.410336,-84.568168&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

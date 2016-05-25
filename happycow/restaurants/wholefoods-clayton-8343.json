@@ -1,0 +1,17 @@
+{
+  "title": "Wholefoods",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, International, Organic, Western, Take-out, Catering\n                                    ",
+  "description": "Not-for-profit kitchen, cafe, and grocery store operated by students since 1977. Serves vegan and vegetarian meals every day of the academic year / during semester. Take-away available if you bring a container. Catering service for on or off premises events.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Monash University Campus Centre, Wellington Road",
+  "postalCode": "3168",
+  "phone": "tel:03-9905-4156",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.910540,145.134940&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.910540,145.134940&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

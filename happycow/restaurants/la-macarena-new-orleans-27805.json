@@ -1,0 +1,17 @@
+{
+  "title": "La Macarena",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Salvadoran, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional Salvadoran meals, specializes in pupusas. Offers many vegan and vegetarian options. Does not serve alcohol, BYOB.",
+  "priceRange": "Moderate",
+  "streetAddress": "8120 Hampson St",
+  "phone": "tel:504-862-5252",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-10:00pm, Sat-Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.944017,-90.134103&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.944017,-90.134103&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Restaurante Sarasate",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Macrobiotic, Beer/Wine\n                                    ",
+  "description": "Recommend the menu of the day, a good value. ",
+  "priceRange": "Moderate",
+  "streetAddress": "San Nicolás 19-21",
+  "phone": "tel:948-225727",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.816420,-1.644380&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.816420,-1.644380&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

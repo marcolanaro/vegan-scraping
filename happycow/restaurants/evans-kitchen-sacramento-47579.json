@@ -1,0 +1,15 @@
+{
+  "title": "Evan's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Regular menus are standard American fare but you could ask for the separate, small vegan menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "855 57th St",
+  "postalCode": "95819",
+  "phone": "tel:916-452-3896",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.566106,-121.432718&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.566106,-121.432718&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

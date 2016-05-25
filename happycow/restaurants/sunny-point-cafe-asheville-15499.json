@@ -1,0 +1,19 @@
+{
+  "title": "Sunny Point Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast, lunch, dinner. Has veggie options.",
+  "priceRange": "Moderate",
+  "streetAddress": "626 Haywood Rd",
+  "postalCode": "28806",
+  "phone": "tel:828-252-0055",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 8:30am-2:00pm, Tue-Sat 8:30am-9:00pm, Sun 8:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/GoodGals",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.578720,-82.588910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.578720,-82.588910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

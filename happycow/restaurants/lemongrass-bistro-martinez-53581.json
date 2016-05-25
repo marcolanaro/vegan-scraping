@@ -1,0 +1,19 @@
+{
+  "title": "Lemongrass Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Beer/Wine, Take-out, Southeast Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Trendy, casual Thai fusion restaurant offering also a few Vietnamese, Malaysian, and Laotian dishes. Many items have a tofu or vegetables option; the ones with egg/dairy can be requested without.",
+  "priceRange": "Moderate",
+  "streetAddress": "501 Main St",
+  "postalCode": "94553",
+  "phone": "tel:925-387-0388",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm, Mon-Tue 5:00pm-8:30pm, Wed-Sat 5:00pm-9:00pm, Sat 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.016722,-122.138154&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.016722,-122.138154&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

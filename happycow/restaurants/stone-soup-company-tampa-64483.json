@@ -1,0 +1,17 @@
+{
+  "title": "Stone Soup Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Find soups, sandwiches, and pizza. A few of the items can be requested vegan. Has vegan cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "1517 E 7th Ave",
+  "postalCode": "33605",
+  "phone": "tel:813-247-7687",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.960044,-82.442232&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.960044,-82.442232&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

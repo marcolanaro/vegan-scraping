@@ -1,0 +1,18 @@
+{
+  "title": "Hidden Peak Teahouse",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese\n                                    ",
+  "description": "A teahouse that asks the guests to put away digital devices at the door. Offers a large variety of loose leaf teas by the cup or brew. Small plates of food available include dumplings, hummus with raw crackers, and sweets.",
+  "priceRange": "Moderate",
+  "streetAddress": "1541 Pacific Ave Ste C",
+  "postalCode": "95060",
+  "phone": "tel:831-423-4200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-9:00pm, Thu-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.976020,-122.027318&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.976020,-122.027318&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

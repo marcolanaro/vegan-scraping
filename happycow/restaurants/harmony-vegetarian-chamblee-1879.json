@@ -1,0 +1,15 @@
+{
+  "title": "Harmony Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese\n                                    ",
+  "description": "Vegetarian Chinese food restaurant. Very extensive menu featuring different kinds of mock meats in addition to vegetable, tofu, and bean curd. Has lunch specials. Note: Mock meats may contain whey and eggs on their cookies - please ask.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4897 Buford Hwy",
+  "postalCode": "30345",
+  "phone": "tel:770-457-7288",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-10:30pm, Wed-Thu 11:00am-10:30pm, Fri-Sat 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.864300,-84.304920&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.864300,-84.304920&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

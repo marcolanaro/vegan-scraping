@@ -1,0 +1,14 @@
+{
+  "title": "Farmers Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor market in the parking lot between City Hall and Temple City Park.",
+  "streetAddress": "9701 Las Tunas Dr",
+  "postalCode": "91780",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 8:30am-12:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Temple-City-Farmers-Market/117101011699239",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.107487,-118.056968&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.107487,-118.056968&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

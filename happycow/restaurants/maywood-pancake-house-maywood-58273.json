@@ -1,0 +1,17 @@
+{
+  "title": "Maywood Pancake House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast and brunch place, also offering vegan choices including vegan waffle and pancake, French toast, tofu scramble, sausage, \"milk\" shakes, and \"butter.\"",
+  "priceRange": "Moderate",
+  "streetAddress": "92 W Pleasant Ave",
+  "postalCode": "07607",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-3:00pm, Sun 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.905242,-74.063891&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.905242,-74.063891&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

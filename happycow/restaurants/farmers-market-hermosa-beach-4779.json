@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers' market.",
+  "streetAddress": "800 Valley Dr",
+  "postalCode": "90254",
+  "phone": "tel:310-376-0951",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Fri 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.860010,-118.394310&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.860010,-118.394310&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

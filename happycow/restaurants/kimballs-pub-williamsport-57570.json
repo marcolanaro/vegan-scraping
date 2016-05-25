@@ -1,0 +1,19 @@
+{
+  "title": "Kimball's Pub",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pub and grill. Kitchen makes tempeh in-house, and you could get it as fries, in a sandwich or wrap. Also offers tofu as wings or in sandwich.",
+  "priceRange": "Moderate",
+  "streetAddress": "972 2nd St",
+  "postalCode": "17701",
+  "phone": "tel:570-322-1115",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/KimballsPubWilliamsport",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.236626,-77.022870&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.236626,-77.022870&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

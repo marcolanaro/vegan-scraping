@@ -1,0 +1,16 @@
+{
+  "title": "Sharma's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurants typically offers some vegetable/vegetarian dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "1403 Sagamore Pkwy N",
+  "postalCode": "47904",
+  "phone": "tel:765-769-4455",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 5:00pm-9:30pm, Fri-Sat 5:00pm-10:00pm, Sun 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/SharmasKitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.431246,-86.857165&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.431246,-86.857165&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

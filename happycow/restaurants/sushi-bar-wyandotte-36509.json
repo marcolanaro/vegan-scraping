@@ -1,0 +1,18 @@
+{
+  "title": "Sushi Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers vegan choices. ",
+  "priceRange": "Expensive",
+  "streetAddress": "130 Maple",
+  "postalCode": "48192",
+  "phone": "tel:734-720-9717",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sushibar130",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.202207,-83.150668&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.202207,-83.150668&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

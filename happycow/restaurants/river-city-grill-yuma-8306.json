@@ -1,0 +1,17 @@
+{
+  "title": "River City Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, International, Thai, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Try the mustard encrusted tofu and the coconut curry. One of few places in a city that is otherwise not veg-friendly.",
+  "priceRange": "Expensive",
+  "streetAddress": "600 W 3rd St",
+  "postalCode": "85364",
+  "phone": "tel:928-782-7988",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.721550,-114.627080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.721550,-114.627080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

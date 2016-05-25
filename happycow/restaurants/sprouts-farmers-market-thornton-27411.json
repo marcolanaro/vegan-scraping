@@ -1,0 +1,15 @@
+{
+  "title": "Sprouts Farmers Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of market chain that offers a mix of conventional as well some natural food and products including vitamins, bulk, fresh fruit and vegetable, organic food, vegan options, mockmeat, soy products, organic beer and wine, body care products. The deli, however, is not veg friendly.",
+  "streetAddress": "1131 E 120th Ave",
+  "postalCode": "80233",
+  "phone": "tel:303-457-3600",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.916150,-104.972566&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.916150,-104.972566&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

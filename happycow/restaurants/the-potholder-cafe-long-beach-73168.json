@@ -1,0 +1,15 @@
+{
+  "title": "The Potholder Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Diner with a few outlets. Has separate vegan menu section with items such as breakfast veggie spuds, tofu scramble, burrito, and a vegan benedict.",
+  "priceRange": "Moderate",
+  "streetAddress": "3700 E Broadway",
+  "postalCode": "90803",
+  "phone": "tel:%20562-433-9305",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-3:00pm, Sat-Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.764298,-118.148953&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.764298,-118.148953&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

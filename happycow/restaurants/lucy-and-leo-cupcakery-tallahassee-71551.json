@@ -1,0 +1,13 @@
+{
+  "title": "Lucy & Leo Cupcakery",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Cupcake bakery. On Wednesdays a vegan selection. Accepts custom orders for vegan cupcakes.",
+  "streetAddress": "1000 Thomasville Rd",
+  "postalCode": "32303",
+  "phone": "tel:850-765-0374",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.452808,-84.279372&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.452808,-84.279372&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

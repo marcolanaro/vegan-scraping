@@ -1,0 +1,15 @@
+{
+  "title": "Peggy's Whole Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Provides fresh, natural, organic and whole foods, including nutritional products, body care products, and health information.",
+  "streetAddress": "144 S Nova Rd",
+  "postalCode": "32174",
+  "phone": "tel:386-673-1112",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-7:00pm, Sat 9:30am-6:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.273894,-81.082804&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.273894,-81.082804&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dog Daze",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hot dogs, burgers, sandwiches, and sides. Has a tofu dog that's offered in different flavors. Vegans to specify no cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5808 Fulton Dr NW",
+  "postalCode": "44718",
+  "phone": "tel:330-497-3647",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-8:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Dog-Daze-Gourmet-Hot-Dogs/249158161770512",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.855541,-81.457250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.855541,-81.457250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

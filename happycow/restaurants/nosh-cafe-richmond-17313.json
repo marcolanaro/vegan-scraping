@@ -1,0 +1,18 @@
+{
+  "title": "Nosh Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Take-out, Kosher, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Kosher eatery located in JCC, open to public. Has veg, fish, eggs, and dairy. No red meat or poultry or derivatives.  ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5403 Monument Ave",
+  "postalCode": "23226",
+  "phone": "tel:804-285-6500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.580940,-77.508110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.580940,-77.508110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

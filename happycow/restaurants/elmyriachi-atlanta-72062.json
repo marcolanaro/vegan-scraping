@@ -1,0 +1,18 @@
+{
+  "title": "Elmyriachi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican eatery serving margarita pitchers, nachos, enchilada. Will substitute meat for tofu. Menu shows substitution options.",
+  "priceRange": "Moderate",
+  "streetAddress": "1950 Hosea L Williams Dr NE",
+  "postalCode": "30317",
+  "phone": "tel:678-705-9902",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-10:00pm, Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/elmyriachi",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.752525,-84.323781&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.752525,-84.323781&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

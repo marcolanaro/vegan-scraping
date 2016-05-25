@@ -1,0 +1,17 @@
+{
+  "title": "Kelly's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Fast food, Beer/Wine, Swedish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Large bar and restaurant. Vegan items include a burger, pizza with vegan cheese, fillet, pie, and soup.",
+  "priceRange": "Moderate",
+  "streetAddress": "Andra Langgatan 28",
+  "phone": "tel:031-421919",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 5:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.698818,11.945735&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.698818,11.945735&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

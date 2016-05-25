@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Offers deli foods, vitamins and supplements, natural care products, fresh produce including organic, foods, grocery, and more.",
+  "streetAddress": "6550 E Pacific Coast Hwy",
+  "postalCode": "90803",
+  "phone": "tel:562-598-8687",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.758610,-118.111620&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.758610,-118.111620&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

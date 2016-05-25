@@ -1,0 +1,18 @@
+{
+  "title": "Magic Carpet Foods - Food Cart",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Fast food, Take-out, Catering, Middle Eastern\n                                    ",
+  "description": "Vegetarian food cart located on the University of Pennsylvania campus since 1984. Has multiple locations.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3400 Walnut St",
+  "postalCode": "19104",
+  "phone": "tel:215-334-0948",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/MagicCarpetFoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.952812,-75.192099&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.952812,-75.192099&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

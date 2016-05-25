@@ -1,0 +1,19 @@
+{
+  "title": "Noodle",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Thai, Take-out, Pan Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pan Asian noodle house with a few GA locations. On the menu is a section listing the dishes that can be made vegetarian (with or without egg) on request.",
+  "priceRange": "Moderate",
+  "streetAddress": "903 Peachtree St NE",
+  "postalCode": "30309",
+  "phone": "tel:404-685-3010",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri 11:00am-11:00pm, Sat 12:00pm-11:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/NoodleMidtownAtlanta",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.779193,-84.384079&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.779193,-84.384079&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

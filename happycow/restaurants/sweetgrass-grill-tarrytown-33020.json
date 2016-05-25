@@ -1,0 +1,15 @@
+{
+  "title": "Sweet Grass Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant with bar, intimate candle-lit setting in the evening. Marks the vegan choices. Brunch menu on weekends.",
+  "priceRange": "Expensive",
+  "streetAddress": "24 N Main St",
+  "postalCode": "10591",
+  "phone": "tel:914-631-0000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-9:00pm, Fri 11:30am-10:00pm, Sat 10:00am-10:00pm, Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.076399,-73.859518&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.076399,-73.859518&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

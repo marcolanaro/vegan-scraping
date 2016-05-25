@@ -1,0 +1,17 @@
+{
+  "title": "Lazy May's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast, brunch, and coffee restaurant. Labels vegetarian, vegan, gluten-free options. ",
+  "priceRange": "Moderate",
+  "streetAddress": "41/1 Cowlishaw St",
+  "postalCode": "2900",
+  "phone": "tel:02-61741594",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-4:00pm, Fri 7:00am-9:00pm, Sat 8:00am-9:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-35.414796,149.062491&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-35.414796,149.062491&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

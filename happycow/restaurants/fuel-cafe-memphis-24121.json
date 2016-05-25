@@ -1,0 +1,20 @@
+{
+  "title": "Fuel Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Take-out, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chef and owner, Erik, is trained in French cuisine. Menu features food made fresh using natural and local ingredients, including a few vegan and vegetarian choices. Pet-friendly.",
+  "priceRange": "Moderate",
+  "streetAddress": "1761 Madison Ave",
+  "postalCode": "38104",
+  "phone": "tel:901-725-9025",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-2:30pm, 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/FuelCafeFoodTruck",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.138016,-90.002551&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.138016,-90.002551&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

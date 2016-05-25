@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Sunflower",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Take-out, Asian, Catering\n                                    ",
+  "description": "Finer dining vegetarian restaurant with two locations serving a varied range of cuisines, from Asian to Southwestern American. Offers dishes and has vegan cake. Switched to all-vegan in early-2015.",
+  "priceRange": "Expensive",
+  "streetAddress": "5975 Roswell Rd NE Ste E 353",
+  "postalCode": "30328",
+  "phone": "tel:404-256-1675",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-2:30pm, Mon-Thu 5:00pm-9:00pm, Fri-Sat 5:00pm-9:30pm, Sat 12:00pm-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.918090,-84.379210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.918090,-84.379210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

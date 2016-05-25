@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Capricho",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American and Mexican food menu. Veg suitable dishes include a garden burger (ask to omit mayonaise), red potato-swiss chard & black bean burrito, roasted butternut squash enchilada with almond poblano sauce, Mexican rice bowl with roasted potatoes, brown rice, black beans, and swiss chard potato and roasted poblano pepper tacos. Vegans need to specify no cheese. Jun 2015 confirmed still operating.",
+  "priceRange": "Moderate",
+  "streetAddress": "3269 Folsom Blvd",
+  "postalCode": "95816",
+  "phone": "tel:916-457-3916",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.567679,-121.464380&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.567679,-121.464380&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

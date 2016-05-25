@@ -1,0 +1,17 @@
+{
+  "title": "Ristorante Lucia",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian food restaurant with a vegetarian section that includes various appetizers, entrees, and pizzas; has a baked seitan slices dish called seitan saporito.",
+  "priceRange": "Expensive",
+  "streetAddress": "186B-190B Thames St",
+  "postalCode": "02840",
+  "phone": "tel:401-846-4477",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 12:00pm-3:30pm, 5:30pm-10:00pm, Thu-Fri 12:00pm-3:30pm, 5:30pm-10:00pm, Sat 12:00pm-11:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.488147,-71.315055&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.488147,-71.315055&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Nasa",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, African\n                                    ",
+  "description": "Local specialties in a little restaurant situated between Old Sacre Coeur pharmacy and Hotel Lumière, in the direction of Goughin Watam Kaiser and if you follow along rue Simon CompaorÃ© it will be the third street on your left if you are coming from the centre. Offers local staples in vegan versions like riz soumbala, riz gras, tofu brochettes. Makes its own tofu and also sell juices by the bottle like ginger, bissap, and soy milk.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rue 8.19",
+  "phone": "tel:+22678343520",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 12:00pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=12.351322,-1.542804&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C12.351322,-1.542804&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

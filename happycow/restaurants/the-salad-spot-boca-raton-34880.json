@@ -1,0 +1,20 @@
+{
+  "title": "The Salad Spot",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Buffet, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A salad bar restaurant. Build-your-own salad and pay by weight. Also offers daily soups.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "690 Yamato Rd 6",
+  "postalCode": "33431",
+  "phone": "tel:561-997-0339",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:00am-5:00pm, Fri 10:00am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/saladspot",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.393244,-80.100996&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.393244,-80.100996&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

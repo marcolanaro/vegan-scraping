@@ -1,0 +1,15 @@
+{
+  "title": "Foodmill",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Vegan bakery kitchen. Makes cupcakes, layer cakes, cookies. muffins, pies, and savory treats.",
+  "streetAddress": "Unit 3, 64 Meadows Ave",
+  "postalCode": "4108",
+  "phone": "tel:030618770",
+  "venueHours": "\n                                                                                                        Mon-Fri 4:00pm-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/foodmillqld",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.565950,153.026456&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.565950,153.026456&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

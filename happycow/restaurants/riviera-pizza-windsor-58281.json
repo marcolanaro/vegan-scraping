@@ -1,0 +1,17 @@
+{
+  "title": "Riviera Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small pizza, fish and chip shop making Windsor style pizza. Has vegan cheese for pizza and panazzaroti.",
+  "priceRange": "Moderate",
+  "streetAddress": "1959 Ottawa St",
+  "postalCode": "N8Y 1R6",
+  "phone": "tel:519-254-2100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-1:00am, Sun 3:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.312215,-83.005659&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.312215,-83.005659&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

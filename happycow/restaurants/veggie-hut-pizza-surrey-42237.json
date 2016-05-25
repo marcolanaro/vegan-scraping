@@ -1,0 +1,15 @@
+{
+  "title": "Veggie Hut",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Indian, Delivery, Take-out\n                                    ",
+  "description": "Vegetarian Indian food and pizza place. Uses dairy cheese on pizzas.",
+  "priceRange": "Moderate",
+  "streetAddress": "7025 128 Street",
+  "postalCode": "V3W 4E1",
+  "phone": "tel:604-592-5696",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.131862,-122.867942&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.131862,-122.867942&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

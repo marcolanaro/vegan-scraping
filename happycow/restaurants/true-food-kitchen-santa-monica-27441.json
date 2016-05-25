@@ -1,0 +1,20 @@
+{
+  "title": "True Food Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located on the ground floor of the shopping plaza and is frequented by tourists and shoppers. Menu is centered on the principals of Dr. Andrew Weil's Anti-Inflammatory Diet & Food Pyramid, with several ovo/lacto vegetarian dishes and a few vegan ones, marked. Spacious and modern. The organic tomato & roasted vegetable pizza is made without cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "395 Santa Monica Place",
+  "postalCode": "90401",
+  "phone": "tel:310-593-8300",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-10:00pm, Sat-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TrueFoodKitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.012471,-118.494008&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.012471,-118.494008&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

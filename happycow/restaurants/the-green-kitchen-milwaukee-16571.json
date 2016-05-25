@@ -1,0 +1,17 @@
+{
+  "title": "The Green Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Raw, Salad bar, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fresh juices, 6-foot custom salad bar, cold sandwiches, hot paninis.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "400 N Water St",
+  "postalCode": "53202",
+  "phone": "tel:414-273-8830",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-8:00pm, Sat 8:00am-7:00pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.035200,-87.908280&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.035200,-87.908280&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

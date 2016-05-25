@@ -1,0 +1,20 @@
+{
+  "title": "Frobie's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee house atmosphere. Offers poultry and ovo-lacto vegetarian choices. Coffee, juices, and smoothies, sandwiches, soups. Hosts live music and events.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "101 Broadway Rd",
+  "postalCode": "01826",
+  "phone": "tel:978-455-7789",
+  "venueHours": "\n                                                                                                        Mon-Thu 6:30am-7:00pm, Fri 6:30am-8:00pm, Sat 8:00am-8:00pm, Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/frobiescafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.673718,-71.293829&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.673718,-71.293829&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

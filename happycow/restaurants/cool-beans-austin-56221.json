@@ -1,0 +1,18 @@
+{
+  "title": "Cool Beans - Food Truck",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Mexican, Take-out only\n                                    ",
+  "description": "Vegan food truck serving Mexican street food with tacos and salsas, crema, and tortilla. Located behind the Friends & Neighbors Coffee Shop. Operating since Dec 2014. Previously on 7th St, May 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2614 E Cesar Chavez St",
+  "postalCode": "78702",
+  "phone": "tel:512-887-8139",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Fri 12:00pm-6:00pm, Sat 12:00pm-8:00pm, Sun 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/CoolBeans.ATX",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.253711,-97.714185&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.253711,-97.714185&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Falafelle",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Fast food, Take-out, Catering, Middle Eastern\n                                    ",
+  "description": "Vegetarian restaurant est. 2016. Serves falafel, dolma, tabbouleh, hummus, and other Middle Eastern food with feta cheese option.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1035 Ralston Ave",
+  "postalCode": "94002",
+  "phone": "tel:650-888-9723",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-3:30pm, 5:30pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.518877,-122.277292&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.518877,-122.277292&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

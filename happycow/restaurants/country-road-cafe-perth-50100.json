@@ -1,0 +1,17 @@
+{
+  "title": "Country Road Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Juice bar, Australian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers weekday breakfast and lunch and, on Saturday, all-day breakfast. Many vegetarian choices of which some may be prepared vegan. Large outdoor courtyard.",
+  "priceRange": "Moderate",
+  "streetAddress": "307-311 Murray St, West End",
+  "postalCode": "6000",
+  "phone": "tel:0893213982",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-4:00pm, Sat 9:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-31.942965,115.876487&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-31.942965,115.876487&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

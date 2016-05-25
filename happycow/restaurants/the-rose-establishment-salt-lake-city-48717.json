@@ -1,0 +1,19 @@
+{
+  "title": "The Rose Establishment",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffeehouse and bakery in a large, open space. Light breakfast and lunch food.",
+  "priceRange": "Moderate",
+  "streetAddress": "230 S 400 W",
+  "postalCode": "84102",
+  "phone": "tel:801-990-6270",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.764353,-111.902637&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.764353,-111.902637&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

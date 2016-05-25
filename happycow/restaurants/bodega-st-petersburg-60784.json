@@ -1,0 +1,18 @@
+{
+  "title": "Bodega",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Juice bar, Take-out, Cuban, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cuban cafe, restaurant, and juice bar. Reported you could get something vegan and that staff is knowledgeable about the ingredients.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1120 Central Ave",
+  "postalCode": "33705",
+  "phone": "tel:727-623-0942",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-4:00pm, Tue-Wed 11:00am-9:00pm, Thu-Sat 11:00am-11:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.770866,-82.650623&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.770866,-82.650623&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

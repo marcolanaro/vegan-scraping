@@ -1,0 +1,18 @@
+{
+  "title": "Dairy Lane Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Beer/Wine, Take-out, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Since the 1950s. Menu has a few marked as vegan dishes, including a breakfast scramble. Uses locally produced and organic ingredients when possible, and encourage recycling and use 100% carbon free energy.",
+  "priceRange": "Moderate",
+  "streetAddress": "319 19 St NW",
+  "postalCode": "T2N 2J2",
+  "phone": "tel:403-283-2497",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-8:00pm, Sat 8:00am-9:00pm, Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/DairyLaneCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.055230,-114.105640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.055230,-114.105640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Seattle Cookie Counter - Food Truck",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "1974 VW bus selling vegan ice cream and cookies. Operates at locations in downtown, Capitol Hill, West Seattle, and Roosevelt - check its webpage for latest dates & times.",
+  "streetAddress": "local area",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 3:00pm-8:00pm, Fri 3:00pm-9:00pm, Sat 12:00pm-4:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/seattlecookiecounter",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.606209,-122.332071&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.606209,-122.332071&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

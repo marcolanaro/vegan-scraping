@@ -1,0 +1,18 @@
+{
+  "title": "Johnny's Asian Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Thai, Beer/Wine, Delivery, Take-out, Asian, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Will accommodate vegans upon request. Nice interior with full bar. Reservations for large parties suggested.",
+  "priceRange": "Moderate",
+  "streetAddress": "10471 S Parker Rd",
+  "postalCode": "80134",
+  "phone": "tel:303-841-8877",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.526338,-104.767621&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.526338,-104.767621&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

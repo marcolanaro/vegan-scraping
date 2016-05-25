@@ -1,0 +1,13 @@
+{
+  "title": "Farah Food Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Stocks some organic produce, health foodstuff.",
+  "streetAddress": "6669 54th Ave N",
+  "postalCode": "33708",
+  "phone": "tel:727-485-7153",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.821307,-82.730027&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.821307,-82.730027&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

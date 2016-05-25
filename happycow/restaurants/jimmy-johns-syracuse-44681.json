@@ -1,0 +1,19 @@
+{
+  "title": "Jimmy John's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A franchise sandwich shop that opens til late. Makes subs, lettuce wraps, and sandwiches. Mostly meats stuff but one could get the veggie option and omit cheese/mayonaise, etc.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "103 Marshall St",
+  "postalCode": "13210",
+  "phone": "tel:315-479-7827",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-3:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Jimmy-Johns/166062756815278",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.041646,-76.136574&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.041646,-76.136574&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

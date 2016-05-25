@@ -1,0 +1,16 @@
+{
+  "title": "Eden - A Vegan Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Take-out\n                                    ",
+  "description": "Vegan food cafe operating since 2008. Offers soups, salads, sandwiches, and smoothies in a relaxed environment.",
+  "priceRange": "Moderate",
+  "streetAddress": "344 Adams Ave",
+  "postalCode": "18503",
+  "phone": "tel:570-969-1606",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 11:30am-6:00pm, Thu-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/edenavegancafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.408800,-75.660440&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.408800,-75.660440&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

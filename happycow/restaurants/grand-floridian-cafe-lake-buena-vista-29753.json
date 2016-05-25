@@ -1,0 +1,17 @@
+{
+  "title": "Grand Floridian Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual, light-filled Victorian setting and overlooks the gardens and pool at Disney's Grand Floridian Resort & Spa. Lesser known fact: Disneyworld suggest guests ask to speak to a chef or a manager upon arrival to discuss meal options.",
+  "priceRange": "Moderate",
+  "streetAddress": "4401 Grand Floridian Wy",
+  "postalCode": "32830",
+  "phone": "tel:407-824-3000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.393619,-81.538684&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.393619,-81.538684&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

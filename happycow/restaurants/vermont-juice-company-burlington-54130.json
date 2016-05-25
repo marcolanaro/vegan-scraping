@@ -1,0 +1,16 @@
+{
+  "title": "Vermont Juice Company",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Shop offering cold-pressed juices bottled onsite plus fresh pressed nutmilk, smoothies, chia and acai bowls.",
+  "streetAddress": "77 Main St",
+  "postalCode": "05401",
+  "phone": "tel:802-651-7070",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-5:00pm, Sat 10:00am-5:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/VTJuiceCo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.475610,-73.216285&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.475610,-73.216285&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

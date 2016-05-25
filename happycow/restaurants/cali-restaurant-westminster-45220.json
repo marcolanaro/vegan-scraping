@@ -1,0 +1,17 @@
+{
+  "title": "Cali Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Take-out, Bakery, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This Vietnamese restaurant and bakery offers a vegetarian list of items on its menu. Items such as tofu and lime chili, vegetable rice noodle soup, and Hue vermicelli.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15691 Brookhurst St",
+  "postalCode": "92683",
+  "phone": "tel:714-531-5142",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.734657,-117.955103&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.734657,-117.955103&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

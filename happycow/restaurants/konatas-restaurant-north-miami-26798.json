@@ -1,0 +1,17 @@
+{
+  "title": "Konata's Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Caribbean, Jamaican, Ital\n                                    ",
+  "description": "Authentic vegan Jamaican food. There are ital patties, fresh juices, and bread.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "13343 NW 7th Ave",
+  "postalCode": "33168",
+  "phone": "tel:305-688-7400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.897190,-80.210870&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.897190,-80.210870&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

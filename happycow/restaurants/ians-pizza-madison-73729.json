@@ -1,0 +1,18 @@
+{
+  "title": "Ian's Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Pizza, Italian, Fast food, Salad bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A pizzeria with a salad bar. Vegan items are Daiya cheeses, marinara, BBQ, vegan pesto, homemade ranch, homemade creme, Yves pepperoni. Items that can be made vegan are marked with VG. Has multiple locations.",
+  "priceRange": "Moderate",
+  "streetAddress": "319 N Frances St",
+  "postalCode": "53703",
+  "phone": "tel:608-257-9248",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.072890,-89.395564&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.072890,-89.395564&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

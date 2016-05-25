@@ -1,0 +1,17 @@
+{
+  "title": "Blaze Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Assembly line style franchise pizzeria. Could build your own pizza with various veggies, then choose marinara or hot red sauce or white sauce. Has vegan cheese, at extra charge.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8126 Hwy 7",
+  "postalCode": "55426",
+  "phone": "tel:952-938-4500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.936815,-93.382978&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.936815,-93.382978&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

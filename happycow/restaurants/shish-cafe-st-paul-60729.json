@@ -1,0 +1,19 @@
+{
+  "title": "Shish Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mediterranean food menu with some veggie choices like the red lentil soup, vegetable kebab, veggie burger (ask to make it vegan), tabbouli, fattoush salad, falafel wraps.",
+  "priceRange": "Moderate",
+  "streetAddress": "1668 Grand Ave",
+  "postalCode": "55105",
+  "phone": "tel:651-690-2212",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-11:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ShishCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.939899,-93.170651&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.939899,-93.170651&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

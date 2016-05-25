@@ -1,0 +1,20 @@
+{
+  "title": "Zephyr Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Western, Take-out, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegetarian, vegan, raw, as well gluten-free.",
+  "priceRange": "Moderate",
+  "streetAddress": "38084 Cleveland Ave",
+  "postalCode": "V8B 0J2",
+  "phone": "tel:604-567-4568",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:30am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Zephyr-Cafe/239203921168",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.699699,-123.152442&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.699699,-123.152442&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

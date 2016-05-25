@@ -1,0 +1,17 @@
+{
+  "title": "Yu Ping Veg House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Take-out\n                                    ",
+  "description": "A Chinese vegetarian restaurant. Located in the food court area, near the movie theater. Sit inside or in the food court.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Shop 117, 358 Mains Rd, Sunnybank",
+  "postalCode": "4109",
+  "phone": "tel:04-30013688",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 10:30am-5:30pm, Thu 10:30am-8:30pm, Fri-Sat 10:30am-5:30pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.569651,153.060887&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.569651,153.060887&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

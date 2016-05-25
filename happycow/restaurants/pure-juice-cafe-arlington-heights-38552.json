@@ -1,0 +1,18 @@
+{
+  "title": "Pure Juice Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Raw, Juice bar, Take-out\n                                    ",
+  "description": "Opened May 2013 a juice bar and raw food cafe. Offers freshly pressed juices and smoothies plus organic nut coffee and teas. The deli case contains a selection of prepared and packaged raw food and desserts. All vegan except for honey.",
+  "priceRange": "Moderate",
+  "streetAddress": "24 S Evergreen Ave",
+  "postalCode": "60005",
+  "phone": "tel:847-873-0942",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-7:00pm, Sat 8:00am-5:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PureJuiceCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.081574,-87.981745&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.081574,-87.981745&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

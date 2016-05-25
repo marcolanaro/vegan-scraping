@@ -1,0 +1,15 @@
+{
+  "title": "Ronald's Donuts",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Small donut shop operated by Buddhist owners. Around 50-70% of the donut selection is vegan (top 2 rows), though sugar used might be or not. Varieties include honey glazed, sugar coated, chocolate, maple, cinnamon bun, soy cream filled pastry, and apple twist.",
+  "streetAddress": "4600 W Spring Mountain Rd",
+  "postalCode": "89102",
+  "phone": "tel:702-873-1032",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 5:00am-4:00pm, Sun 5:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.126300,-115.203640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.126300,-115.203640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

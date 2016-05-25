@@ -1,0 +1,15 @@
+{
+  "title": "Pattycake Bakery",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "All vegan bakery offering vegan cupcakes, muffins, cookies, brownies, and whole cakes for special order. Originally named Pattycake Vegan Bakery.",
+  "streetAddress": "3009 N High St",
+  "postalCode": "43202",
+  "phone": "tel:614-784-2253",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 9:00am-5:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/pattycake-bakery/60751671680",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.023590,-83.014010&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.023590,-83.014010&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

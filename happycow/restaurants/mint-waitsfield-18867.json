@@ -1,0 +1,19 @@
+{
+  "title": "Mint",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Beer/Wine\n                                    ",
+  "description": "Tea lounge and restaurant. Emphasis is on organic, local ingredients. Menu contains an eclectic collection of dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "4403 Main St",
+  "postalCode": "05673",
+  "phone": "tel:802-496-5514",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 5:00pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.189790,-72.824550&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.189790,-72.824550&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

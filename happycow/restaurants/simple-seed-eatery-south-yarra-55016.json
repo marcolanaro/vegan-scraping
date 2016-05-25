@@ -1,0 +1,16 @@
+{
+  "title": "Simple Seed Eatery",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Salad bar, Juice bar, Take-out\n                                    ",
+  "description": "Whole food cafe using fresh seasonal produce to make salads, juices, and soups. Almond and soy milk are made in-house. No dairy or egg; optional bee pollen for smoothies. Since Nov 2014.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shop 4, 9 Yarra St",
+  "postalCode": "3141",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:30am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/simple.seed.wholefoods.cafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.837544,144.992918&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.837544,144.992918&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

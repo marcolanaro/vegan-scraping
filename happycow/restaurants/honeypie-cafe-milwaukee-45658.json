@@ -1,0 +1,18 @@
+{
+  "title": "Honeypie Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers breakfast food, sandwiches, pastries, salads, pies, and large cupcakes including vegan flavors. Dishes that could be made vegan are marked on the menu with (V).",
+  "priceRange": "Moderate",
+  "streetAddress": "2643 S Kinnickinnic Ave",
+  "postalCode": "53207",
+  "phone": "tel:414-489-7437",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-10:00pm, Sat 9:00am-10:00pm, Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/HoneypieCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.996855,-87.898530&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.996855,-87.898530&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

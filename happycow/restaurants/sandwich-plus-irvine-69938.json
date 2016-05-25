@@ -1,0 +1,18 @@
+{
+  "title": "Sandwich Plus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Deli with a vegetarian sub which can be made vegan without the cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "216 Technology Dr",
+  "postalCode": "92618",
+  "phone": "tel:949-453-9675",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.667058,-117.749413&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.667058,-117.749413&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

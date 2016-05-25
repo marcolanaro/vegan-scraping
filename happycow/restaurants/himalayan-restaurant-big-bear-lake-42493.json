@@ -1,0 +1,18 @@
+{
+  "title": "Himalayan Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, Beer/Wine, Delivery, Take-out, Nepalese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian and Nepalese food menu, includes vegetarian dishes. Try the lentil soup, veg momo dumplings, and samosa.",
+  "priceRange": "Moderate",
+  "streetAddress": "672 Pine Knot Ste 2",
+  "postalCode": "92315",
+  "phone": "tel:909-866-2907",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:00am-9:00pm, Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.240370,-116.911806&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.240370,-116.911806&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

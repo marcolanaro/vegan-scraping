@@ -1,0 +1,19 @@
+{
+  "title": "The Veggie Grill",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Fast food, Beer/Wine, Take-out, Catering\n                                    ",
+  "description": "Casual vegan cafe chain originating from Southern California, this one opened Nov 2012. Offers a variety of veggie burgers and sandwiches, hot plates, salads, sweet potato fries, kids menu, and desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3055 Olin Ave Unit 1030",
+  "postalCode": "95128",
+  "phone": "tel:408-296-6473",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/veggiegrill",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.320846,-121.949618&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.320846,-121.949618&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

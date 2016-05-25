@@ -1,0 +1,17 @@
+{
+  "title": "Union Block",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Italian bistro that can make many selections vegan on request and offers gluten free pasta. Bar offers local wines, beer, and mixed drinks. Live music on weekend.",
+  "priceRange": "Expensive",
+  "streetAddress": "31 Shethar St",
+  "postalCode": "14840",
+  "phone": "tel:607-246-4065",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.409312,-77.223439&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.409312,-77.223439&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

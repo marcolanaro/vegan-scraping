@@ -1,0 +1,13 @@
+{
+  "title": "My Juice Spot",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juices, smoothies, acai bowls place. Mostly vegan except for whey protein and yogurt.",
+  "streetAddress": "11711 National Blvd",
+  "postalCode": "90064",
+  "phone": "tel:310-478-0010",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:30am-8:00pm, Sat-Sun 7:30am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.022625,-118.439199&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.022625,-118.439199&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

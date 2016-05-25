@@ -1,0 +1,16 @@
+{
+  "title": "The Juice Standard",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A vegetarian, mostly vegan, paleo, raw, organic juice bar. Offers cold-pressed juices using local produce. Also makes smoothies, coffees and has a variety of nut milks. Cozy atmosphere. Take-out available.",
+  "streetAddress": "4555 S Ft Apache Rd, Ste 144",
+  "postalCode": "89147",
+  "phone": "tel:702-476-9800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-8:00pm, Sun 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.106504,-115.297941&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.106504,-115.297941&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

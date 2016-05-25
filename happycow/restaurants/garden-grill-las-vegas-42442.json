@@ -1,0 +1,15 @@
+{
+  "title": "Garden Grill",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Vegan tacos vendor selling at area farmer's markets - check website for latest info. Wednesday Bruce Trent Park 4-8pm, Friday Town Square 3-7pm, Saturday Tivoli Village 9am-2pm, Sunday Sansone Park Place 8:30am-1pm.",
+  "streetAddress": "area markets",
+  "phone": "tel:619-888-2579",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gardengrilllv",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.102858,-115.211783&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.102858,-115.211783&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

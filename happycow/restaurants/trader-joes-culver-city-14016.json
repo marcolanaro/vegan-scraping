@@ -1,0 +1,16 @@
+{
+  "title": "Trader Joe's",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Specialty food grocery chain. Has some vegetarian and vegan food items and grocery. Parking in lot above store.",
+  "streetAddress": "9290 Culver Blvd",
+  "postalCode": "90232",
+  "phone": "tel:310-202-1108",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Trader-Joes/133932999988645",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.024440,-118.393910&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.024440,-118.393910&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Taziki's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Mediterranean, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The vegetarian menu lists several items that are veganizable: hummus, salad, roasted potatoes, basmati rice, grilled veggie plate.",
+  "priceRange": "Moderate",
+  "streetAddress": "339 S College St",
+  "postalCode": "36830",
+  "phone": "tel:334-246-5198",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.600305,-85.481089&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.600305,-85.481089&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

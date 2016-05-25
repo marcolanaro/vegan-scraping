@@ -1,0 +1,12 @@
+{
+  "title": "Farmers' Market - downtown",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers market in downtown Ventura City Parking.",
+  "streetAddress": "Santa Clara St and Palm St",
+  "phone": "tel:805-529-6299",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 8:30am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.279519,-119.296173&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.279519,-119.296173&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

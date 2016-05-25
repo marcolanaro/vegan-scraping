@@ -1,0 +1,15 @@
+{
+  "title": "Benna's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small hipster coffee shop that serves some sandwiches, bagels, and desserts. Live music events.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1236 S 8th St",
+  "postalCode": "19147",
+  "phone": "tel:215-334-1502",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.932837,-75.157578&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.932837,-75.157578&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

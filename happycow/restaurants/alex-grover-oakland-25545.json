@@ -1,0 +1,15 @@
+{
+  "title": "Alex Grover",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Vegan personal chef.",
+  "streetAddress": "1572 5th St",
+  "postalCode": "94607",
+  "phone": "tel:7039279861",
+  "listingFeatures": [
+    "Reservations required"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.804746,-122.298073&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.804746,-122.298073&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

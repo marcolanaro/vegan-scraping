@@ -1,0 +1,16 @@
+{
+  "title": "Juice Press",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Chain juice bar with locations in NY. Offers grab n go format juices, smoothies, packaged raw food and desserts.",
+  "streetAddress": "93 Main St",
+  "postalCode": "11968",
+  "phone": "tel:212-777-0374",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-5:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/juicepressny",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.886489,-72.390061&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.886489,-72.390061&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

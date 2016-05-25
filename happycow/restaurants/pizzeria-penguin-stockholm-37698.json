@@ -1,0 +1,17 @@
+{
+  "title": "Pizzeria Penguin",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Italian, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Standard pizzeria but has vegan cheese for pizza. Choose your toppings and tell the staff you want the vegan version.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Olandsgatan 44",
+  "postalCode": "11663",
+  "phone": "tel:08-6403756",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:00am-9:00pm, Fri 10:00am-10:00pm, Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.308770,18.076939&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.308770,18.076939&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

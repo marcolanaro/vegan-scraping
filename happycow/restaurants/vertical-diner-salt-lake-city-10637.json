@@ -1,0 +1,16 @@
+{
+  "title": "Vertical Diner",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Beer/Wine, Take-out\n                                    ",
+  "description": "Vegan diner serving down-home comfort food and breakfast all day. Specialties include fried faux chicken, blueberry pancakes, and hand cut french fries. Also serving fair trade coffee, tea, chocolate, and cocktails.",
+  "priceRange": "Moderate",
+  "streetAddress": "2280 South West Temple",
+  "postalCode": "84115",
+  "phone": "tel:801-484-8378",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-10:00pm, Sat-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/verticaldinerSLC",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.721226,-111.894212&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.721226,-111.894212&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

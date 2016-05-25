@@ -1,0 +1,15 @@
+{
+  "title": "Trader Joe's",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Chain specialty foods grocery stores. Stocks some vegetarian and vegan-friendly foods and products including snacks, coffee and tea packs, dried foods, refrigerated and frozen foods, cereals, breads, beer and wine, household cleaning products, supplements, and more.",
+  "streetAddress": "2730 Hyperion Ave",
+  "postalCode": "90027",
+  "phone": "tel:323-665-6774",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.107080,-118.272320&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.107080,-118.272320&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

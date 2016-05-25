@@ -1,0 +1,16 @@
+{
+  "title": "Le Mezze",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Lebanese cuisine with vegan options such as falafel, tabbouleh and eggplant caviar.",
+  "priceRange": "Moderate",
+  "streetAddress": "Pointe des Almadies",
+  "phone": "tel:30-107-11-10",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=14.744787,-17.528881&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C14.744787,-17.528881&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

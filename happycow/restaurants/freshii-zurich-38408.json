@@ -1,0 +1,19 @@
+{
+  "title": "freshii",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. International franchise fast food chain restaurant where you can customize wraps, bowls, and salads. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "Militärstrasse 14",
+  "postalCode": "8004",
+  "phone": "tel:+41-435385128",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-9:00pm, Thu-Fri 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.376453,8.533169&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.376453,8.533169&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

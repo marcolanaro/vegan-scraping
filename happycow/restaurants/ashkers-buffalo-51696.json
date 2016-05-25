@@ -1,0 +1,20 @@
+{
+  "title": "Ashkers",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe and juice bar. Uses simple recipes and local ingredients to make wraps, sandwiches, and juices. Menu shows the ingredients used.",
+  "priceRange": "Moderate",
+  "streetAddress": "1002 Elmwood Ave",
+  "postalCode": "14222",
+  "phone": "tel:716-886-2233",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-10:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/AshkersCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.924412,-78.877240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.924412,-78.877240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Bollo's Cafe and Bakery",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery cafe offering coffee drinks with the option of soy milk. Has a small selection of vegan baked goods. For strict vegans, make sure you verify no honey used in some of the baked goods.",
+  "streetAddress": "206 Draper Rd NW",
+  "postalCode": "24060",
+  "phone": "tel:540-953-1669",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.229540,-80.415470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.229540,-80.415470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

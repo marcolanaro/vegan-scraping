@@ -1,0 +1,17 @@
+{
+  "title": "The Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Key West restaurant offering vegetarian, vegan, and fish. Has breakfast food, veggieburgers, vegan chicken, faux sausage, tofu parmigianan with pasta, tofu benni, spring rolls, seitan, fresh juices, organic wine.",
+  "priceRange": "Moderate",
+  "streetAddress": "509 Southard St",
+  "postalCode": "33040",
+  "phone": "tel:305-296-5515",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-10:00pm, Sat-Sun 9:00am-4:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=24.554910,-81.801700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C24.554910,-81.801700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

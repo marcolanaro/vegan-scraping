@@ -1,0 +1,20 @@
+{
+  "title": "Love Food Central",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Take-out, Bakery\n                                    ",
+  "description": "St. Pete cafe serving vegan and gluten-free food and has vegan soft serve ice cream. Est. Jan 2016.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2057 Central Ave",
+  "postalCode": "33713",
+  "phone": "tel:727-317-2034",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-7:00pm, Sat-Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/lovefoodcentral",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.771337,-82.661389&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.771337,-82.661389&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

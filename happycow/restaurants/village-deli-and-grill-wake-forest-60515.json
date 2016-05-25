@@ -1,0 +1,15 @@
+{
+  "title": "Village Deli and Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Several locations. Menu has tempeh sandwich and house made bean burger. Could ask to omit cheese and mayo.",
+  "priceRange": "Moderate",
+  "streetAddress": "1849 S Main St Ste 200",
+  "postalCode": "27587",
+  "phone": "tel:919-453-1250",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-9:00pm, Sat 8:00am-9:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.951825,-78.527831&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.951825,-78.527831&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

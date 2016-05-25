@@ -1,0 +1,17 @@
+{
+  "title": "Ellie's Mutt Hut and Vegetarian Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a variety of vegetarian dishes including sandwiches, salads, soups, and more; uses dairy and egg. Order at counter, and food is brought to your table.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "732 S State St",
+  "postalCode": "95482",
+  "phone": "tel:707-468-5376",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.141380,-123.205960&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.141380,-123.205960&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

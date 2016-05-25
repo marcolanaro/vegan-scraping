@@ -1,0 +1,17 @@
+{
+  "title": "Wandering Goat Coffee Co.",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Coffee house, roaster, and bakery. Focus is on vegan baking. Makes vegan danish, bagels, and pastries.",
+  "streetAddress": "268 Madison St",
+  "postalCode": "97402",
+  "phone": "tel:541-344-5161",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 6:00am-11:00pm, Thu-Sat 6:00am-12:00am, Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/WanderingGoatCoffeeCo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.056956,-123.103805&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.056956,-123.103805&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

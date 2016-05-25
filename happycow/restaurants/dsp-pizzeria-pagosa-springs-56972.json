@@ -1,0 +1,19 @@
+{
+  "title": "DSP PIzzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Italian, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local, casual and funky pizzeria that's often busy. Kitchen keeps vegan cheese and margarine on hand. Makes its pizza dough and bread from scratch. Note the pizza sauce contains cheese. Specify if vegan, and kitchen can make a \"white\" pizza, or bruschetta, salads, and garlic knots (plain or stuffed with vegan cheese), and a cinnamon dessert vegan for you.",
+  "priceRange": "Moderate",
+  "streetAddress": "100 Country Center Dr",
+  "postalCode": "81147",
+  "phone": "tel:970-731-0420",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.255629,-107.076699&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.255629,-107.076699&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

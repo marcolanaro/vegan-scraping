@@ -1,0 +1,17 @@
+{
+  "title": "Z'Mariks Noodle Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. All but two menu items start out vegetarian with an option to add protein (tofu, or animal based).",
+  "priceRange": "Moderate",
+  "streetAddress": "19 S Dubuque St",
+  "postalCode": "52242",
+  "phone": "tel:319-338-5500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.660900,-91.532990&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.660900,-91.532990&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

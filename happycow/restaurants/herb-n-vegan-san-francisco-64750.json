@@ -1,0 +1,16 @@
+{
+  "title": "Herb n' Vegan",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Chef Stacey Ellis makes plant-based cuisine for pick up or delivery - see webpage.",
+  "streetAddress": "San Francisco Bay",
+  "postalCode": "94115",
+  "phone": "tel:310-367-4912",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/qulinaryapp",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.793916,-122.474467&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.793916,-122.474467&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

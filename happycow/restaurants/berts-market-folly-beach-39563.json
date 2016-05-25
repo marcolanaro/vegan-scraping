@@ -1,0 +1,14 @@
+{
+  "title": "Bert's Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A 24-hour store offering a wide range of food and products including all-organic fresh produce plus prepared foods, wine, coffee beans, and snacks. Vegan groceries including tofu, tempeh, vegan burgers, tofu cuties, Daiya cheese, coconut creamer, vegan crackers and cookies, and more.",
+  "streetAddress": "202 E Ashley Ave",
+  "postalCode": "29439",
+  "phone": "tel:843-588-9449",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/bertsmarket",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.656646,-79.938443&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.656646,-79.938443&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

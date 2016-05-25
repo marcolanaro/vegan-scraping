@@ -1,0 +1,15 @@
+{
+  "title": "Hillside Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Pizza, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan toppings include cheese, seitan, and tempeh bacon. Two sandwiches - bella veggie and stupendous seitan can be made vegan. Also gluten free and vegan desserts come from a cafe in Springfield and change daily.",
+  "priceRange": "Moderate",
+  "streetAddress": "173 Russel St",
+  "postalCode": "01035",
+  "phone": "tel:413-585-0003",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 11:00am-9:00pm, Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.342568,-72.583491&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.342568,-72.583491&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Haley's Corner Bakery",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Gluten-free bakery. Shop keeps vegan baked goods in the freezer, so you'll want to call ahead if you want it thawed first. Pizza can be ordered with veggies and no cheese.",
+  "streetAddress": "10216 SE 256th St Ste 111",
+  "postalCode": "98030",
+  "phone": "tel:253-852-4486",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 9:00am-6:00pm, Wed-Fri 8:00am-6:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/haleyscorner",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.373175,-122.204012&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.373175,-122.204012&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

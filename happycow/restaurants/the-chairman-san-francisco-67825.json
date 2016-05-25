@@ -1,0 +1,15 @@
+{
+  "title": "The Chairman",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has tempeh and tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "670 Larkin St",
+  "postalCode": "94109",
+  "phone": "tel:415-813-8800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-9:00pm, Sun 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.784069,-122.417594&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.784069,-122.417594&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

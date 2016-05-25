@@ -1,0 +1,15 @@
+{
+  "title": "Trader Joe's",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of mid-size specialty food market chain. Stocks some vegan and vegetarian food as well as natural personal care and household cleaning products. Some vegan foods include tempeh, hummus, organic tofu, frozen vegetable gyoza (dumpling), and others.",
+  "streetAddress": "1090 University",
+  "postalCode": "92103",
+  "phone": "tel:619-296-3122",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.748517,-117.154466&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.748517,-117.154466&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

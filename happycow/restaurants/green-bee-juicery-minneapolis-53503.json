@@ -1,0 +1,18 @@
+{
+  "title": "Green Bee Juicery",
+  "tags": [
+    "Other Veg Stuff",
+    "Vegan"
+  ],
+  "description": "Offers cold-pressed juices and raw energy orbs. Also delivers.",
+  "streetAddress": "3722 Chicago Ave",
+  "postalCode": "55407",
+  "phone": "tel:612-875-0436",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 5:00pm-8:00pm, Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/GreenBeeJuicery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.935065,-93.262757&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.935065,-93.262757&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

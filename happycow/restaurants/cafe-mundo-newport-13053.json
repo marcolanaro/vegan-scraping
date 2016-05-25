@@ -1,0 +1,20 @@
+{
+  "title": "Cafe Mundo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has some vegetarian dishes and several vegan. Live music daily.",
+  "priceRange": "Moderate",
+  "streetAddress": "711 NW 2nd Court",
+  "postalCode": "97365",
+  "phone": "tel:541-574-8134",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 11:00am-9:00pm, Thu-Sat 11:00am-10:00pm, Sun 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Cafe-Mundo/142005534213",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.637890,-124.060820&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.637890,-124.060820&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

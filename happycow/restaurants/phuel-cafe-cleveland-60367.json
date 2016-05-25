@@ -1,0 +1,20 @@
+{
+  "title": "phuel Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. In the Playhouse Square theater district. Marked vegan options include a portabella panini, chilled bean salad, and Szechuan spicy bean curd. Some meals can be made veg/vegan when you ask. Use organic products as often as possible.",
+  "priceRange": "Moderate",
+  "streetAddress": "1350 Euclid Ave",
+  "postalCode": "44115",
+  "phone": "tel:216-795-5175",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:30am-8:00pm, Sat-Sun 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PhuelCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.500377,-81.681768&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.500377,-81.681768&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

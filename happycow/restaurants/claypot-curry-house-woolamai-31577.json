@@ -1,0 +1,17 @@
+{
+  "title": "Claypot Curry House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Sri Lankan, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Most of menu is vegan. The owner/cook is a vegan (or strict vegetarian). Uses vegetables from own garden. Has vegan desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "733 Turnbull-Woolamia Road",
+  "phone": "tel:03-97052370",
+  "venueHours": "\n                                                                                                        Tue-Sun 12:00pm-2:00pm, 6:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-38.505021,145.499877&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-38.505021,145.499877&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

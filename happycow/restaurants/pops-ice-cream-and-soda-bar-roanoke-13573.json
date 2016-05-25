@@ -1,0 +1,19 @@
+{
+  "title": "Pop's Ice Cream and Soda Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American\n                                    ",
+  "description": "Soda and dairy ice cream bar with 1950's decor setting. Mainly dairy food menu that includes grilled sandwiches, a salad, and a daily soup. Vegans should call and see what's on the menu (if anything).",
+  "priceRange": "Moderate",
+  "streetAddress": "1916 Memorial Ave SW",
+  "postalCode": "24015",
+  "phone": "tel:540-345-2129",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 11:00am-9:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/popsicecream",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.265750,-79.976090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.265750,-79.976090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

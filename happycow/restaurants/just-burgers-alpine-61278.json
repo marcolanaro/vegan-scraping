@@ -1,0 +1,19 @@
+{
+  "title": "Just Burgers",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small burger place for take away or sit outside. Has a vegan burger using vegan buns, patty, vegenaise. Located behind the Murphy Street Raspa Co.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "100 W Murphy St",
+  "postalCode": "79830",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.356358,-103.660946&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.356358,-103.660946&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

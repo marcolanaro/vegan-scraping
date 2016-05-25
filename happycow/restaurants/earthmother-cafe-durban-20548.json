@@ -1,0 +1,18 @@
+{
+  "title": "Earthmother Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Take-out\n                                    ",
+  "description": "The cafe is located in the back garden area of the organic shop. There is a pond and a sand box for children to play. Serves breakfast and lunch food and smoothies.",
+  "priceRange": "Moderate",
+  "streetAddress": "106 Bulwer Road",
+  "phone": "tel:031-2021527",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-29.858080,30.999190&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-29.858080,30.999190&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Marmalade Cat Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Western, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee and cafe. Items are labeled if \"egg-free\" or \"dairy-free.\" Has almond and soy milk for drinks. Daily soup is often vegan. Offers vegan baked goods (cookies, cupcakes, bars).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2903 Pandosy St",
+  "postalCode": "V1Y 1W1",
+  "phone": "tel:250-861-4158",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:30am-5:00pm, Fri 7:30am-7:00pm, Sat 8:30am-5:00pm, Sun 8:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/MarmaladeCatCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.864582,-119.491007&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.864582,-119.491007&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

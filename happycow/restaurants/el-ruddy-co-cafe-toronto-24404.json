@@ -1,0 +1,17 @@
+{
+  "title": "E.L. Ruddy Co. Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Beer/Wine, Canadian\n                                    ",
+  "description": "Cafe and bar where the food is made from scratch and includes gluten-free and vegan choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "1371 Dundas St W",
+  "postalCode": "M6J 1Y3",
+  "phone": "tel:647-351-0423",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:00pm-12:00am, Fri-Sat 11:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.649491,-79.427848&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.649491,-79.427848&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

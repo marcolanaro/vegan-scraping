@@ -1,0 +1,17 @@
+{
+  "title": "Spice Root",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Indian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food. Serves meat but has a Vegan menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "23 Spring St",
+  "postalCode": "01267",
+  "phone": "tel:413-458-5200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:00pm-10:00pm, Tue-Sun 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.711706,-73.203853&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.711706,-73.203853&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

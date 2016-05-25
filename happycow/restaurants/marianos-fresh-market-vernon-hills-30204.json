@@ -1,0 +1,16 @@
+{
+  "title": "Marianos Fresh Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Supermarket with several locations in Illinois. Stocks both conventional as well as healthier and vegan options.",
+  "streetAddress": "1720 N Milwaukee Ave",
+  "postalCode": "60061",
+  "phone": "tel:847-816-0994",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/marianosfreshmarket",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.238590,-87.943840&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.238590,-87.943840&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

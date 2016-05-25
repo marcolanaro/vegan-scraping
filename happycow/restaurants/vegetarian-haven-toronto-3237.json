@@ -1,0 +1,17 @@
+{
+  "title": "Vegetarian Haven",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Asian, Catering, Fusion\n                                    ",
+  "description": "Vegan bistro featuring Asian fusion cuisine. The extensive food menu offers dishes like veg pastrami pad thai, baked spring rolls, garden basket bread bowl, claypots, noodles, tofu plates, a variety of mock meats, desserts, and soup of the day. Uses local and organic ingredients, fresh made noodles and buns. No alcohol.",
+  "priceRange": "Moderate",
+  "streetAddress": "17 Baldwin St",
+  "postalCode": "M5T 1L1",
+  "phone": "tel:416-621-3636",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:00pm-10:00pm, Tue-Fri 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.655970,-79.393010&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.655970,-79.393010&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

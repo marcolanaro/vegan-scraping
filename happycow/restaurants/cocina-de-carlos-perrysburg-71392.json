@@ -1,0 +1,18 @@
+{
+  "title": "Cocina de Carlos",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican cuisine restaurant and cantina. Has a vegan section on menu with house-made vegan chorizo among other veggie selections.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "27072 Carronade Dr",
+  "postalCode": "43551",
+  "phone": "tel:419-872-0200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CocinaDeCarlos",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.544371,-83.599513&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.544371,-83.599513&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

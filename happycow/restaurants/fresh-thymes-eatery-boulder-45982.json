@@ -1,0 +1,20 @@
+{
+  "title": "Fresh Thymes Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Pizza, Organic, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Gluten-free kitchen designed to be special-diet friendly. Offers a variety of hearty sides and tossed entrée salads, appetizers and \"big bites.\" Breads, pizza crusts, and desserts are made without egg or dairy. Vegan could get a mac and cheese or the kale and mushroom dip. Sources local and non-gmo ingredients, and composts its kitchen waste.",
+  "priceRange": "Moderate",
+  "streetAddress": "2500 30th St Ste 101",
+  "postalCode": "80301",
+  "phone": "tel:303-955-7988",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/freshthymeseatery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.026800,-105.253128&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.026800,-105.253128&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Bam Bam Bakery",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Gluten-free bakery offering a fair selection of vegan items.",
+  "streetAddress": "267 Commercial St",
+  "postalCode": "04101",
+  "phone": "tel:207-899-4100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BamBamBakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.654399,-70.255440&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.654399,-70.255440&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

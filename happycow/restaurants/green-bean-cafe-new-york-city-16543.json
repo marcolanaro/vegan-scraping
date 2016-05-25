@@ -1,0 +1,15 @@
+{
+  "title": "The Green Bean Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Juice bar, Take-out, Catering\n                                    ",
+  "description": "Casual neighborhood veggie cafe with an extensive juices and food menu. Offers main entrees, sandwiches, pizza, smoothies, desserts, all-day breakfast, vegan sweets, and some raw food. Seating is available for both table and counter service.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1413 York Ave",
+  "postalCode": "10021",
+  "phone": "tel:212-861-8060",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-9:00pm, Sat-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.769180,-73.952450&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.769180,-73.952450&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

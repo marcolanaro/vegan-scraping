@@ -1,0 +1,17 @@
+{
+  "title": "Jill's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This restaurant is in a tiny town near the border with Canada. The menu is mostly meat, but they have a burger on the menu that is labeled as vegan. It's rectangular and served on a hoagie bun, comes with sprouts and baby lettuce greens. Can ask to leave out mayonnaise.",
+  "priceRange": "Moderate",
+  "streetAddress": "7211 Main St",
+  "postalCode": "83805",
+  "phone": "tel:208-267-1950",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.697582,-116.311967&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.697582,-116.311967&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

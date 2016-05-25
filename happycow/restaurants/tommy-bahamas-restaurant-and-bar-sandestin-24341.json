@@ -1,0 +1,19 @@
+{
+  "title": "Tommy Bahama's Restaurant and Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Caribbean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of small chain of restaurants. Primarily meat but has around 8 ovo/lacto vegetarian items. Gluten-free options. Vegans to ask.",
+  "priceRange": "Moderate",
+  "streetAddress": "525 Grand Blvd, Ste P-101",
+  "postalCode": "32550",
+  "phone": "tel:850-654-1743",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.379508,-86.316108&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.379508,-86.316108&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

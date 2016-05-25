@@ -1,0 +1,13 @@
+{
+  "title": "Spring Hill Natural Foods Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store with deli. Has wraps available inside include an eggless salad made with veganaise.",
+  "streetAddress": "11083 Spring Hill Dr",
+  "postalCode": "34608",
+  "phone": "tel:352-688-9119",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-6:00pm, Sun 12:00pm-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.461437,-82.540867&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.461437,-82.540867&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

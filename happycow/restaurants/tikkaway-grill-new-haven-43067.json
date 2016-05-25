@@ -1,0 +1,18 @@
+{
+  "title": "Tikkaway Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A fast casual Indian restaurant that can cater to vegans with all items clearly marked. You design your meal (roti, rice or salad).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "135 Orange St",
+  "postalCode": "06510",
+  "phone": "tel:203-532-1299",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-9:00pm, Sat-Sun 12:00pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.305671,-72.923868&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.305671,-72.923868&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Blue Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Juice bar, Delivery, Take-out, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual Greek place where one could get veggie food like falafel, hummus, grapeleaves, and pita. Has fresh juices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "426 N Main St",
+  "postalCode": "48381",
+  "phone": "tel:248-684-4545",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/medbluegrill",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.590964,-83.600288&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.590964,-83.600288&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

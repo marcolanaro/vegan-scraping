@@ -1,0 +1,17 @@
+{
+  "title": "Saigon Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Beer/Wine, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has some vegetarian dishes, including water-based vegetarian soup,stir fried rice noodles w/vegetables, fried rice with or without egg, curries, and more. Vegan options upon request. Low sodium options available.",
+  "priceRange": "Moderate",
+  "streetAddress": "1098 Elmwood Ave",
+  "postalCode": "14122",
+  "phone": "tel:716-883-1252",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.926980,-78.876660&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.926980,-78.876660&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

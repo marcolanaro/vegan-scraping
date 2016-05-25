@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Equator",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai cuisine daily for lunch and dinner. Menu includes a large vegetarian section where the food is prepared with vegetable stock, no meat, or fish products.",
+  "priceRange": "Moderate",
+  "streetAddress": "2920 Severn Ave",
+  "postalCode": "70002",
+  "phone": "tel:504-888-4772",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.004465,-90.159524&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.004465,-90.159524&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

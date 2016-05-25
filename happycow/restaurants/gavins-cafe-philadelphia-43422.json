@@ -1,0 +1,19 @@
+{
+  "title": "Gavin's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Take-out, Catering, Argentinean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Works with a local farmer and makes vegetarian and vegan prepared to-go dishes. Vegan Wednesday you can find empanadas, side dishes and brownies, with more vegan choices to be added to menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "2536 Pine St",
+  "postalCode": "19103",
+  "phone": "tel:267-519-2494",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-8:00pm, Sat-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gavinscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.947712,-75.182551&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.947712,-75.182551&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

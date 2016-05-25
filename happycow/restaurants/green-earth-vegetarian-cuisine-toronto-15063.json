@@ -1,0 +1,18 @@
+{
+  "title": "Green Earth Vegetarian Cuisine",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Western, Take-out, Asian\n                                    ",
+  "description": "A family owned restaurant. Offers vegan Asian and western food.",
+  "priceRange": "Moderate",
+  "streetAddress": "385 Broadview Avenue",
+  "postalCode": "M4K 2M7",
+  "phone": "tel:416-778-9199",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 2:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.665910,-79.352790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.665910,-79.352790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

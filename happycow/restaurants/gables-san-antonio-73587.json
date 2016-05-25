@@ -1,0 +1,15 @@
+{
+  "title": "Gable's",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery and ice cream parlor with retro atmosphere. Has vegan options in ice cream, milkshakes, brownies, cookies, rice krispie treat. Known for sliders which are ice cream sandwiches.",
+  "streetAddress": "9708 Business Pkwy Ste 102",
+  "postalCode": "78023",
+  "phone": "tel:210-372-9292",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 12:00pm-9:00pm, Wed-Thu 12:00pm-9:00pm, Fri-Sat 12:00pm-11:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.557861,-98.679709&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.557861,-98.679709&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

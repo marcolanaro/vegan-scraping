@@ -1,0 +1,20 @@
+{
+  "title": "Panera Bread",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Italian, Organic, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain bakery restaurant. Counter service. Offers organic salads and soups, and around one-half the menu is vegetarian suitable (ovo, lacto). Could create your own sandwich or salad.",
+  "priceRange": "Moderate",
+  "streetAddress": "40968 US-19",
+  "postalCode": "34689",
+  "phone": "tel:727-722-9014",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/panerabread",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.149096,-82.740497&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.149096,-82.740497&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

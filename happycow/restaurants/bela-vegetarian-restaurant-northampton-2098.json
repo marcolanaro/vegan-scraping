@@ -1,0 +1,15 @@
+{
+  "title": "Bela Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out\n                                    ",
+  "description": "Offers tofu, tempeh, seitan entrees, soups, veggieburgers, beans, veggies.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "68 Masonic St",
+  "postalCode": "01060",
+  "phone": "tel:413-586-8011",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.318740,-72.633080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.318740,-72.633080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

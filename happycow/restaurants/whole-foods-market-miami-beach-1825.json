@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Featuring fresh produce including organic, deli cold and hot foods, juice and coffee bar, vitamins, supplements, natural body care products, healthy grocery, and much more.",
+  "streetAddress": "1020 Alton Rd",
+  "postalCode": "33139",
+  "phone": "tel:305-532-1707",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.780440,-80.140790&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.780440,-80.140790&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

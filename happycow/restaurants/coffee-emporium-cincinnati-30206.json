@@ -1,0 +1,19 @@
+{
+  "title": "Coffee Emporium",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little coffee and tea house that offers lacto vegetarian food as well as a few vegan lunch items and vegan baked goods. Soy milk is available for coffee drinks (may cost extra). Soup, hummus, salad, black bean burger, sandwiches, and more. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "110 E Central Parkway",
+  "phone": "tel:513.651.5483",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Coffee-Emporium/155217768416",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.107687,-84.512518&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.107687,-84.512518&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Sprouts Farmers Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of growing chain of full-service grocery stores offering natural and organic products. Variety of vegan options. Previously named Sunflower.",
+  "streetAddress": "1700 McHenry Ave Ste A3",
+  "postalCode": "95350",
+  "phone": "tel:209-527-7575",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.669407,-120.992072&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.669407,-120.992072&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

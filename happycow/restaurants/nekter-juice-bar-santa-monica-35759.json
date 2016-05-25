@@ -1,0 +1,16 @@
+{
+  "title": "Nekter Juice Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Juice bar with multiple locations. Offers made-to-order juices and smoothies plus acai bowls and a small grab-n-go fridge case.",
+  "streetAddress": "1422C 2nd St",
+  "postalCode": "90401",
+  "phone": "tel:800-385-1650",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat-Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/nekterjuicebar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.014292,-118.496680&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.014292,-118.496680&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

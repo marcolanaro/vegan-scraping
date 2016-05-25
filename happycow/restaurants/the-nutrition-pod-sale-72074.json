@@ -1,0 +1,18 @@
+{
+  "title": "The Nutrition Pod",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic\n                                    ",
+  "description": "Allergen friendly cafe with vegan and gluten-free food.",
+  "priceRange": "Moderate",
+  "streetAddress": "142 Raymond St",
+  "postalCode": "3850",
+  "phone": "tel:0351431809",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/thenutritionpod/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-38.109939,147.066205&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-38.109939,147.066205&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

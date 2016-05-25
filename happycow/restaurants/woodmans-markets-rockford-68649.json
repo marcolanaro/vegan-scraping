@@ -1,0 +1,15 @@
+{
+  "title": "Woodman's Markets",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Grocery market. Stocks a selection of organic produce and has a natural foods aisle.",
+  "streetAddress": "3155 McFarland Rd",
+  "postalCode": "61104",
+  "phone": "tel:815-986-0220",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.307305,-88.974887&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.307305,-88.974887&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

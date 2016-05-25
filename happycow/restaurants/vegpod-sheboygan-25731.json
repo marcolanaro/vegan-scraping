@@ -1,0 +1,12 @@
+{
+  "title": "Vegpod",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Vegan organic caterer specializing in gluten free, macrobiotic, and raw food.",
+  "streetAddress": "Annapolis",
+  "phone": "tel:619-808-6075",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.964499,-76.502654&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.964499,-76.502654&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

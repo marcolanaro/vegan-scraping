@@ -1,0 +1,17 @@
+{
+  "title": "Casa Maya",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Juice bar, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Authentic Mayan cuisine with food including vegetarian wraps, guacamole with chips, fruit and granola plates, Fundido, black bean soup, juices and smoothies.",
+  "priceRange": "Moderate",
+  "streetAddress": "17 Hypolita St",
+  "postalCode": "32084",
+  "phone": "tel:904-217-3039",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:30am-3:30pm, Fri-Sat 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.895080,-81.311950&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.895080,-81.311950&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

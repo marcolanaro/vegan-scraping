@@ -1,0 +1,19 @@
+{
+  "title": "Infusions Tea House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Japanese, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Almost entirely organic menu includes dishes inspired by tea cultures from around the world. Sources seasonal and local ingredients. Vegan options include tamales, ochazuke, pesto polenta, and kale salad. Eco-friendly. Has gluten free options, including muffins. Also sells candy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6988 McKinley St",
+  "postalCode": "95472",
+  "phone": "tel:707-829-1181",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-7:00pm, Fri-Sat 9:00am-8:30pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.403170,-122.824681&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.403170,-122.824681&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

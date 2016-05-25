@@ -1,0 +1,16 @@
+{
+  "title": "Veggie Hut",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian\n                                    ",
+  "description": "Vegetarian Indian restaurant. Menu offers over 100 dishes. Kitchen rests from 2:30-5pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "186 Scarborough Beach Rd, Mount Hawthorn",
+  "postalCode": "6016",
+  "phone": "tel:0894442775",
+  "venueHours": "\n                                                                                                        Mon 5:00pm-10:00pm, Tue-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Veggiehutrestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-31.920129,115.836807&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-31.920129,115.836807&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

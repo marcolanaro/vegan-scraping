@@ -1,0 +1,16 @@
+{
+  "title": "Laurie's Vegetarian Take Away",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International\n                                    ",
+  "description": "Casual eating.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "286 Bondi Rd, Bondi Beach",
+  "phone": "tel:02-93650134",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.894390,151.267930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.894390,151.267930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

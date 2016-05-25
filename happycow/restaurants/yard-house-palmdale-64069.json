@@ -1,0 +1,19 @@
+{
+  "title": "Yard House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Sports bar and restaurant chain that offers Gardein faux meat. Note the company does not guarantee that food is strictly vegan, i.e. uses same grills and cookware.",
+  "priceRange": "Moderate",
+  "streetAddress": "1247 Rancho Vista Blvd",
+  "postalCode": "93551",
+  "phone": "tel:661-274-9271",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-11:00pm, Fri-Sat 11:00am-1:30am, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/YardHouse/",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.603823,-118.153546&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.603823,-118.153546&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

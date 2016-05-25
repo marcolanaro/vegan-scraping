@@ -1,0 +1,18 @@
+{
+  "title": "Vineyards Inn",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Organic, Mediterranean, Beer/Wine, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. \"From the dirt to the table concept\" Spanish tapas and grill restaurant and winery. Offers a separate vegan menu with appetizers, salads, main dishes, and dessert - ask for it.",
+  "priceRange": "Expensive",
+  "streetAddress": "8445 Sonoma Highway",
+  "postalCode": "95452",
+  "phone": "tel:707-833-4500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.424292,-122.555851&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.424292,-122.555851&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Angelica Kitchen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Macrobiotic, Organic, Take-out, Asian, Fusion\n                                    ",
+  "description": "Trendy Manhattan vegan restaurant. Menu features a wide range including starters, sandwiches, main entrees, sea veggies, noodle bowls, juices, tea, and desserts without refined sugar. Casual, bright space.",
+  "priceRange": "Moderate",
+  "streetAddress": "300 E 12th St",
+  "postalCode": "10003",
+  "phone": "tel:212-228-2909",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.731440,-73.986070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.731440,-73.986070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

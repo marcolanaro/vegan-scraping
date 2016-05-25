@@ -1,0 +1,19 @@
+{
+  "title": "Saffron Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Asian food restaurant. While meat-heavy, some dishes can be made with choice of tofu or vegetable. Has veg sushi but no longer offering mock duck (Dec 2014 report).",
+  "priceRange": "Expensive",
+  "streetAddress": "1610 N Kingshighway Ste 101",
+  "postalCode": "47304",
+  "phone": "tel:573-651-1398",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.329529,-89.566145&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.329529,-89.566145&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

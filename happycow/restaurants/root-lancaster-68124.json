@@ -1,0 +1,18 @@
+{
+  "title": "Root",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Beer/Wine, European\n                                    ",
+  "description": "Vegan bar and restaurant, opened Dec 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "223 W Walnut St",
+  "postalCode": "17603",
+  "phone": "tel:717-826-9130",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 4:00pm-11:00pm, Sat-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Root-625533704219867",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.042560,-76.310103&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.042560,-76.310103&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

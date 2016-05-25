@@ -1,0 +1,14 @@
+{
+  "title": "Sugar and Spice Bakery",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Accepts custom orders for vegan cakes.",
+  "streetAddress": "711 Main St",
+  "postalCode": "97358",
+  "phone": "tel:503-859-4144",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu 6:00am-11:00am, Fri-Sat 6:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/Sugar-and-Spice-Bakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.774427,-122.614185&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.774427,-122.614185&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

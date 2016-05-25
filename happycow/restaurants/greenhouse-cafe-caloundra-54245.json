@@ -1,0 +1,20 @@
+{
+  "title": "Greenhouse Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Juice bar\n                                    ",
+  "description": "A vegetarian and vegan restaurant/coffee shop serves 100% organic and local cuisine, including plenty of vegan options such as desserts, smoothies, juices, meals and more. Located on Village Walkway between Bulcock St and Ormuz Ave.",
+  "priceRange": "Moderate",
+  "streetAddress": "5/8 Ormuz Ave",
+  "postalCode": "4551",
+  "phone": "tel:07-54381647",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:30am-3:00pm, Sun 7:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/greenhousecafecaloundra",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.804167,153.133880&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.804167,153.133880&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

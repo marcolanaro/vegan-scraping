@@ -1,0 +1,13 @@
+{
+  "title": "Little Green Forks",
+  "tags": [
+    "Veg Delivery",
+    "Vegan"
+  ],
+  "description": "Monorvia-based food delivery service. Meals are based on whole plants, no animal products and no added oils.",
+  "streetAddress": "825 S Myrtle Ave",
+  "postalCode": "91016",
+  "phone": "tel:626-387-3675",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.142665,-118.001122&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.142665,-118.001122&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

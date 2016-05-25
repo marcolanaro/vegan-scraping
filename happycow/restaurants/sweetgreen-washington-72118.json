@@ -1,0 +1,19 @@
+{
+  "title": "sweetgreen - L St",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Salad restaurant chain. Could build your own salad; has tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "1901 L St NW",
+  "postalCode": "20036",
+  "phone": "tel:202-331-3355",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.904037,-77.043870&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.904037,-77.043870&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

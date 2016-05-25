@@ -1,0 +1,17 @@
+{
+  "title": "The Zenith",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Buffet\n                                    ",
+  "description": "Vegetarian cafe and eclectic antique gallery and vintage clothing shop. Features a weekly changing menu, an extensive herbal tea menu, and live events some evenings. Sunday is brunch buffet.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "86 S 26th St",
+  "postalCode": "15203",
+  "phone": "tel:412-481-4833",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sat 11:30am-9:00pm, Sun 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.426760,-79.968340&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.426760,-79.968340&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

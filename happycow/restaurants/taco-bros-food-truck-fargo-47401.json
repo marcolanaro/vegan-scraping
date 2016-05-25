@@ -1,0 +1,19 @@
+{
+  "title": "Taco Bros - Food Truck",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Mexican, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Food truck offering Mexican street food. Vegan suitable include rice & beans and vegan tostada. Staff knows what the word \"vegan\" means.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Roberts St & 5th Ave",
+  "postalCode": "58102",
+  "phone": "tel:701-361-2352",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm, Mon-Thu 6:00pm-10:00pm, Fri 6:00pm-3:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TacoBros",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.880428,-96.788932&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.880428,-96.788932&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "POCO",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Beer/Wine, Mexican\n                                    ",
+  "description": "Re-opened Oct 2014 after year closure. Serves Mexican-inspired vegan food with an emphasis on local and organic ingredients. Wines on tap, sangria, local beer, and  kombucha. The menu includes soup, salad, quesadilla, burritos.",
+  "priceRange": "Moderate",
+  "streetAddress": "15 Main St",
+  "postalCode": "85603",
+  "phone": "tel:",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Fri 11:00am-3:00pm, Sat 11:00am-4:00pm, Sun 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pocobzb",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.441844,-109.915762&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.441844,-109.915762&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

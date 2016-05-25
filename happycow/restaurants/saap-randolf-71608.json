@@ -1,0 +1,19 @@
+{
+  "title": "Saap Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Specializes in Northern Thai cuisine and has tofu and various veggie choices marked on the menu. Kitchen is flexible and will accommodate.",
+  "priceRange": "Moderate",
+  "streetAddress": "50 Randolf Ave",
+  "postalCode": "05060",
+  "phone": "tel:802-565-8292",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-2:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/saaprestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.922165,-72.658638&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.922165,-72.658638&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

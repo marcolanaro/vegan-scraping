@@ -1,0 +1,16 @@
+{
+  "title": "Bollywood Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a large number of vegetarian choices and a few vegan items. Specific menu section for vegetarian choices titled Evergreen Hits.",
+  "priceRange": "Moderate",
+  "streetAddress": "135 Massachusetts Ave",
+  "phone": "tel:781-274-8222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-10:00pm, Sun 3:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.426085,-71.195174&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.426085,-71.195174&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

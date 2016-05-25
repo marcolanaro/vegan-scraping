@@ -1,0 +1,17 @@
+{
+  "title": "New York Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Italian, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American-style pizza eatery. Has toppings such as vegan cheese, faux ham, gyros kebab and salami.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Gustav Möllers gata 2",
+  "phone": "tel:040-236441",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/New-York-Pizzeria-1065341916829315",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.598702,13.006948&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.598702,13.006948&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

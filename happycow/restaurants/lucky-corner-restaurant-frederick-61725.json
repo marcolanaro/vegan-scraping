@@ -1,0 +1,19 @@
+{
+  "title": "Lucky Corner Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vietnamese. Pho. Vegans ask for vegetable broth. ",
+  "priceRange": "Moderate",
+  "streetAddress": "700 N Market St",
+  "postalCode": "21701",
+  "phone": "tel:301-624-1005",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/luckycorner",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.422868,-77.409178&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.422868,-77.409178&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

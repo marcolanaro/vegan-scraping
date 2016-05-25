@@ -1,0 +1,17 @@
+{
+  "title": "Golden Harvest Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast, brunch, and lunch place. Many dishes on the menu can be made vegetarian or vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "1062 G St",
+  "postalCode": "95521",
+  "phone": "tel:707-822-8962",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.870210,-124.085090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.870210,-124.085090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

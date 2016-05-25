@@ -1,0 +1,13 @@
+{
+  "title": "Chestnut Supermarket",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A kosher grocery store that stocks fresh produce and many of the products are vegan suitable, including dairy-free ice cream and different flavors of chocolate baking chips.",
+  "streetAddress": "700 Myrtle Ave",
+  "postalCode": "11205",
+  "phone": "tel:718-388-1200",
+  "venueHours": "\n                                                                                                        Mon-Wed 7:00am-11:00pm, Thu 7:00am-1:00am, Fri 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.694666,-73.955378&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.694666,-73.955378&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

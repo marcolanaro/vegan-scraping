@@ -1,0 +1,19 @@
+{
+  "title": "The Root Note",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Beer/Wine, Take-out\n                                    ",
+  "description": "Little cafe serving soup, wraps, burgers, salads, pizza, nachos, hummus, and baked goods using mostly local and organic food. There is local art on the walls, and live music on the weekends. Has Wi-Fi. People come in to study during the day. Family friendly.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "115 4th St S",
+  "postalCode": "54601",
+  "phone": "tel:608-782-7668",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/theRootNote",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.811794,-91.251190&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.811794,-91.251190&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

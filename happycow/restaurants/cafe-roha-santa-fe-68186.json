@@ -1,0 +1,20 @@
+{
+  "title": "Cafe Roha",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Take-out, Catering, Ethiopian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Santa Fe's first Ethiopian cafe offers a few vegan choices. Try the misir wot red lentils and the injera bread.",
+  "priceRange": "Moderate",
+  "streetAddress": "163 Paseo de Peralta",
+  "postalCode": "87501",
+  "phone": "tel:505-920-8491",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 10:00am-7:00pm, Sat 10:00am-6:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeRohaSantaFe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.691639,-105.950223&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.691639,-105.950223&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

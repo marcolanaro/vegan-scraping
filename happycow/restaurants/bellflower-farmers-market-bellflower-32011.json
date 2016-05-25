@@ -1,0 +1,13 @@
+{
+  "title": "Bellflower Farmer's Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers' market.",
+  "streetAddress": "Oak St",
+  "postalCode": "90706",
+  "phone": "tel:562-866-8142",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.884626,-118.133943&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.884626,-118.133943&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

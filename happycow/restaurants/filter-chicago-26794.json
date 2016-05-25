@@ -1,0 +1,15 @@
+{
+  "title": "Filter",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This coffee shop, located in hip Wicker Park, offers a variety of options for vegans and vegetarians. Daily specials, including a seitan sandwich. Vegan coffee smoothie.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1373-75 N Milwaukee Ave",
+  "postalCode": "60642",
+  "phone": "tel:773-904-7819",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-10:00pm, Fri-Sat 7:00am-9:00pm, Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.906957,-87.671624&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.906957,-87.671624&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

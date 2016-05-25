@@ -1,0 +1,17 @@
+{
+  "title": "Singha Thai Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Causal atmosphere and tastefully decorated Thai restaurant. Has a vegetarian menu list. Offers tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "5432 California Ave",
+  "postalCode": "93309",
+  "phone": "tel:661-631-2631",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-3:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.359238,-119.061006&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.359238,-119.061006&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

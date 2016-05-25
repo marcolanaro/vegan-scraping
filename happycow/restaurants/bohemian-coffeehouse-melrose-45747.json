@@ -1,0 +1,19 @@
+{
+  "title": "Bohemian Coffeehouse",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Almost entirely vegetarian menu with many clearly labeled vegan choices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "132 W Emerson St",
+  "postalCode": "02176",
+  "phone": "tel:781-979-0005",
+  "venueHours": "\n                                                                                                        Mon 7:00am-12:00pm, Tue-Fri 7:00am-4:00pm, Sat 8:00am-4:00pm, Sun 8:00am-12:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BohemianCoffee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.459106,-71.069112&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.459106,-71.069112&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

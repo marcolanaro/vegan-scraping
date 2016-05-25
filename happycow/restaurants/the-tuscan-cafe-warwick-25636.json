@@ -1,0 +1,18 @@
+{
+  "title": "The Tuscan Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little college town vibe coffee shop. Offers Deans Beans fair trade organic coffee and The Republic of Tea. Daily specials, wraps, salads, sandwiches, and desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "5 1/2 South St",
+  "postalCode": "10990",
+  "phone": "tel:845-987-2050",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 8:00am-6:00pm, Tue-Sat 8:00am-9:00pm, Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TuscanCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.256399,-74.358621&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.256399,-74.358621&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

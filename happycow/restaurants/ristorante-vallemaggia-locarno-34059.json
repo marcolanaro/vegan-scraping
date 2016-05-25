@@ -1,0 +1,19 @@
+{
+  "title": "Ristorante Vallemaggia",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Organic, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee bar, dining terrace. Menu includes one vegetarian option; vegan possible by request.",
+  "priceRange": "Moderate",
+  "streetAddress": "Via Varenna 1",
+  "postalCode": "6600",
+  "phone": "tel:0041917520001",
+  "venueHours": "\n                                                                                                        Mon-Wed 7:00am-7:00pm, Thu-Fri 7:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.168121,8.790654&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.168121,8.790654&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

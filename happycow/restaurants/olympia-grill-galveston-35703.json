@@ -1,0 +1,20 @@
+{
+  "title": "Olympia Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Beer/Wine, Delivery, Take-out, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a few choices for vegan, gluten free and vegetarian diners. Regularly features vegetarian items on specials and will alter upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "4908 Seawall Blvd Ste B",
+  "postalCode": "77551",
+  "phone": "tel:409-766-1222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:30pm, Fri-Sat 11:00am-9:30pm, Sun 11:00am-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/olympiagrill",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.272695,-94.815656&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.272695,-94.815656&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

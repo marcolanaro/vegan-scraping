@@ -1,0 +1,19 @@
+{
+  "title": "Ollies Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Raw, Western, Juice bar, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This cafe has cocowhip, granola breakfast, juices, and a display case filled with baked goods, sandwiches, and raw desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "51 The Esplanade",
+  "postalCode": "6450",
+  "phone": "tel:90715268",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-3:00pm, Sat 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/OlliesCafeLounge",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.862364,121.892506&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.862364,121.892506&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

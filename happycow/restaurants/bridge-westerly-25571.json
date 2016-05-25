@@ -1,0 +1,18 @@
+{
+  "title": "Bridge",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local food. Menu includes vegetarian options, including a black bean burger, hummus and falafel pita, portabello sandwich, and vegetarian cassoulet.",
+  "priceRange": "Moderate",
+  "streetAddress": "37 Main St",
+  "postalCode": "02891",
+  "phone": "tel:401-348-9700",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.377081,-71.831687&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.377081,-71.831687&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

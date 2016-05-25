@@ -1,0 +1,15 @@
+{
+  "title": "Cru",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A take-out counter selling raw, organic, cold-pressed juice.",
+  "streetAddress": "236 4 St NE",
+  "postalCode": "T2E 3S2",
+  "phone": "tel:403-452-5444",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-6:00pm, Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.054673,-114.051682&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.054673,-114.051682&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

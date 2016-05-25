@@ -1,0 +1,18 @@
+{
+  "title": "Howling Wolf Taqueria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Taqueria and cantina making New Mexican inspired cuisine with several lacto-vegetarian items on a mostly meat-based menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "76 Lafayette St",
+  "postalCode": "01970",
+  "phone": "tel:978-744-9653",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-1:00am, Sun 11:30am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.519302,-70.893469&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.519302,-70.893469&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

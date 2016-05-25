@@ -1,0 +1,18 @@
+{
+  "title": "Gangadin",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food restaurant. Vegan suitable dishes are marked with \"V.\" Or ask for the vegan-only menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "12067 Ventura Pl",
+  "postalCode": "91604",
+  "phone": "tel:818-509-0722",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-2:00pm, Sat-Sun 5:30pm-10:00pm, Sun 10:30am-1:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.144810,-118.394858&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.144810,-118.394858&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

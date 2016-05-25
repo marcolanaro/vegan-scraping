@@ -1,0 +1,17 @@
+{
+  "title": "Jean's Vegetarian Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai, Take-out, Malaysian\n                                    ",
+  "description": "Serving Thai-Malay vegetarian cuisine in a minimal 30-seat room. Items such as pad thai noodles, green curry with vege duck, red curry with vege meatballs, spicy eggplant, stir-fried bitter mustard greens, and honey-battered banana.",
+  "priceRange": "Moderate",
+  "streetAddress": "1262 Danforth",
+  "postalCode": "M4J1M6",
+  "phone": "tel:416-778-1388",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.681870,-79.330620&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.681870,-79.330620&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

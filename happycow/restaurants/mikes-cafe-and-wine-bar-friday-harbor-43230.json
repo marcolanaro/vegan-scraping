@@ -1,0 +1,19 @@
+{
+  "title": "Mike's Cafe and Wine Bar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Pizza, Western, Mediterranean, Beer/Wine\n                                    ",
+  "description": "Street side vegan cafe and wine bar. Serves tapas and bar nibbles like as pretzels with mustard, truffle oil popcorn, and bruschetta. Larger plates offered are pizza, pasta, and stir fry. Large wine selection with pairing suggestions on the menu. Try the cheesecake.",
+  "priceRange": "Moderate",
+  "streetAddress": "135 Second St S",
+  "postalCode": "98250",
+  "phone": "tel:425-503-9906",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 4:00pm-8:00pm, Fri 4:00pm-9:00pm, Sat 12:00pm-9:00pm, Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/MikesCafeAndWineBar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.534500,-123.017767&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.534500,-123.017767&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

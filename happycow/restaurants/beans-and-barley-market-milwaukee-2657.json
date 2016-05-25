@@ -1,0 +1,13 @@
+{
+  "title": "Beans and Barley Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A medium size neighborhood specialty grocery store with a deli and cafe. Features a full line of supplements, deli, gifts, and more.",
+  "streetAddress": "1901 E North Ave",
+  "postalCode": "53202",
+  "phone": "tel:414-278-7878",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.060110,-87.887080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.060110,-87.887080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

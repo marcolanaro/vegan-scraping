@@ -1,0 +1,20 @@
+{
+  "title": "Downtown Grocery",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, International, Organic, Buffet, Fast food, Salad bar, Take-out\n                                    ",
+  "description": "A local organic grocery store with a vegetarian kitchen, three bakeshops, and an everyday farmers' market offering regional, raw, natural, whole and bulk foods from farmers, producers, bakers, and cheese makers to support the regional foodshed. Serves world-inspired cuisine plus old-fashioned favorites with many vegan options.",
+  "priceRange": "Moderate",
+  "streetAddress": "607 N 3rd St",
+  "postalCode": "54403",
+  "phone": "tel:715-848-9800",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:00pm, Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/downtowngrocery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.961793,-89.627585&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.961793,-89.627585&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

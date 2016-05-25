@@ -1,0 +1,16 @@
+{
+  "title": "Jasmine Thai Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai food in the centre of town. Offers some vegetable/vegetarian items; vegan upon request. Also has a separate gluten-free menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "213 Sturt Street",
+  "postalCode": "3350",
+  "phone": "tel:0353332148",
+  "venueHours": "\n                                                                                                        Tue-Sun 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BallaratJasmineThaiRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.562278,143.857111&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.562278,143.857111&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

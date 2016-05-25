@@ -1,0 +1,13 @@
+{
+  "title": "Troy Farmers Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Year-round farmers' market.",
+  "streetAddress": "Broadway",
+  "postalCode": "12180",
+  "phone": "tel:518-692-7312",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.731380,-73.689680&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.731380,-73.689680&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

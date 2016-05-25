@@ -1,0 +1,16 @@
+{
+  "title": "DTC Natural Store",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Store sells various vegan food and products, from vegan protein powders and snacks to personal body care. Vegan is labeled. Offers massage, B12 shots.",
+  "streetAddress": "Causeway Plaza",
+  "postalCode": "B0W 1G0",
+  "phone": "tel:902-637-3370",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-5:00pm, Thu 9:00am-8:00pm, Fri-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.519108,-65.614683&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.519108,-65.614683&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

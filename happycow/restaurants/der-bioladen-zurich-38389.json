@@ -1,0 +1,13 @@
+{
+  "title": "der bioladen",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Altstetten health food shop stocking fresh fruits and vegetables, refillable cleaning products, vegan items. Accepts special orders.",
+  "streetAddress": "Altstetterstrasse 128",
+  "postalCode": "8048",
+  "phone": "tel:0444326442",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-7:00pm, Sat 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.389443,8.486515&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.389443,8.486515&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

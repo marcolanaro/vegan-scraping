@@ -1,0 +1,16 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large natural foods supermarket chain.",
+  "streetAddress": "44-459 Town Center Way",
+  "postalCode": "92260",
+  "phone": "tel:760-797-8200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/wholefoods",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.725722,-116.399564&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.725722,-116.399564&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

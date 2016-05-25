@@ -1,0 +1,20 @@
+{
+  "title": "Simple Bliss Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Raw, Take-out, Bakery\n                                    ",
+  "description": "Provides vegan food made with seasonal and organic produce; has daily specials. Fireplace inside with free Wi-Fi. Allergy friendly, child friendly, games and chalk board, water bowls and vegan doggie treats on the patio. Opened in spring 2012.",
+  "priceRange": "Moderate",
+  "streetAddress": "2540 Lake Tahoe Blvd Ste 7",
+  "postalCode": "96150",
+  "phone": "tel:530-542-1474",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:00am-6:00pm, Fri-Sat 10:00am-8:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/simpleblissnow",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.924863,-119.986293&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.924863,-119.986293&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

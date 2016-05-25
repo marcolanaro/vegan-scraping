@@ -1,0 +1,13 @@
+{
+  "title": "Main Street Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Offers a wide range of vegetarian and vegan food products and specializes in gluten-free food. Also carries locally produced items such as essential oils.",
+  "streetAddress": "333 Omaha St",
+  "postalCode": "57702 ",
+  "phone": "tel:605-341-9099",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.082445,-103.222439&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.082445,-103.222439&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

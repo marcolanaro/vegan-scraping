@@ -1,0 +1,18 @@
+{
+  "title": "Project Pie",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise, assembly line style build-your-own pizza restaurant. The dough and marinara are vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3888 4th Ave",
+  "postalCode": "92103",
+  "phone": "tel:619-241-2881",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-10:00pm, Thu 11:00am-11:00pm, Fri-Sat 11:00am-12:00am, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ProjectPie",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.748125,-117.161972&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.748125,-117.161972&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

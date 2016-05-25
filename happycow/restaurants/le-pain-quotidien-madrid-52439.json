@@ -1,0 +1,17 @@
+{
+  "title": "Le Pain Quotidien",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Mediterranean, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. International restaurant chain featuring fresh artisan bakery and communal table. Has a few labeled vegan suitable dishes marked by a green carrot: vegan croissants, hummus, banana split. Soy milk available for drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "c/ Serrano 27",
+  "postalCode": "28001",
+  "phone": "tel:+34-914354358",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-10:00pm, Fri-Sat 8:00am-12:00am, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.426845,-3.687760&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.426845,-3.687760&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Indian Tandoori Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian food place. Staff and kitchen will accommodate vegan requests - just ask.",
+  "priceRange": "Moderate",
+  "streetAddress": "2 Ireland Street",
+  "postalCode": "3741",
+  "phone": "tel:03-57551019",
+  "venueHours": "\n                                                                                                        Mon-Sun 5:30pm-10:00pm, Tue-Sat 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-36.730294,146.961748&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-36.730294,146.961748&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

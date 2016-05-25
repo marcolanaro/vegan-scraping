@@ -1,0 +1,18 @@
+{
+  "title": "Jason's Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Salad bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Deli chain with locations across the US. Vegetarian choices for wraps, sandwiches, some soups, plus a salad bar. Vegans to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "943 N Green River Rd",
+  "postalCode": "47715",
+  "phone": "tel:812-471-9905",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/jasonsdeli",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.985088,-87.491698&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.985088,-87.491698&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

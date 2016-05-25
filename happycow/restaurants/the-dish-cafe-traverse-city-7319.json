@@ -1,0 +1,17 @@
+{
+  "title": "The Dish Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Funky little place where artists display works and local performing art groups post notices for shows and zines. Offers soups, salads, wraps, sandwiches, quesadillas, smoothies, and organic coffee. Some items vegetarian suitable with dairy and/or egg but not vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "108 S Union St",
+  "postalCode": "49684",
+  "phone": "tel:231-932-2233",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-8:00pm, Sat 9:00am-8:00pm, Sun 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.763950,-85.623810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.763950,-85.623810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

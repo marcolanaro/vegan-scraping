@@ -1,0 +1,13 @@
+{
+  "title": "Toucan Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food market.",
+  "streetAddress": "1701 E University",
+  "postalCode": "88001",
+  "phone": "tel:505-521-3003",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.285590,-106.747460&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.285590,-106.747460&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

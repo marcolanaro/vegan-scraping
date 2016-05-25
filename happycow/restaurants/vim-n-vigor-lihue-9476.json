@@ -1,0 +1,13 @@
+{
+  "title": "Vim n Vigor",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small health food store. Located directly across the street from McDonald's.",
+  "streetAddress": "3-3122 Kuhio Highway",
+  "postalCode": "96766",
+  "phone": "tel:808-245-9053",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.978038,-159.368095&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.978038,-159.368095&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

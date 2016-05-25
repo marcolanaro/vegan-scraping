@@ -1,0 +1,17 @@
+{
+  "title": "Jamerica",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Beer/Wine, Take-out, Jamaican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves Jamaican cuisine vegan options. Offers jerk tofu, bbq tofu and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "1236 Williamson St",
+  "postalCode": "53703",
+  "phone": "tel:608-251-6234",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 2:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.084236,-89.363470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.084236,-89.363470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

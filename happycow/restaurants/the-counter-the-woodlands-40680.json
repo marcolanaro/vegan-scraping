@@ -1,0 +1,18 @@
+{
+  "title": "The Counter",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise build-your-own burger restaurant. Has one veggie burger patty that's vegan, which you could customize with your choice of toppings, or order the patty over greens.",
+  "priceRange": "Moderate",
+  "streetAddress": "9595 Six Pines Dr Ste 1000",
+  "postalCode": "77380",
+  "phone": "tel:281-231-2147",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheCounter",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.164464,-95.461566&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.164464,-95.461566&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

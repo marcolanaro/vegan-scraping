@@ -1,0 +1,15 @@
+{
+  "title": "Jenny's Lunch Line",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegetarian soups, salads, and sandwiches. Lunch only.",
+  "priceRange": "Moderate",
+  "streetAddress": "106 N 6th St",
+  "postalCode": "83702",
+  "phone": "tel:208-433-0092",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.614230,-116.201100&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.614230,-116.201100&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Handy Diner",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Take-out\n                                    ",
+  "description": "All vegan diner serving comfort food in the Five Points neighborhood. Offers breakfast and lunch.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2958 Downing St",
+  "postalCode": "80205",
+  "phone": "tel:619-730-5264",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 7:00am-3:00pm, Thu-Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Handy-Diner-1662338274005039",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.759317,-104.972983&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.759317,-104.972983&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

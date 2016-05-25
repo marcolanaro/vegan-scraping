@@ -1,0 +1,15 @@
+{
+  "title": "Sampoorna Vegetarian Surprise",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian\n                                    ",
+  "description": "Vegetarian restaurant serving traditional Indian cuisine and tandoori. Caters for different spice levels. Note that ghee is generally used for vegetarian dishes but when cooking for vegans (be sure to specify), olive oil is used in curries, canola oil is used for deep frying, cottage cheese is substituted with tofu, and soy is used in the kofta.",
+  "priceRange": "Moderate",
+  "streetAddress": "11 Essex Rd",
+  "postalCode": "3149",
+  "phone": "tel:98070607",
+  "venueHours": "\n                                                                                                        Mon-Sat 5:00pm-10:00pm, Fri-Sat 12:00pm-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.862472,145.113544&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.862472,145.113544&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

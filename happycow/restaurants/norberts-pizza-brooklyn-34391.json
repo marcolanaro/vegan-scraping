@@ -1,0 +1,18 @@
+{
+  "title": "Norbert's Pizza",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Pizza, Italian, Fast food, Delivery, Take-out\n                                    ",
+  "description": "Vegetarian pizza shop. Offers mock meat toppings and vegan cheese. Has vegan hot dog and garlic knots. Its other location at 1215 Myrtle Ave had shut down in 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4 Stuyvesant Ave",
+  "postalCode": "11221",
+  "phone": "tel:718-574-3400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 3:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/norbertspizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.696588,-73.935002&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.696588,-73.935002&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

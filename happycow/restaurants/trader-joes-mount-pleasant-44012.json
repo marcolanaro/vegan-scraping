@@ -1,0 +1,16 @@
+{
+  "title": "Trader Joes",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of a mid-size specialty food market chain. Has vegetarian and vegan food, some organic, natural personal hygiene products, household cleaners, vitamins, pet food, and more. In Mt. Pleasant.",
+  "streetAddress": "401 Johnnie Dodds Blvd",
+  "postalCode": "29464",
+  "phone": "tel:843-884-4037",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Trader-Joes/213355342039951",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.804806,-79.887096&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.804806,-79.887096&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

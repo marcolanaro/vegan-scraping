@@ -1,0 +1,19 @@
+{
+  "title": "Restaurante Copenhagen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Beer/Wine, Spanish\n                                    ",
+  "description": "Modern cuisine. Specialty includes tapas and vegetable sushi. Products are bought daily from Ruzafa's market. Has free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "C/ Literato Azorin, 8",
+  "postalCode": "46006",
+  "phone": "tel:+34-963-289928",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 1:30pm-4:30pm, 8:30pm-1:30am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.460643,-0.373605&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.460643,-0.373605&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

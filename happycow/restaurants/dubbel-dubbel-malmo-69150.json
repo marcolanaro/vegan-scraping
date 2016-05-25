@@ -1,0 +1,18 @@
+{
+  "title": "Dubbel Dubbel",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Asian inspired tapas restaurant. Some veggie dishes.",
+  "priceRange": "Expensive",
+  "streetAddress": "Simrishamnsgatan 14",
+  "phone": "tel:040125855",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:00pm-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.591695,13.009797&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.591695,13.009797&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Grindhaus Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Western, Take-out\n                                    ",
+  "description": "A locally owned 100% vegetarian cafe with a 100% vegan menu unless you request otherwise. Located in historic preservation district of Allentown, Features handcrafted pour-over coffee and fresh-brewed full-leaf tea along with veg versions of classic sandwiches and sides. Check with them to see if espresso and breakfast food is available. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "160 Allen St",
+  "postalCode": "14201",
+  "phone": "tel:716-725-6300",
+  "venueHours": "\n                                                                                                        Tue-Thu 7:00am-7:00pm, Fri 7:00am-8:00pm, Sat 8:00am-8:00pm, Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/grindhauscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.899430,-78.876026&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.899430,-78.876026&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

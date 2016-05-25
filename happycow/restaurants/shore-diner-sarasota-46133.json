@@ -1,0 +1,17 @@
+{
+  "title": "Shore Diner",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An interpretation of open-air, mid-century beach cafe of Southern California. Maintains a roof top garden of fresh herbs in hydroponic growers used to complement many of the entrees. Vegans could get the kale salad or spicy black bean burger.",
+  "priceRange": "Moderate",
+  "streetAddress": "465 John Ringling Blvd",
+  "postalCode": "34236",
+  "phone": "tel:941-296-0301",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.319376,-82.576285&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.319376,-82.576285&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

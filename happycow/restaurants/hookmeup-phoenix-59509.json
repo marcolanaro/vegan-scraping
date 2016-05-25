@@ -1,0 +1,18 @@
+{
+  "title": "Hookmeup",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Sandwich shop. Has vegan cheese and faux meats (turkey, meatballs, chicken). The sourdough bread is vegan. Sandwiches can be made into wraps or salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "15425 S 48th St ",
+  "postalCode": "85044",
+  "phone": "tel:480-208-0582",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:00am-8:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.306664,-111.979902&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.306664,-111.979902&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

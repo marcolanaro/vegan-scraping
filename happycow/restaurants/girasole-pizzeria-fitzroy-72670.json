@@ -1,0 +1,15 @@
+{
+  "title": "Girasole Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional Italian restaurant with a large array of labeled vegan menu items including antipasti, pizza, pasta, risotto.",
+  "priceRange": "Moderate",
+  "streetAddress": "60 Johnston St",
+  "postalCode": "3065",
+  "phone": "tel:03-94163949",
+  "venueHours": "\n                                                                                                        Mon-Thu 5:30pm-10:00pm, Fri-Sat 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.798227,144.976642&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.798227,144.976642&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The Diving Horse",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Laid back yet upscale restaurant that is accommodating to vegans and vegetarians; when reserving a table be sure to let them know. Food is seasonal farm to table.",
+  "priceRange": "Expensive",
+  "streetAddress": "2109 Dune Dr",
+  "phone": "tel:609-368-5000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.101126,-74.717732&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.101126,-74.717732&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

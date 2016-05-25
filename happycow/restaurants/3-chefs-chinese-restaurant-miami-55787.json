@@ -1,0 +1,17 @@
+{
+  "title": "3 Chef's Chinese Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Delivery, Take-out, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese food place in downtown area offering a small selection of vegetable dishes (see \"diet menu\").",
+  "priceRange": "Moderate",
+  "streetAddress": "1800 Biscayne Blvd",
+  "postalCode": "33132",
+  "phone": "tel:305-373-2688",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-10:00pm, Fri-Sat 11:30am-11:00pm, Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.794101,-80.189227&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.794101,-80.189227&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Panaderia Nuevo Leon",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Mexican bakery offering vegan versions of some traditional Mexican pastries, as well as tortillas and classic baked goods like cupcakes and cookies.",
+  "streetAddress": "1634 W 18th St",
+  "postalCode": "60608",
+  "phone": "tel:312-243-5977",
+  "venueHours": "\n                                                                                                        Mon-Fri 5:30am-9:00pm, Sat-Sun 6:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/PanaderiaNuevoLeon",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.857963,-87.667550&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.857963,-87.667550&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "La Corne d'Abondance",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Organic, Juice bar\n                                    ",
+  "description": "Has 2 internet stations.",
+  "priceRange": "Moderate",
+  "streetAddress": "50 Rue Laurier (Magog Sherbrooke, Quebec)",
+  "postalCode": "J1X 5G6",
+  "phone": "tel:819-847-3067",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.840190,-71.623510&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.840190,-71.623510&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

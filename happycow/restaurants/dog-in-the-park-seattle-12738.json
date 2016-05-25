@@ -1,0 +1,15 @@
+{
+  "title": "Dog in the Park",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hot dog stand, has three kinds of vegetarian hot dogs.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1520 4th Ave",
+  "postalCode": "98101",
+  "phone": "tel:206-254-0943",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.610460,-122.336860&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.610460,-122.336860&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

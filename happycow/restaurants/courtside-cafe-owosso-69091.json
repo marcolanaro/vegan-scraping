@@ -1,0 +1,18 @@
+{
+  "title": "Courtside Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Sandwiches, salads, and soups cafe. Has a veggie burger. Vegans could get hummus and pita chips or carrots.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "101 N Washington St ",
+  "postalCode": "48867",
+  "phone": "tel:989-720-8161",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/CourtsideCafe1",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.997719,-84.170927&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.997719,-84.170927&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

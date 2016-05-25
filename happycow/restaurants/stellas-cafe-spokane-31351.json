@@ -1,0 +1,18 @@
+{
+  "title": "Stella's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual cafe that offers a tempeh reuben sandwich and a vegetarian pepperoni sandwich in addition to changing soups. Vegans to specify. Offers Washington wine and beer.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "917 W Broadway Ave",
+  "postalCode": "99201",
+  "phone": "tel:509-326-6475",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/stellascafe1",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.664379,-117.425945&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.664379,-117.425945&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

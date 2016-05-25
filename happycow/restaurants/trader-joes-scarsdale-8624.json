@@ -1,0 +1,15 @@
+{
+  "title": "Trader Joe's",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of nationwide chain of specialty foods grocery store stocking a wide range of foods, beer and wine, and grocery including vegetarian-friendly items.",
+  "streetAddress": "727 White Plains Post Rd",
+  "postalCode": "10583",
+  "phone": "tel:914-472-2988",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.966320,-73.808810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.966320,-73.808810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

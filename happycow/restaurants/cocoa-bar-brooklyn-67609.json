@@ -1,0 +1,17 @@
+{
+  "title": "Cocoa Bar",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Coffee shop during the day, wine bar at night. Has vegan baked goods, vegan chocolate, and almond milk option for drinks. Backyard and study room with Wi-Fi.",
+  "streetAddress": "228 7th Ave",
+  "postalCode": "11215",
+  "phone": "tel:718-499-4080",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-11:00pm, Fri-Sat 7:00am-11:30pm, Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.670221,-73.979152&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.670221,-73.979152&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Java Joe's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Saint Ignace coffeehouse with ovo-lacto vegetarian choices for breakfast and brunch food marked on menu, and owner is vegetarian. Vegans need to specify. Relaxed atmosphere with tea pots lining the walls. Look for the 60s themed painted van parked on the front lawn.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "959 N State St",
+  "postalCode": "49781",
+  "phone": "tel:906-643-5282",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-1:00pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Java-Joes-Cafe/150762761856",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.881759,-84.725362&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.881759,-84.725362&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Snack Bar Sante Bonne Bouffe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Take-out, Canadian\n                                    ",
+  "description": "A tiny vegan cafe with just a few seats. Offers wraps, fresh juices and smoothies, desserts, soups, salads and stews in the fridge for take-out. Also sells a small selection food ingredients.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "169 Rue Principale",
+  "postalCode": "J2G 2V5",
+  "phone": "tel:450-991-6011",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-6:00pm, Thu-Fri 11:00am-7:00pm, Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.399792,-72.726364&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.399792,-72.726364&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

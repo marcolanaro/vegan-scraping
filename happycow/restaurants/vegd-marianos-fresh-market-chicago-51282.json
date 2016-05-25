@@ -1,0 +1,16 @@
+{
+  "title": "Veg'D",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out\n                                    ",
+  "description": "Vegetarian and vegan food and tea bar inside Mariano's Fresh Market in Bucktown.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2112 N Ashland Ave",
+  "postalCode": "60614",
+  "phone": "tel:773-342-6585",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/marianosfreshmarket",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.920041,-87.668748&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.920041,-87.668748&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

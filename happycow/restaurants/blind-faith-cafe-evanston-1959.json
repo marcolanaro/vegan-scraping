@@ -1,0 +1,19 @@
+{
+  "title": "Blind Faith Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, International, Western, Juice bar, Bakery, Catering\n                                    ",
+  "description": "Certified green restaurant, opened since 1979. Sit-down dining, self-service cafe, and bakery. Prices moderate to expensive; dinner prices are higher.",
+  "priceRange": "Moderate",
+  "streetAddress": "525 Dempster St",
+  "postalCode": "60201",
+  "phone": "tel:847-328-6875",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-9:00pm, Sat 9:00am-10:00pm, Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/blindfaithcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.041230,-87.679450&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.041230,-87.679450&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

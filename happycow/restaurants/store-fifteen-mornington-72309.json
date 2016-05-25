@@ -1,0 +1,18 @@
+{
+  "title": "Store Fifteen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Western, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Cafe serving cold pressed juices, house-made nut mylks, smoothies, and light vegan meals such as polenta porridge, granola, toasties, and salad bowls. A selection of raw cakes and treats also available.",
+  "priceRange": "Moderate",
+  "streetAddress": "15 Main St",
+  "postalCode": "3931",
+  "phone": "tel:03-59755015",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 6:30am-3:00pm, Sat-Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-38.217108,145.036543&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-38.217108,145.036543&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Ralph's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A family business that sources locally and makes its own condiments, desserts, and bread. Offers salads, a sweet potato quinoa burger, a black bean burger, a white bean spinach burger, grilled vegetable sandwich, a grilled eggplant sandwich, among others. Soups are meat-free and uses vegetable stock.",
+  "priceRange": "Moderate",
+  "streetAddress": "12 Purple Heart Hwy",
+  "postalCode": "04921",
+  "phone": "tel:207-722-3236",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 8:00am-2:00pm, Fri-Sat 8:00am-8:00pm, Sun 8:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/EatatRalphs",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.552618,-69.123505&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.552618,-69.123505&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

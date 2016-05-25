@@ -1,0 +1,16 @@
+{
+  "title": "Sapori Bio",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, International, Organic, Western, Take-out only\n                                    ",
+  "description": "This small take away is all vegan and organic. Also has a little shop selling mainly vegan products. Lunch is from 12pm-4:30pm.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Salita Chiattone 18",
+  "phone": "tel:00410919220464",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.005210,8.949500&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.005210,8.949500&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

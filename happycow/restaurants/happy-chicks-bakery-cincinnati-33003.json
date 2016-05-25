@@ -1,0 +1,18 @@
+{
+  "title": "Happy Chicks Bakery",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Delivery, Take-out, Bakery\n                                    ",
+  "description": "This organic vegan baking company opened its cafe in Jun 2014 on the Northside. Offers a variety of vegan baked goods - from cupcakes and cookies to macaroons and pies - in addition to light lunch food.",
+  "priceRange": "Moderate",
+  "streetAddress": "4035 Hamilton Ave",
+  "postalCode": "45223",
+  "phone": "tel:513-386-7990",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 9:00am-6:00pm, Sat 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/happychicksbakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.159709,-84.539667&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.159709,-84.539667&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

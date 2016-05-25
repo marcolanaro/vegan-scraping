@@ -1,0 +1,19 @@
+{
+  "title": "Gandalf's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Beer/Wine, Wifi, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pub with a kitchen. Menu denotes vegetarian options; some can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "6757 Center Rd",
+  "postalCode": "44280-9555",
+  "phone": "tel:330-483-1190",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.237877,-81.930718&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.237877,-81.930718&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

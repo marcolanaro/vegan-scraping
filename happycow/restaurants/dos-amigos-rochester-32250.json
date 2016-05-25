@@ -1,0 +1,17 @@
+{
+  "title": "Dos Amigos",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers vegetarian items for lunch and dinner of which some can be requested vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "1611 N Hwy 52",
+  "postalCode": "55901",
+  "phone": "tel:507-536-4527",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.039139,-92.488668&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.039139,-92.488668&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

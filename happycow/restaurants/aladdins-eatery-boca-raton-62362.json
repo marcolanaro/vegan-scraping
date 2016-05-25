@@ -1,0 +1,19 @@
+{
+  "title": "Aladdin's Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mediterranean, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise chain restaurant offering primarily Middle Eastern cuisine. Has vegan and vegetarian food like beans and veggies and rice plate, falafel pita, hummus pita, plus vegan jam cookies and blueberry bars. ",
+  "priceRange": "Moderate",
+  "streetAddress": "21200 St Andrews Blvd",
+  "postalCode": "33433",
+  "phone": "tel:561-419-9466",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/AladdinsEatery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.362432,-80.136604&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.362432,-80.136604&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

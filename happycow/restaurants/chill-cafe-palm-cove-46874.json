@@ -1,0 +1,20 @@
+{
+  "title": "Chill Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Juice bar, Australian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast, light meals, juices, coffee, smoothies, and sweets. A few meals can be adjusted to be vegan, such as the tree hugger breakfast ask to omit egg and add a side of beans and tomatoes. Mention if you are vegan and staff will make a note on your order to ensure your meal is dairy- and egg-free. Situated on the corner of William's Esplanade and overlooking the beach with bar-style dining inside and tables.",
+  "priceRange": "Moderate",
+  "streetAddress": "Shop 1, 41 Williams Esplanade",
+  "postalCode": "4879",
+  "phone": "tel:+61-402665523",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ChillCafePalmCove",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-16.748242,145.671017&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-16.748242,145.671017&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

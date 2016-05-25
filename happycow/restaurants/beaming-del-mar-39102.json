@@ -1,0 +1,19 @@
+{
+  "title": "Beaming",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Raw, Juice bar, Take-out\n                                    ",
+  "description": "Juice and smoothie bar with multiple Southern California outlets. Vegan except for honey. Offers cold pressed organic juices, plus smoothies made-to-order, cleanse packages, a grab 'n go section with salads, soup, and entrees.",
+  "priceRange": "Moderate",
+  "streetAddress": "2683 Via de la Valle",
+  "postalCode": "92014",
+  "phone": "tel:858-481-1222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat-Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/livebeaming",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.980502,-117.249859&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.980502,-117.249859&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Seed Kitchen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Macrobiotic, Organic, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Quick service vegan cafe near the Venice Beach boardwalk. Offers a varied menu with paninis and burgers, bowls and salads, fries, and vegan baked goods such as cookies and scones (on the weekends). Beverages include green teas, organic coffee, fresh pressed juices. All food is served in biodegradable disposable ware.",
+  "priceRange": "Moderate",
+  "streetAddress": "1604 Pacific Ave",
+  "postalCode": "90291",
+  "phone": "tel:310-396-1604",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/seed-kitchen/54589022108",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.987490,-118.472090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.987490,-118.472090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Sweet Peaces",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Vegetarian food vendor at Flint Farmers Market 3 days of the week and hosts cooking classes.",
+  "streetAddress": "Flint area",
+  "postalCode": "48503",
+  "phone": "tel:586-773-9677",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.017059,-83.687781&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.017059,-83.687781&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

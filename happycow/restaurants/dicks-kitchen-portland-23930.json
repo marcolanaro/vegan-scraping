@@ -1,0 +1,18 @@
+{
+  "title": "Dick's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The menu has vegetarian dishes, vegan sides - including the tempeh reuben with vegan cheese and Luna and coconut ice cream milkshakes. Many items are house-made and those that aren't are purchased from local producers or farms. The atmosphere is open and airy like a diner in NYC.",
+  "priceRange": "Moderate",
+  "streetAddress": "3312 SE Belmont St",
+  "postalCode": "97214",
+  "phone": "tel:503-235-0146",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.516437,-122.630580&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.516437,-122.630580&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

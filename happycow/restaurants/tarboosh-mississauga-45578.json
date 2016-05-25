@@ -1,0 +1,17 @@
+{
+  "title": "Tarboosh",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Buffet, Mediterranean, Salad bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a vegetarian (mostly vegan) lunch and dinner buffet. Family and casual environment.",
+  "priceRange": "Moderate",
+  "streetAddress": "105-3050 Confederation Pkwy",
+  "postalCode": "L5B 3Z6",
+  "phone": "tel:905-949-0222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-10:00pm, Thu-Fri 11:00am-11:00pm, Sat 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.578101,-79.621461&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.578101,-79.621461&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

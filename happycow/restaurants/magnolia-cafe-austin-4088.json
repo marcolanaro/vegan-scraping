@@ -1,0 +1,17 @@
+{
+  "title": "Magnolia Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Family atmosphere cafe offering a few vegetarian dishes, but vegans will need to be specific.",
+  "priceRange": "Moderate",
+  "streetAddress": "2304 Lake Austin Blvd",
+  "postalCode": "78703",
+  "phone": "tel:512-478-8645",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.277720,-97.771620&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.277720,-97.771620&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

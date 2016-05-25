@@ -1,0 +1,19 @@
+{
+  "title": "New York Bagel Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Juice bar, Take-out, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Per owner, bagels are vegan. Also vegan suitable is a vegan veggie burger, a few soups, kale chips, and packaged snacks for sale. Has soy milk for drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6546 Collins Ave",
+  "postalCode": "33140",
+  "phone": "tel:305-865-2522",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=25.850603,-80.120347&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C25.850603,-80.120347&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

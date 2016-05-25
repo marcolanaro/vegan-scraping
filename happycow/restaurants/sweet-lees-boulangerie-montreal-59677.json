@@ -1,0 +1,17 @@
+{
+  "title": "Sweet Lee's Boulangerie",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Pizza, Western, Take-out, Bakery, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee cafe and bakery. Menu offers pizza and sandwiches; has a vegan burger.",
+  "priceRange": "Moderate",
+  "streetAddress": "4150 Wellington, Verdun",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Tue-Fri 7:30am-8:00pm, Sat-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.462163,-73.566847&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.462163,-73.566847&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

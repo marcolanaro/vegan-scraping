@@ -1,0 +1,15 @@
+{
+  "title": "Aladdin's Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise chain offering Mediterranean/Middle Eastern food. Extensive menu includes veg/vegan suitable dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "18334 E Bagley Rd",
+  "postalCode": "44130",
+  "phone": "tel:440-243-0800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.373934,-81.830332&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.373934,-81.830332&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

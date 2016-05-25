@@ -1,0 +1,15 @@
+{
+  "title": "Juice Ranch",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Organic, raw, glass bottling, cold-pressed juice shop.",
+  "streetAddress": "2857 Agoura Rd",
+  "postalCode": "92361",
+  "phone": "tel:805-230-2444",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-7:00pm, Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.150168,-118.824415&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.150168,-118.824415&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

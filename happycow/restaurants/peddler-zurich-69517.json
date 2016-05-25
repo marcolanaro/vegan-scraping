@@ -1,0 +1,16 @@
+{
+  "title": "Peddler",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, International, Fast food, Take-out, Mexican\n                                    ",
+  "description": "A vegetarian kiosk venue sells muesli and croissants in the mornings and burritos, salads and sandwiches for lunch. Ingredients change daily.  Vegans pleases inquire. Also sells coffee with soy milk as an option.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kalkbreitestrasse 33",
+  "postalCode": "8003",
+  "phone": "tel:0041-0789135401",
+  "venueHours": "\n                                                                                                        Tue-Fri 7:00am-1:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/peddler.zurich",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.373441,8.519646&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.373441,8.519646&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Falafel Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu includes several vegan and vegetarian sandwiches and combination platters, all clearly marked with a VE or VG. Also has several savoury pies (look like calzones) that are vegan or veg.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "11365 Euclid Ave",
+  "postalCode": "44106",
+  "phone": "tel:216-229-9540",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-10:00pm, Sat 11:00am-11:00pm, Sun 3:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.508826,-81.605659&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.508826,-81.605659&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

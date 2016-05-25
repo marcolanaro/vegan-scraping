@@ -1,0 +1,17 @@
+{
+  "title": "The Good Earth Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, International, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A breakfast and lunch establishment offering a wide-variety of delicious bagels plus wraps, sandwiches, paninis and desserts. A place to relax or grab a quick, healthy bite.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "14 E 7th St",
+  "postalCode": "49423",
+  "phone": "tel:616-396-3061",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-4:00pm, Sat 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.791179,-86.106665&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.791179,-86.106665&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

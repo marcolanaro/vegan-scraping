@@ -1,0 +1,17 @@
+{
+  "title": "Revolution Donuts",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Opened 2012. Some donuts are vegan and marked with \"V.\" Has almond milk for coffee.",
+  "streetAddress": "908 W College Ave",
+  "postalCode": "30030",
+  "phone": "tel:678-927-9920",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 7:00am-5:00pm, Fri 7:00am-8:00pm, Sat 8:00am-8:00pm, Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/RevolutionDoughnuts",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.765593,-84.308388&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.765593,-84.308388&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "UnvermeidBAR",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Beer/Wine, European\n                                    ",
+  "description": "A small, artsy place serving vegan lunch on Tue, Wed, Thur - menu is posted daily on its facebook. The bar is open as usual in the afternoon and evening.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Rathausgasse 22",
+  "postalCode": "5400",
+  "phone": "tel:+41562104915",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.473162,8.308090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.473162,8.308090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

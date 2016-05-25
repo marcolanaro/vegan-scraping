@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Has everything from fresh fruit and vegetable including organic produce, to vitamins and supplements, bakery, deli, environmentally friendly household products, personal care products, frozen and refrigerated food, grocery, and much more.",
+  "streetAddress": "1333 Newell Ave",
+  "postalCode": "94596",
+  "phone": "tel:925-274-9700",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.892878,-122.055532&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.892878,-122.055532&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

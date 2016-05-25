@@ -1,0 +1,15 @@
+{
+  "title": "Pearl's Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Bakery\n                                    ",
+  "description": "A small vegetarian restaurant located in the Sierra Nevada mountains, close to Amador station. Coffee and espresso, breakfast and lunch served all day. Let the staff know if you're vegan, and kitchen will make something for you.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "27649 Hwy 88",
+  "postalCode": "95666",
+  "phone": "tel:209-295-2326",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:00am-3:00pm, Thu-Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.491184,-120.513199&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.491184,-120.513199&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

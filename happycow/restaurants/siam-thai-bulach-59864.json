@@ -1,0 +1,19 @@
+{
+  "title": "Siam Thai",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Food court Thai restaurant. One could get curry with tofu, spring rolls, and other dishes without meat. Staff will assist you.",
+  "priceRange": "Moderate",
+  "streetAddress": "Feldstrasse 85",
+  "postalCode": "8180",
+  "phone": "tel:+41798270900",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.509611,8.539238&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.509611,8.539238&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

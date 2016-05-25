@@ -1,0 +1,19 @@
+{
+  "title": "Puree Juice Bar",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Raw, Juice bar, Take-out\n                                    ",
+  "description": "Vegan juice bar opened since Dec 2011. Uses the Norwalk juice press for all juices, with organic produce. Also serving purees (smoothies), house-made nut milks, prepared salads and raw food.",
+  "priceRange": "Moderate",
+  "streetAddress": "4903 Elm St",
+  "postalCode": "20814",
+  "phone": "tel:301-633-4196",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-8:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Purée-Juice-Bar/112075622209560",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.982215,-77.096316&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.982215,-77.096316&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

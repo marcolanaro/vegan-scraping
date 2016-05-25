@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Infinito",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Italian, Western, Buffet, Beer/Wine, Spanish, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Most menu items are veggie. Has theme nights, quizzes, cocktails, wine and beer, soft drinks, and coffee. English, Spanish, Italian spoken.",
+  "priceRange": "Moderate",
+  "streetAddress": "Calle Poeta Mas y Ros 35",
+  "postalCode": "46022",
+  "phone": "tel:617272042",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 7:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.470595,-0.348212&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.470595,-0.348212&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

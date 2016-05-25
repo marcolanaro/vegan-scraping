@@ -1,0 +1,17 @@
+{
+  "title": "Rasa Caffe",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Coffee shop bar in South Berkeley. Offers signature drinks and stocks soy and almond milk; vegan donuts and pastries.",
+  "streetAddress": "3140 Martin Luther King Jr. Way",
+  "postalCode": "94703",
+  "phone": "tel:510-985-9987",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/rasacaffeberkeley",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.850993,-122.271017&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.850993,-122.271017&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

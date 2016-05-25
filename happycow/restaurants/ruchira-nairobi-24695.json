@@ -1,0 +1,19 @@
+{
+  "title": "Ruchira",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Indian, Fast food, Juice bar\n                                    ",
+  "description": "Established 1983, this vegetarian restaurant in Kenya serves Indian vegetarian snacks in a cool natural surrounding with leafy green canopy. Children friendly environment.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kusi Lane",
+  "postalCode": "00623",
+  "phone": "tel:0722613117",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 5:00pm-9:00pm, Sun 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-1.257612,36.815182&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-1.257612,36.815182&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Kebab Burger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fast food place. Could get falafel, fries, veg burger (but sauce is not vegan).",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Hisingsgatan 28-30",
+  "phone": "tel:031-515550",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-11:00pm, Fri 11:00am-2:00am, Sat 12:00pm-2:00am, Sun 12:00pm-10:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Kebab-Burger-186348358198228",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.719398,11.944763&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.719398,11.944763&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

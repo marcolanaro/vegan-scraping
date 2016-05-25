@@ -1,0 +1,16 @@
+{
+  "title": "Sakura",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Japanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Japanese restaurant but with some vegetarian choices though not labeled. Vegans could have seaweed salad, udon and noodles, sushi with avocado, cucumber, or radish. Ask your server for suggestion. Note that tempura is cooked in same fryer as meat.",
+  "priceRange": "Moderate",
+  "streetAddress": "Villa de Madrid, 6",
+  "phone": "tel:959253257",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00pm-12:00am, Mon-Wed 12:30pm-4:30pm, Thu 12:30pm-4:30am, Fri-Sun 12:30pm-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.252995,-6.954816&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.252995,-6.954816&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

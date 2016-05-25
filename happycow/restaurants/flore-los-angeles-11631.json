@@ -1,0 +1,19 @@
+{
+  "title": "Flore",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Take-out\n                                    ",
+  "description": "Los Angeles vegan restaurant cafe. Menu features classic American and comfort food (that's all vegan) plus fresh juices. Breakfast is served on weekends. Small and causal with a counter and glass case displaying deli salads and a small selection of organic produce for sale. Gets crowded at mealtime, especially on weekends. Weekend brunch from 10am-1pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "3818 W Sunset Blvd",
+  "postalCode": "90026",
+  "phone": "tel:323-953-0611",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-4:00pm, Tue-Fri 11:00am-10:00pm, Sat-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/FloreVegan",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.091240,-118.279070&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.091240,-118.279070&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

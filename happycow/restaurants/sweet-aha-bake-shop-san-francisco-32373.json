@@ -1,0 +1,16 @@
+{
+  "title": "Sweet Aha!",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "No storefront. Vegan bakery vendor making cookies, cupcakes, and muffins. Operates a booth at the Inner Sunset Farmers' Market, parking lot @ 8th & 9th Ave. Also at College of San Mateo Farmers' Market Saturday 9am-1pm at 1700 W Hillsdale Blvd, San Mateo. Check its website for latest updates.",
+  "streetAddress": "1320 9th Ave",
+  "postalCode": "94122",
+  "phone": "tel:415-839-2138",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.762946,-122.465544&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.762946,-122.465544&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

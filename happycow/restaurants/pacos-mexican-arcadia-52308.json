@@ -1,0 +1,18 @@
+{
+  "title": "Paco's Mexican Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional Mexican food restaurant with a bar. Menu has a small vegan section with a burrito, fajitas plate, flautas plate, tacos, and a salad. These items comprise beans, veggies, and/or rice with sauces without faux meats.",
+  "priceRange": "Moderate",
+  "streetAddress": "200 E Foothill Blvd",
+  "postalCode": "91006",
+  "phone": "tel:626-357-7270",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:00am-9:00pm, Tue-Thu 7:00am-10:00pm, Fri 7:00am-11:00pm, Sat-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.150800,-118.025065&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.150800,-118.025065&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

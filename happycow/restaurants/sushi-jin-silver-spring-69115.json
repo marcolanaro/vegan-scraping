@@ -1,0 +1,17 @@
+{
+  "title": "Sushi Jin",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Japanese, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Japanese restaurant whose menu offers many veg appetizers and small dishes, a rice bowl, and vegetable special rolls. Extensive sake and alcohol selection.",
+  "priceRange": "Moderate",
+  "streetAddress": "8555 Fenton St",
+  "postalCode": "20910",
+  "phone": "tel:301-608-0990",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:00pm-10:00pm, Mon-Fri 11:00am-3:00pm, Fri 5:00pm-11:00pm, Sat 12:00pm-11:00pm, Sun 12:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.997524,-77.026304&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.997524,-77.026304&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

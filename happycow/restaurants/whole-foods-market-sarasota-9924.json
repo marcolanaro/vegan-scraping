@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural supermarket chain. Stocks fresh fruits and vegetables, vitamins, care products, household products, bakery, deli, grocery, and more. Parking on premises.",
+  "streetAddress": "1451 1st St",
+  "postalCode": "34236",
+  "phone": "tel:941-955-8500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-9:00pm, Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.337320,-82.541650&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.337320,-82.541650&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

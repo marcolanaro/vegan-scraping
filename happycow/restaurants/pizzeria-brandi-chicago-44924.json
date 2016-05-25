@@ -1,0 +1,17 @@
+{
+  "title": "Pizzeria Brandi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A small pizza place that offers vegan pizza; under the same ownership as La Cantina. The owner is becoming more vegan aware.",
+  "priceRange": "Moderate",
+  "streetAddress": "67 E Cermak",
+  "postalCode": "60616",
+  "phone": "tel:312-794-5900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-11:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.852637,-87.624399&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.852637,-87.624399&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

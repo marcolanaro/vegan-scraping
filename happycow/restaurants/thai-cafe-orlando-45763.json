@@ -1,0 +1,19 @@
+{
+  "title": "Thai Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Thai, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Many dishes have a tofu or vegetable choice. Ask.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "217 N Magnolia Ave",
+  "postalCode": "32801",
+  "phone": "tel:407-839-0541",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/ThaiCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.544998,-81.377241&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.544998,-81.377241&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Bouldin Creek Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out\n                                    ",
+  "description": "Coffeehouse turned full-service restaurant. Offers breakfast all day, salads, sandwiches, hot meals with tofu, veggie tacos, blueberry cornbread, and beverages. Soymilk and almond milk available for chai and coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1900 S First St",
+  "postalCode": "78704",
+  "phone": "tel:512-416-1601",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-12:00am, Sat-Sun 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/BouldinCreekCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.246558,-97.756379&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.246558,-97.756379&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

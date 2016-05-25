@@ -1,0 +1,20 @@
+{
+  "title": "The Old Post Pub",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located in downtown Missoula, this place offers a hummus wrap, a grilled portabello mushroom sandwich, among few other veg choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "103 W Spruce",
+  "postalCode": "59804",
+  "phone": "tel:406-721-7399",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:00am, Sat-Sun 9:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/The-Old-Post-Pub/172823396063513",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.874078,-113.992907&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.874078,-113.992907&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

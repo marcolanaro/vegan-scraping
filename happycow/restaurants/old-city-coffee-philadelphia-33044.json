@@ -1,0 +1,19 @@
+{
+  "title": "Old City Coffee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery\n                                    ",
+  "description": "Coffeehouse offering a small, seasonal food menu. Coffee roasting, food preparation, and baking is done in-house on the premise. Soymilk for coffee drinks is available at extra charge. Hosts open mic nights.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "221 Church St",
+  "postalCode": "19106",
+  "phone": "tel:215-629-9292",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:30am-7:00pm, Sat 7:00am-7:00pm, Sun 7:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/OldCityCoffee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.950743,-75.144807&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.950743,-75.144807&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

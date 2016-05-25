@@ -1,0 +1,19 @@
+{
+  "title": "Ragged Edge Coffee House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Juice bar, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffeehouse and art gallery. Has bagels, fresh juices, smoothies, veggie wraps. Hosts live music.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "110 Chambersburg St",
+  "postalCode": "17325",
+  "phone": "tel:717-334-4464",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/raggededgecoffeehouse",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.830689,-77.233666&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.830689,-77.233666&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

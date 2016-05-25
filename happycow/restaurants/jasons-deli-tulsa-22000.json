@@ -1,0 +1,17 @@
+{
+  "title": "Jason's Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Deli chain with locations across the US. Vegetarian choices for wraps, sandwiches, and some soups. Vegans to specify.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8321 E 61st St S, Ste M",
+  "postalCode": "74133",
+  "phone": "tel:918-252-9999",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.075411,-95.883408&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.075411,-95.883408&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

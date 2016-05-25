@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural food supermarket chain. Has deli, bakery, fresh fruits and vegetables including organic produce, vitamins, nutritional supplements, eco friendly household supplies, grocery, and more.",
+  "streetAddress": "40 Railroad St",
+  "postalCode": "01810",
+  "phone": "tel:978-749-6664",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.658050,-71.144510&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.658050,-71.144510&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

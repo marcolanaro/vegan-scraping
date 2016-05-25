@@ -1,0 +1,17 @@
+{
+  "title": "Little Athens Gyro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Middle Eastern, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small Greek restaurant with vegetarian items including falafel, baba ghannoui and fava bean sandwiches. Caters to primarily college students.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "666-5 W Tennessee St",
+  "postalCode": "32304",
+  "phone": "tel:850-222-2231",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:00am-8:00pm, Sat 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.445012,-84.293351&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.445012,-84.293351&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

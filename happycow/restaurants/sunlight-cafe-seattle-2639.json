@@ -1,0 +1,16 @@
+{
+  "title": "Sunlight Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American\n                                    ",
+  "description": "Vegetarian cafe serving home style cooking, and brunch on weekends. Waffles, organic espresso, additive-free beer and wine, and more.",
+  "priceRange": "Moderate",
+  "streetAddress": "6403 Roosevelt Way NE",
+  "postalCode": "98115",
+  "phone": "tel:206-522-9060",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:30am-9:00pm, Sat-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/sunlightcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.674540,-122.317330&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.674540,-122.317330&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

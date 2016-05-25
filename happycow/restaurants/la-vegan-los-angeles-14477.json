@@ -1,0 +1,17 @@
+{
+  "title": "LA Vegan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Thai, Delivery, Take-out\n                                    ",
+  "description": "Veggie restaurant serving mostly Thai food in addition to Western food. Faux meat dishes, rice and noodle dishes, curry, wraps and burgers, pancake, and more. Very small and simple set up, no air conditioning.",
+  "priceRange": "Moderate",
+  "streetAddress": "4507 S Centinela Ave",
+  "postalCode": "90066",
+  "phone": "tel:310-574-9888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.992730,-118.423120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.992730,-118.423120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

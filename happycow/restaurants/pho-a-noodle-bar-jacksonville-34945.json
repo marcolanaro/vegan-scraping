@@ -1,0 +1,18 @@
+{
+  "title": "Pho - A Noodle Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers vegan pho with rice noodles. Also has kelp noodles (gluten free option), veggie rice with tofu, pad thai with tofu, curry of the day with tofu and more. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "117 W Adams St",
+  "postalCode": "32202",
+  "phone": "tel:904-353-0320",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:30pm, Wed-Sat 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PhoANoodleBar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.328166,-81.659548&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.328166,-81.659548&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

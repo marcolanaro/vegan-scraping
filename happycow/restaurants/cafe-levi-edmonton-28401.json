@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Levi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Take-out, Middle Eastern, Kosher, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A kosher dairy cafe located in the mall. Offers choices including falafels, hummus, faux meat bolognese sauce, and a variety of salads. The only meat is fish.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2494 W Edmonton Mall",
+  "postalCode": "AB T5",
+  "phone": "tel:780-443-8235",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.522314,-113.622431&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.522314,-113.622431&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

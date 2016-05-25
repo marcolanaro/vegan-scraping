@@ -1,0 +1,18 @@
+{
+  "title": "IKEA",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Standard American cafeteria upstairs. In 2015 it began offering vegan meatballs and sides like steamed veggies, and a soup that's vegan. The veggie balls are made from chickpeas, green peas, carrots, corn, kale, and red bell peppers.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "9500 IKEA Way",
+  "postalCode": "45069 ",
+  "phone": "tel:513-779-7100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:30am-8:30pm, Sun 9:30am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.315295,-84.434164&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.315295,-84.434164&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

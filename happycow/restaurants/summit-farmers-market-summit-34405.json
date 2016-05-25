@@ -1,0 +1,13 @@
+{
+  "title": "Summit Farmers' Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers market in the Summit Bank parking lot.",
+  "streetAddress": "DeForest Ave & Beechwood Rd",
+  "postalCode": "07901",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 8:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.719060,-74.357397&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.719060,-74.357397&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

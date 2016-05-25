@@ -1,0 +1,18 @@
+{
+  "title": "General Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Indian, International, Organic, Beer/Wine, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan choices. Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "1303 rue de la Sapiniere",
+  "postalCode": "J0T2N0",
+  "phone": "tel:+18193226348",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-4:00pm, Sat-Sun 8:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/general-cafe-466790746725268",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.030274,-74.205436&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.030274,-74.205436&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

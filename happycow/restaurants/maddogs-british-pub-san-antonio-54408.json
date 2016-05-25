@@ -1,0 +1,18 @@
+{
+  "title": "MadDogs British Pub",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Beer/Wine, British, English, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This British pub's menu has a vegetarian section with a house made veggie burger, BLT with veggie bacon, bangers and mash with veggie sausage. Customers are banned from wearing fur inside the bar. Sporty atmosphere.",
+  "priceRange": "Moderate",
+  "streetAddress": "123 Losoya St",
+  "postalCode": "78205",
+  "phone": "tel:210-222-0220",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-2:00am, Sun 12:00pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.425390,-98.488223&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.425390,-98.488223&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Pieology",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Build-your-own pizza franchise pizzeria; this one is across from Lakewood Center Mall. Offers whole vegan cheese for a charge or go cheeseless, lots of vegetables and multiple sauce choices, a vegan suitable whole wheat crust. A few salads as well.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5027 Lakewood Blvd Ste 63",
+  "postalCode": "90712",
+  "phone": "tel:562-634-2625",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:30am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.849127,-118.143370&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.849127,-118.143370&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

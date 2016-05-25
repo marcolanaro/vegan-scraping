@@ -1,0 +1,17 @@
+{
+  "title": "J Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Regular menu is not veg, but when you reserve in advance kitchen will provide a full vegan meal. No pure veg restaurants in this town.",
+  "priceRange": "Expensive",
+  "streetAddress": "129 W Market St",
+  "postalCode": "44870",
+  "phone": "tel:419-502-2280",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:30am-2:00pm, 5:00pm-8:30pm, Sat 5:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.456112,-82.712523&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.456112,-82.712523&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

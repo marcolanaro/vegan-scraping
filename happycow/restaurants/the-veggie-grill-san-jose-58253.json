@@ -1,0 +1,20 @@
+{
+  "title": "The Veggie Grill - Westgate",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Fast food, Beer/Wine, Take-out, Catering\n                                    ",
+  "description": "Casual vegan cafe chain originating from Southern California, this one opened spring-2015 on the premises of the Westgate Shopping Center next to the mall. Offers a variety of veggie burgers and sandwiches, hot plates, salads, sweet potato fries, kids menu, and desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1692 Saratoga Ave Ste 94",
+  "postalCode": "95129",
+  "phone": "tel:408-374-4152",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/veggiegrill",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.291837,-121.991800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.291837,-121.991800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

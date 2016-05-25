@@ -1,0 +1,19 @@
+{
+  "title": "Market Fresh Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, International, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A nicer dining bistro in a courtyard. Menu features many salads, one vegetable and tofu sandwich, and tofu as an option to add to your salad. Vegans to specify. Sources local and organic farm ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "3620 Baldwin Ave",
+  "postalCode": "96768",
+  "phone": "tel:808-572-4877",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.855300,-156.311524&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.855300,-156.311524&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

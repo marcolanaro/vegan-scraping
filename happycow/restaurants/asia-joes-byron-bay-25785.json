@@ -1,0 +1,16 @@
+{
+  "title": "Asia Joes",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Thai, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Asian food restaurant. Has a veggie and gluten-free section on the menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "4 Bay Lane",
+  "phone": "tel:2-66808787",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-3:00pm, 5:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-28.641759,153.612930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-28.641759,153.612930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

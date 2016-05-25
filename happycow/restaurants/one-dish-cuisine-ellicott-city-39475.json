@@ -1,0 +1,20 @@
+{
+  "title": "One Dish Cuisine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, Organic, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Certified gluten-free cafe, deli, and bakery housed in a green building. Offers allergen free menu with vegan choices and separate fryers for vegan and casein-free food. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "8001 Hillsborough Rd",
+  "postalCode": "21043",
+  "phone": "tel:443-759-6344",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-8:30pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/onedishcuisine",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.250073,-76.789782&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.250073,-76.789782&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

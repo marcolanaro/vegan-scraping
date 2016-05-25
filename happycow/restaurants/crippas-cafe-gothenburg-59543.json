@@ -1,0 +1,19 @@
+{
+  "title": "Crippas Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Take-out, European\n                                    ",
+  "description": "Cafe opened May 2015. Offers coffee, sandwiches, soups, and dishes like lasagna.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Kusttorget 1",
+  "phone": "tel:+46-703131630",
+  "venueHours": "\n                                                                                                        Tue 10:00am-5:00pm, Wed 11:00am-8:00pm, Thu-Fri 10:00am-5:00pm, Sat-Sun 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/crippascafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.694368,11.919132&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.694368,11.919132&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

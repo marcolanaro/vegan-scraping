@@ -1,0 +1,14 @@
+{
+  "title": "Kale Power",
+  "tags": [
+    "Veg Delivery"
+  ],
+  "description": "Green smoothie delivery company.\r\n",
+  "streetAddress": "Davis area",
+  "phone": "tel:n/a",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/kalepower",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.570680,-121.720947&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.570680,-121.720947&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

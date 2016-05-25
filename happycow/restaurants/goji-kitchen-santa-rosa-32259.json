@@ -1,0 +1,18 @@
+{
+  "title": "Goji Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Serves a variety of Asian cuisines. Has vegetable and tofu choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "1965 Mendocino Ave",
+  "postalCode": "95404",
+  "phone": "tel:707-523-3888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:30pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.459521,-122.717182&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.459521,-122.717182&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

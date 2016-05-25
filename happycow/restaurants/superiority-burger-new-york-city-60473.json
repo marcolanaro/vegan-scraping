@@ -1,0 +1,15 @@
+{
+  "title": "Superiority Burger",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Organic, Fast food, Take-out\n                                    ",
+  "description": "A little storefront near Tompkins Square Park in Manhattan offering veggie burgers, sloppy joe, rice bowls, and desserts. Only 5 seats. Opened summer 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "430 E 9th St",
+  "postalCode": "10009",
+  "phone": "tel:212-256-1182",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 6:00pm-10:00pm, Wed-Sun 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.727397,-73.983645&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.727397,-73.983645&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

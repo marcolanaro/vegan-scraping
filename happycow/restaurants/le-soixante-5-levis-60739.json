@@ -1,0 +1,17 @@
+{
+  "title": "Le Soixante 5",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic\n                                    ",
+  "description": "100% vegan/vegetarian gastronomy. Open lunch and dinner. Cozy restaurant. ",
+  "priceRange": "Moderate",
+  "streetAddress": "78 cote du Passage",
+  "postalCode": "G6V 5S7",
+  "phone": "tel:418-838-6800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Thu 11:30am-2:00pm, 5:00pm-9:30pm, Fri 11:30pm-9:30pm, Sat 5:00pm-10:00pm, Sun 5:00pm-9:30pm, 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.806135,-71.183296&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.806135,-71.183296&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

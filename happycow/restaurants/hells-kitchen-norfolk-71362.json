@@ -1,0 +1,17 @@
+{
+  "title": "Hell's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Rock bar with pub food, hosts live music Thur-Sat. Menu labels 4 vegan choices which are basically regular menu items replaced with vegan meat and soy cheese: a burrito, a wrap, a quesadilla, and stuffed peppers.",
+  "priceRange": "Moderate",
+  "streetAddress": "124 Granby St",
+  "postalCode": "23510",
+  "phone": "tel:757-624-1906",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:00am, Sat 12:00pm-2:00am, Sun 5:00pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.846922,-76.291885&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.846922,-76.291885&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

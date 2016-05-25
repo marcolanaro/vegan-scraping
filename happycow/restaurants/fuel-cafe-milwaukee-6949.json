@@ -1,0 +1,15 @@
+{
+  "title": "Fuel Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Coffee/Tea, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu has vegan burritos and sandwiches, or custom make one to suit your taste. Staff knows which items are vegan and is happy to help.",
+  "priceRange": "Moderate",
+  "streetAddress": "818 East Center St",
+  "postalCode": "53212",
+  "phone": "tel:414-374-3835",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.067510,-87.901560&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.067510,-87.901560&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

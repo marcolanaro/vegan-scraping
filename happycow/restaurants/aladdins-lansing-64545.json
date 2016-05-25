@@ -1,0 +1,18 @@
+{
+  "title": "Aladdin's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Mediterranean, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Middle Eastern cuisine with vegetarian standards like falafel, grape leaves, and veggie kibbee plus several veg versions of the meat dishes available. Has smoothies, including build-your-own.",
+  "priceRange": "Moderate",
+  "streetAddress": "300 N Clippert St",
+  "postalCode": "48912",
+  "phone": "tel:517-333-8710",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-8:00pm, Sat-Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.736385,-84.507470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.736385,-84.507470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

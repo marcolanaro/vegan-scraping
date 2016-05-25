@@ -1,0 +1,14 @@
+{
+  "title": "Pat's Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Spicy Thai food. Menu has vegetable dishes and will adapt a dish to vegan when possible. Soups can all be prepared vegan. Bright space with booths as well tables and chairs.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "455 Princess St",
+  "phone": "tel:613-344-0450",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.234019,-76.494465&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.234019,-76.494465&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

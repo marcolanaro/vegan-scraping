@@ -1,0 +1,17 @@
+{
+  "title": "Gratitude Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Raw, Western, Juice bar, Take-out, Canadian\n                                    ",
+  "description": "An environmentally conscious cafe serving vegan food, raw food, and gluten free. No American Express card accepted. In 2014 relocated from Calgary.",
+  "priceRange": "Expensive",
+  "streetAddress": "585 Osprey Ave",
+  "phone": "tel:403-984-4433",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.866010,-119.490100&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.866010,-119.490100&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

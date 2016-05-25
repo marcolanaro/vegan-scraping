@@ -1,0 +1,17 @@
+{
+  "title": "Mexican Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small Mexican food restaurant. Kitchen has vegan cheese and vegan sour cream - ask for them.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15 1/2 N Front St",
+  "phone": "tel:845-256-5070",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.749258,-74.086055&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.749258,-74.086055&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

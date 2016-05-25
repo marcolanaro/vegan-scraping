@@ -1,0 +1,19 @@
+{
+  "title": "The Flying Falafel",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Mediterranean, Fast food, Take-out, Middle Eastern\n                                    ",
+  "description": "Falafel eatery, opened Jan 2016. Offers falafel, dolmas, hummus, cinnamon baklava. Has whole wheat pita.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "919 Meridian Ave",
+  "postalCode": "95126",
+  "phone": "tel:408-780-4303",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/FlyingFalafelSanJose",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.309921,-121.913954&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.309921,-121.913954&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

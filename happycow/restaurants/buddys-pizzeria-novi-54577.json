@@ -1,0 +1,19 @@
+{
+  "title": "Buddy's Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Italian, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Michigan-based pizzeria with multiple locations. Has vegan Daiya cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "44225 12 Mile Rd",
+  "postalCode": "48377",
+  "phone": "tel:248-675-0881",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/buddyspizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.493844,-83.484671&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.493844,-83.484671&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

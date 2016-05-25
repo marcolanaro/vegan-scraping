@@ -1,0 +1,18 @@
+{
+  "title": "Veggie Bunch",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Chinese, Buffet, Taiwanese\n                                    ",
+  "description": "Taiwanese style vegetarian buffet restaurant. Lunch and dinner.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6611 Buswell St",
+  "postalCode": "V6X 3Y2",
+  "phone": "tel:778-297-6380",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-2:30pm, 5:30pm-8:30pm, Wed-Sun 11:30am-2:30pm, 5:30pm-8:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Veggie-Bunch-Vegetarian-Restaurant/134829999914385",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.165327,-123.133735&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.165327,-123.133735&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

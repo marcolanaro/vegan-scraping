@@ -1,0 +1,16 @@
+{
+  "title": "Mouthful Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Take-out, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Sandwich and salads place.",
+  "priceRange": "Moderate",
+  "streetAddress": "2626 E Thousand Oaks Blvd",
+  "postalCode": "91362",
+  "phone": "tel:805-777-9222",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/MouthfulEatery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.172494,-118.840857&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.172494,-118.840857&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

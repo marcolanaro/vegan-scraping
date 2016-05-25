@@ -1,0 +1,18 @@
+{
+  "title": "Woodstock's Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria with multiple locations. Has whole grain crust, gluten-free crust, and Daiya vegan cheese for extra charge. Choice of salads, or build your own. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "1000 Higuera St",
+  "postalCode": "93401",
+  "phone": "tel:805-541-4420",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.281202,-120.660764&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.281202,-120.660764&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

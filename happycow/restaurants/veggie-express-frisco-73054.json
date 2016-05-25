@@ -1,0 +1,19 @@
+{
+  "title": "Veggie Express",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Buffet, Asian\n                                    ",
+  "description": "A vegetarian Chinese buffet and diner serving traditional Chinese dishes without the meat. Has vegan options. Many dishes contain faux meats which are made out of soy or other such products.",
+  "priceRange": "Moderate",
+  "streetAddress": "8200 Stonebrook Pkwy, Ste 110",
+  "postalCode": "75034",
+  "phone": "tel:469-850-9335",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-2:30pm, 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/veggieexpressfrisco",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.140602,-96.812732&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.140602,-96.812732&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

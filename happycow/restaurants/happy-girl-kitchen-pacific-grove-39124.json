@@ -1,0 +1,18 @@
+{
+  "title": "Happy Girl Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American\n                                    ",
+  "description": "Cafe, shop, and kitchen teaching classes. Specializes in fermentation and fruit jams. Sources local and organic ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "173 Central Ave",
+  "postalCode": "93950",
+  "phone": "tel:831-373-4475",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:30am-3:00pm, Sun 7:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/happygirlkitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.618575,-121.906452&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.618575,-121.906452&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

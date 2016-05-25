@@ -1,0 +1,21 @@
+{
+  "title": "Pegaso",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Take-out, Mexican, Catering, Southern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A Tex-Mex diner with vegan choices that are clearly marked. Blue Zone Project.",
+  "priceRange": "Moderate",
+  "streetAddress": "3516 Blue Bonnet Circle",
+  "postalCode": "76109",
+  "phone": "tel:682-708-3127",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/PegasoDiner",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.698232,-97.360928&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.698232,-97.360928&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

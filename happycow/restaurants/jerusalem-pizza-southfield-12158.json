@@ -1,0 +1,18 @@
+{
+  "title": "Jerusalem Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, Take-out, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. Kosher pizzeria. Offers Daiya vegan cheese and vegan faux meat. Large menu of pizzas, sandwiches, salads, and soups. Different veggie mock-meat choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "26025 Greenfield Rd",
+  "postalCode": "48034",
+  "phone": "tel:248-552-0088",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:00pm, Fri 11:00am-3:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.478750,-83.201970&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.478750,-83.201970&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

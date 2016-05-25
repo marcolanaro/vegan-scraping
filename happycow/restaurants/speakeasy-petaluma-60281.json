@@ -1,0 +1,19 @@
+{
+  "title": "Speakeasy",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tapas style restaurant on Putnam Plaza with microbrews and wine. Seasonal menus, includes a couple vegan choices like taco plate with jackfruit and tempeh or veggie burger. Vegans need to specify to be sure. Sunday brunch menu til 5pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "139 Petaluma Blvd N Ste B",
+  "postalCode": "94952",
+  "phone": "tel:707-776-4631",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 5:00pm-2:00am, Sun 10:00pm-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/speakeasypetaluma",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.234882,-122.640962&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.234882,-122.640962&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

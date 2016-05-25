@@ -1,0 +1,12 @@
+{
+  "title": "Palermo",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "Coffee and gelato shop with a couple vegan baked goods on offer.",
+  "streetAddress": "321 E Main St",
+  "phone": "tel:805-643-3070",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 6:00am-7:00pm, Fri-Sat 6:00am-10:00pm, Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.280989,-119.295785&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.280989,-119.295785&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

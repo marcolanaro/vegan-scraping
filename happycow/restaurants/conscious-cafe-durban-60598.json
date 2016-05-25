@@ -1,0 +1,19 @@
+{
+  "title": "Conscious Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Juice bar, Take-out\n                                    ",
+  "description": "Healthy food and juices.",
+  "priceRange": "Moderate",
+  "streetAddress": "9 Renown Rd, Westville",
+  "postalCode": "3629",
+  "phone": "tel:0317652662",
+  "venueHours": "\n                                                                                                        Tue-Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ConsciousCafeHillcrest",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-29.785786,30.769607&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-29.785786,30.769607&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

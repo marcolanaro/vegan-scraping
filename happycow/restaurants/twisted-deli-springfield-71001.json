@@ -1,0 +1,18 @@
+{
+  "title": "Twisted Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Delivery, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. On the menu are sandwiches, wraps, flatbreads, soups, and salads. Has a daily vegan soup, and you could ask for a vegan salad or wrap.",
+  "priceRange": "Moderate",
+  "streetAddress": "330 S Grand Ave E",
+  "postalCode": "62703",
+  "phone": "tel:217-679-4896",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.786791,-89.651479&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.786791,-89.651479&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

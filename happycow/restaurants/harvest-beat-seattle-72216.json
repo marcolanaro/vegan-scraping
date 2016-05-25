@@ -1,0 +1,18 @@
+{
+  "title": "Harvest Beat",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Western\n                                    ",
+  "description": "Vegan restaurant in Wallingford offering 5-course prefix menu that changes every 2 weeks. One seating per night. Supports local farmers and foragers. ",
+  "priceRange": "Expensive",
+  "streetAddress": "1703 N 50th St ",
+  "postalCode": "98103",
+  "phone": "tel:206-547-1348",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed-Sat 7:00pm-9:00pm, Sun 6:30pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.661104,-122.336827&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.661104,-122.336827&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

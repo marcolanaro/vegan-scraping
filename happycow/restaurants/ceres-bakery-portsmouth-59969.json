@@ -1,0 +1,18 @@
+{
+  "title": "Ceres Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A colorful bakery that also serves breakfast and lunch. Made-in-house baked bread daily. Has non-dairy milks for coffee. Has some vegan choices, such as the veggie sandwich (Asian marinated tofu, black bean hummus, lots of veggies, avocado). Vegans need to inquire as menu items are not clearly labeled. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "51 Penhallow St",
+  "postalCode": "03801",
+  "phone": "tel:603-436-6518",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-5:00pm, Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.077237,-70.755858&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.077237,-70.755858&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

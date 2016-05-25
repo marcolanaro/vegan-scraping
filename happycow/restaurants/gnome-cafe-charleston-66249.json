@@ -1,0 +1,18 @@
+{
+  "title": "Gnome Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International\n                                    ",
+  "description": "A 100% vegan restaurant located downtown near MUSC.  Limited seating. You can order in advance online. Check with them about local delivery.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "109 President St",
+  "postalCode": "29403",
+  "phone": "tel:843-793-4931",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:30am-3:30pm, Sat 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/gnomecafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.787499,-79.950631&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.787499,-79.950631&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

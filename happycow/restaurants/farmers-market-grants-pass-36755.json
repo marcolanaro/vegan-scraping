@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Small, grocery and health food store filled with lots of natural foods. Has fresh produce, bulk food, supplements, beauty aids, fresh breads and cookies.",
+  "streetAddress": "603 Rogue River Hwy",
+  "postalCode": "97526",
+  "phone": "tel:541-474-0252",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 8:30am-6:30pm, Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.424250,-123.327877&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.424250,-123.327877&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

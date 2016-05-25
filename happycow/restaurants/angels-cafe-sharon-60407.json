@@ -1,0 +1,20 @@
+{
+  "title": "Angel's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Mediterranean, Take-out, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little restaurant offering sandwiches, salads, paninis, nonalcoholic beverages. Run by a man who moved here from Israel. The vegetarian meals are labeled with a V, can be made vegan by asking for no cheese. Keeps soy and almond milk substitute for cow's milk in coffee and tea. Uses organic produce.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3 Post Office Square",
+  "postalCode": "02067",
+  "phone": "tel:781-784-8184",
+  "venueHours": "\n                                                                                                        Tue-Fri 7:00am-7:00pm, Sat-Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/AngelsCafeSharon",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.123805,-71.178409&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.123805,-71.178409&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

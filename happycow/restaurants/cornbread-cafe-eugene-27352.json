@@ -1,0 +1,19 @@
+{
+  "title": "Cornbread Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Fast food, Take-out, Southern American\n                                    ",
+  "description": "Vegan southern comfort food, non GMO, uses 95% organic, locally sourced.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1290 W 7th Ave",
+  "postalCode": "97402",
+  "phone": "tel:541-505-9175",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat 9:00am-9:00pm, Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CornbreadCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.052093,-123.112252&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.052093,-123.112252&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Loma Linda Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A large, all vegetarian grocery store that is sub-contracted out to a group of investors by the Seventh-Day Adventist institution called Loma Linda University. Offers selections in frozen, dried, and canned food personal care items, cookbooks, nutritional supplements, snack foods, bulk food, fresh produce, a small bakery and more. Next door is the all vegetarian cafeteria Patio Pantry.",
+  "streetAddress": "11161 Anderson St",
+  "postalCode": "92350",
+  "phone": "tel:909-558-4565",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-7:00pm, Fri 7:00am-5:00pm, Sat 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.050950,-117.261270&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.050950,-117.261270&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

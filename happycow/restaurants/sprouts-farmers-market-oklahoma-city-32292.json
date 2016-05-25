@@ -1,0 +1,15 @@
+{
+  "title": "Sprouts Farmers Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Part of supermarket chain offering both conventional as well as natural and organic food. Previously named Sunflower.",
+  "streetAddress": "6410 N May Ave",
+  "postalCode": "73116",
+  "phone": "tel:405-879-9989",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.537299,-97.564898&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.537299,-97.564898&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

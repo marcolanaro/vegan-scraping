@@ -1,0 +1,15 @@
+{
+  "title": "Airport Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizza, burrito, salad, pasta, veggie burger.",
+  "priceRange": "Moderate",
+  "streetAddress": "406 Bering St",
+  "postalCode": "99762",
+  "phone": "tel:907-443-7992",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=64.501128,-165.408078&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C64.501128,-165.408078&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

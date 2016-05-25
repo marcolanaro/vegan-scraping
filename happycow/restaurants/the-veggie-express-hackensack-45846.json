@@ -1,0 +1,18 @@
+{
+  "title": "The Veggie Express",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out\n                                    ",
+  "description": "Vegetarian Indian restaurant, replaced the previous Madras Bistro in 2013. Offers chaat snacks, dosas, thai, curries, and stuffed breads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "258 Main St",
+  "postalCode": "07601",
+  "phone": "tel:201-457-1557",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.886420,-74.041570&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.886420,-74.041570&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

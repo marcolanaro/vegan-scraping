@@ -1,0 +1,15 @@
+{
+  "title": "Clover Food Lab",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Fast food, Take-out\n                                    ",
+  "description": "Vegetarian fast-food restaurant in the Harvard Square. Casual atmosphere with indoor seating and free Wi-Fi. Part of the Clover Food Truck company that operates mobile trucks in Boston and Cambridge - see website for locations.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "7 Holyoke St",
+  "postalCode": "02138",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.372788,-71.118113&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.372788,-71.118113&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

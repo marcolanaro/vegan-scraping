@@ -1,0 +1,16 @@
+{
+  "title": "Chashe Restuarant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, African, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mostly meat on the menu but has vegetable sides (including pounded pumpkin leaf and ground nuts (one of the vegetable sides and bean dishes) and a vegetable curry. Note: stay with cooked food and not salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "67 Great East Road, Handsworth",
+  "phone": "tel:260-966-634-850",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-15.418920,28.263210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-15.418920,28.263210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

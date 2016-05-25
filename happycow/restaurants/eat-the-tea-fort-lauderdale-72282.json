@@ -1,0 +1,20 @@
+{
+  "title": "Eat the Tea",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American\n                                    ",
+  "description": "Cafe serving vegan and vegetarian fare. On the menu are items like veggie burgers, banana kale sandwich, not-tuna sandwich, salads, soups, smoothies and tea. Vegan cheese can be substituted on menu items that contain dairy cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "900 NE 20th Ave",
+  "postalCode": "33304",
+  "phone": "tel:754-200-8355",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 10:00am-4:00pm, Thu-Fri 10:00am-7:00pm, Sat-Sun 9:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/EatTheTea",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.136468,-80.119410&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.136468,-80.119410&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

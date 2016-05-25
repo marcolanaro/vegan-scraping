@@ -1,0 +1,17 @@
+{
+  "title": "Lotus Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Western, Take-out\n                                    ",
+  "description": "Casual vegetarian restaurant serving mostly Asian vegan food with also veggie burgers and sandwiches.",
+  "priceRange": "Moderate",
+  "streetAddress": "13872 Metrotech Dr",
+  "postalCode": "20151",
+  "phone": "tel:703-378-6888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-9:30pm, Fri-Sat 11:30am-10:00pm, Sun 12:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.893590,-77.425010&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.893590,-77.425010&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

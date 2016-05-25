@@ -1,0 +1,17 @@
+{
+  "title": "OM Vegetarian",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Ayurvedic\n                                    ",
+  "description": "Situated near Flinders street station. Very casual. All-you-can-eat for around $7.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Level 1, 28 Elizabeth Street",
+  "postalCode": "3000",
+  "phone": "tel:0396630062",
+  "venueHours": "\n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.817343,144.964765&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.817343,144.964765&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

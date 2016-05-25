@@ -1,0 +1,17 @@
+{
+  "title": "Woodlands",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Buffet, Take-out\n                                    ",
+  "description": "Vegetarian Indian restaurant serving South Indian cuisine. Casual setting. No smoking.",
+  "priceRange": "Moderate",
+  "streetAddress": "4816 N University Dr",
+  "postalCode": "33351",
+  "phone": "tel:954-749-3221",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-3:00pm, 5:00pm-9:30pm, Sat-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.184810,-80.253210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.184810,-80.253210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

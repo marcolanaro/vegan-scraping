@@ -1,0 +1,17 @@
+{
+  "title": "Dragon Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese food restaurant. Vegan suitable items include chop suey, moo shu, chow mein, lo mein, tofu stir-fry and others. Tell the staff if you're vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "303 Washington Blvd",
+  "postalCode": "84404",
+  "phone": "tel:801-627-1680",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.258070,-111.970227&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.258070,-111.970227&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

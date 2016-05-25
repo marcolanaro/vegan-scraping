@@ -1,0 +1,15 @@
+{
+  "title": "Ben's Chili Bowl",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local dive offering chili, hot dog, burger and fries. Has a Boca brand patty, a meatless chili (say no cheese), and a vegan dog. The chili is made in-house.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1213 U St NW",
+  "postalCode": "20009",
+  "phone": "tel:202-667-0909",
+  "venueHours": "\n                                                                                                        Mon-Sat 6:00am-11:30pm, Tue-Fri 12:00am-2:00am, Sat-Sun 12:00am-4:00am, Sun 6:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.917152,-77.028798&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.917152,-77.028798&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

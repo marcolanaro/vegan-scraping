@@ -1,0 +1,19 @@
+{
+  "title": "Your Pie",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise pizzeria. Choose your dough, toppings, and sauce. Has tofu alongside standard vegetable toppings, plus soy cheese (ask if vegan). A sorbet is dairy-free.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1970 Medical Center Pkwy",
+  "postalCode": "37129",
+  "phone": "tel:615-396-8925",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:00pm, Fri-Sat 11:00am-9:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/YourPie",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.857944,-86.428849&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.857944,-86.428849&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

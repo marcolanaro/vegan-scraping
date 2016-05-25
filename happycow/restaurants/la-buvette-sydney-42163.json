@@ -1,0 +1,18 @@
+{
+  "title": "La Buvette",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers several either vegan dishes or ones that can be made vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "35 Challis Ave, Potts Point",
+  "postalCode": "2011",
+  "phone": "tel:02-9358-5113",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/labuvettecafe/156834584335530",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.869035,151.225373&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.869035,151.225373&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

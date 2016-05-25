@@ -1,0 +1,16 @@
+{
+  "title": "Cool Scoops",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A 1950s style ice cream parlor and diner offering several vegan flavors. Ask for the separately printed menu of vegan options; has vegan cone and toppings including sprinkles and marshmallow.",
+  "streetAddress": "1111 New Jersey Ave",
+  "postalCode": "08260",
+  "phone": "tel:609-729-2665",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 2:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.001905,-74.800618&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.001905,-74.800618&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

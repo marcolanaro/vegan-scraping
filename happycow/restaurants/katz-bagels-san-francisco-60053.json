@@ -1,0 +1,18 @@
+{
+  "title": "Katz Bagels",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Long-established bagel shop. Offers tofutti cream cheese and hummus bagels - ask if the bagels are vegan or not. Has soy milk for coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3147 16th St",
+  "postalCode": "94103",
+  "phone": "tel:415-552-9050",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:30am-1:00pm, Sat-Sun 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.764832,-122.423090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.764832,-122.423090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

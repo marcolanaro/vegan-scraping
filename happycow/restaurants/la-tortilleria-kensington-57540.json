@@ -1,0 +1,19 @@
+{
+  "title": "La Tortilleria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican eatery near Melbourne Pavillion. Kitchen stone-grinds corn in a traditional Mexican mill, then bakes the tortillas fresh daily. Has veggie tacos, burritos, etc. Stocks vegan cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "72 Stubbs St",
+  "postalCode": "3031",
+  "phone": "tel:0393765577",
+  "venueHours": "\n                                                                                                        Tue-Sun 6:00pm-10:00pm, Fri 12:00pm-3:00pm, Sat-Sun 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/latortilleriaau",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.791422,144.935302&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.791422,144.935302&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

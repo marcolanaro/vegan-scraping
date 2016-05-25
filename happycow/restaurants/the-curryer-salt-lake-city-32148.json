@@ -1,0 +1,15 @@
+{
+  "title": "The Curryer - Food Cart",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Food cart offering Indian curries. Has vegetarian curry, and each day at least one vegan choice. Naan bread doesn't have dairy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "300 S Main St",
+  "postalCode": "84101",
+  "phone": "tel:801-413-3983",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.762766,-111.891187&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.762766,-111.891187&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

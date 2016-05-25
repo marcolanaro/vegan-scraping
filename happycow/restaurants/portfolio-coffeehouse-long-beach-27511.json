@@ -1,0 +1,20 @@
+{
+  "title": "Portfolio Coffeehouse",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A coffee shop in the heart of Long Beach's Retro Row offering a few vegetarian and vegan sandwich and salad options in addition to coffee, tea, and juice. They carry soy milk and often carry vegan muffins and sweet breads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2300 E 4th St",
+  "postalCode": "90814",
+  "phone": "tel:562-434-2486",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/portfoliocoffeehouse",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.764061,-118.164377&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.764061,-118.164377&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

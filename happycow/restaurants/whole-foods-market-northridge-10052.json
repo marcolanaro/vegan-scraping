@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Stocks fresh fruits and vegetables including organic, vitamins and supplements, deli, body care products, bakery, grocery, and more.",
+  "streetAddress": "19340 Rinadli St",
+  "postalCode": "91326",
+  "phone": "tel:818-363-3933",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.275590,-118.555010&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.275590,-118.555010&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

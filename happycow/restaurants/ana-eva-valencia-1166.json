@@ -1,0 +1,17 @@
+{
+  "title": "Ana Eva",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Spanish\n                                    ",
+  "description": "Restaurante vegetariano since 1982. Offers local cuisine with seating inside and in a covered patio. Near Quart Towers, metro Turia or Angel Gimera.",
+  "priceRange": "Expensive",
+  "streetAddress": "Calle Turia, 49",
+  "phone": "tel:963315369",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu 1:30pm-3:00pm, 9:00pm-11:00pm, Fri-Sun 1:30pm-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/rest.anaeva",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.476875,-0.385444&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.476875,-0.385444&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

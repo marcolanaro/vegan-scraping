@@ -1,0 +1,19 @@
+{
+  "title": "Gabriel's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Beer/Wine, Take-out, Fusion, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Reported offering vegan choices for breakfast, lunch, and dinner.",
+  "priceRange": "Moderate",
+  "streetAddress": "39A Commercial St",
+  "postalCode": "V9R 5G3",
+  "phone": "tel:250-714-0271",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/Gabrielscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.165068,-123.937003&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.165068,-123.937003&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

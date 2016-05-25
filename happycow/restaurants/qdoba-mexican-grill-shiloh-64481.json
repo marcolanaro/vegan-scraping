@@ -1,0 +1,20 @@
+{
+  "title": "Qdoba Mexican Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Mexican, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of chain of fast food Mexican restaurants.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3210 Green Mount Crossing Dr",
+  "postalCode": "62269",
+  "phone": "tel:618-632-5231",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:30am-10:00pm, Fri-Sat 10:30am-11:00pm, Sun 10:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/qdoba",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.573231,-89.927514&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.573231,-89.927514&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

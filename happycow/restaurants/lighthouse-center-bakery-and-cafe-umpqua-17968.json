@@ -1,0 +1,19 @@
+{
+  "title": "Lighthouse Center Bakery and Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Organic, Take-out\n                                    ",
+  "description": "Bakery, cafe, and country store. Artisan bakery with wood-fired brick oven, mountain view, organic produce, bulk foods.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6461 Ft. McKay Rd",
+  "postalCode": "97486",
+  "phone": "tel:541-459-1799",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.367050,-123.460260&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.367050,-123.460260&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

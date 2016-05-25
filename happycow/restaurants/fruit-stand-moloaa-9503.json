@@ -1,0 +1,16 @@
+{
+  "title": "Fruit Stand",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A local fruits and fast food stand that serves veggie sandwiches, taroburger, salads, vegetarian sushi, smoothies, juices, coffees, local fruits, and snacks.",
+  "streetAddress": "Kuhio Hwy",
+  "postalCode": "96754",
+  "phone": "tel:808-822-1441",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 7:00am-5:00pm, Fri-Sat 7:00am-5:00pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.180010,-159.340380&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.180010,-159.340380&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

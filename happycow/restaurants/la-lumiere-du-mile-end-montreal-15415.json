@@ -1,0 +1,18 @@
+{
+  "title": "La Lumiere du Mile End",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Take-out\n                                    ",
+  "description": "A neighborhood place serving vegan burgers. Vegan brunch on the weekend. Interac Debit machine only but no Visa.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "214 Bernard",
+  "postalCode": "H2T 2K4",
+  "phone": "tel:514-658-4949",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:00am-8:00pm, Thu-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.524710,-73.604540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.524710,-73.604540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Bagel Central",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Kosher, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bagel sandwiches, baked goods, soups. Has tofu cream cheese option, hummus, vegan soup, home fries. Daily menu changes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "33 Central St",
+  "postalCode": "04401",
+  "phone": "tel:207-947-1654",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-6:00pm, Sat-Sun 6:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Bagel-Central/62890868641",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.802214,-68.771350&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.802214,-68.771350&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

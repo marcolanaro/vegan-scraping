@@ -1,0 +1,19 @@
+{
+  "title": "The Soup Peddler - Mary St",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Several outlets in Austin offering soups, sandwiches, smoothies, and juices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "501 Mary St W",
+  "postalCode": "78704",
+  "phone": "tel:512-447-7687",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-9:00pm, Sun 10:30am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/souppeddler",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.246202,-97.756150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.246202,-97.756150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

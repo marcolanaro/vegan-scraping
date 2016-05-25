@@ -1,0 +1,15 @@
+{
+  "title": "Brewed Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee shop with a food menu offering all-day breakfast, sandwiches and wraps. Vegan dishes are marked and include tofu scrambles and veggie sandwiches.",
+  "priceRange": "Moderate",
+  "streetAddress": "1208 E Brady St",
+  "postalCode": "53202",
+  "phone": "tel:414-276-2739",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:30am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.053085,-87.896400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.053085,-87.896400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

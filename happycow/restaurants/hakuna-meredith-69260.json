@@ -1,0 +1,17 @@
+{
+  "title": "Hakuna Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Organic, Beer/Wine, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small organic cafe using seasonal, whole foods ingredients. Menu is mostly vegetarian. Usually 1 of the handful of mains is vegan. Has vegan sides, and salads can be modified to be vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "48 Main St",
+  "postalCode": "03253",
+  "phone": "tel:603-530-1087",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 9:00am-2:00pm, Wed-Thu 9:00am-4:00pm, Fri-Sat 9:00am-7:00pm, Sun 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.653076,-71.499810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.653076,-71.499810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

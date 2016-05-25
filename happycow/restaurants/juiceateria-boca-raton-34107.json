@@ -1,0 +1,16 @@
+{
+  "title": "Juiceateria",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A fresh juice and smoothies bar that also offer acai bowls.",
+  "streetAddress": "179 SE Mizner Blvd",
+  "postalCode": "33432",
+  "phone": "tel:561-362-1661",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-7:00pm, Sat-Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/juiceateriabocaraton",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.348301,-80.083712&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.348301,-80.083712&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

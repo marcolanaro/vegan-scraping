@@ -1,0 +1,19 @@
+{
+  "title": "Ami",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Japanese, Take-out, Asian, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A few vegan sushi choices. Has bibimbap (Korean dish with rice and vegetable) with tofu, just be sure to skip the egg if you're vegan. Monday night 30% off bibimbap.",
+  "priceRange": "Moderate",
+  "streetAddress": "1500 E 3rd St",
+  "postalCode": "47401",
+  "phone": "tel:812-339-7868",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.164061,-86.515059&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.164061,-86.515059&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Health Hut",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food store stocks herbs, health foods, aromatherapy, supplements, and homeopathics.",
+  "streetAddress": "1772 E Highway 50",
+  "postalCode": "34714",
+  "phone": "tel:352-241-8513",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.546880,-81.739800&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.546880,-81.739800&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

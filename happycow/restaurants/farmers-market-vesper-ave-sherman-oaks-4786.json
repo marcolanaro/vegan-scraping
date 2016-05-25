@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market - Vesper Ave",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Farmer's market, organic produce.",
+  "streetAddress": "Vesper Ave",
+  "postalCode": "91403",
+  "phone": "tel:818-771-5667",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.151870,-118.451090&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.151870,-118.451090&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

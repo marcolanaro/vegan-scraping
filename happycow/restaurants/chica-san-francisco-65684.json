@@ -1,0 +1,15 @@
+{
+  "title": "Chica",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Mexican, Fusion, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Takeaway window offering a small menu of breakfast and lunch items, including tortas, polenta/rice bowls, and soups, plus beverages. Has vegan options, marked.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "120 Green St",
+  "postalCode": "94111",
+  "phone": "tel:415-757-0510",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.800556,-122.401831&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.800556,-122.401831&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

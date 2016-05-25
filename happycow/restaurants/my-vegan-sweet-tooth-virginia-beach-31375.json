@@ -1,0 +1,14 @@
+{
+  "title": "My Vegan Sweet Tooth",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "In 2015 this vegan baking company established a brick-and-mortar location here. Offers a range of products from vegan donuts, cupcakes, muffins, and pies to raw sweets and seasonal baked goods. Accepts custom orders.",
+  "streetAddress": "3916 Virginia Beach Blvd",
+  "postalCode": "23452",
+  "phone": "tel:757-339-2794",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.840757,-76.110806&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.840757,-76.110806&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

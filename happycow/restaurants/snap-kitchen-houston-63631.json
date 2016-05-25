@@ -1,0 +1,18 @@
+{
+  "title": "Snap Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Texas chain eatery. Has cold-pressed juices, a couple labeled vegan meals.",
+  "priceRange": "Moderate",
+  "streetAddress": "5785 San Felipe St",
+  "postalCode": "77057",
+  "phone": "tel:713-781-4300",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-9:00pm, Fri 7:00am-8:00pm, Sat 9:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Snap-Kitchen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.749492,-95.478947&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.749492,-95.478947&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

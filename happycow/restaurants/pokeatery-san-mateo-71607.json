@@ -1,0 +1,19 @@
+{
+  "title": "Pokeatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Hawaiian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual eatery offering Hawaiian style fish bowls but has a veggie bowl with tofu which is priced lower. Could build-your-own bowl. Most of the ingredients (salads, sauces and toppings) are vegan with a few vegetarian and a few fish-based - ask the staff. Uses compostable packaging.",
+  "priceRange": "Moderate",
+  "streetAddress": "407 S B St",
+  "postalCode": "94401",
+  "phone": "tel:650-389-2672",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-8:00pm, Fri-Sat 11:30am-9:00pm, Sun 11:30am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pokeatery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.564670,-122.321174&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.564670,-122.321174&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Dosai Place",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Buffet, Take-out, Catering, Indo-Chinese\n                                    ",
+  "description": "Casual Indian restaurant. Offers a daily lunch buffet, and Thursday is dosa night. Vegans to ask which dishes are made without dairy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "440 US Highway 130 Ste 10",
+  "postalCode": "08520",
+  "phone": "tel:877-252-3672",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-3:00pm, 5:30pm-10:00pm, Sat 11:30am-10:30pm, Sun 11:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.272476,-74.540901&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.272476,-74.540901&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

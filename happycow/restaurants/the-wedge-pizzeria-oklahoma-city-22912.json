@@ -1,0 +1,20 @@
+{
+  "title": "The Wedge Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria with 2 locations. This downtown one can make a pizza or the wedge bread with vegan crust and vegan cheese. Fun atmosphere, large portions. Has salads and will make a vegan antipasto platter. Has a vegan sorbet.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "230 NE 1st St",
+  "postalCode": "73104",
+  "phone": "tel:405-270-0660",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm, Mon-Thu 5:00pm-10:00pm, Fri 5:00pm-11:00pm, Sat 12:00pm-11:00pm, Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/WedgePizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.468483,-97.507990&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.468483,-97.507990&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

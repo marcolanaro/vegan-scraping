@@ -1,0 +1,19 @@
+{
+  "title": "York Street Noodle House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese noodle / ramen restaurant on 2 floors. Primarily meat-based but has a vegetable dumplings noodle soup, a tofu noodle soup, and soup-less noodle, side steamed or fried veggie dumplings.",
+  "priceRange": "Moderate",
+  "streetAddress": "166 York St",
+  "postalCode": "06511",
+  "phone": "tel:203-776-9675",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-10:00pm, Fri-Sat 11:30am-11:00pm, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/York-St-Noodle-House/116319701729690",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.308112,-72.932236&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.308112,-72.932236&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

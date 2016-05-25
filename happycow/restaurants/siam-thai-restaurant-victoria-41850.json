@@ -1,0 +1,15 @@
+{
+  "title": "Siam Thai Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a selection of vegetarian dishes such as noodles, curries, and stir-fry, some of which are vegan or can be made vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "512 Fort St",
+  "postalCode": "V8W 1E6",
+  "phone": "tel:250-383-9911",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:30am-2:00pm, 4:30pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.425124,-123.368983&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.425124,-123.368983&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

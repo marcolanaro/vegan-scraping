@@ -1,0 +1,19 @@
+{
+  "title": "Fresco",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria & pastaria in midtown business district. Makes pizza, pasta, calzones, salads. Vegan choices include a marinara sauce and a vegan mozzarella cheese - ask for them.",
+  "priceRange": "Moderate",
+  "streetAddress": "3011 E Speedway",
+  "postalCode": "85716",
+  "phone": "tel:520-881-5555",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-11:00pm, Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/frescopronto",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.236132,-110.927749&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.236132,-110.927749&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Flower City Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Typical Chinese-American cuisine with several dishes that can be prepared vegan. Try the walnut tofu, mixed vegetables, Szechuan vegetables, almond chow yuk, veg tofu, bean sprout chop suey, or stir friend green beans.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5785 N Palm Ave",
+  "postalCode": "93704",
+  "phone": "tel:%20559-432-2030",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat 12:00pm-9:00pm, Sun 4:30pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.822582,-119.809310&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.822582,-119.809310&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

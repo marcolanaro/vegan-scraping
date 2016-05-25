@@ -1,0 +1,15 @@
+{
+  "title": "Cafe DiCocoa and Market",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery\n                                    ",
+  "description": "Marketplace, bakery, and dining. Food is ovo-lacto vegetarian. Sunday brunch menu from 9am.",
+  "priceRange": "Moderate",
+  "streetAddress": "119-125 Main St",
+  "postalCode": "04217",
+  "phone": "tel:207-824-5282/,%20207-824-6386",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu 7:00am-4:00pm, Fri-Sat 7:00am-5:00pm, Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.488330,-70.772060&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.488330,-70.772060&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

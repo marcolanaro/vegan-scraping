@@ -1,0 +1,20 @@
+{
+  "title": "Wild Bean Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Western, Fast food, Juice bar, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe inside Cairns Botanic Gardens. Offers vegetarian choices, sometimes a vegan soup, and has fresh juices.",
+  "priceRange": "Moderate",
+  "streetAddress": "64 Collins Ave",
+  "postalCode": "4870",
+  "phone": "tel:740534311",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/wildbeancairns",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-16.898931,145.750323&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-16.898931,145.750323&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

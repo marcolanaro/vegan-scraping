@@ -1,0 +1,18 @@
+{
+  "title": "Blackbird Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery offering some vegan items such as the vegan chocolate applesauce cake, whole wheat bread loaf. Usually 2 soups daily, one vegetarian and one vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "210 Winslow Way E",
+  "postalCode": "98110",
+  "phone": "tel:206-780-1322",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.624900,-122.519530&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.624900,-122.519530&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

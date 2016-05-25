@@ -1,0 +1,14 @@
+{
+  "title": "Fiddleheads",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food market with a few locations. Has a juice bar inside.",
+  "streetAddress": "438 Highland Rd W",
+  "postalCode": "N2M 3C7",
+  "phone": "tel:519-749-8473",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-7:00pm, Thu-Fri 9:00am-8:00pm, Sat 9:00am-5:00pm, Sun 12:00pm-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/fiddleheadshealth",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.436625,-80.513181&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.436625,-80.513181&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

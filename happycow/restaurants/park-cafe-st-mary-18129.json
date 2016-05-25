@@ -1,0 +1,17 @@
+{
+  "title": "Park Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Busy little place that offers around 6 veg choices including a pesto tofu sandwich, veggie burrito, veggie omelet. Quaint atmosphere. Open seasonally, May 25 - Sept 20, 7am-10pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "3147 Highway 89",
+  "postalCode": "59417",
+  "phone": "tel:406-732-9300",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=48.738502,-113.425671&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C48.738502,-113.425671&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

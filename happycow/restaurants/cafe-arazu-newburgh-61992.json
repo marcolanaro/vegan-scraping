@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Arazu",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Beer/Wine, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American-Mediterranean cuisine restaurant on the riverfront. Offers a falafel platter, hummus platter, some veggie sides, plus soups and salads, falafel burger/wrap. Vegans be sure to request no cheese or yogurt.",
+  "priceRange": "Moderate",
+  "streetAddress": "17 W Jennings St",
+  "postalCode": "47630",
+  "phone": "tel:812-842-2200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeArazu",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.944481,-87.405847&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.944481,-87.405847&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

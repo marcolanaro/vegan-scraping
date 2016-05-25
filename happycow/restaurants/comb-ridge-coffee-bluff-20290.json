@@ -1,0 +1,20 @@
+{
+  "title": "Comb Ridge Coffee",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Beer/Wine\n                                    ",
+  "description": "Cafe serving European style espresso and coffee drinks. Has a small food menu. Location is 45 minutes from Monument Valley.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "680 S Highway 191",
+  "postalCode": "84512",
+  "phone": "tel:435-672-9931",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 7:00am-4:00pm, Thu-Sat 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CombRidgeCoffee",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.178642,-109.586454&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.178642,-109.586454&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

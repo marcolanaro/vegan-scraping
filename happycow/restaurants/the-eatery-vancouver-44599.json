@@ -1,0 +1,19 @@
+{
+  "title": "The Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Japanese, Beer/Wine, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Trendy sushi and Japanese food restaurant operating since 2011. Menu includes a section of veggie rolls with around 19 choices - vegans be sure to specify no mayonaise/egg. Note that tempura contains egg and is fried in same oil as meat. Mar 2014 reported kitchen sloppy about veg orders, so be specific!",
+  "priceRange": "Moderate",
+  "streetAddress": "3431 W Broadway",
+  "postalCode": "V6R 2B4",
+  "phone": "tel:604-738-5298",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 4:30pm-11:30pm, Fri 3:30pm-12:00am, Sat 12:00pm-12:00am, Sun 12:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/eaterysushi",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.264301,-123.180626&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.264301,-123.180626&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

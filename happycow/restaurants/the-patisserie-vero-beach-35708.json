@@ -1,0 +1,15 @@
+{
+  "title": "The Patisserie",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Bakery, French, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. French-inspired artisan bakery that offers at least one daily vegetarian lunch choice.",
+  "priceRange": "Moderate",
+  "streetAddress": "1910 Old Dixie Highway",
+  "phone": "tel:772-770-4122",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-5:00pm, Sat 7:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/ThePatisserie",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.636301,-80.398132&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.636301,-80.398132&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

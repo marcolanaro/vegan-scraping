@@ -1,0 +1,18 @@
+{
+  "title": "Pizza Palace",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Italian, Salad bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan cheese for pizza. Note the gluten-free crust is not vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "316 E Central Ave",
+  "postalCode": "49701",
+  "phone": "tel:231-436-5462",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.781230,-84.726411&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.781230,-84.726411&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

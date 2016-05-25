@@ -1,0 +1,19 @@
+{
+  "title": "Afternoon Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Beer/Wine, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Choices for veg diners are tempeh, tofu, falafel, salads, house-made nut/quinoa burgers. Gluten free breads are available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "101 W McKnight Way Unit D",
+  "postalCode": "95949",
+  "phone": "tel:530-273-6066",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-4:30pm, Sat 11:00am-3:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.198625,-121.058958&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.198625,-121.058958&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

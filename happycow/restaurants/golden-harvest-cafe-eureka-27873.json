@@ -1,0 +1,17 @@
+{
+  "title": "Golden  Harvest Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast, lunch, and dinner cafe. No vegan food but has one veggie sandwich - vegans ask to omit cheese & mayonaise.",
+  "priceRange": "Moderate",
+  "streetAddress": "1707 W Allard Ave",
+  "postalCode": "95503",
+  "phone": "tel:707-442-1610",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:00am-3:00pm, Sat-Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.773138,-124.191236&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.773138,-124.191236&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Foxy Loxy",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local coffee shop offering some food and baked goods. Sometimes has vegan cookies and brownies. Brunch on Sunday includes a tofu scramble. Offers soy milk and almond milk for coffee drinks. Casual atmosphere with 2 floors.",
+  "priceRange": "Moderate",
+  "streetAddress": "1919 Bull St",
+  "postalCode": "31401",
+  "phone": "tel:912-401-0543",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-11:00pm, Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.058433,-81.100087&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.058433,-81.100087&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Blaze Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Assembly line style franchise pizzeria. Could build your own pizza with various veggies, then choose marinara or hot red sauce or white sauce. Has vegan cheese.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "400 Balltown Rd",
+  "postalCode": "12304",
+  "phone": "tel:518-280-9490",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/BlazePizza?_rdr=p",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.771734,-73.892458&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.771734,-73.892458&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

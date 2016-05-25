@@ -1,0 +1,20 @@
+{
+  "title": "Mellow Mushroom",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of hippie themed pizzeria chain with choices for vegans and vegetarians, including tofu, tempeh, and fresh veggie toppings for pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "305 S Main St",
+  "postalCode": "29624",
+  "phone": "tel:864-642-6767",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/mellowmushroomHQ",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.501997,-82.649573&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.501997,-82.649573&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

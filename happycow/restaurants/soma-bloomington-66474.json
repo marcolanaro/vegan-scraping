@@ -1,0 +1,19 @@
+{
+  "title": "Soma",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Juice bar, Bakery\n                                    ",
+  "description": "Same as Soma downtown, with limited Laughing Planet food menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1400 E 3rd St",
+  "postalCode": "47401",
+  "phone": "tel:812-333-7334",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-9:00pm, Sat-Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.163888,-86.516002&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.163888,-86.516002&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

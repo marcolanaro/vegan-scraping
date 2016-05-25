@@ -1,0 +1,19 @@
+{
+  "title": "Berry Fresh Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Organic, Juice bar, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Makes berry smoothies, veggie smoothies, acai bowls, and panini sandwiches, and soups. All veg except for crab salad.",
+  "priceRange": "Moderate",
+  "streetAddress": "300 W State St",
+  "postalCode": "19063",
+  "phone": "tel:610-892-3779",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.918284,-75.393513&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.918284,-75.393513&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

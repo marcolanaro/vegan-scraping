@@ -1,0 +1,17 @@
+{
+  "title": "The Orchard",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, International, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. The meats offered are poultry and fish/seafood. Veg suitable dishes include stir-frys with vegetables and optional tofu, veg sandwiches (ask to hold mayo and cheese), and soups. Food and dressings are made in-house.",
+  "priceRange": "Moderate",
+  "streetAddress": "45 N Market St",
+  "postalCode": "21701",
+  "phone": "tel:301-663-4912",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.415500,-77.410810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.415500,-77.410810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

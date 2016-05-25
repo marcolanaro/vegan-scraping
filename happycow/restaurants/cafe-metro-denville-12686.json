@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Metro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, International, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe menu consists of mostly vegetarian food, with the exception of a few chicken and fish items. Has vegan options including vegan cheese and carrot cake. Also macrobiotic food options.",
+  "priceRange": "Moderate",
+  "streetAddress": "60 Diamond Spring Rd",
+  "postalCode": "07834",
+  "phone": "tel:973-625-1055",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.893740,-74.476240&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.893740,-74.476240&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

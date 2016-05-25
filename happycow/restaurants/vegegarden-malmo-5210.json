@@ -1,0 +1,17 @@
+{
+  "title": "Vegegarden",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Buffet, Take-out, Asian\n                                    ",
+  "description": "Vegegården is reported all vegan as of Aug 2010. Lunch time buffet is a good value.",
+  "priceRange": "Moderate",
+  "streetAddress": "Stora Nygatan 18, Rorsjog 23, Skane",
+  "postalCode": "21137",
+  "phone": "tel:040-6113888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-3:00pm, Sat-Sun 1:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.604180,13.008250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.604180,13.008250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Este Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Beer/Wine, Delivery, Take-out, Pizzeria , Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. New York style pizzeria. Several menu items are marked vegan and a few others can be made vegan. Makes its sauces and has vegan \"meats,\" including a vegan buffalo wings with ranch sauce.",
+  "priceRange": "Moderate",
+  "streetAddress": "1781 Sidewinder Dr",
+  "postalCode": "84060",
+  "phone": "tel:435-731-8970",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri 11:00am-10:00pm, Sat 12:00pm-10:00pm, Sun 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/estepizzaparkcity",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.662981,-111.498173&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.662981,-111.498173&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

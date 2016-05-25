@@ -1,0 +1,15 @@
+{
+  "title": "Sprouts Farmers Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of a market chain that stocks both conventional foodstuff as well as natural and healthier food products.",
+  "streetAddress": "9861 Adams Ave",
+  "postalCode": "92646",
+  "phone": "tel:714-369-1139",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.672444,-117.955674&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.672444,-117.955674&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

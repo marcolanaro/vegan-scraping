@@ -1,0 +1,16 @@
+{
+  "title": "Frubar Juicery",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Juice bar, Take-out\n                                    ",
+  "description": "Juice and smoothie bar also offering snacks, soup, prepared & packaged salads. Juice is cold pressed.",
+  "priceRange": "Moderate",
+  "streetAddress": "82 Cedar St",
+  "postalCode": "P3E 1A5",
+  "phone": "tel:705-586-0586",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:30am-5:30pm, Sat 9:30am-4:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/frubarjuicery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.492261,-80.993815&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.492261,-80.993815&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

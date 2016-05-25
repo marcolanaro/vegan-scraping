@@ -1,0 +1,14 @@
+{
+  "title": "Local Foods Mart",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Grocery store that features products sourced from local farms and producers located mainly from within 100 miles.",
+  "streetAddress": "123 Dunlop St E",
+  "postalCode": "L4M 1A6",
+  "phone": "tel:705-812-2469",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-6:00pm, Fri 8:00am-9:00pm, Sat 8:00am-6:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/localfoodsmart",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.389197,-79.686362&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.389197,-79.686362&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

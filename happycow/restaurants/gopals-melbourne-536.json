@@ -1,0 +1,15 @@
+{
+  "title": "Gopal's",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, International\n                                    ",
+  "description": "Casual atmosphere Hare Krishna -run eatery. Menu items sometimes include lasagna, spinach filos, samosas, salad and dessert bar, soups, and pasta.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "139 Swanston St",
+  "postalCode": "VIC 3000",
+  "phone": "tel:03-96501578",
+  "venueHours": "\n                                                                                                        Mon-Sat 11:30am-8:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.814420,144.965760&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.814420,144.965760&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

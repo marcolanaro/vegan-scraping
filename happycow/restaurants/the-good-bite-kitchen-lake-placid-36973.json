@@ -1,0 +1,18 @@
+{
+  "title": "The Good Bite Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Take-out\n                                    ",
+  "description": "Opened summer 2012, this restaurant serves vegetarian fare in a casual atmosphere with counter seating. The lunch menu is seasonal and typically include dips with pita, soups and stews, salads, hand pies, quiche, and a selection of baked goods. Beverages include house-made soda and fresh brewed iced tea. Brunch on Sunday.",
+  "priceRange": "Moderate",
+  "streetAddress": "2502 Main St Ste 1",
+  "postalCode": "12946",
+  "phone": "tel:518-637-2860",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:00am-5:00pm, Sun 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.288073,-73.985054&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.288073,-73.985054&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

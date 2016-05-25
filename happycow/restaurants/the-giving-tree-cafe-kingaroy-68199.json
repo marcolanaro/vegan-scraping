@@ -1,0 +1,19 @@
+{
+  "title": "The Giving Tree Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Raw, Western, Salad bar, Juice bar, Bakery\n                                    ",
+  "description": "An all-vegan cafe serves freshly made-in-house salads, burgers, smoothies and juices, in addition to unique cakes and sweets. Menu changes often. Owned by two vegans. Relaxed funky atmosphere.\r\n",
+  "priceRange": "Inexpensive",
+  "streetAddress": "194 Kingaroy St",
+  "postalCode": "4610",
+  "phone": "tel:0401-212280",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-4:00pm, Tue-Thu 9:00am-4:00pm, Fri 9:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/The-Giving-Tree-Cafe-311884348947585",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.540870,151.839319&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.540870,151.839319&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

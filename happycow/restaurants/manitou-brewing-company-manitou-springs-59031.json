@@ -1,0 +1,20 @@
+{
+  "title": "Manitou Brewing Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu has a veggie burger (patty is vegan), veggi pita, hummus plate, and the veggi tacos can be requested vegan. Even drinks menu offers gluten-free beer and drinks.",
+  "priceRange": "Moderate",
+  "streetAddress": "725 Manitou Ave",
+  "postalCode": "80829",
+  "phone": "tel:719-282-7709",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 12:00pm-9:00pm, Fri 12:00pm-11:00pm, Sat 11:00am-11:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ManitouBrewingCompany",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.857144,-104.915668&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.857144,-104.915668&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

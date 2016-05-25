@@ -1,0 +1,19 @@
+{
+  "title": "Farmer and Cook Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Buffet, Salad bar, Take-out, Mexican, Bakery\n                                    ",
+  "description": "Vegetarian cafe and market with organic menu. Order at the counter and food is brought to your table. The day starts with muffins, scones, and breakfast scrambles (ovo, lacto - vegans must specify). At 11am the offerings are a salad bar with veggies grown organically on the cafe's own farm, two soups (one is vegan), grain and seed bread, and a menu with meals inspired by Mexican street food. Packaging used is compostable corn plastic, and the kitchen food scraps go back to the farm.",
+  "priceRange": "Moderate",
+  "streetAddress": "339 W El Roblar St",
+  "postalCode": "93023",
+  "phone": "tel:805-640-9608",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.449010,-119.278510&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.449010,-119.278510&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

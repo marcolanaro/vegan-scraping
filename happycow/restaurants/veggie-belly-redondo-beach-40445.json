@@ -1,0 +1,13 @@
+{
+  "title": "Veggie Belly",
+  "tags": [
+    "Veg Catering",
+    "Vegan"
+  ],
+  "description": "Vegan food vendor offering tacos, enchiladas, tamales, quesadilla, and burritos. Operates a booth at the Friday Riviera Farmers Market 3-7pm.",
+  "streetAddress": "area markets",
+  "postalCode": "90277",
+  "phone": "tel:310-892-8884",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.788283,-118.348819&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.788283,-118.348819&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

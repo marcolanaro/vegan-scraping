@@ -1,0 +1,17 @@
+{
+  "title": "Caffi Sam",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Bakery\n                                    ",
+  "description": "Vegan bakery items, vegetarian pies and pasties plus a good selection of salads. Snowdonia National Park.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "High Street",
+  "postalCode": "LL55 4",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=53.121040,-4.127067&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C53.121040,-4.127067&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

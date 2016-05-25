@@ -1,0 +1,16 @@
+{
+  "title": "Sprouts Farmers Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of a market chain that stocks both conventional foodstuff as well as natural and healthier food and products.",
+  "streetAddress": "24 E 2nd St",
+  "postalCode": "73034",
+  "phone": "tel:405-341-5727",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SproutsFarmersMarket",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.652763,-97.480439&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.652763,-97.480439&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

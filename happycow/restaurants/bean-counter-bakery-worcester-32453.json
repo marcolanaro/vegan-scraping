@@ -1,0 +1,13 @@
+{
+  "title": "Bean Counter Bakery",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery with a few locations in the area, see website. Makes gluten-free as well as vegan cupcakes and cookies each day, in addition to special ordering.",
+  "streetAddress": "113 Highland St",
+  "postalCode": "01609",
+  "phone": "tel:508-754-3125",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:30am-10:00pm, Sat-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.270982,-71.807058&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.270982,-71.807058&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

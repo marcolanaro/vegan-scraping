@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Wylde",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Juice bar, Take-out, Fusion\n                                    ",
+  "description": "Est. spring 2016 serving vegan food, juices, and herbal elixirs. Everything is vegan except for honey in a couple drinks. The owners previously operated Ringing Cedar Tea Tavern in Lake Stevens (now closed).",
+  "priceRange": "Moderate",
+  "streetAddress": "2918 Hoyt Ave Ste",
+  "postalCode": "98201",
+  "phone": "tel:425-374-3877",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 8:00am-3:00pm, 5:00pm-8:00pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.978581,-122.210427&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.978581,-122.210427&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

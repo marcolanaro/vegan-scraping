@@ -1,0 +1,15 @@
+{
+  "title": "Rainbow Bakery",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "All vegan bakery, opened in Aug 2013. Offers both sweet and savory baked treats: cakes, donuts, and more.",
+  "streetAddress": "201 S Rogers St",
+  "postalCode": "47404",
+  "phone": "tel:812-822-3741",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-5:00pm, Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/rainbowbakerybloomington",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.165613,-86.538678&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.165613,-86.538678&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

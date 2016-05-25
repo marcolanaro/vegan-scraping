@@ -1,0 +1,18 @@
+{
+  "title": "Bangkok Taste",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai food restaurant. Choice of tofu instead of meat in dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "674 Baldwin St",
+  "postalCode": "49428",
+  "phone": "tel:616-667-8901",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.907180,-85.798230&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.907180,-85.798230&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

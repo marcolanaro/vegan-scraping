@@ -1,0 +1,19 @@
+{
+  "title": "Abstractions",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Mediterranean, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bistro offering an abundance of veg-friendly items, as denoted by an asterisk on the menu. Some can be made vegan by omitting dairy - for instance veggie chili without sour cream, hummus platter, baba ghannouj, and bean burrito.",
+  "priceRange": "Moderate",
+  "streetAddress": "2161 Rose St",
+  "postalCode": "S4P2A5",
+  "phone": "tel:306-352-5374",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/abstractionscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=50.444268,-104.607924&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C50.444268,-104.607924&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

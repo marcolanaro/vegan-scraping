@@ -1,0 +1,19 @@
+{
+  "title": "Ford Food & Drink",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Beer/Wine, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Industrial-chic cafe serving homestyle fare, with marked vegan options. Sandwiches, soups, salads, muesli; has vegan butter, pastries, non-dairy milks.",
+  "priceRange": "Moderate",
+  "streetAddress": "2505 SE 11th Ave Ste 101",
+  "postalCode": "97202",
+  "phone": "tel:503-236-3023",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:00am-7:00pm, Tue-Fri 7:00am-10:00pm, Sat 9:00am-10:00pm, Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/fordfoodanddrink",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.504748,-122.654923&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.504748,-122.654923&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

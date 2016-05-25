@@ -1,0 +1,19 @@
+{
+  "title": "The Musical Forest Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Macrobiotic, Organic, Juice bar, Take-out\n                                    ",
+  "description": "Small cafe located inside The Music Center of North Haven. Offers vegan and vegetarian food and live local entertainment. All foods and desserts are made from scratch using local grown produce and ingredients. Rotating dinner specials. Casual with free Wi-Fi and parking.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "473 Washington Ave",
+  "postalCode": "06473",
+  "phone": "tel:203-234-8865x4",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 12:00pm-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.412830,-72.841552&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.412830,-72.841552&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

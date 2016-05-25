@@ -1,0 +1,16 @@
+{
+  "title": "Rainbow Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Carries supplements, all natural foods, books, oils and other health products. Offers free health magazines, literature, samples and has many resource books for customer's information. Shipping available.",
+  "streetAddress": "151 W US Hwy 24",
+  "postalCode": "64050",
+  "phone": "tel:816-836-5757",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.101077,-94.416295&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.101077,-94.416295&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

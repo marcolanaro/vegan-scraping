@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market - Westfield Mall",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers' market.",
+  "streetAddress": "112 Plaza Dr",
+  "postalCode": "91790",
+  "phone": "tel:714-323-8056",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.085687,-117.934151&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.085687,-117.934151&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

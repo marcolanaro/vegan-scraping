@@ -1,0 +1,18 @@
+{
+  "title": "ParkGrounds",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small cafe that offers a wide variety of vegan and vegetarian options including a vegan breakfast burrito, vegan pancakes, and tofu breakfast sandwiches. Also has many coffee options with soy milk. Wi-Fi. Attached dog park.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "142 Flat Shoals Ave SE",
+  "postalCode": "30316",
+  "phone": "tel:678-528-9901",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-9:00pm, Sat-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.750072,-84.354583&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.750072,-84.354583&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

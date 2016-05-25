@@ -1,0 +1,19 @@
+{
+  "title": "Enoteca",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tapas, wine and drinks place. Could request to omit cheese on the vegetarian items.",
+  "priceRange": "Moderate",
+  "streetAddress": "191 Jefferson St",
+  "postalCode": "40508",
+  "phone": "tel:859-687-0346",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 4:00pm-10:00pm, Tue-Sat 4:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/enotecalexington",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.053531,-84.500669&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.053531,-84.500669&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Vida De Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Take-out, All Raw\n                                    ",
+  "description": "Vegan restaurant on the beach featuring a mostly raw food menu in a addition to smoothies, fresh juices, cold and warm beverages. 2016 no longer offering brunch menu or pancakes.",
+  "priceRange": "Expensive",
+  "streetAddress": "120 8th Ave",
+  "postalCode": "33706",
+  "phone": "tel:727-289-7164",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-7:00pm, Tue 11:00am-2:00pm, Wed-Thu 11:00am-8:00pm, Fri-Sat 11:00am-9:00pm, Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=27.688019,-82.737343&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C27.688019,-82.737343&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

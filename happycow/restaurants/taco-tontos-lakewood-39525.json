@@ -1,0 +1,19 @@
+{
+  "title": "Taco Tontos",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Beer/Wine, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tacos, burritos, tostadas, plus craft beers. Has sweet potato and rice and beans fillings. Vegans need to specify no cheese or sour cream. Has Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "13321 Madison Ave",
+  "postalCode": "44107",
+  "phone": "tel:216-221-4479",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tacotontos",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.476723,-81.782459&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.476723,-81.782459&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The Wild Bean",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Take-out\n                                    ",
+  "description": "Espresso bar, coffee, teas, smoothies, pastries, soups, salads and sandwiches. Uses organic and natural ingredients.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "119 E Washington St",
+  "postalCode": "24901",
+  "phone": "tel:304-645-3738",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:30am-5:00pm, Sat 7:30am-5:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Wild-Bean/165526262082",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.801860,-80.445400&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.801860,-80.445400&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

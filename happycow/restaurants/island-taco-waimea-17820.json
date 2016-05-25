@@ -1,0 +1,19 @@
+{
+  "title": "Island Taco",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual atmosphere. Has veg burritos, chimis, and tacos with these three options: bean and cheese, shoyu curry tofu, and cilantro lime tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "9643 Kaumualii Hwy",
+  "postalCode": "96796",
+  "phone": "tel:808-338-9895",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=21.960150,-159.676170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C21.960150,-159.676170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

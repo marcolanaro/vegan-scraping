@@ -1,0 +1,17 @@
+{
+  "title": "Bake",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Plant-based bakery stand at the market on Fridays. Specializing in hand made yeast raised doughnuts.",
+  "streetAddress": "Boundary Street Market, West End",
+  "postalCode": "4101",
+  "phone": "tel:n/a",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Fri 4:00pm-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/bakeplantbased",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.476705,153.012681&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.476705,153.012681&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

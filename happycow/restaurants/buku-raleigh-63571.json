@@ -1,0 +1,20 @@
+{
+  "title": "Buku Raleigh",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        International, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located downtown featuring international street food. Has an extensive menu, of which some are vegan. Several other items can be made vegan by adding tofu, tempeh, or vegetables. ",
+  "priceRange": "Expensive",
+  "streetAddress": "110 E Davie St",
+  "postalCode": "27601",
+  "phone": "tel:919-834-6963",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-12:00am, Sun 10:00am-3:00pm, 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BukuRaleigh",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.775441,-78.638243&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.775441,-78.638243&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

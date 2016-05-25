@@ -1,0 +1,19 @@
+{
+  "title": "Grindcore House",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic\n                                    ",
+  "description": "Vegan coffeehouse in South Philly serving organic coffee, premium teas, pastries, sandwiches, and bagels. Free Wi-Fi. Features movie nights, book signings, and other events.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1515 S 4th St",
+  "postalCode": "19147",
+  "phone": "tel:215-839-3333",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:30am-8:00pm, Sat-Sun 8:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/GrindcoreHouse",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.929097,-75.151940&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.929097,-75.151940&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

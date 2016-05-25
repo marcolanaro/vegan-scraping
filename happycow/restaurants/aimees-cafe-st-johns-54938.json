@@ -1,0 +1,14 @@
+{
+  "title": "Aimee's Cafe",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "A home kitchen that does vegetarian and vegan catering, workshops, and fundraising dinners. Part of proceeds are donated to the local SPCA.",
+  "streetAddress": "Newfoundland Dr",
+  "phone": "tel:709-743-8887",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Aimeesvegcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.610730,-52.704551&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.610730,-52.704551&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

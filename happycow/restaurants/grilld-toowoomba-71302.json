@@ -1,0 +1,19 @@
+{
+  "title": "Grill'd",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain of healthier burger restaurants. Menu shows 3 veggie burgers which are reported cooked separately from the meats: a falafel patty, a mushroom patty, and a vegetable patty. Vegans should specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "202/200 James St",
+  "postalCode": "4350",
+  "phone": "tel:07-46394799",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:30am-9:30pm, Fri-Sat 10:30am-10:00pm, Sun 10:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/GrilldBurgers",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.568250,151.945629&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.568250,151.945629&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

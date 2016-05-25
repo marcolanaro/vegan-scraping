@@ -1,0 +1,18 @@
+{
+  "title": "Caffe Coco",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Take-out, Hawaiian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small bistro-style outdoor cafe. Food can be made vegan upon request. Pasta bella (penne with gorgonzola cream sauce), tofu veggie peanut wrap, pastries, desserts. Honey is used as sweetener.",
+  "priceRange": "Moderate",
+  "streetAddress": "4-369 Kuhio Hwy",
+  "postalCode": "96746",
+  "phone": "tel:808-822-7990",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=22.052960,-159.332660&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C22.052960,-159.332660&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

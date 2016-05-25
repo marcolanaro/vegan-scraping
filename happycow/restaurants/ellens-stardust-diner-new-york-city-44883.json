@@ -1,0 +1,20 @@
+{
+  "title": "Ellen's Stardust Diner",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan choices such as shepherd's pie, pastas, salads, desserts. A fun retro 1950s theme diner filled with nostalgic memorabilia. Watch 1950s videos on authentic 1956 Predicta televisions and drive-in theatre screen. Unique diner also features a singing waitstaff and variety shows. Loud atmosphere due to singing and customers applauding. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "1650 Broadway",
+  "postalCode": "10019",
+  "phone": "tel:212-956-5151",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-12:00am, Fri-Sat 7:00am-1:00am, Sun 7:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/EllensStardustDiner",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.761894,-73.983495&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.761894,-73.983495&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

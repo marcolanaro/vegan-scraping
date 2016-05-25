@@ -1,0 +1,17 @@
+{
+  "title": "Bluegrass Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mostly a breakfast place, has biscuits and gravy, tofu hash, faux chorizo, and soymilk available for coffee. Open space with wood floors with brick walls.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "55 E Main St",
+  "postalCode": "37408",
+  "phone": "tel:423-752-4020",
+  "venueHours": "\n                                                                                                        Tue-Fri 6:30am-2:00pm, Sat 6:30am-1:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.035600,-85.305900&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.035600,-85.305900&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Loka",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Italian, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Could get vegetarian, vegan, and gluten free. Free Wi-Fi. Weekday kitchen closes 4pm.",
+  "priceRange": "Moderate",
+  "streetAddress": "343 York St",
+  "postalCode": "E3B 3P5",
+  "phone": "tel:506-206-2239",
+  "venueHours": "\n                                                                                                        Mon-Wed 7:30am-5:00pm, Thu-Fri 7:30am-6:00pm, Sat 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafeloka",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.957617,-66.648030&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.957617,-66.648030&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

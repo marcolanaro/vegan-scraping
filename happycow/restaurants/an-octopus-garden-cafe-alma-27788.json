@@ -1,0 +1,17 @@
+{
+  "title": "An Octopus' Garden Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Italian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Uses local sources when possible. They grow their own organic fruits and vegetables. Vegan options for breakfast, lunch and dinner; please inquire. Free Wi-fi. Indoor playground for children. Local artist's work. Live music.",
+  "priceRange": "Moderate",
+  "streetAddress": "8561 Main St",
+  "phone": "tel:8871020",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.601886,-64.943158&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.601886,-64.943158&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

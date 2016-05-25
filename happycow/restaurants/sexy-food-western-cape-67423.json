@@ -1,0 +1,20 @@
+{
+  "title": "Sexy Food",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Buffet, Juice bar, Take-out\n                                    ",
+  "description": "Became all-vegetarian in 2015. Offers build-your-own bowl from buffet selection, or purchase from the in-house cultured probiotic range. Has smoothies. Sells jars of kimchi, sauerkraut, kefir, mixed sprouts, kombucha, and buchu water.",
+  "priceRange": "Moderate",
+  "streetAddress": "190 Bree St, Cape Town",
+  "postalCode": "8001",
+  "phone": "tel:0214225445",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-5:00pm, Sat 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SexyFoodSA",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.926300,18.412250&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.926300,18.412250&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

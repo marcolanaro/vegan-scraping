@@ -1,0 +1,18 @@
+{
+  "title": "Vn Noodle House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tell the owner, John, if you are vegan or vegetarian, and he will make sure your dish is veg.",
+  "priceRange": "Moderate",
+  "streetAddress": "2299-C Johns Hopkins Rd ",
+  "postalCode": "21054",
+  "phone": "tel:410-721-6619",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.028631,-76.684363&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.028631,-76.684363&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

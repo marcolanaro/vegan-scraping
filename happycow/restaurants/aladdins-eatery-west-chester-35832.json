@@ -1,0 +1,19 @@
+{
+  "title": "Aladdin's Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Juice bar, Beer/Wine, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan choices include lentil soup, veggie chili, v-9 vegetable soup, hummus, baba, tabouli, pita, falafel (not fried in oil with meat), grape leaves, mujadara, loubie plate and jasmine's favorite. There are also juices and fruit smoothies (w/out milk) and a jam cookie and blueberry bar (labeled vegan on the menu). ",
+  "priceRange": "Moderate",
+  "streetAddress": "9344 Union Centre Blvd",
+  "postalCode": "45069",
+  "phone": "tel:513-874-1302",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/AladdinsEatery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.324987,-84.429358&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.324987,-84.429358&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

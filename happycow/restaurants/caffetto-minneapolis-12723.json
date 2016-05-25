@@ -1,0 +1,17 @@
+{
+  "title": "Caffetto",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Busy coffee house with some vegan sandwiches, vegan soups, and vegan baked goods supplied by outside vendors. Free Wi-Fi acess.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "708 W 22nd St",
+  "postalCode": "55405",
+  "phone": "tel:612-874-0911",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.960930,-93.288110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.960930,-93.288110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

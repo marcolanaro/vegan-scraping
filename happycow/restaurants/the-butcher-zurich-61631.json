@@ -1,0 +1,19 @@
+{
+  "title": "The Butcher",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Western, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Burger place, has 3 vegetarian burgers which can also be ordered vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Stüssihofstatt 15",
+  "postalCode": "8001",
+  "phone": "tel:+41-432436143",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-11:00pm, Sun 4:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required"
+  ],
+  "fb": "http://www.facebook.com/thebutcherswitzerland",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.372431,8.543458&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.372431,8.543458&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

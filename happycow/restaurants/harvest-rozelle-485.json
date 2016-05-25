@@ -1,0 +1,16 @@
+{
+  "title": "Harvest",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Italian, Gourmet\n                                    ",
+  "description": "Vegetarian restaurant serving Italian style meals.",
+  "priceRange": "Expensive",
+  "streetAddress": "71 Evans Street",
+  "postalCode": "2039",
+  "phone": "tel:02-98184201",
+  "venueHours": "\n                                                                                                        Tue-Sat 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/HarvestVegetarianRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.861490,151.173810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.861490,151.173810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

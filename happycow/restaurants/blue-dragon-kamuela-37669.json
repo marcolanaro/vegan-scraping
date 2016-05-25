@@ -1,0 +1,19 @@
+{
+  "title": "Blue Dragon",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A family-friendly, open roof, nightclub and restaurant. Offers a few veg choices on menu and could be made vegan by omitting cheese. Ingredients are local and organic as much as possible.",
+  "priceRange": "Moderate",
+  "streetAddress": "61-3616 Kawaihae Rd",
+  "postalCode": "96743",
+  "phone": "tel:808-882-7771",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Sun 5:00pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=20.037162,-155.826771&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C20.037162,-155.826771&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

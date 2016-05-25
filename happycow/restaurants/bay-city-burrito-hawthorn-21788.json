@@ -1,0 +1,19 @@
+{
+  "title": "Bay City Burrito",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Delivery, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Formerly High Tech Burrito Australia, re-branded 2015 but still offers tofu. Mexican with Californian influence.",
+  "priceRange": "Moderate",
+  "streetAddress": "838 Glenferrie Rd",
+  "postalCode": "3122",
+  "phone": "tel:03-98181482",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-9:30pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.816332,145.036721&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.816332,145.036721&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

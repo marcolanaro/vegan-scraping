@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Scholl",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, European\n                                    ",
+  "description": "Vegetarian cafe with a quiet, green patio. Serves coffee, cakes, and light food like soup, salad, quiche. Uses egg and dairy but could request to substitute tofu for cheese in salad. And usually the day's soup is vegan, but do specify to be sure.",
+  "priceRange": "Moderate",
+  "streetAddress": "12 Carrer Victoria",
+  "postalCode": "07100",
+  "phone": "tel:971632398",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:30pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafeschollsoller",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.767412,2.715953&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.767412,2.715953&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "ModMarket",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Modern design chain eatery. On the menu are a few vegan suitable choices like a sesame tofu plate, pizza with daiya vegan cheese, and one soup.",
+  "priceRange": "Moderate",
+  "streetAddress": "14630 W Colfax Ave Ste 130",
+  "postalCode": "80401",
+  "phone": "tel:303-278-8283",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.732088,-105.163963&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.732088,-105.163963&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

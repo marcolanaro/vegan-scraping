@@ -1,0 +1,19 @@
+{
+  "title": "Mellow Mushroom",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Pizza, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of hippie-themed pizza chain. Has pizzas, calzones, hoagies, plus hummus and pita. Options for pizzas and calzones include tofu, tempeh, artichoke hearts, mushrooms, peppers, sundried tomatoes, and more. All pizzas can be made with vegan cheese. Many options for hoagies made with tofu and tempeh.",
+  "priceRange": "Moderate",
+  "streetAddress": "9238 Floer Dr",
+  "postalCode": "45069",
+  "phone": "tel:513-860-0888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-11:00pm, Fri-Sat 11:00am-1:00am, Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/mellowmushroomwestchester",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.323645,-84.430782&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.323645,-84.430782&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

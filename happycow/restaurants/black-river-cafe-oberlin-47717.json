@@ -1,0 +1,18 @@
+{
+  "title": "Black River Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local and sustainable foods. Vegan choices include pancakes for breakfast, tofu scramble, sandwiches, tempeh dishes, and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15 S Main St",
+  "postalCode": "44074",
+  "phone": "tel:440-775-3663",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-2:30pm, Tue-Thu 5:00pm-9:00pm, Fri-Sat 5:00pm-10:00pm, Sat-Sun 9:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/OberlinBlackRiverCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.291191,-82.217053&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.291191,-82.217053&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

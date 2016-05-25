@@ -1,0 +1,17 @@
+{
+  "title": "Aca Taco",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small college burrito shop, has a vegan suitable burrito/soft taco. The rice, black beans, and refried pinto beans are vegan suitable, but guacamole is not vegan. When unsure, ask.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "133 Broadway St",
+  "postalCode": "95928",
+  "phone": "tel:530-894-0191",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.730130,-121.841410&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.730130,-121.841410&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

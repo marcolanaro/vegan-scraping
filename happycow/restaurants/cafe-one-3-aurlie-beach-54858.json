@@ -1,0 +1,15 @@
+{
+  "title": "Cafe One 3",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Western, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Breakfast and lunch cafe offering modern cuisine with fresh salads, juices, smoothies, acai bowls, changing daily entrees. Menu is around 80% vegetarian.",
+  "priceRange": "Moderate",
+  "streetAddress": "13 Waterson Way",
+  "postalCode": "4802",
+  "phone": "tel:0419783313",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:30am-3:00pm, Sat 6:30am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-20.269854,148.715662&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-20.269854,148.715662&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Midsea Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Take-out, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Primarily take-out with a few seats. Lebanese food in downtown Fredericton. Veg choices are grape leaves, falafel, tabouleh, hummus and pita, and a few other salads.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "99 Regent St",
+  "postalCode": "E3B 3W4",
+  "phone": "tel:506-455-5556",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.960253,-66.639523&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.960253,-66.639523&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

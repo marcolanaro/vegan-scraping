@@ -1,0 +1,18 @@
+{
+  "title": "Southern Adventist University Cafeteria",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Salad bar, Cafeteria\n                                    ",
+  "description": "Cafeteria at Southern Adventist University is vegetarian and offers some vegan options. An average meal in the dining hall costs about $7.50 which consists of 1 entree, 1 vegetable, small salad, dessert and drink. Smoke free environment.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "4881 Taylor Circle",
+  "postalCode": "37315",
+  "phone": "tel:423-236-2777",
+  "venueHours": "\n                                                                                                        Mon-Thu 8:00am-5:30pm, Fri 8:00am-12:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.048250,-85.051095&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.048250,-85.051095&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

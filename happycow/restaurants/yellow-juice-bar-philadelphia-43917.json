@@ -1,0 +1,16 @@
+{
+  "title": "Yellow Juice Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A little juice bar that also offers a few salads and wraps and soups. Has Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2046 Sansom St",
+  "postalCode": "19103",
+  "phone": "tel:267-888-8368",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/YellowJuiceBar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.951341,-75.175062&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.951341,-75.175062&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

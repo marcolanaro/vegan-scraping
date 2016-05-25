@@ -1,0 +1,17 @@
+{
+  "title": "Jade Inn",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Chinese, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A Chinese food restaurant. While the menu is heavy on meat, it also offers tofu and vegetarian meats dishes (vege chicken, beef, and shrimp) in addition to vegetable dishes. Be sure to specify your special requests / if you are vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "7259 Boulder Ave",
+  "postalCode": "92346",
+  "phone": "tel:909-864-8888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.122004,-117.195376&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.122004,-117.195376&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

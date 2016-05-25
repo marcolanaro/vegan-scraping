@@ -1,0 +1,19 @@
+{
+  "title": "Canteen",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Organic, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "Offers a variety of smoothies and juices as well as fresh organic bowls and salads. Build-your-own bowl option. Local kombucha and beer on tap. Same owners as Sip juice cart.",
+  "priceRange": "Moderate",
+  "streetAddress": "2816 SE Stark St",
+  "postalCode": "97214",
+  "phone": "tel:503-964-0820",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/canteenpdx",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.519154,-122.636770&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.519154,-122.636770&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

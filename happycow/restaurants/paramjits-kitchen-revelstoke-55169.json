@@ -1,0 +1,16 @@
+{
+  "title": "Paramjit's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, International, Thai, Take-out, German, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small restaurant serving cuisines with international influences - from India, Thailand, German. Menu has a vegetarian section.",
+  "priceRange": "Moderate",
+  "streetAddress": "116 First St W",
+  "phone": "tel:250-837-2112",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.007842,-118.210504&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.007842,-118.210504&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

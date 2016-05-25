@@ -1,0 +1,18 @@
+{
+  "title": "DC Vegetarian - Food Cart",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Fast food, Take-out only\n                                    ",
+  "description": "Vegetarian food cart in downtown Portland serving sandwiches and drinks. Menu includes a house seitan steak and cheese, vegan Italian hoagie, vegan bacon cheeseburger, soup. Charges a fee for credit cards.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "430 SW 3rd Ave",
+  "postalCode": "97204",
+  "phone": "tel:503-317-4448",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 8:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/dcvegetarian",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.519900,-122.674620&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.519900,-122.674620&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

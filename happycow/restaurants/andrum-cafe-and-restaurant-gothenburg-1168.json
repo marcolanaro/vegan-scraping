@@ -1,0 +1,15 @@
+{
+  "title": "Andrum Cafe and Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Western, Buffet, Salad bar, Swedish\n                                    ",
+  "description": "Wide selection of vegan food, both from the salad buffet, and from the kitchen. Some desserts are also vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "Östra Hamngatan 19A",
+  "postalCode": "411 10",
+  "phone": "tel:031136240/,%20138504",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat-Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=57.708117,11.967068&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C57.708117,11.967068&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

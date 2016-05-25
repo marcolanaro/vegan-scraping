@@ -1,0 +1,16 @@
+{
+  "title": "Sprouts Farmers Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of market chain. Stocks both conventional as well as some natural and healthier food products. While majority of the bulk food bins and fresh fruits and vegetable are not organic, a small selection of organic products is available.",
+  "streetAddress": "5660 Sepulveda Blvd",
+  "postalCode": "90230",
+  "phone": "tel:310-591-1028",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.989372,-118.395331&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.989372,-118.395331&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

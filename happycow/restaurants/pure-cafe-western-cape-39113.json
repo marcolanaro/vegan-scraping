@@ -1,0 +1,20 @@
+{
+  "title": "Pure Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Italian, Organic, Western, Juice bar, Take-out\n                                    ",
+  "description": "Vegetarian restaurant with vegan options including soups, curry, burgers, salads, desserts. All fruit and vegetables are organic and locally grown. Cafe is part of the Greyton Transition Town Centre where environmentally friendly products are sold.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Greyt Oak Centre, Main Road, Unit 3, Greyton",
+  "postalCode": "7233",
+  "phone": "tel:0825587752",
+  "venueHours": "\n                                                                                                        Tue-Sun 8:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Pure-Cafe-Greyton/151405701700510",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-34.050000,19.616667&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-34.050000,19.616667&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

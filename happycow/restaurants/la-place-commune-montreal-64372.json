@@ -1,0 +1,19 @@
+{
+  "title": "La Place Commune",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Western\n                                    ",
+  "description": "Cafe, health food shop, and community organization. Serves soups, salads, sandwiches, wraps, teas and juices, organic fair-trade coffee. Brunch and live jazz on Saturday. Accepts debit cards.",
+  "priceRange": "Moderate",
+  "streetAddress": "7669 Querbes",
+  "postalCode": "H3N2B7",
+  "phone": "tel:438-385-7669",
+  "venueHours": "\n                                                                                                        Tue-Sat 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/laplacecommune",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.530253,-73.628899&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.530253,-73.628899&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

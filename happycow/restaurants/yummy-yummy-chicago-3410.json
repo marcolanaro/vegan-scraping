@@ -1,0 +1,17 @@
+{
+  "title": "Yummy Yummy",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A vegetarian friendly restaurant in Chicago. Has a smoothie bar and many mock meat dishes. Formerly Szechuan Garden.",
+  "priceRange": "Moderate",
+  "streetAddress": "2901 N Broadway",
+  "postalCode": "60657",
+  "phone": "tel:773-525-6677",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.935310,-87.644510&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.935310,-87.644510&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

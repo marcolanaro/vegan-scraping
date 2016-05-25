@@ -1,0 +1,19 @@
+{
+  "title": "The Pizza Garden",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, Organic, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This pizzeria offers a vegan pizza, has vegan cheese, a gluten-free crust. Toppings include organic and locally grown veggies plus fruit, olives, cashew, and roasted pine nuts. Has a vegan soup, organic garden salad, vegan organic beer. Salad dressing is made in-house. The outside deck overlooks the Nehalem river.",
+  "priceRange": "Moderate",
+  "streetAddress": "35815 Hwy 101 N",
+  "postalCode": "97131",
+  "phone": "tel:503-368-7675",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 3:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.716666,-123.894124&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.716666,-123.894124&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

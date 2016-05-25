@@ -1,0 +1,17 @@
+{
+  "title": "Vegan Pizza",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Pizza, Italian, Fast food, Delivery, Take-out\n                                    ",
+  "description": "The first vegan pizzeria in Orange County, this place offers pizza, salads, calzones, sandwiches, veggie dogs, and pasta.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "12022 Chapman Ave",
+  "postalCode": "92840",
+  "phone": "tel:714-750-8686",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.788652,-117.923125&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.788652,-117.923125&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

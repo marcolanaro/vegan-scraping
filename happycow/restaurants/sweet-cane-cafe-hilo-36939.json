@@ -1,0 +1,20 @@
+{
+  "title": "Sweet Cane Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Juice bar, Take-out, Hawaiian\n                                    ",
+  "description": "Relocated from 1472 Kilauea Ave. Offers organic sugarcane juice plus smoothies, sandwiches, wraps, acai bowls. Also sells pre-made items like cookies, kale chips, fruit leather, dried banana. Has a small produce stand and a fridge stocked with products like coconut cane pudding, coconut yogurt, probiotic sauerkraut, and juices.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "48 Kamana St",
+  "postalCode": "96720",
+  "phone": "tel:808-934-0002",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SweetCaneCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=19.710195,-155.078019&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C19.710195,-155.078019&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

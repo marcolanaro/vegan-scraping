@@ -1,0 +1,19 @@
+{
+  "title": "Pure Alchemy",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Raw, Juice bar, Take-out\n                                    ",
+  "description": "Opened Jun 2015 a juice bar serves fresh organic juices and smoothies as well as raw vegan desserts and chocolates. The only non-vegan item is honey.",
+  "priceRange": "Moderate",
+  "streetAddress": "236 N Colony Rd",
+  "postalCode": "06492",
+  "phone": "tel:203-265-5000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-6:00pm, Fri-Sat 9:00am-8:00pm, Sun 11:30am-4:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/purealchemycafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.460703,-72.821804&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.460703,-72.821804&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

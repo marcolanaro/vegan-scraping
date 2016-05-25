@@ -1,0 +1,18 @@
+{
+  "title": "Vegetarian House",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Chinese, International, Organic, Take-out, Bakery, Catering, Vietnamese\n                                    ",
+  "description": "Vegetarian restaurant established since 1994. Features a vegan food menu with an extensive selection of Asian and international cuisine prepared with organic ingredients. Large dining space.",
+  "priceRange": "Moderate",
+  "streetAddress": "520 E Santa Clara St",
+  "postalCode": "95112",
+  "phone": "tel:408-292-3798",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:00pm, 5:00pm-9:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "fb": "http://www.facebook.com/veghouse94",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.341347,-121.879048&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.341347,-121.879048&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

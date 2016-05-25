@@ -1,0 +1,16 @@
+{
+  "title": "Lucky's Market",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Non-veg\n                                    ",
+  "description": "Market offering natural food and products including vegan groceries and supplements, beauty products, plus coffee and on-tap kombucha bar.",
+  "streetAddress": "5501 Abercorn St",
+  "postalCode": "31405",
+  "phone": "tel:912-349-5369",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.026785,-81.109700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.026785,-81.109700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

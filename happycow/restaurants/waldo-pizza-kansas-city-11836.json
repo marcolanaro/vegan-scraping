@@ -1,0 +1,17 @@
+{
+  "title": "Waldo Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Beer/Wine, Delivery, Take-out, Pizzeria, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan cheese (Daiya) and veggie toppings for pizza, also a salad bar. Note the whole wheat crust is not vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "7433 Broadway",
+  "postalCode": "64114",
+  "phone": "tel:816-363-5242",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.993200,-94.593640&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.993200,-94.593640&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

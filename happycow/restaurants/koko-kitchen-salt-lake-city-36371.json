@@ -1,0 +1,17 @@
+{
+  "title": "Koko Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Japanese, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Quick sushi eatery with many vegan suitable choices not marked but visible on menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "702 S 300 E",
+  "postalCode": "84115",
+  "phone": "tel:801-364-4888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-2:30pm, Sat 11:30am-3:00pm, 5:30pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.753774,-111.882877&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.753774,-111.882877&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

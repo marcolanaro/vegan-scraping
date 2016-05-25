@@ -1,0 +1,19 @@
+{
+  "title": "Heartbeet Vegetarian Bistro",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Raw, Juice bar, Beer/Wine, Take-out, Canadian\n                                    ",
+  "description": "Small contemporary bistro with a relaxing atmosphere and an open kitchen. Sit at the bar and watch the chef prepare your dinner. Food is made-in-house. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "160b Howard St",
+  "postalCode": "V1A 2G6",
+  "phone": "tel:250-581-0366",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Wed 5:00pm-10:00pm, Thu 5:00pm-11:00pm, Fri-Sat 5:00pm-12:00am\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/heartbeetbistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.686811,-115.983512&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.686811,-115.983512&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

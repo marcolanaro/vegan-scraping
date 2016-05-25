@@ -1,0 +1,17 @@
+{
+  "title": "Bombay Chowpatty",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "Indian fast food with a large menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1386A Gerrard E",
+  "postalCode": "M4L 1Z3",
+  "phone": "tel:416-405-8080",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.671894,-79.324197&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.671894,-79.324197&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

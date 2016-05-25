@@ -1,0 +1,17 @@
+{
+  "title": "Scottish Bakehouse",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, International, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers many vegetarian choices including a quinoa burger, a portabello wrap, vegetable stir fry with tofu, spicy peanut noodles with tofu, coconut tofu, kale sweet potato mash with black beans, and vegan bakery items.",
+  "priceRange": "Moderate",
+  "streetAddress": "977 State Rd",
+  "phone": "tel:508-693-6633",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.438723,-70.633237&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.438723,-70.633237&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Veronica's Coffee House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Rustic setting coffee shop with a small food menu that includes a veggie hummus wrap and a salad. Has soymilk for coffee drinks but costs extra.",
+  "priceRange": "Moderate",
+  "streetAddress": "604 Peterson Way",
+  "phone": "tel:907-283-2725",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 8:00am-8:00pm, Fri-Sat 8:00am-10:00pm, Sun 11:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/vscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=60.553431,-151.268857&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C60.553431,-151.268857&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

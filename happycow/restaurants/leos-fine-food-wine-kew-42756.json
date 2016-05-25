@@ -1,0 +1,13 @@
+{
+  "title": "Leo's Fine Food and Wine",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "High-end supermarket with a few locations. Has vegetarian products including vegan cheese, ice cream, mayonaise.",
+  "streetAddress": "26 Princess St",
+  "postalCode": "3101",
+  "phone": "tel:+61-398538314",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.806440,145.029489&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.806440,145.029489&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

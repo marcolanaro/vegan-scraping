@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods market chain. Offers fresh fruits and vegetables including organic, deli, bakery, body care products, supplements, and much more.",
+  "streetAddress": "5930 Roswell Rd",
+  "postalCode": "30342",
+  "phone": "tel:404-236-0810",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-10:00pm, Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.917878,-84.379474&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.917878,-84.379474&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

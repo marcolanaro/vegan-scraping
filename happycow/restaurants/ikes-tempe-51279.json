@@ -1,0 +1,20 @@
+{
+  "title": "Ike's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain sandwich shop originating from Northern California. Has vegan sandwiches, ingredients like vegan cheese and faux meats.",
+  "priceRange": "Moderate",
+  "streetAddress": "699 S Mill Ave Ste 107",
+  "postalCode": "85281",
+  "phone": "tel:480-921-2053",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-12:00am, Fri 11:00am-3:00am, Sat 12:00pm-3:00am, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ikes",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.423730,-111.939656&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.423730,-111.939656&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

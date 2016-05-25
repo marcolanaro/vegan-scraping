@@ -1,0 +1,17 @@
+{
+  "title": "Ruan Thai Restuarant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai food. Some dishes can be made vegan upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "215 W 12th St",
+  "postalCode": "84404",
+  "phone": "tel:801-392-4499",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.244301,-111.981307&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.244301,-111.981307&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Zambrero",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican food franchise restaurant. Has some vegetarian choices that can be made vegan by omitting dairy (sour cream, cheese).",
+  "priceRange": "Moderate",
+  "streetAddress": "1/55 Lake St",
+  "postalCode": "4870",
+  "phone": "tel:0740514637",
+  "venueHours": "\n                                                                                                        Mon-Thu 10:30am-9:00pm, Fri-Sat 10:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/zambrero",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-16.923443,145.776389&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-16.923443,145.776389&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

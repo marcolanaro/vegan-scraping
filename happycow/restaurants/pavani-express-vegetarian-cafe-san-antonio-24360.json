@@ -1,0 +1,17 @@
+{
+  "title": "Pavani Express Vegetarian Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Buffet, Take-out\n                                    ",
+  "description": "Simple cafe style eatery making spiced South Indian as well other Indian food. Dairy is used, so vegans need to specify.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5755 Evers Rd",
+  "postalCode": "78238",
+  "phone": "tel:210-680-3134",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.489953,-98.599358&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.489953,-98.599358&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

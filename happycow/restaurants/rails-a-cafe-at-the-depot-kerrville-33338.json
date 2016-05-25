@@ -1,0 +1,19 @@
+{
+  "title": "Rails a Cafe at the Depot",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan options include portabello mushroom burger (no cheese) with asparagus (no chips), wild mushroom quesadillas (no cheese), Mediterranean veggie panini (no cheese), or pasta, pesto & portabello plate. ",
+  "priceRange": "Moderate",
+  "streetAddress": "615 E Schreiner St ",
+  "postalCode": "78028",
+  "phone": "tel:830-257-3877",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.050248,-99.139315&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.050248,-99.139315&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

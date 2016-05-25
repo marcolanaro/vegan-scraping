@@ -1,0 +1,15 @@
+{
+  "title": "Call Street Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegans will be able to have a bowl for breakfast, daily soups, a wrap, and the hippie salad.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "111 W Call St",
+  "postalCode": "32091",
+  "phone": "tel:904-368-9922",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 6:00am-3:00pm, Wed-Sat 6:00am-3:00pm, Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.944120,-82.110222&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.944120,-82.110222&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

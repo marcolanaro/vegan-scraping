@@ -1,0 +1,20 @@
+{
+  "title": "The Common",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Organic, Western, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers changing menus with some marked vegetarian dishes. Uses egg and dairy.",
+  "priceRange": "Expensive",
+  "streetAddress": "26 Commercial Place",
+  "postalCode": "3095",
+  "phone": "tel:0413115063",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 8:30am-4:00pm, Thu-Sat 8:30am-11:30pm, Sun 8:30am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/elthamcommon",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.713519,145.148813&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.713519,145.148813&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

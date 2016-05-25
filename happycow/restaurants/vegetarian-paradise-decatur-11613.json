@@ -1,0 +1,18 @@
+{
+  "title": "Vegetarian Paradise",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Fast food, Juice bar, Take-out, Caribbean\n                                    ",
+  "description": "Decatur vegan restaurant serving Caribbean style vegan food including patties made from tofu, ackee, and vegetable, also rice and peas with vege chicken or beef, callaloo roti, vegetarian soychicken, juices and smoothies. Casual setup.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6125 Covington Hwy Ste 5",
+  "postalCode": "30035",
+  "phone": "tel:678-518-8649",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:00pm, Fri-Sat 11:00am-9:00pm, Sun 2:00pm-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.722550,-84.167750&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.722550,-84.167750&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "The Ladle",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food\n                                    ",
+  "description": "Offerings such as vegan mushroom soup and vegan BBQ burger. Vegan items are denoted on menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8888 University Dr",
+  "phone": "tel:604-291-3874",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.281280,-122.927340&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.281280,-122.927340&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

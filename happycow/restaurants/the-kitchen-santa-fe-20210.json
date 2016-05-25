@@ -1,0 +1,17 @@
+{
+  "title": "The Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American\n                                    ",
+  "description": "Small cafe connected to Plants of the Southwest shop. Offers one veggie option daily. Vegans to call ahead and check.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3095 Agua Fria Rd",
+  "postalCode": "87507",
+  "phone": "tel:505-438-8888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 11:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.661223,-106.001725&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.661223,-106.001725&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

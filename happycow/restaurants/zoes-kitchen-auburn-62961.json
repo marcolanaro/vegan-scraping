@@ -1,0 +1,15 @@
+{
+  "title": "Zoe's Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Mediterranean, Take-out, Middle Eastern, Greek, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain restaurant offering Mediterranean-influenced food. Has some veggie choices, including veggie kabobs, hummus and pita, salad, braised white bean, potato salad, roasted vegetable, and fresh fruit. Vegans to specify.",
+  "priceRange": "Moderate",
+  "streetAddress": "234 B W Magnolia",
+  "postalCode": "36830",
+  "phone": "tel:334-821-2085",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.607220,-85.484356&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.607220,-85.484356&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

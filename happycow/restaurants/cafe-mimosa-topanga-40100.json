@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Mimosa",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffeehouse in the canyon. Has vegan, sugar-free, gluten-free muffins; espresso with non-dairy milk (extra charge). Food is mostly non-veg though.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "395 S Topanga Canyon Blvd",
+  "postalCode": "90290",
+  "phone": "tel:310-455-4341",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 6:30am-2:00pm, Sun 7:30am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Cafe-Mimosa/115757195133791",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.084062,-118.599660&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.084062,-118.599660&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Au Couscous",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, International, Asian, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu includes some vegetarian dishes, marked.",
+  "priceRange": "Moderate",
+  "streetAddress": "Enning 2",
+  "postalCode": "1003",
+  "phone": "tel:0213129800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.519908,6.636967&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.519908,6.636967&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

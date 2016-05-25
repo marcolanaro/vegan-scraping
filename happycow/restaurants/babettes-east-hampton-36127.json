@@ -1,0 +1,18 @@
+{
+  "title": "Babette's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Focus is on organic, local, and seasonal ingredients. Vegan choices include a tofu scramble Santa Fe style, in the form of an omelette. Located in a rural beach town.",
+  "priceRange": "Expensive",
+  "streetAddress": "66 Newtown Ln",
+  "postalCode": "11937",
+  "phone": "tel:631-329-5377",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.964691,-72.187564&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.964691,-72.187564&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

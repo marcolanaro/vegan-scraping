@@ -1,0 +1,14 @@
+{
+  "title": "Farmer's Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers' market.",
+  "streetAddress": "13th St",
+  "postalCode": "90266",
+  "phone": "tel:310-379-9901",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/pages/Manhattan-Beach-Farmers-Market/223310601608",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.886662,-118.409132&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.886662,-118.409132&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

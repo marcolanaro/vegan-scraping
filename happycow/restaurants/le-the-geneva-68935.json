@@ -1,0 +1,17 @@
+{
+  "title": "Le Thé",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Little tea house serving Chinese dim sum restaurant with several marked vegetarian choices. Be sure to double check which ones are vegan, or better call ahead.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rue des Bains 65",
+  "postalCode": "1205",
+  "phone": "tel:0794367718",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.201203,6.137536&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.201203,6.137536&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Riverside Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Beer/Wine, Take-out, British, English\n                                    ",
+  "description": "Refurbished cafe and coffee shop in a 300 year old former blacksmith's building on the banks of River Teifi. Serves vegetarian food with vegan and gluten free options. Daily specials, cakes, cookies, vegan ice cream, fair trade tea and coffee. Attached to the health food shop next door.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Adpar",
+  "postalCode": "SA389ED",
+  "phone": "tel:01239-710404",
+  "venueHours": "\n                                                                                                        Mon-Sat 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=52.039810,-4.465596&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C52.039810,-4.465596&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

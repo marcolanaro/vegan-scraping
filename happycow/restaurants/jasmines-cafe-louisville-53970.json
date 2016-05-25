@@ -1,0 +1,15 @@
+{
+  "title": "Jasmine's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Cafe and smoothie bar serving a variety of fresh fruit and vegetable smoothies (no juices), some of which are vegan or can be made vegan. Almond and soy milk available. As of December 2014, no vegan breakfast is available. A few sandwiches, salads and daily soup special are either vegan or can be made vegan. Offers serves daily baked goods and coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2300 Terra Crossing Blvd, Ste 107",
+  "postalCode": "40245",
+  "phone": "tel:502-963-6165",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-5:00pm, Sat 8:00am-2:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.271118,-85.495892&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.271118,-85.495892&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Bangkok City",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers 12 vegetarian main entree options.",
+  "priceRange": "Moderate",
+  "streetAddress": "4301 Bryan St",
+  "postalCode": "75204",
+  "phone": "tel:214-824-6200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.798940,-96.779410&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.798940,-96.779410&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

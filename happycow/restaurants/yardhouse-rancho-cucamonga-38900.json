@@ -1,0 +1,19 @@
+{
+  "title": "Yard House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Sports bar and restaurant chain that offers Gardein faux meat; however the company does not guarantee that food is strictly vegan, i.e. uses same grills and cookware.",
+  "priceRange": "Moderate",
+  "streetAddress": "12473 N Main St",
+  "postalCode": "91739",
+  "phone": "tel:909-646-7116",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-11:30pm, Fri-Sat 11:00am-1:00am, Sun 11:00am-11:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/YardHouse",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.110604,-117.533715&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.110604,-117.533715&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

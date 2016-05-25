@@ -1,0 +1,19 @@
+{
+  "title": "Noodles and Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Fast food, Take-out, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of quick service noodle chain. You could customize your bowl without meat or cheese. Has tofu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "995 Meridian Blvd",
+  "postalCode": "37067",
+  "phone": "tel:615-771-3013",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/noodlesandcompany",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.951372,-86.808794&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.951372,-86.808794&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Domus Fare",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Standard American non-veg fare with some veg items being made with dairy and/or egg, but reported the kitchen is willing to accommodate vegan requests.",
+  "priceRange": "Moderate",
+  "streetAddress": "41 W Main St",
+  "postalCode": "14063",
+  "phone": "tel:716-672-4141",
+  "venueHours": "\n                                                                                                        Mon 7:00am-9:00pm, Tue-Wed 7:00am-3:00pm, Thu-Sat 7:00am-9:00pm, Sun 7:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.439104,-79.332700&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.439104,-79.332700&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

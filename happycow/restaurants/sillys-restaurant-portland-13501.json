@@ -1,0 +1,18 @@
+{
+  "title": "Silly's Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Eclectic place with varied menu that includes wraps, sandwiches, pizza, falafel, stir frys, pasta, burgers, and milkshake. Has a vegan section on menu with items like tempeh, tofu; dedicated vegan fryer. Gluten free options. Casual atmosphere, tables stocked with playing cards.",
+  "priceRange": "Moderate",
+  "streetAddress": "40 Washington Ave",
+  "postalCode": "04101",
+  "phone": "tel:207-772-0360",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-9:00pm, Sat-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/pages/Sillys-Restaurant/121858404510536",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.664710,-70.251810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.664710,-70.251810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Royal Tavern",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a few vegetarian and vegan items, marked on menu. Vegetarian Friendly.",
+  "priceRange": "Moderate",
+  "streetAddress": "937 E Passyunk Ave",
+  "postalCode": "19147",
+  "phone": "tel:215-389-6694",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/RoyalTavern",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.936970,-75.154520&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.936970,-75.154520&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

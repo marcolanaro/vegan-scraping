@@ -1,0 +1,19 @@
+{
+  "title": "Redwood Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mostly organic pizza restaurant. Could build your own pizza choosing a vegan spread (extra charge).",
+  "priceRange": "Moderate",
+  "streetAddress": "6205 Highway 9",
+  "postalCode": "95018",
+  "phone": "tel:831-335-1500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 4:00pm-9:00pm, Fri 4:00pm-10:00pm, Sat-Sun 1:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/RedwoodPizzeria",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.051376,-122.073284&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.051376,-122.073284&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

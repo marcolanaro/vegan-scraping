@@ -1,0 +1,18 @@
+{
+  "title": "Chavela Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Mediterranean, Beer/Wine, Latin American\n                                    ",
+  "description": "A Peruvian inspired, vegan tapas restaurant and sangria bar, opened Jun 2015 across from the ArcLight theater in Hollywood. Intimate setting.",
+  "priceRange": "Moderate",
+  "streetAddress": "1358 Vine St",
+  "postalCode": "90028",
+  "phone": "tel:323-871-8099",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-3:00pm, Mon-Sat 5:00pm-10:00pm, Sun 5:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/chavelarestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.095772,-118.326499&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.095772,-118.326499&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

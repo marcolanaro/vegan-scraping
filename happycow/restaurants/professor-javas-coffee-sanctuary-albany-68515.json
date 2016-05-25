@@ -1,0 +1,18 @@
+{
+  "title": "Professor Java's Coffee Sanctuary",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This coffeehouse keeps on hand almond and soy milk for drinks and offers a food menu that includes a section with \"veggie delights.\" Vegans could get the veggie hummer wrap or Anna's peppered penguin wrap or ask to omit cheese on other dishes. Has vegan cookies.",
+  "priceRange": "Moderate",
+  "streetAddress": "217 Wolf Rd",
+  "postalCode": "12205",
+  "phone": "tel:518-435-0843",
+  "venueHours": "\n                                                                                                        Mon-Thu 6:30am-10:00pm, Fri-Sat 6:30am-11:00pm, Sun 7:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ProfessorJavasCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.725188,-73.797490&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.725188,-73.797490&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Ital Vital",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Western, Juice bar, Take-out, Caribbean, Jamaican\n                                    ",
+  "description": "Vegan take-out and juice bar, a \"rastarant\" offering Caribbean influenced cuisine.",
+  "priceRange": "Moderate",
+  "streetAddress": "741 Pharmacy Ave",
+  "postalCode": "M1L 3J4",
+  "phone": "tel:647-428-7432",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-9:00pm, Sun 12:00pm-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.717152,-79.293995&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.717152,-79.293995&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

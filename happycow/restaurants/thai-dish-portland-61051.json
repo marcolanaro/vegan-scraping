@@ -1,0 +1,18 @@
+{
+  "title": "Thai Dish",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai food restaurant where staff is accommodating to diet requests and will make changes based on what you'd like.",
+  "priceRange": "Moderate",
+  "streetAddress": "4604 SE Hawthorne Blvd",
+  "postalCode": "97215",
+  "phone": "tel:503-236-1466",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.511863,-122.614944&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.511863,-122.614944&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

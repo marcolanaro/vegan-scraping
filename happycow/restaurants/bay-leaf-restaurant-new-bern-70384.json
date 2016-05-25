@@ -1,0 +1,18 @@
+{
+  "title": "Bay Leaf Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Buffet, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indian restaurant, has several vegetarian dishes. Lunch buffet has separate vegetarian steamtable.",
+  "priceRange": "Moderate",
+  "streetAddress": "309 Middle St",
+  "postalCode": "28562",
+  "phone": "tel:252-638-5323",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-2:30pm, Mon-Thu 5:00pm-9:00pm, Fri-Sat 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.107336,-77.040170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.107336,-77.040170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

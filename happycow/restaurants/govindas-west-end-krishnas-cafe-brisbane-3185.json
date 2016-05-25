@@ -1,0 +1,16 @@
+{
+  "title": "Govindas",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Western, Buffet, Take-out\n                                    ",
+  "description": "Vegetarian restaurant on the first floor. Offers daily changing food for lunch. Choose all-you-can-eat vegetarian buffet which includes main, salad, dessert, and drink; or opt for a plate of any 3 dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "82 Vulture St, West End",
+  "phone": "tel:+61-0404173047",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.480730,153.012110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.480730,153.012110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

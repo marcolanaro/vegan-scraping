@@ -1,0 +1,16 @@
+{
+  "title": "Rainbow Grocery",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A worker-owned natural foods cooperative market established since 1976. Housed in a 25,000 square feet location, this all vegetarian store features very extensive selections in nutritional supplements and vitamins, body and beauty care products, household products, books, fresh organic vegetables and fruits, bulk staples section, chilled and frozen foods, natural pet supplies, raw food, organic products, eco friendly products, grag n go food, children's toys, cooking supplies, and much more. Bag your own grocery.",
+  "streetAddress": "1745 Folsom St",
+  "postalCode": "94103",
+  "phone": "tel:415-863-0620",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.769369,-122.415589&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.769369,-122.415589&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

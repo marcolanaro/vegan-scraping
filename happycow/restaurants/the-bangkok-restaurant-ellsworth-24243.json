@@ -1,0 +1,17 @@
+{
+  "title": "The Bangkok Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Authentic atmosphere, accommodating to veg/vegan requests - be sure to say no fish sauce. Many vegetable dishes. Has brown rice.",
+  "priceRange": "Moderate",
+  "streetAddress": "78 Downeast Hwy",
+  "postalCode": "04605",
+  "phone": "tel:207-667-1324",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.530646,-68.399224&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.530646,-68.399224&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Foodarama",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Western, Take-out, Australian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A breakfast and burger cafe offering some vegetarian dishes with vegan possibilities: burgers, cooked breakfast, granola, pies and sweets. Keeps soy milk on hand for coffee. Reported prepares vegan food separately from meatstuff.",
+  "priceRange": "Moderate",
+  "streetAddress": "573 King St",
+  "postalCode": "2042",
+  "phone": "tel:02-95572560",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.904989,151.180354&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.904989,151.180354&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

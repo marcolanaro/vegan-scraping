@@ -1,0 +1,15 @@
+{
+  "title": "My Thai Vegan Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai\n                                    ",
+  "description": "Boston vegan restaurant serving Thai and Chinese food.  Formerly Original Buddha's Delight, same owners with revised menu. Confirmed open Aug 2010.",
+  "priceRange": "Moderate",
+  "streetAddress": "3 Beach St",
+  "postalCode": "02111",
+  "phone": "tel:617-451-2395",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sun 11:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.351590,-71.062940&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.351590,-71.062940&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

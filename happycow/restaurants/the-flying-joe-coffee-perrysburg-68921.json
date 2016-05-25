@@ -1,0 +1,19 @@
+{
+  "title": "Flying Joe Coffee",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee house with relaxed atmosphere. Offers rotating vegan brunch options and cookies - call ahead to check on what's offered that day.",
+  "priceRange": "Moderate",
+  "streetAddress": "2130 Preston Parkway",
+  "postalCode": "43551",
+  "phone": "tel:419-931-0273",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 6:00am-7:00pm, Fri 6:00am-8:00pm, Sat 8:00am-8:00pm, Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.524477,-83.639446&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.524477,-83.639446&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

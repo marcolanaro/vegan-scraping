@@ -1,0 +1,18 @@
+{
+  "title": "The Pizza Joint",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Pizza, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual set-up pizzeria. Has Daiya vegan cheese and a gluten-free crust (12-inch pie). Menu indicates which sauces are vegan. Hosts live music.",
+  "priceRange": "Moderate",
+  "streetAddress": "2900 N Mesa St Ste F",
+  "postalCode": "79902",
+  "phone": "tel:915-533-4066",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-10:00pm, Tue-Thu 11:30am-12:00am, Fri-Sat 11:30am-3:00am, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ThePizzaJoint",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=31.779178,-106.504326&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C31.779178,-106.504326&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

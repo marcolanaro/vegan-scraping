@@ -1,0 +1,19 @@
+{
+  "title": "Delicious Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Take-out, Bakery\n                                    ",
+  "description": "Cafe providing coffee, tea, veggie sandwiches, bagels, and pastries. Breakfast includes an English muffin with vegan cheese and tempeh bacon. Slow brew coffee option. Casual and artsy with free Wi-Fi. Food is all vegan since Apr 2013. The only non-vegan item is dairy milk option for drinks.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3827 N Lincoln Ave",
+  "postalCode": "60613",
+  "phone": "tel:773-697-4857",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/delicious/48874171983",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.951290,-87.676470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.951290,-87.676470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Alhambra Farmers' Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers' market. Selling wide assortment of fruits and vegetables, honey, herbs, bread and more from local growers and vendors. ",
+  "streetAddress": "S Monterey St",
+  "postalCode": "91801",
+  "phone": "tel:626-570-5081",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 8:30am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.094064,-118.123766&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.094064,-118.123766&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

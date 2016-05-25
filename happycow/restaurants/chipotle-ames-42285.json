@@ -1,0 +1,18 @@
+{
+  "title": "Chipotle",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fast food chain where you could customize your order (tacos, burritos, bowls) and request no cheese/dairy. Offers a soyfritas filling that's made from soy protein.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "435 S Duff Ave",
+  "postalCode": "50010",
+  "phone": "tel:515-598-2385",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Chipotle/451318904942442",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.017629,-93.610951&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.017629,-93.610951&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

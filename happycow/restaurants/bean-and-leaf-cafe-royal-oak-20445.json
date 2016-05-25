@@ -1,0 +1,18 @@
+{
+  "title": "Bean and Leaf Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An independent coffee shop. Has vegan cookies, vegan muffins, vegan scones, and usually a vegan soup available. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "106 S Main St",
+  "postalCode": "48067",
+  "phone": "tel:248-586-9602",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:00am-11:00pm, Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.489766,-83.144312&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.489766,-83.144312&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Natural Grocers",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Mid-sized store carrying fresh local organic produce, bulk food, canned & frozen food, cleaning products, healthcare products, and other natural groceries.",
+  "streetAddress": "407 NW Burnside Rd",
+  "postalCode": "97030",
+  "phone": "tel:503-465-0130",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 8:00am-9:00pm, Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.510707,-122.434722&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.510707,-122.434722&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

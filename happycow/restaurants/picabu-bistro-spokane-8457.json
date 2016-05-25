@@ -1,0 +1,17 @@
+{
+  "title": "Picabu Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, International, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A very small place that offers lunch and dinner. Has a small handful of veg/vegan items; or ask to use tofu in an entree like the pad thai noodle, or omit cheese in the burrito, etc.",
+  "priceRange": "Moderate",
+  "streetAddress": "901 W 14th",
+  "postalCode": "99204",
+  "phone": "tel:509-624-2464",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.642690,-117.424540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.642690,-117.424540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "The Green Barn",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, International, Thai, Delivery, Take-out, Asian, Vietnamese\n                                    ",
+  "description": "Re-opened in fall of 2015, this Asian vegetarian restaurant offers a mix of cuisines, from Thai currys and pho noodles to burgers and sandwiches. Uses tofu, soy meats, and fresh veggies. Menu is approximately 80% vegan.",
+  "priceRange": "Moderate",
+  "streetAddress": "190 Ranch Dr",
+  "postalCode": "95035",
+  "phone": "tel:408-263-8098",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 5:00pm-9:00pm, Mon-Fri 11:00am-3:00pm, Fri 5:00pm-10:00pm, Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.428325,-121.919799&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.428325,-121.919799&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

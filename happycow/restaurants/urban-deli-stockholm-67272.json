@@ -1,0 +1,12 @@
+{
+  "title": "Urban Deli",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A whole food supermarket with a small smoothie bar, restaurant and catering. Carries many vegan products.",
+  "streetAddress": "Nytorget 4, 116 40, Hesselmans Torg 12, 131 54 Nacka",
+  "phone": "tel:08-42550030",
+  "venueHours": "\n                                                                                                        Mon-Tue 8:00am-11:00pm, Wed-Thu 8:00am-12:00am, Fri-Sat 8:00am-1:00am, Sun 8:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.312443,18.082356&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.312443,18.082356&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

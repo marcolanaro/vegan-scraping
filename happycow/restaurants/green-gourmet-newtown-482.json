@@ -1,0 +1,15 @@
+{
+  "title": "Green Gourmet",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Buffet, Take-out\n                                    ",
+  "description": "Vegan Chinese restaurant. Yum cha on Saturday and Sunday lunch. Has a buffet bar where food is charged by weight - available at lunch daily and for dinner Tue-Sun nights.",
+  "priceRange": "Moderate",
+  "streetAddress": "115-117 King St",
+  "postalCode": "2000",
+  "phone": "tel:02-95195330",
+  "venueHours": "\n                                                                                                        Mon-Sun 12:00pm-3:00pm, 6:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.893088,151.184222&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.893088,151.184222&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

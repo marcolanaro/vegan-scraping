@@ -1,0 +1,19 @@
+{
+  "title": "Vegie Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Pizza, International, Western, Juice bar, Beer/Wine\n                                    ",
+  "description": "Busy restaurant serving a wide range of food and usually large portions. Very typical for Melbourne. Menu includes pizza, stir fry, noodles, roast veggies, pasta, vegan desserts, and more. Open kitchen and extra long communal table seating. Go early for dinner to get a table, otherwise expect to wait.",
+  "priceRange": "Moderate",
+  "streetAddress": "378-380 Brunswick St",
+  "postalCode": "VIC 3065",
+  "phone": "tel:03-94176935",
+  "venueHours": "\n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-10:30pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Vegie-BarOfficial-Page/214730075237542",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-37.795840,144.979120&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-37.795840,144.979120&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

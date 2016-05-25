@@ -1,0 +1,18 @@
+{
+  "title": "White Elephant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarian menu section with multiple items including desserts. Owner is knowledgeable regarding vegan and gluten free diets.",
+  "priceRange": "Moderate",
+  "streetAddress": "50 N Cabrillo Hwy Ste B2",
+  "postalCode": "94019",
+  "phone": "tel:650-726-6610",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.469401,-122.434171&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.469401,-122.434171&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sweet Annie's Green Cuisine",
+  "tags": [
+    "Veg Catering"
+  ],
+  "description": "Natural food personal chef and catering serving Asheville and surrounding areas.",
+  "streetAddress": "Asheville area",
+  "phone": "tel:828-808-5827",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.578302,-82.549274&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.578302,-82.549274&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

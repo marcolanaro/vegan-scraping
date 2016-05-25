@@ -1,0 +1,16 @@
+{
+  "title": "The Good Cookies",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "An all-gluten free bakery with about half of the items being vegan or dairy free, including cakes, cookies, muffins, bars, pies, ice-cream and more. The main focus is catering to people with food allergies. All items are clearly labeled as vegan, dairy free, nut free or type of tree nut. Offers a small lunch menu.\r\n",
+  "streetAddress": "2081 Torrance Blvd",
+  "postalCode": "90501",
+  "phone": "tel:310-320-7900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-6:00pm, Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.836578,-118.318933&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.836578,-118.318933&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

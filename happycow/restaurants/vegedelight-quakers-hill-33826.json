@@ -1,0 +1,18 @@
+{
+  "title": "VegeDelight",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Indian, Italian, Buffet, Take-out, Catering, Indo-Chinese\n                                    ",
+  "description": "VegeDelight serves a fusion of Indian, Italian, and Chinese cuisines with freshly cooked veggie snacks, pizza, pasta, and curries. Established since 2012.",
+  "priceRange": "Moderate",
+  "streetAddress": "6 Douglas Rd",
+  "postalCode": "2763",
+  "phone": "tel:02-98370307",
+  "venueHours": "\n                                                                                                        Tue-Thu 12:00pm-9:30pm, Fri 12:00pm-10:00pm, Sat 11:00am-10:00pm, Sun 11:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Vegedelight",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.726735,150.884560&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.726735,150.884560&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

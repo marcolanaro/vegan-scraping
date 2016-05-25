@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Du Soleil",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Western, Bakery, Canadian\n                                    ",
+  "description": "Created by two moms and is a family-run operation, this cafe switched back and forth from veg to non-veg and is reported all-veg again as of 2015. Offers vegan baked goods that are mostly gluten-free, and a menu with items like tofu scramble with split beans or potatoes.",
+  "priceRange": "Moderate",
+  "streetAddress": "1393 Commercial Dr",
+  "postalCode": "V5l 3X5",
+  "phone": "tel:604-254-1145",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-4:00pm, Sat-Sun 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.272421,-123.069713&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.272421,-123.069713&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Veggie Grill",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Fast food, Beer/Wine, Delivery, Take-out, Catering\n                                    ",
+  "description": "Part of a quick service vegan restaurant chain; this one opened Winter 2015. Offers a menu of fast food like burgers and tacos, as well as salads and appetizers like sweet potato fries and mac 'n cheese. Located in the The Village at Topanga outdoor shopping mall.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6316 Topanga Cyn Blvd, Ste 1180",
+  "postalCode": "91367",
+  "phone": "tel:818-340-6360",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/veggiegrill",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.185287,-118.606190&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.185287,-118.606190&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

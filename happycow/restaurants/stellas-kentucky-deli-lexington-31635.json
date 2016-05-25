@@ -1,0 +1,17 @@
+{
+  "title": "Stella's Kentucky Deli",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Located on the bottom floor of an old Victorian house this deli offers a vegetarian version of the local classic Hot Brown, vegan sandwiches on the lunch menu, and a couple vegan dinner options. Uses local ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "143 Jefferson St",
+  "phone": "tel:859-255-3354",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 10:30am-4:00pm, Wed-Thu 10:30am-9:00pm, Fri 10:30am-10:00pm, Sat 9:00am-10:00pm, Sun 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.052789,-84.501968&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.052789,-84.501968&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

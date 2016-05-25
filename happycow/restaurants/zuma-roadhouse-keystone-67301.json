@@ -1,0 +1,17 @@
+{
+  "title": "Zuma Roadhouse",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarians could get quinoa cake and veg burger. Ask about dairy/egg use.",
+  "priceRange": "Moderate",
+  "streetAddress": "91 River Run Rd",
+  "postalCode": "80435",
+  "phone": "tel:970-262-2202",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.606734,-105.943377&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.606734,-105.943377&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Cinnamon Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Mediterranean, Middle Eastern\n                                    ",
+  "description": "Cafe and bistro serving coffee and tea alongside vegetarian and vegan food with Arabic influence.",
+  "priceRange": "Moderate",
+  "streetAddress": "469 Rue King St",
+  "phone": "tel:506-454-9011",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.961577,-66.642426&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.961577,-66.642426&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Betty Blue's Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Beer/Wine, Spanish\n                                    ",
+  "description": "Offers vegetarian tapas and beers. Near near WTC and Grancasa, tram stop Pablo Neruda. ",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Calle Poeta Jorge Manrique 8",
+  "postalCode": "50018",
+  "phone": "tel:690010254",
+  "venueHours": "\n                                                                                                        Tue-Thu 8:00am-12:00am, Fri-Sat 8:00am-1:00am, Sun 12:00pm-12:00am\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.668760,-0.886204&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.668760,-0.886204&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

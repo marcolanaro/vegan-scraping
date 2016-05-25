@@ -1,0 +1,15 @@
+{
+  "title": "Farm Stand",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Italian, Organic, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Emphasizes local and simple, non-gmo foods. Labels the handful of vegetarian dishes and a few vegan suitable ones. Prices slightly high.",
+  "priceRange": "Moderate",
+  "streetAddress": "422 Main St",
+  "postalCode": "90245",
+  "phone": "tel:310-640-3276",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-10:00pm, Sat-Sun 4:00pm-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.921477,-118.415789&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.921477,-118.415789&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

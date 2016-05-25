@@ -1,0 +1,17 @@
+{
+  "title": "The Green Door",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Buffet, Juice bar, Take-out, Canadian\n                                    ",
+  "description": "Ottawa's oldest vegetarian restaurant, since 1988. Buffet-style with dishes labeled if contains dairy, egg, or egg, etc. Pay for food by weight. Sources mostly seasonal and organic produce. Busy at meal time, takes reservations for group of 6+. No Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "198 Main St",
+  "postalCode": "ON K1S1C6",
+  "phone": "tel:613-234-9597",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.408450,-75.677630&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.408450,-75.677630&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

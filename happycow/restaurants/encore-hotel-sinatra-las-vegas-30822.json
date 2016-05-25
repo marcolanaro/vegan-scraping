@@ -1,0 +1,15 @@
+{
+  "title": "Encore Hotel - Sinatra",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An upscale restaurant located in the Encore with an abundance of vegan options. View menu here.",
+  "priceRange": "Expensive",
+  "streetAddress": "3121 Las Vegas Blvd S",
+  "postalCode": "89109",
+  "phone": "tel:702-770-3463",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.130189,-115.165129&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.130189,-115.165129&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

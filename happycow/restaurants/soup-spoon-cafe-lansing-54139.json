@@ -1,0 +1,17 @@
+{
+  "title": "Soup Spoon Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. American food cafe with labeled vegan suitable choices including a breakfast plate with a lentil patty, a vegetable stir-fry, sandwich with veganaise, and at dinner a Ethiopian stew.",
+  "priceRange": "Moderate",
+  "streetAddress": "1419 E Michigan Ave",
+  "phone": "tel:517-316-2377",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-10:00pm, Fri-Sat 7:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SoupSpoonCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.733781,-84.530371&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.733781,-84.530371&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

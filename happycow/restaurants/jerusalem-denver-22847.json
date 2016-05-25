@@ -1,0 +1,19 @@
+{
+  "title": "Jerusalem",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Delivery, Take-out, Middle Eastern, Israeli, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Middle Eastern staple located right next to the University of Denver campus. Laid back atmosphere with typically lots of college students. Has large vegetarian section on the menu.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1890 E Evans Ave",
+  "postalCode": "80210",
+  "phone": "tel:303-777-8828",
+  "venueHours": "\n                                                                                                        Mon-Thu 9:00am-4:00am, Fri-Sat 9:00am-5:00am, Sun 9:00am-4:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.678321,-104.965396&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.678321,-104.965396&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

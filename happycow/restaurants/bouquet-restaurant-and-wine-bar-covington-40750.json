@@ -1,0 +1,20 @@
+{
+  "title": "Bouquet",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Farm-to-table concept restaurant and wine bar. Mostly meat stuff with one tofu plate plus salads.",
+  "priceRange": "Expensive",
+  "streetAddress": "519 Main St",
+  "postalCode": "41011",
+  "phone": "tel:859-491-7777",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 5:00pm-12:00am, Fri-Sat 5:00pm-1:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Bouquet-Restaurant-and-Wine-Bar/111084883549",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.084744,-84.517775&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.084744,-84.517775&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

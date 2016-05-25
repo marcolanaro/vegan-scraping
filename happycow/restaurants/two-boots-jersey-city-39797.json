@@ -1,0 +1,15 @@
+{
+  "title": "Two Boots Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. NY-based pizzeria with multiple outlets. Stocks vegan cheese, and each day offers at least 1 or 2 vegan pizza. Or build your own.",
+  "priceRange": "Moderate",
+  "streetAddress": "133 Newark Ave",
+  "postalCode": "07302",
+  "phone": "tel:201-209-1250",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:30am-10:00pm, Thu 11:30am-12:00am, Fri-Sat 11:30am-3:30am, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.720246,-74.043588&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.720246,-74.043588&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

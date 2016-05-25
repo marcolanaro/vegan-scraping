@@ -1,0 +1,18 @@
+{
+  "title": "Ashiana Vegetarian Restaurant",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Western, Fast food, Take-out\n                                    ",
+  "description": "Known for its Indian thali and vegetarian pizzas.",
+  "priceRange": "Moderate",
+  "streetAddress": "Apic Centre, Muthithi Road, Westlands",
+  "phone": "tel:+254-20-3749797",
+  "venueHours": "\n                                                                                                        Mon-Sun 10:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-1.267412,36.808520&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-1.267412,36.808520&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

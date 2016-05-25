@@ -1,0 +1,18 @@
+{
+  "title": "La Fondita",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Fast food, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An emphasize on fresh ingredients of a traditional taqueria. Vegan choices are marked on menu and many other dishes can be made vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "74 Montauk Hwy",
+  "postalCode": "11930",
+  "phone": "tel:631-267-8800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-9:00pm, Fri-Sat 11:30am-10:00pm, Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.972721,-72.147243&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.972721,-72.147243&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

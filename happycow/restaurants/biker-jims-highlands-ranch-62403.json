@@ -1,0 +1,19 @@
+{
+  "title": "Biker Jim's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local hot dog joint. Has 2 vegan dog varieties plus vegan suitable baked beans and roasted cauliflower.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1601 Mayberry Ste 103",
+  "postalCode": "80129",
+  "phone": "tel:720-344-2100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.546063,-105.004243&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.546063,-105.004243&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The Blend Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Juice bar, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Juices, smoothies, and a menu with some marked vegetarian and a few vegan items.",
+  "priceRange": "Expensive",
+  "streetAddress": "11701 Lake Victoria Gardens Ave",
+  "postalCode": "33410",
+  "phone": "tel:561-331-8766",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-7:30pm, Fri-Sat 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.851092,-80.083756&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.851092,-80.083756&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

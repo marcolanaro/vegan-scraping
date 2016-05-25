@@ -1,0 +1,17 @@
+{
+  "title": "Zen Vegetarian House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Chinese\n                                    ",
+  "description": "Chinese and Asian vegetarian specialties including mock meat dishes, juices and teas.",
+  "priceRange": "Moderate",
+  "streetAddress": "773 Flatbush Ave",
+  "postalCode": "11226",
+  "phone": "tel:718-282-2255",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 12:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.653960,-73.959170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.653960,-73.959170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

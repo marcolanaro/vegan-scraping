@@ -1,0 +1,19 @@
+{
+  "title": "Sanitarium Kitchen",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Western, Juice bar, Take-out, Australian\n                                    ",
+  "description": "Upmarket health food cafe and restaurant in the financial district. No alcohol or BYO. Haas low-fat & gluten-free food options. Directions: It's on the odd number side of the street, ground floor of the \"145 Eagle Street\" building.",
+  "priceRange": "Moderate",
+  "streetAddress": "145 Eagle Street",
+  "postalCode": "4000",
+  "phone": "tel:07-32217988",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/kitchensanitarium",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-27.466370,153.030210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-27.466370,153.030210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

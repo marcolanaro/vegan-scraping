@@ -1,0 +1,19 @@
+{
+  "title": "Siam Spice",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small but comfortable Thai food place. Many dishes can be made vegan - ask. Offers a few raw food items.",
+  "priceRange": "Moderate",
+  "streetAddress": "1174 Fischer Blvd",
+  "postalCode": "08753",
+  "phone": "tel:732-288-0606",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 10:30am-2:30pm, Thu 10:30am-2:30pm, Fri-Sat 11:30am-2:30pm, 4:30pm-10:00pm, Sun 10:30am-2:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.990660,-74.149132&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.990660,-74.149132&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

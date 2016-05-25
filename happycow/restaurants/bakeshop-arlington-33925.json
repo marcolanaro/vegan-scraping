@@ -1,0 +1,15 @@
+{
+  "title": "Bakeshop",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Bakery also making vegan cupcakes, chipwiches (chocolate chip cookie ice cream sandwich), cookies, and cream pies.",
+  "streetAddress": "1025 N Fillmore St Ste G",
+  "postalCode": "22201",
+  "phone": "tel:571-970-6460",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:00am-8:00pm, Fri 10:00am-10:00pm, Sat 10:00am-8:00pm, Sun 10:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.885669,-77.092571&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.885669,-77.092571&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

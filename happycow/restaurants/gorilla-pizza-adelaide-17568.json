@@ -1,0 +1,16 @@
+{
+  "title": "Gorilla Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Fast food, Delivery, Take-out, Pizzeria, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Formerly Godzilla Pizza, a take away pizza bar that serves all the standard fare but also mentions vegans on its menu and provides options using vegan mozzarella, vegan pepperoni, vegan bacon, and vegan parmesan for its pasta dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "542C Brighton Rd, South Brighton",
+  "phone": "tel:08-83773533",
+  "venueHours": "\n                                                                                                        Tue-Thu 4:30pm-10:00pm, Fri-Sat 4:30pm-11:00pm, Sun 4:30pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-35.024472,138.523785&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-35.024472,138.523785&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

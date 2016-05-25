@@ -1,0 +1,16 @@
+{
+  "title": "Buttermilk Bake Shop",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "Traditional bakery in Old Towne offering usually 1 cupcake that's vegan and occasionally another cake - call to check stock. Has non-dairy milk for coffee. Once a month it offers vegan donut day when other vegan baked goods are also available -- see its webpage for updates.",
+  "streetAddress": "257 E Bank St",
+  "postalCode": "23803",
+  "phone": "tel:804-242-0027",
+  "venueHours": "\n                                                                                                        Tue-Sat 7:00am-5:00pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/buttermilkbakeshopva",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.232245,-77.399076&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.232245,-77.399076&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

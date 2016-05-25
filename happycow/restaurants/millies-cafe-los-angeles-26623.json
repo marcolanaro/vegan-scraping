@@ -1,0 +1,17 @@
+{
+  "title": "Millie's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A breakfast, lunch, coffeehouse, and diner kind of place. While the menu features many American style dishes with meat, there are vegan and vegetarian choices (but not labeled well): black bean burger, garden patty burger, tofu scramble, soy chorizo in burrito. Has soymilk for coffee drinks. Same owners as Naturewell juice bar/shop in Silverlake.",
+  "priceRange": "Moderate",
+  "streetAddress": "3524 W Sunset Blvd",
+  "postalCode": "90026",
+  "phone": "tel:323-664-0404",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.089254,-118.276837&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.089254,-118.276837&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

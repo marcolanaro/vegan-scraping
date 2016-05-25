@@ -1,0 +1,18 @@
+{
+  "title": "Juice Generation - FiDi",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Fast food, Juice bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain of juice and smoothies bar in Manhattan; this one is a good size with counter as well fridge with grab n go salad and sandwiches. Non-dairy milk options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "101 Maiden Lane",
+  "postalCode": "10038",
+  "phone": "tel:646-882-4330",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-6:00pm, Sat-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.706964,-74.006812&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.706964,-74.006812&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

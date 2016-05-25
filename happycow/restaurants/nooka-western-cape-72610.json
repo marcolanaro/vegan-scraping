@@ -1,0 +1,19 @@
+{
+  "title": "Nooka",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Mediterranean, Salad bar, Juice bar, Beer/Wine, Take-out, Catering, Fusion, Middle Eastern\n                                    ",
+  "description": "A vegetarian eatery serving freshly prepared eats inspired by the flavors of the Middle East. Has vegan dishes on the menu, and many of the other dishes can be creatively made vegan upon request.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "20 Roeland St, Cape Town",
+  "postalCode": "8005",
+  "phone": "tel:+27-214610691",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/NookaCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.928890,18.420450&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.928890,18.420450&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Udipi Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out\n                                    ",
+  "description": "Indian restaurant. Formerly Banaras.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3300 Peachtree Industrial Rd",
+  "postalCode": "30096",
+  "phone": "tel:678-584-5840",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:30am-3:00pm, 5:00pm-10:00pm, Wed-Fri 11:30am-3:00pm, 5:00pm-10:00pm, Sat-Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.015900,-84.163930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.015900,-84.163930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

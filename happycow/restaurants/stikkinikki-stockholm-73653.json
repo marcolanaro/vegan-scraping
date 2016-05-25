@@ -1,0 +1,16 @@
+{
+  "title": "StikkiNikki",
+  "tags": [
+    "Other Veg Stuff"
+  ],
+  "description": "A vegetarian all-organic gelato place with a variety of vegan flavors. Please ask about additional flavors in the freezer. Take-out available. Has multiple locations.",
+  "streetAddress": "Gorgatan 46",
+  "postalCode": "11826",
+  "phone": "tel:0739190227",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.315911,18.072323&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.315911,18.072323&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Living Well Bistro",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Pizza, Organic, Juice bar, Take-out, Fusion\n                                    ",
+  "description": "The first all-vegan restaurant in a hospital, designed to serve the public and those interested in health and wellness. Provides vegan fusion fare, local, organic, and freshly made with many live food options and at affordable prices. Also features a retail marketplace.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "10000 SE Main St",
+  "postalCode": "97216",
+  "phone": "tel:503-261-4422",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-6:00pm, Fri 7:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/AdventistHealthNW",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.513008,-122.558327&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.513008,-122.558327&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

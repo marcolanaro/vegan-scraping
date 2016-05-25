@@ -1,0 +1,15 @@
+{
+  "title": "Emmy's Vege House",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Fast food, Vietnamese, Take-out only\n                                    ",
+  "description": "Take-out vegetarian restaurant on Winslow's main strip. Dishes are made from vegetables and soy protein.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "100 Winslow Way West",
+  "postalCode": "98110",
+  "phone": "tel:206-855-2996",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-7:30pm, Sat 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.624980,-122.521080&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.624980,-122.521080&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

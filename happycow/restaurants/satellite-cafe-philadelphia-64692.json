@@ -1,0 +1,19 @@
+{
+  "title": "Satellite Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Menu is mostly vegetarian except for dishes with salmon. Offers bagels with toppings like nutritional yeast and olive oil, vegan cream cheese, black olive paste, and hummus; sandwiches and wraps with vegan options including grilled cheese, roll-up, wrap, tofu wrap, and a few others.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "701 S 50th St",
+  "postalCode": "19143",
+  "phone": "tel:215-729-1211",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-10:00pm, Sat-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/The-Satellite-Cafe-234221543635",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.947705,-75.222699&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.947705,-75.222699&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

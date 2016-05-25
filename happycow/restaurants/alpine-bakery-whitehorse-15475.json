@@ -1,0 +1,15 @@
+{
+  "title": "Alpine Bakery",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Western, Take-out, Bakery, Canadian\n                                    ",
+  "description": "Bakery cafe making an extensive bread and baked goods selection. Serves lunch food (pizza without cheese, daily soup) with some raw food. Has a small retail area selling granola, yogurt, and hummus made from scratcc. Does not use egg. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "411 Alexander St",
+  "postalCode": "Y1A 2L8",
+  "phone": "tel:867-668-6871",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 8:00am-6:00pm, Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=60.722640,-135.059690&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C60.722640,-135.059690&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The Alkaline Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, Western, Juice bar, Take-out, Fusion\n                                    ",
+  "description": "A wholefood cafe, opened Sept 2015.",
+  "priceRange": "Moderate",
+  "streetAddress": "90 Frederick St",
+  "postalCode": "6330",
+  "phone": "tel:08-98425441",
+  "venueHours": "\n                                                                                                        Mon-Fri 9:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/thealkalinecafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-35.025736,117.885520&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-35.025736,117.885520&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

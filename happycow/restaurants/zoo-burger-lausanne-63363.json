@@ -1,0 +1,17 @@
+{
+  "title": "Zoo Burger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Western, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Burger restaurant. Menu has vegetarian burgers which are served with fries or salad. Has a \"soylent green\" burger. Local beers (Dr. Gab's) and ingredients. Gets busy so book ahead or expect a wait. A second outlet at Av Mon-loisir 16.",
+  "priceRange": "Moderate",
+  "streetAddress": "Rue Marterey 29",
+  "phone": "tel:0213125020",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.521394,6.639705&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.521394,6.639705&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

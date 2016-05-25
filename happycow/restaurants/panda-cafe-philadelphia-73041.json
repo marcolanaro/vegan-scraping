@@ -1,0 +1,17 @@
+{
+  "title": "Panda Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Asian, Indonesian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Indonesian and Thai food. Some dishes can be requested vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1608 W Passyunk Ave",
+  "postalCode": "19145",
+  "phone": "tel:267-528-8502",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.924570,-75.173413&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.924570,-75.173413&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

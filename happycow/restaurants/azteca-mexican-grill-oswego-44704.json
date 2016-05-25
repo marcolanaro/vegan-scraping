@@ -1,0 +1,18 @@
+{
+  "title": "Azteca Mexican Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Traditional Mexican food, within walking distance of downtown Oswego, the Oswego River, and Lake Ontario. Has vegetarian choices (dairy and eggs) but not much for vegans unless you request to omit dairy, etc.",
+  "priceRange": "Moderate",
+  "streetAddress": "53 E Bridge St",
+  "postalCode": "13126",
+  "phone": "tel:315-341-7045",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.458092,-76.506177&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.458092,-76.506177&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

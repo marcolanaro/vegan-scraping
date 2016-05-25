@@ -1,0 +1,19 @@
+{
+  "title": "Bang Bang Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Coffee, pastries, burritos, and sandwiches. Includes a small selection of vegan food. Street parking only.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2460 Western Ave",
+  "postalCode": "98121",
+  "phone": "tel:206-448-2233",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-5:00pm, Sat 8:00am-5:00pm, Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Bang-Bang-Cafe-Seattle/173900138149",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.613986,-122.349380&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.613986,-122.349380&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

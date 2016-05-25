@@ -1,0 +1,18 @@
+{
+  "title": "Mamma's Pizza",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Italian, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain of pizzerias. This one is a small take-out set-up. Carries 2 Daiya vegan cheese flavors. Could build your own pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "2500 Appleby Line",
+  "postalCode": "L7L 0A2",
+  "phone": "tel:905-332-8500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-10:00pm, Thu-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.405027,-79.806740&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.405027,-79.806740&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

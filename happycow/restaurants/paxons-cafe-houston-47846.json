@@ -1,0 +1,18 @@
+{
+  "title": "Paxon's Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Chinese, International, Fast food, Juice bar, Take-out\n                                    ",
+  "description": "Daily self-serve lunch special, Taiwanese dishes, tapioca beverage, smoothies, coffee, tea, hamburgers and tornado fries. Has plenty of vegan options.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "9888 Bellaire Blvd, Ste 102",
+  "postalCode": "77036",
+  "phone": "tel:281-888-5103",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-10:00pm, Fri-Sat 9:00am-11:00pm, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/paxonscafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.706478,-95.552720&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.706478,-95.552720&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

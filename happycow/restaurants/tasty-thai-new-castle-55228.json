@@ -1,0 +1,18 @@
+{
+  "title": "Tasty Thai",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Family-run Thai food restaurant off Route 273. Fast service. Offers lunch specials. Some dishes with vegetables and/or tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "287 Christiana Rd",
+  "postalCode": "19720",
+  "phone": "tel:302-322-1306",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri 11:00am-9:30pm, Sat 12:00pm-9:30pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TastiThaiRestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.662830,-75.639082&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.662830,-75.639082&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

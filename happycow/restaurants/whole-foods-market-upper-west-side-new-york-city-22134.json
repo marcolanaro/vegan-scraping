@@ -1,0 +1,15 @@
+{
+  "title": "Whole Foods Market - Upper West Side",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Has fresh fruits and vegetables including organic produce, deli, hot foods and salad bar, vitamins, supplements, personal care products, grocery, coffee bar, and more.",
+  "streetAddress": "808 Columbus Ave",
+  "postalCode": "10025",
+  "phone": "tel:212-222-6160",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:30am-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.794670,-73.966654&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.794670,-73.966654&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

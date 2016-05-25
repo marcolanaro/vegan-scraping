@@ -1,0 +1,17 @@
+{
+  "title": "Mollans Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Fast food, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small almost hole-in-the-wall pizza place with soy cheese as an option for the 12 vegetarian pizzas. Has a separate menu for the vegan pizzas. Large TV plays sports. No alcohol served.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Ystadsgatan 7",
+  "postalCode": "21424",
+  "phone": "tel:+46-40231650",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri 2:00pm-10:00pm, Sat-Sun 12:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.590953,13.009950&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.590953,13.009950&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

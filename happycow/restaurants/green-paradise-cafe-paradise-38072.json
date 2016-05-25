@@ -1,0 +1,19 @@
+{
+  "title": "Green Paradise Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Pizza, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan items include soups, salads, sandwiches, pizzettes with veggies, twice baked potatoes, hummus, salsa, and more. Has gluten-free.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6695 Skyway Rd",
+  "postalCode": "95969",
+  "phone": "tel:530-876-1964",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.761593,-121.622659&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.761593,-121.622659&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Trolley Wing Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Fast food, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has vegan wings, with multilpe vegan sauces, with vegan ranch. Ages 21 and over only.",
+  "priceRange": "Moderate",
+  "streetAddress": "2148 S 900 E Ste 5",
+  "postalCode": "84106",
+  "phone": "tel:801-538-0745",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-12:00am, Fri-Sat 11:00am-1:00am, Sun 11:00am-12:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TrolleyWingCo",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.724289,-111.865753&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.724289,-111.865753&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Ristorante Cristallina",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Beer/Wine, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant inside the hotel offering a separate vegan menu - ask for it. Grows own fruits and veggies in its own garden.",
+  "priceRange": "Moderate",
+  "streetAddress": "Al Ponte",
+  "postalCode": "6678",
+  "phone": "tel:917531141",
+  "venueHours": "\n                                                                                                        Mon-Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.269374,8.683930&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.269374,8.683930&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

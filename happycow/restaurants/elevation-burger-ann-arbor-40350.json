@@ -1,0 +1,20 @@
+{
+  "title": "Elevation Burger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Organic, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise burger restaurant offering 2 veggie burgers, served on buns or as lettuce wrap. Fries are cooked in olive oil. Vegans could specify.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3325 Washtenaw",
+  "postalCode": "48104",
+  "phone": "tel:734-586-0467",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/ElevationBurgerAnnArbor",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.256840,-83.693680&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.256840,-83.693680&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

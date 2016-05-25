@@ -1,0 +1,17 @@
+{
+  "title": "Gabby's Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Mediterranean, Salad bar, Take-out only\n                                    ",
+  "description": "Small, carry-out place in a strip mall making various Mediterranean salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "6581 Commerce Rd",
+  "postalCode": "48324",
+  "phone": "tel:248-360-5330",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.588734,-83.413540&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.588734,-83.413540&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

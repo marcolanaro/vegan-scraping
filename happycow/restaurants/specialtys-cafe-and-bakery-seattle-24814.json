@@ -1,0 +1,17 @@
+{
+  "title": "Specialty's Cafe and Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, International, Delivery, Take-out, Bakery, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small cafe with several vegetarian items, plus coffee and freshly baked goods. Healthy breakfast, vegetarian sandwiches, salads, and vegetarian or vegan soup option daily. Quick service, reasonable portions.",
+  "priceRange": "Moderate",
+  "streetAddress": "1023 3rd Ave",
+  "postalCode": "98104",
+  "phone": "tel:415-362-2052",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 6:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.606138,-122.334629&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.606138,-122.334629&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

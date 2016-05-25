@@ -1,0 +1,16 @@
+{
+  "title": "Brookford Farm Store",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Store at Brookford Farm selling organic vegetables plus and other foodstuff like sauerkraut and beet kraut.",
+  "streetAddress": "250 West Rd",
+  "postalCode": "03224",
+  "phone": "tel:603-742-4084",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/Brookford Farm",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.318881,-71.614924&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.318881,-71.614924&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

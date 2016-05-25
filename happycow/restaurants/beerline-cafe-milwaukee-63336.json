@@ -1,0 +1,19 @@
+{
+  "title": "Beerline Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine\n                                    ",
+  "description": "Opened Sept 2015 a vegetarian restaurant serving casual fare. Offers food like crepes and paninis, plus a drink menu including juices, smoothies, beer, and wine. Much of the menu can be requested as vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2076 N Commerce St",
+  "postalCode": "53212",
+  "phone": "tel:414-265-5644",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:00am-8:00pm, Sun 8:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BeerlineCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.057647,-87.900033&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.057647,-87.900033&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

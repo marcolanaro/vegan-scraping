@@ -1,0 +1,17 @@
+{
+  "title": "Louis Family Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Long time established, old school diner. Few vegan choices including vegan pancakes, tofu scramble, soy milk for coffee at no extra charge, and fresh fruit. Be sure to specify if vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "286 Brook St",
+  "postalCode": "02906",
+  "phone": "tel:401-861-5225",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.824280,-71.398600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.824280,-71.398600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

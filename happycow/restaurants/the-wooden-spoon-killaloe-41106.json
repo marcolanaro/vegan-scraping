@@ -1,0 +1,16 @@
+{
+  "title": "The Wooden Spoon",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Raw, Western, Salad bar, Juice bar, Take-out, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fresh to go soups, salads, chili, juices, smoothies. Small  place with vegan, gluten free, and sometimes raw food.",
+  "priceRange": "Moderate",
+  "streetAddress": "4 King St",
+  "phone": "tel:615-757-2879",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:00am-6:30pm, Sat 11:30am-6:30pm, Sun 11:30am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.553411,-77.414711&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.553411,-77.414711&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

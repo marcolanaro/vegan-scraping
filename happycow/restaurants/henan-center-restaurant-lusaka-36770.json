@@ -1,0 +1,16 @@
+{
+  "title": "Henan Center Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Chinese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Tell chef you are vegan and they will custom make a dish for you.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Birdcage Walk",
+  "phone": "tel:+260-969-999-666",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-15.417025,28.306944&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-15.417025,28.306944&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

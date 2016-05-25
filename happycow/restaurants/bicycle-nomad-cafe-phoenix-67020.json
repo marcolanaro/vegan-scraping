@@ -1,0 +1,20 @@
+{
+  "title": "Bicycle Nomad Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Juice bar, Take-out, Bakery\n                                    ",
+  "description": "A vegetarian cafe located inside The Velo Bicycle Shop. Serves coffees, smoothies and food, some of which is vegan. Free Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "828 N 2nd St",
+  "postalCode": "85004",
+  "phone": "tel:602-759-8169",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/BicycleNomadCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.457414,-112.071553&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.457414,-112.071553&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

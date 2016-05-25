@@ -1,0 +1,18 @@
+{
+  "title": "Brick Oven",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Pizza, Italian, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers Daiya cheese as a choice on entire menu, which includes pizzas, calzones, sandwiches, salads. Uses no eggs.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "888 New Los Angeles Ave",
+  "postalCode": "93021",
+  "phone": "tel:805-553-9566",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-9:30pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.279600,-118.874574&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.279600,-118.874574&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

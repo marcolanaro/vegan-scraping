@@ -1,0 +1,18 @@
+{
+  "title": "The Pub and Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pub with banquet room. Offers classic bar fare but also some fresh salads. Has a 4-bean vegetarian chili and a few veggie sandwiches - vegans must specify no cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "20-22 Lincoln Square",
+  "postalCode": "17325",
+  "phone": "tel:717-334-7100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Sat-Sun 11:00am-11:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.831347,-77.231321&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.831347,-77.231321&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The Good Karma Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Fast food, Canadian\n                                    ",
+  "description": "Organic cafe located within the BC Ferry terminal on the Langdale lot. Offers in-house-made muffins, plus cinnamon rolls, specialty coffee, and a few savories. Gluten free, sugar free and vegan available. Uses local ingredients.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6750 Keith Rd",
+  "postalCode": "V7W 2V1",
+  "phone": "tel:604-922-2203",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 6:30am-8:30pm, Fri-Sun 5:30am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.374079,-123.272537&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.374079,-123.272537&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

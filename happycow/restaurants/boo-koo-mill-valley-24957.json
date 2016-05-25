@@ -1,0 +1,17 @@
+{
+  "title": "Boo Koo",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Fast food, Juice bar, Beer/Wine, Take-out, Southeast Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Southeast Asian street food inspired by the food served on the bustling streets of Bangkok, Saigon, Singapore, and Hong Kong. Use organic tofu and locally grown produce. Previously operated as Charlie Hong Kong; reported name change fall 2012.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "25 Miller Ave",
+  "postalCode": "94941",
+  "phone": "tel:415-888-8303",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-8:00pm, Thu-Sat 11:00am-9:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.906250,-122.548319&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.906250,-122.548319&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

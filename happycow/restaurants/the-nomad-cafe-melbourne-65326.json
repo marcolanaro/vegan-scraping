@@ -1,0 +1,18 @@
+{
+  "title": "The Nomad Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, International, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual dining international cuisine. Kitchen prepares every dish from scratch and will accommodate vegan requests. Menu has salads, hummus platter, vegetable wrap, portabello sandwich, beans and rice.",
+  "priceRange": "Moderate",
+  "streetAddress": "2002 S Harbor City Blvd",
+  "postalCode": "32901",
+  "phone": "tel:321-327-2996",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.078444,-80.603223&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.078444,-80.603223&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Bank Square Coffee House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Most pastries are vegan and gluten free. All coffee drinks can be made with organic soy milk. Laid back vibe. Free Wi-fi. Friendly staff. Offers pre-made lunches and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "129 Main St",
+  "postalCode": "12508",
+  "phone": "tel:845-440-7165",
+  "venueHours": "\n                                                                                                        Mon-Thu 6:00am-9:00pm, Fri 6:00am-10:00pm, Sat 7:00am-10:00pm, Sun 7:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.508152,-73.976986&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.508152,-73.976986&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

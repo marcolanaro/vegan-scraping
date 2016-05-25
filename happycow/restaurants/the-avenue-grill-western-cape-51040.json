@@ -1,0 +1,20 @@
+{
+  "title": "The Avenue Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Western, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a dedicated vegan section on the menu, with soy-based steaks and burgers. Also offers a range of starters in a vegan version such as chili-poppers.",
+  "priceRange": "Moderate",
+  "streetAddress": "47 Second Avenue, Harfield Village, Cape Town",
+  "postalCode": "7708",
+  "phone": "tel:021-6710623",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 5:30pm-11:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/the.avenue.restaurant.grill",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.987590,18.474352&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.987590,18.474352&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

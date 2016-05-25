@@ -1,0 +1,17 @@
+{
+  "title": "Lady Marmalade",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, International, Beer/Wine, Fusion, Canadian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual atmosphere. Varied menu of all-day breakfast and lunch. Kitchen will make something vegan where possible upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "898 Queen St E",
+  "postalCode": "M4M 1J3",
+  "phone": "tel:647-351-7645",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-4:00pm, Sat-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.660390,-79.343130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.660390,-79.343130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

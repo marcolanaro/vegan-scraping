@@ -1,0 +1,19 @@
+{
+  "title": "Le Reservoir",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Beer/Wine\n                                    ",
+  "description": "Microbrewery and restaurant, est. 2013. Serving vegetarian bar food like veggie burgers, tacos, and chili.",
+  "priceRange": "Moderate",
+  "streetAddress": "9 rue Duluth E",
+  "postalCode": "H2W 1G6",
+  "phone": "tel:514-849-7779",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 3:00pm-3:00am, Tue-Fri 12:00pm-3:00am, Sat-Sun 3:00pm-3:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Le-Reservoir-157516660936598",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.517237,-73.579318&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.517237,-73.579318&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

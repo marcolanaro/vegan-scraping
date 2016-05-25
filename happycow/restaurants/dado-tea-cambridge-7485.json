@@ -1,0 +1,15 @@
+{
+  "title": "Dado Tea",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Extensive drinks menu featuring teas, coffees, smoothies, and boba drinks. Also a food menu featuring breakfast, wraps, sandwiches, and salads. Vegan items are labeled.",
+  "priceRange": "Moderate",
+  "streetAddress": "955 Massachusetts Ave",
+  "postalCode": "02139",
+  "phone": "tel:617-497-9061",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-8:00pm, Fri 7:00am-6:00pm, Sat 8:00am-6:00pm, Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.369000,-71.110600&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.369000,-71.110600&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

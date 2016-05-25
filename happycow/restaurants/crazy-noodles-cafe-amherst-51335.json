@@ -1,0 +1,17 @@
+{
+  "title": "Crazy Noodles Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Italian, Thai, Beer/Wine, Delivery, Take-out, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual place making eclectic fusion of both Thai noodle and Italian pasta. Will make most dishes vegan when requested. Has tofu as add-on. Cheap lunch specials. Wi-fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "36 Main St",
+  "postalCode": "01002",
+  "phone": "tel:413-253-3287",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 11:00am-9:30pm, Fri-Sat 11:00am-10:00pm, Sun 12:00pm-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.375840,-72.518993&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.375840,-72.518993&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

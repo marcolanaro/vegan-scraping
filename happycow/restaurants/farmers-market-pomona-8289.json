@@ -1,0 +1,13 @@
+{
+  "title": "Farmer's Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Every 2nd Saturday from 5-9pm during Artwalk, year around. Open until 10pm during summer.",
+  "streetAddress": "201 W 2nd St",
+  "postalCode": "91766",
+  "phone": "tel:310-621-0336",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.057816,-117.751299&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.057816,-117.751299&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

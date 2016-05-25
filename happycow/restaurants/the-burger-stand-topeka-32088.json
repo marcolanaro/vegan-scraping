@@ -1,0 +1,20 @@
+{
+  "title": "The Burger Stand",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a vegetarian section on menu, but it's reported that the kitchen uses the same cutlery, cookware, and grill as the meat stuff. Ask and specify.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1601 SW Lane St",
+  "postalCode": "66606",
+  "phone": "tel:785-783-8900",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-2:00am, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/The-Burger-Stand-at-College-Hill/218319651548561",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.038626,-95.696453&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.038626,-95.696453&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Lunch Room Bakery and Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Take-out, Bakery\n                                    ",
+  "description": "Its 2nd location, opened Feb 2015 at Huron Tower Apartments across from the VA Hospital and U-M North Campus. Serves lunch and baked goods (no longer dinner as of May 2015).",
+  "priceRange": "Moderate",
+  "streetAddress": "2200 Fuller Ct Ste 8B",
+  "postalCode": "48105",
+  "phone": "tel:734-224-8872",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/thelunchroombakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.285565,-83.717664&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.285565,-83.717664&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

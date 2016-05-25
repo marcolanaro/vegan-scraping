@@ -1,0 +1,17 @@
+{
+  "title": "CC's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegan offerings are veggie burgers, fries and cole slaw. Also with a day or two notice, owner will develop some vegan meals to choose from. Situated steps away from the beach.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "145 William St",
+  "postalCode": "N5L 1E2",
+  "phone": "tel:519-782-5151",
+  "venueHours": "\n                                                                                                        Tue-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.661352,-81.216089&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.661352,-81.216089&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

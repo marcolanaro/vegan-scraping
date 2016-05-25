@@ -1,0 +1,19 @@
+{
+  "title": "Thailand Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Organic, Thai, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Thai food menu, includes a variety of tofu and vegetable dishes that are vegan suitable. Try the spicy eggplant and the raw vegan rolls. Large portions.",
+  "priceRange": "Moderate",
+  "streetAddress": "721 E Blithedale Ave",
+  "postalCode": "94941",
+  "phone": "tel:415-381-1800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.902207,-122.525957&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.902207,-122.525957&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

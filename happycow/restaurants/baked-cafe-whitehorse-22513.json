@@ -1,0 +1,18 @@
+{
+  "title": "Baked Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Free Wi-fi. Catering. This coffee shop offers Vegan muffins, Vegan soup and pre-made wraps and salads with Vegan options. You get a choice of rice or soymilk for drinks and smoothies. Their green options include solar water heating and compostable take out containers.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "108-100 Main St",
+  "postalCode": "Y1A 1A3",
+  "phone": "tel:867-633-6291",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 7:00am-6:00pm, Sun 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=60.720043,-135.050405&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C60.720043,-135.050405&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

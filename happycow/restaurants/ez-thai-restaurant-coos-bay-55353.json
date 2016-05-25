@@ -1,0 +1,17 @@
+{
+  "title": "EZ Thai Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Standard Thai food menu but waitstaff knows what vegan means. The yellow curry and the salad rolls are vegan suitable; some other dishes can be altered to suit veg. Note that fish sauce is used in many dishes so be sure to clarify at time of ordering.",
+  "priceRange": "Moderate",
+  "streetAddress": "274 S Broadway",
+  "postalCode": "97420 ",
+  "phone": "tel:541-267-8404",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:00am-9:00pm, Sat-Sun 11:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.366144,-124.213057&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.366144,-124.213057&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Toluca Lake Farmer's Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers' market.",
+  "streetAddress": "4500 N Sancola Ave",
+  "postalCode": "91602",
+  "phone": "tel:310-633-3966",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sun 9:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.152211,-118.353804&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.152211,-118.353804&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Garibaldi Ristorante",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Italian, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Family owned Italian restaurant since 1995. Menu is meat-heavy but in 2015 it began offering a separate vegan menu with appetizers, entrees, and desserts. Kitchen breaks from 2:30-5pm.",
+  "priceRange": "Expensive",
+  "streetAddress": "375 St. Paul St E",
+  "postalCode": "L2R3N1",
+  "phone": "tel:905-988-9033",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 11:30am-10:00pm, Sat 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.160594,-79.241479&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.160594,-79.241479&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

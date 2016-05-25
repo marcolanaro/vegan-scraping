@@ -1,0 +1,17 @@
+{
+  "title": "House of Chao",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Take-out, Asian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chinese restaurant offering a large array of veg dishes with multiple preparation styles of tofu and seitan. Also has brown rice. Try the general tso's tofu or the kung pao tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "898 Whalley Ave",
+  "postalCode": "06515",
+  "phone": "tel:203-389-6624",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Sat 12:00pm-10:00pm, Sun 4:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.326957,-72.960384&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.326957,-72.960384&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

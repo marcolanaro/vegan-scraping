@@ -1,0 +1,17 @@
+{
+  "title": "Black Bear Bakery",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Bakery\n                                    ",
+  "description": "Bakery and cafe. Custom baking, European breads. Neighborhood brunch served on Saturday and Sunday.",
+  "priceRange": "Moderate",
+  "streetAddress": "2639 Cherokee",
+  "postalCode": "63118",
+  "phone": "tel:314-771-2236",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 8:00am-5:00pm, Sat-Sun 10:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.593760,-90.227170&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.593760,-90.227170&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

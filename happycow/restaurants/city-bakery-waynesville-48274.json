@@ -1,0 +1,19 @@
+{
+  "title": "City Bakery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Bakery cafe offering breakfast and lunch food. On the lunch menu is a hummus sandwich, a tempeh sandwich (with honey mustard), and you could ask to substitute tempeh in the pastrami reuben sandwich. Soups are sometimes vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "18 N Main St",
+  "postalCode": "28786",
+  "phone": "tel:828-452-3881",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-5:00pm, Sat 8:00am-5:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.489877,-82.987653&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.489877,-82.987653&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

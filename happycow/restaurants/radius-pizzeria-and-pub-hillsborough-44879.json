@@ -1,0 +1,20 @@
+{
+  "title": "Radius Pizzeria and Pub",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pub and pizzeria sourcing ingredients within 250 radius of Hillsborough. Offers complimentary breadsticks that are vegan suitable. Menu is non-veg but could make your pizza vegan upon request.",
+  "priceRange": "Moderate",
+  "streetAddress": "112 N Churton St",
+  "postalCode": "27278",
+  "phone": "tel:919-245-0601",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/RadiusPizzeriaPub",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.075651,-79.099408&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.075651,-79.099408&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Lima Limon",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, International, Buffet\n                                    ",
+  "description": "A cozy 95% vegan buffet restaurant next to Bremgartem main station which is also a tea shop. A diverse menu with Indian, Mexican and Italian dishes, as well as from other countries.",
+  "priceRange": "Moderate",
+  "streetAddress": "Zurcher Strasse 6",
+  "postalCode": "5620",
+  "phone": "tel:0566314545",
+  "venueHours": "\n                                                                                                        Mon-Wed 9:00am-7:00pm, Thu-Sat 9:00am-11:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.351257,8.345426&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.351257,8.345426&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

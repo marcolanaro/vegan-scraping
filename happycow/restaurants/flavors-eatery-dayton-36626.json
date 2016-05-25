@@ -1,0 +1,17 @@
+{
+  "title": "Flavors Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small restaurant in Centerville with two other Ohio locations. Menu includes made-from-scratch soups, wraps, pizza, subs, quesadilla, salads, and smoothies. Meat-heavy but will accommodate vegetarian and vegan requests.",
+  "priceRange": "Moderate",
+  "streetAddress": "865 E Franklin St",
+  "postalCode": "45459",
+  "phone": "tel:937-434-6336",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.628605,-84.143050&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.628605,-84.143050&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

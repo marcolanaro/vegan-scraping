@@ -1,0 +1,19 @@
+{
+  "title": "Cafe One",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Delivery, Take-out, Kosher, Non-veg\n                                    ",
+  "description": "Serves fish, veg options available. A pizza shop that sells pizza by the whole pie and by slice; has falafel. All vegetarian except for fish.",
+  "priceRange": "Moderate",
+  "streetAddress": "15600 10 Mile Southfield Mi Unit 9",
+  "postalCode": "48075",
+  "phone": "tel:248-557-2233",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:00am-7:00pm, Wed-Thu 11:00am-8:00pm, Fri 11:00am-2:00pm, Sat 12:00pm-11:00pm, Sun 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeOne.online",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.474317,-83.202889&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.474317,-83.202889&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

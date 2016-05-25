@@ -1,0 +1,17 @@
+{
+  "title": "Akal Veggies",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Take-out\n                                    ",
+  "description": "This is a lacto-vegetarian Indian restaurant; dairy is used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "103 - 12788 76A Ave",
+  "postalCode": "V3W1S9",
+  "phone": "tel:604-592-2223",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-9:00pm, Wed 11:00am-3:00pm, Wed-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=49.142354,-122.868178&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C49.142354,-122.868178&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

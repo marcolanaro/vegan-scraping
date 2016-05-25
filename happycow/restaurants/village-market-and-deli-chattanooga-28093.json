@@ -1,0 +1,20 @@
+{
+  "title": "Village Market and Deli",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Salad bar, Take-out\n                                    ",
+  "description": "Market and deli/salad bar with seating. Stocks vegan groceries in addition to grain, flour, soy analogs, and other items. No meat.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5002 University Dr",
+  "postalCode": "37315",
+  "phone": "tel:423-236-2300",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-9:00pm, Fri 7:00am-4:00pm, Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/villagemarketcollegedale",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.048915,-85.049429&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.048915,-85.049429&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

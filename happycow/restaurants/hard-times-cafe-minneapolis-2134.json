@@ -1,0 +1,18 @@
+{
+  "title": "Hard Times Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo\n                                    ",
+  "description": "Minneapolis vegetarian cafe with an extensive menu that includes vegan pancake, stir fry with choice of tempeh, tofu, or seitan, and greasy spoon style dishes like breakfast eggs, toast, and hash brown. Strong organic coffee.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1821 Riverside Ave",
+  "postalCode": "55454",
+  "phone": "tel:612-341-9261",
+  "venueHours": "\n                                                                                                        Mon-Sun 6:00am-4:00am\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/hardtimescafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.970080,-93.246850&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.970080,-93.246850&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

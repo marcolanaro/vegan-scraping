@@ -1,0 +1,20 @@
+{
+  "title": "Three Carrots Restaurant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Take-out\n                                    ",
+  "description": "Located in the historical city market in downtown is the first 100% vegan restaurant in the city. Serves breakfast/brunch, sandwiches, salads and soups. The owner also makes the seitan used at other restaurants around the city.",
+  "priceRange": "Moderate",
+  "streetAddress": "222 E Market St",
+  "postalCode": "46204",
+  "phone": "tel:317-403-5867",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 8:00am-6:00pm, Fri 8:00am-8:00pm, Sat 10:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/threeecarrots",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.768466,-86.154055&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.768466,-86.154055&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

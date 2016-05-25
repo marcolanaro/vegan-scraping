@@ -1,0 +1,18 @@
+{
+  "title": "Bua Thai Cuisine",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Thai, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Typical Thai restaurant in the Dupont Circle area. Has separate vegetarian menu section.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1635 P St NW",
+  "postalCode": "20036",
+  "phone": "tel:202-265-0828",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 11:30am-3:00pm, 5:00pm-10:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.909854,-77.038005&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.909854,-77.038005&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

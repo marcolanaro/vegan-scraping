@@ -1,0 +1,19 @@
+{
+  "title": "Marie's Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, International, Beer/Wine, Take-out, Catering, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Food is made to order, and some items can be made vegan. Can substitute olive or vegetable oil instead of butter when sauteing. Homey atmosphere. Reservations recommended for dinner.",
+  "priceRange": "Moderate",
+  "streetAddress": "2260 W Co Hwy 30A",
+  "postalCode": "32459",
+  "phone": "tel:850-837-7538",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.340563,-86.203115&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.340563,-86.203115&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

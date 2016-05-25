@@ -1,0 +1,16 @@
+{
+  "title": "Golden West Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Beer/Wine, Southwestern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Long-established local eatery offering Americana cuisine and Southwest comfort food, rooted in traditional New Mexican specialties. Several marked vegan dishes, including vegan french toast, burrito, vegan riblet sandwich, black bean burger (cheese).",
+  "priceRange": "Moderate",
+  "streetAddress": "1105 W 36th St",
+  "postalCode": "21211",
+  "phone": "tel:410-889-8891",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:00am-1:00am, Fri 10:00am-2:00am, Sat 9:00am-2:00am, Sun 9:00am-1:00am\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/GoldenWestCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.330990,-76.634055&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.330990,-76.634055&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

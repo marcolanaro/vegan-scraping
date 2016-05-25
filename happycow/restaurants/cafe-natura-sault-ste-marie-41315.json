@@ -1,0 +1,17 @@
+{
+  "title": "Cafe Natura",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has plenty of vegan and gluten free options. Most dishes are made-in-house from scratch using mostly organic ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "75 Elgin St",
+  "phone": "tel:705-942-6186",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-5:00pm, Sat 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/cafenaturassm",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.511910,-84.334413&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.511910,-84.334413&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Earth Burger",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Fast food, Take-out\n                                    ",
+  "description": "Vegan-friendly fast food restaurant with a drive-thru option, opened in June 2014 by the operators of Greens Restaurant. Offers sandwiches, burgers, wraps, and healthy sides like hummus & carrots. Free Wi-Fi.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "818 NW Loop 410",
+  "postalCode": "78216",
+  "phone": "tel:210-524-1086",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri 11:00am-8:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.520164,-98.503396&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.520164,-98.503396&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

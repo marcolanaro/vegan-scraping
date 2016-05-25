@@ -1,0 +1,17 @@
+{
+  "title": "Ahimsa Cafe",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Indian, Catering\n                                    ",
+  "description": "Reported re-opened, Jan 2015. Offers dosas, raw desserts, and fresh beverages prepared by a vegan chef.",
+  "priceRange": "Moderate",
+  "streetAddress": "409 S Redwood Hwy",
+  "postalCode": "97523",
+  "phone": "tel:541-660-9797",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue 11:00am-7:00pm, Thu 11:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.161975,-123.646366&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.161975,-123.646366&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

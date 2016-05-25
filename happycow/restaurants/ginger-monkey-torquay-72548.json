@@ -1,0 +1,20 @@
+{
+  "title": "Ginger Monkey",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, International, Italian, Western, Juice bar, Asian\n                                    ",
+  "description": "A vegetarian cafe/coffee house with clearly labeled vegan options. Serves a large and eclectic variety of dishes.",
+  "priceRange": "Moderate",
+  "streetAddress": "4 Baines Cres",
+  "postalCode": "3228",
+  "phone": "tel:%20+61-352648957",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/Ginger-Monkey-912110065545913",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-38.328041,144.315527&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-38.328041,144.315527&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "L.A. Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. California-style cafe offering breakfast and lunch items with several veg including hummus and pita, salads, black bean and vegan veggie burger. Also baked goods, coffee and chocolate drinks. Vegans need to specify (no cheese, etc.). Casual atmosphere, free Wi-Fi. Supports local art and music.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5815 Dixie Hwy",
+  "postalCode": "48329",
+  "phone": "tel:248-623-1610",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:00am-9:00pm, Sat 8:00am-10:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/L-A-Cafe/30058648955",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.702807,-83.403950&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.702807,-83.403950&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

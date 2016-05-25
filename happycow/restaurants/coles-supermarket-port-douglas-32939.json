@@ -1,0 +1,12 @@
+{
+  "title": "Coles Supermarket",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large grocery chain that has a really good fake meat selection including veggie burgers, marinated tofu, breakfast sausages and more. Also sells organic and locally grown produce as well as vegan by default breads and wraps. Their health food section has vegan chocolate and cookies and other items.",
+  "streetAddress": "11-17 Macrossan St",
+  "phone": "tel:07-4099-5366",
+  "venueHours": "\n                                                                                                        Mon-Fri 7:00am-9:00pm, Sat 7:00am-5:30pm, Sun 7:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-16.482065,145.463451&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-16.482065,145.463451&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

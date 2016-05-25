@@ -1,0 +1,16 @@
+{
+  "title": "Bunky's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Mediterranean, Beer/Wine, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Previously a restaurant. Catering only since May 2016.",
+  "priceRange": "Moderate",
+  "streetAddress": "2827 Atwood Ave",
+  "postalCode": "53704",
+  "phone": "tel:608-204-7004",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.093870,-89.342430&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.093870,-89.342430&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

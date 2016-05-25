@@ -1,0 +1,15 @@
+{
+  "title": "Chipotle",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Fast food chain where you could customize your order (tacos, burritos, mexican bowls) and request no cheese/dairy. As of July 2014, vegan tofu based sofritas filling is not yet served in Michigan locations; however, according to their website, they plan to expand soon.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5330 W Saginaw Hwy",
+  "postalCode": "48917",
+  "phone": "tel:517-323-2069",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri 11:00am-4:00pm, Sat-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.743230,-84.627964&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.743230,-84.627964&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

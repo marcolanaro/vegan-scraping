@@ -1,0 +1,17 @@
+{
+  "title": "Thai Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Thai, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual Thai food place that's centrally located in Medford. Although there is not a specific menu for vegetarians/vegans, many items can be customized according to dietary preferences simply by asking the server to have the dish made vegetarian or vegan style. Has wheat-free and gluten-free choices.",
+  "priceRange": "Moderate",
+  "streetAddress": "535 Stevens St",
+  "postalCode": "97504",
+  "phone": "tel:541-772-6200",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.335013,-122.868922&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.335013,-122.868922&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

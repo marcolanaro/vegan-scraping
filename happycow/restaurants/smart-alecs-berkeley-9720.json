@@ -1,0 +1,17 @@
+{
+  "title": "Smart Alec's",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has veggieburgers, salads, and vegan soups. Confirmed open July 2011.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2355 Telegraph Ave",
+  "postalCode": "94704",
+  "phone": "tel:510-704-4000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 10:30am-9:00pm, Sat-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.867860,-122.259470&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.867860,-122.259470&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

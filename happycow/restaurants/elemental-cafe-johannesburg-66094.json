@@ -1,0 +1,15 @@
+{
+  "title": "Elemental Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Pizza, Take-out\n                                    ",
+  "description": "A 100% vegan/vegetarian restaurant serving fresh food including wood fired pizzas, soy-free burgers, wraps, sandwiches and salads. Gluten free options available.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Shop 5, Corner First Ave and Standard Drive, Pine Park - Victory Park",
+  "postalCode": "2195",
+  "phone": "tel:011-7821594/,%20082-6879053",
+  "venueHours": "\n                                                                                                        Mon 7:30am-5:00pm, Tue-Fri 7:30am-6:00pm, Sat 7:30am-4:00pm, Sun 7:30am-2:30pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.125188,28.002785&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.125188,28.002785&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

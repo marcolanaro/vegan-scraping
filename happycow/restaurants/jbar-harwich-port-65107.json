@@ -1,0 +1,19 @@
+{
+  "title": "J.Bar",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Juice bar, Take-out\n                                    ",
+  "description": "Offers fruit and vegetable juices, wheatgrass shots, smoothies, soups, sandwiches, and salads. All vegan except for honey.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "537 Unit 1E Route 28",
+  "postalCode": "02646",
+  "phone": "tel:774-237-9344",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 10:00am-3:00pm, Wed-Fri 7:30am-3:00pm, Sat-Sun 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/jbarcapecod",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.667588,-70.075846&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.667588,-70.075846&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

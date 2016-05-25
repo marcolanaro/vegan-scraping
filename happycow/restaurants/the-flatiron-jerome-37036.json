@@ -1,0 +1,19 @@
+{
+  "title": "The Flatiron",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, American, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a black bean hummus tostada, baked goods, bagels, salads, and soups. Locally roasted Italian espresso can be served with either soy or almond milk. Breakfast all day and lunch menu with organic and local produce.",
+  "priceRange": "Moderate",
+  "streetAddress": "416 Main St",
+  "postalCode": "86331",
+  "phone": "tel:928-634-2733",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 7:30am-4:00pm, Thu-Sun 7:30am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/TheFlatironJeromeAz",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.749769,-112.114598&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.749769,-112.114598&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

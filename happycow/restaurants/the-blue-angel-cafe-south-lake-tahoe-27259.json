@@ -1,0 +1,20 @@
+{
+  "title": "The Blue Angel Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Several vegetarian items on menu: chili, polenta with vegetable, portobello burger, and cheese-less pizza. Any salad can be topped with grilled hoisin sauce marinated tofu. Staff and kitchen are accommodating and will alter dishes to suit.",
+  "priceRange": "Moderate",
+  "streetAddress": "1132 Ski Run Blvd",
+  "postalCode": "96150",
+  "phone": "tel:530-544-6544",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Reservations required",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/tahoeblueangel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.944525,-119.955009&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.944525,-119.955009&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

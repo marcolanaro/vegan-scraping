@@ -1,0 +1,18 @@
+{
+  "title": "That Hummus Place",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Hummus, falafel sandwiches, hand-cut sweet potato fries, and baklava. Since 2014.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "106 S Market St",
+  "postalCode": "21701",
+  "phone": "tel:301-668-0800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 10:30am-8:00pm, Sun 10:30am-6:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.411418,-77.411219&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.411418,-77.411219&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

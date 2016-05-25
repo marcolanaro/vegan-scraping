@@ -1,0 +1,19 @@
+{
+  "title": "Veg'd",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Take-out\n                                    ",
+  "description": "Veggie food bar located in the new Mariano's market. Apr 2016 reported now also using dairy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2323 Capital Dr",
+  "postalCode": "60062",
+  "phone": "tel:847-513-0202",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 6:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/marianosmarket",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.110203,-87.873906&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.110203,-87.873906&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

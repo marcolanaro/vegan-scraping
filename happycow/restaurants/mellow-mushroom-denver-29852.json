@@ -1,0 +1,15 @@
+{
+  "title": "Mellow Mushroom",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Pizza, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of hippie-themed pizzeria chain that offers a variety of vegan topping choices, including vegan cheese (Daiya), tofu, tempeh, and veggies.",
+  "priceRange": "Moderate",
+  "streetAddress": "1201 16th St",
+  "postalCode": "80202",
+  "phone": "tel:720-328-9114",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-10:00pm, Thu-Sat 11:00am-12:00am, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.749215,-104.997115&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.749215,-104.997115&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

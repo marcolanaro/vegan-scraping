@@ -1,0 +1,13 @@
+{
+  "title": "Aptos Farmer's Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Year-round farmers' market on the Cabrillo College campus.",
+  "streetAddress": "6500 Soquel Dr",
+  "postalCode": "95003",
+  "phone": "tel:831-728-5060",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 8:00am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.987276,-121.927039&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.987276,-121.927039&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

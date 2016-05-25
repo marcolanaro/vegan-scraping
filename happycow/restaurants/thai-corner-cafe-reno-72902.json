@@ -1,0 +1,19 @@
+{
+  "title": "Thai Corner Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Thai, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Could choose tofu or mixed vegetables in your dish. Specify no fish sauce, egg, etc...",
+  "priceRange": "Moderate",
+  "streetAddress": "100 W 2nd St",
+  "postalCode": "89501",
+  "phone": "tel:775-327-4333",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/thaicornercafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.526495,-119.814785&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.526495,-119.814785&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

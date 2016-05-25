@@ -1,0 +1,18 @@
+{
+  "title": "Succotash",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a vegan breakfast menu items 'the kitchen sink skillet' and pancakes available daily. Has other vegan options as well. Has a vegan-friendly full coffee/cappuccino bar and a juice bar.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2601 Holmes St",
+  "postalCode": "64108",
+  "phone": "tel:816-421-2807",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:00am-2:00pm, Sat-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.079041,-94.576106&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.079041,-94.576106&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

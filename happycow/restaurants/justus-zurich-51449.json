@@ -1,0 +1,15 @@
+{
+  "title": "Justus",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Beer/Wine, Take-out, European, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Organic restaurant offering seasonal menus with some vegetarian food. A retail and deli area sells food for take home.",
+  "priceRange": "Moderate",
+  "streetAddress": "Asylstrasse 70",
+  "postalCode": "8032",
+  "phone": "tel:044-3802181",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.367319,8.560786&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.367319,8.560786&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Pizza Luce",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Italian, Fast food, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Veggie pizza toppings upon request. Has 2 types of soy cheese, rinotta, mockmeats, tofu. Also has salads and vegetarian appetizers.",
+  "priceRange": "Moderate",
+  "streetAddress": "11 E Superior St",
+  "postalCode": "55802",
+  "phone": "tel:218-727-7400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=46.786930,-92.097760&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C46.786930,-92.097760&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

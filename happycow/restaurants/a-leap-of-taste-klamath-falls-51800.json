@@ -1,0 +1,16 @@
+{
+  "title": "A Leap of Taste",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This coffee house also offers sandwiches of which one is vegetarian and could get tempeh as add-on. Vegans need to specify. Offers pizza on Thursday and Friday. Brews organic coffee. Free Wi-Fi, occasional live music.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "907 Main St",
+  "phone": "tel:541-850-9414",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-6:00pm, Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.227119,-121.780323&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.227119,-121.780323&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

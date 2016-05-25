@@ -1,0 +1,15 @@
+{
+  "title": "Capital City Bakery",
+  "tags": [
+    "Bakery",
+    "Vegan"
+  ],
+  "description": "Vegan cupcake bakery; previously a food truck. This location opened Dec 2012.",
+  "streetAddress": "2211 E Cesar Chavez",
+  "postalCode": "78702",
+  "phone": "tel:512-666-7437",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 10:00am-7:00pm, Fri-Sat 10:00am-9:00pm, Sun 10:00am-5:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/CapCityBakery",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.255224,-97.719947&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.255224,-97.719947&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

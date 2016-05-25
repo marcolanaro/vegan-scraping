@@ -1,0 +1,18 @@
+{
+  "title": "Indian Kitchen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Indian, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small, family-run Indian restaurant. Non-veg menu but has several veggie curries and other dishes, many types of naan bread. Prices cheap to moderate.",
+  "priceRange": "Moderate",
+  "streetAddress": "6061 Magnolia Ave",
+  "postalCode": "92506",
+  "phone": "tel:951%20275-5316",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.960181,-117.392252&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.960181,-117.392252&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

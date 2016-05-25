@@ -1,0 +1,19 @@
+{
+  "title": "Grove Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. An \"earth to table\" restaurant that uses fresh, local ingredients. The regular menu is primarily meat - ask for the vegan menu! Kitchen can make a requested dish vegan when you ask, including dessert. Al Fresco menu Tue-Thur 5-6:30pm.",
+  "priceRange": "Expensive",
+  "streetAddress": "919 Cherry St SE",
+  "postalCode": "49506",
+  "phone": "tel:616-454-1000",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Thu 5:00pm-10:00pm, Fri-Sat 5:00pm-11:00pm, Sun 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/grovegr",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.959825,-85.646852&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.959825,-85.646852&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Senor Wong",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Beer/Wine, Mexican, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Gastropub restaurant atmosphere. Tapas and craft beer. Several veg dishes in all menu categories. Full bar, live music.",
+  "priceRange": "Moderate",
+  "streetAddress": "111 Kellogg Blvd E",
+  "postalCode": "55101",
+  "phone": "tel:651-224-2019",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.945904,-93.090279&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.945904,-93.090279&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

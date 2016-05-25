@@ -1,0 +1,13 @@
+{
+  "title": "Cornucopia Foods",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Organic Produce, Vitamins, small but with huge variety, some premade sandwiches and lunches.",
+  "streetAddress": "150 Main St Ste 8",
+  "postalCode": "01062",
+  "phone": "tel:413-586-3800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 9:00am-8:00pm, Thu-Sat 9:00am-9:00pm, Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.339470,-72.677130&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.339470,-72.677130&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "sweetgreen",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Organic, Salad bar, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Salad restaurant. Could build your own salad; has tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "4075 Wilson Blvd",
+  "postalCode": "22217",
+  "phone": "tel:703-522-2016",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/sweetgreen",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.880246,-77.108616&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.880246,-77.108616&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

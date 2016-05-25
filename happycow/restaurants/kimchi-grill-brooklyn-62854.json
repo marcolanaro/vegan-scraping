@@ -1,0 +1,17 @@
+{
+  "title": "Kimchi Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Ovo, Take-out, Fusion, Korean, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Korean fusion that's meat-based but has vegan menu items including 3 tacos, a few sides (kimchi fries, Korean gnocchi), and 2 bowls (eg. tofu-edamame-falafel with rice, kimchi & vegetables) -- be sure to specify vegan to be sure. Has 3 kinds of vegan kimchi.",
+  "priceRange": "Moderate",
+  "streetAddress": "478 Smith St",
+  "postalCode": "11231",
+  "phone": "tel:718-797-1889",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-10:00pm, Fri-Sat 11:00am-10:30pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.674725,-73.998016&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.674725,-73.998016&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

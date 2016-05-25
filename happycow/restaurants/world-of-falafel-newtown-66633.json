@@ -1,0 +1,18 @@
+{
+  "title": "World of Falafel",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Fast food, Take-out, Middle Eastern, Israeli\n                                    ",
+  "description": "A 100% vegan and kosher falafel quick serve restaurant. Falafel is gluten free, but pita bread is not. Uses two separate fryers, one for fries & pita other for just falafel.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "14 S State St, Floor 1",
+  "postalCode": "18940",
+  "phone": "tel:215-860-5128",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-8:00pm, Fri 11:00am-4:00pm, Sat 7:00pm-11:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/worldoffalafel",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.228899,-74.936784&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.228899,-74.936784&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Good Harbor Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, International, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual setting, freshly prepared foods like lunch sandwiches and wraps, soups, salads. At dinner there is vegetables and a tofu stir fry.",
+  "priceRange": "Moderate",
+  "streetAddress": "6584 Western Ave",
+  "postalCode": "49636",
+  "phone": "tel:231-334-3555",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.897775,-85.992621&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.897775,-85.992621&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

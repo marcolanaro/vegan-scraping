@@ -1,0 +1,12 @@
+{
+  "title": "Bio Shop Viktoria",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Health food shop has organic groceries. Directions: The Pilatusstrasse exit is sign posted in the main train station, and shop is 5 minute walk south from there.",
+  "streetAddress": "Pilatusstrasse 19",
+  "phone": "tel:041-2100515",
+  "venueHours": "\n                                                                                                        Mon-Fri 8:00am-12:00pm, 1:00pm-6:00pm, Sat 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.048700,8.305950&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.048700,8.305950&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

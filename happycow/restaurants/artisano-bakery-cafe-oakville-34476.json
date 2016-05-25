@@ -1,0 +1,17 @@
+{
+  "title": "Artisano Bakery Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Italian, Bakery, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Part of chain restaurant. Offers an extensive menu with sandwich, panini, pizza, pasta, and more. Could get veggie food but uses egg and/or dairy.",
+  "priceRange": "Moderate",
+  "streetAddress": "3505 Wyecroft Rd",
+  "postalCode": "L6L 0B6",
+  "phone": "tel:905-825-5271",
+  "venueHours": "\n                                                                                                        Mon-Sat 8:30am-8:30pm, Sun 8:30am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.396551,-79.747632&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.396551,-79.747632&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

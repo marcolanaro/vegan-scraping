@@ -1,0 +1,18 @@
+{
+  "title": "Go Vegan",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, Juice bar, Take-out, Asian, Vietnamese\n                                    ",
+  "description": "Vegan restaurant opened late-Sept 2014, in a shopping plaza with plenty of parking. Glutne-free options. Has Wi-Fi.",
+  "priceRange": "Moderate",
+  "streetAddress": "2940 Delta Fair Blvd",
+  "postalCode": "94509",
+  "phone": "tel:925-777-9117",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.000297,-121.837852&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.000297,-121.837852&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

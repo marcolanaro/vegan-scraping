@@ -1,0 +1,18 @@
+{
+  "title": "The Green Room On High Street",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Organic, Western, Juice bar, Cafe\n                                    ",
+  "description": "This restaurant has a relaxed atmosphere where outdoor garden dining is an option. Saturdays are busiest with the farmers market just across the road.\r\n",
+  "priceRange": "Moderate",
+  "streetAddress": "2 High St, Willunga",
+  "phone": "tel:08-8556-4994",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 8:00am-3:00pm, Tue-Fri 8:00am-5:00pm, Sat 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-35.272338,138.554609&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-35.272338,138.554609&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

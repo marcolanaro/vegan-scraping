@@ -1,0 +1,16 @@
+{
+  "title": "Mary's Place Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Middle Eastern, Lebanese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. North end Halifax eatery with a vegan brunch, with all the Lebanese cuisine in large portions.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2752 Robie St",
+  "phone": "tel:902-454-2558",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-7:30pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.656897,-63.598126&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.656897,-63.598126&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

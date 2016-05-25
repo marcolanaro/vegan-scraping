@@ -1,0 +1,13 @@
+{
+  "title": "Gardena Saturday Farmers' Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Outdoor farmers' market.",
+  "streetAddress": "Van Ness Ave",
+  "postalCode": "90249",
+  "phone": "tel:323-777-1755",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 6:30am-12:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.916409,-118.317778&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.916409,-118.317778&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

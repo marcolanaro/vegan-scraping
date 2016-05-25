@@ -1,0 +1,17 @@
+{
+  "title": "Dim Sum Chef",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Chinese, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has dim sum as well as plated options. Veg items include barbecue imitation pork, imitation chicken, imitation abalone, vegetarian rice noodle roll, tofu dishes, Shanghai bun, and more.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1095 Commonwealth Ave",
+  "postalCode": "02215",
+  "phone": "tel:617-254-2073",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.352220,-71.124110&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.352220,-71.124110&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The Plant",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Western, Fast food, Beer/Wine, Take-out, Catering\n                                    ",
+  "description": "Vegan fast food eatery opened Nov 2015 in the Teatern food court inside Ringen's shopping center. Serves meals, coffee, and drinks. Weekday breakfast til 10:45am. Dishes vary seasonally. Does not accept cash.",
+  "priceRange": "Moderate",
+  "streetAddress": "Gotgatan 132",
+  "postalCode": "118 62",
+  "phone": "tel:08-215152",
+  "venueHours": "\n                                                                                                        Mon-Thu 7:30am-9:00pm, Fri-Sat 7:30am-10:00pm, Sun 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/theplant.se",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.308298,18.075978&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.308298,18.075978&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

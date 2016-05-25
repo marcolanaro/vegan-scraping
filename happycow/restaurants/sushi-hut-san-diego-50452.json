@@ -1,0 +1,19 @@
+{
+  "title": "Sushi Hut",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Japanese, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Franchise sushi fast food concept. Menu includes a few veg choices: vegetarian roll, inari (beancurd pockets with rice), summer roll substitute tofu. Must specify if you want your rolls vegan.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8240 E Mira Mesa Blvd",
+  "postalCode": "92126",
+  "phone": "tel:858-689-2575",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=32.912773,-117.145413&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C32.912773,-117.145413&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

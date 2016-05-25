@@ -1,0 +1,17 @@
+{
+  "title": "Bareburger",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Organic, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Chain restaurants offering primarily burgers. Uses natural and organic ingredients, and marks vegan and gluten-free choices. Customize your burger by choosing a patty, bread or wrap, and toppings. The vegan suitable patties are black bean, veggies & quinoa, and portabello mushroom. Has vegan cheese.",
+  "priceRange": "Moderate",
+  "streetAddress": "155 William St",
+  "postalCode": "10038",
+  "phone": "tel:646-657-0388",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.709941,-74.006093&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.709941,-74.006093&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

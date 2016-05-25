@@ -1,0 +1,17 @@
+{
+  "title": "Crave - Food Truck",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Organic, Fast food, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Food truck offering build-your-own wraps, sandwiches, and salads. Has smoothies. Meat used is tuna salad and chicken.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "134 Riberia St",
+  "postalCode": "32084",
+  "phone": "tel:305-297-1885",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.888472,-81.319013&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.888472,-81.319013&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

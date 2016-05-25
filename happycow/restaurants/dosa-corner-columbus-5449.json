@@ -1,0 +1,17 @@
+{
+  "title": "Dosa Corner",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Indian, Fast food, Take-out\n                                    ",
+  "description": "Small, simple shop. Specializes in vegetarian South Indian cuisine.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1077 Old Henderson Rd",
+  "postalCode": "43220",
+  "phone": "tel:614-459-5515",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 5:00pm-9:00pm, Tue-Sat 11:00am-9:00pm, Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.051500,-83.047630&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.051500,-83.047630&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

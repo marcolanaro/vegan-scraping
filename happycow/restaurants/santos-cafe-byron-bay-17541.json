@@ -1,0 +1,18 @@
+{
+  "title": "Santos Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, International, Organic, Western, Fast food, Juice bar\n                                    ",
+  "description": "Cafe inside the health food store. Serves a range of vegetarian, vegan and raw food meals, sweets, juices. Seating in garden at rear.",
+  "priceRange": "Moderate",
+  "streetAddress": "105 Johnson Street, Byron Bay",
+  "postalCode": "2481",
+  "phone": "tel:02-6685-7071",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 8:30am-6:00pm, Sat 9:00am-5:00pm, Sun 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-28.644162,153.612379&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-28.644162,153.612379&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

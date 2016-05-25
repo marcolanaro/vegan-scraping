@@ -1,0 +1,18 @@
+{
+  "title": "Book Trader Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Charming cafe offerings sandwiches, coffee, and used books. Has one vegan roasted sandwich and a couple vegan baked goods.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1140 Chapel St",
+  "postalCode": "06511",
+  "phone": "tel:203-787-6147",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.308640,-72.932410&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.308640,-72.932410&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

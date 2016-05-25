@@ -1,0 +1,16 @@
+{
+  "title": "Whole Foods Market",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Part of large natural foods supermarket chain. Offers fresh produce including organic, deli, vitamins, supplements, body care products, grocery, and much more.",
+  "streetAddress": "880 Main St",
+  "postalCode": "02176",
+  "phone": "tel:781-606-3400",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/WFM.Melrose",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.464876,-71.062411&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.464876,-71.062411&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

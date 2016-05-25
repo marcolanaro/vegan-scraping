@@ -1,0 +1,18 @@
+{
+  "title": "Grand Central Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Pizza, Beer/Wine, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A funky pizza joint with a brick oven. Menu offers a large vegetarian pizza section; also quesadilla, salads, sandwiches. Could build your own pizza with vegan (soy) cheese. Kitchen makes soups that are all vegetarian and sometimes vegan. Selection of Maine-produced beer and cider.",
+  "priceRange": "Moderate",
+  "streetAddress": "10 Railroad Square",
+  "postalCode": "04901",
+  "phone": "tel:207-872-9135",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 5:00pm-8:00pm, Thu 11:00am-8:00pm, Fri-Sat 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Grand-Central-Cafe/112704472112391",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.556683,-69.630657&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.556683,-69.630657&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Mango Bistro",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers a few veg/vegan choices for wraps, sandwiches, and salads. Sometimes the day's soup is veg-friendly such as veggie chili. Bright island colors and decor with live music Fri-Sat nights.",
+  "priceRange": "Moderate",
+  "streetAddress": "301 W Dearborn St",
+  "postalCode": "34223",
+  "phone": "tel:941-681-3500",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-3:00pm, Fri-Sat 9:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/mangobistro",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=26.961909,-82.359298&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C26.961909,-82.359298&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

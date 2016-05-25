@@ -1,0 +1,17 @@
+{
+  "title": "Surrey's Cafe and Juice Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Juice bar, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Brunch spot with plenty of vegetarian and a few vegan choices, clearly marked on the menu. Fresh squeezed organic juices, daily specials. Long lines on the weekends.",
+  "priceRange": "Moderate",
+  "streetAddress": "1418 Magazine St",
+  "postalCode": "70130",
+  "phone": "tel:504-524-3828",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.935861,-90.071995&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.935861,-90.071995&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

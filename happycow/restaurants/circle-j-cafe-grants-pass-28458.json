@@ -1,0 +1,18 @@
+{
+  "title": "Circle J Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Italian, Organic, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Small, eclectic cafe with a pizza list on the backside of menu. Vegetarian options in every category and kitchen is open to making dishes vegan/veg upon request. Has kids' menu.",
+  "priceRange": "Moderate",
+  "streetAddress": "241 SW G St",
+  "postalCode": "97526",
+  "phone": "tel:541-479-8080",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.439006,-123.329496&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.439006,-123.329496&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

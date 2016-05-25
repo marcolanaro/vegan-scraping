@@ -1,0 +1,19 @@
+{
+  "title": "Orange Cat Coffee Co.",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Take-out\n                                    ",
+  "description": "Small coffee shop in a multi roomed historical building. Serves all vegan cookies, muffins, scones, soups, salads, and sandwiches. Dairy milk and honey provided for non vegan coffee drinkers.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "703 Center St",
+  "postalCode": "19092",
+  "phone": "tel:716-754-2888",
+  "venueHours": "\n                                                                                                        Mon-Fri 6:00am-6:00pm, Sat 8:00am-6:00pm, Sun 8:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Lewiston-NY/Orange-Cat-Coffee-Co/16993583882",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.172230,-79.038670&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.172230,-79.038670&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

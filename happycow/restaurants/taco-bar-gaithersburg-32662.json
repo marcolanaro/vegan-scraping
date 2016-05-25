@@ -1,0 +1,20 @@
+{
+  "title": "Taco Bar",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual, Mexican food place. The vegetarian section includes around 9 items: bean tacos, tostada, burrito, and others. Cheese and sour cream used.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "3 Russell Ave",
+  "postalCode": "20877",
+  "phone": "tel:301-987-9015",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 10:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards",
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/pages/Taco-Bar/218380342326",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.142541,-77.196094&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.142541,-77.196094&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

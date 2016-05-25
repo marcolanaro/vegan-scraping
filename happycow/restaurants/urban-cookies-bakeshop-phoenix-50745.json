@@ -1,0 +1,14 @@
+{
+  "title": "Urban Cookies Bakeshop",
+  "tags": [
+    "Bakery"
+  ],
+  "description": "This little bake shop makes also vegan gluten free treats like dark chocolate walnut cookies and various flavors of doughnuts.",
+  "streetAddress": "4711 N 7th St",
+  "postalCode": "85014",
+  "phone": "tel:602-451-4335",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 9:00am-6:00pm, Sat 9:00am-5:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/UrbanCookiesBakeshop",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.506047,-112.064660&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.506047,-112.064660&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

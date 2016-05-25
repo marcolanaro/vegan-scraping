@@ -1,0 +1,19 @@
+{
+  "title": "Formosa Tea House",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Buddhist\n                                    ",
+  "description": "A tea house with a small menu of Buddhist vegan dishes.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "15 Lemarchant Rd, Newfoundland and Labrador",
+  "postalCode": "A1C2G4",
+  "phone": "tel:709-579-8973",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 12:00pm-7:00pm, Wed 12:00pm-5:00pm, Thu-Fri 12:00pm-7:00pm, Sat 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/house.formosa",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=47.563687,-52.715226&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C47.563687,-52.715226&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

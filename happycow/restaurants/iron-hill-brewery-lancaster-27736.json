@@ -1,0 +1,20 @@
+{
+  "title": "Iron Hill Brewery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Brewery and restaurant. Will make vegan food upon request.",
+  "priceRange": "Expensive",
+  "streetAddress": "781 Harrisburg Pike",
+  "postalCode": "17603",
+  "phone": "tel:717-291-9800",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 11:00am-10:00pm, Thu-Sat 11:00am-12:00am, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/pages/Iron-Hill-Brewery-and-Restaurant/50071072218",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.050715,-76.318882&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.050715,-76.318882&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Corner Grocers",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A small grocery store across the street from Teanyssimo that has a deli counter where all of the desserts are vegan and around 1/3 of the menu is vegan and 1/3 is vegetarian. No seating. Serves sandwiches, paninis, and wraps.",
+  "streetAddress": "140 Orchard St",
+  "postalCode": "10002",
+  "phone": "tel:212-388-1080",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.719975,-73.989178&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.719975,-73.989178&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

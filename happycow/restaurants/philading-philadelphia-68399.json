@@ -1,0 +1,19 @@
+{
+  "title": "PhilaDing - Food Stand",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Mediterranean, Middle Eastern, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vendor inside the Chestnut Hill farmers market offering vegetarian and vegan food choices, such as cabbage slaw, portabella hummus wrap, quinoa guacamole wrap, avocado kale salad, plus vegan cookies & brownies.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "8229 Germantown Ave",
+  "postalCode": "19118",
+  "phone": "tel:267-287-8591",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Thu-Fri 9:00am-6:00pm, Sat 8:00am-5:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/PhilaDing",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.074193,-75.203058&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.074193,-75.203058&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

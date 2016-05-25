@@ -1,0 +1,13 @@
+{
+  "title": "Whole Foods Market - Bellaire",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "Large supermarket chain, has Deli, organic produce, vitamins.",
+  "streetAddress": "4004 Bellaire Blvd",
+  "postalCode": "77025",
+  "phone": "tel:713-667-4090",
+  "venueHours": "\n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.705930,-95.440850&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.705930,-95.440850&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

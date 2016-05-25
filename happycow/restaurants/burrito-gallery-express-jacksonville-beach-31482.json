@@ -1,0 +1,18 @@
+{
+  "title": "Burrito Gallery Express",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Beer/Wine, Take-out, Mexican, Tex-Mex, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Casual fast food place offering a teriyaki tofu burrito, a grilled veggie burrito, tofu tacos, bean tacos, in-house-made guacamole and green salsa. Vegans need to ask to omit cheese and sub chips for coleslaw.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1333 3rd St N",
+  "postalCode": "32250",
+  "phone": "tel:904-242-8226",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-9:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=30.301039,-81.394041&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C30.301039,-81.394041&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

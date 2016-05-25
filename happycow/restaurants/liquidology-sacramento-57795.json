@@ -1,0 +1,19 @@
+{
+  "title": "Liquidology",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Organic, Raw, Juice bar, Take-out\n                                    ",
+  "description": "Juice bar down the street from CSU Sacramento. Offers bottled juices plus smoothies, nut milk, and pre-packaged vegan food for grab n go.",
+  "priceRange": "Moderate",
+  "streetAddress": "4601 H St",
+  "postalCode": "95819",
+  "phone": "tel:916-970-5102",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 7:00am-6:00pm, Fri 7:00am-4:00pm, Sat-Sun 9:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/LiquidologyBar",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.570324,-121.444353&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.570324,-121.444353&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

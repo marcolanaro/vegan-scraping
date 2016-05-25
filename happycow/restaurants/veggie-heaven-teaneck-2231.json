@@ -1,0 +1,16 @@
+{
+  "title": "Veggie Heaven",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Delivery, Take-out, Asian\n                                    ",
+  "description": "Serves vegetarian Chinese cuisine including an array of mockmeat dishes, spring rolls, tofu, and vegetable dishes. Large menu. Quiet, calm environment.",
+  "priceRange": "Moderate",
+  "streetAddress": "473 Cedar Lane",
+  "postalCode": "07666",
+  "phone": "tel:201-836-0887",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-10:00pm, Fri 11:30am-10:30pm, Sat 12:00pm-10:30pm, Sun 12:00pm-9:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/veggieheaventeaneck",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.889220,-74.022550&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.889220,-74.022550&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

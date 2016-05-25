@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Dareye",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Take-out, Ethiopian, African\n                                    ",
+  "description": "Small Ethiopian cafe offering all-veggie combo meal with gluten-free injera. Also sells some spices, lentils, coffee, and dried goods. Since spring 2015.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "2504 Telegraph Ave",
+  "postalCode": "94612",
+  "phone": "tel:510-817-4548",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 9:00am-8:00pm, Wed-Sat 9:00am-8:00pm, Sun 9:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafedareye",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.814784,-122.268054&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.814784,-122.268054&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

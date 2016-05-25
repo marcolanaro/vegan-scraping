@@ -1,0 +1,20 @@
+{
+  "title": "Cafe Nurcha",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Organic, Raw, Western, Juice bar\n                                    ",
+  "description": "Family-run vegan cafe inside Coastal Wellbeing holistic health & gift store. Offers coconut milk coffee, smoothies, cold pressed juices. With a variety of breakfast and lunch options, such as the vegan burger and nachos, plus a selection of raw cakes and other desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "32 Wises Rd, The Zone",
+  "postalCode": "4558",
+  "phone": "tel:07-54790746",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:30am-5:00pm, Sat 7:30am-4:00pm, Sun 10:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafenurcha",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-26.672997,153.090993&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-26.672997,153.090993&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

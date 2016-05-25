@@ -1,0 +1,17 @@
+{
+  "title": "Counter Culture Cafe",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, American, Take-out\n                                    ",
+  "description": "Cafe inside a health food market. Offers four seasonal menus with vegan and gluten free options. In addition to sandwiches and wraps, it also offers a daily soup, bean and sides. Saturday is \"grab and go\" only - no cafe service.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "110 W Washington St",
+  "postalCode": "24450",
+  "phone": "tel:540-463-6954",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.785660,-79.442830&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.785660,-79.442830&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

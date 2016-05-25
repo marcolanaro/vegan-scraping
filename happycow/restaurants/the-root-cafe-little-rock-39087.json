@@ -1,0 +1,19 @@
+{
+  "title": "The Root Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, American, Organic, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Try the vegan tofu scrambler which consists of organic tofu seasoned with turmeric, cumin, and nutritional yeast prepared with grilled onions and peppers; served with a small side salad. Has quite a few other vegan choices including vegan mayo.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1500 S Main St",
+  "postalCode": "72202",
+  "phone": "tel:501-414-0423",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Tue-Fri 7:00am-2:30pm, Sat 8:00am-3:30pm, Sun 9:00am-2:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/rootcafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=34.734319,-92.273043&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C34.734319,-92.273043&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

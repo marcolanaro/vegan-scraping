@@ -1,0 +1,16 @@
+{
+  "title": "Royale Eatery",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Western, Fast food, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Burger joint directly under the Waiting Room (a funk bar). Vegetarian section on menu features approximately 20 veg burgers that range from soy based patties to chickpea burgers with various toppings. Burgers comes with sweet potato fries or potato wedges. Has salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "273 Long Street, Cape Town",
+  "phone": "tel:021-4224536",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-33.926290,18.414940&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-33.926290,18.414940&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

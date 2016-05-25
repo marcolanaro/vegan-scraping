@@ -1,0 +1,18 @@
+{
+  "title": "Happy Veggie",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, Chinese, Thai, Take-out, Vietnamese\n                                    ",
+  "description": "Small vegan restaurant serving Asian vegan cuisine using a variety of mockmeats. No alcohol. Location is in the same shopping center as Carl's Jr, just north of Redondo Pier.",
+  "priceRange": "Moderate",
+  "streetAddress": "709 N Pacific Coast Hwy",
+  "postalCode": "90277",
+  "phone": "tel:310-379-5035",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon 11:00am-3:00pm, 5:00pm-9:00pm, Wed-Sat 11:00am-3:00pm, 5:00pm-9:00pm, Sun 12:00pm-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/happyveggie",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.830550,-118.385150&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.830550,-118.385150&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

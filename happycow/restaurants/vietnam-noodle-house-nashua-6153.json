@@ -1,0 +1,17 @@
+{
+  "title": "Vietnam Noodle House",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Asian, Vietnamese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Has a separate vegetarian menu featuring imitation meats. Try the rice noodle dishes and soups.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "138 Main St",
+  "postalCode": "03060",
+  "phone": "tel:603-886-4566",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.761240,-71.465440&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.761240,-71.465440&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

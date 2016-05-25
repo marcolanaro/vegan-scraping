@@ -1,0 +1,18 @@
+{
+  "title": "Cafe Lumiere",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers vegan versions in drinks and occasionally vegan baked goods.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "365 Calle Principal",
+  "postalCode": "93940",
+  "phone": "tel:831-920-2451",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 7:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/CafeLumiereMonterey",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.600380,-121.894891&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.600380,-121.894891&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

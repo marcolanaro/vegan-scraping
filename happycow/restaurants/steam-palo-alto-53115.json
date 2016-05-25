@@ -1,0 +1,18 @@
+{
+  "title": "Steam",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Chinese, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A modern day wooden tea house specializes in dim sum; has steamed dumplings also tofu dishes, like chef's specialty ma po tofu; stir-fried vegetables including pea shoots with garlic; rice and noodle dishes made to your specifications; and steamed brown rice.",
+  "priceRange": "Moderate",
+  "streetAddress": "209 University Ave",
+  "postalCode": "94301",
+  "phone": "tel:650-322-1888",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:30pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:30pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.444974,-122.162756&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.444974,-122.162756&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

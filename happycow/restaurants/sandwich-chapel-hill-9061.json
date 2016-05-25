@@ -1,0 +1,15 @@
+{
+  "title": "Sandwich",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, Organic, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Makes its own bread for sandwiches, warm potato chips, sometimes vegetarian soup, morroccan mint tea. Uses farmer's market fresh, organic when possible, locally grown ingredients.",
+  "priceRange": "Moderate",
+  "streetAddress": "431 W Franklin St",
+  "postalCode": "27516",
+  "phone": "tel:919-968-8993",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=35.911250,-79.060810&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C35.911250,-79.060810&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

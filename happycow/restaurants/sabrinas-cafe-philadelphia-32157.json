@@ -1,0 +1,19 @@
+{
+  "title": "Sabrina's Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Multiple locations offering New American cuisine. A few vegan choices, including seitan cheesesteak, scrambled tofu breakfast, deep fried tofu with soba noodles. Kitchen can modify dishes and add tofu, hummus, guacamole, for example. BYOB.",
+  "priceRange": "Moderate",
+  "streetAddress": "910 Christian St",
+  "postalCode": "19147",
+  "phone": "tel:215-574-1599",
+  "venueHours": "\n                                                                                                        Mon 8:00am-4:00pm, Tue-Thu 8:00am-9:00pm, Fri-Sat 8:00am-10:00pm, Sun 8:00am-4:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SabrinasCafe",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.938950,-75.158220&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.938950,-75.158220&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

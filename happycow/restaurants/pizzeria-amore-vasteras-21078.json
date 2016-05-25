@@ -1,0 +1,19 @@
+{
+  "title": "Pizzeria Amore",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Pizza, Fast food, Take-out, Middle Eastern, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizzeria offering a separate menu selection of vegan pizzas and vegetarian pizzas. Note that the vegan menu prices cost more than the regular menu items. Also offers falafel and has a falafel pizza.",
+  "priceRange": "Moderate",
+  "streetAddress": "Smedjegatan 2",
+  "postalCode": "722 13",
+  "phone": "tel:+4621148280",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri 11:00am-10:00pm, Sat 12:00pm-10:00pm, Sun 12:00pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=59.612023,16.547199&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C59.612023,16.547199&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

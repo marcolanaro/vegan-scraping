@@ -1,0 +1,19 @@
+{
+  "title": "Cafe Jasmin",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. A pleasant place in downtown Palm Springs. Owner is helpful with vegan suggestions. Has split pea soup, lentil soup, potato pie with strudel dough, hot potatoes and cold cabbage in vinagrette, apple strudel, hummus, and salads.",
+  "priceRange": "Moderate",
+  "streetAddress": "125 E Tahquitz Canyon Way Ste 103",
+  "postalCode": "92262",
+  "phone": "tel:760-320-7535",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafe.jasmine",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.823110,-116.546550&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.823110,-116.546550&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

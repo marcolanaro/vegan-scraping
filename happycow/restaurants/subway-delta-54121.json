@@ -1,0 +1,18 @@
+{
+  "title": "Subway",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Fast food, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. This franchise fast food sandwich shop is one of few choices in town for veggie food, and that's why it's listed on happycow. Could customize your sandwich.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "220 N Palmer Ste A",
+  "postalCode": "81416",
+  "phone": "tel:970-874-7763",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Fri 7:00am-10:00pm, Sat-Sun 8:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.746546,-108.071358&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.746546,-108.071358&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

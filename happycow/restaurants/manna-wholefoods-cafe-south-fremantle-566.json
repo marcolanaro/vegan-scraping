@@ -1,0 +1,17 @@
+{
+  "title": "Manna Wholefoods Cafe",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Organic, Raw, Western, Take-out, Australian, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Health shop with a little organic cafe inside. Offers some vegetarian and vegan food as well raw desserts.",
+  "priceRange": "Moderate",
+  "streetAddress": "274 South Tce",
+  "postalCode": "6162",
+  "phone": "tel:08-9335-7995",
+  "venueHours": "\n                                                                                                        Mon-Sun 8:00am-6:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=-32.065638,115.752553&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C-32.065638,115.752553&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

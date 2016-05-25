@@ -1,0 +1,15 @@
+{
+  "title": "Happy Veggie House",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Ovo, Chinese, Fast food, Take-out\n                                    ",
+  "description": "Chinese food in a food court setting. Extensive menu with 100+ items, has 5 flavor of gluten for making vegetarian dishes. Uses egg so specify vegan dietary needs.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "109 – 303 Centre St SW",
+  "postalCode": "T2G 2B9",
+  "phone": "tel:587-955-8633",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=51.050222,-114.062744&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C51.050222,-114.062744&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

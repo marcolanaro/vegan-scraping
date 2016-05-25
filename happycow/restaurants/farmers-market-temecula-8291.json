@@ -1,0 +1,14 @@
+{
+  "title": "Farmer's Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "Old Town Temecula farmers market.",
+  "streetAddress": "6th St & Front St",
+  "postalCode": "92591",
+  "phone": "tel:760-728-7343",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Sat 8:00am-12:30pm\n                                                ",
+  "listingFeatures": [],
+  "fb": "http://www.facebook.com/oldtownfarmersmarket",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=33.495475,-117.151353&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C33.495475,-117.151353&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

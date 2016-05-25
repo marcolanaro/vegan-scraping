@@ -1,0 +1,12 @@
+{
+  "title": "Atlantic Superstore",
+  "tags": [
+    "Health Food Store"
+  ],
+  "description": "A grocery store with a large vegetarian & organic department.",
+  "streetAddress": "6139 Quinpool",
+  "phone": "tel:902-425-1498",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=44.646180,-63.594450&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C44.646180,-63.594450&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

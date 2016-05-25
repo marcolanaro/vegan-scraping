@@ -1,0 +1,18 @@
+{
+  "title": "La Taqueria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Offers tofu choice for your dish, plus beans and rice are vegan suitable.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6195 State Rt 31",
+  "postalCode": "13039",
+  "phone": "tel:315-699-7880",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=43.176702,-76.091734&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C43.176702,-76.091734&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

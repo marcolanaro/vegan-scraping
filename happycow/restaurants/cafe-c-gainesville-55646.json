@@ -1,0 +1,19 @@
+{
+  "title": "Cafe C",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Buffet, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Local cafe with an eclectic atmosphere. Offers buffet and menu with veg choices; uses egg and dairy. Staff knows the ingredients and can accommodate special requests.",
+  "priceRange": "Moderate",
+  "streetAddress": "424 NW 8th Ave",
+  "postalCode": "32601",
+  "phone": "tel:352-377-7433",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:00am-3:00pm, Sun 10:00am-3:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/cafecgnv",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.659591,-82.329681&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.659591,-82.329681&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

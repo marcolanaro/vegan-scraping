@@ -1,0 +1,19 @@
+{
+  "title": "Pyro Pizza - Food Truck",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Pizza, Take-out only, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizza food truck within Cartopia Food Pod. Has build-your-own with option for vegan cheese and vegan sausage. Garlic bread sticks with marinara and salad also vegan suitable. Makes its own natural fountain soda.",
+  "priceRange": "Moderate",
+  "streetAddress": "1207 SE Hawthorne Blvd",
+  "postalCode": "97214",
+  "phone": "tel:503-929-1404",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:30am-12:00am, Fri-Sat 11:30am-1:00am, Sun 11:30am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=45.512482,-122.653516&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C45.512482,-122.653516&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

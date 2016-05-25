@@ -1,0 +1,15 @@
+{
+  "title": "Burrito Grande",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Large burrito. Can get one with just beans, rice, avocado, and salsa; omit cheese and dairy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "5511 South 3500 West",
+  "postalCode": "84067",
+  "phone": "tel:801-776-9022",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=41.163502,-112.064435&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C41.163502,-112.064435&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Albion Farmers Market",
+  "tags": [
+    "Farmers' Market"
+  ],
+  "description": "At William R. Stoffer Memorial Plaza.",
+  "streetAddress": "211 Market Place",
+  "postalCode": "49224",
+  "phone": "tel:517-629-5533",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Wed 9:00am-1:00pm, Sat 9:00am-1:00pm\n                                                ",
+  "listingFeatures": [],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.244687,-84.752423&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.244687,-84.752423&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

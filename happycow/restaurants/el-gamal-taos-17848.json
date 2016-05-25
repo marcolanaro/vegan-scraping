@@ -1,0 +1,18 @@
+{
+  "title": "El Gamal",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Take-out, Middle Eastern\n                                    ",
+  "description": "At this location behind Taos Plaza since 2010; previously a food truck. Makes breakfast, soups, salads, pita sandwiches, and desserts.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "112 Dona Luz St",
+  "postalCode": "87517",
+  "phone": "tel:575-613-0311",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Wed 9:00am-5:00pm, Thu-Sat 9:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=36.407616,-105.575932&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C36.407616,-105.575932&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

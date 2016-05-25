@@ -1,0 +1,19 @@
+{
+  "title": "Nosh",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        American, Beer/Wine, Asian, Fusion, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Focus is on small meals, many of which are meant to be shared. Vegetarians and vegans have several choices including the Asian black bean dip, edamame, roasted cauliflower, house greens, citrus ginger, tofu bowl, double greens spicy bowl. Kitchen tries to accommodate requests.",
+  "priceRange": "Expensive",
+  "streetAddress": "121 S Tejon St 1F",
+  "postalCode": "80903",
+  "phone": "tel:719-634-6674",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri 11:00am-10:00pm, Sat 5:00pm-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=38.841342,-104.816278&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C38.841342,-104.816278&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

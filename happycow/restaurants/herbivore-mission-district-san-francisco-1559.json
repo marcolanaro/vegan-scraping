@@ -1,0 +1,19 @@
+{
+  "title": "Herbivore - Mission District",
+  "tags": [
+    "Vegan Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan, American, International, Organic, Juice bar, Beer/Wine, Take-out\n                                    ",
+  "description": "One of the two Herbivore vegan restaurants in San Francisco city; there is another one in Berkeley. Serves contemporary vegetarian cuisine for breakfast, lunch, and dinner. Wide range of offerings from fresh squeeze juices and pancakes to sandwiches, salads, main entrees, and cocktails. Breakfast served daily til 2pm. Casual, modern decor. Prices cheap to moderate.",
+  "priceRange": "Moderate",
+  "streetAddress": "983 Valencia St",
+  "postalCode": "94110",
+  "phone": "tel:415-826-5657",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-10:00pm, Fri-Sat 9:00am-11:00pm, Sun 9:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=37.757200,-122.421280&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C37.757200,-122.421280&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "OM Organics",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Organic, Juice bar, Take-out\n                                    ",
+  "description": "Vegetarian cafe serving light bites, gluten-free waffles, acai bowls, cold press juices.",
+  "priceRange": "Moderate",
+  "streetAddress": "201 E Main St",
+  "postalCode": "11743",
+  "phone": "tel:631-327-8094",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Call for hours - tell us\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.871979,-73.424246&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.871979,-73.424246&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

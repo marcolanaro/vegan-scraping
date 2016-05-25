@@ -1,0 +1,18 @@
+{
+  "title": "Felipe's Taqueria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Fast food, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Mexican eatery off of Claiborne. Assembly style where food is prepared in front of you as you order.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "6215 S Miro St",
+  "postalCode": "70125",
+  "phone": "tel:504-288-8226",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Tue 11:00am-10:00pm, Wed-Sat 11:00am-11:00pm, Sun 11:00am-10:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating"
+  ],
+  "fb": "http://www.facebook.com/Felipesnola",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=29.946768,-90.112924&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C29.946768,-90.112924&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

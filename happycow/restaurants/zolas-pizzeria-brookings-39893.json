@@ -1,0 +1,19 @@
+{
+  "title": "Zola's Pizzeria",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, American, Pizza, Beer/Wine, Delivery, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Very small and casual pizzeria. Has vegan cheese for fire oven pizzas and bread sticks. Selection of craft beer.",
+  "priceRange": "Moderate",
+  "streetAddress": "16362 Lower Harbor Rd",
+  "postalCode": "97415",
+  "phone": "tel:541-412-7100",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-8:00pm\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/zolaspizza",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=42.051604,-124.266626&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C42.051604,-124.266626&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

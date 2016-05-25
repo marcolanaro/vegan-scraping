@@ -1,0 +1,16 @@
+{
+  "title": "Pizzeria Algarve",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Lacto, Ovo, Fast food, Take-out, Pizzeria, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Pizza restaurant offering some vegan toppings including dairy-free cheese, veg pepperoni, chicken, ham, soya mince.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "Sandbackegatan 10 c, Malmö",
+  "phone": "tel:040-938516",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 3:00pm-9:00pm, Fri 3:00pm-10:00pm, Sat 1:30pm-10:00pm, Sun 1:30pm-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=55.609270,13.040210&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C55.609270,13.040210&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

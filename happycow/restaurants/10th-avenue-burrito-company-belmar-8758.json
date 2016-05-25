@@ -1,0 +1,18 @@
+{
+  "title": "10th Avenue Burrito Company",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, American, Take-out, Mexican, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Vegetarian choices include appetizers, avocado salad, black bean soup, bean/veggie/portabello burritos, veggie tacos, stew, and quesadillas. Uses dairy.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "801 Belmar Plaza",
+  "postalCode": "07719",
+  "phone": "tel:732-280-1515",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 11:00am-9:00pm, Fri-Sat 11:00am-10:00pm, Sun 11:00am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Cash only"
+  ],
+  "fb": "http://www.facebook.com/10thAveBurrito",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.180233,-74.026849&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.180233,-74.026849&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

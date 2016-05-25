@@ -1,0 +1,20 @@
+{
+  "title": "Sarah Street Grill",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Pizza, Beer/Wine, Take-out, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Restaurant and bar with live music, sushi bar, pizza, salads, burgers. Many veggie options including salads and sides; has a vegan burger and a pasta dish.",
+  "priceRange": "Moderate",
+  "streetAddress": "550 Quaker Alley",
+  "postalCode": "18360",
+  "phone": "tel:570-424-9120",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Sat 11:30am-2:00am, Sun 11:00am-2:00am\n                                                ",
+  "listingFeatures": [
+    "Outdoor seating",
+    "Wheelchair accessible",
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/SarahStreetGrill",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=40.987126,-75.192088&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C40.987126,-75.192088&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

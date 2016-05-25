@@ -1,0 +1,18 @@
+{
+  "title": "Christopher's Restaurant",
+  "tags": [
+    "Vegetarian-Friendly"
+  ],
+  "typeOfFood": "\n                                        Lacto, Ovo, American, Beer/Wine, Non-veg\n                                    ",
+  "description": "Serves meat, veg options available. Diner type menu with some ovo-lacto vegetarian food and a few vegan mains like the breakfast tofu scramble and dinner quinoa saute or teriyaki vegetables with choice of tofu.",
+  "priceRange": "Moderate",
+  "streetAddress": "2318 E Dorothy Ln",
+  "postalCode": "45420",
+  "phone": "tel:937-299-0089",
+  "venueHours": "\n                                                                                                        Mon-Sat 7:30am-9:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "fb": "http://www.facebook.com/christophersrestaurant",
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=39.701872,-84.120760&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C39.701872,-84.120760&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}

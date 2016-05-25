@@ -1,0 +1,17 @@
+{
+  "title": "Veggie Garden",
+  "tags": [
+    "Vegetarian Restaurant"
+  ],
+  "typeOfFood": "\n                                        Vegan-friendly, Take-out, Asian, Vietnamese\n                                    ",
+  "description": "Serves Vietnamese vegan and vegetarian cuisine. Menu features a signature soup broth which uses over eight kinds of fresh vegetables and fruit. Small and cozy, sit down for a quick bite or take food to-go.",
+  "priceRange": "Inexpensive",
+  "streetAddress": "1216 E Colonial Dr Ste 11",
+  "postalCode": "32803",
+  "phone": "tel:407-228-1740",
+  "venueHours": "\n                                                                                                            \n                                                                                                        Mon-Thu 9:00am-7:00pm, Sat-Sun 9:00am-7:00pm\n                                                ",
+  "listingFeatures": [
+    "Accepts credit cards"
+  ],
+  "gmaps": "http://maps.googleapis.com/maps/api/staticmap?center=28.553027,-81.363732&zoom=15&size=458x118&maptype=roadmap&markers=icon:http%3A%2F%2Fgoo.gl%2F1RDrbh%7Cshadow:true%7C28.553027,-81.363732&sensor=false&key=AIzaSyBrIo4v01Yet3zb6VunVdenxRtXWFnwfxk"
+}
